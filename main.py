@@ -1,8 +1,9 @@
 import requests
 from pyquery import PyQuery as pq
+import os.path
 import json
 import concurrent.futures
-
+import os.path
 
 def getWordList():
     URL = "https://raw.githubusercontent.com/dwyl/english-words/master/words_dictionary.json"
@@ -57,7 +58,12 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
-            fileName = "html/" + url+"".json";
+            fileName = "html/" + url+".json"
+            if os.path.isfile('filename.txt'):
+                print ("File exist")
+            else:
+                print ("File not exist")
+                
             html = future.result()
             with open("html/" + url+'.json', 'w+') as outfile:
                 json.dump(html, outfile)
