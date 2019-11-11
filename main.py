@@ -15,18 +15,19 @@ def getWordList():
 
 def getWordFromLaban(word):
     URL = "https://dict.laban.vn/find"
-
+    URL = "https://dict.laban.vn/ajax/find"  # ?type=1&query=history
     # defining a params dict for the parameters to be sent to the API
     PARAMS = {"type": 1, "query": word}
 
     # sending get request and saving the response as response object
     r = requests.get(url=URL, params=PARAMS)
-
+    return r.json()
     # extracting data in json format
-    data = r.text
-    html = pq(data)
-    # print(html("#column-content").html())
-    return html("#slide_show").html()
+    # data = r.text
+
+    # html = pq(data)
+    # # print(html("#column-content").html())
+    # return html("#slide_show").html()
 
 
 def getWord(word):
@@ -50,15 +51,15 @@ def getWord(word):
 
 words = getWordList()
 # print(getWordFromLaban("School"))
-with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words}
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
             html = future.result()
-            with open("html/" + url+'.html', 'w+') as outfile:
-                outfile.write(html)
+            with open("html/" + url+'.json', 'w+') as outfile:
+                json.dump(html, outfile)
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
         else:
