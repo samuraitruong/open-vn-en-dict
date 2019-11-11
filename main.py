@@ -57,6 +57,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
+            fileName = "html/" + url+'.json";
             html = future.result()
             with open("html/" + url+'.json', 'w+') as outfile:
                 json.dump(html, outfile)
