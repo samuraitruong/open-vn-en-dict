@@ -5,6 +5,7 @@ import json
 import concurrent.futures
 import os.path
 
+
 def getWordList():
     URL = "https://raw.githubusercontent.com/dwyl/english-words/master/words_dictionary.json"
     r = requests.get(url=URL)
@@ -59,14 +60,12 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
         url = future_to_url[future]
         try:
             fileName = "html/" + url+".json"
-            if os.path.isfile('filename.txt'):
-                print ("File exist")
+            if os.path.isfile(fileName):
+                print("Ignore ", url)
             else:
-                print ("File not exist")
-                
-            html = future.result()
-            with open("html/" + url+'.json', 'w+') as outfile:
-                json.dump(html, outfile)
+                html = future.result()
+                with open("html/" + url+'.json', 'w+') as outfile:
+                    json.dump(html, outfile)
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
         else:
