@@ -1,0 +1,152 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="world" style="border-bottom:#CCCCCC solid 1px">
+            
+                
+<div id="find_word_71" class="fl word_tab_title word_tab_title_0">
+    <h2 class="fl">abate <span class="color-black">/ə'beit/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_32" class="fl word_tab_title word_tab_title_1 hidden">
+    <h2 class="fl">abate <span class="color-black">/əˈbeɪt/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+            
+            <div class="fr tab slide_select">
+                
+                <a href="javascript:;" class="active av" rel="0">Anh-Việt</a>
+                
+                <a href="javascript:;" class=" mean" rel="1">Anh-Anh</a>
+                
+                <div class="clr"/>
+            </div>
+            
+            <div class="clr"/>
+        </div>
+        <div id="content_selectable" class="slide-content">
+            <ul class="slide_img" style="position:relative; overflow: hidden; ">
+                
+                <li class="slide_content " rel="0">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>Động từ</span></div>
+    
+    <div class="green bold margin25 m-top15">[làm] dịu, [làm] giảm bớt (gió, tiếng ồn, cơn đau …)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="ship" href="javascript:void(0);">ship</a> <a class="find_word" dict="1" rel="sailed" href="javascript:void(0);">sailed</a> <a class="find_word" dict="1" rel="when" href="javascript:void(0);">when</a> <a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="storm" href="javascript:void(0);">storm</a> <a class="find_word" dict="1" rel="had" href="javascript:void(0);">had</a> <a class="find_word" dict="1" rel="abated" href="javascript:void(0);">abated</a></div>
+    
+    <div class="margin25">con tàu giăng buồm khi cơn bão đã dịu đi</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="people" href="javascript:void(0);">people</a> <a class="find_word" dict="1" rel="are" href="javascript:void(0);">are</a> <a class="find_word" dict="1" rel="campaigning" href="javascript:void(0);">campaigning</a> <a class="find_word" dict="1" rel="to" href="javascript:void(0);">to</a> abate <a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="noise" href="javascript:void(0);">noise</a> <a class="find_word" dict="1" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="1" rel="our" href="javascript:void(0);">our</a> <a class="find_word" dict="1" rel="cities" href="javascript:void(0);">cities</a></div>
+    
+    <div class="margin25">người ta đang tham gia chiến dịch giảm bớt tiếng ồn ở trong các đô thị</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abate", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_71 .sp_uk").removeClass("hidden");
+                    $("#find_word_71 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abate", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_71 .sp_us").removeClass("hidden");
+                    $("#find_word_71 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=1&amp;query=abatement">abatement</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=Abatement+cost">Abatement cost</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=abater">abater</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="1">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>verb</span></div>
+    
+    <div class="">abates; abated; abating</div>
+    
+    <div class="green bold margin25 m-top15">[no obj] :to become weaker :to decrease in strength</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="we" href="javascript:void(0);">We</a> <a class="find_word" dict="3" rel="waited" href="javascript:void(0);">waited</a> <a class="find_word" dict="3" rel="for" href="javascript:void(0);">for</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="wind" href="javascript:void(0);">wind</a>/<a class="find_word" dict="3" rel="storm" href="javascript:void(0);">storm</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> abate.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="excitement" href="javascript:void(0);">excitement</a> <a class="find_word" dict="3" rel="has" href="javascript:void(0);">has</a> <a class="find_word" dict="3" rel="abated" href="javascript:void(0);">abated</a>.</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abate", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_32 .sp_uk").removeClass("hidden");
+                    $("#find_word_32 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abate", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_32 .sp_us").removeClass("hidden");
+                    $("#find_word_32 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    
+                </li>
+                
+            </ul>
+        </div>
+        
+    

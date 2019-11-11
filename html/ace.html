@@ -1,0 +1,228 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="world" style="border-bottom:#CCCCCC solid 1px">
+            
+                
+<div id="find_word_839" class="fl word_tab_title word_tab_title_0">
+    <h2 class="fl">ace <span class="color-black">/eis/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_206" class="fl word_tab_title word_tab_title_1 hidden">
+    <h2 class="fl">ace <span class="color-black">/ˈeɪs/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+            
+            <div class="fr tab slide_select">
+                
+                <a href="javascript:;" class="active av" rel="0">Anh-Việt</a>
+                
+                <a href="javascript:;" class=" mean" rel="1">Anh-Anh</a>
+                
+                <div class="clr"/>
+            </div>
+            
+            <div class="clr"/>
+        </div>
+        <div id="content_selectable" class="slide-content">
+            <ul class="slide_img" style="position:relative; overflow: hidden; ">
+                
+                <li class="slide_content " rel="0">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>Danh từ</span></div>
+    
+    <div class="green bold margin25 m-top15">quân át</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> ace <a class="find_word" dict="1" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="1" rel="spades" href="javascript:void(0);">spades</a></div>
+    
+    <div class="margin25">quân át pích</div>
+    
+    <div class="green bold margin25 m-top15">(khẩu ngữ) người xuất sắc (về môn gì đó)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="an" href="javascript:void(0);">an</a> ace <a class="find_word" dict="1" rel="pilot" href="javascript:void(0);">pilot</a></div>
+    
+    <div class="margin25">viên phi công xuất sắc</div>
+    
+    <div class="green bold margin25 m-top15">cú giao bóng thắng điểm (quần vợt)</div>
+    
+    <div class="bold dot-blue m-top15">[have] an ace up one's sleeve</div>
+    
+    <div class="color-light-grey margin25">(Mỹ [have] an ace in the hole) (khẩu ngữ)</div>
+    
+    <div class="grey bold margin25 m-top15">có món tủ (con chủ bài) còn để dành đấy chưa cho xuất trận</div>
+    
+    <div class="bold dot-blue m-top15">play one's ace</div>
+    
+    <div class="grey bold margin25 m-top15">sử dụng con chủ bài của mình</div>
+    
+    <div class="bold dot-blue m-top15">within an ace of something (doing something)</div>
+    
+    <div class="grey bold margin25 m-top15">rất gần với, sát nút với</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="he" href="javascript:void(0);">he</a> <a class="find_word" dict="1" rel="was" href="javascript:void(0);">was</a> <a class="find_word" dict="1" rel="within" href="javascript:void(0);">within</a> <a class="find_word" dict="1" rel="an" href="javascript:void(0);">an</a> ace <a class="find_word" dict="1" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="1" rel="death" href="javascript:void(0);">death</a></div>
+    
+    <div class="margin25">nó sát nút với cái chết, nó suýt nữa thì chết</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=ace", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_839 .sp_uk").removeClass("hidden");
+                    $("#find_word_839 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=ace", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_839 .sp_us").removeClass("hidden");
+                    $("#find_word_839 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=1&amp;query=acellular">acellular</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acentral">acentral</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acentric">acentric</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acephalous">acephalous</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acerate">acerate</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acerbate">acerbate</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acerbic">acerbic</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acerbically">acerbically</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=acerbity">acerbity</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="1">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>noun</span></div>
+    
+    <div class="">plural aces</div>
+    
+    <div class="green bold margin25 m-top15">[count] a playing card with one large figure in its center that can be the card with either the highest or lowest value</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> ace <a class="find_word" dict="3" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="3" rel="spades" href="javascript:void(0);">spades</a>/<a class="find_word" dict="3" rel="diamonds" href="javascript:void(0);">diamonds</a>/<a class="find_word" dict="3" rel="hearts" href="javascript:void(0);">hearts</a>/<a class="find_word" dict="3" rel="clubs" href="javascript:void(0);">clubs</a></div>
+    
+    <div class="green bold margin25 m-top15">a person who is very skilled at something</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="computer" href="javascript:void(0);">computer</a> ace</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> ace <a class="find_word" dict="3" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="team's" href="javascript:void(0);">team's</a> <a class="find_word" dict="3" rel="pitching" href="javascript:void(0);">pitching</a> <a class="find_word" dict="3" rel="staff" href="javascript:void(0);">staff</a> [=<a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="best" href="javascript:void(0);">best</a> <a class="find_word" dict="3" rel="pitcher" href="javascript:void(0);">pitcher</a> <a class="find_word" dict="3" rel="on" href="javascript:void(0);">on</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="team" href="javascript:void(0);">team</a>] - <a class="find_word" dict="3" rel="often" href="javascript:void(0);">often</a> <a class="find_word" dict="3" rel="used" href="javascript:void(0);">used</a> <a class="find_word" dict="3" rel="before" href="javascript:void(0);">before</a> <a class="find_word" dict="3" rel="another" href="javascript:void(0);">another</a> <a class="find_word" dict="3" rel="noun" href="javascript:void(0);">noun</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="an" href="javascript:void(0);">an</a> ace <a class="find_word" dict="3" rel="mechanic" href="javascript:void(0);">mechanic</a>/<a class="find_word" dict="3" rel="reporter" href="javascript:void(0);">reporter</a></div>
+    
+    <div class="green bold margin25 m-top15">a point scored on a serve that an opponent fails to hit in tennis</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="she" href="javascript:void(0);">She</a> <a class="find_word" dict="3" rel="won" href="javascript:void(0);">won</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="match" href="javascript:void(0);">match</a> <a class="find_word" dict="3" rel="by" href="javascript:void(0);">by</a> <a class="find_word" dict="3" rel="scoring" href="javascript:void(0);">scoring</a> <a class="find_word" dict="3" rel="more" href="javascript:void(0);">more</a> <a class="find_word" dict="3" rel="than" href="javascript:void(0);">than</a> 30 <a class="find_word" dict="3" rel="aces" href="javascript:void(0);">aces</a>.</div>
+    
+    <div class="green bold margin25 m-top15">US :a score of one on a hole in golf :hole in one</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="got" href="javascript:void(0);">got</a>/<a class="find_word" dict="3" rel="shot" href="javascript:void(0);">shot</a>/<a class="find_word" dict="3" rel="scored" href="javascript:void(0);">scored</a> <a class="find_word" dict="3" rel="an" href="javascript:void(0);">an</a> ace <a class="find_word" dict="3" rel="on" href="javascript:void(0);">on</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="eighth" href="javascript:void(0);">eighth</a> <a class="find_word" dict="3" rel="hole" href="javascript:void(0);">hole</a>.</div>
+    
+    <div class="bold dot-blue m-top15">an ace in the hole</div>
+    
+    <div class="grey bold margin25 m-top15">US or chiefly Brit an ace up your sleeve</div>
+    
+    <div class="grey bold margin25 m-top15">If you have an ace in the hole or an ace up your sleeve, you have a powerful and often secret weapon, advantage, etc., that you can use if it is needed.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="mayor's" href="javascript:void(0);">mayor's</a> <a class="find_word" dict="3" rel="popularity" href="javascript:void(0);">popularity</a> <a class="find_word" dict="3" rel="among" href="javascript:void(0);">among</a> <a class="find_word" dict="3" rel="elderly" href="javascript:void(0);">elderly</a> <a class="find_word" dict="3" rel="voters" href="javascript:void(0);">voters</a> <a class="find_word" dict="3" rel="gives" href="javascript:void(0);">gives</a> <a class="find_word" dict="3" rel="him" href="javascript:void(0);">him</a> <a class="find_word" dict="3" rel="an" href="javascript:void(0);">an</a> ace <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="hole" href="javascript:void(0);">hole</a> <a class="find_word" dict="3" rel="for" href="javascript:void(0);">for</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="coming" href="javascript:void(0);">coming</a> <a class="find_word" dict="3" rel="election" href="javascript:void(0);">election</a>.</div>
+    
+    <div class="bold dot-blue m-top15">hold all the aces</div>
+    
+    <div class="grey bold margin25 m-top15">to have a strong advantage over others in a contest, competition, etc.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="as" href="javascript:void(0);">As</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="strike" href="javascript:void(0);">strike</a> <a class="find_word" dict="3" rel="continues" href="javascript:void(0);">continues</a> <a class="find_word" dict="3" rel="into" href="javascript:void(0);">into</a> <a class="find_word" dict="3" rel="its" href="javascript:void(0);">its</a> <a class="find_word" dict="3" rel="second" href="javascript:void(0);">second</a> <a class="find_word" dict="3" rel="week" href="javascript:void(0);">week</a>, <a class="find_word" dict="3" rel="it" href="javascript:void(0);">it</a> <a class="find_word" dict="3" rel="appears" href="javascript:void(0);">appears</a> <a class="find_word" dict="3" rel="that" href="javascript:void(0);">that</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="company" href="javascript:void(0);">company</a> <a class="find_word" dict="3" rel="holds" href="javascript:void(0);">holds</a> <a class="find_word" dict="3" rel="all" href="javascript:void(0);">all</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="aces" href="javascript:void(0);">aces</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="its" href="javascript:void(0);">its</a> <a class="find_word" dict="3" rel="negotiations" href="javascript:void(0);">negotiations</a> <a class="find_word" dict="3" rel="with" href="javascript:void(0);">with</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="strikers" href="javascript:void(0);">strikers</a>.</div>
+    
+    <div class="bold dot-blue m-top15">within an ace of</div>
+    
+    <div class="grey bold margin25 m-top15">informal :very near to (doing something)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="they" href="javascript:void(0);">They</a> <a class="find_word" dict="3" rel="were" href="javascript:void(0);">were</a>/<a class="find_word" dict="3" rel="came" href="javascript:void(0);">came</a> <a class="find_word" dict="3" rel="within" href="javascript:void(0);">within</a> <a class="find_word" dict="3" rel="an" href="javascript:void(0);">an</a> ace <a class="find_word" dict="3" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="3" rel="winning" href="javascript:void(0);">winning</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="championship" href="javascript:void(0);">championship</a>. [=<a class="find_word" dict="3" rel="they" href="javascript:void(0);">they</a> <a class="find_word" dict="3" rel="almost" href="javascript:void(0);">almost</a> <a class="find_word" dict="3" rel="won" href="javascript:void(0);">won</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="championship" href="javascript:void(0);">championship</a>]</div>
+    
+    <div class="bg-grey bold font-large m-top20"><span>verb</span></div>
+    
+    <div class="">aces; aced; acing</div>
+    
+    <div class="green bold margin25 m-top15">[+ obj] US informal :to earn a very high grade on (an examination) :to get a grade of A on (an examination)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="aced" href="javascript:void(0);">aced</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="test" href="javascript:void(0);">test</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="she" href="javascript:void(0);">She</a> <a class="find_word" dict="3" rel="aced" href="javascript:void(0);">aced</a> <a class="find_word" dict="3" rel="her" href="javascript:void(0);">her</a> <a class="find_word" dict="3" rel="entrance" href="javascript:void(0);">entrance</a> <a class="find_word" dict="3" rel="exams" href="javascript:void(0);">exams</a>. :<a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="perform" href="javascript:void(0);">perform</a> <a class="find_word" dict="3" rel="very" href="javascript:void(0);">very</a> <a class="find_word" dict="3" rel="well" href="javascript:void(0);">well</a> <a class="find_word" dict="3" rel="on" href="javascript:void(0);">on</a> (<a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="test" href="javascript:void(0);">test</a> <a class="find_word" dict="3" rel="or" href="javascript:void(0);">or</a> <a class="find_word" dict="3" rel="challenge" href="javascript:void(0);">challenge</a>)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="aced" href="javascript:void(0);">aced</a> <a class="find_word" dict="3" rel="his" href="javascript:void(0);">his</a> <a class="find_word" dict="3" rel="annual" href="javascript:void(0);">annual</a> <a class="find_word" dict="3" rel="physical" href="javascript:void(0);">physical</a>.</div>
+    
+    <div class="green bold margin25 m-top15">to score an ace against (an opponent in tennis)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="aced" href="javascript:void(0);">aced</a> <a class="find_word" dict="3" rel="his" href="javascript:void(0);">his</a> <a class="find_word" dict="3" rel="opponent" href="javascript:void(0);">opponent</a> <a class="find_word" dict="3" rel="on" href="javascript:void(0);">on</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="last" href="javascript:void(0);">last</a> <a class="find_word" dict="3" rel="point" href="javascript:void(0);">point</a> <a class="find_word" dict="3" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="match" href="javascript:void(0);">match</a>.</div>
+    
+    <div class="green bold margin25 m-top15">US :to score an ace on (a hole in golf)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="she" href="javascript:void(0);">She</a> <a class="find_word" dict="3" rel="aced" href="javascript:void(0);">aced</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> 14<a class="find_word" dict="3" rel="th" href="javascript:void(0);">th</a> <a class="find_word" dict="3" rel="hole" href="javascript:void(0);">hole</a>. [=<a class="find_word" dict="3" rel="she" href="javascript:void(0);">she</a> <a class="find_word" dict="3" rel="had" href="javascript:void(0);">had</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="hole" href="javascript:void(0);">hole</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="one" href="javascript:void(0);">one</a> <a class="find_word" dict="3" rel="on" href="javascript:void(0);">on</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> 14<a class="find_word" dict="3" rel="th" href="javascript:void(0);">th</a> <a class="find_word" dict="3" rel="hole" href="javascript:void(0);">hole</a>]</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=ace", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_206 .sp_uk").removeClass("hidden");
+                    $("#find_word_206 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=ace", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_206 .sp_us").removeClass("hidden");
+                    $("#find_word_206 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=3&amp;query=acerbic">acerbic</a>, <a style="color:#1198B6" href="/find?type=3&amp;query=acetaminophen">acetaminophen</a>, <a style="color:#1198B6" href="/find?type=3&amp;query=acetylene">acetylene</a></span><br/>
+                </li>
+                
+            </ul>
+        </div>
+        
+    

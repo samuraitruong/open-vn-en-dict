@@ -1,0 +1,260 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="world" style="border-bottom:#CCCCCC solid 1px">
+            
+                
+<div id="find_word_233" class="fl word_tab_title word_tab_title_0">
+    <h2 class="fl">abominable <span class="color-black">/ə'bɒminəbl/</span>  <span class="color-orange">/ə'bɒminəbl/</span></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_71" class="fl word_tab_title word_tab_title_1 hidden">
+    <h2 class="fl">abominable <span class="color-black">/əˈbɑːmənəbəl/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_22" class="fl word_tab_title word_tab_title_2 hidden">
+    <h2 class="fl">abominable <span class="color-black"/>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+            
+            <div class="fr tab slide_select">
+                
+                <a href="javascript:;" class="active av" rel="0">Anh-Việt</a>
+                
+                <a href="javascript:;" class="" rel="1">Anh-Anh</a>
+                
+                <a href="javascript:;" class=" mean" rel="2">Đồng nghĩa</a>
+                
+                <div class="clr"/>
+            </div>
+            
+            <div class="clr"/>
+        </div>
+        <div id="content_selectable" class="slide-content">
+            <ul class="slide_img" style="position:relative; overflow: hidden; ">
+                
+                <li class="slide_content " rel="0">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>Tính từ</span></div>
+    
+    <div class="green bold margin25 m-top15">(+ to) làm ghê tởm</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="your" href="javascript:void(0);">your</a> <a class="find_word" dict="1" rel="behaviour" href="javascript:void(0);">behaviour</a> <a class="find_word" dict="1" rel="is" href="javascript:void(0);">is</a> abominable <a class="find_word" dict="1" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="1" rel="me" href="javascript:void(0);">me</a></div>
+    
+    <div class="margin25">cách đối xử của anh làm tôi ghê tởm</div>
+    
+    <div class="green bold margin25 m-top15">tồi tệ</div>
+    
+    <div class="color-light-blue margin25 m-top15">abominable <a class="find_word" dict="1" rel="weather" href="javascript:void(0);">weather</a></div>
+    
+    <div class="margin25">thời tiết tồi tệ</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abominable", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_233 .sp_uk").removeClass("hidden");
+                    $("#find_word_233 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abominable", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_233 .sp_us").removeClass("hidden");
+                    $("#find_word_233 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=1&amp;query=Abominable+Snowman">Abominable Snowman</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=abominableness">abominableness</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="1">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>adjective</span></div>
+    
+    <div class="green bold margin25 m-top15">[more ~; most ~] formal :very bad or unpleasant</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="it" href="javascript:void(0);">It</a> <a class="find_word" dict="3" rel="was" href="javascript:void(0);">was</a> <a class="find_word" dict="3" rel="an" href="javascript:void(0);">an</a> abominable <a class="find_word" dict="3" rel="crime" href="javascript:void(0);">crime</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="we" href="javascript:void(0);">We</a> <a class="find_word" dict="3" rel="had" href="javascript:void(0);">had</a> abominable [=<a class="find_word" dict="3" rel="terrible" href="javascript:void(0);">terrible</a>] <a class="find_word" dict="3" rel="weather" href="javascript:void(0);">weather</a> <a class="find_word" dict="3" rel="all" href="javascript:void(0);">all</a> <a class="find_word" dict="3" rel="week" href="javascript:void(0);">week</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="his" href="javascript:void(0);">His</a> <a class="find_word" dict="3" rel="behavior" href="javascript:void(0);">behavior</a> <a class="find_word" dict="3" rel="was" href="javascript:void(0);">was</a> abominable.</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abominable", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_71 .sp_uk").removeClass("hidden");
+                    $("#find_word_71 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abominable", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_71 .sp_us").removeClass("hidden");
+                    $("#find_word_71 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=3&amp;query=abominable+snowman">abominable snowman</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="2">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>adjective</span></div>
+    
+    <div class="green bold margin25 m-top15">He was accused of crimes too abominable to detail in open court</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=offensive">offensive</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=repugnant">repugnant</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=repulsive">repulsive</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=vile">vile</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=monstrous">monstrous</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=loathsome">loathsome</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=odious">odious</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=execrable">execrable</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=detestable">detestable</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=despicable">despicable</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=base">base</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=disgusting">disgusting</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=nauseous">nauseous</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=nauseating">nauseating</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=foul">foul</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=abhorrent">abhorrent</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=horrid">horrid</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=deplorable">deplorable</a></div>
+    
+    <div class="green bold margin25 m-top15">No one wants to go out in this abominable weather. The d‚cor in this hotel is simply abominable</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=terrible">terrible</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=unpleasant">unpleasant</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=disagreeable">disagreeable</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=awful">awful</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=distasteful">distasteful</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=in">in</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=bad">bad</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=taste">taste</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=horrible">horrible</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=frightful">frightful</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=colloq">Colloq</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=brit">Brit</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=beastly">beastly</a></div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abominable", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_22 .sp_uk").removeClass("hidden");
+                    $("#find_word_22 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abominable", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_22 .sp_us").removeClass("hidden");
+                    $("#find_word_22 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    
+                </li>
+                
+            </ul>
+        </div>
+        
+    

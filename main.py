@@ -49,17 +49,17 @@ def getWord(word):
 
 
 words = getWordList()
-print(getWordFromLaban("School"))
-# with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
-#     future_to_url = {executor.submit(
-#         getWordFromLaban, key): key for key in words}
-#     for future in concurrent.futures.as_completed(future_to_url):
-#         url = future_to_url[future]
-#         try:
-#             html = future.result()
-#             with open("html/" + url+'.html', 'w+') as outfile:
-#                 outfile.write(html)
-#         except Exception as exc:
-#             print('%r generated an exception: %s' % (url, exc))
-#         else:
-#             print('%r page is %d bytes' % (url, len(html)))
+# print(getWordFromLaban("School"))
+with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+    future_to_url = {executor.submit(
+        getWordFromLaban, key): key for key in words}
+    for future in concurrent.futures.as_completed(future_to_url):
+        url = future_to_url[future]
+        try:
+            html = future.result()
+            with open("html/" + url+'.html', 'w+') as outfile:
+                outfile.write(html)
+        except Exception as exc:
+            print('%r generated an exception: %s' % (url, exc))
+        else:
+            print('%r page is %d bytes' % (url, len(html)))

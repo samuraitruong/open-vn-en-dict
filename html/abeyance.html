@@ -1,0 +1,240 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="world" style="border-bottom:#CCCCCC solid 1px">
+            
+                
+<div id="find_word_129" class="fl word_tab_title word_tab_title_0">
+    <h2 class="fl">abeyance <span class="color-black">/ə'beiəns/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_48" class="fl word_tab_title word_tab_title_1 hidden">
+    <h2 class="fl">abeyance <span class="color-black">/əˈbejəns/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_9" class="fl word_tab_title word_tab_title_2 hidden">
+    <h2 class="fl">abeyance <span class="color-black"/>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+            
+            <div class="fr tab slide_select">
+                
+                <a href="javascript:;" class="active av" rel="0">Anh-Việt</a>
+                
+                <a href="javascript:;" class="" rel="1">Anh-Anh</a>
+                
+                <a href="javascript:;" class=" mean" rel="2">Đồng nghĩa</a>
+                
+                <div class="clr"/>
+            </div>
+            
+            <div class="clr"/>
+        </div>
+        <div id="content_selectable" class="slide-content">
+            <ul class="slide_img" style="position:relative; overflow: hidden; ">
+                
+                <li class="slide_content " rel="0">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>Danh từ</span></div>
+    
+    <div class="bold dot-blue m-top15">be in abeyance;fall (go) into abeyance</div>
+    
+    <div class="grey bold margin25 m-top15">bị đình chỉ;tạm thời không áp dụng</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="this" href="javascript:void(0);">this</a> <a class="find_word" dict="1" rel="law" href="javascript:void(0);">law</a> <a class="find_word" dict="1" rel="falls" href="javascript:void(0);">falls</a> <a class="find_word" dict="1" rel="into" href="javascript:void(0);">into</a> abeyance <a class="find_word" dict="1" rel="when" href="javascript:void(0);">when</a> <a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="country's" href="javascript:void(0);">country's</a> <a class="find_word" dict="1" rel="security" href="javascript:void(0);">security</a> <a class="find_word" dict="1" rel="is" href="javascript:void(0);">is</a> <a class="find_word" dict="1" rel="threatened" href="javascript:void(0);">threatened</a></div>
+    
+    <div class="margin25">luật này tạm thời không áp dụng khi mà an ninh quốc qua đang bị đe dọa</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abeyance", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_129 .sp_uk").removeClass("hidden");
+                    $("#find_word_129 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abeyance", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_129 .sp_us").removeClass("hidden");
+                    $("#find_word_129 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    
+                </li>
+                
+                <li class="slide_content hidden" rel="1">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>noun</span></div>
+    
+    <div class="bold dot-blue m-top15">in abeyance</div>
+    
+    <div class="grey bold margin25 m-top15">formal :in a temporary state of being stopped</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="plans" href="javascript:void(0);">plans</a> <a class="find_word" dict="3" rel="are" href="javascript:void(0);">are</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> abeyance. = <a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="plans" href="javascript:void(0);">plans</a> <a class="find_word" dict="3" rel="are" href="javascript:void(0);">are</a> <a class="find_word" dict="3" rel="being" href="javascript:void(0);">being</a> <a class="find_word" dict="3" rel="held" href="javascript:void(0);">held</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> abeyance. [=<a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="plans" href="javascript:void(0);">plans</a> <a class="find_word" dict="3" rel="are" href="javascript:void(0);">are</a> <a class="find_word" dict="3" rel="not" href="javascript:void(0);">not</a> <a class="find_word" dict="3" rel="now" href="javascript:void(0);">now</a> <a class="find_word" dict="3" rel="being" href="javascript:void(0);">being</a> <a class="find_word" dict="3" rel="used" href="javascript:void(0);">used</a>]</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abeyance", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_48 .sp_uk").removeClass("hidden");
+                    $("#find_word_48 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abeyance", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_48 .sp_us").removeClass("hidden");
+                    $("#find_word_48 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    
+                </li>
+                
+                <li class="slide_content hidden" rel="2">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>noun</span></div>
+    
+    <div class="green bold margin25 m-top15">Legal proceedings were held in abeyance so that talks could take place to reach an out-of-court settlement</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=in">in</a> abeyance</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=pending">pending</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=abeyant">abeyant</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=reserved">reserved</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=in">in</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=reserve">reserve</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=shelved">shelved</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=pushed">pushed</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=or">or</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=shoved">shoved</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=or">or</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=shunted">shunted</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=aside">aside</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=postponed">postponed</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=put">put</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=off">off</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=suspended">suspended</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=us">US</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=tabled">tabled</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=temporarily">temporarily</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=inactive">inactive</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=dormant">dormant</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=latent">latent</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=colloq">Colloq</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=in">in</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=a">a</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=holding">holding</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=pattern">pattern</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=on">on</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=the">the</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=back">back</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=burner">burner</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=slang">Slang</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=on">on</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=hold">hold</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=in">in</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=the">the</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=deep-freeze">deep-freeze</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=on">on</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=the">the</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=shelf">shelf</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=on">on</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=ice">ice</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=hanging">hanging</a> <a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=fire">fire</a></div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=abeyance", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_9 .sp_uk").removeClass("hidden");
+                    $("#find_word_9 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=abeyance", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_9 .sp_us").removeClass("hidden");
+                    $("#find_word_9 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    
+                </li>
+                
+            </ul>
+        </div>
+        
+    

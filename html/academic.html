@@ -1,0 +1,278 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="world" style="border-bottom:#CCCCCC solid 1px">
+            
+                
+<div id="find_word_525" class="fl word_tab_title word_tab_title_0">
+    <h2 class="fl">academic <span class="color-black">/,ækə'demik/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_139" class="fl word_tab_title word_tab_title_1 hidden">
+    <h2 class="fl">academic <span class="color-black">/ˌækəˈdɛmɪk/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_50" class="fl word_tab_title word_tab_title_2 hidden">
+    <h2 class="fl">academic <span class="color-black"/>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+            
+            <div class="fr tab slide_select">
+                
+                <a href="javascript:;" class="active av" rel="0">Anh-Việt</a>
+                
+                <a href="javascript:;" class="" rel="1">Anh-Anh</a>
+                
+                <a href="javascript:;" class=" mean" rel="2">Đồng nghĩa</a>
+                
+                <div class="clr"/>
+            </div>
+            
+            <div class="clr"/>
+        </div>
+        <div id="content_selectable" class="slide-content">
+            <ul class="slide_img" style="position:relative; overflow: hidden; ">
+                
+                <li class="slide_content " rel="0">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>Tính từ</span></div>
+    
+    <div class="green bold margin25 m-top15">[thuộc việc dạy và học ở] học viện</div>
+    
+    <div class="color-light-blue margin25 m-top15">academic <a class="find_word" dict="1" rel="year" href="javascript:void(0);">year</a></div>
+    
+    <div class="margin25">năm học</div>
+    
+    <div class="green bold margin25 m-top15">kinh viện</div>
+    
+    <div class="color-light-blue margin25 m-top15">academic <a class="find_word" dict="1" rel="subjects" href="javascript:void(0);">subjects</a></div>
+    
+    <div class="margin25">những môn học có tính chất kinh viện</div>
+    
+    <div class="green bold margin25 m-top15">chỉ có giá trị lý thuyết</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="question" href="javascript:void(0);">question</a> <a class="find_word" dict="1" rel="is" href="javascript:void(0);">is</a> <a class="find_word" dict="1" rel="purely" href="javascript:void(0);">purely</a> academic</div>
+    
+    <div class="margin25">vấn đề hoàn toàn lý thuyết</div>
+    
+    <div class="bg-grey bold font-large m-top20"><span>Danh từ</span></div>
+    
+    <div class="green bold margin25 m-top15">giảng viên đại học</div>
+    
+    <div class="green bold margin25 m-top15">nhà kinh viện</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=academic", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_525 .sp_uk").removeClass("hidden");
+                    $("#find_word_525 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=academic", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_525 .sp_us").removeClass("hidden");
+                    $("#find_word_525 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=1&amp;query=academical">academical</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=academically">academically</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=academicals">academicals</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=academician">academician</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="1">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>adjective</span></div>
+    
+    <div class="green bold margin25 m-top15">usually used before a noun :of or relating to schools and education</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="she" href="javascript:void(0);">She</a> <a class="find_word" dict="3" rel="received" href="javascript:void(0);">received</a> <a class="find_word" dict="3" rel="awards" href="javascript:void(0);">awards</a> <a class="find_word" dict="3" rel="for" href="javascript:void(0);">for</a> <a class="find_word" dict="3" rel="her" href="javascript:void(0);">her</a> academic <a class="find_word" dict="3" rel="achievements" href="javascript:void(0);">achievements</a>/<a class="find_word" dict="3" rel="accomplishments" href="javascript:void(0);">accomplishments</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="i" href="javascript:void(0);">I</a> <a class="find_word" dict="3" rel="spent" href="javascript:void(0);">spent</a> <a class="find_word" dict="3" rel="my" href="javascript:void(0);">my</a> academic <a class="find_word" dict="3" rel="career" href="javascript:void(0);">career</a> <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="one" href="javascript:void(0);">one</a> <a class="find_word" dict="3" rel="school" href="javascript:void(0);">school</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="board" href="javascript:void(0);">board</a> <a class="find_word" dict="3" rel="set" href="javascript:void(0);">set</a> <a class="find_word" dict="3" rel="tough" href="javascript:void(0);">tough</a> academic <a class="find_word" dict="3" rel="standards" href="javascript:void(0);">standards</a> <a class="find_word" dict="3" rel="for" href="javascript:void(0);">for</a> <a class="find_word" dict="3" rel="graduation" href="javascript:void(0);">graduation</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="was" href="javascript:void(0);">was</a> <a class="find_word" dict="3" rel="offered" href="javascript:void(0);">offered</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="teaching" href="javascript:void(0);">teaching</a> <a class="find_word" dict="3" rel="job" href="javascript:void(0);">job</a> <a class="find_word" dict="3" rel="and" href="javascript:void(0);">and</a> <a class="find_word" dict="3" rel="decided" href="javascript:void(0);">decided</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="return" href="javascript:void(0);">return</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> academic <a class="find_word" dict="3" rel="life" href="javascript:void(0);">life</a>.</div>
+    
+    <div class="green bold margin25 m-top15">having no practical importance :not involving or relating to anything real or practical</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="his" href="javascript:void(0);">His</a> <a class="find_word" dict="3" rel="interest" href="javascript:void(0);">interest</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="sailing" href="javascript:void(0);">sailing</a> <a class="find_word" dict="3" rel="is" href="javascript:void(0);">is</a> <a class="find_word" dict="3" rel="purely" href="javascript:void(0);">purely</a> academic. <a class="find_word" dict="3" rel="he's" href="javascript:void(0);">He's</a> <a class="find_word" dict="3" rel="not" href="javascript:void(0);">not</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="sailor" href="javascript:void(0);">sailor</a> <a class="find_word" dict="3" rel="himself" href="javascript:void(0);">himself</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="it" href="javascript:void(0);">It</a> <a class="find_word" dict="3" rel="was" href="javascript:void(0);">was</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="question" href="javascript:void(0);">question</a> <a class="find_word" dict="3" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="3" rel="only" href="javascript:void(0);">only</a> academic [=<a class="find_word" dict="3" rel="theoretical" href="javascript:void(0);">theoretical</a>] <a class="find_word" dict="3" rel="interest" href="javascript:void(0);">interest</a>.</div>
+    
+    <div class="green bold margin25 m-top15">[more ~; most ~] chiefly Brit :good at studying and at passing exams :good at academics</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he's" href="javascript:void(0);">He's</a> <a class="find_word" dict="3" rel="not" href="javascript:void(0);">not</a> <a class="find_word" dict="3" rel="very" href="javascript:void(0);">very</a> academic, <a class="find_word" dict="3" rel="but" href="javascript:void(0);">but</a> <a class="find_word" dict="3" rel="he's" href="javascript:void(0);">he's</a> <a class="find_word" dict="3" rel="good" href="javascript:void(0);">good</a> <a class="find_word" dict="3" rel="with" href="javascript:void(0);">with</a> <a class="find_word" dict="3" rel="his" href="javascript:void(0);">his</a> <a class="find_word" dict="3" rel="hands" href="javascript:void(0);">hands</a>.</div>
+    
+    <div class="bg-grey bold font-large m-top20"><span>noun</span></div>
+    
+    <div class="">plural -ics</div>
+    
+    <div class="green bold margin25 m-top15">[count] :a person who is a teacher in a college or university</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="book" href="javascript:void(0);">book</a> <a class="find_word" dict="3" rel="appeals" href="javascript:void(0);">appeals</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="academics" href="javascript:void(0);">academics</a> <a class="find_word" dict="3" rel="and" href="javascript:void(0);">and</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="general" href="javascript:void(0);">general</a> <a class="find_word" dict="3" rel="public" href="javascript:void(0);">public</a>.</div>
+    
+    <div class="green bold margin25 m-top15">academics [plural] chiefly US :courses of study taken at a school or college</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="she" href="javascript:void(0);">She</a> <a class="find_word" dict="3" rel="excelled" href="javascript:void(0);">excelled</a> <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="academics" href="javascript:void(0);">academics</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="only" href="javascript:void(0);">only</a> <a class="find_word" dict="3" rel="cares" href="javascript:void(0);">cares</a> <a class="find_word" dict="3" rel="about" href="javascript:void(0);">about</a> <a class="find_word" dict="3" rel="sports" href="javascript:void(0);">sports</a>. <a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="has" href="javascript:void(0);">has</a> <a class="find_word" dict="3" rel="no" href="javascript:void(0);">no</a> <a class="find_word" dict="3" rel="interest" href="javascript:void(0);">interest</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="academics" href="javascript:void(0);">academics</a>.</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=academic", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_139 .sp_uk").removeClass("hidden");
+                    $("#find_word_139 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=academic", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_139 .sp_us").removeClass("hidden");
+                    $("#find_word_139 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=3&amp;query=academic+year">academic year</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="2">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>adjective</span></div>
+    
+    <div class="green bold margin25 m-top15">Green's academic background qualifies him for the professorship. The university began publishing academic journals in the 19th century</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=scholastic">scholastic</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=collegiate">collegiate</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=scholarly">scholarly</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=learned">learned</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=lettered">lettered</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=erudite">erudite</a></div>
+    
+    <div class="green bold margin25 m-top15">The car doesn't run, so the question of miles per gallon is purely academic</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=theoretical">theoretical</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=hypothetical">hypothetical</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=conjectural">conjectural</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=speculative">speculative</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=abstract">abstract</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=ivory-tower">ivory-tower</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=visionary">visionary</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=idealistic">idealistic</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=impractical">impractical</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=unrealistic">unrealistic</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a target="_blank" href="https://dict.laban.vn/find?type=1&amp;query=unpractical">unpractical</a></div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=academic", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_50 .sp_uk").removeClass("hidden");
+                    $("#find_word_50 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=academic", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_50 .sp_us").removeClass("hidden");
+                    $("#find_word_50 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    
+                </li>
+                
+            </ul>
+        </div>
+        
+    

@@ -1,0 +1,54 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        <div id="word_not_found" class="hidden">
+            <div class="color-black" style="font-size: 18px">Chúng tôi không tìm thấy từ mà bạn yêu cầu.</div>
+        </div>
+        <div id="wikipedia_content" class="content hidden">
+            <div class="world" style="border-bottom:#CCCCCC solid 1px">
+                <h2 class="color-light-blue">Kết quả tìm kiếm từ Wikipedia</h2>
+            </div>
+            <div class="wikipedia_result"/>
+        </div>
+        <script type="text/javascript">
+            $.getJSON("https://vi.wikipedia.org/w/api.php?action=opensearch&amp;callback=?&amp;limit=5&amp;search="+encodeURIComponent("abdaria"), function(data){
+               if(data!=null){
+                    if(data.length == 4){
+                        var rsTitle = data[1];
+                        var rsDetail = data[2];
+                        var rsUrl = data[3];
+                        var html = "";
+                        var rsLength = rsTitle.length;
+                        if(rsLength &gt; 0){
+                            for(var i=0; i&lt;rsLength; i++)
+                                html += "&lt;a target=\"_blank\" href=\""+rsUrl[i]+"\" &gt;&lt;span class=\"color-blue\"&gt;"+rsTitle[i]+"&lt;/span&gt;&lt;br&gt;&lt;span&gt;"+rsDetail[i]+"&lt;/span&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;";
+                            $("#wikipedia_content .wikipedia_result").html(html);
+                            $("#wikipedia_content").removeClass("hidden");
+                            return;
+                        }
+                        
+                    }
+                }
+                $("#word_not_found").removeClass("hidden");
+            });
+        </script>
+        
+        
+    

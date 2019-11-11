@@ -1,0 +1,208 @@
+
+        <div class="app">
+            <div style="margin-bottom:15px;">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_app.jpg" width="70" height="69" class="fl"/>
+                <div class="info_app">
+                    <h3>Laban Dictionary trên mobile</h3>
+                    <a href="http://l.123c.vn/d/labandic_dictweb"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                </div>
+                <div class="clr"/>
+            </div>
+            <div id="extension_recommend_download" style="display: none">
+                <img src="https://stc-laban.zdn.vn/dictionary/images/img_extension.jpg" width="65" height="60" class="fl"/>
+                <div class="info_app">
+                    <h3>Extension Laban Dictionary</h3>
+                    <a href="https://chrome.google.com/webstore/detail/laban-dictionary-by-laban/kdoofkpcjhkbhedgkdbagobockcmeoeb" target="_blank"><img src="https://stc-laban.zdn.vn/dictionary/images/ic_download.png" width="69" height="18"/></a>
+                    <div class="clr"/>
+                </div>
+            </div>
+        </div>
+        
+        
+        <div class="world" style="border-bottom:#CCCCCC solid 1px">
+            
+                
+<div id="find_word_630" class="fl word_tab_title word_tab_title_0">
+    <h2 class="fl">access <span class="color-black">/'ækses/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+                
+<div id="find_word_154" class="fl word_tab_title word_tab_title_1 hidden">
+    <h2 class="fl">access <span class="color-black">/ˈækˌsɛs/</span>  <span class="color-orange"/></h2>
+    <div class="fl">
+        <a class="sp_uk hidden" title="" href="javascript:;">Đọc giọng UK</a>
+        <a class="sp_us hidden" title="" href="javascript:;">Đọc giọng US</a>
+        <span id="sound"/>
+        <div class="clr"/>
+    </div>
+    <div class="clr"/>
+</div>
+
+            
+            
+            <div class="fr tab slide_select">
+                
+                <a href="javascript:;" class="active av" rel="0">Anh-Việt</a>
+                
+                <a href="javascript:;" class=" mean" rel="1">Anh-Anh</a>
+                
+                <div class="clr"/>
+            </div>
+            
+            <div class="clr"/>
+        </div>
+        <div id="content_selectable" class="slide-content">
+            <ul class="slide_img" style="position:relative; overflow: hidden; ">
+                
+                <li class="slide_content " rel="0">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>Danh từ</span></div>
+    
+    <div class="green bold margin25 m-top15">lối vào, cửa vào</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="only" href="javascript:void(0);">only</a> access <a class="find_word" dict="1" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="farmhouse" href="javascript:void(0);">farmhouse</a> <a class="find_word" dict="1" rel="is" href="javascript:void(0);">is</a> <a class="find_word" dict="1" rel="across" href="javascript:void(0);">across</a> <a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="fields" href="javascript:void(0);">fields</a></div>
+    
+    <div class="margin25">lối độc nhất vào nông trại là băng qua cánh đồng</div>
+    
+    <div class="green bold margin25 m-top15">sự đến gần; sự lui tới; cơ hội đến gần, quyền lui tới</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="1" rel="only" href="javascript:void(0);">only</a> <a class="find_word" dict="1" rel="high" href="javascript:void(0);">high</a> <a class="find_word" dict="1" rel="officials" href="javascript:void(0);">officials</a> <a class="find_word" dict="1" rel="had" href="javascript:void(0);">had</a> access <a class="find_word" dict="1" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="1" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="1" rel="president" href="javascript:void(0);">president</a></div>
+    
+    <div class="margin25">chỉ những quan chức cao cấp mới được quyền tiếp cận tổng thống</div>
+    
+    <div class="bg-grey bold font-large m-top20"><span>Động từ</span></div>
+    
+    <div class="green bold margin25 m-top15">truy nhập (máy điện toán)</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=access", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_630 .sp_uk").removeClass("hidden");
+                    $("#find_word_630 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=access", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_630 .sp_us").removeClass("hidden");
+                    $("#find_word_630 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=1&amp;query=access+address">access address</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+arm">access arm</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+attempt">access attempt</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+barred+signal">access barred signal</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+category">access category</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+code">access code</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+control">access control</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+control+device+%28ACD%29">access control device (ACD)</a>, <a style="color:#1198B6" href="/find?type=1&amp;query=access+coupler">access coupler</a></span><br/>
+                </li>
+                
+                <li class="slide_content hidden" rel="1">
+                    
+<div id="content_selectable" class="content">
+    
+    <div class="bg-grey bold font-large m-top20"><span>noun</span></div>
+    
+    <div class="green bold margin25 m-top15">[noncount] a way of getting near, at, or to something or someone</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="all" href="javascript:void(0);">All</a> <a class="find_word" dict="3" rel="public" href="javascript:void(0);">public</a> <a class="find_word" dict="3" rel="buildings" href="javascript:void(0);">buildings</a> <a class="find_word" dict="3" rel="should" href="javascript:void(0);">should</a> <a class="find_word" dict="3" rel="provide" href="javascript:void(0);">provide</a> <a class="find_word" dict="3" rel="wheelchair" href="javascript:void(0);">wheelchair</a> access. [=<a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="way" href="javascript:void(0);">way</a> <a class="find_word" dict="3" rel="for" href="javascript:void(0);">for</a> <a class="find_word" dict="3" rel="people" href="javascript:void(0);">people</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="wheelchairs" href="javascript:void(0);">wheelchairs</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="enter" href="javascript:void(0);">enter</a>]</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="cup" href="javascript:void(0);">cup</a> <a class="find_word" dict="3" rel="holders" href="javascript:void(0);">holders</a> <a class="find_word" dict="3" rel="are" href="javascript:void(0);">are</a> <a class="find_word" dict="3" rel="placed" href="javascript:void(0);">placed</a> <a class="find_word" dict="3" rel="for" href="javascript:void(0);">for</a> <a class="find_word" dict="3" rel="easy" href="javascript:void(0);">easy</a> access. [=<a class="find_word" dict="3" rel="so" href="javascript:void(0);">so</a> <a class="find_word" dict="3" rel="that" href="javascript:void(0);">that</a> <a class="find_word" dict="3" rel="they" href="javascript:void(0);">they</a> <a class="find_word" dict="3" rel="can" href="javascript:void(0);">can</a> <a class="find_word" dict="3" rel="be" href="javascript:void(0);">be</a> <a class="find_word" dict="3" rel="easily" href="javascript:void(0);">easily</a> <a class="find_word" dict="3" rel="reached" href="javascript:void(0);">reached</a>] - <a class="find_word" dict="3" rel="often" href="javascript:void(0);">often</a> + <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="town" href="javascript:void(0);">town</a> <a class="find_word" dict="3" rel="wants" href="javascript:void(0);">wants</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="increase" href="javascript:void(0);">increase</a> <a class="find_word" dict="3" rel="public" href="javascript:void(0);">public</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="beaches" href="javascript:void(0);">beaches</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="a" href="javascript:void(0);">A</a> <a class="find_word" dict="3" rel="dirt" href="javascript:void(0);">dirt</a> <a class="find_word" dict="3" rel="road" href="javascript:void(0);">road</a> <a class="find_word" dict="3" rel="provides" href="javascript:void(0);">provides</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="home" href="javascript:void(0);">home</a>.</div>
+    
+    <div class="green bold margin25 m-top15">a way of being able to use or get something</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="we" href="javascript:void(0);">We</a> <a class="find_word" dict="3" rel="have" href="javascript:void(0);">have</a> <a class="find_word" dict="3" rel="internet" href="javascript:void(0);">Internet</a> access <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="library" href="javascript:void(0);">library</a>.</div>
+    
+    <div class="green bold margin25 m-top15">usually + to</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="we" href="javascript:void(0);">We</a> <a class="find_word" dict="3" rel="have" href="javascript:void(0);">have</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="internet" href="javascript:void(0);">Internet</a> <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="library" href="javascript:void(0);">library</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="i" href="javascript:void(0);">I</a> <a class="find_word" dict="3" rel="don't" href="javascript:void(0);">don't</a> <a class="find_word" dict="3" rel="have" href="javascript:void(0);">have</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="car" href="javascript:void(0);">car</a> <a class="find_word" dict="3" rel="right" href="javascript:void(0);">right</a> <a class="find_word" dict="3" rel="now" href="javascript:void(0);">now</a>. [=<a class="find_word" dict="3" rel="i" href="javascript:void(0);">I</a> <a class="find_word" dict="3" rel="don't" href="javascript:void(0);">don't</a> <a class="find_word" dict="3" rel="have" href="javascript:void(0);">have</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="car" href="javascript:void(0);">car</a> <a class="find_word" dict="3" rel="that" href="javascript:void(0);">that</a> <a class="find_word" dict="3" rel="i" href="javascript:void(0);">I</a> <a class="find_word" dict="3" rel="can" href="javascript:void(0);">can</a> <a class="find_word" dict="3" rel="use" href="javascript:void(0);">use</a> <a class="find_word" dict="3" rel="right" href="javascript:void(0);">right</a> <a class="find_word" dict="3" rel="now" href="javascript:void(0);">now</a>]</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="patients" href="javascript:void(0);">Patients</a> <a class="find_word" dict="3" rel="need" href="javascript:void(0);">need</a> <a class="find_word" dict="3" rel="better" href="javascript:void(0);">better</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="medical" href="javascript:void(0);">medical</a> <a class="find_word" dict="3" rel="care" href="javascript:void(0);">care</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="increasing" href="javascript:void(0);">increasing</a> <a class="find_word" dict="3" rel="children's" href="javascript:void(0);">children's</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="education" href="javascript:void(0);">education</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="they" href="javascript:void(0);">They</a> <a class="find_word" dict="3" rel="tried" href="javascript:void(0);">tried</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="gain" href="javascript:void(0);">gain</a> <a class="find_word" dict="3" rel="illegal" href="javascript:void(0);">illegal</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="company's" href="javascript:void(0);">company's</a> <a class="find_word" dict="3" rel="network" href="javascript:void(0);">network</a>. - <a class="find_word" dict="3" rel="see" href="javascript:void(0);">see</a> <a class="find_word" dict="3" rel="also" href="javascript:void(0);">also</a> access <a class="find_word" dict="3" rel="time" href="javascript:void(0);">time</a></div>
+    
+    <div class="green bold margin25 m-top15">permission or the right to enter, get near, or make use of something or to have contact with someone - usually + to</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="they" href="javascript:void(0);">They</a> <a class="find_word" dict="3" rel="refused" href="javascript:void(0);">refused</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="give" href="javascript:void(0);">give</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="police" href="javascript:void(0);">police</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="their" href="javascript:void(0);">their</a> <a class="find_word" dict="3" rel="home" href="javascript:void(0);">home</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="divorced" href="javascript:void(0);">divorced</a> <a class="find_word" dict="3" rel="parents" href="javascript:void(0);">parents</a> <a class="find_word" dict="3" rel="who" href="javascript:void(0);">who</a> <a class="find_word" dict="3" rel="want" href="javascript:void(0);">want</a> <a class="find_word" dict="3" rel="increased" href="javascript:void(0);">increased</a>/<a class="find_word" dict="3" rel="improved" href="javascript:void(0);">improved</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="their" href="javascript:void(0);">their</a> <a class="find_word" dict="3" rel="children" href="javascript:void(0);">children</a></div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="investigators" href="javascript:void(0);">Investigators</a> <a class="find_word" dict="3" rel="are" href="javascript:void(0);">are</a> <a class="find_word" dict="3" rel="trying" href="javascript:void(0);">trying</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="gain" href="javascript:void(0);">gain</a>/<a class="find_word" dict="3" rel="get" href="javascript:void(0);">get</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="his" href="javascript:void(0);">his</a> <a class="find_word" dict="3" rel="financial" href="javascript:void(0);">financial</a> <a class="find_word" dict="3" rel="records" href="javascript:void(0);">records</a>. [=<a class="find_word" dict="3" rel="trying" href="javascript:void(0);">trying</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="get" href="javascript:void(0);">get</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="right" href="javascript:void(0);">right</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="see" href="javascript:void(0);">see</a> <a class="find_word" dict="3" rel="his" href="javascript:void(0);">his</a> <a class="find_word" dict="3" rel="financial" href="javascript:void(0);">financial</a> <a class="find_word" dict="3" rel="records" href="javascript:void(0);">records</a>]</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="he" href="javascript:void(0);">He</a> <a class="find_word" dict="3" rel="was" href="javascript:void(0);">was</a> <a class="find_word" dict="3" rel="granted" href="javascript:void(0);">granted</a>/<a class="find_word" dict="3" rel="denied" href="javascript:void(0);">denied</a> access <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="report" href="javascript:void(0);">report</a>. [=<a class="find_word" dict="3" rel="he" href="javascript:void(0);">he</a> <a class="find_word" dict="3" rel="was" href="javascript:void(0);">was</a> <a class="find_word" dict="3" rel="given" href="javascript:void(0);">given</a>/<a class="find_word" dict="3" rel="refused" href="javascript:void(0);">refused</a> <a class="find_word" dict="3" rel="permission" href="javascript:void(0);">permission</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> <a class="find_word" dict="3" rel="see" href="javascript:void(0);">see</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="report" href="javascript:void(0);">report</a>]</div>
+    
+    <div class="bg-grey bold font-large m-top20"><span>verb</span></div>
+    
+    <div class="">-cesses; -cessed; -cessing</div>
+    
+    <div class="green bold margin25 m-top15">[+ obj] :to gain access to (something): such as</div>
+    
+    <div class="green bold margin25 m-top15">to be able to use, enter, or get near (something)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="new" href="javascript:void(0);">new</a> <a class="find_word" dict="3" rel="system" href="javascript:void(0);">system</a> <a class="find_word" dict="3" rel="makes" href="javascript:void(0);">makes</a> <a class="find_word" dict="3" rel="it" href="javascript:void(0);">it</a> <a class="find_word" dict="3" rel="easier" href="javascript:void(0);">easier</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> access <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="money" href="javascript:void(0);">money</a> <a class="find_word" dict="3" rel="in" href="javascript:void(0);">in</a> <a class="find_word" dict="3" rel="your" href="javascript:void(0);">your</a> <a class="find_word" dict="3" rel="bank" href="javascript:void(0);">bank</a> <a class="find_word" dict="3" rel="account" href="javascript:void(0);">account</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="your" href="javascript:void(0);">Your</a> <a class="find_word" dict="3" rel="favorite" href="javascript:void(0);">favorite</a> <a class="find_word" dict="3" rel="radio" href="javascript:void(0);">radio</a> <a class="find_word" dict="3" rel="stations" href="javascript:void(0);">stations</a> <a class="find_word" dict="3" rel="can" href="javascript:void(0);">can</a> <a class="find_word" dict="3" rel="be" href="javascript:void(0);">be</a> <a class="find_word" dict="3" rel="accessed" href="javascript:void(0);">accessed</a> <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="touch" href="javascript:void(0);">touch</a> <a class="find_word" dict="3" rel="of" href="javascript:void(0);">of</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="button" href="javascript:void(0);">button</a>.</div>
+    
+    <div class="green bold margin25 m-top15">to open or load (a computer file, an Internet site, etc.)</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="file" href="javascript:void(0);">file</a> <a class="find_word" dict="3" rel="loads" href="javascript:void(0);">loads</a> <a class="find_word" dict="3" rel="every" href="javascript:void(0);">every</a> <a class="find_word" dict="3" rel="time" href="javascript:void(0);">time</a> <a class="find_word" dict="3" rel="you" href="javascript:void(0);">you</a> access <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="web" href="javascript:void(0);">Web</a> <a class="find_word" dict="3" rel="site" href="javascript:void(0);">site</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="the" href="javascript:void(0);">The</a> <a class="find_word" dict="3" rel="file" href="javascript:void(0);">file</a> <a class="find_word" dict="3" rel="can" href="javascript:void(0);">can</a> <a class="find_word" dict="3" rel="be" href="javascript:void(0);">be</a> <a class="find_word" dict="3" rel="accessed" href="javascript:void(0);">accessed</a> <a class="find_word" dict="3" rel="by" href="javascript:void(0);">by</a> <a class="find_word" dict="3" rel="many" href="javascript:void(0);">many</a> <a class="find_word" dict="3" rel="users" href="javascript:void(0);">users</a> <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="same" href="javascript:void(0);">same</a> <a class="find_word" dict="3" rel="time" href="javascript:void(0);">time</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="she" href="javascript:void(0);">She</a> <a class="find_word" dict="3" rel="could" href="javascript:void(0);">could</a> <a class="find_word" dict="3" rel="work" href="javascript:void(0);">work</a> <a class="find_word" dict="3" rel="at" href="javascript:void(0);">at</a> <a class="find_word" dict="3" rel="home" href="javascript:void(0);">home</a> <a class="find_word" dict="3" rel="by" href="javascript:void(0);">by</a> <a class="find_word" dict="3" rel="remotely" href="javascript:void(0);">remotely</a> <a class="find_word" dict="3" rel="accessing" href="javascript:void(0);">accessing</a> <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="company's" href="javascript:void(0);">company's</a> <a class="find_word" dict="3" rel="network" href="javascript:void(0);">network</a>.</div>
+    
+    <div class="color-light-blue margin25 m-top15"><a class="find_word" dict="3" rel="you'll" href="javascript:void(0);">You'll</a> <a class="find_word" dict="3" rel="need" href="javascript:void(0);">need</a> <a class="find_word" dict="3" rel="a" href="javascript:void(0);">a</a> <a class="find_word" dict="3" rel="password" href="javascript:void(0);">password</a> <a class="find_word" dict="3" rel="to" href="javascript:void(0);">to</a> access <a class="find_word" dict="3" rel="the" href="javascript:void(0);">the</a> <a class="find_word" dict="3" rel="database" href="javascript:void(0);">database</a>.</div>
+    
+</div>
+
+<script type="text/javascript">
+    $.getJSON("/ajax/getsound?accent=uk&amp;word=access", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    ukSnd = data.data;
+                    $("#find_word_154 .sp_uk").removeClass("hidden");
+                    $("#find_word_154 .sp_uk").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + ukSnd + "\" /&gt;&lt;embed src=\"" + ukSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+    $.getJSON("/ajax/getsound?accent=us&amp;word=access", function(data) {
+            if (data != null &amp;&amp; data.error == "0"){
+                    usSnd = data.data;
+                    $("#find_word_154 .sp_us").removeClass("hidden");
+                    $("#find_word_154 .sp_us").click(function (){
+                            $("#sound").html("&lt;audio autoplay preload=\"auto\" autobuffer&gt;&lt;source src=\"" + usSnd + "\" /&gt;&lt;embed src=\"" + usSnd + "\" autostart=\"true\" hidden=\"true\" /&gt;&lt;/audio&gt;");
+                    });
+            }
+    });
+</script>
+
+
+                    <br/><span><strong>* Các từ tương tự:</strong></span><br/><span><a style="color:#1198B6" href="/find?type=3&amp;query=access+time">access time</a>, <a style="color:#1198B6" href="/find?type=3&amp;query=accessible">accessible</a>, <a style="color:#1198B6" href="/find?type=3&amp;query=accession">accession</a>, <a style="color:#1198B6" href="/find?type=3&amp;query=accessorize">accessorize</a>, <a style="color:#1198B6" href="/find?type=3&amp;query=accessory">accessory</a></span><br/>
+                </li>
+                
+            </ul>
+        </div>
+        
+    
