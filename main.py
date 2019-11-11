@@ -53,7 +53,7 @@ def getWord(word):
 
 words = getWordList()
 # print(getWordFromLaban("School"))
-with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words}
     for future in concurrent.futures.as_completed(future_to_url):
@@ -64,7 +64,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
                 print("Ignore ", url)
             else:
                 html = future.result()
-                with open("html/" + url+'.json', 'w+') as outfile:
+                with open(fileName, 'w+') as outfile:
                     json.dump(html, outfile)
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
