@@ -6,7 +6,7 @@ python3 -m venv env
 ```
 then active virtual environment
 ```
-source env/bin/active
+source env/bin/activate
 ```
 
 ## Install dependencies

@@ -16,6 +16,11 @@ def getWordList():
 
 
 def getWordFromLaban(word):
+    fileName = "html/" + word+".json"
+    if os.path.isfile(fileName):
+        print("Ignore ", url)
+        return None;
+
     URL = "https://dict.laban.vn/find"
     URL = "https://dict.laban.vn/ajax/find"  # ?type=1&query=history
     # defining a params dict for the parameters to be sent to the API
@@ -60,10 +65,8 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
         url = future_to_url[future]
         try:
             fileName = "html/" + url+".json"
-            if os.path.isfile(fileName):
-                print("Ignore ", url)
-            else:
-                html = future.result()
+            html = future.result()
+            if html!= None:
                 with open(fileName, 'w+') as outfile:
                     json.dump(html, outfile)
         except Exception as exc:
