@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "16540", "link": "/find?type=1&query=coaxial+cable", "word": "coaxial cable"}, {"id": "16540", "link": "/find?type=1&query=coaxiality", "word": "coaxiality"}], "data": {"word": "coaxial", "id": "16540", "pronounce": "/kou'\u00e6ksi\u0259l/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) \u0111\u1ed3ng tr\u1ee5c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">coaxial circles</div>\n    \n    <div class=\"margin25\">v\u00f2ng tr\u00f2n \u0111\u1ed3ng tr\u1ee5c</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5339", "link": "/find?type=3&query=coaxial+cable", "word": "coaxial cable"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5339",
+                "link": "/find?type=3&query=coaxial+cable",
+                "word": "coaxial cable"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) \u0111\u1ed3ng tr\u1ee5c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">coaxial circles</div>\n    \n    <div class=\"margin25\">v\u00f2ng tr\u00f2n \u0111\u1ed3ng tr\u1ee5c</div>",
+            "id": "16540",
+            "mean": [],
+            "pronounce": "/kou'\u00e6ksi\u0259l/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "coaxial"
+        },
+        "suggests": [
+            {
+                "id": "16540",
+                "link": "/find?type=1&query=coaxial+cable",
+                "word": "coaxial cable"
+            },
+            {
+                "id": "16540",
+                "link": "/find?type=1&query=coaxiality",
+                "word": "coaxiality"
+            }
+        ]
+    }
+}

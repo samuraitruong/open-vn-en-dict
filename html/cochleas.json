@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "16587", "link": "/find?type=1&query=cochleae", "word": "cochleae"}, {"id": "16587", "link": "/find?type=1&query=cochlear", "word": "cochlear"}, {"id": "16587", "link": "/find?type=1&query=cochleate", "word": "cochleate"}], "data": {"word": "cochlea", "id": "16587", "pronounce": "/'k\u0252kli\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cochleae /'k\u0252klii:/) (gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">\u1ed1c tai</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1f8e7a9562b1423d77f9de36ba339af9/16e5def6423/C/cochlea.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/92f80034482f0c2917e52165bfcc466f/16e5def69c2/C/cochlea.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cochlea", "id": "5352", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8ko\u028aklij\u0259, \u02c8k\u0251\u02d0klij\u0259/ , pl cochleas or cochleae /\u02c8ko\u028akli\u02cci\u02d0, \u02c8k\u0251\u02d0kli\u02cci\u02d0/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :the part of the inner ear that contains the endings of the nerve that carries information about sound to the brain</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8ko\u028aklij\u0259, \u02c8k\u0251\u02d0klij\u0259/ , pl cochleas or cochleae /\u02c8ko\u028akli\u02cci\u02d0, \u02c8k\u0251\u02d0kli\u02cci\u02d0/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :the part of the inner ear that contains the endings of the nerve that carries information about sound to the brain</div>",
+            "id": "5352",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "cochlea"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cochleae /'k\u0252klii:/) (gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">\u1ed1c tai</div>",
+            "id": "16587",
+            "mean": [],
+            "pronounce": "/'k\u0252kli\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bcbefd88d66d3989f8e34ad0091f97b2/16e5ecfd936/C/cochlea.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d07cd77af77c285e685e795d6dc42c76/16e5ecfd056/C/cochlea.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cochlea"
+        },
+        "suggests": [
+            {
+                "id": "16587",
+                "link": "/find?type=1&query=cochleae",
+                "word": "cochleae"
+            },
+            {
+                "id": "16587",
+                "link": "/find?type=1&query=cochlear",
+                "word": "cochlear"
+            },
+            {
+                "id": "16587",
+                "link": "/find?type=1&query=cochleate",
+                "word": "cochleate"
+            }
+        ]
+    }
+}

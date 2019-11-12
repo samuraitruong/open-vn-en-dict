@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "16518", "link": "/find?type=1&query=coastguardsman", "word": "coastguardsman"}], "data": {"word": "coastguard", "id": "16518", "pronounce": "/'k\u0259\u028astg\u0251:d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9i g\u00e1c bi\u1ec3n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/25f0c9cebe88bc356ff6d6ef27657113/16e5def21ef/C/coastguard.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f3834b3494263ddd952ceab0e1d2e950/16e5def278e/C/coastguard.mp3"}}}, "en_en": {"suggests": [{"id": "5327", "link": "/find?type=3&query=coastguardsman", "word": "coastguardsman"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5327",
+                "link": "/find?type=3&query=coastguardsman",
+                "word": "coastguardsman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9i g\u00e1c bi\u1ec3n</div>",
+            "id": "16518",
+            "mean": [],
+            "pronounce": "/'k\u0259\u028astg\u0251:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/abd286620cd4f726c262667fe18577fa/16e5ecf7f3f/C/coastguard.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cf42ddcafddea5261f9f75303f7dda44/16e5ecf7a25/C/coastguard.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "coastguard"
+        },
+        "suggests": [
+            {
+                "id": "16518",
+                "link": "/find?type=1&query=coastguardsman",
+                "word": "coastguardsman"
+            }
+        ]
+    }
+}

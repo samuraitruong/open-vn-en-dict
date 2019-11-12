@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "16535", "link": "/find?type=1&query=coating", "word": "coating"}], "data": {}}, "en_en": {"suggests": [{"id": "5333", "link": "/find?type=3&query=coating", "word": "coating"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5333",
+                "link": "/find?type=3&query=coating",
+                "word": "coating"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16535",
+                "link": "/find?type=1&query=coating",
+                "word": "coating"
+            }
+        ]
+    }
+}
