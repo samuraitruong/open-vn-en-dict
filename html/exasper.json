@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "32637", "link": "/find?type=1&query=exasperate", "word": "exasperate"}, {"id": "32638", "link": "/find?type=1&query=exasperatedly", "word": "exasperatedly"}, {"id": "32639", "link": "/find?type=1&query=exasperater", "word": "exasperater"}, {"id": "32640", "link": "/find?type=1&query=exasperating", "word": "exasperating"}, {"id": "32641", "link": "/find?type=1&query=exasperatingly", "word": "exasperatingly"}, {"id": "32642", "link": "/find?type=1&query=exasperation", "word": "exasperation"}], "data": {}}, "en_en": {"suggests": [{"id": "9914", "link": "/find?type=3&query=exasperate", "word": "exasperate"}, {"id": "9915", "link": "/find?type=3&query=exasperation", "word": "exasperation"}], "data": {}}, "synonyms": {"suggests": [{"id": "2315", "link": "/find?type=4&query=exasperate", "word": "exasperate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9914",
+                "link": "/find?type=3&query=exasperate",
+                "word": "exasperate"
+            },
+            {
+                "id": "9915",
+                "link": "/find?type=3&query=exasperation",
+                "word": "exasperation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32637",
+                "link": "/find?type=1&query=exasperate",
+                "word": "exasperate"
+            },
+            {
+                "id": "32638",
+                "link": "/find?type=1&query=exasperatedly",
+                "word": "exasperatedly"
+            },
+            {
+                "id": "32639",
+                "link": "/find?type=1&query=exasperater",
+                "word": "exasperater"
+            },
+            {
+                "id": "32640",
+                "link": "/find?type=1&query=exasperating",
+                "word": "exasperating"
+            },
+            {
+                "id": "32641",
+                "link": "/find?type=1&query=exasperatingly",
+                "word": "exasperatingly"
+            },
+            {
+                "id": "32642",
+                "link": "/find?type=1&query=exasperation",
+                "word": "exasperation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2315",
+                "link": "/find?type=4&query=exasperate",
+                "word": "exasperate"
+            }
+        ]
+    }
+}
