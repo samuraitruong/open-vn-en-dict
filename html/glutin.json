@@ -1,1 +1,32 @@
-{"error": 0, "query": "glutin", "enViData": {"suggests": [{"id": "40387", "link": "/find?type=1&query=glutinize", "word": "glutinize"}, {"id": "40388", "link": "/find?type=1&query=glutinosity", "word": "glutinosity"}, {"id": "40389", "link": "/find?type=1&query=glutinous", "word": "glutinous"}]}, "mUrl": "/find?type=1&query=glutin", "enEnData": {"suggests": [{"id": "12194", "link": "/find?type=3&query=glutinous", "word": "glutinous"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12194",
+                "link": "/find?type=3&query=glutinous",
+                "word": "glutinous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40387",
+                "link": "/find?type=1&query=glutinize",
+                "word": "glutinize"
+            },
+            {
+                "id": "40388",
+                "link": "/find?type=1&query=glutinosity",
+                "word": "glutinosity"
+            },
+            {
+                "id": "40389",
+                "link": "/find?type=1&query=glutinous",
+                "word": "glutinous"
+            }
+        ]
+    }
+}
