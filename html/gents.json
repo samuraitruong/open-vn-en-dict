@@ -1,1 +1,45 @@
-{"error": 0, "query": "gents", "enViData": {"suggests": [], "best": {"id": "39611", "details": "\n<div id=\"find_word_39611\" class=\"world word_en\" rel=\"gents\">\n    <h2 class=\"fl\">gents <span class=\"color-black\">/d\u02a4ents/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"39611\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"39611\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) nh\u00e0 v\u1ec7 sinh \u0111\u00e0n \u00f4ng</div>\n    \n</div>\n", "link": "/find?type=1&query=gents", "word": "gents"}}, "mUrl": "/find?type=1&query=gents", "enEnData": {"suggests": [], "best": {"id": "11985", "details": "\n<div id=\"find_word_11985\" class=\"world word_en\" rel=\"gents\">\n    <h2 class=\"fl\">gents <span class=\"color-black\">/\u02c8\u02a4\u025bnts/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11985\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11985\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] Brit informal :men's room</div>\n    \n    <div class=\"green margin25 m-top15\">usually used with the</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Can you tell me where the gents is, please? - compare ladies</div>\n    \n</div>\n", "link": "/find?type=3&query=gents", "word": "gents"}}, "ftype": "1", "synData": {"suggests": [{"id": "2963", "link": "/find?type=4&query=genteel", "word": "genteel"}, {"id": "2964", "link": "/find?type=4&query=gentle", "word": "gentle"}, {"id": "2965", "link": "/find?type=4&query=gentry", "word": "gentry"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] Brit informal :men's room</div>\n    \n    <div class=\"green margin25 m-top15\">usually used with the</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Can you tell me where the gents is, please? - compare ladies</div>",
+            "id": "11985",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u025bnts/",
+            "type": "noun",
+            "word": "gents"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) nh\u00e0 v\u1ec7 sinh \u0111\u00e0n \u00f4ng</div>",
+            "id": "39611",
+            "mean": [],
+            "pronounce": "/d\u02a4ents/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "gents"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2963",
+                "link": "/find?type=4&query=genteel",
+                "word": "genteel"
+            },
+            {
+                "id": "2964",
+                "link": "/find?type=4&query=gentle",
+                "word": "gentle"
+            },
+            {
+                "id": "2965",
+                "link": "/find?type=4&query=gentry",
+                "word": "gentry"
+            }
+        ]
+    }
+}
