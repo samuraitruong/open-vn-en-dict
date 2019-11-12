@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "7673", "link": "/find?type=1&query=bacteraemia", "word": "bacteraemia"}, {"id": "7674", "link": "/find?type=1&query=bacteria", "word": "bacteria"}, {"id": "7675", "link": "/find?type=1&query=bacterial", "word": "bacterial"}, {"id": "7676", "link": "/find?type=1&query=bacterially", "word": "bacterially"}, {"id": "7677", "link": "/find?type=1&query=bactericide", "word": "bactericide"}, {"id": "7678", "link": "/find?type=1&query=bacterin", "word": "bacterin"}, {"id": "7679", "link": "/find?type=1&query=bacteriocin", "word": "bacteriocin"}, {"id": "7680", "link": "/find?type=1&query=bacteriologic", "word": "bacteriologic"}, {"id": "7681", "link": "/find?type=1&query=bacteriological", "word": "bacteriological"}, {"id": "7682", "link": "/find?type=1&query=bacteriologically", "word": "bacteriologically"}], "data": {}}, "en_en": {"suggests": [{"id": "1856", "link": "/find?type=3&query=bacteria", "word": "bacteria"}, {"id": "1857", "link": "/find?type=3&query=bacteriology", "word": "bacteriology"}, {"id": "1858", "link": "/find?type=3&query=bacterium", "word": "bacterium"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1856",
+                "link": "/find?type=3&query=bacteria",
+                "word": "bacteria"
+            },
+            {
+                "id": "1857",
+                "link": "/find?type=3&query=bacteriology",
+                "word": "bacteriology"
+            },
+            {
+                "id": "1858",
+                "link": "/find?type=3&query=bacterium",
+                "word": "bacterium"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7673",
+                "link": "/find?type=1&query=bacteraemia",
+                "word": "bacteraemia"
+            },
+            {
+                "id": "7674",
+                "link": "/find?type=1&query=bacteria",
+                "word": "bacteria"
+            },
+            {
+                "id": "7675",
+                "link": "/find?type=1&query=bacterial",
+                "word": "bacterial"
+            },
+            {
+                "id": "7676",
+                "link": "/find?type=1&query=bacterially",
+                "word": "bacterially"
+            },
+            {
+                "id": "7677",
+                "link": "/find?type=1&query=bactericide",
+                "word": "bactericide"
+            },
+            {
+                "id": "7678",
+                "link": "/find?type=1&query=bacterin",
+                "word": "bacterin"
+            },
+            {
+                "id": "7679",
+                "link": "/find?type=1&query=bacteriocin",
+                "word": "bacteriocin"
+            },
+            {
+                "id": "7680",
+                "link": "/find?type=1&query=bacteriologic",
+                "word": "bacteriologic"
+            },
+            {
+                "id": "7681",
+                "link": "/find?type=1&query=bacteriological",
+                "word": "bacteriological"
+            },
+            {
+                "id": "7682",
+                "link": "/find?type=1&query=bacteriologically",
+                "word": "bacteriologically"
+            }
+        ]
+    }
+}

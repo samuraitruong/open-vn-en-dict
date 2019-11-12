@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "7680", "link": "/find?type=1&query=bacteriologic", "word": "bacteriologic"}, {"id": "7681", "link": "/find?type=1&query=bacteriological", "word": "bacteriological"}, {"id": "7682", "link": "/find?type=1&query=bacteriologically", "word": "bacteriologically"}, {"id": "7683", "link": "/find?type=1&query=bacteriologist", "word": "bacteriologist"}, {"id": "7684", "link": "/find?type=1&query=bacteriology", "word": "bacteriology"}, {"id": "7685", "link": "/find?type=1&query=bacteriolysis", "word": "bacteriolysis"}, {"id": "7686", "link": "/find?type=1&query=bacteriolytic", "word": "bacteriolytic"}], "data": {}}, "en_en": {"suggests": [{"id": "1857", "link": "/find?type=3&query=bacteriology", "word": "bacteriology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1857",
+                "link": "/find?type=3&query=bacteriology",
+                "word": "bacteriology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7680",
+                "link": "/find?type=1&query=bacteriologic",
+                "word": "bacteriologic"
+            },
+            {
+                "id": "7681",
+                "link": "/find?type=1&query=bacteriological",
+                "word": "bacteriological"
+            },
+            {
+                "id": "7682",
+                "link": "/find?type=1&query=bacteriologically",
+                "word": "bacteriologically"
+            },
+            {
+                "id": "7683",
+                "link": "/find?type=1&query=bacteriologist",
+                "word": "bacteriologist"
+            },
+            {
+                "id": "7684",
+                "link": "/find?type=1&query=bacteriology",
+                "word": "bacteriology"
+            },
+            {
+                "id": "7685",
+                "link": "/find?type=1&query=bacteriolysis",
+                "word": "bacteriolysis"
+            },
+            {
+                "id": "7686",
+                "link": "/find?type=1&query=bacteriolytic",
+                "word": "bacteriolytic"
+            }
+        ]
+    }
+}

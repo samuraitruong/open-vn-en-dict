@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7840", "link": "/find?type=1&query=balderdash", "word": "balderdash"}], "data": {}}, "en_en": {"suggests": [{"id": "1914", "link": "/find?type=3&query=balderdash", "word": "balderdash"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1914",
+                "link": "/find?type=3&query=balderdash",
+                "word": "balderdash"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7840",
+                "link": "/find?type=1&query=balderdash",
+                "word": "balderdash"
+            }
+        ]
+    }
+}

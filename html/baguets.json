@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7762", "link": "/find?type=1&query=baguette", "word": "baguette"}], "data": {}}, "en_en": {"suggests": [{"id": "1885", "link": "/find?type=3&query=baguette", "word": "baguette"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1885",
+                "link": "/find?type=3&query=baguette",
+                "word": "baguette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7762",
+                "link": "/find?type=1&query=baguette",
+                "word": "baguette"
+            }
+        ]
+    }
+}

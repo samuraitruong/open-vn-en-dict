@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "7789", "link": "/find?type=1&query=baker-legged", "word": "baker-legged"}, {"id": "7789", "link": "/find?type=1&query=bakery", "word": "bakery"}], "data": {"word": "baker", "id": "7789", "pronounce": "/'beik\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 h\u00e0ng b\u00e1nh m\u00ec</div>\n    \n    <div class=\"bold dot-blue m-top15\">a baker's dozen</div>\n    \n    <div class=\"grey margin25 m-top15\">m\u1ed9t t\u00e1 m\u01b0\u1eddi ba</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ac21ec729bcc5d9e8d740132fd410916/16e5dd02a7e/B/baker.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/27d610812c210dcb02fabeeb3bbd1215/16e5dd0306f/B/baker.mp3"}}}, "en_en": {"suggests": [{"id": "1896", "link": "/find?type=3&query=baker%27s+dozen", "word": "baker's dozen"}, {"id": "1896", "link": "/find?type=3&query=bakery", "word": "bakery"}], "data": {"word": "baker", "id": "1896", "pronounce": "/\u02c8be\u026ak\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone who bakes bread, cakes, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm a very good baker.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's a successful baker who opened a chain of bakeries.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I got this bread fresh from the baker's [=from the bakery] this morning.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone who bakes bread, cakes, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm a very good baker.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's a successful baker who opened a chain of bakeries.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I got this bread fresh from the baker's [=from the bakery] this morning.</div>",
+            "id": "1896",
+            "mean": [],
+            "pronounce": "/\u02c8be\u026ak\u025a/",
+            "type": "noun",
+            "word": "baker"
+        },
+        "suggests": [
+            {
+                "id": "1896",
+                "link": "/find?type=3&query=baker%27s+dozen",
+                "word": "baker's dozen"
+            },
+            {
+                "id": "1896",
+                "link": "/find?type=3&query=bakery",
+                "word": "bakery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 h\u00e0ng b\u00e1nh m\u00ec</div>\n    \n    <div class=\"bold dot-blue m-top15\">a baker's dozen</div>\n    \n    <div class=\"grey margin25 m-top15\">m\u1ed9t t\u00e1 m\u01b0\u1eddi ba</div>",
+            "id": "7789",
+            "mean": [],
+            "pronounce": "/'beik\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ee672d237e10c5aabae609371d5504a2/16e5eb32881/B/baker.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/75036c1b0863e0d139377b16f5b6ea59/16e5eb3236b/B/baker.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "baker"
+        },
+        "suggests": [
+            {
+                "id": "7789",
+                "link": "/find?type=1&query=baker-legged",
+                "word": "baker-legged"
+            },
+            {
+                "id": "7789",
+                "link": "/find?type=1&query=bakery",
+                "word": "bakery"
+            }
+        ]
+    }
+}

@@ -1,1 +1,69 @@
-{"en_vn": {"suggests": [], "data": {"word": "balas", "id": "7825", "pronounce": "/'b\u00e6l\u0259s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(kho\u00e1ng ch\u1ea5t) xpinen \u0111\u1ecf</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1903", "link": "/find?type=3&query=balaclava", "word": "balaclava"}, {"id": "1904", "link": "/find?type=3&query=balance", "word": "balance"}, {"id": "1905", "link": "/find?type=3&query=balance+beam", "word": "balance beam"}, {"id": "1906", "link": "/find?type=3&query=balance+of+payments", "word": "balance of payments"}, {"id": "1907", "link": "/find?type=3&query=balance+of+power", "word": "balance of power"}, {"id": "1908", "link": "/find?type=3&query=balance+of+trade", "word": "balance of trade"}, {"id": "1909", "link": "/find?type=3&query=balance+sheet", "word": "balance sheet"}, {"id": "1910", "link": "/find?type=3&query=balanced", "word": "balanced"}], "data": {}}, "synonyms": {"suggests": [{"id": "425", "link": "/find?type=4&query=balance", "word": "balance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1903",
+                "link": "/find?type=3&query=balaclava",
+                "word": "balaclava"
+            },
+            {
+                "id": "1904",
+                "link": "/find?type=3&query=balance",
+                "word": "balance"
+            },
+            {
+                "id": "1905",
+                "link": "/find?type=3&query=balance+beam",
+                "word": "balance beam"
+            },
+            {
+                "id": "1906",
+                "link": "/find?type=3&query=balance+of+payments",
+                "word": "balance of payments"
+            },
+            {
+                "id": "1907",
+                "link": "/find?type=3&query=balance+of+power",
+                "word": "balance of power"
+            },
+            {
+                "id": "1908",
+                "link": "/find?type=3&query=balance+of+trade",
+                "word": "balance of trade"
+            },
+            {
+                "id": "1909",
+                "link": "/find?type=3&query=balance+sheet",
+                "word": "balance sheet"
+            },
+            {
+                "id": "1910",
+                "link": "/find?type=3&query=balanced",
+                "word": "balanced"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(kho\u00e1ng ch\u1ea5t) xpinen \u0111\u1ecf</div>",
+            "id": "7825",
+            "mean": [],
+            "pronounce": "/'b\u00e6l\u0259s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "balas"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "425",
+                "link": "/find?type=4&query=balance",
+                "word": "balance"
+            }
+        ]
+    }
+}
