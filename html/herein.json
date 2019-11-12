@@ -1,1 +1,55 @@
-{"error": 0, "query": "herein", "enViData": {"suggests": [{"id": "43662", "link": "/find?type=1&query=hereinabove", "word": "hereinabove"}, {"id": "43662", "link": "/find?type=1&query=hereinafter", "word": "hereinafter"}, {"id": "43662", "link": "/find?type=1&query=hereinbefore", "word": "hereinbefore"}, {"id": "43662", "link": "/find?type=1&query=hereinbelow", "word": "hereinbelow"}], "best": {"id": "43662", "details": "\n<div id=\"find_word_43662\" class=\"world word_en\" rel=\"herein\">\n    <h2 class=\"fl\">herein <span class=\"color-black\">/hi\u0259'rin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43662\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43662\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">trong n\u00e0y, trong t\u00e0i li\u1ec7u n\u00e0y</div>\n    \n</div>\n", "link": "/find?type=1&query=herein", "word": "herein"}}, "mUrl": "/find?type=1&query=herein", "enEnData": {"suggests": [{"id": "13453", "link": "/find?type=3&query=hereinafter", "word": "hereinafter"}], "best": {"id": "13453", "details": "\n<div id=\"find_word_13453\" class=\"world word_en\" rel=\"herein\">\n    <h2 class=\"fl\">herein <span class=\"color-black\">/hi\u025a\u02c8\u026an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13453\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13453\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adverb</span></div>\n    \n    <div class=\"green margin25 m-top15\">formal</div>\n    \n    <div class=\"green margin25 m-top15\">in this book, document, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">For an explanation of the abbreviations used herein, see the section entitled Abbreviations in this Work.</div>\n    \n    <div class=\"green margin25 m-top15\">in this statement, fact, or detail - used to introduce something that is related to the main subject and that is usually followed by an explanation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company faces more competition every year. Herein lies the challenge. In order to maintain our current standing, we have to increase sales.</div>\n    \n</div>\n", "link": "/find?type=3&query=herein", "word": "herein"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adverb</span></div>\n    \n    <div class=\"green margin25 m-top15\">formal</div>\n    \n    <div class=\"green margin25 m-top15\">in this book, document, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">For an explanation of the abbreviations used herein, see the section entitled Abbreviations in this Work.</div>\n    \n    <div class=\"green margin25 m-top15\">in this statement, fact, or detail - used to introduce something that is related to the main subject and that is usually followed by an explanation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company faces more competition every year. Herein lies the challenge. In order to maintain our current standing, we have to increase sales.</div>",
+            "id": "13453",
+            "mean": [],
+            "pronounce": "/hi\u025a\u02c8\u026an/",
+            "type": "adverb",
+            "word": "herein"
+        },
+        "suggests": [
+            {
+                "id": "13453",
+                "link": "/find?type=3&query=hereinafter",
+                "word": "hereinafter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">trong n\u00e0y, trong t\u00e0i li\u1ec7u n\u00e0y</div>",
+            "id": "43662",
+            "mean": [],
+            "pronounce": "/hi\u0259'rin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a730a37d706a7484b56caa5570d6e427/16e61901974/H/herein.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/477db0a79646a0815d3b9e990db3c5f5/16e61901187/H/herein.mp3"
+            },
+            "type": "Ph\u00f3 t\u1eeb",
+            "word": "herein"
+        },
+        "suggests": [
+            {
+                "id": "43662",
+                "link": "/find?type=1&query=hereinabove",
+                "word": "hereinabove"
+            },
+            {
+                "id": "43662",
+                "link": "/find?type=1&query=hereinafter",
+                "word": "hereinafter"
+            },
+            {
+                "id": "43662",
+                "link": "/find?type=1&query=hereinbefore",
+                "word": "hereinbefore"
+            },
+            {
+                "id": "43662",
+                "link": "/find?type=1&query=hereinbelow",
+                "word": "hereinbelow"
+            }
+        ]
+    }
+}
