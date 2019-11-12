@@ -1,1 +1,40 @@
-{"error": 0, "query": "glandular", "enViData": {"suggests": [{"id": "40115", "link": "/find?type=1&query=glandular+fever", "word": "glandular fever"}], "best": {"id": "40115", "details": "\n<div id=\"find_word_40115\" class=\"world word_en\" rel=\"glandular\">\n    <h2 class=\"fl\">glandular <span class=\"color-black\">/'gl\u00e6ndjul\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\">/'gl\u00e6ndjul\u0259r/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40115\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40115\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] tuy\u1ebfn</div>\n    \n</div>\n", "link": "/find?type=1&query=glandular", "word": "glandular"}}, "mUrl": "/find?type=1&query=glandular", "enEnData": {"suggests": [{"id": "12126", "link": "/find?type=3&query=glandular+fever", "word": "glandular fever"}], "best": {"id": "12126", "details": "\n<div id=\"find_word_12126\" class=\"world word_en\" rel=\"glandular\">\n    <h2 class=\"fl\">glandular <span class=\"color-black\">/\u02c8gl\u00e6n\u02a4\u0259l\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12126\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12126\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to glands</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">glandular activity/cancer</div>\n    \n</div>\n", "link": "/find?type=3&query=glandular", "word": "glandular"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to glands</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">glandular activity/cancer</div>",
+            "id": "12126",
+            "mean": [],
+            "pronounce": "/\u02c8gl\u00e6n\u02a4\u0259l\u025a/",
+            "type": "adjective",
+            "word": "glandular"
+        },
+        "suggests": [
+            {
+                "id": "12126",
+                "link": "/find?type=3&query=glandular+fever",
+                "word": "glandular fever"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] tuy\u1ebfn</div>",
+            "id": "40115",
+            "mean": [],
+            "pronounce": "/'gl\u00e6ndjul\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a4d3f41c5ef23f7ead69593cc64b8c1d/16e60fb02ca/G/glandular.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e89e0988e46f3904b7b6b0b47f86c3f3/16e60fafad7/G/glandular.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "glandular"
+        },
+        "suggests": [
+            {
+                "id": "40115",
+                "link": "/find?type=1&query=glandular+fever",
+                "word": "glandular fever"
+            }
+        ]
+    }
+}
