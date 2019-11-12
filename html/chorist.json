@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15169", "link": "/find?type=1&query=chorister", "word": "chorister"}], "data": {}}, "en_en": {"suggests": [{"id": "4887", "link": "/find?type=3&query=chorister", "word": "chorister"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4887",
+                "link": "/find?type=3&query=chorister",
+                "word": "chorister"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15169",
+                "link": "/find?type=1&query=chorister",
+                "word": "chorister"
+            }
+        ]
+    }
+}

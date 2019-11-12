@@ -1,1 +1,63 @@
-{"en_vn": {"suggests": [{"id": "15103", "link": "/find?type=1&query=cholera", "word": "cholera"}, {"id": "15103", "link": "/find?type=1&query=choleraic", "word": "choleraic"}, {"id": "15103", "link": "/find?type=1&query=choleric", "word": "choleric"}, {"id": "15103", "link": "/find?type=1&query=cholerically", "word": "cholerically"}, {"id": "15103", "link": "/find?type=1&query=cholericly", "word": "cholericly"}, {"id": "15103", "link": "/find?type=1&query=choleroid", "word": "choleroid"}], "data": {"word": "choler", "id": "15103", "pronounce": "/'k\u0252l\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(v\u0103n h\u1ecdc) con gi\u1eadn</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/dafd1f8f848f0ffbfbe2cf6d1f0d73bd/16e5dea555c/C/choler.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/935e87442cc174d801879301a63c8bc9/16e5dea5aef/C/choler.mp3"}}}, "en_en": {"suggests": [{"id": "4863", "link": "/find?type=3&query=cholera", "word": "cholera"}, {"id": "4864", "link": "/find?type=3&query=choleric", "word": "choleric"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4863",
+                "link": "/find?type=3&query=cholera",
+                "word": "cholera"
+            },
+            {
+                "id": "4864",
+                "link": "/find?type=3&query=choleric",
+                "word": "choleric"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(v\u0103n h\u1ecdc) con gi\u1eadn</div>",
+            "id": "15103",
+            "mean": [],
+            "pronounce": "/'k\u0252l\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0ab7d7ee916fbd34159ceabf7764ef5f/16e5ecaccbb/C/choler.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/03d37f93e6e8eea6b0417ee13ec1f685/16e5ecac778/C/choler.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "choler"
+        },
+        "suggests": [
+            {
+                "id": "15103",
+                "link": "/find?type=1&query=cholera",
+                "word": "cholera"
+            },
+            {
+                "id": "15103",
+                "link": "/find?type=1&query=choleraic",
+                "word": "choleraic"
+            },
+            {
+                "id": "15103",
+                "link": "/find?type=1&query=choleric",
+                "word": "choleric"
+            },
+            {
+                "id": "15103",
+                "link": "/find?type=1&query=cholerically",
+                "word": "cholerically"
+            },
+            {
+                "id": "15103",
+                "link": "/find?type=1&query=cholericly",
+                "word": "cholericly"
+            },
+            {
+                "id": "15103",
+                "link": "/find?type=1&query=choleroid",
+                "word": "choleroid"
+            }
+        ]
+    }
+}

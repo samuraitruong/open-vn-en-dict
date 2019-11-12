@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "15106", "link": "/find?type=1&query=cholerically", "word": "cholerically"}, {"id": "15106", "link": "/find?type=1&query=cholericly", "word": "cholericly"}], "data": {"word": "choleric", "id": "15106", "pronounce": "/'k\u0252l\u0259rik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hay c\u00e1u; n\u00f3ng t\u00ednh</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a0d9ece78e063ef715ed226ac6febd6b/16e5dea5602/C/choleric.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b079217648edb8e74e6dd8ddb8fa7c0b/16e5dea5ba9/C/choleric.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "choleric", "id": "4864", "pronounce": "/\u02c8k\u0251\u02d0l\u0259r\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :made angry easily :hot-tempered</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a choleric temperament</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :made angry easily :hot-tempered</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a choleric temperament</div>",
+            "id": "4864",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0l\u0259r\u026ak/",
+            "type": "adjective",
+            "word": "choleric"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hay c\u00e1u; n\u00f3ng t\u00ednh</div>",
+            "id": "15106",
+            "mean": [],
+            "pronounce": "/'k\u0252l\u0259rik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5bd167cfddb1958eb1e4b9770f1af785/16e5ecacd3b/C/choleric.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/041eac7ef6bce78044fdc6ba0fec3d34/16e5ecac7c5/C/choleric.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "choleric"
+        },
+        "suggests": [
+            {
+                "id": "15106",
+                "link": "/find?type=1&query=cholerically",
+                "word": "cholerically"
+            },
+            {
+                "id": "15106",
+                "link": "/find?type=1&query=cholericly",
+                "word": "cholericly"
+            }
+        ]
+    }
+}

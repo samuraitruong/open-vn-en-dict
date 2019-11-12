@@ -1,1 +1,17 @@
-{"en_vn": {"suggests": [{"id": "15100", "link": "/find?type=1&query=cholecystectomy", "word": "cholecystectomy"}, {"id": "15101", "link": "/find?type=1&query=cholecystitis", "word": "cholecystitis"}], "data": {}}}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15100",
+                "link": "/find?type=1&query=cholecystectomy",
+                "word": "cholecystectomy"
+            },
+            {
+                "id": "15101",
+                "link": "/find?type=1&query=cholecystitis",
+                "word": "cholecystitis"
+            }
+        ]
+    }
+}

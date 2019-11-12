@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "15182", "link": "/find?type=1&query=chortle", "word": "chortle"}, {"id": "15183", "link": "/find?type=1&query=chortler", "word": "chortler"}], "data": {}}, "en_en": {"suggests": [{"id": "4889", "link": "/find?type=3&query=chortle", "word": "chortle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4889",
+                "link": "/find?type=3&query=chortle",
+                "word": "chortle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15182",
+                "link": "/find?type=1&query=chortle",
+                "word": "chortle"
+            },
+            {
+                "id": "15183",
+                "link": "/find?type=1&query=chortler",
+                "word": "chortler"
+            }
+        ]
+    }
+}

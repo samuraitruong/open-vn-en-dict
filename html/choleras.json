@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "15104", "link": "/find?type=1&query=choleraic", "word": "choleraic"}], "data": {"word": "cholera", "id": "15104", "pronounce": "/'k\u0252l\u0259r\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh t\u1ea3, b\u1ec7nh d\u1ecbch t\u1ea3</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6137765cfdcdbda199191976720da129/16e5dea556c/C/cholera.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/547523124554b221616a31cd05e1e6de/16e5dea5b1f/C/cholera.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cholera", "id": "4863", "pronounce": "/\u02c8k\u0251\u02d0l\u0259r\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a serious disease that causes severe vomiting and diarrhea and that often results in death</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a serious disease that causes severe vomiting and diarrhea and that often results in death</div>",
+            "id": "4863",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0l\u0259r\u0259/",
+            "type": "noun",
+            "word": "cholera"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh t\u1ea3, b\u1ec7nh d\u1ecbch t\u1ea3</div>",
+            "id": "15104",
+            "mean": [],
+            "pronounce": "/'k\u0252l\u0259r\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/80649047b42c11a3a26c798cd9722039/16e5ecaccdf/C/cholera.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c7cfc5115135be23bece390f30f2c711/16e5ecac7a2/C/cholera.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cholera"
+        },
+        "suggests": [
+            {
+                "id": "15104",
+                "link": "/find?type=1&query=choleraic",
+                "word": "choleraic"
+            }
+        ]
+    }
+}

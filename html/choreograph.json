@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "15157", "link": "/find?type=1&query=choreographer", "word": "choreographer"}, {"id": "15157", "link": "/find?type=1&query=choreographic", "word": "choreographic"}, {"id": "15157", "link": "/find?type=1&query=choreography", "word": "choreography"}], "data": {"word": "choreograph", "id": "15157", "pronounce": "/'k\u0252ri\u0259gr\u0251:f/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bi\u00ean \u0111\u1ea1o m\u00faa</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f930bd439e2bff8f98dc1e23e57d6ddc/16e5dea8e8e/C/choreograph.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c5a4921a8276f92a9bd123fc2d1585f8/16e5dea9438/C/choreograph.mp3"}}}, "en_en": {"suggests": [{"id": "4885", "link": "/find?type=3&query=choreography", "word": "choreography"}], "data": {"word": "choreograph", "id": "4885", "pronounce": "/\u02c8korij\u0259\u02ccgr\u00e6f/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-graphs; -graphed; -graphing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to decide how a dancer or group of dancers will move during a performance</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was hired to choreograph the ballet routines. - often used figuratively</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He carefully choreographed the meeting. [=he arranged the details of the meeting very carefully]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The group had choreographed all aspects of the banquet.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-graphs; -graphed; -graphing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to decide how a dancer or group of dancers will move during a performance</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was hired to choreograph the ballet routines. - often used figuratively</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He carefully choreographed the meeting. [=he arranged the details of the meeting very carefully]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The group had choreographed all aspects of the banquet.</div>",
+            "id": "4885",
+            "mean": [],
+            "pronounce": "/\u02c8korij\u0259\u02ccgr\u00e6f/",
+            "type": "verb",
+            "word": "choreograph"
+        },
+        "suggests": [
+            {
+                "id": "4885",
+                "link": "/find?type=3&query=choreography",
+                "word": "choreography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bi\u00ean \u0111\u1ea1o m\u00faa</div>",
+            "id": "15157",
+            "mean": [],
+            "pronounce": "/'k\u0252ri\u0259gr\u0251:f/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4b3b5727d72c27fd6c5784d4bad26711/16e5ecb0397/C/choreograph.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/37627575772f7ffa217540bd9b83b49a/16e5ecafe7a/C/choreograph.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "choreograph"
+        },
+        "suggests": [
+            {
+                "id": "15157",
+                "link": "/find?type=1&query=choreographer",
+                "word": "choreographer"
+            },
+            {
+                "id": "15157",
+                "link": "/find?type=1&query=choreographic",
+                "word": "choreographic"
+            },
+            {
+                "id": "15157",
+                "link": "/find?type=1&query=choreography",
+                "word": "choreography"
+            }
+        ]
+    }
+}
