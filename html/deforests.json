@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "23544", "link": "/find?type=1&query=deforestation", "word": "deforestation"}, {"id": "23544", "link": "/find?type=1&query=deforester", "word": "deforester"}], "data": {"word": "deforest", "id": "23544", "pronounce": "/,di:'f\u0252rist/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e1 r\u1eebng; ph\u00e1t quang</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7514", "link": "/find?type=3&query=deforestation", "word": "deforestation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7514",
+                "link": "/find?type=3&query=deforestation",
+                "word": "deforestation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e1 r\u1eebng; ph\u00e1t quang</div>",
+            "id": "23544",
+            "mean": [],
+            "pronounce": "/,di:'f\u0252rist/",
+            "speak": {},
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "deforest"
+        },
+        "suggests": [
+            {
+                "id": "23544",
+                "link": "/find?type=1&query=deforestation",
+                "word": "deforestation"
+            },
+            {
+                "id": "23544",
+                "link": "/find?type=1&query=deforester",
+                "word": "deforester"
+            }
+        ]
+    }
+}
