@@ -130,6 +130,8 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                     outfile.seek(0)
                     outfile.truncate()
                     json.dump(html, outfile)
+        except requests.exceptions.ConnectionError:
+             print('%r generated an exception: %s' % (url, exc))
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
             exit()
