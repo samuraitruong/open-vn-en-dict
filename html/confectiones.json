@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "18429", "link": "/find?type=1&query=confectioner", "word": "confectioner"}, {"id": "18430", "link": "/find?type=1&query=confectionery", "word": "confectionery"}], "data": {}}, "en_en": {"suggests": [{"id": "5875", "link": "/find?type=3&query=confectioner", "word": "confectioner"}, {"id": "5876", "link": "/find?type=3&query=confectioners%27+sugar", "word": "confectioners' sugar"}, {"id": "5877", "link": "/find?type=3&query=confectionery", "word": "confectionery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5875",
+                "link": "/find?type=3&query=confectioner",
+                "word": "confectioner"
+            },
+            {
+                "id": "5876",
+                "link": "/find?type=3&query=confectioners%27+sugar",
+                "word": "confectioners' sugar"
+            },
+            {
+                "id": "5877",
+                "link": "/find?type=3&query=confectionery",
+                "word": "confectionery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18429",
+                "link": "/find?type=1&query=confectioner",
+                "word": "confectioner"
+            },
+            {
+                "id": "18430",
+                "link": "/find?type=1&query=confectionery",
+                "word": "confectionery"
+            }
+        ]
+    }
+}
