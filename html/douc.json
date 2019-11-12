@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "27359", "link": "/find?type=1&query=douce", "word": "douce"}, {"id": "27360", "link": "/find?type=1&query=douceur", "word": "douceur"}, {"id": "27361", "link": "/find?type=1&query=douche", "word": "douche"}], "data": {}}, "en_en": {"suggests": [{"id": "8675", "link": "/find?type=3&query=douche", "word": "douche"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8675",
+                "link": "/find?type=3&query=douche",
+                "word": "douche"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27359",
+                "link": "/find?type=1&query=douce",
+                "word": "douce"
+            },
+            {
+                "id": "27360",
+                "link": "/find?type=1&query=douceur",
+                "word": "douceur"
+            },
+            {
+                "id": "27361",
+                "link": "/find?type=1&query=douche",
+                "word": "douche"
+            }
+        ]
+    }
+}
