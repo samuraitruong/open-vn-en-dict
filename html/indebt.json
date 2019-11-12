@@ -1,1 +1,37 @@
-{"error": 0, "query": "indebt", "enViData": {"suggests": [{"id": "47519", "link": "/find?type=1&query=indebted", "word": "indebted"}, {"id": "47520", "link": "/find?type=1&query=indebtedness", "word": "indebtedness"}]}, "mUrl": "/find?type=1&query=indebt", "enEnData": {"suggests": [{"id": "14699", "link": "/find?type=3&query=indebted", "word": "indebted"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3661", "link": "/find?type=4&query=indebted", "word": "indebted"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14699",
+                "link": "/find?type=3&query=indebted",
+                "word": "indebted"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47519",
+                "link": "/find?type=1&query=indebted",
+                "word": "indebted"
+            },
+            {
+                "id": "47520",
+                "link": "/find?type=1&query=indebtedness",
+                "word": "indebtedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3661",
+                "link": "/find?type=4&query=indebted",
+                "word": "indebted"
+            }
+        ]
+    }
+}

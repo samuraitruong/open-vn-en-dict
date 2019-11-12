@@ -1,1 +1,44 @@
-{"error": 0, "query": "indentured", "enViData": {"suggests": [{"id": "47598", "link": "/find?type=1&query=indentured+labour", "word": "indentured labour"}, {"id": "47598", "link": "/find?type=1&query=indentures", "word": "indentures"}, {"id": "47598", "link": "/find?type=1&query=indentureship", "word": "indentureship"}], "best": {"id": "47598", "details": "\n<div id=\"find_word_47598\" class=\"world word_en\" rel=\"indenture\">\n    <h2 class=\"fl\">indenture <span class=\"color-black\">/in'dent\u0283\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"47598\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"47598\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u00fd giao k\u00e8o h\u1ecdc ngh\u1ec1</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">his son was indentured to the local blacksmith</div>\n    \n    <div class=\"margin25\">con trai \u00f4ng ta \u0111\u00e3 k\u00fd giao k\u00e8o h\u1ecdc ngh\u1ec1 v\u1edbi \u00f4ng th\u1ee3 r\u00e8n trong v\u00f9ng</div>\n    \n</div>\n", "link": "/find?type=1&query=indenture", "word": "indenture"}}, "mUrl": "/find?type=1&query=indentured", "enEnData": {"suggests": [], "best": {"id": "14721", "details": "\n<div id=\"find_word_14721\" class=\"world word_en\" rel=\"indentured\">\n    <h2 class=\"fl\">indentured <span class=\"color-black\">/\u026an\u02c8d\u025bn\u02a7\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14721\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14721\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">required by a contract to work for a certain period of time</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">immigrants who came to the U.S. as indentured servants 200 years ago</div>\n    \n</div>\n", "link": "/find?type=3&query=indentured", "word": "indentured"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">required by a contract to work for a certain period of time</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">immigrants who came to the U.S. as indentured servants 200 years ago</div>",
+            "id": "14721",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8d\u025bn\u02a7\u025ad/",
+            "type": "adjective",
+            "word": "indentured"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u00fd giao k\u00e8o h\u1ecdc ngh\u1ec1</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">his son was indentured to the local blacksmith</div>\n    \n    <div class=\"margin25\">con trai \u00f4ng ta \u0111\u00e3 k\u00fd giao k\u00e8o h\u1ecdc ngh\u1ec1 v\u1edbi \u00f4ng th\u1ee3 r\u00e8n trong v\u00f9ng</div>",
+            "id": "47598",
+            "mean": [],
+            "pronounce": "/in'dent\u0283\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3633aed19c556c05b2917a02b73f0d06/16e61cb84ff/I/indenture.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1592db219280296eb68e5b20e0b4a8a8/16e61cb7f38/I/indenture.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "indenture"
+        },
+        "suggests": [
+            {
+                "id": "47598",
+                "link": "/find?type=1&query=indentured+labour",
+                "word": "indentured labour"
+            },
+            {
+                "id": "47598",
+                "link": "/find?type=1&query=indentures",
+                "word": "indentures"
+            },
+            {
+                "id": "47598",
+                "link": "/find?type=1&query=indentureship",
+                "word": "indentureship"
+            }
+        ]
+    }
+}

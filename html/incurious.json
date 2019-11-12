@@ -1,1 +1,36 @@
-{"error": 0, "query": "incurious", "enViData": {"suggests": [{"id": "47505", "link": "/find?type=1&query=incuriously", "word": "incuriously"}, {"id": "47505", "link": "/find?type=1&query=incuriousness", "word": "incuriousness"}], "best": {"id": "47505", "details": "\n<div id=\"find_word_47505\" class=\"world word_en\" rel=\"incurious\">\n    <h2 class=\"fl\">incurious <span class=\"color-black\">/in'kj\u028a\u0259ri\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"47505\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"47505\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng t\u00f2 m\u00f2</div>\n    \n</div>\n", "link": "/find?type=1&query=incurious", "word": "incurious"}}, "mUrl": "/find?type=1&query=incurious", "enEnData": {"suggests": [], "best": {"id": "14697", "details": "\n<div id=\"find_word_14697\" class=\"world word_en\" rel=\"incurious\">\n    <h2 class=\"fl\">incurious <span class=\"color-black\">/\u026an\u02c8kj\u025arij\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14697\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14697\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :having no desire to learn or know more about something or someone :not curious</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She is remarkably incurious about the natural world.</div>\n    \n</div>\n", "link": "/find?type=3&query=incurious", "word": "incurious"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :having no desire to learn or know more about something or someone :not curious</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She is remarkably incurious about the natural world.</div>",
+            "id": "14697",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8kj\u025arij\u0259s/",
+            "type": "adjective",
+            "word": "incurious"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng t\u00f2 m\u00f2</div>",
+            "id": "47505",
+            "mean": [],
+            "pronounce": "/in'kj\u028a\u0259ri\u0259s/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "incurious"
+        },
+        "suggests": [
+            {
+                "id": "47505",
+                "link": "/find?type=1&query=incuriously",
+                "word": "incuriously"
+            },
+            {
+                "id": "47505",
+                "link": "/find?type=1&query=incuriousness",
+                "word": "incuriousness"
+            }
+        ]
+    }
+}
