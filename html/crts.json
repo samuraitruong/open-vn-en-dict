@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "21337", "link": "/find?type=1&query=CRT+%28cathode+ray+tube%29", "word": "CRT (cathode ray tube)"}, {"id": "21337", "link": "/find?type=1&query=CRT+display", "word": "CRT display"}], "data": {"word": "crt", "id": "21337", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">\u1ed1ng tia \u0111i\u1ec7n t\u1eed</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "CRT", "id": "6867", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">cathode-ray tube</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">cathode-ray tube</div>",
+            "id": "6867",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "CRT"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u1ed1ng tia \u0111i\u1ec7n t\u1eed</div>",
+            "id": "21337",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "crt"
+        },
+        "suggests": [
+            {
+                "id": "21337",
+                "link": "/find?type=1&query=CRT+%28cathode+ray+tube%29",
+                "word": "CRT (cathode ray tube)"
+            },
+            {
+                "id": "21337",
+                "link": "/find?type=1&query=CRT+display",
+                "word": "CRT display"
+            }
+        ]
+    }
+}

@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "21295", "link": "/find?type=1&query=croupe", "word": "croupe"}, {"id": "21295", "link": "/find?type=1&query=croupier", "word": "croupier"}, {"id": "21295", "link": "/find?type=1&query=croupous", "word": "croupous"}], "data": {"word": "croup", "id": "21295", "pronounce": "/kru:p/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh b\u1ea1ch h\u1ea7u thanh qu\u1ea3n</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f4ng (ng\u1ef1a)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/2d3ec4e498d01e6f1081dbc9905868b7/16e5dfc1ed0/C/croup.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f407196f58e82cbee4f983d2c6d7d3ec/16e5dfc24ba/C/croup.mp3"}}}, "en_en": {"suggests": [{"id": "6850", "link": "/find?type=3&query=croupier", "word": "croupier"}], "data": {"word": "croup", "id": "6850", "pronounce": "/\u02c8kru\u02d0p/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a sickness that young children sometimes get that makes them cough a lot and have trouble breathing</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a sickness that young children sometimes get that makes them cough a lot and have trouble breathing</div>",
+            "id": "6850",
+            "mean": [],
+            "pronounce": "/\u02c8kru\u02d0p/",
+            "type": "noun",
+            "word": "croup"
+        },
+        "suggests": [
+            {
+                "id": "6850",
+                "link": "/find?type=3&query=croupier",
+                "word": "croupier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh b\u1ea1ch h\u1ea7u thanh qu\u1ea3n</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f4ng (ng\u1ef1a)</div>",
+            "id": "21295",
+            "mean": [],
+            "pronounce": "/kru:p/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5dc8cffef7b78c54fe383ec464152597/16e5ee1a951/C/croup.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a5518d2005b1bf10bd29928a610abac9/16e5ee1a047/C/croup.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "croup"
+        },
+        "suggests": [
+            {
+                "id": "21295",
+                "link": "/find?type=1&query=croupe",
+                "word": "croupe"
+            },
+            {
+                "id": "21295",
+                "link": "/find?type=1&query=croupier",
+                "word": "croupier"
+            },
+            {
+                "id": "21295",
+                "link": "/find?type=1&query=croupous",
+                "word": "croupous"
+            }
+        ]
+    }
+}

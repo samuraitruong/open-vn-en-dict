@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "21357", "link": "/find?type=1&query=cruddly", "word": "cruddly"}, {"id": "21358", "link": "/find?type=1&query=cruddy", "word": "cruddy"}], "data": {}}, "en_en": {"suggests": [{"id": "6875", "link": "/find?type=3&query=cruddy", "word": "cruddy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6875",
+                "link": "/find?type=3&query=cruddy",
+                "word": "cruddy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21357",
+                "link": "/find?type=1&query=cruddly",
+                "word": "cruddly"
+            },
+            {
+                "id": "21358",
+                "link": "/find?type=1&query=cruddy",
+                "word": "cruddy"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "21350", "link": "/find?type=1&query=crucifixion", "word": "crucifixion"}], "data": {"word": "crucifix", "id": "21350", "pronounce": "/'kru:sifiks/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e1nh gi\u00e1, h\u00ecnh ch\u1eef th\u1eadp</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8f5ddc8e0e73d74b6a702d6c286160af/16e5dfc421b/C/crucifix.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/316a018cad57472e00b337a323ee7d3f/16e5dfc4801/C/crucifix.mp3"}}}, "en_en": {"suggests": [{"id": "6870", "link": "/find?type=3&query=crucifixion", "word": "crucifixion"}], "data": {"word": "crucifix", "id": "6870", "pronounce": "/\u02c8kru\u02d0s\u0259\u02ccf\u026aks/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fixes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a model of a cross with a figure of Jesus Christ crucified on it</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He wears a crucifix on a chain around his neck.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fixes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a model of a cross with a figure of Jesus Christ crucified on it</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He wears a crucifix on a chain around his neck.</div>",
+            "id": "6870",
+            "mean": [],
+            "pronounce": "/\u02c8kru\u02d0s\u0259\u02ccf\u026aks/",
+            "type": "noun",
+            "word": "crucifix"
+        },
+        "suggests": [
+            {
+                "id": "6870",
+                "link": "/find?type=3&query=crucifixion",
+                "word": "crucifixion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e1nh gi\u00e1, h\u00ecnh ch\u1eef th\u1eadp</div>",
+            "id": "21350",
+            "mean": [],
+            "pronounce": "/'kru:sifiks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0e744390492a6834a79c5c4bf88cb776/16e5ee1da74/C/crucifix.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f6b58938848025da103429289dec9951/16e5ee1d1a8/C/crucifix.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "crucifix"
+        },
+        "suggests": [
+            {
+                "id": "21350",
+                "link": "/find?type=1&query=crucifixion",
+                "word": "crucifixion"
+            }
+        ]
+    }
+}
