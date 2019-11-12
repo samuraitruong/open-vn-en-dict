@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "31752", "link": "/find?type=1&query=erosion", "word": "erosion"}, {"id": "31752", "link": "/find?type=1&query=erosional", "word": "erosional"}, {"id": "31752", "link": "/find?type=1&query=erosionally", "word": "erosionally"}, {"id": "31752", "link": "/find?type=1&query=erosive", "word": "erosive"}, {"id": "31752", "link": "/find?type=1&query=erosiveness", "word": "erosiveness"}, {"id": "31752", "link": "/find?type=1&query=erosivity", "word": "erosivity"}], "data": {"word": "eros", "id": "31752", "pronounce": "/'er\u0254s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea7n \u00e1i t\u00ecnh</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9736", "link": "/find?type=3&query=erosion", "word": "erosion"}], "data": {}}, "synonyms": {"suggests": [{"id": "2243", "link": "/find?type=4&query=erosion", "word": "erosion"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9736",
+                "link": "/find?type=3&query=erosion",
+                "word": "erosion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea7n \u00e1i t\u00ecnh</div>",
+            "id": "31752",
+            "mean": [],
+            "pronounce": "/'er\u0254s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "eros"
+        },
+        "suggests": [
+            {
+                "id": "31752",
+                "link": "/find?type=1&query=erosion",
+                "word": "erosion"
+            },
+            {
+                "id": "31752",
+                "link": "/find?type=1&query=erosional",
+                "word": "erosional"
+            },
+            {
+                "id": "31752",
+                "link": "/find?type=1&query=erosionally",
+                "word": "erosionally"
+            },
+            {
+                "id": "31752",
+                "link": "/find?type=1&query=erosive",
+                "word": "erosive"
+            },
+            {
+                "id": "31752",
+                "link": "/find?type=1&query=erosiveness",
+                "word": "erosiveness"
+            },
+            {
+                "id": "31752",
+                "link": "/find?type=1&query=erosivity",
+                "word": "erosivity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2243",
+                "link": "/find?type=4&query=erosion",
+                "word": "erosion"
+            }
+        ]
+    }
+}
