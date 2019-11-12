@@ -1,1 +1,22 @@
-{"error": 0, "query": "gagged", "enViData": {"suggests": [{"id": "38718", "link": "/find?type=1&query=gagger", "word": "gagger"}]}, "mUrl": "/find?type=1&query=gagged", "enEnData": {"suggests": [{"id": "11730", "link": "/find?type=3&query=gaggle", "word": "gaggle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11730",
+                "link": "/find?type=3&query=gaggle",
+                "word": "gaggle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38718",
+                "link": "/find?type=1&query=gagger",
+                "word": "gagger"
+            }
+        ]
+    }
+}
