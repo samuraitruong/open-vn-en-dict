@@ -1,1 +1,22 @@
-{"error": 0, "query": "gargantua", "enViData": {"suggests": [{"id": "39043", "link": "/find?type=1&query=gargantuan", "word": "gargantuan"}]}, "mUrl": "/find?type=1&query=gargantua", "enEnData": {"suggests": [{"id": "11827", "link": "/find?type=3&query=gargantuan", "word": "gargantuan"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11827",
+                "link": "/find?type=3&query=gargantuan",
+                "word": "gargantuan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39043",
+                "link": "/find?type=1&query=gargantuan",
+                "word": "gargantuan"
+            }
+        ]
+    }
+}
