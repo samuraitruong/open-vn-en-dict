@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "9239", "link": "/find?type=1&query=bigoted", "word": "bigoted"}, {"id": "9239", "link": "/find?type=1&query=bigotry", "word": "bigotry"}], "data": {"word": "bigot", "id": "9239", "pronounce": "/'big\u0259t/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tin m\u00f9 qu\u00e1ng (th\u01b0\u1eddng l\u00e0 v\u1ec1 t\u00f4n gi\u00e1o, ch\u00ednh tr\u1ecb)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b17509a126d04aa3a084681cd7cc6165/16e5dd651cf/B/bigot.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8ea3b30a18b670c399d70edf1070cc7e/16e5dd657c7/B/bigot.mp3"}}}, "en_en": {"suggests": [{"id": "2584", "link": "/find?type=3&query=bigoted", "word": "bigoted"}, {"id": "2584", "link": "/find?type=3&query=bigotry", "word": "bigotry"}], "data": {"word": "bigot", "id": "2584", "pronounce": "/\u02c8b\u026ag\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ots</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a person who strongly and unfairly dislikes other people, ideas, etc. :a bigoted person especially;  :a person who hates or refuses to accept the members of a particular group (such as a racial or religious group)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was labeled a bigot after making some offensive comments.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "539", "link": "/find?type=4&query=bigoted", "word": "bigoted"}, {"id": "540", "link": "/find?type=4&query=bigotry", "word": "bigotry"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ots</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a person who strongly and unfairly dislikes other people, ideas, etc. :a bigoted person especially;  :a person who hates or refuses to accept the members of a particular group (such as a racial or religious group)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was labeled a bigot after making some offensive comments.</div>",
+            "id": "2584",
+            "mean": [],
+            "pronounce": "/\u02c8b\u026ag\u0259t/",
+            "type": "noun",
+            "word": "bigot"
+        },
+        "suggests": [
+            {
+                "id": "2584",
+                "link": "/find?type=3&query=bigoted",
+                "word": "bigoted"
+            },
+            {
+                "id": "2584",
+                "link": "/find?type=3&query=bigotry",
+                "word": "bigotry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tin m\u00f9 qu\u00e1ng (th\u01b0\u1eddng l\u00e0 v\u1ec1 t\u00f4n gi\u00e1o, ch\u00ednh tr\u1ecb)</div>",
+            "id": "9239",
+            "mean": [],
+            "pronounce": "/'big\u0259t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c7809582eba6ff8e5b34f23477054e8f/16e5eb88c57/B/bigot.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/39467f379aa95ecc272926b9e6d2c240/16e5eb88754/B/bigot.mp3"
+            },
+            "type": "",
+            "word": "bigot"
+        },
+        "suggests": [
+            {
+                "id": "9239",
+                "link": "/find?type=1&query=bigoted",
+                "word": "bigoted"
+            },
+            {
+                "id": "9239",
+                "link": "/find?type=1&query=bigotry",
+                "word": "bigotry"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "539",
+                "link": "/find?type=4&query=bigoted",
+                "word": "bigoted"
+            },
+            {
+                "id": "540",
+                "link": "/find?type=4&query=bigotry",
+                "word": "bigotry"
+            }
+        ]
+    }
+}

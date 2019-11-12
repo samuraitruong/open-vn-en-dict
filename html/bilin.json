@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "9270", "link": "/find?type=1&query=bilinear", "word": "bilinear"}, {"id": "9271", "link": "/find?type=1&query=bilinear+system", "word": "bilinear system"}, {"id": "9272", "link": "/find?type=1&query=bilingual", "word": "bilingual"}, {"id": "9273", "link": "/find?type=1&query=bilingually", "word": "bilingually"}], "data": {}}, "en_en": {"suggests": [{"id": "2598", "link": "/find?type=3&query=bilingual", "word": "bilingual"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2598",
+                "link": "/find?type=3&query=bilingual",
+                "word": "bilingual"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9270",
+                "link": "/find?type=1&query=bilinear",
+                "word": "bilinear"
+            },
+            {
+                "id": "9271",
+                "link": "/find?type=1&query=bilinear+system",
+                "word": "bilinear system"
+            },
+            {
+                "id": "9272",
+                "link": "/find?type=1&query=bilingual",
+                "word": "bilingual"
+            },
+            {
+                "id": "9273",
+                "link": "/find?type=1&query=bilingually",
+                "word": "bilingually"
+            }
+        ]
+    }
+}

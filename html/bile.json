@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "9263", "link": "/find?type=1&query=bile-duct", "word": "bile-duct"}, {"id": "9263", "link": "/find?type=1&query=bile-stone", "word": "bile-stone"}, {"id": "9263", "link": "/find?type=1&query=bilevel+resist", "word": "bilevel resist"}], "data": {"word": "bile", "id": "9263", "pronounce": "/'bail/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh c\u00e1u g\u1eaft</div>\n    \n    <div class=\"\">(sinh v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eadt (do gan ti\u1ebft ra)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d48ac513228ed830477499078aff190f/16e5dd66b87/B/bile.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/224bfed92401c6884552e863fb951579/16e5dd67191/B/bile.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "bile", "id": "2596", "pronounce": "/\u02c8baj\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] a yellow or greenish liquid that is made by the liver and that helps the body to digest fats</div>\n    \n    <div class=\"green margin25 m-top15\">anger or hatred</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">One writer objected to what she described as the bile that is spewed from the newspaper's editorial page.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] a yellow or greenish liquid that is made by the liver and that helps the body to digest fats</div>\n    \n    <div class=\"green margin25 m-top15\">anger or hatred</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">One writer objected to what she described as the bile that is spewed from the newspaper's editorial page.</div>",
+            "id": "2596",
+            "mean": [],
+            "pronounce": "/\u02c8baj\u0259l/",
+            "type": "noun",
+            "word": "bile"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh c\u00e1u g\u1eaft</div>\n    \n    <div class=\"\">(sinh v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eadt (do gan ti\u1ebft ra)</div>",
+            "id": "9263",
+            "mean": [],
+            "pronounce": "/'bail/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b26e2cbaefbf402fa4ea8e722876f181/16e5eb8a357/B/bile.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7b2fedd0e6431dbb3d3a5e3fa5ec350c/16e5eb89dbc/B/bile.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bile"
+        },
+        "suggests": [
+            {
+                "id": "9263",
+                "link": "/find?type=1&query=bile-duct",
+                "word": "bile-duct"
+            },
+            {
+                "id": "9263",
+                "link": "/find?type=1&query=bile-stone",
+                "word": "bile-stone"
+            },
+            {
+                "id": "9263",
+                "link": "/find?type=1&query=bilevel+resist",
+                "word": "bilevel resist"
+            }
+        ]
+    }
+}

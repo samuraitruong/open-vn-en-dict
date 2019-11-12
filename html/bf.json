@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "9113", "link": "/find?type=1&query=BFPO", "word": "BFPO"}], "data": {}}, "en_en": {"suggests": [{"id": "2511", "link": "/find?type=3&query=BFA", "word": "BFA"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2511",
+                "link": "/find?type=3&query=BFA",
+                "word": "BFA"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9113",
+                "link": "/find?type=1&query=BFPO",
+                "word": "BFPO"
+            }
+        ]
+    }
+}

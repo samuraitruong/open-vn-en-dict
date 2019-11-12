@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "9193", "link": "/find?type=1&query=biennial", "word": "biennial"}, {"id": "9194", "link": "/find?type=1&query=biennially", "word": "biennially"}], "data": {}}, "en_en": {"suggests": [{"id": "2541", "link": "/find?type=3&query=biennial", "word": "biennial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2541",
+                "link": "/find?type=3&query=biennial",
+                "word": "biennial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9193",
+                "link": "/find?type=1&query=biennial",
+                "word": "biennial"
+            },
+            {
+                "id": "9194",
+                "link": "/find?type=1&query=biennially",
+                "word": "biennially"
+            }
+        ]
+    }
+}

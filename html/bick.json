@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "9168", "link": "/find?type=1&query=bicker", "word": "bicker"}], "data": {}}, "en_en": {"suggests": [{"id": "2531", "link": "/find?type=3&query=bicker", "word": "bicker"}], "data": {}}, "synonyms": {"suggests": [{"id": "535", "link": "/find?type=4&query=bicker", "word": "bicker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2531",
+                "link": "/find?type=3&query=bicker",
+                "word": "bicker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9168",
+                "link": "/find?type=1&query=bicker",
+                "word": "bicker"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "535",
+                "link": "/find?type=4&query=bicker",
+                "word": "bicker"
+            }
+        ]
+    }
+}

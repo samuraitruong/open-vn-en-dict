@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "9295", "link": "/find?type=1&query=billiard-", "word": "billiard-"}, {"id": "9296", "link": "/find?type=1&query=billiards", "word": "billiards"}], "data": {}}, "en_en": {"suggests": [{"id": "2609", "link": "/find?type=3&query=billiards", "word": "billiards"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2609",
+                "link": "/find?type=3&query=billiards",
+                "word": "billiards"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9295",
+                "link": "/find?type=1&query=billiard-",
+                "word": "billiard-"
+            },
+            {
+                "id": "9296",
+                "link": "/find?type=1&query=billiards",
+                "word": "billiards"
+            }
+        ]
+    }
+}

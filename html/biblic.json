@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "9136", "link": "/find?type=1&query=biblical", "word": "biblical"}], "data": {}}, "en_en": {"suggests": [{"id": "2520", "link": "/find?type=3&query=biblical", "word": "biblical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2520",
+                "link": "/find?type=3&query=biblical",
+                "word": "biblical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9136",
+                "link": "/find?type=1&query=biblical",
+                "word": "biblical"
+            }
+        ]
+    }
+}

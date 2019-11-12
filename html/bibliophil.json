@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "9148", "link": "/find?type=1&query=bibliophile", "word": "bibliophile"}, {"id": "9149", "link": "/find?type=1&query=bibliophilism", "word": "bibliophilism"}, {"id": "9150", "link": "/find?type=1&query=bibliophilist", "word": "bibliophilist"}], "data": {}}, "en_en": {"suggests": [{"id": "2523", "link": "/find?type=3&query=bibliophile", "word": "bibliophile"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2523",
+                "link": "/find?type=3&query=bibliophile",
+                "word": "bibliophile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9148",
+                "link": "/find?type=1&query=bibliophile",
+                "word": "bibliophile"
+            },
+            {
+                "id": "9149",
+                "link": "/find?type=1&query=bibliophilism",
+                "word": "bibliophilism"
+            },
+            {
+                "id": "9150",
+                "link": "/find?type=1&query=bibliophilist",
+                "word": "bibliophilist"
+            }
+        ]
+    }
+}

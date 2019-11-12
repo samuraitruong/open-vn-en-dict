@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "9274", "link": "/find?type=1&query=bilious", "word": "bilious"}, {"id": "9275", "link": "/find?type=1&query=biliously", "word": "biliously"}, {"id": "9276", "link": "/find?type=1&query=biliousness", "word": "biliousness"}], "data": {}}, "en_en": {"suggests": [{"id": "2599", "link": "/find?type=3&query=bilious", "word": "bilious"}], "data": {}}, "synonyms": {"suggests": [{"id": "542", "link": "/find?type=4&query=bilious", "word": "bilious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2599",
+                "link": "/find?type=3&query=bilious",
+                "word": "bilious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9274",
+                "link": "/find?type=1&query=bilious",
+                "word": "bilious"
+            },
+            {
+                "id": "9275",
+                "link": "/find?type=1&query=biliously",
+                "word": "biliously"
+            },
+            {
+                "id": "9276",
+                "link": "/find?type=1&query=biliousness",
+                "word": "biliousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "542",
+                "link": "/find?type=4&query=bilious",
+                "word": "bilious"
+            }
+        ]
+    }
+}
