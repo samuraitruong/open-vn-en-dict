@@ -1,1 +1,50 @@
-{"error": 0, "query": "gnarl", "enViData": {"suggests": [{"id": "40421", "link": "/find?type=1&query=gnarled", "word": "gnarled"}, {"id": "40421", "link": "/find?type=1&query=gnarly", "word": "gnarly"}], "best": {"id": "40421", "details": "\n<div id=\"find_word_40421\" class=\"world word_en\" rel=\"gnarl\">\n    <h2 class=\"fl\">gnarl <span class=\"color-black\">/n\u0251:l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40421\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40421\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) m\u1ea5u, \u0111\u1ea7u m\u1ea5u</div>\n    \n</div>\n", "link": "/find?type=1&query=gnarl", "word": "gnarl"}}, "mUrl": "/find?type=1&query=gnarl", "enEnData": {"suggests": [{"id": "12203", "link": "/find?type=3&query=gnarled", "word": "gnarled"}, {"id": "12204", "link": "/find?type=3&query=gnarly", "word": "gnarly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3032", "link": "/find?type=4&query=gnarled", "word": "gnarled"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12203",
+                "link": "/find?type=3&query=gnarled",
+                "word": "gnarled"
+            },
+            {
+                "id": "12204",
+                "link": "/find?type=3&query=gnarly",
+                "word": "gnarly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) m\u1ea5u, \u0111\u1ea7u m\u1ea5u</div>",
+            "id": "40421",
+            "mean": [],
+            "pronounce": "/n\u0251:l/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "gnarl"
+        },
+        "suggests": [
+            {
+                "id": "40421",
+                "link": "/find?type=1&query=gnarled",
+                "word": "gnarled"
+            },
+            {
+                "id": "40421",
+                "link": "/find?type=1&query=gnarly",
+                "word": "gnarly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3032",
+                "link": "/find?type=4&query=gnarled",
+                "word": "gnarled"
+            }
+        ]
+    }
+}
