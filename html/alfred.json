@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2445", "link": "/find?type=1&query=alfresco", "word": "alfresco"}], "data": {}}, "en_en": {"suggests": [{"id": "646", "link": "/find?type=3&query=alfresco", "word": "alfresco"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "646",
+                "link": "/find?type=3&query=alfresco",
+                "word": "alfresco"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2445",
+                "link": "/find?type=1&query=alfresco",
+                "word": "alfresco"
+            }
+        ]
+    }
+}

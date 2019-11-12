@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "2397", "link": "/find?type=1&query=alcohol", "word": "alcohol"}, {"id": "2398", "link": "/find?type=1&query=alcoholic", "word": "alcoholic"}, {"id": "2399", "link": "/find?type=1&query=alcoholisation", "word": "alcoholisation"}, {"id": "2400", "link": "/find?type=1&query=alcoholise", "word": "alcoholise"}, {"id": "2401", "link": "/find?type=1&query=alcoholism", "word": "alcoholism"}, {"id": "2402", "link": "/find?type=1&query=alcoholization", "word": "alcoholization"}, {"id": "2403", "link": "/find?type=1&query=alcoholize", "word": "alcoholize"}, {"id": "2404", "link": "/find?type=1&query=alcoholometer", "word": "alcoholometer"}, {"id": "2405", "link": "/find?type=1&query=alcoholometry", "word": "alcoholometry"}, {"id": "2406", "link": "/find?type=1&query=alcoran", "word": "alcoran"}], "data": {}}, "en_en": {"suggests": [{"id": "635", "link": "/find?type=3&query=alcohol", "word": "alcohol"}, {"id": "636", "link": "/find?type=3&query=alcoholic", "word": "alcoholic"}, {"id": "637", "link": "/find?type=3&query=alcoholism", "word": "alcoholism"}, {"id": "638", "link": "/find?type=3&query=alcove", "word": "alcove"}], "data": {}}, "synonyms": {"suggests": [{"id": "184", "link": "/find?type=4&query=alcohol", "word": "alcohol"}, {"id": "185", "link": "/find?type=4&query=alcoholic", "word": "alcoholic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "635",
+                "link": "/find?type=3&query=alcohol",
+                "word": "alcohol"
+            },
+            {
+                "id": "636",
+                "link": "/find?type=3&query=alcoholic",
+                "word": "alcoholic"
+            },
+            {
+                "id": "637",
+                "link": "/find?type=3&query=alcoholism",
+                "word": "alcoholism"
+            },
+            {
+                "id": "638",
+                "link": "/find?type=3&query=alcove",
+                "word": "alcove"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2397",
+                "link": "/find?type=1&query=alcohol",
+                "word": "alcohol"
+            },
+            {
+                "id": "2398",
+                "link": "/find?type=1&query=alcoholic",
+                "word": "alcoholic"
+            },
+            {
+                "id": "2399",
+                "link": "/find?type=1&query=alcoholisation",
+                "word": "alcoholisation"
+            },
+            {
+                "id": "2400",
+                "link": "/find?type=1&query=alcoholise",
+                "word": "alcoholise"
+            },
+            {
+                "id": "2401",
+                "link": "/find?type=1&query=alcoholism",
+                "word": "alcoholism"
+            },
+            {
+                "id": "2402",
+                "link": "/find?type=1&query=alcoholization",
+                "word": "alcoholization"
+            },
+            {
+                "id": "2403",
+                "link": "/find?type=1&query=alcoholize",
+                "word": "alcoholize"
+            },
+            {
+                "id": "2404",
+                "link": "/find?type=1&query=alcoholometer",
+                "word": "alcoholometer"
+            },
+            {
+                "id": "2405",
+                "link": "/find?type=1&query=alcoholometry",
+                "word": "alcoholometry"
+            },
+            {
+                "id": "2406",
+                "link": "/find?type=1&query=alcoran",
+                "word": "alcoran"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "184",
+                "link": "/find?type=4&query=alcohol",
+                "word": "alcohol"
+            },
+            {
+                "id": "185",
+                "link": "/find?type=4&query=alcoholic",
+                "word": "alcoholic"
+            }
+        ]
+    }
+}

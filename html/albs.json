@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "2359", "link": "/find?type=1&query=albacore", "word": "albacore"}, {"id": "2359", "link": "/find?type=1&query=albanian", "word": "albanian"}, {"id": "2359", "link": "/find?type=1&query=albata", "word": "albata"}, {"id": "2359", "link": "/find?type=1&query=albatross", "word": "albatross"}, {"id": "2359", "link": "/find?type=1&query=albedo", "word": "albedo"}, {"id": "2359", "link": "/find?type=1&query=albeit", "word": "albeit"}, {"id": "2359", "link": "/find?type=1&query=albert", "word": "albert"}, {"id": "2359", "link": "/find?type=1&query=albescent", "word": "albescent"}, {"id": "2359", "link": "/find?type=1&query=albiness", "word": "albiness"}], "data": {"word": "alb", "id": "2359", "pronounce": "/\u00e6lb/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o d\u00e0i tr\u1eafng (c\u1ee7a th\u1ea7y tu, c\u1ee7a vua \u0111\u01b0\u1ee3c phong th\u00e1nh)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "629", "link": "/find?type=3&query=albatross", "word": "albatross"}, {"id": "630", "link": "/find?type=3&query=albeit", "word": "albeit"}, {"id": "631", "link": "/find?type=3&query=albino", "word": "albino"}, {"id": "632", "link": "/find?type=3&query=album", "word": "album"}, {"id": "633", "link": "/find?type=3&query=albumen", "word": "albumen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "629",
+                "link": "/find?type=3&query=albatross",
+                "word": "albatross"
+            },
+            {
+                "id": "630",
+                "link": "/find?type=3&query=albeit",
+                "word": "albeit"
+            },
+            {
+                "id": "631",
+                "link": "/find?type=3&query=albino",
+                "word": "albino"
+            },
+            {
+                "id": "632",
+                "link": "/find?type=3&query=album",
+                "word": "album"
+            },
+            {
+                "id": "633",
+                "link": "/find?type=3&query=albumen",
+                "word": "albumen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o d\u00e0i tr\u1eafng (c\u1ee7a th\u1ea7y tu, c\u1ee7a vua \u0111\u01b0\u1ee3c phong th\u00e1nh)</div>",
+            "id": "2359",
+            "mean": [],
+            "pronounce": "/\u00e6lb/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "alb"
+        },
+        "suggests": [
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albacore",
+                "word": "albacore"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albanian",
+                "word": "albanian"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albata",
+                "word": "albata"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albatross",
+                "word": "albatross"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albedo",
+                "word": "albedo"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albeit",
+                "word": "albeit"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albert",
+                "word": "albert"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albescent",
+                "word": "albescent"
+            },
+            {
+                "id": "2359",
+                "link": "/find?type=1&query=albiness",
+                "word": "albiness"
+            }
+        ]
+    }
+}

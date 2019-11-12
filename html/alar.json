@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "2346", "link": "/find?type=1&query=alarm", "word": "alarm"}, {"id": "2346", "link": "/find?type=1&query=alarm+clock", "word": "alarm clock"}, {"id": "2346", "link": "/find?type=1&query=alarm+module", "word": "alarm module"}, {"id": "2346", "link": "/find?type=1&query=alarm-post", "word": "alarm-post"}, {"id": "2346", "link": "/find?type=1&query=alarmed", "word": "alarmed"}, {"id": "2346", "link": "/find?type=1&query=alarming", "word": "alarming"}, {"id": "2346", "link": "/find?type=1&query=alarmingly", "word": "alarmingly"}, {"id": "2346", "link": "/find?type=1&query=alarmism", "word": "alarmism"}, {"id": "2346", "link": "/find?type=1&query=alarmist", "word": "alarmist"}], "data": {"word": "alar", "id": "2346", "pronounce": "/'eil\u0259/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) c\u00e1nh; gi\u1ed1ng c\u00e1nh; h\u00ecnh c\u00e1nh</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "625", "link": "/find?type=3&query=alarm", "word": "alarm"}, {"id": "626", "link": "/find?type=3&query=alarm+clock", "word": "alarm clock"}, {"id": "627", "link": "/find?type=3&query=alarmist", "word": "alarmist"}], "data": {}}, "synonyms": {"suggests": [{"id": "183", "link": "/find?type=4&query=alarm", "word": "alarm"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "625",
+                "link": "/find?type=3&query=alarm",
+                "word": "alarm"
+            },
+            {
+                "id": "626",
+                "link": "/find?type=3&query=alarm+clock",
+                "word": "alarm clock"
+            },
+            {
+                "id": "627",
+                "link": "/find?type=3&query=alarmist",
+                "word": "alarmist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) c\u00e1nh; gi\u1ed1ng c\u00e1nh; h\u00ecnh c\u00e1nh</div>",
+            "id": "2346",
+            "mean": [],
+            "pronounce": "/'eil\u0259/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "alar"
+        },
+        "suggests": [
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarm",
+                "word": "alarm"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarm+clock",
+                "word": "alarm clock"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarm+module",
+                "word": "alarm module"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarm-post",
+                "word": "alarm-post"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarmed",
+                "word": "alarmed"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarming",
+                "word": "alarming"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarmingly",
+                "word": "alarmingly"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarmism",
+                "word": "alarmism"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alarmist",
+                "word": "alarmist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "183",
+                "link": "/find?type=4&query=alarm",
+                "word": "alarm"
+            }
+        ]
+    }
+}

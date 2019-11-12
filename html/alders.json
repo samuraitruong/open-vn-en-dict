@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "2411", "link": "/find?type=1&query=alderman", "word": "alderman"}, {"id": "2411", "link": "/find?type=1&query=aldermancy", "word": "aldermancy"}, {"id": "2411", "link": "/find?type=1&query=aldermanic", "word": "aldermanic"}, {"id": "2411", "link": "/find?type=1&query=aldermanry", "word": "aldermanry"}, {"id": "2411", "link": "/find?type=1&query=aldermanship", "word": "aldermanship"}], "data": {"word": "alder", "id": "2411", "pronounce": "/'\u0254:ld\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y t\u1ed1ng qu\u00e1n s\u1ee7i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "639", "link": "/find?type=3&query=alderman", "word": "alderman"}], "data": {"word": "alder", "id": "639", "pronounce": "/\u02c8\u0251\u02d0ld\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ders</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of tree or shrub that grows in wet ground in some northern countries</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ders</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of tree or shrub that grows in wet ground in some northern countries</div>",
+            "id": "639",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0ld\u025a/",
+            "type": "noun",
+            "word": "alder"
+        },
+        "suggests": [
+            {
+                "id": "639",
+                "link": "/find?type=3&query=alderman",
+                "word": "alderman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y t\u1ed1ng qu\u00e1n s\u1ee7i</div>",
+            "id": "2411",
+            "mean": [],
+            "pronounce": "/'\u0254:ld\u0259[r]/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "alder"
+        },
+        "suggests": [
+            {
+                "id": "2411",
+                "link": "/find?type=1&query=alderman",
+                "word": "alderman"
+            },
+            {
+                "id": "2411",
+                "link": "/find?type=1&query=aldermancy",
+                "word": "aldermancy"
+            },
+            {
+                "id": "2411",
+                "link": "/find?type=1&query=aldermanic",
+                "word": "aldermanic"
+            },
+            {
+                "id": "2411",
+                "link": "/find?type=1&query=aldermanry",
+                "word": "aldermanry"
+            },
+            {
+                "id": "2411",
+                "link": "/find?type=1&query=aldermanship",
+                "word": "aldermanship"
+            }
+        ]
+    }
+}

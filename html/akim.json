@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2336", "link": "/find?type=1&query=akimbo", "word": "akimbo"}], "data": {}}, "en_en": {"suggests": [{"id": "618", "link": "/find?type=3&query=akimbo", "word": "akimbo"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "618",
+                "link": "/find?type=3&query=akimbo",
+                "word": "akimbo"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2336",
+                "link": "/find?type=1&query=akimbo",
+                "word": "akimbo"
+            }
+        ]
+    }
+}
