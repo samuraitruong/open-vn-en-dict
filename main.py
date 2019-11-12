@@ -115,7 +115,7 @@ def getWord(word):
 
 
 if len(sys.argv) > 1:
-    pprint.pprint(getWordFromLaban("agromania"))
+    pprint.pprint(getWordFromLaban(sys.argv[1]))
     exit()
 words = getWordList()
 
