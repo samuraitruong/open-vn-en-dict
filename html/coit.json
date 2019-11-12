@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "16892", "link": "/find?type=1&query=coital", "word": "coital"}, {"id": "16893", "link": "/find?type=1&query=coitally", "word": "coitally"}, {"id": "16894", "link": "/find?type=1&query=coition", "word": "coition"}, {"id": "16895", "link": "/find?type=1&query=coitus", "word": "coitus"}], "data": {}}, "en_en": {"suggests": [{"id": "5450", "link": "/find?type=3&query=coitus", "word": "coitus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5450",
+                "link": "/find?type=3&query=coitus",
+                "word": "coitus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16892",
+                "link": "/find?type=1&query=coital",
+                "word": "coital"
+            },
+            {
+                "id": "16893",
+                "link": "/find?type=1&query=coitally",
+                "word": "coitally"
+            },
+            {
+                "id": "16894",
+                "link": "/find?type=1&query=coition",
+                "word": "coition"
+            },
+            {
+                "id": "16895",
+                "link": "/find?type=1&query=coitus",
+                "word": "coitus"
+            }
+        ]
+    }
+}

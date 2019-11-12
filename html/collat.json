@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "16981", "link": "/find?type=1&query=collatable", "word": "collatable"}, {"id": "16982", "link": "/find?type=1&query=collate", "word": "collate"}, {"id": "16983", "link": "/find?type=1&query=collateral", "word": "collateral"}, {"id": "16984", "link": "/find?type=1&query=Collateral+security", "word": "Collateral security"}, {"id": "16985", "link": "/find?type=1&query=collaterally", "word": "collaterally"}, {"id": "16986", "link": "/find?type=1&query=collating+sequence", "word": "collating sequence"}, {"id": "16987", "link": "/find?type=1&query=collation", "word": "collation"}, {"id": "16988", "link": "/find?type=1&query=collator", "word": "collator"}], "data": {}}, "en_en": {"suggests": [{"id": "5493", "link": "/find?type=3&query=collate", "word": "collate"}, {"id": "5494", "link": "/find?type=3&query=collateral", "word": "collateral"}, {"id": "5495", "link": "/find?type=3&query=collateral+damage", "word": "collateral damage"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5493",
+                "link": "/find?type=3&query=collate",
+                "word": "collate"
+            },
+            {
+                "id": "5494",
+                "link": "/find?type=3&query=collateral",
+                "word": "collateral"
+            },
+            {
+                "id": "5495",
+                "link": "/find?type=3&query=collateral+damage",
+                "word": "collateral damage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16981",
+                "link": "/find?type=1&query=collatable",
+                "word": "collatable"
+            },
+            {
+                "id": "16982",
+                "link": "/find?type=1&query=collate",
+                "word": "collate"
+            },
+            {
+                "id": "16983",
+                "link": "/find?type=1&query=collateral",
+                "word": "collateral"
+            },
+            {
+                "id": "16984",
+                "link": "/find?type=1&query=Collateral+security",
+                "word": "Collateral security"
+            },
+            {
+                "id": "16985",
+                "link": "/find?type=1&query=collaterally",
+                "word": "collaterally"
+            },
+            {
+                "id": "16986",
+                "link": "/find?type=1&query=collating+sequence",
+                "word": "collating sequence"
+            },
+            {
+                "id": "16987",
+                "link": "/find?type=1&query=collation",
+                "word": "collation"
+            },
+            {
+                "id": "16988",
+                "link": "/find?type=1&query=collator",
+                "word": "collator"
+            }
+        ]
+    }
+}
