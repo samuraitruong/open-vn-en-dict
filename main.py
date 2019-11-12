@@ -132,8 +132,8 @@ for key in words:
 with open("logs.json", 'w+') as outfile:
     outfile.seek(0)
     outfile.truncate()
-    json.dump(html, outfile, indent=4, sort_keys=True)
-
+    json.dump(logs, outfile, indent=4, sort_keys=True)
+exit()
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words}
