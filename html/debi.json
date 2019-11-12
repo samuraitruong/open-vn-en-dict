@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "22933", "link": "/find?type=1&query=debilitate", "word": "debilitate"}, {"id": "22934", "link": "/find?type=1&query=debilitating", "word": "debilitating"}, {"id": "22935", "link": "/find?type=1&query=debilitation", "word": "debilitation"}, {"id": "22936", "link": "/find?type=1&query=debility", "word": "debility"}, {"id": "22937", "link": "/find?type=1&query=debit", "word": "debit"}, {"id": "22938", "link": "/find?type=1&query=debit+side", "word": "debit side"}], "data": {}}, "en_en": {"suggests": [{"id": "7351", "link": "/find?type=3&query=debilitate", "word": "debilitate"}, {"id": "7352", "link": "/find?type=3&query=debility", "word": "debility"}, {"id": "7353", "link": "/find?type=3&query=debit", "word": "debit"}, {"id": "7354", "link": "/find?type=3&query=debit+card", "word": "debit card"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7351",
+                "link": "/find?type=3&query=debilitate",
+                "word": "debilitate"
+            },
+            {
+                "id": "7352",
+                "link": "/find?type=3&query=debility",
+                "word": "debility"
+            },
+            {
+                "id": "7353",
+                "link": "/find?type=3&query=debit",
+                "word": "debit"
+            },
+            {
+                "id": "7354",
+                "link": "/find?type=3&query=debit+card",
+                "word": "debit card"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22933",
+                "link": "/find?type=1&query=debilitate",
+                "word": "debilitate"
+            },
+            {
+                "id": "22934",
+                "link": "/find?type=1&query=debilitating",
+                "word": "debilitating"
+            },
+            {
+                "id": "22935",
+                "link": "/find?type=1&query=debilitation",
+                "word": "debilitation"
+            },
+            {
+                "id": "22936",
+                "link": "/find?type=1&query=debility",
+                "word": "debility"
+            },
+            {
+                "id": "22937",
+                "link": "/find?type=1&query=debit",
+                "word": "debit"
+            },
+            {
+                "id": "22938",
+                "link": "/find?type=1&query=debit+side",
+                "word": "debit side"
+            }
+        ]
+    }
+}

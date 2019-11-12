@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "22772", "link": "/find?type=1&query=deaconess", "word": "deaconess"}, {"id": "22772", "link": "/find?type=1&query=deaconship", "word": "deaconship"}], "data": {"word": "deacon", "id": "22772", "pronounce": "/'di:k\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u00f4n gi\u00e1o)</div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ee3 t\u1ebf</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u00ean giao d\u1ecbch th\u1ebf t\u1ee5c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/35c568359e49216b80fd6c2d17f01810/16e5dff720f/D/deacon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/43d007b67f05516f0559fe1e45cbc0d0/16e5dff77c8/D/deacon.mp3"}}}, "en_en": {"suggests": [{"id": "7278", "link": "/find?type=3&query=deaconess", "word": "deaconess"}], "data": {"word": "deacon", "id": "7278", "pronounce": "/\u02c8di\u02d0k\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] an official in some Christian churches whose rank is just below a priest</div>\n    \n    <div class=\"green margin25 m-top15\">a member of some Christian churches who has special duties</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] an official in some Christian churches whose rank is just below a priest</div>\n    \n    <div class=\"green margin25 m-top15\">a member of some Christian churches who has special duties</div>",
+            "id": "7278",
+            "mean": [],
+            "pronounce": "/\u02c8di\u02d0k\u0259n/",
+            "type": "noun",
+            "word": "deacon"
+        },
+        "suggests": [
+            {
+                "id": "7278",
+                "link": "/find?type=3&query=deaconess",
+                "word": "deaconess"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u00f4n gi\u00e1o)</div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ee3 t\u1ebf</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u00ean giao d\u1ecbch th\u1ebf t\u1ee5c</div>",
+            "id": "22772",
+            "mean": [],
+            "pronounce": "/'di:k\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/55eac828d17b5fffb19d9d9bf058da64/16e5ee6349a/D/deacon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/dcd31a1b5bce2f05794e8004f34539ce/16e5ee62b9f/D/deacon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "deacon"
+        },
+        "suggests": [
+            {
+                "id": "22772",
+                "link": "/find?type=1&query=deaconess",
+                "word": "deaconess"
+            },
+            {
+                "id": "22772",
+                "link": "/find?type=1&query=deaconship",
+                "word": "deaconship"
+            }
+        ]
+    }
+}

@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "22917", "link": "/find?type=1&query=debatable", "word": "debatable"}, {"id": "22918", "link": "/find?type=1&query=debatably", "word": "debatably"}, {"id": "22919", "link": "/find?type=1&query=debate", "word": "debate"}, {"id": "22920", "link": "/find?type=1&query=debatement", "word": "debatement"}, {"id": "22921", "link": "/find?type=1&query=debater", "word": "debater"}, {"id": "22922", "link": "/find?type=1&query=debating-society", "word": "debating-society"}], "data": {}}, "en_en": {"suggests": [{"id": "7347", "link": "/find?type=3&query=debatable", "word": "debatable"}, {"id": "7348", "link": "/find?type=3&query=debate", "word": "debate"}], "data": {}}, "synonyms": {"suggests": [{"id": "1435", "link": "/find?type=4&query=debatable", "word": "debatable"}, {"id": "1436", "link": "/find?type=4&query=debate", "word": "debate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7347",
+                "link": "/find?type=3&query=debatable",
+                "word": "debatable"
+            },
+            {
+                "id": "7348",
+                "link": "/find?type=3&query=debate",
+                "word": "debate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22917",
+                "link": "/find?type=1&query=debatable",
+                "word": "debatable"
+            },
+            {
+                "id": "22918",
+                "link": "/find?type=1&query=debatably",
+                "word": "debatably"
+            },
+            {
+                "id": "22919",
+                "link": "/find?type=1&query=debate",
+                "word": "debate"
+            },
+            {
+                "id": "22920",
+                "link": "/find?type=1&query=debatement",
+                "word": "debatement"
+            },
+            {
+                "id": "22921",
+                "link": "/find?type=1&query=debater",
+                "word": "debater"
+            },
+            {
+                "id": "22922",
+                "link": "/find?type=1&query=debating-society",
+                "word": "debating-society"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1435",
+                "link": "/find?type=4&query=debatable",
+                "word": "debatable"
+            },
+            {
+                "id": "1436",
+                "link": "/find?type=4&query=debate",
+                "word": "debate"
+            }
+        ]
+    }
+}
