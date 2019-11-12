@@ -1,1 +1,75 @@
-{"error": 0, "query": "forego", "enViData": {"suggests": [{"id": "37074", "link": "/find?type=1&query=foregoer", "word": "foregoer"}, {"id": "37074", "link": "/find?type=1&query=foregoing", "word": "foregoing"}, {"id": "37074", "link": "/find?type=1&query=foregone", "word": "foregone"}, {"id": "37074", "link": "/find?type=1&query=foregone+conclusion", "word": "foregone conclusion"}], "best": {"id": "37074", "details": "\n<div id=\"find_word_37074\" class=\"world word_en\" rel=\"forego\">\n    <h2 class=\"fl\">forego <span class=\"color-black\">/f\u0254:'gou/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"37074\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"37074\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb forewent; foregone</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i tr\u01b0\u1edbc</div>\n    \n    <div class=\"green margin25 m-top15\">\u1edf tr\u01b0\u1edbc, \u0111\u1eb7t \u1edf ph\u00eda tr\u01b0\u1edbc</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(nh\u01b0) forgo</div>\n    \n</div>\n", "link": "/find?type=1&query=forego", "word": "forego"}}, "mUrl": "/find?type=1&query=forego", "enEnData": {"suggests": [{"id": "11178", "link": "/find?type=3&query=foregoing", "word": "foregoing"}, {"id": "11178", "link": "/find?type=3&query=foregone", "word": "foregone"}], "best": {"id": "11178", "details": "\n<div id=\"find_word_11178\" class=\"world word_en\" rel=\"forego\">\n    <h2 class=\"fl\">forego <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11178\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11178\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">variant spelling of forgo</div>\n    \n</div>\n", "link": "/find?type=3&query=forego", "word": "forego"}}, "ftype": "1", "synData": {"suggests": [{"id": "2768", "link": "/find?type=4&query=foregoing", "word": "foregoing"}, {"id": "2769", "link": "/find?type=4&query=foregone", "word": "foregone"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">variant spelling of forgo</div>",
+            "id": "11178",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "forego"
+        },
+        "suggests": [
+            {
+                "id": "11178",
+                "link": "/find?type=3&query=foregoing",
+                "word": "foregoing"
+            },
+            {
+                "id": "11178",
+                "link": "/find?type=3&query=foregone",
+                "word": "foregone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb forewent; foregone</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i tr\u01b0\u1edbc</div>\n    \n    <div class=\"green margin25 m-top15\">\u1edf tr\u01b0\u1edbc, \u0111\u1eb7t \u1edf ph\u00eda tr\u01b0\u1edbc</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(nh\u01b0) forgo</div>",
+            "id": "37074",
+            "mean": [],
+            "pronounce": "/f\u0254:'gou/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d6ac52537a02cc03abbc57136bd46de2/16e607ffcd0/F/forego.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/79165d8058de98b318c344ca9beb167d/16e607ff4eb/F/forego.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb forewent; foregone Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "forego"
+        },
+        "suggests": [
+            {
+                "id": "37074",
+                "link": "/find?type=1&query=foregoer",
+                "word": "foregoer"
+            },
+            {
+                "id": "37074",
+                "link": "/find?type=1&query=foregoing",
+                "word": "foregoing"
+            },
+            {
+                "id": "37074",
+                "link": "/find?type=1&query=foregone",
+                "word": "foregone"
+            },
+            {
+                "id": "37074",
+                "link": "/find?type=1&query=foregone+conclusion",
+                "word": "foregone conclusion"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2768",
+                "link": "/find?type=4&query=foregoing",
+                "word": "foregoing"
+            },
+            {
+                "id": "2769",
+                "link": "/find?type=4&query=foregone",
+                "word": "foregone"
+            }
+        ]
+    }
+}
