@@ -1,1 +1,44 @@
-{"error": 0, "query": "frizzing", "enViData": {"suggests": [{"id": "38076", "link": "/find?type=1&query=frizzle", "word": "frizzle"}, {"id": "38076", "link": "/find?type=1&query=frizzly", "word": "frizzly"}, {"id": "38076", "link": "/find?type=1&query=frizzy", "word": "frizzy"}], "best": {"id": "38076", "details": "\n<div id=\"find_word_38076\" class=\"world word_en\" rel=\"frizz\">\n    <h2 class=\"fl\">frizz <span class=\"color-black\">/friz/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38076\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38076\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">u\u1ed1n qu\u0103n (t\u00f3c)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">you have had your hair frizzed</div>\n    \n    <div class=\"margin25\">b\u1ea1n \u0111\u00e3 \u0111i u\u1ed1n t\u00f3c</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00f3c u\u1ed1n</div>\n    \n</div>\n", "link": "/find?type=1&query=frizz", "word": "frizz"}}, "mUrl": "/find?type=1&query=frizzing", "enEnData": {"suggests": [], "best": {"id": "11507", "details": "\n<div id=\"find_word_11507\" class=\"world word_en\" rel=\"frizz\">\n    <h2 class=\"fl\">frizz <span class=\"color-black\">/\u02c8fr\u026az/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11507\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11507\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :very tightly curled hair</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She used gel on her hair to control the frizz.</div>\n    \n</div>\n", "link": "/find?type=3&query=frizz", "word": "frizz"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :very tightly curled hair</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She used gel on her hair to control the frizz.</div>",
+            "id": "11507",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u026az/",
+            "type": "noun",
+            "word": "frizz"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">u\u1ed1n qu\u0103n (t\u00f3c)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">you have had your hair frizzed</div>\n    \n    <div class=\"margin25\">b\u1ea1n \u0111\u00e3 \u0111i u\u1ed1n t\u00f3c</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00f3c u\u1ed1n</div>",
+            "id": "38076",
+            "mean": [],
+            "pronounce": "/friz/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c1c7fbaed0b646d1f93c1a6948775acd/16e60a487dd/F/frizz.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5399e0139248b7152180adf9c17ee430/16e60a47ff0/F/frizz.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb Danh t\u1eeb",
+            "word": "frizz"
+        },
+        "suggests": [
+            {
+                "id": "38076",
+                "link": "/find?type=1&query=frizzle",
+                "word": "frizzle"
+            },
+            {
+                "id": "38076",
+                "link": "/find?type=1&query=frizzly",
+                "word": "frizzly"
+            },
+            {
+                "id": "38076",
+                "link": "/find?type=1&query=frizzy",
+                "word": "frizzy"
+            }
+        ]
+    }
+}

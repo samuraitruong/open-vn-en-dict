@@ -1,1 +1,40 @@
-{"error": 0, "query": "frocked", "enViData": {"suggests": [{"id": "38081", "link": "/find?type=1&query=frock-coat", "word": "frock-coat"}], "best": {"id": "38081", "details": "\n<div id=\"find_word_38081\" class=\"world word_en\" rel=\"frock\">\n    <h2 class=\"fl\">frock <span class=\"color-black\">/fr\u0252k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38081\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38081\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o d\u00e0i (n\u1eef)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">all my frocks are for the summer</div>\n    \n    <div class=\"margin25\">t\u1ea5t c\u1ea3 \u00e1o d\u00e0i c\u1ee7a t\u00f4i l\u00e0 thu\u1ed9c trang ph\u1ee5c m\u00f9a h\u00e8</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o th\u1ee5ng (th\u1ea7y tu)</div>\n    \n</div>\n", "link": "/find?type=1&query=frock", "word": "frock"}}, "mUrl": "/find?type=1&query=frocked", "enEnData": {"suggests": [{"id": "11509", "link": "/find?type=3&query=frock+coat", "word": "frock coat"}], "best": {"id": "11509", "details": "\n<div id=\"find_word_11509\" class=\"world word_en\" rel=\"frock\">\n    <h2 class=\"fl\">frock <span class=\"color-black\">/\u02c8fr\u0251\u02d0k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11509\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11509\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural frocks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned :a woman's or girl's dress</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">wearing an old frock</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a party frock</div>\n    \n    <div class=\"green margin25 m-top15\">a long outer garment worn by some Christian monks and friars</div>\n    \n</div>\n", "link": "/find?type=3&query=frock", "word": "frock"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural frocks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned :a woman's or girl's dress</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">wearing an old frock</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a party frock</div>\n    \n    <div class=\"green margin25 m-top15\">a long outer garment worn by some Christian monks and friars</div>",
+            "id": "11509",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u0251\u02d0k/",
+            "type": "noun",
+            "word": "frock"
+        },
+        "suggests": [
+            {
+                "id": "11509",
+                "link": "/find?type=3&query=frock+coat",
+                "word": "frock coat"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o d\u00e0i (n\u1eef)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">all my frocks are for the summer</div>\n    \n    <div class=\"margin25\">t\u1ea5t c\u1ea3 \u00e1o d\u00e0i c\u1ee7a t\u00f4i l\u00e0 thu\u1ed9c trang ph\u1ee5c m\u00f9a h\u00e8</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o th\u1ee5ng (th\u1ea7y tu)</div>",
+            "id": "38081",
+            "mean": [],
+            "pronounce": "/fr\u0252k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7a2e183e4edb32c757e6460059c633f4/16e60a4de9f/F/frock.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/24d8cb1d00b5c94538a07df6e6709e81/16e60a4d6ad/F/frock.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "frock"
+        },
+        "suggests": [
+            {
+                "id": "38081",
+                "link": "/find?type=1&query=frock-coat",
+                "word": "frock-coat"
+            }
+        ]
+    }
+}
