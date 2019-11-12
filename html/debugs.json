@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "22958", "link": "/find?type=1&query=debugger", "word": "debugger"}, {"id": "22958", "link": "/find?type=1&query=debugging", "word": "debugging"}], "data": {"word": "debug", "id": "22958", "pronounce": "/di:'b\u028cg/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-gg-)(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ecm sai, g\u1ee1 r\u1ed1i (ch\u01b0\u01a1ng tr\u00ecnh m\u00e1y \u0111i\u1ec7n to\u00e1n\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ecm d\u1ee1 c\u00e1c m\u00e1y nghe tr\u1ed9m (\u1edf m\u1ed9t t\u00f2a nh\u00e0\u2026)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the place has been completely debugged</div>\n    \n    <div class=\"margin25\">v\u1ecb tr\u00ed \u0111\u00e3 d\u1ee1 h\u1ebft c\u00e1c m\u00e1y nghe tr\u1ed9n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/66cd25d918d0e71fb6a2b00883fc8c07/16e5dffe89b/D/debug.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a76b81b7fb30ee6ff193f0a90e4bae4a/16e5dffee6d/D/debug.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "debug", "id": "7361", "pronounce": "/di\u02c8b\u028cg/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-bugs; -bugged; -bugging</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] technical :to remove the mistakes from (something, such as a computer program)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's been hired to write and debug computer programs.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-bugs; -bugged; -bugging</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] technical :to remove the mistakes from (something, such as a computer program)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's been hired to write and debug computer programs.</div>",
+            "id": "7361",
+            "mean": [],
+            "pronounce": "/di\u02c8b\u028cg/",
+            "type": "verb",
+            "word": "debug"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-gg-)(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ecm sai, g\u1ee1 r\u1ed1i (ch\u01b0\u01a1ng tr\u00ecnh m\u00e1y \u0111i\u1ec7n to\u00e1n\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ecm d\u1ee1 c\u00e1c m\u00e1y nghe tr\u1ed9m (\u1edf m\u1ed9t t\u00f2a nh\u00e0\u2026)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the place has been completely debugged</div>\n    \n    <div class=\"margin25\">v\u1ecb tr\u00ed \u0111\u00e3 d\u1ee1 h\u1ebft c\u00e1c m\u00e1y nghe tr\u1ed9n</div>",
+            "id": "22958",
+            "mean": [],
+            "pronounce": "/di:'b\u028cg/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8d4a5773f4a9a518028f7b35b2a8a409/16e5ee6db39/D/debug.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/31d370fd6817e7f7a4a9e27d280e2cd1/16e5ee6d22c/D/debug.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "debug"
+        },
+        "suggests": [
+            {
+                "id": "22958",
+                "link": "/find?type=1&query=debugger",
+                "word": "debugger"
+            },
+            {
+                "id": "22958",
+                "link": "/find?type=1&query=debugging",
+                "word": "debugging"
+            }
+        ]
+    }
+}

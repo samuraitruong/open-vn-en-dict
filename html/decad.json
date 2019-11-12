@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "22972", "link": "/find?type=1&query=decade", "word": "decade"}, {"id": "22973", "link": "/find?type=1&query=decade+box", "word": "decade box"}, {"id": "22974", "link": "/find?type=1&query=decade+bridge", "word": "decade bridge"}, {"id": "22975", "link": "/find?type=1&query=decade+counter", "word": "decade counter"}, {"id": "22976", "link": "/find?type=1&query=decadence", "word": "decadence"}, {"id": "22977", "link": "/find?type=1&query=decadency", "word": "decadency"}, {"id": "22978", "link": "/find?type=1&query=decadent", "word": "decadent"}, {"id": "22979", "link": "/find?type=1&query=decadent+wave", "word": "decadent wave"}, {"id": "22980", "link": "/find?type=1&query=decadently", "word": "decadently"}], "data": {}}, "en_en": {"suggests": [{"id": "7366", "link": "/find?type=3&query=decade", "word": "decade"}, {"id": "7367", "link": "/find?type=3&query=decadence", "word": "decadence"}, {"id": "7368", "link": "/find?type=3&query=decadent", "word": "decadent"}], "data": {}}, "synonyms": {"suggests": [{"id": "1439", "link": "/find?type=4&query=decadent", "word": "decadent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7366",
+                "link": "/find?type=3&query=decade",
+                "word": "decade"
+            },
+            {
+                "id": "7367",
+                "link": "/find?type=3&query=decadence",
+                "word": "decadence"
+            },
+            {
+                "id": "7368",
+                "link": "/find?type=3&query=decadent",
+                "word": "decadent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22972",
+                "link": "/find?type=1&query=decade",
+                "word": "decade"
+            },
+            {
+                "id": "22973",
+                "link": "/find?type=1&query=decade+box",
+                "word": "decade box"
+            },
+            {
+                "id": "22974",
+                "link": "/find?type=1&query=decade+bridge",
+                "word": "decade bridge"
+            },
+            {
+                "id": "22975",
+                "link": "/find?type=1&query=decade+counter",
+                "word": "decade counter"
+            },
+            {
+                "id": "22976",
+                "link": "/find?type=1&query=decadence",
+                "word": "decadence"
+            },
+            {
+                "id": "22977",
+                "link": "/find?type=1&query=decadency",
+                "word": "decadency"
+            },
+            {
+                "id": "22978",
+                "link": "/find?type=1&query=decadent",
+                "word": "decadent"
+            },
+            {
+                "id": "22979",
+                "link": "/find?type=1&query=decadent+wave",
+                "word": "decadent wave"
+            },
+            {
+                "id": "22980",
+                "link": "/find?type=1&query=decadently",
+                "word": "decadently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1439",
+                "link": "/find?type=4&query=decadent",
+                "word": "decadent"
+            }
+        ]
+    }
+}

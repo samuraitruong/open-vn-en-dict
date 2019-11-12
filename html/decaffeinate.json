@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "22981", "link": "/find?type=1&query=decaffeinated", "word": "decaffeinated"}], "data": {"word": "decaffeinate", "id": "22981", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=decaffeinated\">decaffeinated</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7370", "link": "/find?type=3&query=decaffeinated", "word": "decaffeinated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7370",
+                "link": "/find?type=3&query=decaffeinated",
+                "word": "decaffeinated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=decaffeinated\">decaffeinated</a></span></div>",
+            "id": "22981",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "decaffeinate"
+        },
+        "suggests": [
+            {
+                "id": "22981",
+                "link": "/find?type=1&query=decaffeinated",
+                "word": "decaffeinated"
+            }
+        ]
+    }
+}

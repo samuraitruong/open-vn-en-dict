@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "23011", "link": "/find?type=1&query=decantation", "word": "decantation"}, {"id": "23011", "link": "/find?type=1&query=decanter", "word": "decanter"}], "data": {"word": "decant", "id": "23011", "pronounce": "/di'k\u00e6nt/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u1ea1n, ch\u1eaft (ch\u1ea5t l\u1ecfng)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/63d822d093449bba9b2fdc66718d1346/16e5e0014aa/D/decant.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d6e7a88c22309a6eef0e1d69184fbf2a/16e5e001a4d/D/decant.mp3"}}}, "en_en": {"suggests": [{"id": "7373", "link": "/find?type=3&query=decanter", "word": "decanter"}], "data": {"word": "decant", "id": "7373", "pronounce": "/d\u026a\u02c8k\u00e6nt/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-cants; -canted; -canting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal :to pour (a liquid, especially wine) from one container into another</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bottles were uncorked and the wine was decanted an hour before the meal.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-cants; -canted; -canting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal :to pour (a liquid, especially wine) from one container into another</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bottles were uncorked and the wine was decanted an hour before the meal.</div>",
+            "id": "7373",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8k\u00e6nt/",
+            "type": "verb",
+            "word": "decant"
+        },
+        "suggests": [
+            {
+                "id": "7373",
+                "link": "/find?type=3&query=decanter",
+                "word": "decanter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u1ea1n, ch\u1eaft (ch\u1ea5t l\u1ecfng)</div>",
+            "id": "23011",
+            "mean": [],
+            "pronounce": "/di'k\u00e6nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/54da45203381437e10b0ccbde7ef58ff/16e5ee71c01/D/decant.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6a1faed6439ed5c205e618a34fe64851/16e5ee71317/D/decant.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "decant"
+        },
+        "suggests": [
+            {
+                "id": "23011",
+                "link": "/find?type=1&query=decantation",
+                "word": "decantation"
+            },
+            {
+                "id": "23011",
+                "link": "/find?type=1&query=decanter",
+                "word": "decanter"
+            }
+        ]
+    }
+}
