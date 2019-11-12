@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "27844", "link": "/find?type=1&query=drugget", "word": "drugget"}], "data": {}}, "en_en": {"suggests": [{"id": "8915", "link": "/find?type=3&query=druggie", "word": "druggie"}, {"id": "8916", "link": "/find?type=3&query=drugging", "word": "drugging"}, {"id": "8917", "link": "/find?type=3&query=druggist", "word": "druggist"}], "data": {}}, "synonyms": {"suggests": [{"id": "1954", "link": "/find?type=4&query=druggist", "word": "druggist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8915",
+                "link": "/find?type=3&query=druggie",
+                "word": "druggie"
+            },
+            {
+                "id": "8916",
+                "link": "/find?type=3&query=drugging",
+                "word": "drugging"
+            },
+            {
+                "id": "8917",
+                "link": "/find?type=3&query=druggist",
+                "word": "druggist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27844",
+                "link": "/find?type=1&query=drugget",
+                "word": "drugget"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1954",
+                "link": "/find?type=4&query=druggist",
+                "word": "druggist"
+            }
+        ]
+    }
+}

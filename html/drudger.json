@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "27836", "link": "/find?type=1&query=drudgery", "word": "drudgery"}], "data": {}}, "en_en": {"suggests": [{"id": "8912", "link": "/find?type=3&query=drudgery", "word": "drudgery"}], "data": {}}, "synonyms": {"suggests": [{"id": "1952", "link": "/find?type=4&query=drudgery", "word": "drudgery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8912",
+                "link": "/find?type=3&query=drudgery",
+                "word": "drudgery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27836",
+                "link": "/find?type=1&query=drudgery",
+                "word": "drudgery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1952",
+                "link": "/find?type=4&query=drudgery",
+                "word": "drudgery"
+            }
+        ]
+    }
+}

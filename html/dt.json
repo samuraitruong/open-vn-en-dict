@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "27927", "link": "/find?type=1&query=dti", "word": "dti"}, {"id": "27927", "link": "/find?type=1&query=dtp", "word": "dtp"}], "data": {"word": "DT", "id": "27927", "pronounce": "/,di:'ti:/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c DTs)(vi\u1ebft t\u1eaft c\u1ee7a trembling delirium)</div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ea3ng r\u01b0\u1ee3u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">have an attack of the DTs</div>\n    \n    <div class=\"margin25\">l\u00ean c\u01a1n s\u1ea3ng r\u01b0\u1ee3u</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8955", "link": "/find?type=3&query=DTP", "word": "DTP"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8955",
+                "link": "/find?type=3&query=DTP",
+                "word": "DTP"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c DTs)(vi\u1ebft t\u1eaft c\u1ee7a trembling delirium)</div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ea3ng r\u01b0\u1ee3u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">have an attack of the DTs</div>\n    \n    <div class=\"margin25\">l\u00ean c\u01a1n s\u1ea3ng r\u01b0\u1ee3u</div>",
+            "id": "27927",
+            "mean": [],
+            "pronounce": "/,di:'ti:/",
+            "speak": {},
+            "type": "",
+            "word": "DT"
+        },
+        "suggests": [
+            {
+                "id": "27927",
+                "link": "/find?type=1&query=dti",
+                "word": "dti"
+            },
+            {
+                "id": "27927",
+                "link": "/find?type=1&query=dtp",
+                "word": "dtp"
+            }
+        ]
+    }
+}
