@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "32421", "link": "/find?type=1&query=evaporability", "word": "evaporability"}, {"id": "32422", "link": "/find?type=1&query=evaporable", "word": "evaporable"}, {"id": "32423", "link": "/find?type=1&query=evaporate", "word": "evaporate"}, {"id": "32424", "link": "/find?type=1&query=evaporated+milk", "word": "evaporated milk"}, {"id": "32425", "link": "/find?type=1&query=evaporation", "word": "evaporation"}, {"id": "32426", "link": "/find?type=1&query=evaporative", "word": "evaporative"}, {"id": "32427", "link": "/find?type=1&query=evaporatively", "word": "evaporatively"}, {"id": "32428", "link": "/find?type=1&query=evaporativity", "word": "evaporativity"}, {"id": "32429", "link": "/find?type=1&query=evaporator", "word": "evaporator"}, {"id": "32430", "link": "/find?type=1&query=evaporimeter", "word": "evaporimeter"}], "data": {}}, "en_en": {"suggests": [{"id": "9853", "link": "/find?type=3&query=evaporate", "word": "evaporate"}, {"id": "9854", "link": "/find?type=3&query=evaporated+milk", "word": "evaporated milk"}], "data": {}}, "synonyms": {"suggests": [{"id": "2278", "link": "/find?type=4&query=evaporate", "word": "evaporate"}, {"id": "2279", "link": "/find?type=4&query=evaporation", "word": "evaporation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9853",
+                "link": "/find?type=3&query=evaporate",
+                "word": "evaporate"
+            },
+            {
+                "id": "9854",
+                "link": "/find?type=3&query=evaporated+milk",
+                "word": "evaporated milk"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32421",
+                "link": "/find?type=1&query=evaporability",
+                "word": "evaporability"
+            },
+            {
+                "id": "32422",
+                "link": "/find?type=1&query=evaporable",
+                "word": "evaporable"
+            },
+            {
+                "id": "32423",
+                "link": "/find?type=1&query=evaporate",
+                "word": "evaporate"
+            },
+            {
+                "id": "32424",
+                "link": "/find?type=1&query=evaporated+milk",
+                "word": "evaporated milk"
+            },
+            {
+                "id": "32425",
+                "link": "/find?type=1&query=evaporation",
+                "word": "evaporation"
+            },
+            {
+                "id": "32426",
+                "link": "/find?type=1&query=evaporative",
+                "word": "evaporative"
+            },
+            {
+                "id": "32427",
+                "link": "/find?type=1&query=evaporatively",
+                "word": "evaporatively"
+            },
+            {
+                "id": "32428",
+                "link": "/find?type=1&query=evaporativity",
+                "word": "evaporativity"
+            },
+            {
+                "id": "32429",
+                "link": "/find?type=1&query=evaporator",
+                "word": "evaporator"
+            },
+            {
+                "id": "32430",
+                "link": "/find?type=1&query=evaporimeter",
+                "word": "evaporimeter"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2278",
+                "link": "/find?type=4&query=evaporate",
+                "word": "evaporate"
+            },
+            {
+                "id": "2279",
+                "link": "/find?type=4&query=evaporation",
+                "word": "evaporation"
+            }
+        ]
+    }
+}
