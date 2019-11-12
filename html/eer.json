@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "28908", "link": "/find?type=1&query=eerie", "word": "eerie"}, {"id": "28909", "link": "/find?type=1&query=eerily", "word": "eerily"}, {"id": "28910", "link": "/find?type=1&query=eeriness", "word": "eeriness"}, {"id": "28911", "link": "/find?type=1&query=EEROM+%28electrically+erasable+ROM%29", "word": "EEROM (electrically erasable ROM)"}, {"id": "28912", "link": "/find?type=1&query=eery", "word": "eery"}, {"id": "104608", "link": "/find?type=1&query=-eer", "word": "-eer"}], "data": {}}, "en_en": {"suggests": [{"id": "9227", "link": "/find?type=3&query=-eer", "word": "-eer"}, {"id": "9228", "link": "/find?type=3&query=eerie", "word": "eerie"}], "data": {}}, "synonyms": {"suggests": [{"id": "2033", "link": "/find?type=4&query=eerie", "word": "eerie"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9227",
+                "link": "/find?type=3&query=-eer",
+                "word": "-eer"
+            },
+            {
+                "id": "9228",
+                "link": "/find?type=3&query=eerie",
+                "word": "eerie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28908",
+                "link": "/find?type=1&query=eerie",
+                "word": "eerie"
+            },
+            {
+                "id": "28909",
+                "link": "/find?type=1&query=eerily",
+                "word": "eerily"
+            },
+            {
+                "id": "28910",
+                "link": "/find?type=1&query=eeriness",
+                "word": "eeriness"
+            },
+            {
+                "id": "28911",
+                "link": "/find?type=1&query=EEROM+%28electrically+erasable+ROM%29",
+                "word": "EEROM (electrically erasable ROM)"
+            },
+            {
+                "id": "28912",
+                "link": "/find?type=1&query=eery",
+                "word": "eery"
+            },
+            {
+                "id": "104608",
+                "link": "/find?type=1&query=-eer",
+                "word": "-eer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2033",
+                "link": "/find?type=4&query=eerie",
+                "word": "eerie"
+            }
+        ]
+    }
+}

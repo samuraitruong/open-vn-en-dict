@@ -1,1 +1,117 @@
-{"en_vn": {"suggests": [{"id": "28869", "link": "/find?type=1&query=educability", "word": "educability"}, {"id": "28870", "link": "/find?type=1&query=educable", "word": "educable"}, {"id": "28871", "link": "/find?type=1&query=educate", "word": "educate"}, {"id": "28872", "link": "/find?type=1&query=educated", "word": "educated"}, {"id": "28873", "link": "/find?type=1&query=education", "word": "education"}, {"id": "28874", "link": "/find?type=1&query=educational", "word": "educational"}, {"id": "28875", "link": "/find?type=1&query=educational+software", "word": "educational software"}, {"id": "28876", "link": "/find?type=1&query=educational+television", "word": "educational television"}, {"id": "28877", "link": "/find?type=1&query=educationalist", "word": "educationalist"}, {"id": "28878", "link": "/find?type=1&query=educationally", "word": "educationally"}], "data": {}}, "en_en": {"suggests": [{"id": "9216", "link": "/find?type=3&query=educate", "word": "educate"}, {"id": "9217", "link": "/find?type=3&query=educated", "word": "educated"}, {"id": "9218", "link": "/find?type=3&query=education", "word": "education"}, {"id": "9219", "link": "/find?type=3&query=educational", "word": "educational"}, {"id": "9220", "link": "/find?type=3&query=educationist", "word": "educationist"}, {"id": "9221", "link": "/find?type=3&query=educator", "word": "educator"}], "data": {}}, "synonyms": {"suggests": [{"id": "2029", "link": "/find?type=4&query=educate", "word": "educate"}, {"id": "2030", "link": "/find?type=4&query=educated", "word": "educated"}, {"id": "2031", "link": "/find?type=4&query=education", "word": "education"}, {"id": "2032", "link": "/find?type=4&query=educational", "word": "educational"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9216",
+                "link": "/find?type=3&query=educate",
+                "word": "educate"
+            },
+            {
+                "id": "9217",
+                "link": "/find?type=3&query=educated",
+                "word": "educated"
+            },
+            {
+                "id": "9218",
+                "link": "/find?type=3&query=education",
+                "word": "education"
+            },
+            {
+                "id": "9219",
+                "link": "/find?type=3&query=educational",
+                "word": "educational"
+            },
+            {
+                "id": "9220",
+                "link": "/find?type=3&query=educationist",
+                "word": "educationist"
+            },
+            {
+                "id": "9221",
+                "link": "/find?type=3&query=educator",
+                "word": "educator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28869",
+                "link": "/find?type=1&query=educability",
+                "word": "educability"
+            },
+            {
+                "id": "28870",
+                "link": "/find?type=1&query=educable",
+                "word": "educable"
+            },
+            {
+                "id": "28871",
+                "link": "/find?type=1&query=educate",
+                "word": "educate"
+            },
+            {
+                "id": "28872",
+                "link": "/find?type=1&query=educated",
+                "word": "educated"
+            },
+            {
+                "id": "28873",
+                "link": "/find?type=1&query=education",
+                "word": "education"
+            },
+            {
+                "id": "28874",
+                "link": "/find?type=1&query=educational",
+                "word": "educational"
+            },
+            {
+                "id": "28875",
+                "link": "/find?type=1&query=educational+software",
+                "word": "educational software"
+            },
+            {
+                "id": "28876",
+                "link": "/find?type=1&query=educational+television",
+                "word": "educational television"
+            },
+            {
+                "id": "28877",
+                "link": "/find?type=1&query=educationalist",
+                "word": "educationalist"
+            },
+            {
+                "id": "28878",
+                "link": "/find?type=1&query=educationally",
+                "word": "educationally"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2029",
+                "link": "/find?type=4&query=educate",
+                "word": "educate"
+            },
+            {
+                "id": "2030",
+                "link": "/find?type=4&query=educated",
+                "word": "educated"
+            },
+            {
+                "id": "2031",
+                "link": "/find?type=4&query=education",
+                "word": "education"
+            },
+            {
+                "id": "2032",
+                "link": "/find?type=4&query=educational",
+                "word": "educational"
+            }
+        ]
+    }
+}
