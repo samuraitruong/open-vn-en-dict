@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "10638", "link": "/find?type=1&query=botanical", "word": "botanical"}, {"id": "10638", "link": "/find?type=1&query=botanical+gardens", "word": "botanical gardens"}, {"id": "10638", "link": "/find?type=1&query=botanically", "word": "botanically"}], "data": {"word": "botanic", "id": "10638", "pronounce": "/b\u0259't\u00e6nik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) th\u1ef1c v\u1eadt h\u1ecdc</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">botanic garden</div>\n    \n    <div class=\"margin25\">v\u01b0\u1eddn b\u00e1ch th\u1ea3o</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3199", "link": "/find?type=3&query=botanical", "word": "botanical"}, {"id": "3200", "link": "/find?type=3&query=botanical+garden", "word": "botanical garden"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3199",
+                "link": "/find?type=3&query=botanical",
+                "word": "botanical"
+            },
+            {
+                "id": "3200",
+                "link": "/find?type=3&query=botanical+garden",
+                "word": "botanical garden"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) th\u1ef1c v\u1eadt h\u1ecdc</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">botanic garden</div>\n    \n    <div class=\"margin25\">v\u01b0\u1eddn b\u00e1ch th\u1ea3o</div>",
+            "id": "10638",
+            "mean": [],
+            "pronounce": "/b\u0259't\u00e6nik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "botanic"
+        },
+        "suggests": [
+            {
+                "id": "10638",
+                "link": "/find?type=1&query=botanical",
+                "word": "botanical"
+            },
+            {
+                "id": "10638",
+                "link": "/find?type=1&query=botanical+gardens",
+                "word": "botanical gardens"
+            },
+            {
+                "id": "10638",
+                "link": "/find?type=1&query=botanically",
+                "word": "botanically"
+            }
+        ]
+    }
+}

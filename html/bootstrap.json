@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "10555", "link": "/find?type=1&query=bootstrap+memory", "word": "bootstrap memory"}, {"id": "10555", "link": "/find?type=1&query=bootstrap+program", "word": "bootstrap program"}, {"id": "10555", "link": "/find?type=1&query=bootstrapping", "word": "bootstrapping"}, {"id": "10555", "link": "/find?type=1&query=bootstraps", "word": "bootstraps"}], "data": {"word": "bootstrap", "id": "10555", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) m\u1ea1ch t\u1ef1 n\u00e2ng; ch\u01b0\u01a1ng tr\u00ecnh m\u1ed3i, ch\u01b0\u01a1ng tr\u00ecnh kh\u1edfi \u0111\u1ed9ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3164", "link": "/find?type=3&query=bootstraps", "word": "bootstraps"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3164",
+                "link": "/find?type=3&query=bootstraps",
+                "word": "bootstraps"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) m\u1ea1ch t\u1ef1 n\u00e2ng; ch\u01b0\u01a1ng tr\u00ecnh m\u1ed3i, ch\u01b0\u01a1ng tr\u00ecnh kh\u1edfi \u0111\u1ed9ng</div>",
+            "id": "10555",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "bootstrap"
+        },
+        "suggests": [
+            {
+                "id": "10555",
+                "link": "/find?type=1&query=bootstrap+memory",
+                "word": "bootstrap memory"
+            },
+            {
+                "id": "10555",
+                "link": "/find?type=1&query=bootstrap+program",
+                "word": "bootstrap program"
+            },
+            {
+                "id": "10555",
+                "link": "/find?type=1&query=bootstrapping",
+                "word": "bootstrapping"
+            },
+            {
+                "id": "10555",
+                "link": "/find?type=1&query=bootstraps",
+                "word": "bootstraps"
+            }
+        ]
+    }
+}

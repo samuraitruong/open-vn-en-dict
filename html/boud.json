@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "10691", "link": "/find?type=1&query=boudoir", "word": "boudoir"}], "data": {}}, "en_en": {"suggests": [{"id": "3223", "link": "/find?type=3&query=boudoir", "word": "boudoir"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3223",
+                "link": "/find?type=3&query=boudoir",
+                "word": "boudoir"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10691",
+                "link": "/find?type=1&query=boudoir",
+                "word": "boudoir"
+            }
+        ]
+    }
+}

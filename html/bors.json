@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "10610", "link": "/find?type=1&query=borsch", "word": "borsch"}, {"id": "10611", "link": "/find?type=1&query=Borstal", "word": "Borstal"}], "data": {}}, "en_en": {"suggests": [{"id": "3187", "link": "/find?type=3&query=borscht", "word": "borscht"}, {"id": "3188", "link": "/find?type=3&query=Borstal", "word": "Borstal"}], "data": {}}, "synonyms": {"suggests": [{"id": "643", "link": "/find?type=4&query=Borstal", "word": "Borstal"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3187",
+                "link": "/find?type=3&query=borscht",
+                "word": "borscht"
+            },
+            {
+                "id": "3188",
+                "link": "/find?type=3&query=Borstal",
+                "word": "Borstal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10610",
+                "link": "/find?type=1&query=borsch",
+                "word": "borsch"
+            },
+            {
+                "id": "10611",
+                "link": "/find?type=1&query=Borstal",
+                "word": "Borstal"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "643",
+                "link": "/find?type=4&query=Borstal",
+                "word": "Borstal"
+            }
+        ]
+    }
+}

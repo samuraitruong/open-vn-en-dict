@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "10602", "link": "/find?type=1&query=borocarbon+resistor", "word": "borocarbon resistor"}, {"id": "10603", "link": "/find?type=1&query=boron", "word": "boron"}, {"id": "10604", "link": "/find?type=1&query=boron+resistor", "word": "boron resistor"}, {"id": "10605", "link": "/find?type=1&query=borough", "word": "borough"}], "data": {}}, "en_en": {"suggests": [{"id": "3184", "link": "/find?type=3&query=borough", "word": "borough"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3184",
+                "link": "/find?type=3&query=borough",
+                "word": "borough"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10602",
+                "link": "/find?type=1&query=borocarbon+resistor",
+                "word": "borocarbon resistor"
+            },
+            {
+                "id": "10603",
+                "link": "/find?type=1&query=boron",
+                "word": "boron"
+            },
+            {
+                "id": "10604",
+                "link": "/find?type=1&query=boron+resistor",
+                "word": "boron resistor"
+            },
+            {
+                "id": "10605",
+                "link": "/find?type=1&query=borough",
+                "word": "borough"
+            }
+        ]
+    }
+}

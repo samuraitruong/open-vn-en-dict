@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "10639", "link": "/find?type=1&query=botanical", "word": "botanical"}, {"id": "10640", "link": "/find?type=1&query=botanical+gardens", "word": "botanical gardens"}, {"id": "10641", "link": "/find?type=1&query=botanically", "word": "botanically"}], "data": {}}, "en_en": {"suggests": [{"id": "3199", "link": "/find?type=3&query=botanical", "word": "botanical"}, {"id": "3200", "link": "/find?type=3&query=botanical+garden", "word": "botanical garden"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3199",
+                "link": "/find?type=3&query=botanical",
+                "word": "botanical"
+            },
+            {
+                "id": "3200",
+                "link": "/find?type=3&query=botanical+garden",
+                "word": "botanical garden"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10639",
+                "link": "/find?type=1&query=botanical",
+                "word": "botanical"
+            },
+            {
+                "id": "10640",
+                "link": "/find?type=1&query=botanical+gardens",
+                "word": "botanical gardens"
+            },
+            {
+                "id": "10641",
+                "link": "/find?type=1&query=botanically",
+                "word": "botanically"
+            }
+        ]
+    }
+}

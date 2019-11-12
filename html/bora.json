@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "10567", "link": "/find?type=1&query=boracic", "word": "boracic"}, {"id": "10567", "link": "/find?type=1&query=borage", "word": "borage"}, {"id": "10567", "link": "/find?type=1&query=borate", "word": "borate"}, {"id": "10567", "link": "/find?type=1&query=borax", "word": "borax"}], "data": {"word": "bora", "id": "10567", "pronounce": "/'b\u0254:r\u0259/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">danh t\u1eeb-(\u0111\u00f9a c\u1ee3t) gi\u00f3 bora</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3169", "link": "/find?type=3&query=borage", "word": "borage"}, {"id": "3170", "link": "/find?type=3&query=borax", "word": "borax"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3169",
+                "link": "/find?type=3&query=borage",
+                "word": "borage"
+            },
+            {
+                "id": "3170",
+                "link": "/find?type=3&query=borax",
+                "word": "borax"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">danh t\u1eeb-(\u0111\u00f9a c\u1ee3t) gi\u00f3 bora</div>",
+            "id": "10567",
+            "mean": [],
+            "pronounce": "/'b\u0254:r\u0259/",
+            "speak": {},
+            "type": "",
+            "word": "bora"
+        },
+        "suggests": [
+            {
+                "id": "10567",
+                "link": "/find?type=1&query=boracic",
+                "word": "boracic"
+            },
+            {
+                "id": "10567",
+                "link": "/find?type=1&query=borage",
+                "word": "borage"
+            },
+            {
+                "id": "10567",
+                "link": "/find?type=1&query=borate",
+                "word": "borate"
+            },
+            {
+                "id": "10567",
+                "link": "/find?type=1&query=borax",
+                "word": "borax"
+            }
+        ]
+    }
+}

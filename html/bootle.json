@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "10546", "link": "/find?type=1&query=bootleg", "word": "bootleg"}, {"id": "10547", "link": "/find?type=1&query=bootlegger", "word": "bootlegger"}, {"id": "10548", "link": "/find?type=1&query=bootless", "word": "bootless"}, {"id": "10549", "link": "/find?type=1&query=bootlessly", "word": "bootlessly"}, {"id": "10550", "link": "/find?type=1&query=bootlessness", "word": "bootlessness"}], "data": {}}, "en_en": {"suggests": [{"id": "3162", "link": "/find?type=3&query=bootleg", "word": "bootleg"}], "data": {}}, "synonyms": {"suggests": [{"id": "635", "link": "/find?type=4&query=bootless", "word": "bootless"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3162",
+                "link": "/find?type=3&query=bootleg",
+                "word": "bootleg"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10546",
+                "link": "/find?type=1&query=bootleg",
+                "word": "bootleg"
+            },
+            {
+                "id": "10547",
+                "link": "/find?type=1&query=bootlegger",
+                "word": "bootlegger"
+            },
+            {
+                "id": "10548",
+                "link": "/find?type=1&query=bootless",
+                "word": "bootless"
+            },
+            {
+                "id": "10549",
+                "link": "/find?type=1&query=bootlessly",
+                "word": "bootlessly"
+            },
+            {
+                "id": "10550",
+                "link": "/find?type=1&query=bootlessness",
+                "word": "bootlessness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "635",
+                "link": "/find?type=4&query=bootless",
+                "word": "bootless"
+            }
+        ]
+    }
+}
