@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "24964", "link": "/find?type=1&query=dialog+mode", "word": "dialog mode"}, {"id": "24964", "link": "/find?type=1&query=dialogic", "word": "dialogic"}, {"id": "24964", "link": "/find?type=1&query=dialogist", "word": "dialogist"}, {"id": "24964", "link": "/find?type=1&query=dialogue", "word": "dialogue"}, {"id": "24964", "link": "/find?type=1&query=dialogue+box", "word": "dialogue box"}], "data": {"word": "dialog", "id": "24964", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">h\u1ed9i tho\u1ea1i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7916", "link": "/find?type=3&query=dialog+box", "word": "dialog box"}, {"id": "7917", "link": "/find?type=3&query=dialogue", "word": "dialogue"}], "data": {}}, "synonyms": {"suggests": [{"id": "1647", "link": "/find?type=4&query=dialogue", "word": "dialogue"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7916",
+                "link": "/find?type=3&query=dialog+box",
+                "word": "dialog box"
+            },
+            {
+                "id": "7917",
+                "link": "/find?type=3&query=dialogue",
+                "word": "dialogue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">h\u1ed9i tho\u1ea1i</div>",
+            "id": "24964",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "dialog"
+        },
+        "suggests": [
+            {
+                "id": "24964",
+                "link": "/find?type=1&query=dialog+mode",
+                "word": "dialog mode"
+            },
+            {
+                "id": "24964",
+                "link": "/find?type=1&query=dialogic",
+                "word": "dialogic"
+            },
+            {
+                "id": "24964",
+                "link": "/find?type=1&query=dialogist",
+                "word": "dialogist"
+            },
+            {
+                "id": "24964",
+                "link": "/find?type=1&query=dialogue",
+                "word": "dialogue"
+            },
+            {
+                "id": "24964",
+                "link": "/find?type=1&query=dialogue+box",
+                "word": "dialogue box"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1647",
+                "link": "/find?type=4&query=dialogue",
+                "word": "dialogue"
+            }
+        ]
+    }
+}
