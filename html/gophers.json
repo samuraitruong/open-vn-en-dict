@@ -1,1 +1,40 @@
-{"error": 0, "query": "gophers", "enViData": {"suggests": [{"id": "40796", "link": "/find?type=1&query=gophering", "word": "gophering"}], "best": {"id": "40796", "details": "\n<div id=\"find_word_40796\" class=\"world word_en\" rel=\"gopher\">\n    <h2 class=\"fl\">gopher <span class=\"color-black\">/'g\u0259\u028af\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40796\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40796\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">chu\u1ed9t t\u00fai (B\u1eafc v\u00e0 Trung M\u1ef9)</div>\n    \n</div>\n", "link": "/find?type=1&query=gopher", "word": "gopher"}}, "mUrl": "/find?type=1&query=gophers", "enEnData": {"suggests": [{"id": "12362", "link": "/find?type=3&query=gopher+ball", "word": "gopher ball"}], "best": {"id": "12362", "details": "\n<div id=\"find_word_12362\" class=\"world word_en\" rel=\"gopher\">\n    <h2 class=\"fl\">gopher <span class=\"color-black\">/\u02c8go\u028af\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12362\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12362\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an American animal that is similar to a large rat and that lives in the ground</div>\n    \n</div>\n", "link": "/find?type=3&query=gopher", "word": "gopher"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an American animal that is similar to a large rat and that lives in the ground</div>",
+            "id": "12362",
+            "mean": [],
+            "pronounce": "/\u02c8go\u028af\u025a/",
+            "type": "noun",
+            "word": "gopher"
+        },
+        "suggests": [
+            {
+                "id": "12362",
+                "link": "/find?type=3&query=gopher+ball",
+                "word": "gopher ball"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">chu\u1ed9t t\u00fai (B\u1eafc v\u00e0 Trung M\u1ef9)</div>",
+            "id": "40796",
+            "mean": [],
+            "pronounce": "/'g\u0259\u028af\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/855241e874f2ab18955fd05ea2568027/16e6115d53f/G/gopher.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8918168765cab9cc8923537ac30ca95d/16e6115cccc/G/gopher.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gopher"
+        },
+        "suggests": [
+            {
+                "id": "40796",
+                "link": "/find?type=1&query=gophering",
+                "word": "gophering"
+            }
+        ]
+    }
+}
