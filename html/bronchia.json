@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "11399", "link": "/find?type=1&query=bronchial", "word": "bronchial"}, {"id": "11399", "link": "/find?type=1&query=bronchial+tubes", "word": "bronchial tubes"}, {"id": "11399", "link": "/find?type=1&query=bronchially", "word": "bronchially"}], "data": {"word": "bronchia", "id": "11399", "pronounce": "/'br\u0254\u0273kai/", "type": "(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) cu\u1ed1ng ph\u1ed5i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3496", "link": "/find?type=3&query=bronchial", "word": "bronchial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3496",
+                "link": "/find?type=3&query=bronchial",
+                "word": "bronchial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) cu\u1ed1ng ph\u1ed5i</div>",
+            "id": "11399",
+            "mean": [],
+            "pronounce": "/'br\u0254\u0273kai/",
+            "speak": {},
+            "type": "(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u",
+            "word": "bronchia"
+        },
+        "suggests": [
+            {
+                "id": "11399",
+                "link": "/find?type=1&query=bronchial",
+                "word": "bronchial"
+            },
+            {
+                "id": "11399",
+                "link": "/find?type=1&query=bronchial+tubes",
+                "word": "bronchial tubes"
+            },
+            {
+                "id": "11399",
+                "link": "/find?type=1&query=bronchially",
+                "word": "bronchially"
+            }
+        ]
+    }
+}

@@ -1,1 +1,105 @@
-{"en_vn": {"suggests": [{"id": "11515", "link": "/find?type=1&query=brutal", "word": "brutal"}, {"id": "11515", "link": "/find?type=1&query=brutalise", "word": "brutalise"}, {"id": "11515", "link": "/find?type=1&query=brutality", "word": "brutality"}, {"id": "11515", "link": "/find?type=1&query=brutalization", "word": "brutalization"}, {"id": "11515", "link": "/find?type=1&query=brutalize", "word": "brutalize"}, {"id": "11515", "link": "/find?type=1&query=brutalize%2C+brutalise", "word": "brutalize, brutalise"}, {"id": "11515", "link": "/find?type=1&query=brutally", "word": "brutally"}, {"id": "11515", "link": "/find?type=1&query=brute", "word": "brute"}, {"id": "11515", "link": "/find?type=1&query=brute-force+technique", "word": "brute-force technique"}], "data": {"word": "brut", "id": "11515", "pronounce": "/bru:t/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nguy\u00ean, kh\u00f4ng pha ng\u1ecdt (r\u01b0\u1ee3u)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3546", "link": "/find?type=3&query=brutal", "word": "brutal"}, {"id": "3547", "link": "/find?type=3&query=brutality", "word": "brutality"}, {"id": "3548", "link": "/find?type=3&query=brutalize", "word": "brutalize"}, {"id": "3549", "link": "/find?type=3&query=brute", "word": "brute"}, {"id": "3550", "link": "/find?type=3&query=brutish", "word": "brutish"}], "data": {}}, "synonyms": {"suggests": [{"id": "748", "link": "/find?type=4&query=brutal", "word": "brutal"}, {"id": "749", "link": "/find?type=4&query=brute", "word": "brute"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3546",
+                "link": "/find?type=3&query=brutal",
+                "word": "brutal"
+            },
+            {
+                "id": "3547",
+                "link": "/find?type=3&query=brutality",
+                "word": "brutality"
+            },
+            {
+                "id": "3548",
+                "link": "/find?type=3&query=brutalize",
+                "word": "brutalize"
+            },
+            {
+                "id": "3549",
+                "link": "/find?type=3&query=brute",
+                "word": "brute"
+            },
+            {
+                "id": "3550",
+                "link": "/find?type=3&query=brutish",
+                "word": "brutish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nguy\u00ean, kh\u00f4ng pha ng\u1ecdt (r\u01b0\u1ee3u)</div>",
+            "id": "11515",
+            "mean": [],
+            "pronounce": "/bru:t/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "brut"
+        },
+        "suggests": [
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutal",
+                "word": "brutal"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutalise",
+                "word": "brutalise"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutality",
+                "word": "brutality"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutalization",
+                "word": "brutalization"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutalize",
+                "word": "brutalize"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutalize%2C+brutalise",
+                "word": "brutalize, brutalise"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brutally",
+                "word": "brutally"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brute",
+                "word": "brute"
+            },
+            {
+                "id": "11515",
+                "link": "/find?type=1&query=brute-force+technique",
+                "word": "brute-force technique"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "748",
+                "link": "/find?type=4&query=brutal",
+                "word": "brutal"
+            },
+            {
+                "id": "749",
+                "link": "/find?type=4&query=brute",
+                "word": "brute"
+            }
+        ]
+    }
+}

@@ -1,1 +1,167 @@
-{"en_vn": {"suggests": [{"id": "11547", "link": "/find?type=1&query=bub", "word": "bub"}, {"id": "11548", "link": "/find?type=1&query=bubal", "word": "bubal"}, {"id": "11549", "link": "/find?type=1&query=bubble", "word": "bubble"}, {"id": "11550", "link": "/find?type=1&query=bubble+and+squeak", "word": "bubble and squeak"}, {"id": "11551", "link": "/find?type=1&query=bubble+bath", "word": "bubble bath"}, {"id": "11552", "link": "/find?type=1&query=bubble+chip", "word": "bubble chip"}, {"id": "11553", "link": "/find?type=1&query=bubble+gum", "word": "bubble gum"}, {"id": "11554", "link": "/find?type=1&query=bubble+memory", "word": "bubble memory"}, {"id": "11555", "link": "/find?type=1&query=bubble+sort", "word": "bubble sort"}, {"id": "11556", "link": "/find?type=1&query=bubbly", "word": "bubbly"}], "data": {}}, "en_en": {"suggests": [{"id": "3553", "link": "/find?type=3&query=bub", "word": "bub"}, {"id": "3554", "link": "/find?type=3&query=bubble", "word": "bubble"}, {"id": "3555", "link": "/find?type=3&query=bubble+and+squeak", "word": "bubble and squeak"}, {"id": "3556", "link": "/find?type=3&query=bubble+bath", "word": "bubble bath"}, {"id": "3557", "link": "/find?type=3&query=bubble+gum", "word": "bubble gum"}, {"id": "3558", "link": "/find?type=3&query=bubble-gum", "word": "bubble-gum"}, {"id": "3559", "link": "/find?type=3&query=bubbly", "word": "bubbly"}, {"id": "3560", "link": "/find?type=3&query=bubonic+plague", "word": "bubonic plague"}, {"id": "3561", "link": "/find?type=3&query=buccaneer", "word": "buccaneer"}, {"id": "3562", "link": "/find?type=3&query=buck", "word": "buck"}], "data": {}}, "synonyms": {"suggests": [{"id": "750", "link": "/find?type=4&query=bubble", "word": "bubble"}, {"id": "751", "link": "/find?type=4&query=bubbly", "word": "bubbly"}, {"id": "752", "link": "/find?type=4&query=bucket", "word": "bucket"}, {"id": "753", "link": "/find?type=4&query=buckle", "word": "buckle"}, {"id": "754", "link": "/find?type=4&query=bug", "word": "bug"}, {"id": "755", "link": "/find?type=4&query=bugger", "word": "bugger"}, {"id": "756", "link": "/find?type=4&query=build", "word": "build"}, {"id": "757", "link": "/find?type=4&query=building", "word": "building"}, {"id": "758", "link": "/find?type=4&query=bulge", "word": "bulge"}, {"id": "759", "link": "/find?type=4&query=bulk", "word": "bulk"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3553",
+                "link": "/find?type=3&query=bub",
+                "word": "bub"
+            },
+            {
+                "id": "3554",
+                "link": "/find?type=3&query=bubble",
+                "word": "bubble"
+            },
+            {
+                "id": "3555",
+                "link": "/find?type=3&query=bubble+and+squeak",
+                "word": "bubble and squeak"
+            },
+            {
+                "id": "3556",
+                "link": "/find?type=3&query=bubble+bath",
+                "word": "bubble bath"
+            },
+            {
+                "id": "3557",
+                "link": "/find?type=3&query=bubble+gum",
+                "word": "bubble gum"
+            },
+            {
+                "id": "3558",
+                "link": "/find?type=3&query=bubble-gum",
+                "word": "bubble-gum"
+            },
+            {
+                "id": "3559",
+                "link": "/find?type=3&query=bubbly",
+                "word": "bubbly"
+            },
+            {
+                "id": "3560",
+                "link": "/find?type=3&query=bubonic+plague",
+                "word": "bubonic plague"
+            },
+            {
+                "id": "3561",
+                "link": "/find?type=3&query=buccaneer",
+                "word": "buccaneer"
+            },
+            {
+                "id": "3562",
+                "link": "/find?type=3&query=buck",
+                "word": "buck"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11547",
+                "link": "/find?type=1&query=bub",
+                "word": "bub"
+            },
+            {
+                "id": "11548",
+                "link": "/find?type=1&query=bubal",
+                "word": "bubal"
+            },
+            {
+                "id": "11549",
+                "link": "/find?type=1&query=bubble",
+                "word": "bubble"
+            },
+            {
+                "id": "11550",
+                "link": "/find?type=1&query=bubble+and+squeak",
+                "word": "bubble and squeak"
+            },
+            {
+                "id": "11551",
+                "link": "/find?type=1&query=bubble+bath",
+                "word": "bubble bath"
+            },
+            {
+                "id": "11552",
+                "link": "/find?type=1&query=bubble+chip",
+                "word": "bubble chip"
+            },
+            {
+                "id": "11553",
+                "link": "/find?type=1&query=bubble+gum",
+                "word": "bubble gum"
+            },
+            {
+                "id": "11554",
+                "link": "/find?type=1&query=bubble+memory",
+                "word": "bubble memory"
+            },
+            {
+                "id": "11555",
+                "link": "/find?type=1&query=bubble+sort",
+                "word": "bubble sort"
+            },
+            {
+                "id": "11556",
+                "link": "/find?type=1&query=bubbly",
+                "word": "bubbly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "750",
+                "link": "/find?type=4&query=bubble",
+                "word": "bubble"
+            },
+            {
+                "id": "751",
+                "link": "/find?type=4&query=bubbly",
+                "word": "bubbly"
+            },
+            {
+                "id": "752",
+                "link": "/find?type=4&query=bucket",
+                "word": "bucket"
+            },
+            {
+                "id": "753",
+                "link": "/find?type=4&query=buckle",
+                "word": "buckle"
+            },
+            {
+                "id": "754",
+                "link": "/find?type=4&query=bug",
+                "word": "bug"
+            },
+            {
+                "id": "755",
+                "link": "/find?type=4&query=bugger",
+                "word": "bugger"
+            },
+            {
+                "id": "756",
+                "link": "/find?type=4&query=build",
+                "word": "build"
+            },
+            {
+                "id": "757",
+                "link": "/find?type=4&query=building",
+                "word": "building"
+            },
+            {
+                "id": "758",
+                "link": "/find?type=4&query=bulge",
+                "word": "bulge"
+            },
+            {
+                "id": "759",
+                "link": "/find?type=4&query=bulk",
+                "word": "bulk"
+            }
+        ]
+    }
+}

@@ -1,1 +1,107 @@
-{"en_vn": {"suggests": [{"id": "11537", "link": "/find?type=1&query=BSc", "word": "BSc"}, {"id": "11537", "link": "/find?type=1&query=bse", "word": "bse"}, {"id": "11537", "link": "/find?type=1&query=BSI", "word": "BSI"}, {"id": "11537", "link": "/find?type=1&query=BST", "word": "BST"}], "data": {"word": "BS", "id": "11537", "pronounce": "/,bi:'es/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(t\u1eeb M\u1ef9) (vi\u1ebft t\u1eaft c\u1ee7a Bachelor of Science)</div>\n    \n    <div class=\"green margin25 m-top15\">C\u1eed nh\u00e2n khoa h\u1ecdc</div>\n    \n    <div class=\"\">(t\u1eeb Anh) (vi\u1ebft t\u1eaft c\u1ee7a Bachelor of Surgery)</div>\n    \n    <div class=\"green margin25 m-top15\">C\u1eed nh\u00e2n ph\u1eabu thu\u1eadt</div>\n    \n    <div class=\"\">(tr\u00ean nh\u00e3n hi\u1ec7u) (vi\u1ebft t\u1eaft c\u1ee7a British Standard)</div>\n    \n    <div class=\"green margin25 m-top15\">ti\u00eau chu\u1ea9n Anh (ch\u1ec9 s\u1ed1 k\u1ef9 thu\u1eadt c\u1ee7a Vi\u1ec7n ti\u00eau chu\u1ea9n Anh)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">produced to BC 4353</div>\n    \n    <div class=\"margin25\">s\u1ea3n xu\u1ea5t theo ti\u00eau chu\u1ea9n Anh 4353</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3551", "link": "/find?type=3&query=BSc", "word": "BSc"}], "data": {"word": "BS", "id": "3551", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">US</div>\n    \n    <div class=\"green margin25 m-top15\">or B.S. bachelor of science</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She received a B.S. in chemistry from Smith College.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a B.S. degree</div>\n    \n    <div class=\"green margin25 m-top15\">informal + impolite bullshit</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a load of BS</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "412", "link": "/find?type=4&query=babble", "word": "babble"}, {"id": "413", "link": "/find?type=4&query=baby", "word": "baby"}, {"id": "414", "link": "/find?type=4&query=back", "word": "back"}, {"id": "415", "link": "/find?type=4&query=backbone", "word": "backbone"}, {"id": "416", "link": "/find?type=4&query=backer", "word": "backer"}, {"id": "417", "link": "/find?type=4&query=background", "word": "background"}, {"id": "418", "link": "/find?type=4&query=backing", "word": "backing"}, {"id": "419", "link": "/find?type=4&query=backlash", "word": "backlash"}, {"id": "420", "link": "/find?type=4&query=backward", "word": "backward"}, {"id": "421", "link": "/find?type=4&query=backwards", "word": "backwards"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">US</div>\n    \n    <div class=\"green margin25 m-top15\">or B.S. bachelor of science</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She received a B.S. in chemistry from Smith College.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a B.S. degree</div>\n    \n    <div class=\"green margin25 m-top15\">informal + impolite bullshit</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a load of BS</div>",
+            "id": "3551",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "BS"
+        },
+        "suggests": [
+            {
+                "id": "3551",
+                "link": "/find?type=3&query=BSc",
+                "word": "BSc"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(t\u1eeb M\u1ef9) (vi\u1ebft t\u1eaft c\u1ee7a Bachelor of Science)</div>\n    \n    <div class=\"green margin25 m-top15\">C\u1eed nh\u00e2n khoa h\u1ecdc</div>\n    \n    <div class=\"\">(t\u1eeb Anh) (vi\u1ebft t\u1eaft c\u1ee7a Bachelor of Surgery)</div>\n    \n    <div class=\"green margin25 m-top15\">C\u1eed nh\u00e2n ph\u1eabu thu\u1eadt</div>\n    \n    <div class=\"\">(tr\u00ean nh\u00e3n hi\u1ec7u) (vi\u1ebft t\u1eaft c\u1ee7a British Standard)</div>\n    \n    <div class=\"green margin25 m-top15\">ti\u00eau chu\u1ea9n Anh (ch\u1ec9 s\u1ed1 k\u1ef9 thu\u1eadt c\u1ee7a Vi\u1ec7n ti\u00eau chu\u1ea9n Anh)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">produced to BC 4353</div>\n    \n    <div class=\"margin25\">s\u1ea3n xu\u1ea5t theo ti\u00eau chu\u1ea9n Anh 4353</div>",
+            "id": "11537",
+            "mean": [],
+            "pronounce": "/,bi:'es/",
+            "speak": {},
+            "type": "",
+            "word": "BS"
+        },
+        "suggests": [
+            {
+                "id": "11537",
+                "link": "/find?type=1&query=BSc",
+                "word": "BSc"
+            },
+            {
+                "id": "11537",
+                "link": "/find?type=1&query=bse",
+                "word": "bse"
+            },
+            {
+                "id": "11537",
+                "link": "/find?type=1&query=BSI",
+                "word": "BSI"
+            },
+            {
+                "id": "11537",
+                "link": "/find?type=1&query=BST",
+                "word": "BST"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "412",
+                "link": "/find?type=4&query=babble",
+                "word": "babble"
+            },
+            {
+                "id": "413",
+                "link": "/find?type=4&query=baby",
+                "word": "baby"
+            },
+            {
+                "id": "414",
+                "link": "/find?type=4&query=back",
+                "word": "back"
+            },
+            {
+                "id": "415",
+                "link": "/find?type=4&query=backbone",
+                "word": "backbone"
+            },
+            {
+                "id": "416",
+                "link": "/find?type=4&query=backer",
+                "word": "backer"
+            },
+            {
+                "id": "417",
+                "link": "/find?type=4&query=background",
+                "word": "background"
+            },
+            {
+                "id": "418",
+                "link": "/find?type=4&query=backing",
+                "word": "backing"
+            },
+            {
+                "id": "419",
+                "link": "/find?type=4&query=backlash",
+                "word": "backlash"
+            },
+            {
+                "id": "420",
+                "link": "/find?type=4&query=backward",
+                "word": "backward"
+            },
+            {
+                "id": "421",
+                "link": "/find?type=4&query=backwards",
+                "word": "backwards"
+            }
+        ]
+    }
+}

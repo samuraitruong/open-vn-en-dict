@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11454", "link": "/find?type=1&query=brougham", "word": "brougham"}, {"id": "11455", "link": "/find?type=1&query=brought", "word": "brought"}], "data": {}}, "en_en": {"suggests": [{"id": "3520", "link": "/find?type=3&query=brought", "word": "brought"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3520",
+                "link": "/find?type=3&query=brought",
+                "word": "brought"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11454",
+                "link": "/find?type=1&query=brougham",
+                "word": "brougham"
+            },
+            {
+                "id": "11455",
+                "link": "/find?type=1&query=brought",
+                "word": "brought"
+            }
+        ]
+    }
+}

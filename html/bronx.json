@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11419", "link": "/find?type=1&query=Bronx+cheer", "word": "Bronx cheer"}], "data": {}}, "en_en": {"suggests": [{"id": "3500", "link": "/find?type=3&query=Bronx+cheer", "word": "Bronx cheer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3500",
+                "link": "/find?type=3&query=Bronx+cheer",
+                "word": "Bronx cheer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11419",
+                "link": "/find?type=1&query=Bronx+cheer",
+                "word": "Bronx cheer"
+            }
+        ]
+    }
+}

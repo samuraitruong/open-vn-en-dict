@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11418", "link": "/find?type=1&query=brontosaurus", "word": "brontosaurus"}], "data": {}}, "en_en": {"suggests": [{"id": "3499", "link": "/find?type=3&query=brontosaurus", "word": "brontosaurus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3499",
+                "link": "/find?type=3&query=brontosaurus",
+                "word": "brontosaurus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11418",
+                "link": "/find?type=1&query=brontosaurus",
+                "word": "brontosaurus"
+            }
+        ]
+    }
+}

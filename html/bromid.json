@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11394", "link": "/find?type=1&query=bromide", "word": "bromide"}, {"id": "11395", "link": "/find?type=1&query=bromidic", "word": "bromidic"}], "data": {}}, "en_en": {"suggests": [{"id": "3494", "link": "/find?type=3&query=bromide", "word": "bromide"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3494",
+                "link": "/find?type=3&query=bromide",
+                "word": "bromide"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11394",
+                "link": "/find?type=1&query=bromide",
+                "word": "bromide"
+            },
+            {
+                "id": "11395",
+                "link": "/find?type=1&query=bromidic",
+                "word": "bromidic"
+            }
+        ]
+    }
+}
