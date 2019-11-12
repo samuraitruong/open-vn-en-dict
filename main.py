@@ -135,7 +135,7 @@ print("Total english words %d" % (len(words)))
 exit()
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
-        getWordFromLaban, key): key for key in words}
+        getWordFromLaban, key): key for key in words if key <''}
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
