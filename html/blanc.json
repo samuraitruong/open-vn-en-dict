@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "9734", "link": "/find?type=1&query=blanc-mange", "word": "blanc-mange"}, {"id": "9735", "link": "/find?type=1&query=blanch", "word": "blanch"}, {"id": "9736", "link": "/find?type=1&query=blancher", "word": "blancher"}, {"id": "9737", "link": "/find?type=1&query=blancmange", "word": "blancmange"}], "data": {}}, "en_en": {"suggests": [{"id": "2764", "link": "/find?type=3&query=blanch", "word": "blanch"}, {"id": "2765", "link": "/find?type=3&query=blanche", "word": "blanche"}, {"id": "2766", "link": "/find?type=3&query=blancmange", "word": "blancmange"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2764",
+                "link": "/find?type=3&query=blanch",
+                "word": "blanch"
+            },
+            {
+                "id": "2765",
+                "link": "/find?type=3&query=blanche",
+                "word": "blanche"
+            },
+            {
+                "id": "2766",
+                "link": "/find?type=3&query=blancmange",
+                "word": "blancmange"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9734",
+                "link": "/find?type=1&query=blanc-mange",
+                "word": "blanc-mange"
+            },
+            {
+                "id": "9735",
+                "link": "/find?type=1&query=blanch",
+                "word": "blanch"
+            },
+            {
+                "id": "9736",
+                "link": "/find?type=1&query=blancher",
+                "word": "blancher"
+            },
+            {
+                "id": "9737",
+                "link": "/find?type=1&query=blancmange",
+                "word": "blancmange"
+            }
+        ]
+    }
+}

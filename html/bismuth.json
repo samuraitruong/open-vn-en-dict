@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "9524", "link": "/find?type=1&query=bismuthal", "word": "bismuthal"}], "data": {"word": "bismuth", "id": "9524", "pronounce": "/'bizm\u0259\u03b8/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">bitmut</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/e956bdce0994e291c00bc2ec919bcee3/16e5dd765ed/B/bismuth.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/189f8147937ad6a6d5cdcb72690a8725/16e5dd76bb9/B/bismuth.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "bismuth", "id": "2693", "pronounce": "/\u02c8b\u026azm\u0259\u0275/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a grayish-white metallic element that is used in alloys and drugs</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a grayish-white metallic element that is used in alloys and drugs</div>",
+            "id": "2693",
+            "mean": [],
+            "pronounce": "/\u02c8b\u026azm\u0259\u0275/",
+            "type": "noun",
+            "word": "bismuth"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">bitmut</div>",
+            "id": "9524",
+            "mean": [],
+            "pronounce": "/'bizm\u0259\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bcdfe5c86b21e9580c1973f50ad03171/16e5eb983f4/B/bismuth.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8a12a855505dad20b74f8695e35ebe89/16e5eb97ecd/B/bismuth.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bismuth"
+        },
+        "suggests": [
+            {
+                "id": "9524",
+                "link": "/find?type=1&query=bismuthal",
+                "word": "bismuthal"
+            }
+        ]
+    }
+}

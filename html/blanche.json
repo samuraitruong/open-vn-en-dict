@@ -1,1 +1,23 @@
-{"en_vn": {"suggests": [{"id": "9736", "link": "/find?type=1&query=blancher", "word": "blancher"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "blanche", "id": "2765", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">see carte blanche</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">see carte blanche</div>",
+            "id": "2765",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "blanche"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9736",
+                "link": "/find?type=1&query=blancher",
+                "word": "blancher"
+            }
+        ]
+    }
+}

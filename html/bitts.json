@@ -1,1 +1,54 @@
-{"en_vn": {"suggests": [], "data": {"word": "bitts", "id": "9577", "pronounce": "/bits/", "type": "(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) c\u1ecdc bu\u1ed9c d\u00e2y c\u00e1p</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2705", "link": "/find?type=3&query=bitten", "word": "bitten"}, {"id": "2706", "link": "/find?type=3&query=bitter", "word": "bitter"}, {"id": "2707", "link": "/find?type=3&query=bittersweet", "word": "bittersweet"}, {"id": "2708", "link": "/find?type=3&query=bitty", "word": "bitty"}], "data": {}}, "synonyms": {"suggests": [{"id": "551", "link": "/find?type=4&query=bitter", "word": "bitter"}, {"id": "552", "link": "/find?type=4&query=bitterness", "word": "bitterness"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2705",
+                "link": "/find?type=3&query=bitten",
+                "word": "bitten"
+            },
+            {
+                "id": "2706",
+                "link": "/find?type=3&query=bitter",
+                "word": "bitter"
+            },
+            {
+                "id": "2707",
+                "link": "/find?type=3&query=bittersweet",
+                "word": "bittersweet"
+            },
+            {
+                "id": "2708",
+                "link": "/find?type=3&query=bitty",
+                "word": "bitty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) c\u1ecdc bu\u1ed9c d\u00e2y c\u00e1p</div>",
+            "id": "9577",
+            "mean": [],
+            "pronounce": "/bits/",
+            "speak": {},
+            "type": "(b\u1ea5t qui t\u1eafc) danh t\u1eeb s\u1ed1 nhi\u1ec1u",
+            "word": "bitts"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "551",
+                "link": "/find?type=4&query=bitter",
+                "word": "bitter"
+            },
+            {
+                "id": "552",
+                "link": "/find?type=4&query=bitterness",
+                "word": "bitterness"
+            }
+        ]
+    }
+}

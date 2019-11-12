@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "9559", "link": "/find?type=1&query=bitmap+display", "word": "bitmap display"}, {"id": "9559", "link": "/find?type=1&query=bitmap+font", "word": "bitmap font"}], "data": {"word": "bitmap", "id": "9559", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) h\u00ecnh ch\u1ea5m, b\u1ea3n \u0111\u1ed3 t\u1ed5ng h\u1ee3p bit</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6397364764c5700e3bf6495315306943/16e5dd78814/B/bitmap.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/155c33efcd0bd788dcb71926488b13e4/16e5dd78e14/B/bitmap.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "bitmap", "id": "2704", "pronounce": "/\u02c8b\u026at\u02ccm\u00e6p/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -maps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] computers :an image which is stored as an arrangement of bits that represent each of the small dots that form the image</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -maps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] computers :an image which is stored as an arrangement of bits that represent each of the small dots that form the image</div>",
+            "id": "2704",
+            "mean": [],
+            "pronounce": "/\u02c8b\u026at\u02ccm\u00e6p/",
+            "type": "noun",
+            "word": "bitmap"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) h\u00ecnh ch\u1ea5m, b\u1ea3n \u0111\u1ed3 t\u1ed5ng h\u1ee3p bit</div>",
+            "id": "9559",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b9b062387068ab1d650d9378b34bdda1/16e5eb9a346/B/bitmap.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/847ea68e7dcbf00ef72c27910273c917/16e5eb99e2c/B/bitmap.mp3"
+            },
+            "type": "",
+            "word": "bitmap"
+        },
+        "suggests": [
+            {
+                "id": "9559",
+                "link": "/find?type=1&query=bitmap+display",
+                "word": "bitmap display"
+            },
+            {
+                "id": "9559",
+                "link": "/find?type=1&query=bitmap+font",
+                "word": "bitmap font"
+            }
+        ]
+    }
+}
