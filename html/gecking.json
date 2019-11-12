@@ -1,1 +1,22 @@
-{"error": 0, "query": "gecking", "enViData": {"suggests": [{"id": "39388", "link": "/find?type=1&query=gecko", "word": "gecko"}]}, "mUrl": "/find?type=1&query=gecking", "enEnData": {"suggests": [{"id": "11906", "link": "/find?type=3&query=gecko", "word": "gecko"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11906",
+                "link": "/find?type=3&query=gecko",
+                "word": "gecko"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39388",
+                "link": "/find?type=1&query=gecko",
+                "word": "gecko"
+            }
+        ]
+    }
+}
