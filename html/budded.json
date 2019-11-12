@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [], "data": {"word": "budded", "id": "11607", "pronounce": "/'b\u028cdid/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e3 n\u1ea3y ch\u1ed3i, \u0111\u00e3 ra n\u1ee5</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3575", "link": "/find?type=3&query=Buddhism", "word": "Buddhism"}, {"id": "3576", "link": "/find?type=3&query=budding", "word": "budding"}, {"id": "3577", "link": "/find?type=3&query=buddy", "word": "buddy"}, {"id": "3578", "link": "/find?type=3&query=buddy-buddy", "word": "buddy-buddy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3575",
+                "link": "/find?type=3&query=Buddhism",
+                "word": "Buddhism"
+            },
+            {
+                "id": "3576",
+                "link": "/find?type=3&query=budding",
+                "word": "budding"
+            },
+            {
+                "id": "3577",
+                "link": "/find?type=3&query=buddy",
+                "word": "buddy"
+            },
+            {
+                "id": "3578",
+                "link": "/find?type=3&query=buddy-buddy",
+                "word": "buddy-buddy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e3 n\u1ea3y ch\u1ed3i, \u0111\u00e3 ra n\u1ee5</div>",
+            "id": "11607",
+            "mean": [],
+            "pronounce": "/'b\u028cdid/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "budded"
+        },
+        "suggests": []
+    }
+}

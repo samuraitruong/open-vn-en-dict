@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "11648", "link": "/find?type=1&query=buffoon", "word": "buffoon"}, {"id": "11648", "link": "/find?type=1&query=buffoonery", "word": "buffoonery"}, {"id": "11648", "link": "/find?type=1&query=buffoonish", "word": "buffoonish"}], "data": {"word": "buffo", "id": "11648", "pronounce": "/'bufou/", "type": "(b\u1ea5t qui t\u1eafc) danh t\u1eeb, s\u1ed1 nhi\u1ec1u buffi /'bu:fi/ T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) danh t\u1eeb, s\u1ed1 nhi\u1ec1u buffi /'bu:fi/</span></div>\n    \n    <div class=\"green margin25 m-top15\">di\u1ec5n vi\u00ean k\u1ecbch vui</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4i h\u00e0i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3591", "link": "/find?type=3&query=buffoon", "word": "buffoon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3591",
+                "link": "/find?type=3&query=buffoon",
+                "word": "buffoon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) danh t\u1eeb, s\u1ed1 nhi\u1ec1u buffi /'bu:fi/</span></div>\n    \n    <div class=\"green margin25 m-top15\">di\u1ec5n vi\u00ean k\u1ecbch vui</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4i h\u00e0i</div>",
+            "id": "11648",
+            "mean": [],
+            "pronounce": "/'bufou/",
+            "speak": {},
+            "type": "(b\u1ea5t qui t\u1eafc) danh t\u1eeb, s\u1ed1 nhi\u1ec1u buffi /'bu:fi/ T\u00ednh t\u1eeb",
+            "word": "buffo"
+        },
+        "suggests": [
+            {
+                "id": "11648",
+                "link": "/find?type=1&query=buffoon",
+                "word": "buffoon"
+            },
+            {
+                "id": "11648",
+                "link": "/find?type=1&query=buffoonery",
+                "word": "buffoonery"
+            },
+            {
+                "id": "11648",
+                "link": "/find?type=1&query=buffoonish",
+                "word": "buffoonish"
+            }
+        ]
+    }
+}

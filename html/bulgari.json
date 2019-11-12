@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11699", "link": "/find?type=1&query=bulgarian", "word": "bulgarian"}], "data": {}}, "en_en": {"suggests": [{"id": "3612", "link": "/find?type=3&query=Bulgarian", "word": "Bulgarian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3612",
+                "link": "/find?type=3&query=Bulgarian",
+                "word": "Bulgarian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11699",
+                "link": "/find?type=1&query=bulgarian",
+                "word": "bulgarian"
+            }
+        ]
+    }
+}

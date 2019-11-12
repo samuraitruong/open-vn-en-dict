@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11631", "link": "/find?type=1&query=buffalo", "word": "buffalo"}], "data": {}}, "en_en": {"suggests": [{"id": "3584", "link": "/find?type=3&query=buffalo", "word": "buffalo"}, {"id": "3585", "link": "/find?type=3&query=buffalo+wing", "word": "buffalo wing"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3584",
+                "link": "/find?type=3&query=buffalo",
+                "word": "buffalo"
+            },
+            {
+                "id": "3585",
+                "link": "/find?type=3&query=buffalo+wing",
+                "word": "buffalo wing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11631",
+                "link": "/find?type=1&query=buffalo",
+                "word": "buffalo"
+            }
+        ]
+    }
+}
