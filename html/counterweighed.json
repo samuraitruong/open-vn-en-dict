@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "20404", "link": "/find?type=1&query=counterweight", "word": "counterweight"}, {"id": "20405", "link": "/find?type=1&query=counterweighted", "word": "counterweighted"}], "data": {}}, "en_en": {"suggests": [{"id": "6485", "link": "/find?type=3&query=counterweight", "word": "counterweight"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6485",
+                "link": "/find?type=3&query=counterweight",
+                "word": "counterweight"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20404",
+                "link": "/find?type=1&query=counterweight",
+                "word": "counterweight"
+            },
+            {
+                "id": "20405",
+                "link": "/find?type=1&query=counterweighted",
+                "word": "counterweighted"
+            }
+        ]
+    }
+}
