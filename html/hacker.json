@@ -1,1 +1,34 @@
-{"error": 0, "query": "hacker", "enViData": {"suggests": [{"id": "42267", "link": "/find?type=1&query=hackery", "word": "hackery"}], "best": {"id": "42267", "details": "\n<div id=\"find_word_42267\" class=\"world word_en\" rel=\"hacker\">\n    <h2 class=\"fl\">hacker <span class=\"color-black\">/'h\u00e6k\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42267\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42267\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi th\u00edch l\u1eadp ch\u01b0\u01a1ng tr\u00ecnh m\u00e1y \u0111i\u1ec7n to\u00e1n, ng\u01b0\u1eddi th\u00edch d\u00f9ng m\u00e1y \u0111i\u1ec7n to\u00e1n</div>\n    \n</div>\n", "link": "/find?type=1&query=hacker", "word": "hacker"}}, "mUrl": "/find?type=1&query=hacker", "enEnData": {"suggests": [], "best": {"id": "12857", "details": "\n<div id=\"find_word_12857\" class=\"world word_en\" rel=\"hacker\">\n    <h2 class=\"fl\">hacker <span class=\"color-black\">/\u02c8h\u00e6k\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12857\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12857\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] computers :a person who secretly gets access to a computer system in order to get information, cause damage, etc. :a person who hacks into a computer system</div>\n    \n    <div class=\"green margin25 m-top15\">US informal :a person who plays a sport badly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">My friends and I have been playing golf for years, but we're still just a bunch of hackers.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a tennis hacker</div>\n    \n</div>\n", "link": "/find?type=3&query=hacker", "word": "hacker"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] computers :a person who secretly gets access to a computer system in order to get information, cause damage, etc. :a person who hacks into a computer system</div>\n    \n    <div class=\"green margin25 m-top15\">US informal :a person who plays a sport badly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">My friends and I have been playing golf for years, but we're still just a bunch of hackers.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a tennis hacker</div>",
+            "id": "12857",
+            "mean": [],
+            "pronounce": "/\u02c8h\u00e6k\u025a/",
+            "type": "noun",
+            "word": "hacker"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi th\u00edch l\u1eadp ch\u01b0\u01a1ng tr\u00ecnh m\u00e1y \u0111i\u1ec7n to\u00e1n, ng\u01b0\u1eddi th\u00edch d\u00f9ng m\u00e1y \u0111i\u1ec7n to\u00e1n</div>",
+            "id": "42267",
+            "mean": [],
+            "pronounce": "/'h\u00e6k\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/76a0c27f6f9b9bfee204e05734b45fa4/16e614d4658/H/hacker.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/918ea90a613558f03b27f89064a3cfba/16e614d3e55/H/hacker.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hacker"
+        },
+        "suggests": [
+            {
+                "id": "42267",
+                "link": "/find?type=1&query=hackery",
+                "word": "hackery"
+            }
+        ]
+    }
+}
