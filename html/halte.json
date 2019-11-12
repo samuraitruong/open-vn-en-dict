@@ -1,1 +1,32 @@
-{"error": 0, "query": "halte", "enViData": {"suggests": [{"id": "42568", "link": "/find?type=1&query=halter", "word": "halter"}, {"id": "42569", "link": "/find?type=1&query=halterbreak", "word": "halterbreak"}, {"id": "42570", "link": "/find?type=1&query=haltere", "word": "haltere"}]}, "mUrl": "/find?type=1&query=halte", "enEnData": {"suggests": [{"id": "12946", "link": "/find?type=3&query=halter", "word": "halter"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12946",
+                "link": "/find?type=3&query=halter",
+                "word": "halter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42568",
+                "link": "/find?type=1&query=halter",
+                "word": "halter"
+            },
+            {
+                "id": "42569",
+                "link": "/find?type=1&query=halterbreak",
+                "word": "halterbreak"
+            },
+            {
+                "id": "42570",
+                "link": "/find?type=1&query=haltere",
+                "word": "haltere"
+            }
+        ]
+    }
+}
