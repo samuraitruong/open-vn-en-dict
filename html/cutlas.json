@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "22010", "link": "/find?type=1&query=cutlass", "word": "cutlass"}], "data": {}}, "en_en": {"suggests": [{"id": "7073", "link": "/find?type=3&query=cutlass", "word": "cutlass"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7073",
+                "link": "/find?type=3&query=cutlass",
+                "word": "cutlass"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22010",
+                "link": "/find?type=1&query=cutlass",
+                "word": "cutlass"
+            }
+        ]
+    }
+}

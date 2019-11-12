@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "21951", "link": "/find?type=1&query=custodial", "word": "custodial"}, {"id": "21952", "link": "/find?type=1&query=custodian", "word": "custodian"}, {"id": "21953", "link": "/find?type=1&query=custodian+service", "word": "custodian service"}, {"id": "21954", "link": "/find?type=1&query=custodianship", "word": "custodianship"}], "data": {}}, "en_en": {"suggests": [{"id": "7053", "link": "/find?type=3&query=custodial", "word": "custodial"}, {"id": "7054", "link": "/find?type=3&query=custodian", "word": "custodian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7053",
+                "link": "/find?type=3&query=custodial",
+                "word": "custodial"
+            },
+            {
+                "id": "7054",
+                "link": "/find?type=3&query=custodian",
+                "word": "custodian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21951",
+                "link": "/find?type=1&query=custodial",
+                "word": "custodial"
+            },
+            {
+                "id": "21952",
+                "link": "/find?type=1&query=custodian",
+                "word": "custodian"
+            },
+            {
+                "id": "21953",
+                "link": "/find?type=1&query=custodian+service",
+                "word": "custodian service"
+            },
+            {
+                "id": "21954",
+                "link": "/find?type=1&query=custodianship",
+                "word": "custodianship"
+            }
+        ]
+    }
+}
