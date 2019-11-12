@@ -1,1 +1,34 @@
-{"error": 0, "query": "gendarmes", "enViData": {"suggests": [{"id": "39453", "link": "/find?type=1&query=gendarmerie", "word": "gendarmerie"}], "best": {"id": "39453", "details": "\n<div id=\"find_word_39453\" class=\"world word_en\" rel=\"gendarme\">\n    <h2 class=\"fl\">gendarme <span class=\"color-black\">/'\u0292\u0252:nd\u0251:m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"39453\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"39453\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">sen \u0111\u1ea7m, hi\u1ebfn binh (Ph\u00e1p)</div>\n    \n</div>\n", "link": "/find?type=1&query=gendarme", "word": "gendarme"}}, "mUrl": "/find?type=1&query=gendarmes", "enEnData": {"suggests": [], "best": {"id": "11928", "details": "\n<div id=\"find_word_11928\" class=\"world word_en\" rel=\"gendarme\">\n    <h2 class=\"fl\">gendarme <span class=\"color-black\">/\u02c8\u0292\u0251\u02d0n\u02ccd\u0251\u025am/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11928\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11928\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -darmes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a police officer especially;  :a police officer in a country where French is spoken</div>\n    \n</div>\n", "link": "/find?type=3&query=gendarme", "word": "gendarme"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -darmes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a police officer especially;  :a police officer in a country where French is spoken</div>",
+            "id": "11928",
+            "mean": [],
+            "pronounce": "/\u02c8\u0292\u0251\u02d0n\u02ccd\u0251\u025am/",
+            "type": "noun",
+            "word": "gendarme"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">sen \u0111\u1ea7m, hi\u1ebfn binh (Ph\u00e1p)</div>",
+            "id": "39453",
+            "mean": [],
+            "pronounce": "/'\u0292\u0252:nd\u0251:m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/749a0e2550d374e629d09f41d27ac57e/16e60db7143/G/gendarme.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c1c939d5c7e266166420e65b7eda202a/16e60db691e/G/gendarme.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gendarme"
+        },
+        "suggests": [
+            {
+                "id": "39453",
+                "link": "/find?type=1&query=gendarmerie",
+                "word": "gendarmerie"
+            }
+        ]
+    }
+}
