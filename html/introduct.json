@@ -1,1 +1,57 @@
-{"error": 0, "query": "introduct", "enViData": {"suggests": [{"id": "49809", "link": "/find?type=1&query=introduction", "word": "introduction"}, {"id": "49810", "link": "/find?type=1&query=introductive", "word": "introductive"}, {"id": "49811", "link": "/find?type=1&query=introductorily", "word": "introductorily"}, {"id": "49812", "link": "/find?type=1&query=introductoriness", "word": "introductoriness"}, {"id": "49813", "link": "/find?type=1&query=introductory", "word": "introductory"}]}, "mUrl": "/find?type=1&query=introduct", "enEnData": {"suggests": [{"id": "15317", "link": "/find?type=3&query=introduction", "word": "introduction"}, {"id": "15318", "link": "/find?type=3&query=introductory", "word": "introductory"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3913", "link": "/find?type=4&query=introductory", "word": "introductory"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15317",
+                "link": "/find?type=3&query=introduction",
+                "word": "introduction"
+            },
+            {
+                "id": "15318",
+                "link": "/find?type=3&query=introductory",
+                "word": "introductory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "49809",
+                "link": "/find?type=1&query=introduction",
+                "word": "introduction"
+            },
+            {
+                "id": "49810",
+                "link": "/find?type=1&query=introductive",
+                "word": "introductive"
+            },
+            {
+                "id": "49811",
+                "link": "/find?type=1&query=introductorily",
+                "word": "introductorily"
+            },
+            {
+                "id": "49812",
+                "link": "/find?type=1&query=introductoriness",
+                "word": "introductoriness"
+            },
+            {
+                "id": "49813",
+                "link": "/find?type=1&query=introductory",
+                "word": "introductory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3913",
+                "link": "/find?type=4&query=introductory",
+                "word": "introductory"
+            }
+        ]
+    }
+}

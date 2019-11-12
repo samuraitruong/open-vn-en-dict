@@ -1,1 +1,49 @@
-{"error": 0, "query": "intoned", "enViData": {"suggests": [{"id": "49707", "link": "/find?type=1&query=intonement", "word": "intonement"}, {"id": "49707", "link": "/find?type=1&query=intoner", "word": "intoner"}], "best": {"id": "49707", "details": "\n<div id=\"find_word_49707\" class=\"world word_en\" rel=\"intone\">\n    <h2 class=\"fl\">intone <span class=\"color-black\">/in't\u0259\u028an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"49707\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"49707\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00e2m nga (\u0111\u1ecdc kinh\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i (\u0111i\u1ec1u g\u00ec) m\u1ed9t c\u00e1ch tr\u1ecbnh tr\u1ecdng</div>\n    \n</div>\n", "link": "/find?type=1&query=intone", "word": "intone"}}, "mUrl": "/find?type=1&query=intoned", "enEnData": {"suggests": [], "best": {"id": "15294", "details": "\n<div id=\"find_word_15294\" class=\"world word_en\" rel=\"intone\">\n    <h2 class=\"fl\">intone <span class=\"color-black\">/\u026an\u02c8to\u028an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15294\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15294\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-tones; -toned; -toning</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to speak (a prayer, poem, etc.) in a way that sounds like music or chanting</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">intone a prayer</div>\n    \n    <div class=\"green margin25 m-top15\">to say (something) in a slow and even voice</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Coming soon to a theater near you, the announcer intoned.</div>\n    \n</div>\n", "link": "/find?type=3&query=intone", "word": "intone"}}, "ftype": "1", "synData": {"suggests": [{"id": "3905", "link": "/find?type=4&query=intonation", "word": "intonation"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-tones; -toned; -toning</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to speak (a prayer, poem, etc.) in a way that sounds like music or chanting</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">intone a prayer</div>\n    \n    <div class=\"green margin25 m-top15\">to say (something) in a slow and even voice</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Coming soon to a theater near you, the announcer intoned.</div>",
+            "id": "15294",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8to\u028an/",
+            "type": "verb",
+            "word": "intone"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00e2m nga (\u0111\u1ecdc kinh\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i (\u0111i\u1ec1u g\u00ec) m\u1ed9t c\u00e1ch tr\u1ecbnh tr\u1ecdng</div>",
+            "id": "49707",
+            "mean": [],
+            "pronounce": "/in't\u0259\u028an/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e30e22740fe74bee9413883eb44580bc/16e61d32ab1/I/intone.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/51d6dc27ff64f189e74d3b1b8e7bdc18/16e61d324c3/I/intone.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "intone"
+        },
+        "suggests": [
+            {
+                "id": "49707",
+                "link": "/find?type=1&query=intonement",
+                "word": "intonement"
+            },
+            {
+                "id": "49707",
+                "link": "/find?type=1&query=intoner",
+                "word": "intoner"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3905",
+                "link": "/find?type=4&query=intonation",
+                "word": "intonation"
+            }
+        ]
+    }
+}
