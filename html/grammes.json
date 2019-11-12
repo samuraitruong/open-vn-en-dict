@@ -1,1 +1,54 @@
-{"error": 0, "query": "grammes", "enViData": {"suggests": [{"id": "41020", "link": "/find?type=1&query=gramme-atom", "word": "gramme-atom"}, {"id": "41020", "link": "/find?type=1&query=gramme-calorie", "word": "gramme-calorie"}, {"id": "41020", "link": "/find?type=1&query=gramme-equivalent", "word": "gramme-equivalent"}, {"id": "41020", "link": "/find?type=1&query=gramme-molecule", "word": "gramme-molecule"}, {"id": "41020", "link": "/find?type=1&query=gramme-weight", "word": "gramme-weight"}], "best": {"id": "41020", "details": "\n<div id=\"find_word_41020\" class=\"world word_en\" rel=\"gramme\">\n    <h2 class=\"fl\">gramme <span class=\"color-black\">/gr\u00e6m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41020\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41020\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=gram\">gram</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=gramme", "word": "gramme"}}, "mUrl": "/find?type=1&query=grammes", "enEnData": {"suggests": [], "best": {"id": "12441", "details": "\n<div id=\"find_word_12441\" class=\"world word_en\" rel=\"gramme\">\n    <h2 class=\"fl\">gramme <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12441\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12441\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">Brit spelling of gram</div>\n    \n</div>\n", "link": "/find?type=3&query=gramme", "word": "gramme"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">Brit spelling of gram</div>",
+            "id": "12441",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "gramme"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=gram\">gram</a></span></div>",
+            "id": "41020",
+            "mean": [],
+            "pronounce": "/gr\u00e6m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b2014186f784e15f2b80cfc991aaa643/16e61200249/G/gramme.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/de91dd74a5c4a60b050db9d44ed630d6/16e611ffa44/G/gramme.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gramme"
+        },
+        "suggests": [
+            {
+                "id": "41020",
+                "link": "/find?type=1&query=gramme-atom",
+                "word": "gramme-atom"
+            },
+            {
+                "id": "41020",
+                "link": "/find?type=1&query=gramme-calorie",
+                "word": "gramme-calorie"
+            },
+            {
+                "id": "41020",
+                "link": "/find?type=1&query=gramme-equivalent",
+                "word": "gramme-equivalent"
+            },
+            {
+                "id": "41020",
+                "link": "/find?type=1&query=gramme-molecule",
+                "word": "gramme-molecule"
+            },
+            {
+                "id": "41020",
+                "link": "/find?type=1&query=gramme-weight",
+                "word": "gramme-weight"
+            }
+        ]
+    }
+}
