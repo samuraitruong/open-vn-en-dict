@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "26991", "link": "/find?type=1&query=doldrums", "word": "doldrums"}], "data": {}}, "en_en": {"suggests": [{"id": "8510", "link": "/find?type=3&query=doldrums", "word": "doldrums"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8510",
+                "link": "/find?type=3&query=doldrums",
+                "word": "doldrums"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26991",
+                "link": "/find?type=1&query=doldrums",
+                "word": "doldrums"
+            }
+        ]
+    }
+}

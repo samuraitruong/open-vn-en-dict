@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "26982", "link": "/find?type=1&query=doiley", "word": "doiley"}], "data": {}}, "en_en": {"suggests": [{"id": "8505", "link": "/find?type=3&query=doily", "word": "doily"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8505",
+                "link": "/find?type=3&query=doily",
+                "word": "doily"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26982",
+                "link": "/find?type=1&query=doiley",
+                "word": "doiley"
+            }
+        ]
+    }
+}
