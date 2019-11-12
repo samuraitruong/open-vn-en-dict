@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "32698", "link": "/find?type=1&query=exchange", "word": "exchange"}, {"id": "32699", "link": "/find?type=1&query=Exchange+control", "word": "Exchange control"}, {"id": "32700", "link": "/find?type=1&query=Exchange+Equalization+Account", "word": "Exchange Equalization Account"}, {"id": "32701", "link": "/find?type=1&query=exchange+key", "word": "exchange key"}, {"id": "32702", "link": "/find?type=1&query=Exchange+rate", "word": "Exchange rate"}, {"id": "32703", "link": "/find?type=1&query=Exchange+rate+Mechanism", "word": "Exchange rate Mechanism"}, {"id": "32704", "link": "/find?type=1&query=Exchange+rate+speculation", "word": "Exchange rate speculation"}, {"id": "32705", "link": "/find?type=1&query=Exchange+reserves", "word": "Exchange reserves"}, {"id": "32706", "link": "/find?type=1&query=exchangeability", "word": "exchangeability"}, {"id": "32707", "link": "/find?type=1&query=exchangeable", "word": "exchangeable"}], "data": {}}, "en_en": {"suggests": [{"id": "9931", "link": "/find?type=3&query=exchange", "word": "exchange"}, {"id": "9932", "link": "/find?type=3&query=exchange+rate", "word": "exchange rate"}, {"id": "9933", "link": "/find?type=3&query=exchange+student", "word": "exchange student"}, {"id": "9934", "link": "/find?type=3&query=Exchequer", "word": "Exchequer"}], "data": {}}, "synonyms": {"suggests": [{"id": "2331", "link": "/find?type=4&query=exchange", "word": "exchange"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9931",
+                "link": "/find?type=3&query=exchange",
+                "word": "exchange"
+            },
+            {
+                "id": "9932",
+                "link": "/find?type=3&query=exchange+rate",
+                "word": "exchange rate"
+            },
+            {
+                "id": "9933",
+                "link": "/find?type=3&query=exchange+student",
+                "word": "exchange student"
+            },
+            {
+                "id": "9934",
+                "link": "/find?type=3&query=Exchequer",
+                "word": "Exchequer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32698",
+                "link": "/find?type=1&query=exchange",
+                "word": "exchange"
+            },
+            {
+                "id": "32699",
+                "link": "/find?type=1&query=Exchange+control",
+                "word": "Exchange control"
+            },
+            {
+                "id": "32700",
+                "link": "/find?type=1&query=Exchange+Equalization+Account",
+                "word": "Exchange Equalization Account"
+            },
+            {
+                "id": "32701",
+                "link": "/find?type=1&query=exchange+key",
+                "word": "exchange key"
+            },
+            {
+                "id": "32702",
+                "link": "/find?type=1&query=Exchange+rate",
+                "word": "Exchange rate"
+            },
+            {
+                "id": "32703",
+                "link": "/find?type=1&query=Exchange+rate+Mechanism",
+                "word": "Exchange rate Mechanism"
+            },
+            {
+                "id": "32704",
+                "link": "/find?type=1&query=Exchange+rate+speculation",
+                "word": "Exchange rate speculation"
+            },
+            {
+                "id": "32705",
+                "link": "/find?type=1&query=Exchange+reserves",
+                "word": "Exchange reserves"
+            },
+            {
+                "id": "32706",
+                "link": "/find?type=1&query=exchangeability",
+                "word": "exchangeability"
+            },
+            {
+                "id": "32707",
+                "link": "/find?type=1&query=exchangeable",
+                "word": "exchangeable"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2331",
+                "link": "/find?type=4&query=exchange",
+                "word": "exchange"
+            }
+        ]
+    }
+}
