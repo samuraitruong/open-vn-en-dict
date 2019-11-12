@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "20007", "link": "/find?type=1&query=corridor", "word": "corridor"}, {"id": "20008", "link": "/find?type=1&query=corridor+train", "word": "corridor train"}], "data": {}}, "en_en": {"suggests": [{"id": "6371", "link": "/find?type=3&query=corridor", "word": "corridor"}], "data": {}}, "synonyms": {"suggests": [{"id": "1273", "link": "/find?type=4&query=corridor", "word": "corridor"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6371",
+                "link": "/find?type=3&query=corridor",
+                "word": "corridor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20007",
+                "link": "/find?type=1&query=corridor",
+                "word": "corridor"
+            },
+            {
+                "id": "20008",
+                "link": "/find?type=1&query=corridor+train",
+                "word": "corridor train"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1273",
+                "link": "/find?type=4&query=corridor",
+                "word": "corridor"
+            }
+        ]
+    }
+}

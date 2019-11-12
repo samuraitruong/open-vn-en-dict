@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "19901", "link": "/find?type=1&query=coroner", "word": "coroner"}, {"id": "19902", "link": "/find?type=1&query=coroner%27s+inquest", "word": "coroner's inquest"}, {"id": "19903", "link": "/find?type=1&query=coronership", "word": "coronership"}, {"id": "19904", "link": "/find?type=1&query=coronet", "word": "coronet"}, {"id": "19905", "link": "/find?type=1&query=coroneted", "word": "coroneted"}], "data": {}}, "en_en": {"suggests": [{"id": "6344", "link": "/find?type=3&query=coroner", "word": "coroner"}, {"id": "6345", "link": "/find?type=3&query=coronet", "word": "coronet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6344",
+                "link": "/find?type=3&query=coroner",
+                "word": "coroner"
+            },
+            {
+                "id": "6345",
+                "link": "/find?type=3&query=coronet",
+                "word": "coronet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19901",
+                "link": "/find?type=1&query=coroner",
+                "word": "coroner"
+            },
+            {
+                "id": "19902",
+                "link": "/find?type=1&query=coroner%27s+inquest",
+                "word": "coroner's inquest"
+            },
+            {
+                "id": "19903",
+                "link": "/find?type=1&query=coronership",
+                "word": "coronership"
+            },
+            {
+                "id": "19904",
+                "link": "/find?type=1&query=coronet",
+                "word": "coronet"
+            },
+            {
+                "id": "19905",
+                "link": "/find?type=1&query=coroneted",
+                "word": "coroneted"
+            }
+        ]
+    }
+}

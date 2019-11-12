@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "19914", "link": "/find?type=1&query=corporal+punishment", "word": "corporal punishment"}, {"id": "19914", "link": "/find?type=1&query=corporality", "word": "corporality"}, {"id": "19914", "link": "/find?type=1&query=corporally", "word": "corporally"}], "data": {"word": "corporal", "id": "19914", "pronounce": "/'k\u0254:p\u0259r\u0259l/", "type": "T\u00ednh t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] th\u00e2n th\u1ec3, [thu\u1ed9c] th\u1ec3 x\u00e1c</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(qu\u00e2n \u0111\u1ed9i)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ea1 s\u0129</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9db0d86fe357eeded4e5943d0431837b/16e5df7f93b/C/corporal.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4be057acd5a985f59f0d11d4899d4b74/16e5df7fedf/C/corporal.mp3"}}}, "en_en": {"suggests": [{"id": "6348", "link": "/find?type=3&query=corporal+punishment", "word": "corporal punishment"}], "data": {"word": "corporal", "id": "6348", "pronounce": "/\u02c8ko\u025ap\u0259r\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an officer in the army or marines with a rank below sergeant - see also lance corporal</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an officer in the army or marines with a rank below sergeant - see also lance corporal</div>",
+            "id": "6348",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u025ap\u0259r\u0259l/",
+            "type": "noun",
+            "word": "corporal"
+        },
+        "suggests": [
+            {
+                "id": "6348",
+                "link": "/find?type=3&query=corporal+punishment",
+                "word": "corporal punishment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] th\u00e2n th\u1ec3, [thu\u1ed9c] th\u1ec3 x\u00e1c</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(qu\u00e2n \u0111\u1ed9i)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ea1 s\u0129</div>",
+            "id": "19914",
+            "mean": [],
+            "pronounce": "/'k\u0254:p\u0259r\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4f00efc37db19b44bbf34d05f9377b9d/16e5edc0a93/C/corporal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a793f5b910c7b97d14eee6f85f9afea2/16e5edc0189/C/corporal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "corporal"
+        },
+        "suggests": [
+            {
+                "id": "19914",
+                "link": "/find?type=1&query=corporal+punishment",
+                "word": "corporal punishment"
+            },
+            {
+                "id": "19914",
+                "link": "/find?type=1&query=corporality",
+                "word": "corporality"
+            },
+            {
+                "id": "19914",
+                "link": "/find?type=1&query=corporally",
+                "word": "corporally"
+            }
+        ]
+    }
+}

@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "19950", "link": "/find?type=1&query=corpuscle", "word": "corpuscle"}, {"id": "19950", "link": "/find?type=1&query=corpuscular", "word": "corpuscular"}, {"id": "19950", "link": "/find?type=1&query=corpuscularian", "word": "corpuscularian"}, {"id": "19950", "link": "/find?type=1&query=corpuscule", "word": "corpuscule"}], "data": {"word": "corpus", "id": "19950", "pronounce": "/'k\u0254:p\u0259s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u corpora)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed9 s\u01b0u t\u1eadp; t\u1eadp</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the entire corpus of Milton's works</div>\n    \n    <div class=\"margin25\">t\u1eadp t\u00e1c ph\u1ea9m to\u00e0n b\u1ed9 c\u1ee7a Milton</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4b1630187065f4ab2a7eb6b9bde2627f/16e5df80a90/C/corpus.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/25b57b53c5e13cd73bf4b9f2143a7e7f/16e5df81046/C/corpus.mp3"}}}, "en_en": {"suggests": [{"id": "6356", "link": "/find?type=3&query=corpuscle", "word": "corpuscle"}], "data": {"word": "corpus", "id": "6356", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8ko\u025ap\u0259s/ , pl corpora /\u02c8ko\u025ap\u0259r\u0259/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a collection of writings, conversations, speeches, etc., that people use to study and describe a language</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a computerized corpus of English</div>\n    \n    <div class=\"green margin25 m-top15\">a collection of poems, paintings, songs, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the painter's corpus of work [=all the paintings the painter has done] - see also habeas corpus</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8ko\u025ap\u0259s/ , pl corpora /\u02c8ko\u025ap\u0259r\u0259/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a collection of writings, conversations, speeches, etc., that people use to study and describe a language</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a computerized corpus of English</div>\n    \n    <div class=\"green margin25 m-top15\">a collection of poems, paintings, songs, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the painter's corpus of work [=all the paintings the painter has done] - see also habeas corpus</div>",
+            "id": "6356",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "corpus"
+        },
+        "suggests": [
+            {
+                "id": "6356",
+                "link": "/find?type=3&query=corpuscle",
+                "word": "corpuscle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u corpora)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed9 s\u01b0u t\u1eadp; t\u1eadp</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the entire corpus of Milton's works</div>\n    \n    <div class=\"margin25\">t\u1eadp t\u00e1c ph\u1ea9m to\u00e0n b\u1ed9 c\u1ee7a Milton</div>",
+            "id": "19950",
+            "mean": [],
+            "pronounce": "/'k\u0254:p\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2b313e1c89f76de5e9521ef307ac9e1c/16e5edc2039/C/corpus.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0335d2a47dad7b79a39b41bc29aabc76/16e5edc174a/C/corpus.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "corpus"
+        },
+        "suggests": [
+            {
+                "id": "19950",
+                "link": "/find?type=1&query=corpuscle",
+                "word": "corpuscle"
+            },
+            {
+                "id": "19950",
+                "link": "/find?type=1&query=corpuscular",
+                "word": "corpuscular"
+            },
+            {
+                "id": "19950",
+                "link": "/find?type=1&query=corpuscularian",
+                "word": "corpuscularian"
+            },
+            {
+                "id": "19950",
+                "link": "/find?type=1&query=corpuscule",
+                "word": "corpuscule"
+            }
+        ]
+    }
+}
