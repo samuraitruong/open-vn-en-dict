@@ -1,1 +1,87 @@
-{"error": 0, "query": "goi", "enViData": {"suggests": [{"id": "40578", "link": "/find?type=1&query=going", "word": "going"}, {"id": "40579", "link": "/find?type=1&query=going+over", "word": "going over"}, {"id": "40580", "link": "/find?type=1&query=going-over", "word": "going-over"}, {"id": "40581", "link": "/find?type=1&query=goings-on", "word": "goings-on"}, {"id": "40582", "link": "/find?type=1&query=goiter", "word": "goiter"}, {"id": "40583", "link": "/find?type=1&query=goitre", "word": "goitre"}, {"id": "40584", "link": "/find?type=1&query=goitrous", "word": "goitrous"}]}, "mUrl": "/find?type=1&query=goi", "enEnData": {"suggests": [{"id": "12266", "link": "/find?type=3&query=going", "word": "going"}, {"id": "12267", "link": "/find?type=3&query=-going", "word": "-going"}, {"id": "12268", "link": "/find?type=3&query=going+concern", "word": "going concern"}, {"id": "12269", "link": "/find?type=3&query=going-over", "word": "going-over"}, {"id": "12270", "link": "/find?type=3&query=goings-on", "word": "goings-on"}, {"id": "12271", "link": "/find?type=3&query=goiter", "word": "goiter"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3047", "link": "/find?type=4&query=going", "word": "going"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12266",
+                "link": "/find?type=3&query=going",
+                "word": "going"
+            },
+            {
+                "id": "12267",
+                "link": "/find?type=3&query=-going",
+                "word": "-going"
+            },
+            {
+                "id": "12268",
+                "link": "/find?type=3&query=going+concern",
+                "word": "going concern"
+            },
+            {
+                "id": "12269",
+                "link": "/find?type=3&query=going-over",
+                "word": "going-over"
+            },
+            {
+                "id": "12270",
+                "link": "/find?type=3&query=goings-on",
+                "word": "goings-on"
+            },
+            {
+                "id": "12271",
+                "link": "/find?type=3&query=goiter",
+                "word": "goiter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40578",
+                "link": "/find?type=1&query=going",
+                "word": "going"
+            },
+            {
+                "id": "40579",
+                "link": "/find?type=1&query=going+over",
+                "word": "going over"
+            },
+            {
+                "id": "40580",
+                "link": "/find?type=1&query=going-over",
+                "word": "going-over"
+            },
+            {
+                "id": "40581",
+                "link": "/find?type=1&query=goings-on",
+                "word": "goings-on"
+            },
+            {
+                "id": "40582",
+                "link": "/find?type=1&query=goiter",
+                "word": "goiter"
+            },
+            {
+                "id": "40583",
+                "link": "/find?type=1&query=goitre",
+                "word": "goitre"
+            },
+            {
+                "id": "40584",
+                "link": "/find?type=1&query=goitrous",
+                "word": "goitrous"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3047",
+                "link": "/find?type=4&query=going",
+                "word": "going"
+            }
+        ]
+    }
+}

@@ -1,1 +1,62 @@
-{"error": 0, "query": "gog", "enViData": {"suggests": [{"id": "40573", "link": "/find?type=1&query=goggle", "word": "goggle"}, {"id": "40574", "link": "/find?type=1&query=goggle-box", "word": "goggle-box"}, {"id": "40575", "link": "/find?type=1&query=goggle-eyed", "word": "goggle-eyed"}, {"id": "40576", "link": "/find?type=1&query=goggles", "word": "goggles"}, {"id": "40577", "link": "/find?type=1&query=goglet", "word": "goglet"}]}, "mUrl": "/find?type=1&query=gog", "enEnData": {"suggests": [{"id": "12262", "link": "/find?type=3&query=goggle", "word": "goggle"}, {"id": "12263", "link": "/find?type=3&query=goggle-eyed", "word": "goggle-eyed"}, {"id": "12264", "link": "/find?type=3&query=goggles", "word": "goggles"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3046", "link": "/find?type=4&query=goggle-eyed", "word": "goggle-eyed"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12262",
+                "link": "/find?type=3&query=goggle",
+                "word": "goggle"
+            },
+            {
+                "id": "12263",
+                "link": "/find?type=3&query=goggle-eyed",
+                "word": "goggle-eyed"
+            },
+            {
+                "id": "12264",
+                "link": "/find?type=3&query=goggles",
+                "word": "goggles"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40573",
+                "link": "/find?type=1&query=goggle",
+                "word": "goggle"
+            },
+            {
+                "id": "40574",
+                "link": "/find?type=1&query=goggle-box",
+                "word": "goggle-box"
+            },
+            {
+                "id": "40575",
+                "link": "/find?type=1&query=goggle-eyed",
+                "word": "goggle-eyed"
+            },
+            {
+                "id": "40576",
+                "link": "/find?type=1&query=goggles",
+                "word": "goggles"
+            },
+            {
+                "id": "40577",
+                "link": "/find?type=1&query=goglet",
+                "word": "goglet"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3046",
+                "link": "/find?type=4&query=goggle-eyed",
+                "word": "goggle-eyed"
+            }
+        ]
+    }
+}
