@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "16061", "link": "/find?type=1&query=climacteric", "word": "climacteric"}, {"id": "16062", "link": "/find?type=1&query=climactic", "word": "climactic"}, {"id": "16063", "link": "/find?type=1&query=climactically", "word": "climactically"}, {"id": "16064", "link": "/find?type=1&query=climate", "word": "climate"}, {"id": "16065", "link": "/find?type=1&query=climatic", "word": "climatic"}, {"id": "16066", "link": "/find?type=1&query=climatic+test", "word": "climatic test"}, {"id": "16067", "link": "/find?type=1&query=climatically", "word": "climatically"}, {"id": "16068", "link": "/find?type=1&query=climatize", "word": "climatize"}, {"id": "16069", "link": "/find?type=1&query=climatologic", "word": "climatologic"}, {"id": "16070", "link": "/find?type=1&query=climatological", "word": "climatological"}], "data": {}}, "en_en": {"suggests": [{"id": "5180", "link": "/find?type=3&query=climactic", "word": "climactic"}, {"id": "5181", "link": "/find?type=3&query=climate", "word": "climate"}, {"id": "5182", "link": "/find?type=3&query=climatology", "word": "climatology"}, {"id": "5183", "link": "/find?type=3&query=climax", "word": "climax"}], "data": {}}, "synonyms": {"suggests": [{"id": "1046", "link": "/find?type=4&query=climate", "word": "climate"}, {"id": "1047", "link": "/find?type=4&query=climax", "word": "climax"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5180",
+                "link": "/find?type=3&query=climactic",
+                "word": "climactic"
+            },
+            {
+                "id": "5181",
+                "link": "/find?type=3&query=climate",
+                "word": "climate"
+            },
+            {
+                "id": "5182",
+                "link": "/find?type=3&query=climatology",
+                "word": "climatology"
+            },
+            {
+                "id": "5183",
+                "link": "/find?type=3&query=climax",
+                "word": "climax"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16061",
+                "link": "/find?type=1&query=climacteric",
+                "word": "climacteric"
+            },
+            {
+                "id": "16062",
+                "link": "/find?type=1&query=climactic",
+                "word": "climactic"
+            },
+            {
+                "id": "16063",
+                "link": "/find?type=1&query=climactically",
+                "word": "climactically"
+            },
+            {
+                "id": "16064",
+                "link": "/find?type=1&query=climate",
+                "word": "climate"
+            },
+            {
+                "id": "16065",
+                "link": "/find?type=1&query=climatic",
+                "word": "climatic"
+            },
+            {
+                "id": "16066",
+                "link": "/find?type=1&query=climatic+test",
+                "word": "climatic test"
+            },
+            {
+                "id": "16067",
+                "link": "/find?type=1&query=climatically",
+                "word": "climatically"
+            },
+            {
+                "id": "16068",
+                "link": "/find?type=1&query=climatize",
+                "word": "climatize"
+            },
+            {
+                "id": "16069",
+                "link": "/find?type=1&query=climatologic",
+                "word": "climatologic"
+            },
+            {
+                "id": "16070",
+                "link": "/find?type=1&query=climatological",
+                "word": "climatological"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1046",
+                "link": "/find?type=4&query=climate",
+                "word": "climate"
+            },
+            {
+                "id": "1047",
+                "link": "/find?type=4&query=climax",
+                "word": "climax"
+            }
+        ]
+    }
+}

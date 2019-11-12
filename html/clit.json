@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "16134", "link": "/find?type=1&query=clitellum", "word": "clitellum"}, {"id": "16135", "link": "/find?type=1&query=clitic", "word": "clitic"}, {"id": "16136", "link": "/find?type=1&query=clitization", "word": "clitization"}, {"id": "16137", "link": "/find?type=1&query=clitoral", "word": "clitoral"}], "data": {}}, "en_en": {"suggests": [{"id": "5208", "link": "/find?type=3&query=clitoris", "word": "clitoris"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5208",
+                "link": "/find?type=3&query=clitoris",
+                "word": "clitoris"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16134",
+                "link": "/find?type=1&query=clitellum",
+                "word": "clitellum"
+            },
+            {
+                "id": "16135",
+                "link": "/find?type=1&query=clitic",
+                "word": "clitic"
+            },
+            {
+                "id": "16136",
+                "link": "/find?type=1&query=clitization",
+                "word": "clitization"
+            },
+            {
+                "id": "16137",
+                "link": "/find?type=1&query=clitoral",
+                "word": "clitoral"
+            }
+        ]
+    }
+}

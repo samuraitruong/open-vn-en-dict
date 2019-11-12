@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "16370", "link": "/find?type=1&query=clypeal", "word": "clypeal"}, {"id": "16371", "link": "/find?type=1&query=clypeate", "word": "clypeate"}, {"id": "16372", "link": "/find?type=1&query=clypeiform", "word": "clypeiform"}, {"id": "16373", "link": "/find?type=1&query=clyster", "word": "clyster"}], "data": {}}, "en_en": {"suggests": [{"id": "5302", "link": "/find?type=3&query=Clydesdale", "word": "Clydesdale"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5302",
+                "link": "/find?type=3&query=Clydesdale",
+                "word": "Clydesdale"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16370",
+                "link": "/find?type=1&query=clypeal",
+                "word": "clypeal"
+            },
+            {
+                "id": "16371",
+                "link": "/find?type=1&query=clypeate",
+                "word": "clypeate"
+            },
+            {
+                "id": "16372",
+                "link": "/find?type=1&query=clypeiform",
+                "word": "clypeiform"
+            },
+            {
+                "id": "16373",
+                "link": "/find?type=1&query=clyster",
+                "word": "clyster"
+            }
+        ]
+    }
+}

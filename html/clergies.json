@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "16014", "link": "/find?type=1&query=clergyman", "word": "clergyman"}, {"id": "16014", "link": "/find?type=1&query=clergywoman", "word": "clergywoman"}], "data": {"word": "clergy", "id": "16014", "pronounce": "/'kl\u025c:d\u0292i/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1edbi t\u0103ng l\u1eef, gi\u1edbi gi\u00e1o s\u0129</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b13a262947122a5572c5e44d0367cbb4/16e5dedef73/C/clergy.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/75ca48359897aa6e9d5bddfb07a605e8/16e5dedf565/C/clergy.mp3"}}}, "en_en": {"suggests": [{"id": "5163", "link": "/find?type=3&query=clergyman", "word": "clergyman"}, {"id": "5163", "link": "/find?type=3&query=clergyperson", "word": "clergyperson"}, {"id": "5163", "link": "/find?type=3&query=clergywoman", "word": "clergywoman"}], "data": {"word": "clergy", "id": "5163", "pronounce": "/\u02c8kl\u025a\u02a4i/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :people (such as priests) who are the leaders of a religion and who perform religious services</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Local clergy have been invited to participate in an interfaith service.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a member of the clergy</div>\n    \n    <div class=\"green margin25 m-top15\">Clergy is used most often to refer to priests and ministers in a Christian church. - compare laity</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1039", "link": "/find?type=4&query=clergyman", "word": "clergyman"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :people (such as priests) who are the leaders of a religion and who perform religious services</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Local clergy have been invited to participate in an interfaith service.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a member of the clergy</div>\n    \n    <div class=\"green margin25 m-top15\">Clergy is used most often to refer to priests and ministers in a Christian church. - compare laity</div>",
+            "id": "5163",
+            "mean": [],
+            "pronounce": "/\u02c8kl\u025a\u02a4i/",
+            "type": "noun",
+            "word": "clergy"
+        },
+        "suggests": [
+            {
+                "id": "5163",
+                "link": "/find?type=3&query=clergyman",
+                "word": "clergyman"
+            },
+            {
+                "id": "5163",
+                "link": "/find?type=3&query=clergyperson",
+                "word": "clergyperson"
+            },
+            {
+                "id": "5163",
+                "link": "/find?type=3&query=clergywoman",
+                "word": "clergywoman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1edbi t\u0103ng l\u1eef, gi\u1edbi gi\u00e1o s\u0129</div>",
+            "id": "16014",
+            "mean": [],
+            "pronounce": "/'kl\u025c:d\u0292i/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ea8e0fd16e1246da17819859b8890910/16e5ece3120/C/clergy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cd57b96fd0bff7313b2979a6cee15663/16e5ece2bfa/C/clergy.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "clergy"
+        },
+        "suggests": [
+            {
+                "id": "16014",
+                "link": "/find?type=1&query=clergyman",
+                "word": "clergyman"
+            },
+            {
+                "id": "16014",
+                "link": "/find?type=1&query=clergywoman",
+                "word": "clergywoman"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1039",
+                "link": "/find?type=4&query=clergyman",
+                "word": "clergyman"
+            }
+        ]
+    }
+}

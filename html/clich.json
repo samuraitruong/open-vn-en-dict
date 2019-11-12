@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "16037", "link": "/find?type=1&query=clich%C3%A9", "word": "clich\u00e9"}], "data": {}}, "en_en": {"suggests": [{"id": "5172", "link": "/find?type=3&query=cliche", "word": "cliche"}], "data": {}}, "synonyms": {"suggests": [{"id": "1042", "link": "/find?type=4&query=clich%E2%80%9A", "word": "clich\u201a"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5172",
+                "link": "/find?type=3&query=cliche",
+                "word": "cliche"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16037",
+                "link": "/find?type=1&query=clich%C3%A9",
+                "word": "clich\u00e9"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1042",
+                "link": "/find?type=4&query=clich%E2%80%9A",
+                "word": "clich\u201a"
+            }
+        ]
+    }
+}

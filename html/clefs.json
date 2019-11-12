@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "15995", "link": "/find?type=1&query=cleft", "word": "cleft"}, {"id": "15995", "link": "/find?type=1&query=cleft-footed", "word": "cleft-footed"}, {"id": "15995", "link": "/find?type=1&query=cleftstick", "word": "cleftstick"}], "data": {"word": "clef", "id": "15995", "pronounce": "/klef/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00eca</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">alto clef</div>\n    \n    <div class=\"margin25\">ch\u00eca anto</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/398b71e969cba825be67e1482c21a9c7/16e5dedd8c2/C/clef.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b3be66e68a9592681016a33c1ff69b5d/16e5dedde71/C/clef.mp3"}}}, "en_en": {"suggests": [{"id": "5153", "link": "/find?type=3&query=cleft", "word": "cleft"}, {"id": "5153", "link": "/find?type=3&query=cleft+lip", "word": "cleft lip"}, {"id": "5153", "link": "/find?type=3&query=cleft+palate", "word": "cleft palate"}], "data": {"word": "clef", "id": "5153", "pronounce": "/\u02c8kl\u025bf/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural clefs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] music :a sign that is placed at the beginning of a line of written music to show the pitch of the notes</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the treble/bass clef</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural clefs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] music :a sign that is placed at the beginning of a line of written music to show the pitch of the notes</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the treble/bass clef</div>",
+            "id": "5153",
+            "mean": [],
+            "pronounce": "/\u02c8kl\u025bf/",
+            "type": "noun",
+            "word": "clef"
+        },
+        "suggests": [
+            {
+                "id": "5153",
+                "link": "/find?type=3&query=cleft",
+                "word": "cleft"
+            },
+            {
+                "id": "5153",
+                "link": "/find?type=3&query=cleft+lip",
+                "word": "cleft lip"
+            },
+            {
+                "id": "5153",
+                "link": "/find?type=3&query=cleft+palate",
+                "word": "cleft palate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00eca</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">alto clef</div>\n    \n    <div class=\"margin25\">ch\u00eca anto</div>",
+            "id": "15995",
+            "mean": [],
+            "pronounce": "/klef/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/40eca35d055137fb801915f27e0f6455/16e5ece1c15/C/clef.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9f8ab2bc58cea206db6fb44e89d9068b/16e5ece16b3/C/clef.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "clef"
+        },
+        "suggests": [
+            {
+                "id": "15995",
+                "link": "/find?type=1&query=cleft",
+                "word": "cleft"
+            },
+            {
+                "id": "15995",
+                "link": "/find?type=1&query=cleft-footed",
+                "word": "cleft-footed"
+            },
+            {
+                "id": "15995",
+                "link": "/find?type=1&query=cleftstick",
+                "word": "cleftstick"
+            }
+        ]
+    }
+}
