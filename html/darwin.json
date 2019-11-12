@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "22480", "link": "/find?type=1&query=darwinian", "word": "darwinian"}, {"id": "22481", "link": "/find?type=1&query=darwinism", "word": "darwinism"}], "data": {}}, "en_en": {"suggests": [{"id": "7221", "link": "/find?type=3&query=Darwinian", "word": "Darwinian"}, {"id": "7222", "link": "/find?type=3&query=Darwinism", "word": "Darwinism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7221",
+                "link": "/find?type=3&query=Darwinian",
+                "word": "Darwinian"
+            },
+            {
+                "id": "7222",
+                "link": "/find?type=3&query=Darwinism",
+                "word": "Darwinism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22480",
+                "link": "/find?type=1&query=darwinian",
+                "word": "darwinian"
+            },
+            {
+                "id": "22481",
+                "link": "/find?type=1&query=darwinism",
+                "word": "darwinism"
+            }
+        ]
+    }
+}

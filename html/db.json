@@ -1,1 +1,51 @@
-{"en_vn": {"suggests": [{"id": "22716", "link": "/find?type=1&query=dB+%28decibel%29+loss", "word": "dB (decibel) loss"}, {"id": "22716", "link": "/find?type=1&query=dB+%28decibel%29+meter", "word": "dB (decibel) meter"}, {"id": "22716", "link": "/find?type=1&query=DB-25+connector", "word": "DB-25 connector"}, {"id": "22716", "link": "/find?type=1&query=dbe", "word": "dbe"}, {"id": "22716", "link": "/find?type=1&query=dbms", "word": "dbms"}], "data": {"word": "dB", "id": "22716", "pronounce": "/di:'bi:/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a decibel[s])</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111exiben</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=decibel\">decibel</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "dB", "id": "7268", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">decibel</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">decibel</div>",
+            "id": "7268",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "dB"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a decibel[s])</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111exiben</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=decibel\">decibel</a></span></div>",
+            "id": "22716",
+            "mean": [],
+            "pronounce": "/di:'bi:/",
+            "speak": {},
+            "type": "",
+            "word": "dB"
+        },
+        "suggests": [
+            {
+                "id": "22716",
+                "link": "/find?type=1&query=dB+%28decibel%29+loss",
+                "word": "dB (decibel) loss"
+            },
+            {
+                "id": "22716",
+                "link": "/find?type=1&query=dB+%28decibel%29+meter",
+                "word": "dB (decibel) meter"
+            },
+            {
+                "id": "22716",
+                "link": "/find?type=1&query=DB-25+connector",
+                "word": "DB-25 connector"
+            },
+            {
+                "id": "22716",
+                "link": "/find?type=1&query=dbe",
+                "word": "dbe"
+            },
+            {
+                "id": "22716",
+                "link": "/find?type=1&query=dbms",
+                "word": "dbms"
+            }
+        ]
+    }
+}
