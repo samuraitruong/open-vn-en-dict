@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "34136", "link": "/find?type=1&query=fantasia", "word": "fantasia"}, {"id": "34137", "link": "/find?type=1&query=fantasied", "word": "fantasied"}, {"id": "34138", "link": "/find?type=1&query=fantasise", "word": "fantasise"}, {"id": "34139", "link": "/find?type=1&query=fantasist", "word": "fantasist"}, {"id": "34140", "link": "/find?type=1&query=fantasize", "word": "fantasize"}, {"id": "34141", "link": "/find?type=1&query=fantasm", "word": "fantasm"}, {"id": "34142", "link": "/find?type=1&query=fantast", "word": "fantast"}, {"id": "34143", "link": "/find?type=1&query=fantastic", "word": "fantastic"}, {"id": "34144", "link": "/find?type=1&query=fantasticality", "word": "fantasticality"}, {"id": "34145", "link": "/find?type=1&query=fantastically", "word": "fantastically"}], "data": {}}, "en_en": {"suggests": [{"id": "10298", "link": "/find?type=3&query=fantasize", "word": "fantasize"}, {"id": "10299", "link": "/find?type=3&query=fantastic", "word": "fantastic"}, {"id": "10300", "link": "/find?type=3&query=fantasy", "word": "fantasy"}], "data": {}}, "synonyms": {"suggests": [{"id": "2505", "link": "/find?type=4&query=fantasize", "word": "fantasize"}, {"id": "2506", "link": "/find?type=4&query=fantastic", "word": "fantastic"}, {"id": "2507", "link": "/find?type=4&query=fantasy", "word": "fantasy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10298",
+                "link": "/find?type=3&query=fantasize",
+                "word": "fantasize"
+            },
+            {
+                "id": "10299",
+                "link": "/find?type=3&query=fantastic",
+                "word": "fantastic"
+            },
+            {
+                "id": "10300",
+                "link": "/find?type=3&query=fantasy",
+                "word": "fantasy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34136",
+                "link": "/find?type=1&query=fantasia",
+                "word": "fantasia"
+            },
+            {
+                "id": "34137",
+                "link": "/find?type=1&query=fantasied",
+                "word": "fantasied"
+            },
+            {
+                "id": "34138",
+                "link": "/find?type=1&query=fantasise",
+                "word": "fantasise"
+            },
+            {
+                "id": "34139",
+                "link": "/find?type=1&query=fantasist",
+                "word": "fantasist"
+            },
+            {
+                "id": "34140",
+                "link": "/find?type=1&query=fantasize",
+                "word": "fantasize"
+            },
+            {
+                "id": "34141",
+                "link": "/find?type=1&query=fantasm",
+                "word": "fantasm"
+            },
+            {
+                "id": "34142",
+                "link": "/find?type=1&query=fantast",
+                "word": "fantast"
+            },
+            {
+                "id": "34143",
+                "link": "/find?type=1&query=fantastic",
+                "word": "fantastic"
+            },
+            {
+                "id": "34144",
+                "link": "/find?type=1&query=fantasticality",
+                "word": "fantasticality"
+            },
+            {
+                "id": "34145",
+                "link": "/find?type=1&query=fantastically",
+                "word": "fantastically"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2505",
+                "link": "/find?type=4&query=fantasize",
+                "word": "fantasize"
+            },
+            {
+                "id": "2506",
+                "link": "/find?type=4&query=fantastic",
+                "word": "fantastic"
+            },
+            {
+                "id": "2507",
+                "link": "/find?type=4&query=fantasy",
+                "word": "fantasy"
+            }
+        ]
+    }
+}
