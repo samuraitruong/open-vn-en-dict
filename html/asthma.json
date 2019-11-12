@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "6216", "link": "/find?type=1&query=asthmatic", "word": "asthmatic"}, {"id": "6216", "link": "/find?type=1&query=asthmatically", "word": "asthmatically"}], "data": {"word": "asthma", "id": "6216", "pronounce": "/'\u00e6sm\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh hen, b\u1ec7nh suy\u1ec5n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/052c4eda3f661b0a7453753897b70cb2/16e5dcc27d3/A/asthma.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4eb5d32da696e70e434ff629646e9f6b/16e5dcc2ded/A/asthma.mp3"}}}, "en_en": {"suggests": [{"id": "1515", "link": "/find?type=3&query=asthmatic", "word": "asthmatic"}], "data": {"word": "asthma", "id": "1515", "pronounce": "/\u02c8\u00e6zm\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a physical condition that makes it difficult for someone to breathe</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a physical condition that makes it difficult for someone to breathe</div>",
+            "id": "1515",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6zm\u0259/",
+            "type": "noun",
+            "word": "asthma"
+        },
+        "suggests": [
+            {
+                "id": "1515",
+                "link": "/find?type=3&query=asthmatic",
+                "word": "asthmatic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh hen, b\u1ec7nh suy\u1ec5n</div>",
+            "id": "6216",
+            "mean": [],
+            "pronounce": "/'\u00e6sm\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a2f36a04f96c1a3b42318cca2e8b9d1e/16e5eaf4fa9/A/asthma.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7e071f2e7dfb8ef18270af5d9da473de/16e5eaf4a0d/A/asthma.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "asthma"
+        },
+        "suggests": [
+            {
+                "id": "6216",
+                "link": "/find?type=1&query=asthmatic",
+                "word": "asthmatic"
+            },
+            {
+                "id": "6216",
+                "link": "/find?type=1&query=asthmatically",
+                "word": "asthmatically"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "6219", "link": "/find?type=1&query=astigmatic", "word": "astigmatic"}, {"id": "6220", "link": "/find?type=1&query=astigmatic+lens", "word": "astigmatic lens"}, {"id": "6221", "link": "/find?type=1&query=astigmatically", "word": "astigmatically"}, {"id": "6222", "link": "/find?type=1&query=astigmatism", "word": "astigmatism"}], "data": {}}, "en_en": {"suggests": [{"id": "1517", "link": "/find?type=3&query=astigmatism", "word": "astigmatism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1517",
+                "link": "/find?type=3&query=astigmatism",
+                "word": "astigmatism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6219",
+                "link": "/find?type=1&query=astigmatic",
+                "word": "astigmatic"
+            },
+            {
+                "id": "6220",
+                "link": "/find?type=1&query=astigmatic+lens",
+                "word": "astigmatic lens"
+            },
+            {
+                "id": "6221",
+                "link": "/find?type=1&query=astigmatically",
+                "word": "astigmatically"
+            },
+            {
+                "id": "6222",
+                "link": "/find?type=1&query=astigmatism",
+                "word": "astigmatism"
+            }
+        ]
+    }
+}

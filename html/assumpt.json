@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "6179", "link": "/find?type=1&query=assumption", "word": "assumption"}, {"id": "6180", "link": "/find?type=1&query=assumptive", "word": "assumptive"}, {"id": "6181", "link": "/find?type=1&query=assumptively", "word": "assumptively"}], "data": {}}, "en_en": {"suggests": [{"id": "1506", "link": "/find?type=3&query=assumption", "word": "assumption"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1506",
+                "link": "/find?type=3&query=assumption",
+                "word": "assumption"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6179",
+                "link": "/find?type=1&query=assumption",
+                "word": "assumption"
+            },
+            {
+                "id": "6180",
+                "link": "/find?type=1&query=assumptive",
+                "word": "assumptive"
+            },
+            {
+                "id": "6181",
+                "link": "/find?type=1&query=assumptively",
+                "word": "assumptively"
+            }
+        ]
+    }
+}

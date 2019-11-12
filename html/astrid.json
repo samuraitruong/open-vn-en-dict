@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "6244", "link": "/find?type=1&query=astride", "word": "astride"}], "data": {}}, "en_en": {"suggests": [{"id": "1529", "link": "/find?type=3&query=astride", "word": "astride"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1529",
+                "link": "/find?type=3&query=astride",
+                "word": "astride"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6244",
+                "link": "/find?type=1&query=astride",
+                "word": "astride"
+            }
+        ]
+    }
+}

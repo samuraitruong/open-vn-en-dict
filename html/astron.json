@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "6272", "link": "/find?type=1&query=astronaut", "word": "astronaut"}, {"id": "6273", "link": "/find?type=1&query=astronautic", "word": "astronautic"}, {"id": "6274", "link": "/find?type=1&query=astronautical", "word": "astronautical"}, {"id": "6275", "link": "/find?type=1&query=astronautically", "word": "astronautically"}, {"id": "6276", "link": "/find?type=1&query=astronautics", "word": "astronautics"}, {"id": "6277", "link": "/find?type=1&query=astronomer", "word": "astronomer"}, {"id": "6278", "link": "/find?type=1&query=astronomic", "word": "astronomic"}, {"id": "6279", "link": "/find?type=1&query=astronomical", "word": "astronomical"}, {"id": "6280", "link": "/find?type=1&query=astronomically", "word": "astronomically"}, {"id": "6281", "link": "/find?type=1&query=astronomy", "word": "astronomy"}], "data": {}}, "en_en": {"suggests": [{"id": "1532", "link": "/find?type=3&query=astronaut", "word": "astronaut"}, {"id": "1533", "link": "/find?type=3&query=astronomical", "word": "astronomical"}, {"id": "1534", "link": "/find?type=3&query=astronomy", "word": "astronomy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1532",
+                "link": "/find?type=3&query=astronaut",
+                "word": "astronaut"
+            },
+            {
+                "id": "1533",
+                "link": "/find?type=3&query=astronomical",
+                "word": "astronomical"
+            },
+            {
+                "id": "1534",
+                "link": "/find?type=3&query=astronomy",
+                "word": "astronomy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6272",
+                "link": "/find?type=1&query=astronaut",
+                "word": "astronaut"
+            },
+            {
+                "id": "6273",
+                "link": "/find?type=1&query=astronautic",
+                "word": "astronautic"
+            },
+            {
+                "id": "6274",
+                "link": "/find?type=1&query=astronautical",
+                "word": "astronautical"
+            },
+            {
+                "id": "6275",
+                "link": "/find?type=1&query=astronautically",
+                "word": "astronautically"
+            },
+            {
+                "id": "6276",
+                "link": "/find?type=1&query=astronautics",
+                "word": "astronautics"
+            },
+            {
+                "id": "6277",
+                "link": "/find?type=1&query=astronomer",
+                "word": "astronomer"
+            },
+            {
+                "id": "6278",
+                "link": "/find?type=1&query=astronomic",
+                "word": "astronomic"
+            },
+            {
+                "id": "6279",
+                "link": "/find?type=1&query=astronomical",
+                "word": "astronomical"
+            },
+            {
+                "id": "6280",
+                "link": "/find?type=1&query=astronomically",
+                "word": "astronomically"
+            },
+            {
+                "id": "6281",
+                "link": "/find?type=1&query=astronomy",
+                "word": "astronomy"
+            }
+        ]
+    }
+}
