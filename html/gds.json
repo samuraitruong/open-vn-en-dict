@@ -1,1 +1,52 @@
-{"error": 0, "query": "gds", "enViData": {"suggests": [{"id": "39359", "link": "/find?type=1&query=Gdn", "word": "Gdn"}, {"id": "39360", "link": "/find?type=1&query=GDP", "word": "GDP"}, {"id": "39361", "link": "/find?type=1&query=GDP+and+nation+income", "word": "GDP and nation income"}, {"id": "39362", "link": "/find?type=1&query=GDP+at+factor+cost", "word": "GDP at factor cost"}, {"id": "39363", "link": "/find?type=1&query=GDP+at+market+prices", "word": "GDP at market prices"}, {"id": "39364", "link": "/find?type=1&query=GDP+deflator", "word": "GDP deflator"}, {"id": "39365", "link": "/find?type=1&query=GDR", "word": "GDR"}]}, "mUrl": "/find?type=1&query=gds", "enEnData": {"suggests": [{"id": "11899", "link": "/find?type=3&query=GDP", "word": "GDP"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11899",
+                "link": "/find?type=3&query=GDP",
+                "word": "GDP"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39359",
+                "link": "/find?type=1&query=Gdn",
+                "word": "Gdn"
+            },
+            {
+                "id": "39360",
+                "link": "/find?type=1&query=GDP",
+                "word": "GDP"
+            },
+            {
+                "id": "39361",
+                "link": "/find?type=1&query=GDP+and+nation+income",
+                "word": "GDP and nation income"
+            },
+            {
+                "id": "39362",
+                "link": "/find?type=1&query=GDP+at+factor+cost",
+                "word": "GDP at factor cost"
+            },
+            {
+                "id": "39363",
+                "link": "/find?type=1&query=GDP+at+market+prices",
+                "word": "GDP at market prices"
+            },
+            {
+                "id": "39364",
+                "link": "/find?type=1&query=GDP+deflator",
+                "word": "GDP deflator"
+            },
+            {
+                "id": "39365",
+                "link": "/find?type=1&query=GDR",
+                "word": "GDR"
+            }
+        ]
+    }
+}
