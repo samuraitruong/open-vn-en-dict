@@ -1,1 +1,27 @@
-{"error": 0, "query": "greenwing", "enViData": {"suggests": [{"id": "41432", "link": "/find?type=1&query=Greenwich+Mean+Time", "word": "Greenwich Mean Time"}, {"id": "41433", "link": "/find?type=1&query=greenwood", "word": "greenwood"}]}, "mUrl": "/find?type=1&query=greenwing", "enEnData": {"suggests": [{"id": "12577", "link": "/find?type=3&query=Greenwich+mean+time", "word": "Greenwich mean time"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12577",
+                "link": "/find?type=3&query=Greenwich+mean+time",
+                "word": "Greenwich mean time"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41432",
+                "link": "/find?type=1&query=Greenwich+Mean+Time",
+                "word": "Greenwich Mean Time"
+            },
+            {
+                "id": "41433",
+                "link": "/find?type=1&query=greenwood",
+                "word": "greenwood"
+            }
+        ]
+    }
+}
