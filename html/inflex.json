@@ -1,1 +1,67 @@
-{"error": 0, "query": "inflex", "enViData": {"suggests": [{"id": "48237", "link": "/find?type=1&query=inflexed", "word": "inflexed"}, {"id": "48238", "link": "/find?type=1&query=inflexibility", "word": "inflexibility"}, {"id": "48239", "link": "/find?type=1&query=inflexible", "word": "inflexible"}, {"id": "48240", "link": "/find?type=1&query=inflexibleness", "word": "inflexibleness"}, {"id": "48241", "link": "/find?type=1&query=inflexibly", "word": "inflexibly"}, {"id": "48242", "link": "/find?type=1&query=inflexion", "word": "inflexion"}, {"id": "48243", "link": "/find?type=1&query=inflexional", "word": "inflexional"}, {"id": "48244", "link": "/find?type=1&query=inflexionless", "word": "inflexionless"}]}, "mUrl": "/find?type=1&query=inflex", "enEnData": {"suggests": [{"id": "14883", "link": "/find?type=3&query=inflexible", "word": "inflexible"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3762", "link": "/find?type=4&query=inflexible", "word": "inflexible"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14883",
+                "link": "/find?type=3&query=inflexible",
+                "word": "inflexible"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48237",
+                "link": "/find?type=1&query=inflexed",
+                "word": "inflexed"
+            },
+            {
+                "id": "48238",
+                "link": "/find?type=1&query=inflexibility",
+                "word": "inflexibility"
+            },
+            {
+                "id": "48239",
+                "link": "/find?type=1&query=inflexible",
+                "word": "inflexible"
+            },
+            {
+                "id": "48240",
+                "link": "/find?type=1&query=inflexibleness",
+                "word": "inflexibleness"
+            },
+            {
+                "id": "48241",
+                "link": "/find?type=1&query=inflexibly",
+                "word": "inflexibly"
+            },
+            {
+                "id": "48242",
+                "link": "/find?type=1&query=inflexion",
+                "word": "inflexion"
+            },
+            {
+                "id": "48243",
+                "link": "/find?type=1&query=inflexional",
+                "word": "inflexional"
+            },
+            {
+                "id": "48244",
+                "link": "/find?type=1&query=inflexionless",
+                "word": "inflexionless"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3762",
+                "link": "/find?type=4&query=inflexible",
+                "word": "inflexible"
+            }
+        ]
+    }
+}

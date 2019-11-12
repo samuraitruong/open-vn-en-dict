@@ -1,1 +1,34 @@
-{"error": 0, "query": "inflected", "enViData": {"suggests": [], "best": {"id": "48227", "details": "\n<div id=\"find_word_48227\" class=\"world word_en\" rel=\"inflected\">\n    <h2 class=\"fl\">inflected <span class=\"color-black\">/in'flektid/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48227\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48227\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 nhi\u1ec1u t\u1eeb bi\u1ebfn c\u00e1ch (n\u00f3i v\u1ec1 m\u1ed9t ng\u00f4n ng\u1eef)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Latin is a more inflected language than English</div>\n    \n    <div class=\"margin25\">ti\u1ebfng Latinh l\u00e0 m\u1ed9t th\u1ee9 ti\u1ebfng bi\u1ebfn c\u00e1ch nhi\u00ea\u0300u h\u01a1n ti\u1ebfng Anh</div>\n    \n</div>\n", "link": "/find?type=1&query=inflected", "word": "inflected"}}, "mUrl": "/find?type=1&query=inflected", "enEnData": {"suggests": [{"id": "14881", "link": "/find?type=3&query=inflection", "word": "inflection"}], "best": {"id": "14881", "details": "\n<div id=\"find_word_14881\" class=\"world word_en\" rel=\"inflect\">\n    <h2 class=\"fl\">inflect <span class=\"color-black\">/\u026an\u02c8fl\u025bkt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14881\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14881\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-flects; -flected; -flecting</div>\n    \n    <div class=\"green margin25 m-top15\">grammar :to change the form of a word when using it in a particular way [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Most nouns in English are inflected for plural use by adding -s or -es. [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Most nouns in English inflect for plural use by adding -s or -es.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Most adjectives in English do not inflect for gender or number.</div>\n    \n</div>\n", "link": "/find?type=3&query=inflect", "word": "inflect"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-flects; -flected; -flecting</div>\n    \n    <div class=\"green margin25 m-top15\">grammar :to change the form of a word when using it in a particular way [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Most nouns in English are inflected for plural use by adding -s or -es. [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Most nouns in English inflect for plural use by adding -s or -es.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Most adjectives in English do not inflect for gender or number.</div>",
+            "id": "14881",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8fl\u025bkt/",
+            "type": "verb",
+            "word": "inflect"
+        },
+        "suggests": [
+            {
+                "id": "14881",
+                "link": "/find?type=3&query=inflection",
+                "word": "inflection"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 nhi\u1ec1u t\u1eeb bi\u1ebfn c\u00e1ch (n\u00f3i v\u1ec1 m\u1ed9t ng\u00f4n ng\u1eef)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Latin is a more inflected language than English</div>\n    \n    <div class=\"margin25\">ti\u1ebfng Latinh l\u00e0 m\u1ed9t th\u1ee9 ti\u1ebfng bi\u1ebfn c\u00e1ch nhi\u00ea\u0300u h\u01a1n ti\u1ebfng Anh</div>",
+            "id": "48227",
+            "mean": [],
+            "pronounce": "/in'flektid/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c152d98504b3e3ca169fb7f7c7bf9115/16e61cd4645/I/inflected.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4d5612aa62575707f541bb9f49eef143/16e61cd40c4/I/inflected.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "inflected"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "inflexion", "enViData": {"suggests": [{"id": "48242", "link": "/find?type=1&query=inflexional", "word": "inflexional"}, {"id": "48242", "link": "/find?type=1&query=inflexionless", "word": "inflexionless"}], "best": {"id": "48242", "details": "\n<div id=\"find_word_48242\" class=\"world word_en\" rel=\"inflexion\">\n    <h2 class=\"fl\">inflexion <span class=\"color-black\">/in'flek\u222bn/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48242\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48242\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=inflection\">inflection</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=inflexion", "word": "inflexion"}}, "mUrl": "/find?type=1&query=inflexion", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=inflection\">inflection</a></span></div>",
+            "id": "48242",
+            "mean": [],
+            "pronounce": "/in'flek\u222bn/",
+            "speak": {
+                "us": "https://stream-dict-laban.zdn.vn/us/f7893157b34c4e0d2286ce2a0c36ca36/16e61cd4a93/I/inflexion.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "inflexion"
+        },
+        "suggests": [
+            {
+                "id": "48242",
+                "link": "/find?type=1&query=inflexional",
+                "word": "inflexional"
+            },
+            {
+                "id": "48242",
+                "link": "/find?type=1&query=inflexionless",
+                "word": "inflexionless"
+            }
+        ]
+    }
+}

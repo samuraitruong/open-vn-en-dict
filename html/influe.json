@@ -1,1 +1,82 @@
-{"error": 0, "query": "influe", "enViData": {"suggests": [{"id": "48256", "link": "/find?type=1&query=influence", "word": "influence"}, {"id": "48257", "link": "/find?type=1&query=influenceable", "word": "influenceable"}, {"id": "48258", "link": "/find?type=1&query=influencer", "word": "influencer"}, {"id": "48259", "link": "/find?type=1&query=influent", "word": "influent"}, {"id": "48260", "link": "/find?type=1&query=influential", "word": "influential"}, {"id": "48261", "link": "/find?type=1&query=influentially", "word": "influentially"}, {"id": "48262", "link": "/find?type=1&query=influenza", "word": "influenza"}, {"id": "48263", "link": "/find?type=1&query=influenzal", "word": "influenzal"}]}, "mUrl": "/find?type=1&query=influe", "enEnData": {"suggests": [{"id": "14887", "link": "/find?type=3&query=influence", "word": "influence"}, {"id": "14888", "link": "/find?type=3&query=influential", "word": "influential"}, {"id": "14889", "link": "/find?type=3&query=influenza", "word": "influenza"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3764", "link": "/find?type=4&query=influence", "word": "influence"}, {"id": "3765", "link": "/find?type=4&query=influential", "word": "influential"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14887",
+                "link": "/find?type=3&query=influence",
+                "word": "influence"
+            },
+            {
+                "id": "14888",
+                "link": "/find?type=3&query=influential",
+                "word": "influential"
+            },
+            {
+                "id": "14889",
+                "link": "/find?type=3&query=influenza",
+                "word": "influenza"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48256",
+                "link": "/find?type=1&query=influence",
+                "word": "influence"
+            },
+            {
+                "id": "48257",
+                "link": "/find?type=1&query=influenceable",
+                "word": "influenceable"
+            },
+            {
+                "id": "48258",
+                "link": "/find?type=1&query=influencer",
+                "word": "influencer"
+            },
+            {
+                "id": "48259",
+                "link": "/find?type=1&query=influent",
+                "word": "influent"
+            },
+            {
+                "id": "48260",
+                "link": "/find?type=1&query=influential",
+                "word": "influential"
+            },
+            {
+                "id": "48261",
+                "link": "/find?type=1&query=influentially",
+                "word": "influentially"
+            },
+            {
+                "id": "48262",
+                "link": "/find?type=1&query=influenza",
+                "word": "influenza"
+            },
+            {
+                "id": "48263",
+                "link": "/find?type=1&query=influenzal",
+                "word": "influenzal"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3764",
+                "link": "/find?type=4&query=influence",
+                "word": "influence"
+            },
+            {
+                "id": "3765",
+                "link": "/find?type=4&query=influential",
+                "word": "influential"
+            }
+        ]
+    }
+}

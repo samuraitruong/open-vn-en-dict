@@ -1,1 +1,40 @@
-{"error": 0, "query": "infantries", "enViData": {"suggests": [{"id": "48111", "link": "/find?type=1&query=infantryman", "word": "infantryman"}], "best": {"id": "48111", "details": "\n<div id=\"find_word_48111\" class=\"world word_en\" rel=\"infantry\">\n    <h2 class=\"fl\">infantry <span class=\"color-black\">/'inf\u0259ntri/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48111\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48111\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed9 binh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an infantry regiment</div>\n    \n    <div class=\"margin25\">m\u1ed9t trung \u0111o\u00e0n b\u1ed9 binh</div>\n    \n</div>\n", "link": "/find?type=1&query=infantry", "word": "infantry"}}, "mUrl": "/find?type=1&query=infantries", "enEnData": {"suggests": [{"id": "14844", "link": "/find?type=3&query=infantryman", "word": "infantryman"}], "best": {"id": "14844", "details": "\n<div id=\"find_word_14844\" class=\"world word_en\" rel=\"infantry\">\n    <h2 class=\"fl\">infantry <span class=\"color-black\">/\u02c8\u026anf\u0259ntri/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14844\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14844\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">the part of an army that has soldiers who fight on foot [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He joined the infantry after leaving school.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The infantry is coming. [plural]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The infantry are coming. - compare cavalry</div>\n    \n</div>\n", "link": "/find?type=3&query=infantry", "word": "infantry"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">the part of an army that has soldiers who fight on foot [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He joined the infantry after leaving school.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The infantry is coming. [plural]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The infantry are coming. - compare cavalry</div>",
+            "id": "14844",
+            "mean": [],
+            "pronounce": "/\u02c8\u026anf\u0259ntri/",
+            "type": "noun",
+            "word": "infantry"
+        },
+        "suggests": [
+            {
+                "id": "14844",
+                "link": "/find?type=3&query=infantryman",
+                "word": "infantryman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed9 binh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an infantry regiment</div>\n    \n    <div class=\"margin25\">m\u1ed9t trung \u0111o\u00e0n b\u1ed9 binh</div>",
+            "id": "48111",
+            "mean": [],
+            "pronounce": "/'inf\u0259ntri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3b8a2f8bf13aa7ac314a684b666f0c2d/16e61ccd0df/I/infantry.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/417833ec95c67056fd85b43d1558bf31/16e61ccc737/I/infantry.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "infantry"
+        },
+        "suggests": [
+            {
+                "id": "48111",
+                "link": "/find?type=1&query=infantryman",
+                "word": "infantryman"
+            }
+        ]
+    }
+}

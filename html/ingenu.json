@@ -1,1 +1,67 @@
-{"error": 0, "query": "ingenu", "enViData": {"suggests": [{"id": "48345", "link": "/find?type=1&query=ingenue", "word": "ingenue"}, {"id": "48346", "link": "/find?type=1&query=ingenuity", "word": "ingenuity"}, {"id": "48347", "link": "/find?type=1&query=ingenuous", "word": "ingenuous"}, {"id": "48348", "link": "/find?type=1&query=ingenuously", "word": "ingenuously"}, {"id": "48349", "link": "/find?type=1&query=ingenuousness", "word": "ingenuousness"}]}, "mUrl": "/find?type=1&query=ingenu", "enEnData": {"suggests": [{"id": "14914", "link": "/find?type=3&query=ingenue", "word": "ingenue"}, {"id": "14915", "link": "/find?type=3&query=ingenuity", "word": "ingenuity"}, {"id": "14916", "link": "/find?type=3&query=ingenuous", "word": "ingenuous"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3777", "link": "/find?type=4&query=ingenuity", "word": "ingenuity"}, {"id": "3778", "link": "/find?type=4&query=ingenuous", "word": "ingenuous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14914",
+                "link": "/find?type=3&query=ingenue",
+                "word": "ingenue"
+            },
+            {
+                "id": "14915",
+                "link": "/find?type=3&query=ingenuity",
+                "word": "ingenuity"
+            },
+            {
+                "id": "14916",
+                "link": "/find?type=3&query=ingenuous",
+                "word": "ingenuous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48345",
+                "link": "/find?type=1&query=ingenue",
+                "word": "ingenue"
+            },
+            {
+                "id": "48346",
+                "link": "/find?type=1&query=ingenuity",
+                "word": "ingenuity"
+            },
+            {
+                "id": "48347",
+                "link": "/find?type=1&query=ingenuous",
+                "word": "ingenuous"
+            },
+            {
+                "id": "48348",
+                "link": "/find?type=1&query=ingenuously",
+                "word": "ingenuously"
+            },
+            {
+                "id": "48349",
+                "link": "/find?type=1&query=ingenuousness",
+                "word": "ingenuousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3777",
+                "link": "/find?type=4&query=ingenuity",
+                "word": "ingenuity"
+            },
+            {
+                "id": "3778",
+                "link": "/find?type=4&query=ingenuous",
+                "word": "ingenuous"
+            }
+        ]
+    }
+}
