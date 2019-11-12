@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "35404", "link": "/find?type=1&query=finery", "word": "finery"}], "data": {"word": "finer", "id": "35404", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(t\u00f4 p\u00f4) m\u1ecbn h\u01a1n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10648", "link": "/find?type=3&query=finery", "word": "finery"}], "data": {}}, "synonyms": {"suggests": [{"id": "2627", "link": "/find?type=4&query=finery", "word": "finery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10648",
+                "link": "/find?type=3&query=finery",
+                "word": "finery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(t\u00f4 p\u00f4) m\u1ecbn h\u01a1n</div>",
+            "id": "35404",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "finer"
+        },
+        "suggests": [
+            {
+                "id": "35404",
+                "link": "/find?type=1&query=finery",
+                "word": "finery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2627",
+                "link": "/find?type=4&query=finery",
+                "word": "finery"
+            }
+        ]
+    }
+}
