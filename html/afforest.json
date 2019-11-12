@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "1841", "link": "/find?type=1&query=afforestation", "word": "afforestation"}], "data": {"word": "afforest", "id": "1841", "pronounce": "/\u0259'f\u0252rist/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ed3ng r\u1eebng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "444", "link": "/find?type=3&query=afforestation", "word": "afforestation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "444",
+                "link": "/find?type=3&query=afforestation",
+                "word": "afforestation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ed3ng r\u1eebng</div>",
+            "id": "1841",
+            "mean": [],
+            "pronounce": "/\u0259'f\u0252rist/",
+            "speak": {},
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "afforest"
+        },
+        "suggests": [
+            {
+                "id": "1841",
+                "link": "/find?type=1&query=afforestation",
+                "word": "afforestation"
+            }
+        ]
+    }
+}

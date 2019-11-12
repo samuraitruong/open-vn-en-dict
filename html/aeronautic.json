@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "1735", "link": "/find?type=1&query=aeronautic%2C+aeronautical", "word": "aeronautic, aeronautical"}, {"id": "1736", "link": "/find?type=1&query=aeronautically", "word": "aeronautically"}, {"id": "1737", "link": "/find?type=1&query=aeronautics", "word": "aeronautics"}], "data": {}}, "en_en": {"suggests": [{"id": "416", "link": "/find?type=3&query=aeronautics", "word": "aeronautics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "416",
+                "link": "/find?type=3&query=aeronautics",
+                "word": "aeronautics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1735",
+                "link": "/find?type=1&query=aeronautic%2C+aeronautical",
+                "word": "aeronautic, aeronautical"
+            },
+            {
+                "id": "1736",
+                "link": "/find?type=1&query=aeronautically",
+                "word": "aeronautically"
+            },
+            {
+                "id": "1737",
+                "link": "/find?type=1&query=aeronautics",
+                "word": "aeronautics"
+            }
+        ]
+    }
+}

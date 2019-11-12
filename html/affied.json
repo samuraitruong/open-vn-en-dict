@@ -1,1 +1,117 @@
-{"en_vn": {"suggests": [{"id": "1806", "link": "/find?type=1&query=affiance", "word": "affiance"}, {"id": "1807", "link": "/find?type=1&query=affidavit", "word": "affidavit"}, {"id": "1808", "link": "/find?type=1&query=affiliate", "word": "affiliate"}, {"id": "1809", "link": "/find?type=1&query=affiliation", "word": "affiliation"}, {"id": "1810", "link": "/find?type=1&query=affiliation+order", "word": "affiliation order"}, {"id": "1811", "link": "/find?type=1&query=affinage", "word": "affinage"}, {"id": "1812", "link": "/find?type=1&query=affined", "word": "affined"}, {"id": "1813", "link": "/find?type=1&query=affinity", "word": "affinity"}, {"id": "1814", "link": "/find?type=1&query=affinor", "word": "affinor"}, {"id": "1815", "link": "/find?type=1&query=affirm", "word": "affirm"}], "data": {}}, "en_en": {"suggests": [{"id": "432", "link": "/find?type=3&query=affidavit", "word": "affidavit"}, {"id": "433", "link": "/find?type=3&query=affiliate", "word": "affiliate"}, {"id": "434", "link": "/find?type=3&query=affiliation", "word": "affiliation"}, {"id": "435", "link": "/find?type=3&query=affinity", "word": "affinity"}, {"id": "436", "link": "/find?type=3&query=affirm", "word": "affirm"}, {"id": "437", "link": "/find?type=3&query=affirmative", "word": "affirmative"}, {"id": "438", "link": "/find?type=3&query=affirmative+action", "word": "affirmative action"}, {"id": "439", "link": "/find?type=3&query=affix", "word": "affix"}], "data": {}}, "synonyms": {"suggests": [{"id": "148", "link": "/find?type=4&query=affiliated", "word": "affiliated"}, {"id": "149", "link": "/find?type=4&query=affinity", "word": "affinity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "432",
+                "link": "/find?type=3&query=affidavit",
+                "word": "affidavit"
+            },
+            {
+                "id": "433",
+                "link": "/find?type=3&query=affiliate",
+                "word": "affiliate"
+            },
+            {
+                "id": "434",
+                "link": "/find?type=3&query=affiliation",
+                "word": "affiliation"
+            },
+            {
+                "id": "435",
+                "link": "/find?type=3&query=affinity",
+                "word": "affinity"
+            },
+            {
+                "id": "436",
+                "link": "/find?type=3&query=affirm",
+                "word": "affirm"
+            },
+            {
+                "id": "437",
+                "link": "/find?type=3&query=affirmative",
+                "word": "affirmative"
+            },
+            {
+                "id": "438",
+                "link": "/find?type=3&query=affirmative+action",
+                "word": "affirmative action"
+            },
+            {
+                "id": "439",
+                "link": "/find?type=3&query=affix",
+                "word": "affix"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1806",
+                "link": "/find?type=1&query=affiance",
+                "word": "affiance"
+            },
+            {
+                "id": "1807",
+                "link": "/find?type=1&query=affidavit",
+                "word": "affidavit"
+            },
+            {
+                "id": "1808",
+                "link": "/find?type=1&query=affiliate",
+                "word": "affiliate"
+            },
+            {
+                "id": "1809",
+                "link": "/find?type=1&query=affiliation",
+                "word": "affiliation"
+            },
+            {
+                "id": "1810",
+                "link": "/find?type=1&query=affiliation+order",
+                "word": "affiliation order"
+            },
+            {
+                "id": "1811",
+                "link": "/find?type=1&query=affinage",
+                "word": "affinage"
+            },
+            {
+                "id": "1812",
+                "link": "/find?type=1&query=affined",
+                "word": "affined"
+            },
+            {
+                "id": "1813",
+                "link": "/find?type=1&query=affinity",
+                "word": "affinity"
+            },
+            {
+                "id": "1814",
+                "link": "/find?type=1&query=affinor",
+                "word": "affinor"
+            },
+            {
+                "id": "1815",
+                "link": "/find?type=1&query=affirm",
+                "word": "affirm"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "148",
+                "link": "/find?type=4&query=affiliated",
+                "word": "affiliated"
+            },
+            {
+                "id": "149",
+                "link": "/find?type=4&query=affinity",
+                "word": "affinity"
+            }
+        ]
+    }
+}
