@@ -1,1 +1,22 @@
-{"error": 0, "query": "focuses", "enViData": {"suggests": [{"id": "36721", "link": "/find?type=1&query=focused", "word": "focused"}]}, "mUrl": "/find?type=1&query=focuses", "enEnData": {"suggests": [{"id": "11042", "link": "/find?type=3&query=focused", "word": "focused"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11042",
+                "link": "/find?type=3&query=focused",
+                "word": "focused"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36721",
+                "link": "/find?type=1&query=focused",
+                "word": "focused"
+            }
+        ]
+    }
+}
