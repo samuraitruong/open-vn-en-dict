@@ -1,1 +1,39 @@
-{"error": 0, "query": "harpoons", "enViData": {"suggests": [{"id": "42909", "link": "/find?type=1&query=harpoon-gun", "word": "harpoon-gun"}, {"id": "42909", "link": "/find?type=1&query=harpooner", "word": "harpooner"}], "best": {"id": "42909", "details": "\n<div id=\"find_word_42909\" class=\"world word_en\" rel=\"harpoon\">\n    <h2 class=\"fl\">harpoon <span class=\"color-black\">/'h\u0251:pu:n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42909\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42909\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i lao m\u00f3c (\u0111\u1ec3 \u0111\u00e1nh c\u00e1 voi)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f3ng lao m\u00f3c v\u00e0o</div>\n    \n</div>\n", "link": "/find?type=1&query=harpoon", "word": "harpoon"}}, "mUrl": "/find?type=1&query=harpoons", "enEnData": {"suggests": [], "best": {"id": "13130", "details": "\n<div id=\"find_word_13130\" class=\"world word_en\" rel=\"harpoon\">\n    <h2 class=\"fl\">harpoon <span class=\"color-black\">/h\u0251\u025a\u02c8pu\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13130\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13130\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -poons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a long weapon used especially for hunting large fish or whales</div>\n    \n</div>\n", "link": "/find?type=3&query=harpoon", "word": "harpoon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -poons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a long weapon used especially for hunting large fish or whales</div>",
+            "id": "13130",
+            "mean": [],
+            "pronounce": "/h\u0251\u025a\u02c8pu\u02d0n/",
+            "type": "noun",
+            "word": "harpoon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i lao m\u00f3c (\u0111\u1ec3 \u0111\u00e1nh c\u00e1 voi)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f3ng lao m\u00f3c v\u00e0o</div>",
+            "id": "42909",
+            "mean": [],
+            "pronounce": "/'h\u0251:pu:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e7b679282d0a141f5577c4f82bb2bf2b/16e61699d01/H/harpoon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/66f0fa23d6ef20d3b3e3ccd7a05184f7/16e616994ba/H/harpoon.mp3"
+            },
+            "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "harpoon"
+        },
+        "suggests": [
+            {
+                "id": "42909",
+                "link": "/find?type=1&query=harpoon-gun",
+                "word": "harpoon-gun"
+            },
+            {
+                "id": "42909",
+                "link": "/find?type=1&query=harpooner",
+                "word": "harpooner"
+            }
+        ]
+    }
+}
