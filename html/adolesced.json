@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "1496", "link": "/find?type=1&query=adolescence", "word": "adolescence"}, {"id": "1497", "link": "/find?type=1&query=adolescent", "word": "adolescent"}], "data": {}}, "en_en": {"suggests": [{"id": "352", "link": "/find?type=3&query=adolescence", "word": "adolescence"}, {"id": "353", "link": "/find?type=3&query=adolescent", "word": "adolescent"}], "data": {}}, "synonyms": {"suggests": [{"id": "120", "link": "/find?type=4&query=adolescent", "word": "adolescent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "352",
+                "link": "/find?type=3&query=adolescence",
+                "word": "adolescence"
+            },
+            {
+                "id": "353",
+                "link": "/find?type=3&query=adolescent",
+                "word": "adolescent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1496",
+                "link": "/find?type=1&query=adolescence",
+                "word": "adolescence"
+            },
+            {
+                "id": "1497",
+                "link": "/find?type=1&query=adolescent",
+                "word": "adolescent"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "120",
+                "link": "/find?type=4&query=adolescent",
+                "word": "adolescent"
+            }
+        ]
+    }
+}
