@@ -1,1 +1,22 @@
-{"error": 0, "query": "headquartering", "enViData": {"suggests": [{"id": "43148", "link": "/find?type=1&query=headquarters", "word": "headquarters"}]}, "mUrl": "/find?type=1&query=headquartering", "enEnData": {"suggests": [{"id": "13247", "link": "/find?type=3&query=headquartered", "word": "headquartered"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13247",
+                "link": "/find?type=3&query=headquartered",
+                "word": "headquartered"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43148",
+                "link": "/find?type=1&query=headquarters",
+                "word": "headquarters"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "headmasters", "enViData": {"suggests": [{"id": "43140", "link": "/find?type=1&query=headmastership", "word": "headmastership"}], "best": {"id": "43140", "details": "\n<div id=\"find_word_43140\" class=\"world word_en\" rel=\"headmaster\">\n    <h2 class=\"fl\">headmaster <span class=\"color-black\">/hed'm\u0251:st\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43140\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43140\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00f4ng hi\u1ec7u tr\u01b0\u1edfng</div>\n    \n</div>\n", "link": "/find?type=1&query=headmaster", "word": "headmaster"}}, "mUrl": "/find?type=1&query=headmasters", "enEnData": {"suggests": [], "best": {"id": "13242", "details": "\n<div id=\"find_word_13242\" class=\"world word_en\" rel=\"headmaster\">\n    <h2 class=\"fl\">headmaster <span class=\"color-black\">/\u02c8h\u025bd\u02c8m\u00e6st\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8h\u025bd\u02c8m\u0251\u02d0st\u0259/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13242\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13242\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a man who is the head of a U.S. private school</div>\n    \n    <div class=\"green margin25 m-top15\">a man who is the head of a British school</div>\n    \n</div>\n", "link": "/find?type=3&query=headmaster", "word": "headmaster"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a man who is the head of a U.S. private school</div>\n    \n    <div class=\"green margin25 m-top15\">a man who is the head of a British school</div>",
+            "id": "13242",
+            "mean": [],
+            "pronounce": "/\u02c8h\u025bd\u02c8m\u00e6st\u025a/",
+            "type": "noun",
+            "word": "headmaster"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00f4ng hi\u1ec7u tr\u01b0\u1edfng</div>",
+            "id": "43140",
+            "mean": [],
+            "pronounce": "/hed'm\u0251:st\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/196cb975db6233eee0dc5888ff7e3e82/16e6174cb81/H/headmaster.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/461217ae6d0537b77a1ae2c89cccfbd3/16e6174c377/H/headmaster.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "headmaster"
+        },
+        "suggests": [
+            {
+                "id": "43140",
+                "link": "/find?type=1&query=headmastership",
+                "word": "headmastership"
+            }
+        ]
+    }
+}
