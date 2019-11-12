@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "24138", "link": "/find?type=1&query=departmentally", "word": "departmentally"}], "data": {"word": "departmental", "id": "24138", "pronounce": "/,dip\u0251:t'm\u0259ntl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u1ee5c, [thu\u1ed9c] v\u1ee5, [thu\u1ed9c] ty, [thu\u1ed9c] ban, [thu\u1ed9c] khoa, [thu\u1ed9c] b\u1ed9</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7672", "link": "/find?type=3&query=departmentalize", "word": "departmentalize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7672",
+                "link": "/find?type=3&query=departmentalize",
+                "word": "departmentalize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u1ee5c, [thu\u1ed9c] v\u1ee5, [thu\u1ed9c] ty, [thu\u1ed9c] ban, [thu\u1ed9c] khoa, [thu\u1ed9c] b\u1ed9</div>",
+            "id": "24138",
+            "mean": [],
+            "pronounce": "/,dip\u0251:t'm\u0259ntl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "departmental"
+        },
+        "suggests": [
+            {
+                "id": "24138",
+                "link": "/find?type=1&query=departmentally",
+                "word": "departmentally"
+            }
+        ]
+    }
+}
