@@ -1,1 +1,28 @@
-{"error": 0, "query": "hairbrushes", "enViData": {"suggests": [], "best": {"id": "42387", "details": "\n<div id=\"find_word_42387\" class=\"world word_en\" rel=\"hairbrush\">\n    <h2 class=\"fl\">hairbrush <span class=\"color-black\">/'he\u0259br\u028ct\u0283/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42387\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42387\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e0n ch\u1ea3i t\u00f3c</div>\n    \n</div>\n", "link": "/find?type=1&query=hairbrush", "word": "hairbrush"}}, "mUrl": "/find?type=1&query=hairbrushes", "enEnData": {"suggests": [], "best": {"id": "12879", "details": "\n<div id=\"find_word_12879\" class=\"world word_en\" rel=\"hairbrush\">\n    <h2 class=\"fl\">hairbrush <span class=\"color-black\">/\u02c8he\u025a\u02ccbr\u028c\u0283/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12879\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12879\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -brushes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a brush for the hair - see picture at grooming</div>\n    \n</div>\n", "link": "/find?type=3&query=hairbrush", "word": "hairbrush"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -brushes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a brush for the hair - see picture at grooming</div>",
+            "id": "12879",
+            "mean": [],
+            "pronounce": "/\u02c8he\u025a\u02ccbr\u028c\u0283/",
+            "type": "noun",
+            "word": "hairbrush"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e0n ch\u1ea3i t\u00f3c</div>",
+            "id": "42387",
+            "mean": [],
+            "pronounce": "/'he\u0259br\u028ct\u0283/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/42965bd643190c8c7aa6ed43e7975cea/16e61536176/H/hairbrush.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cdd1eac97f6cb7d14bef119c874bd4b1/16e615358ec/H/hairbrush.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hairbrush"
+        },
+        "suggests": []
+    }
+}
