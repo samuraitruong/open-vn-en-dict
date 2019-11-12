@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "24608", "link": "/find?type=1&query=detente", "word": "detente"}, {"id": "24608", "link": "/find?type=1&query=detention", "word": "detention"}, {"id": "24608", "link": "/find?type=1&query=detention+centre", "word": "detention centre"}], "data": {"word": "detent", "id": "24608", "pronounce": "/di'tent/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(k\u1ef9 thu\u1eadt) c\u00e1i h\u00e3m, c\u00e1i kho\u00e1 d\u1eebng; c\u00e1i m\u00f3c, c\u00e1i ch\u1ed1t</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7822", "link": "/find?type=3&query=detente", "word": "detente"}, {"id": "7823", "link": "/find?type=3&query=detention", "word": "detention"}, {"id": "7824", "link": "/find?type=3&query=detention+center", "word": "detention center"}], "data": {}}, "synonyms": {"suggests": [{"id": "1611", "link": "/find?type=4&query=detention", "word": "detention"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7822",
+                "link": "/find?type=3&query=detente",
+                "word": "detente"
+            },
+            {
+                "id": "7823",
+                "link": "/find?type=3&query=detention",
+                "word": "detention"
+            },
+            {
+                "id": "7824",
+                "link": "/find?type=3&query=detention+center",
+                "word": "detention center"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(k\u1ef9 thu\u1eadt) c\u00e1i h\u00e3m, c\u00e1i kho\u00e1 d\u1eebng; c\u00e1i m\u00f3c, c\u00e1i ch\u1ed1t</div>",
+            "id": "24608",
+            "mean": [],
+            "pronounce": "/di'tent/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "detent"
+        },
+        "suggests": [
+            {
+                "id": "24608",
+                "link": "/find?type=1&query=detente",
+                "word": "detente"
+            },
+            {
+                "id": "24608",
+                "link": "/find?type=1&query=detention",
+                "word": "detention"
+            },
+            {
+                "id": "24608",
+                "link": "/find?type=1&query=detention+centre",
+                "word": "detention centre"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1611",
+                "link": "/find?type=4&query=detention",
+                "word": "detention"
+            }
+        ]
+    }
+}
