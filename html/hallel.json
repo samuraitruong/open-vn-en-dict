@@ -1,1 +1,27 @@
-{"error": 0, "query": "hallel", "enViData": {"suggests": [{"id": "42525", "link": "/find?type=1&query=halleluiah", "word": "halleluiah"}, {"id": "42526", "link": "/find?type=1&query=hallelujah", "word": "hallelujah"}]}, "mUrl": "/find?type=1&query=hallel", "enEnData": {"suggests": [{"id": "12936", "link": "/find?type=3&query=hallelujah", "word": "hallelujah"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12936",
+                "link": "/find?type=3&query=hallelujah",
+                "word": "hallelujah"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42525",
+                "link": "/find?type=1&query=halleluiah",
+                "word": "halleluiah"
+            },
+            {
+                "id": "42526",
+                "link": "/find?type=1&query=hallelujah",
+                "word": "hallelujah"
+            }
+        ]
+    }
+}
