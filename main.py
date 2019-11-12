@@ -115,7 +115,7 @@ def getWord(word):
 
 
 logs = {}
-with open('data.txt') as json_file:
+with open('logs.json') as json_file:
     logs = json.load(json_file)
     print("Proceeded : %d" % (len(logs)))
 
