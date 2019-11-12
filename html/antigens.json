@@ -1,1 +1,54 @@
-{"en_vn": {"suggests": [{"id": "4472", "link": "/find?type=1&query=antigenic", "word": "antigenic"}, {"id": "4472", "link": "/find?type=1&query=antigenically", "word": "antigenically"}, {"id": "4472", "link": "/find?type=1&query=antigenicity", "word": "antigenicity"}, {"id": "4472", "link": "/find?type=1&query=antigenus", "word": "antigenus"}, {"id": "4472", "link": "/find?type=1&query=antigeny", "word": "antigeny"}], "data": {"word": "antigen", "id": "4472", "pronounce": "/'\u00e6ntid\u0292\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(sinh v\u1eadt h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00e1ng nguy\u00ean</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/325682a88a49a6996c1437c6a3d699e3/16e5dc62773/A/antigen.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/2830cb6a6ac07f8870b96621c0f2ac19/16e5dc62ddd/A/antigen.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "antigen", "id": "1057", "pronounce": "/\u02c8\u00e6nt\u026a\u02a4\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a harmful substance that causes the body to produce antibodies</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a harmful substance that causes the body to produce antibodies</div>",
+            "id": "1057",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6nt\u026a\u02a4\u0259n/",
+            "type": "noun",
+            "word": "antigen"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(sinh v\u1eadt h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00e1ng nguy\u00ean</div>",
+            "id": "4472",
+            "mean": [],
+            "pronounce": "/'\u00e6ntid\u0292\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/604ceaecf9e38da66f1d78f235993ffe/16e5ea9c0ad/A/antigen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ece9fb30f6c001ce360c364be50e71a3/16e5ea9b997/A/antigen.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "antigen"
+        },
+        "suggests": [
+            {
+                "id": "4472",
+                "link": "/find?type=1&query=antigenic",
+                "word": "antigenic"
+            },
+            {
+                "id": "4472",
+                "link": "/find?type=1&query=antigenically",
+                "word": "antigenically"
+            },
+            {
+                "id": "4472",
+                "link": "/find?type=1&query=antigenicity",
+                "word": "antigenicity"
+            },
+            {
+                "id": "4472",
+                "link": "/find?type=1&query=antigenus",
+                "word": "antigenus"
+            },
+            {
+                "id": "4472",
+                "link": "/find?type=1&query=antigeny",
+                "word": "antigeny"
+            }
+        ]
+    }
+}
