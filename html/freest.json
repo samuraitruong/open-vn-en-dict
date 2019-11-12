@@ -1,1 +1,37 @@
-{"error": 0, "query": "freest", "enViData": {"suggests": [{"id": "37823", "link": "/find?type=1&query=freestanding", "word": "freestanding"}, {"id": "37824", "link": "/find?type=1&query=freestone", "word": "freestone"}, {"id": "37825", "link": "/find?type=1&query=freestyle", "word": "freestyle"}]}, "mUrl": "/find?type=1&query=freest", "enEnData": {"suggests": [{"id": "11422", "link": "/find?type=3&query=freestanding", "word": "freestanding"}, {"id": "11423", "link": "/find?type=3&query=freestyle", "word": "freestyle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11422",
+                "link": "/find?type=3&query=freestanding",
+                "word": "freestanding"
+            },
+            {
+                "id": "11423",
+                "link": "/find?type=3&query=freestyle",
+                "word": "freestyle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37823",
+                "link": "/find?type=1&query=freestanding",
+                "word": "freestanding"
+            },
+            {
+                "id": "37824",
+                "link": "/find?type=1&query=freestone",
+                "word": "freestone"
+            },
+            {
+                "id": "37825",
+                "link": "/find?type=1&query=freestyle",
+                "word": "freestyle"
+            }
+        ]
+    }
+}
