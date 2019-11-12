@@ -1,1 +1,40 @@
-{"error": 0, "query": "hawse", "enViData": {"suggests": [{"id": "43055", "link": "/find?type=1&query=hawse-hole", "word": "hawse-hole"}, {"id": "43055", "link": "/find?type=1&query=hawser", "word": "hawser"}, {"id": "43055", "link": "/find?type=1&query=hawser-laid", "word": "hawser-laid"}], "best": {"id": "43055", "details": "\n<div id=\"find_word_43055\" class=\"world word_en\" rel=\"hawse\">\n    <h2 class=\"fl\">hawse <span class=\"color-black\">/h\u0254:z/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43055\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43055\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) v\u00f9ng th\u00e0nh t\u00e0u quanh l\u1ed7 d\u00e2y neo</div>\n    \n    <div class=\"green margin25 m-top15\">kho\u1ea3ng c\u00e1ch gi\u1eefa m\u0169i t\u00e0u v\u00e0 d\u00e2y neo t\u00e0u</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ecb tr\u00ed d\u00e2y c\u00e1p l\u00fac b\u1ecf neo</div>\n    \n</div>\n", "link": "/find?type=1&query=hawse", "word": "hawse"}}, "mUrl": "/find?type=1&query=hawse", "enEnData": {"suggests": [{"id": "13190", "link": "/find?type=3&query=hawser", "word": "hawser"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13190",
+                "link": "/find?type=3&query=hawser",
+                "word": "hawser"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) v\u00f9ng th\u00e0nh t\u00e0u quanh l\u1ed7 d\u00e2y neo</div>\n    \n    <div class=\"green margin25 m-top15\">kho\u1ea3ng c\u00e1ch gi\u1eefa m\u0169i t\u00e0u v\u00e0 d\u00e2y neo t\u00e0u</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ecb tr\u00ed d\u00e2y c\u00e1p l\u00fac b\u1ecf neo</div>",
+            "id": "43055",
+            "mean": [],
+            "pronounce": "/h\u0254:z/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "hawse"
+        },
+        "suggests": [
+            {
+                "id": "43055",
+                "link": "/find?type=1&query=hawse-hole",
+                "word": "hawse-hole"
+            },
+            {
+                "id": "43055",
+                "link": "/find?type=1&query=hawser",
+                "word": "hawser"
+            },
+            {
+                "id": "43055",
+                "link": "/find?type=1&query=hawser-laid",
+                "word": "hawser-laid"
+            }
+        ]
+    }
+}
