@@ -1,1 +1,32 @@
-{"error": 0, "query": "grogged", "enViData": {"suggests": [{"id": "41593", "link": "/find?type=1&query=groggery", "word": "groggery"}]}, "mUrl": "/find?type=1&query=grogged", "enEnData": {"suggests": [{"id": "12634", "link": "/find?type=3&query=groggy", "word": "groggy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3119", "link": "/find?type=4&query=groggy", "word": "groggy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12634",
+                "link": "/find?type=3&query=groggy",
+                "word": "groggy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41593",
+                "link": "/find?type=1&query=groggery",
+                "word": "groggery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3119",
+                "link": "/find?type=4&query=groggy",
+                "word": "groggy"
+            }
+        ]
+    }
+}
