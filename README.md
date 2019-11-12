@@ -20,3 +20,6 @@ pip install -r requirements.txt
 ```sh
 python3 main.py
 ```
+
+## Git commit
+To avoid 
