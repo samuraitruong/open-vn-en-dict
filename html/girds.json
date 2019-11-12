@@ -1,1 +1,60 @@
-{"error": 0, "query": "girds", "enViData": {"suggests": [{"id": "40019", "link": "/find?type=1&query=gird+something+on", "word": "gird something on"}, {"id": "40019", "link": "/find?type=1&query=girder", "word": "girder"}, {"id": "40019", "link": "/find?type=1&query=girdle", "word": "girdle"}, {"id": "40019", "link": "/find?type=1&query=girdling", "word": "girdling"}], "best": {"id": "40019", "details": "\n<div id=\"find_word_40019\" class=\"world word_en\" rel=\"gird\">\n    <h2 class=\"fl\">gird <span class=\"color-black\">/g\u025c:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40019\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40019\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">girded ho\u1eb7c girt</div>\n    \n    <div class=\"bold dot-blue m-top15\">gird something [with something]</div>\n    \n    <div class=\"grey margin25 m-top15\">bao quanh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the island girded by the sea</div>\n    \n    <div class=\"margin25\">h\u00f2n \u0111\u1ea3o c\u00f3 bi\u1ec3n bao quanh</div>\n    \n    <div class=\"bold dot-blue m-top15\">gird somebody [with something]</div>\n    \n    <div class=\"grey margin25 m-top15\">m\u1eb7c qu\u1ea7n \u00e1o cho (ai)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he girded himself with armour for the battle</div>\n    \n    <div class=\"margin25\">anh ta m\u1eb7c \u00e1o gi\u00e1p v\u00e0o \u0111\u1ec3 ra tr\u1eadn</div>\n    \n    <div class=\"bold dot-blue m-top15\">gird [up] one's loins</div>\n    \n    <div class=\"color-light-grey margin25\">(tu t\u1eeb ho\u1eb7c \u0111\u00f9a)</div>\n    \n    <div class=\"grey margin25 m-top15\">chu\u1ea9n b\u1ecb h\u00e0nh \u0111\u1ed9ng</div>\n    \n</div>\n", "link": "/find?type=1&query=gird", "word": "gird"}}, "mUrl": "/find?type=1&query=girds", "enEnData": {"suggests": [{"id": "12086", "link": "/find?type=3&query=girder", "word": "girder"}, {"id": "12086", "link": "/find?type=3&query=girdle", "word": "girdle"}], "best": {"id": "12086", "details": "\n<div id=\"find_word_12086\" class=\"world word_en\" rel=\"gird\">\n    <h2 class=\"fl\">gird <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12086\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12086\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02c8g\u025ad/  girds; girded /\u02c8g\u025ad\u0259d/ also girt /\u02c8g\u025at/; girding</div>\n    \n    <div class=\"green margin25 m-top15\">to prepare yourself to fight or to do something difficult - usually + for; [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Both sides are girding for battle. [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Both sides are girding themselves for battle.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company is girding (up) its loins for what could be a long strike.</div>\n    \n</div>\n", "link": "/find?type=3&query=gird", "word": "gird"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02c8g\u025ad/  girds; girded /\u02c8g\u025ad\u0259d/ also girt /\u02c8g\u025at/; girding</div>\n    \n    <div class=\"green margin25 m-top15\">to prepare yourself to fight or to do something difficult - usually + for; [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Both sides are girding for battle. [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Both sides are girding themselves for battle.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company is girding (up) its loins for what could be a long strike.</div>",
+            "id": "12086",
+            "mean": [],
+            "pronounce": "",
+            "type": "verb",
+            "word": "gird"
+        },
+        "suggests": [
+            {
+                "id": "12086",
+                "link": "/find?type=3&query=girder",
+                "word": "girder"
+            },
+            {
+                "id": "12086",
+                "link": "/find?type=3&query=girdle",
+                "word": "girdle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">girded ho\u1eb7c girt</div>\n    \n    <div class=\"bold dot-blue m-top15\">gird something [with something]</div>\n    \n    <div class=\"grey margin25 m-top15\">bao quanh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the island girded by the sea</div>\n    \n    <div class=\"margin25\">h\u00f2n \u0111\u1ea3o c\u00f3 bi\u1ec3n bao quanh</div>\n    \n    <div class=\"bold dot-blue m-top15\">gird somebody [with something]</div>\n    \n    <div class=\"grey margin25 m-top15\">m\u1eb7c qu\u1ea7n \u00e1o cho (ai)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he girded himself with armour for the battle</div>\n    \n    <div class=\"margin25\">anh ta m\u1eb7c \u00e1o gi\u00e1p v\u00e0o \u0111\u1ec3 ra tr\u1eadn</div>\n    \n    <div class=\"bold dot-blue m-top15\">gird [up] one's loins</div>\n    \n    <div class=\"color-light-grey margin25\">(tu t\u1eeb ho\u1eb7c \u0111\u00f9a)</div>\n    \n    <div class=\"grey margin25 m-top15\">chu\u1ea9n b\u1ecb h\u00e0nh \u0111\u1ed9ng</div>",
+            "id": "40019",
+            "mean": [],
+            "pronounce": "/g\u025c:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e18645c71ce8ea643d1dd75fee044bef/16e60f4c8b5/G/gird.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e2ce49c008eb2c86cc6d3e68379826fd/16e60f4bf42/G/gird.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "gird"
+        },
+        "suggests": [
+            {
+                "id": "40019",
+                "link": "/find?type=1&query=gird+something+on",
+                "word": "gird something on"
+            },
+            {
+                "id": "40019",
+                "link": "/find?type=1&query=girder",
+                "word": "girder"
+            },
+            {
+                "id": "40019",
+                "link": "/find?type=1&query=girdle",
+                "word": "girdle"
+            },
+            {
+                "id": "40019",
+                "link": "/find?type=1&query=girdling",
+                "word": "girdling"
+            }
+        ]
+    }
+}
