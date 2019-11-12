@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "12669", "link": "/find?type=1&query=camping-site", "word": "camping-site"}], "data": {"word": "camping", "id": "12669", "pronounce": "/'k\u00e6mpi\u014b/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 c\u1eafm tr\u1ea1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">camping equipment</div>\n    \n    <div class=\"margin25\">\u0111\u1ed3 d\u00f9ng c\u1eafm tr\u1ea1i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "camping", "id": "3962", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the activity of sleeping outdoors in a tent usually for enjoyment</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Camping is one of our favorite things to do.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She likes to go camping on weekends.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the activity of sleeping outdoors in a tent usually for enjoyment</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Camping is one of our favorite things to do.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She likes to go camping on weekends.</div>",
+            "id": "3962",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "camping"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">s\u1ef1 c\u1eafm tr\u1ea1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">camping equipment</div>\n    \n    <div class=\"margin25\">\u0111\u1ed3 d\u00f9ng c\u1eafm tr\u1ea1i</div>",
+            "id": "12669",
+            "mean": [],
+            "pronounce": "/'k\u00e6mpi\u014b/",
+            "speak": {},
+            "type": "",
+            "word": "camping"
+        },
+        "suggests": [
+            {
+                "id": "12669",
+                "link": "/find?type=1&query=camping-site",
+                "word": "camping-site"
+            }
+        ]
+    }
+}

@@ -1,1 +1,137 @@
-{"en_vn": {"suggests": [{"id": "12716", "link": "/find?type=1&query=candela", "word": "candela"}, {"id": "12717", "link": "/find?type=1&query=candelabra", "word": "candelabra"}, {"id": "12718", "link": "/find?type=1&query=candelabrum", "word": "candelabrum"}, {"id": "12719", "link": "/find?type=1&query=candescence", "word": "candescence"}, {"id": "12720", "link": "/find?type=1&query=candescent", "word": "candescent"}, {"id": "12721", "link": "/find?type=1&query=candescently", "word": "candescently"}, {"id": "12722", "link": "/find?type=1&query=candid", "word": "candid"}, {"id": "12723", "link": "/find?type=1&query=candidacy", "word": "candidacy"}, {"id": "12724", "link": "/find?type=1&query=candidate", "word": "candidate"}, {"id": "12725", "link": "/find?type=1&query=candidature", "word": "candidature"}], "data": {}}, "en_en": {"suggests": [{"id": "3982", "link": "/find?type=3&query=candelabra", "word": "candelabra"}, {"id": "3983", "link": "/find?type=3&query=candelabrum", "word": "candelabrum"}, {"id": "3984", "link": "/find?type=3&query=candid", "word": "candid"}, {"id": "3985", "link": "/find?type=3&query=candidacy", "word": "candidacy"}, {"id": "3986", "link": "/find?type=3&query=candidate", "word": "candidate"}, {"id": "3987", "link": "/find?type=3&query=candidature", "word": "candidature"}, {"id": "3988", "link": "/find?type=3&query=candied", "word": "candied"}, {"id": "3989", "link": "/find?type=3&query=candle", "word": "candle"}, {"id": "3990", "link": "/find?type=3&query=candleholder", "word": "candleholder"}, {"id": "3991", "link": "/find?type=3&query=candlelight", "word": "candlelight"}], "data": {}}, "synonyms": {"suggests": [{"id": "837", "link": "/find?type=4&query=candid", "word": "candid"}, {"id": "838", "link": "/find?type=4&query=candidate", "word": "candidate"}, {"id": "839", "link": "/find?type=4&query=candour", "word": "candour"}, {"id": "840", "link": "/find?type=4&query=candy", "word": "candy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3982",
+                "link": "/find?type=3&query=candelabra",
+                "word": "candelabra"
+            },
+            {
+                "id": "3983",
+                "link": "/find?type=3&query=candelabrum",
+                "word": "candelabrum"
+            },
+            {
+                "id": "3984",
+                "link": "/find?type=3&query=candid",
+                "word": "candid"
+            },
+            {
+                "id": "3985",
+                "link": "/find?type=3&query=candidacy",
+                "word": "candidacy"
+            },
+            {
+                "id": "3986",
+                "link": "/find?type=3&query=candidate",
+                "word": "candidate"
+            },
+            {
+                "id": "3987",
+                "link": "/find?type=3&query=candidature",
+                "word": "candidature"
+            },
+            {
+                "id": "3988",
+                "link": "/find?type=3&query=candied",
+                "word": "candied"
+            },
+            {
+                "id": "3989",
+                "link": "/find?type=3&query=candle",
+                "word": "candle"
+            },
+            {
+                "id": "3990",
+                "link": "/find?type=3&query=candleholder",
+                "word": "candleholder"
+            },
+            {
+                "id": "3991",
+                "link": "/find?type=3&query=candlelight",
+                "word": "candlelight"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12716",
+                "link": "/find?type=1&query=candela",
+                "word": "candela"
+            },
+            {
+                "id": "12717",
+                "link": "/find?type=1&query=candelabra",
+                "word": "candelabra"
+            },
+            {
+                "id": "12718",
+                "link": "/find?type=1&query=candelabrum",
+                "word": "candelabrum"
+            },
+            {
+                "id": "12719",
+                "link": "/find?type=1&query=candescence",
+                "word": "candescence"
+            },
+            {
+                "id": "12720",
+                "link": "/find?type=1&query=candescent",
+                "word": "candescent"
+            },
+            {
+                "id": "12721",
+                "link": "/find?type=1&query=candescently",
+                "word": "candescently"
+            },
+            {
+                "id": "12722",
+                "link": "/find?type=1&query=candid",
+                "word": "candid"
+            },
+            {
+                "id": "12723",
+                "link": "/find?type=1&query=candidacy",
+                "word": "candidacy"
+            },
+            {
+                "id": "12724",
+                "link": "/find?type=1&query=candidate",
+                "word": "candidate"
+            },
+            {
+                "id": "12725",
+                "link": "/find?type=1&query=candidature",
+                "word": "candidature"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "837",
+                "link": "/find?type=4&query=candid",
+                "word": "candid"
+            },
+            {
+                "id": "838",
+                "link": "/find?type=4&query=candidate",
+                "word": "candidate"
+            },
+            {
+                "id": "839",
+                "link": "/find?type=4&query=candour",
+                "word": "candour"
+            },
+            {
+                "id": "840",
+                "link": "/find?type=4&query=candy",
+                "word": "candy"
+            }
+        ]
+    }
+}

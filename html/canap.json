@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "12692", "link": "/find?type=1&query=canap%C3%A9", "word": "canap\u00e9"}, {"id": "12693", "link": "/find?type=1&query=canape", "word": "canape"}], "data": {}}, "en_en": {"suggests": [{"id": "3974", "link": "/find?type=3&query=canape", "word": "canape"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3974",
+                "link": "/find?type=3&query=canape",
+                "word": "canape"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12692",
+                "link": "/find?type=1&query=canap%C3%A9",
+                "word": "canap\u00e9"
+            },
+            {
+                "id": "12693",
+                "link": "/find?type=1&query=canape",
+                "word": "canape"
+            }
+        ]
+    }
+}
