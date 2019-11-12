@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "21067", "link": "/find?type=1&query=cripes", "word": "cripes"}, {"id": "21068", "link": "/find?type=1&query=cripple", "word": "cripple"}, {"id": "21069", "link": "/find?type=1&query=crippler", "word": "crippler"}, {"id": "21070", "link": "/find?type=1&query=crippling", "word": "crippling"}, {"id": "21071", "link": "/find?type=1&query=crips", "word": "crips"}], "data": {}}, "en_en": {"suggests": [{"id": "6773", "link": "/find?type=3&query=cripple", "word": "cripple"}], "data": {}}, "synonyms": {"suggests": [{"id": "1331", "link": "/find?type=4&query=cripple", "word": "cripple"}, {"id": "1332", "link": "/find?type=4&query=crippled", "word": "crippled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6773",
+                "link": "/find?type=3&query=cripple",
+                "word": "cripple"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21067",
+                "link": "/find?type=1&query=cripes",
+                "word": "cripes"
+            },
+            {
+                "id": "21068",
+                "link": "/find?type=1&query=cripple",
+                "word": "cripple"
+            },
+            {
+                "id": "21069",
+                "link": "/find?type=1&query=crippler",
+                "word": "crippler"
+            },
+            {
+                "id": "21070",
+                "link": "/find?type=1&query=crippling",
+                "word": "crippling"
+            },
+            {
+                "id": "21071",
+                "link": "/find?type=1&query=crips",
+                "word": "crips"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1331",
+                "link": "/find?type=4&query=cripple",
+                "word": "cripple"
+            },
+            {
+                "id": "1332",
+                "link": "/find?type=4&query=crippled",
+                "word": "crippled"
+            }
+        ]
+    }
+}

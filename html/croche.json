@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "21116", "link": "/find?type=1&query=crochet", "word": "crochet"}, {"id": "21117", "link": "/find?type=1&query=crochet-hook", "word": "crochet-hook"}, {"id": "21118", "link": "/find?type=1&query=crochet-wool", "word": "crochet-wool"}], "data": {}}, "en_en": {"suggests": [{"id": "6788", "link": "/find?type=3&query=crochet", "word": "crochet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6788",
+                "link": "/find?type=3&query=crochet",
+                "word": "crochet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21116",
+                "link": "/find?type=1&query=crochet",
+                "word": "crochet"
+            },
+            {
+                "id": "21117",
+                "link": "/find?type=1&query=crochet-hook",
+                "word": "crochet-hook"
+            },
+            {
+                "id": "21118",
+                "link": "/find?type=1&query=crochet-wool",
+                "word": "crochet-wool"
+            }
+        ]
+    }
+}

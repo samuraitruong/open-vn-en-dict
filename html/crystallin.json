@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "21494", "link": "/find?type=1&query=crystalline", "word": "crystalline"}, {"id": "21495", "link": "/find?type=1&query=crystallinity", "word": "crystallinity"}], "data": {}}, "en_en": {"suggests": [{"id": "6924", "link": "/find?type=3&query=crystalline", "word": "crystalline"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6924",
+                "link": "/find?type=3&query=crystalline",
+                "word": "crystalline"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21494",
+                "link": "/find?type=1&query=crystalline",
+                "word": "crystalline"
+            },
+            {
+                "id": "21495",
+                "link": "/find?type=1&query=crystallinity",
+                "word": "crystallinity"
+            }
+        ]
+    }
+}

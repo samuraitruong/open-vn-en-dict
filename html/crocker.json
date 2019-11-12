@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21121", "link": "/find?type=1&query=crockery", "word": "crockery"}], "data": {}}, "en_en": {"suggests": [{"id": "6791", "link": "/find?type=3&query=crockery", "word": "crockery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6791",
+                "link": "/find?type=3&query=crockery",
+                "word": "crockery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21121",
+                "link": "/find?type=1&query=crockery",
+                "word": "crockery"
+            }
+        ]
+    }
+}
