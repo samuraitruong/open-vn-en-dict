@@ -1,1 +1,45 @@
-{"error": 0, "query": "frump", "enViData": {"suggests": [{"id": "38236", "link": "/find?type=1&query=frumpish", "word": "frumpish"}, {"id": "38236", "link": "/find?type=1&query=frumpy", "word": "frumpy"}], "best": {"id": "38236", "details": "\n<div id=\"find_word_38236\" class=\"world word_en\" rel=\"frump\">\n    <h2 class=\"fl\">frump <span class=\"color-black\">/fr\u028cmp/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38236\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38236\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0103n m\u1eb7c l\u1ed7i th\u1eddi</div>\n    \n</div>\n", "link": "/find?type=1&query=frump", "word": "frump"}}, "mUrl": "/find?type=1&query=frump", "enEnData": {"suggests": [{"id": "11561", "link": "/find?type=3&query=frumpy", "word": "frumpy"}], "best": {"id": "11561", "details": "\n<div id=\"find_word_11561\" class=\"world word_en\" rel=\"frump\">\n    <h2 class=\"fl\">frump <span class=\"color-black\">/\u02c8fr\u028cmp/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11561\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11561\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural frumps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a woman who wears unattractive clothes or does not make an effort to appear attractive</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an old frump</div>\n    \n</div>\n", "link": "/find?type=3&query=frump", "word": "frump"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural frumps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a woman who wears unattractive clothes or does not make an effort to appear attractive</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an old frump</div>",
+            "id": "11561",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u028cmp/",
+            "type": "noun",
+            "word": "frump"
+        },
+        "suggests": [
+            {
+                "id": "11561",
+                "link": "/find?type=3&query=frumpy",
+                "word": "frumpy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0103n m\u1eb7c l\u1ed7i th\u1eddi</div>",
+            "id": "38236",
+            "mean": [],
+            "pronounce": "/fr\u028cmp/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c4101735b067caeecd596f3cf6a95b7c/16e60aa6027/F/frump.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f384d82e607458f4d425e230bd0ba280/16e60aa57ee/F/frump.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "frump"
+        },
+        "suggests": [
+            {
+                "id": "38236",
+                "link": "/find?type=1&query=frumpish",
+                "word": "frumpish"
+            },
+            {
+                "id": "38236",
+                "link": "/find?type=1&query=frumpy",
+                "word": "frumpy"
+            }
+        ]
+    }
+}
