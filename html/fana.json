@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "34100", "link": "/find?type=1&query=fanatic", "word": "fanatic"}, {"id": "34101", "link": "/find?type=1&query=fanatical", "word": "fanatical"}, {"id": "34102", "link": "/find?type=1&query=fanatically", "word": "fanatically"}, {"id": "34103", "link": "/find?type=1&query=fanaticise", "word": "fanaticise"}, {"id": "34104", "link": "/find?type=1&query=fanaticism", "word": "fanaticism"}, {"id": "34105", "link": "/find?type=1&query=fanaticize", "word": "fanaticize"}], "data": {}}, "en_en": {"suggests": [{"id": "10287", "link": "/find?type=3&query=fanatic", "word": "fanatic"}], "data": {}}, "synonyms": {"suggests": [{"id": "2498", "link": "/find?type=4&query=fanatic", "word": "fanatic"}, {"id": "2499", "link": "/find?type=4&query=fanatical", "word": "fanatical"}, {"id": "2500", "link": "/find?type=4&query=fanaticism", "word": "fanaticism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10287",
+                "link": "/find?type=3&query=fanatic",
+                "word": "fanatic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34100",
+                "link": "/find?type=1&query=fanatic",
+                "word": "fanatic"
+            },
+            {
+                "id": "34101",
+                "link": "/find?type=1&query=fanatical",
+                "word": "fanatical"
+            },
+            {
+                "id": "34102",
+                "link": "/find?type=1&query=fanatically",
+                "word": "fanatically"
+            },
+            {
+                "id": "34103",
+                "link": "/find?type=1&query=fanaticise",
+                "word": "fanaticise"
+            },
+            {
+                "id": "34104",
+                "link": "/find?type=1&query=fanaticism",
+                "word": "fanaticism"
+            },
+            {
+                "id": "34105",
+                "link": "/find?type=1&query=fanaticize",
+                "word": "fanaticize"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2498",
+                "link": "/find?type=4&query=fanatic",
+                "word": "fanatic"
+            },
+            {
+                "id": "2499",
+                "link": "/find?type=4&query=fanatical",
+                "word": "fanatical"
+            },
+            {
+                "id": "2500",
+                "link": "/find?type=4&query=fanaticism",
+                "word": "fanaticism"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "34072", "link": "/find?type=1&query=famished", "word": "famished"}], "data": {"word": "famish", "id": "34072", "pronounce": "/'f\u00e6mi\u0283/", "type": "N\u1ed9i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00f3i kh\u1ed5 c\u00f9ng c\u1ef1c</div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) l\u00e0m ch\u1ebft \u0111\u00f3i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10278", "link": "/find?type=3&query=famished", "word": "famished"}], "data": {}}, "synonyms": {"suggests": [{"id": "2494", "link": "/find?type=4&query=famished", "word": "famished"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10278",
+                "link": "/find?type=3&query=famished",
+                "word": "famished"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00f3i kh\u1ed5 c\u00f9ng c\u1ef1c</div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) l\u00e0m ch\u1ebft \u0111\u00f3i</div>",
+            "id": "34072",
+            "mean": [],
+            "pronounce": "/'f\u00e6mi\u0283/",
+            "speak": {},
+            "type": "N\u1ed9i \u0111\u1ed9ng t\u1eeb",
+            "word": "famish"
+        },
+        "suggests": [
+            {
+                "id": "34072",
+                "link": "/find?type=1&query=famished",
+                "word": "famished"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2494",
+                "link": "/find?type=4&query=famished",
+                "word": "famished"
+            }
+        ]
+    }
+}
