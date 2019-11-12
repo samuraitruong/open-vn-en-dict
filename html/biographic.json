@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "9383", "link": "/find?type=1&query=biographic%5Bal%5D", "word": "biographic[al]"}, {"id": "9383", "link": "/find?type=1&query=biographical", "word": "biographical"}, {"id": "9383", "link": "/find?type=1&query=biographically", "word": "biographically"}], "data": {"word": "biographic", "id": "9383", "pronounce": "/baiou'gr\u00e6fik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) ti\u1ec3u s\u1eed</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2635", "link": "/find?type=3&query=biographical", "word": "biographical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2635",
+                "link": "/find?type=3&query=biographical",
+                "word": "biographical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) ti\u1ec3u s\u1eed</div>",
+            "id": "9383",
+            "mean": [],
+            "pronounce": "/baiou'gr\u00e6fik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "biographic"
+        },
+        "suggests": [
+            {
+                "id": "9383",
+                "link": "/find?type=1&query=biographic%5Bal%5D",
+                "word": "biographic[al]"
+            },
+            {
+                "id": "9383",
+                "link": "/find?type=1&query=biographical",
+                "word": "biographical"
+            },
+            {
+                "id": "9383",
+                "link": "/find?type=1&query=biographically",
+                "word": "biographically"
+            }
+        ]
+    }
+}

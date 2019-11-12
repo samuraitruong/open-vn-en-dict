@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "9430", "link": "/find?type=1&query=biotechnical", "word": "biotechnical"}, {"id": "9431", "link": "/find?type=1&query=biotechnological", "word": "biotechnological"}, {"id": "9432", "link": "/find?type=1&query=biotechnology", "word": "biotechnology"}], "data": {}}, "en_en": {"suggests": [{"id": "2649", "link": "/find?type=3&query=biotechnology", "word": "biotechnology"}], "data": {"word": "biotech", "id": "2649", "pronounce": "/\u02c8bajo\u028a\u02cct\u025bk/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :biotechnology</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :biotechnology</div>",
+            "id": "2649",
+            "mean": [],
+            "pronounce": "/\u02c8bajo\u028a\u02cct\u025bk/",
+            "type": "noun",
+            "word": "biotech"
+        },
+        "suggests": [
+            {
+                "id": "2649",
+                "link": "/find?type=3&query=biotechnology",
+                "word": "biotechnology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9430",
+                "link": "/find?type=1&query=biotechnical",
+                "word": "biotechnical"
+            },
+            {
+                "id": "9431",
+                "link": "/find?type=1&query=biotechnological",
+                "word": "biotechnological"
+            },
+            {
+                "id": "9432",
+                "link": "/find?type=1&query=biotechnology",
+                "word": "biotechnology"
+            }
+        ]
+    }
+}

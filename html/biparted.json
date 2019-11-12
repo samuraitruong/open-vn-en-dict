@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "9434", "link": "/find?type=1&query=bipartisan", "word": "bipartisan"}, {"id": "9434", "link": "/find?type=1&query=bipartisanism", "word": "bipartisanism"}, {"id": "9434", "link": "/find?type=1&query=bipartisanship", "word": "bipartisanship"}, {"id": "9434", "link": "/find?type=1&query=bipartite", "word": "bipartite"}, {"id": "9434", "link": "/find?type=1&query=bipartitely", "word": "bipartitely"}, {"id": "9434", "link": "/find?type=1&query=bipartition", "word": "bipartition"}], "data": {"word": "bipart", "id": "9434", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">hai t\u1ea7ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2651", "link": "/find?type=3&query=bipartisan", "word": "bipartisan"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2651",
+                "link": "/find?type=3&query=bipartisan",
+                "word": "bipartisan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">hai t\u1ea7ng</div>",
+            "id": "9434",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "bipart"
+        },
+        "suggests": [
+            {
+                "id": "9434",
+                "link": "/find?type=1&query=bipartisan",
+                "word": "bipartisan"
+            },
+            {
+                "id": "9434",
+                "link": "/find?type=1&query=bipartisanism",
+                "word": "bipartisanism"
+            },
+            {
+                "id": "9434",
+                "link": "/find?type=1&query=bipartisanship",
+                "word": "bipartisanship"
+            },
+            {
+                "id": "9434",
+                "link": "/find?type=1&query=bipartite",
+                "word": "bipartite"
+            },
+            {
+                "id": "9434",
+                "link": "/find?type=1&query=bipartitely",
+                "word": "bipartitely"
+            },
+            {
+                "id": "9434",
+                "link": "/find?type=1&query=bipartition",
+                "word": "bipartition"
+            }
+        ]
+    }
+}

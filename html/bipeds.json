@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "9441", "link": "/find?type=1&query=bipedal", "word": "bipedal"}], "data": {"word": "biped", "id": "9441", "pronounce": "/'baiped/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng v\u1eadt hai ch\u00e2n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b13303201be74dcc85844a200ef0614f/16e5dd70aef/B/biped.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d2710859d14a4fe74f214809e505be6c/16e5dd710a3/B/biped.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "biped", "id": "2652", "pronounce": "/\u02c8ba\u026a\u02ccp\u025bd/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -peds</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a 2-footed animal</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Human beings are bipeds. - compare quadruped</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -peds</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a 2-footed animal</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Human beings are bipeds. - compare quadruped</div>",
+            "id": "2652",
+            "mean": [],
+            "pronounce": "/\u02c8ba\u026a\u02ccp\u025bd/",
+            "type": "noun",
+            "word": "biped"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng v\u1eadt hai ch\u00e2n</div>",
+            "id": "9441",
+            "mean": [],
+            "pronounce": "/'baiped/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/afd64aa238417d4d368b847072f52b0f/16e5eb931f2/B/biped.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6533ee6f422edcf469cae11ebc491ab5/16e5eb92cdd/B/biped.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "biped"
+        },
+        "suggests": [
+            {
+                "id": "9441",
+                "link": "/find?type=1&query=bipedal",
+                "word": "bipedal"
+            }
+        ]
+    }
+}

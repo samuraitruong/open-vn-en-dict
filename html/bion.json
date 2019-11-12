@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "9407", "link": "/find?type=1&query=bionic", "word": "bionic"}, {"id": "9408", "link": "/find?type=1&query=bionics", "word": "bionics"}, {"id": "9409", "link": "/find?type=1&query=bionomics", "word": "bionomics"}], "data": {}}, "en_en": {"suggests": [{"id": "2644", "link": "/find?type=3&query=bionic", "word": "bionic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2644",
+                "link": "/find?type=3&query=bionic",
+                "word": "bionic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9407",
+                "link": "/find?type=1&query=bionic",
+                "word": "bionic"
+            },
+            {
+                "id": "9408",
+                "link": "/find?type=1&query=bionics",
+                "word": "bionics"
+            },
+            {
+                "id": "9409",
+                "link": "/find?type=1&query=bionomics",
+                "word": "bionomics"
+            }
+        ]
+    }
+}
