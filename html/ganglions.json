@@ -1,1 +1,49 @@
-{"error": 0, "query": "ganglions", "enViData": {"suggests": [{"id": "38970", "link": "/find?type=1&query=ganglionated", "word": "ganglionated"}, {"id": "38970", "link": "/find?type=1&query=ganglioneural", "word": "ganglioneural"}, {"id": "38970", "link": "/find?type=1&query=ganglioneuron", "word": "ganglioneuron"}, {"id": "38970", "link": "/find?type=1&query=ganglionic", "word": "ganglionic"}], "best": {"id": "38970", "details": "\n<div id=\"find_word_38970\" class=\"world word_en\" rel=\"ganglion\">\n    <h2 class=\"fl\">ganglion <span class=\"color-black\">/'g\u00e6\u03b7gli\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38970\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38970\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u ganglions, ganlia) (gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ea1ch</div>\n    \n</div>\n", "link": "/find?type=1&query=ganglion", "word": "ganglion"}}, "mUrl": "/find?type=1&query=ganglions", "enEnData": {"suggests": [], "best": {"id": "11794", "details": "\n<div id=\"find_word_11794\" class=\"world word_en\" rel=\"ganglion\">\n    <h2 class=\"fl\">ganglion <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11794\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11794\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8g\u00e6\u014bglij\u0259n/ , pl -glia /-glij\u0259/ also -glions</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a mass of nerve cells</div>\n    \n</div>\n", "link": "/find?type=3&query=ganglion", "word": "ganglion"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8g\u00e6\u014bglij\u0259n/ , pl -glia /-glij\u0259/ also -glions</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a mass of nerve cells</div>",
+            "id": "11794",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "ganglion"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u ganglions, ganlia) (gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ea1ch</div>",
+            "id": "38970",
+            "mean": [],
+            "pronounce": "/'g\u00e6\u03b7gli\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b551c6553cb02af238425ff5b76040fa/16e60c7fac8/G/ganglion.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/63eb92d745138bd5a69223670f79f130/16e60c7f2c6/G/ganglion.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ganglion"
+        },
+        "suggests": [
+            {
+                "id": "38970",
+                "link": "/find?type=1&query=ganglionated",
+                "word": "ganglionated"
+            },
+            {
+                "id": "38970",
+                "link": "/find?type=1&query=ganglioneural",
+                "word": "ganglioneural"
+            },
+            {
+                "id": "38970",
+                "link": "/find?type=1&query=ganglioneuron",
+                "word": "ganglioneuron"
+            },
+            {
+                "id": "38970",
+                "link": "/find?type=1&query=ganglionic",
+                "word": "ganglionic"
+            }
+        ]
+    }
+}
