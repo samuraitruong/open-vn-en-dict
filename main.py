@@ -43,7 +43,7 @@ def parseHtml(input, fetchVoice=False):
     json["type"] = html("div.bg-grey.bold.font-large.m-top20").text()
     json["mean"] = html(".green.bold.margin25.m-top15")
     json["content"] = html("#content_selectable").html().replace(
-        "https://dict.laban.vn", "")
+        "https://dict.laban.vn", "").strip()
     if fetchVoice:
         json["speak"] = {}
         downloadVoice(json, "us")
@@ -132,7 +132,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                 with open(fileName, 'w+') as outfile:
                     outfile.seek(0)
                     outfile.truncate()
-                    json.dump(html, ourFile, indent=4, sort_keys=True)
+                    json.dump(html, outfile, indent=4, sort_keys=True)
         # except requests..exceptions.ConnectionError:
         #    print('%r generated an exception: %s' % (url, exc))
         except Exception as exc:
