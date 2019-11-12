@@ -1,1 +1,54 @@
-{"error": 0, "query": "hanger", "enViData": {"suggests": [{"id": "42724", "link": "/find?type=1&query=hanger-on", "word": "hanger-on"}, {"id": "42724", "link": "/find?type=1&query=hangers-on", "word": "hangers-on"}], "best": {"id": "42724", "details": "\n<div id=\"find_word_42724\" class=\"world word_en\" rel=\"hanger\">\n    <h2 class=\"fl\">hanger <span class=\"color-black\">/'h\u00e6\u03b7g\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42724\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42724\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng nh\u01b0 cloth-hanger, coat-hanger)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i m\u1eafc \u00e1o</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3c treo, v\u00f2ng d\u00e2y treo</div>\n    \n</div>\n", "link": "/find?type=1&query=hanger", "word": "hanger"}}, "mUrl": "/find?type=1&query=hanger", "enEnData": {"suggests": [{"id": "13029", "link": "/find?type=3&query=hanger-on", "word": "hanger-on"}], "best": {"id": "13029", "details": "\n<div id=\"find_word_13029\" class=\"world word_en\" rel=\"hanger\">\n    <h2 class=\"fl\">hanger <span class=\"color-black\">/\u02c8h\u00e6\u014b\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13029\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13029\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a usually curved piece of metal, plastic, or wood that is used for hanging clothing</div>\n    \n</div>\n", "link": "/find?type=3&query=hanger", "word": "hanger"}}, "ftype": "1", "synData": {"suggests": [{"id": "3197", "link": "/find?type=4&query=hanger-on", "word": "hanger-on"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a usually curved piece of metal, plastic, or wood that is used for hanging clothing</div>",
+            "id": "13029",
+            "mean": [],
+            "pronounce": "/\u02c8h\u00e6\u014b\u025a/",
+            "type": "noun",
+            "word": "hanger"
+        },
+        "suggests": [
+            {
+                "id": "13029",
+                "link": "/find?type=3&query=hanger-on",
+                "word": "hanger-on"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng nh\u01b0 cloth-hanger, coat-hanger)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i m\u1eafc \u00e1o</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3c treo, v\u00f2ng d\u00e2y treo</div>",
+            "id": "42724",
+            "mean": [],
+            "pronounce": "/'h\u00e6\u03b7g\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a7d5303a15fd583e380a27c5f8da09af/16e61613b1b/H/hanger.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hanger"
+        },
+        "suggests": [
+            {
+                "id": "42724",
+                "link": "/find?type=1&query=hanger-on",
+                "word": "hanger-on"
+            },
+            {
+                "id": "42724",
+                "link": "/find?type=1&query=hangers-on",
+                "word": "hangers-on"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3197",
+                "link": "/find?type=4&query=hanger-on",
+                "word": "hanger-on"
+            }
+        ]
+    }
+}
