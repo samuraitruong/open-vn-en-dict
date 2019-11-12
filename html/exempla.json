@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "32873", "link": "/find?type=1&query=exemplar", "word": "exemplar"}, {"id": "32874", "link": "/find?type=1&query=exemplarily", "word": "exemplarily"}, {"id": "32875", "link": "/find?type=1&query=exemplariness", "word": "exemplariness"}, {"id": "32876", "link": "/find?type=1&query=exemplarity", "word": "exemplarity"}, {"id": "32877", "link": "/find?type=1&query=exemplary", "word": "exemplary"}], "data": {}}, "en_en": {"suggests": [{"id": "9968", "link": "/find?type=3&query=exemplar", "word": "exemplar"}, {"id": "9969", "link": "/find?type=3&query=exemplary", "word": "exemplary"}], "data": {}}, "synonyms": {"suggests": [{"id": "2348", "link": "/find?type=4&query=exemplary", "word": "exemplary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9968",
+                "link": "/find?type=3&query=exemplar",
+                "word": "exemplar"
+            },
+            {
+                "id": "9969",
+                "link": "/find?type=3&query=exemplary",
+                "word": "exemplary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32873",
+                "link": "/find?type=1&query=exemplar",
+                "word": "exemplar"
+            },
+            {
+                "id": "32874",
+                "link": "/find?type=1&query=exemplarily",
+                "word": "exemplarily"
+            },
+            {
+                "id": "32875",
+                "link": "/find?type=1&query=exemplariness",
+                "word": "exemplariness"
+            },
+            {
+                "id": "32876",
+                "link": "/find?type=1&query=exemplarity",
+                "word": "exemplarity"
+            },
+            {
+                "id": "32877",
+                "link": "/find?type=1&query=exemplary",
+                "word": "exemplary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2348",
+                "link": "/find?type=4&query=exemplary",
+                "word": "exemplary"
+            }
+        ]
+    }
+}
