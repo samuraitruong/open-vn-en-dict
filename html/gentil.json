@@ -1,1 +1,42 @@
-{"error": 0, "query": "gentil", "enViData": {"suggests": [{"id": "39589", "link": "/find?type=1&query=gentile", "word": "gentile"}, {"id": "39590", "link": "/find?type=1&query=gentilesse", "word": "gentilesse"}, {"id": "39591", "link": "/find?type=1&query=gentilism", "word": "gentilism"}, {"id": "39592", "link": "/find?type=1&query=gentility", "word": "gentility"}]}, "mUrl": "/find?type=1&query=gentil", "enEnData": {"suggests": [{"id": "11976", "link": "/find?type=3&query=gentile", "word": "gentile"}, {"id": "11977", "link": "/find?type=3&query=gentility", "word": "gentility"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11976",
+                "link": "/find?type=3&query=gentile",
+                "word": "gentile"
+            },
+            {
+                "id": "11977",
+                "link": "/find?type=3&query=gentility",
+                "word": "gentility"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39589",
+                "link": "/find?type=1&query=gentile",
+                "word": "gentile"
+            },
+            {
+                "id": "39590",
+                "link": "/find?type=1&query=gentilesse",
+                "word": "gentilesse"
+            },
+            {
+                "id": "39591",
+                "link": "/find?type=1&query=gentilism",
+                "word": "gentilism"
+            },
+            {
+                "id": "39592",
+                "link": "/find?type=1&query=gentility",
+                "word": "gentility"
+            }
+        ]
+    }
+}

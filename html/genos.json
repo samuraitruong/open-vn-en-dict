@@ -1,1 +1,52 @@
-{"error": 0, "query": "genos", "enViData": {"suggests": [{"id": "39573", "link": "/find?type=1&query=genoblast", "word": "genoblast"}, {"id": "39574", "link": "/find?type=1&query=genocide", "word": "genocide"}, {"id": "39575", "link": "/find?type=1&query=genocline", "word": "genocline"}, {"id": "39576", "link": "/find?type=1&query=genoholotype", "word": "genoholotype"}, {"id": "39577", "link": "/find?type=1&query=genom", "word": "genom"}, {"id": "39578", "link": "/find?type=1&query=genomic", "word": "genomic"}, {"id": "39579", "link": "/find?type=1&query=genotype", "word": "genotype"}]}, "mUrl": "/find?type=1&query=genos", "enEnData": {"suggests": [{"id": "11972", "link": "/find?type=3&query=genocide", "word": "genocide"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11972",
+                "link": "/find?type=3&query=genocide",
+                "word": "genocide"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39573",
+                "link": "/find?type=1&query=genoblast",
+                "word": "genoblast"
+            },
+            {
+                "id": "39574",
+                "link": "/find?type=1&query=genocide",
+                "word": "genocide"
+            },
+            {
+                "id": "39575",
+                "link": "/find?type=1&query=genocline",
+                "word": "genocline"
+            },
+            {
+                "id": "39576",
+                "link": "/find?type=1&query=genoholotype",
+                "word": "genoholotype"
+            },
+            {
+                "id": "39577",
+                "link": "/find?type=1&query=genom",
+                "word": "genom"
+            },
+            {
+                "id": "39578",
+                "link": "/find?type=1&query=genomic",
+                "word": "genomic"
+            },
+            {
+                "id": "39579",
+                "link": "/find?type=1&query=genotype",
+                "word": "genotype"
+            }
+        ]
+    }
+}
