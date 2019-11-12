@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "24224", "link": "/find?type=1&query=depositor", "word": "depositor"}, {"id": "24225", "link": "/find?type=1&query=depository", "word": "depository"}, {"id": "24226", "link": "/find?type=1&query=Depository+Institution+Deregulation+and+Monetary+Control+Act+of+1980+%28DIDMCA%29", "word": "Depository Institution Deregulation and Monetary Control Act of 1980 (DIDMCA)"}], "data": {}}, "en_en": {"suggests": [{"id": "7696", "link": "/find?type=3&query=depository", "word": "depository"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7696",
+                "link": "/find?type=3&query=depository",
+                "word": "depository"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24224",
+                "link": "/find?type=1&query=depositor",
+                "word": "depositor"
+            },
+            {
+                "id": "24225",
+                "link": "/find?type=1&query=depository",
+                "word": "depository"
+            },
+            {
+                "id": "24226",
+                "link": "/find?type=1&query=Depository+Institution+Deregulation+and+Monetary+Control+Act+of+1980+%28DIDMCA%29",
+                "word": "Depository Institution Deregulation and Monetary Control Act of 1980 (DIDMCA)"
+            }
+        ]
+    }
+}
