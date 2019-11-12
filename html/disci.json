@@ -1,1 +1,105 @@
-{"en_vn": {"suggests": [{"id": "25882", "link": "/find?type=1&query=disciform", "word": "disciform"}, {"id": "25882", "link": "/find?type=1&query=disciple", "word": "disciple"}, {"id": "25882", "link": "/find?type=1&query=disciplinable", "word": "disciplinable"}, {"id": "25882", "link": "/find?type=1&query=disciplinal", "word": "disciplinal"}, {"id": "25882", "link": "/find?type=1&query=disciplinarian", "word": "disciplinarian"}, {"id": "25882", "link": "/find?type=1&query=disciplinary", "word": "disciplinary"}, {"id": "25882", "link": "/find?type=1&query=discipline", "word": "discipline"}, {"id": "25882", "link": "/find?type=1&query=disciplined", "word": "disciplined"}, {"id": "25882", "link": "/find?type=1&query=discipular", "word": "discipular"}], "data": {"word": "disci", "id": "25882", "pronounce": "/'disk\u0259s/", "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u disci", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u disci</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ec3 d\u1ee5c,th\u1ec3 thao) \u0111\u0129a</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8142", "link": "/find?type=3&query=disciple", "word": "disciple"}, {"id": "8143", "link": "/find?type=3&query=disciplinarian", "word": "disciplinarian"}, {"id": "8144", "link": "/find?type=3&query=disciplinary", "word": "disciplinary"}, {"id": "8145", "link": "/find?type=3&query=discipline", "word": "discipline"}], "data": {}}, "synonyms": {"suggests": [{"id": "1713", "link": "/find?type=4&query=disciple", "word": "disciple"}, {"id": "1714", "link": "/find?type=4&query=disciplinarian", "word": "disciplinarian"}, {"id": "1715", "link": "/find?type=4&query=discipline", "word": "discipline"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8142",
+                "link": "/find?type=3&query=disciple",
+                "word": "disciple"
+            },
+            {
+                "id": "8143",
+                "link": "/find?type=3&query=disciplinarian",
+                "word": "disciplinarian"
+            },
+            {
+                "id": "8144",
+                "link": "/find?type=3&query=disciplinary",
+                "word": "disciplinary"
+            },
+            {
+                "id": "8145",
+                "link": "/find?type=3&query=discipline",
+                "word": "discipline"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u disci</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ec3 d\u1ee5c,th\u1ec3 thao) \u0111\u0129a</div>",
+            "id": "25882",
+            "mean": [],
+            "pronounce": "/'disk\u0259s/",
+            "speak": {},
+            "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u disci",
+            "word": "disci"
+        },
+        "suggests": [
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciform",
+                "word": "disciform"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciple",
+                "word": "disciple"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciplinable",
+                "word": "disciplinable"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciplinal",
+                "word": "disciplinal"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciplinarian",
+                "word": "disciplinarian"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciplinary",
+                "word": "disciplinary"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=discipline",
+                "word": "discipline"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=disciplined",
+                "word": "disciplined"
+            },
+            {
+                "id": "25882",
+                "link": "/find?type=1&query=discipular",
+                "word": "discipular"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1713",
+                "link": "/find?type=4&query=disciple",
+                "word": "disciple"
+            },
+            {
+                "id": "1714",
+                "link": "/find?type=4&query=disciplinarian",
+                "word": "disciplinarian"
+            },
+            {
+                "id": "1715",
+                "link": "/find?type=4&query=discipline",
+                "word": "discipline"
+            }
+        ]
+    }
+}
