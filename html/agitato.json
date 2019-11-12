@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2050", "link": "/find?type=1&query=agitator", "word": "agitator"}], "data": {}}, "en_en": {"suggests": [{"id": "521", "link": "/find?type=3&query=agitator", "word": "agitator"}], "data": {}}, "synonyms": {"suggests": [{"id": "167", "link": "/find?type=4&query=agitator", "word": "agitator"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "521",
+                "link": "/find?type=3&query=agitator",
+                "word": "agitator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2050",
+                "link": "/find?type=1&query=agitator",
+                "word": "agitator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "167",
+                "link": "/find?type=4&query=agitator",
+                "word": "agitator"
+            }
+        ]
+    }
+}

@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "1974", "link": "/find?type=1&query=agency", "word": "agency"}, {"id": "1975", "link": "/find?type=1&query=Agency+for+International+Development", "word": "Agency for International Development"}, {"id": "1976", "link": "/find?type=1&query=Agency+shop", "word": "Agency shop"}, {"id": "1977", "link": "/find?type=1&query=agenda", "word": "agenda"}, {"id": "1978", "link": "/find?type=1&query=agenesia", "word": "agenesia"}, {"id": "1979", "link": "/find?type=1&query=agent", "word": "agent"}, {"id": "1980", "link": "/find?type=1&query=agent+provocateur", "word": "agent provocateur"}], "data": {}}, "en_en": {"suggests": [{"id": "501", "link": "/find?type=3&query=agency", "word": "agency"}, {"id": "502", "link": "/find?type=3&query=agenda", "word": "agenda"}, {"id": "503", "link": "/find?type=3&query=agent", "word": "agent"}, {"id": "504", "link": "/find?type=3&query=agent+provocateur", "word": "agent provocateur"}], "data": {}}, "synonyms": {"suggests": [{"id": "157", "link": "/find?type=4&query=agency", "word": "agency"}, {"id": "158", "link": "/find?type=4&query=agent", "word": "agent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "501",
+                "link": "/find?type=3&query=agency",
+                "word": "agency"
+            },
+            {
+                "id": "502",
+                "link": "/find?type=3&query=agenda",
+                "word": "agenda"
+            },
+            {
+                "id": "503",
+                "link": "/find?type=3&query=agent",
+                "word": "agent"
+            },
+            {
+                "id": "504",
+                "link": "/find?type=3&query=agent+provocateur",
+                "word": "agent provocateur"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1974",
+                "link": "/find?type=1&query=agency",
+                "word": "agency"
+            },
+            {
+                "id": "1975",
+                "link": "/find?type=1&query=Agency+for+International+Development",
+                "word": "Agency for International Development"
+            },
+            {
+                "id": "1976",
+                "link": "/find?type=1&query=Agency+shop",
+                "word": "Agency shop"
+            },
+            {
+                "id": "1977",
+                "link": "/find?type=1&query=agenda",
+                "word": "agenda"
+            },
+            {
+                "id": "1978",
+                "link": "/find?type=1&query=agenesia",
+                "word": "agenesia"
+            },
+            {
+                "id": "1979",
+                "link": "/find?type=1&query=agent",
+                "word": "agent"
+            },
+            {
+                "id": "1980",
+                "link": "/find?type=1&query=agent+provocateur",
+                "word": "agent provocateur"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "157",
+                "link": "/find?type=4&query=agency",
+                "word": "agency"
+            },
+            {
+                "id": "158",
+                "link": "/find?type=4&query=agent",
+                "word": "agent"
+            }
+        ]
+    }
+}

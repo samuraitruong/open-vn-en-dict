@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "1954", "link": "/find?type=1&query=agastric", "word": "agastric"}], "data": {}}, "en_en": {"suggests": [{"id": "490", "link": "/find?type=3&query=again", "word": "again"}, {"id": "491", "link": "/find?type=3&query=against", "word": "against"}, {"id": "492", "link": "/find?type=3&query=agape", "word": "agape"}, {"id": "493", "link": "/find?type=3&query=agate", "word": "agate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "490",
+                "link": "/find?type=3&query=again",
+                "word": "again"
+            },
+            {
+                "id": "491",
+                "link": "/find?type=3&query=against",
+                "word": "against"
+            },
+            {
+                "id": "492",
+                "link": "/find?type=3&query=agape",
+                "word": "agape"
+            },
+            {
+                "id": "493",
+                "link": "/find?type=3&query=agate",
+                "word": "agate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1954",
+                "link": "/find?type=1&query=agastric",
+                "word": "agastric"
+            }
+        ]
+    }
+}
