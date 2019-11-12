@@ -1,1 +1,42 @@
-{"error": 0, "query": "fulmina", "enViData": {"suggests": [{"id": "38383", "link": "/find?type=1&query=fulminant", "word": "fulminant"}, {"id": "38384", "link": "/find?type=1&query=fulminate", "word": "fulminate"}, {"id": "38385", "link": "/find?type=1&query=fulminating", "word": "fulminating"}, {"id": "38386", "link": "/find?type=1&query=fulmination", "word": "fulmination"}, {"id": "38387", "link": "/find?type=1&query=fulminatory", "word": "fulminatory"}]}, "mUrl": "/find?type=1&query=fulmina", "enEnData": {"suggests": [{"id": "11619", "link": "/find?type=3&query=fulminate", "word": "fulminate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11619",
+                "link": "/find?type=3&query=fulminate",
+                "word": "fulminate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38383",
+                "link": "/find?type=1&query=fulminant",
+                "word": "fulminant"
+            },
+            {
+                "id": "38384",
+                "link": "/find?type=1&query=fulminate",
+                "word": "fulminate"
+            },
+            {
+                "id": "38385",
+                "link": "/find?type=1&query=fulminating",
+                "word": "fulminating"
+            },
+            {
+                "id": "38386",
+                "link": "/find?type=1&query=fulmination",
+                "word": "fulmination"
+            },
+            {
+                "id": "38387",
+                "link": "/find?type=1&query=fulminatory",
+                "word": "fulminatory"
+            }
+        ]
+    }
+}
