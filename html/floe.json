@@ -1,1 +1,39 @@
-{"error": 0, "query": "floe", "enViData": {"suggests": [{"id": "36345", "link": "/find?type=1&query=floe-ice", "word": "floe-ice"}, {"id": "36345", "link": "/find?type=1&query=floeberg", "word": "floeberg"}], "best": {"id": "36345", "details": "\n<div id=\"find_word_36345\" class=\"world word_en\" rel=\"floe\">\n    <h2 class=\"fl\">floe <span class=\"color-black\">/fl\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"36345\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"36345\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ea3ng b\u0103ng n\u1ed5i</div>\n    \n</div>\n", "link": "/find?type=1&query=floe", "word": "floe"}}, "mUrl": "/find?type=1&query=floe", "enEnData": {"suggests": [], "best": {"id": "10933", "details": "\n<div id=\"find_word_10933\" class=\"world word_en\" rel=\"floe\">\n    <h2 class=\"fl\">floe <span class=\"color-black\">/\u02c8flo\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"10933\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"10933\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural floes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a sheet or mass of floating ice :ice floe</div>\n    \n</div>\n", "link": "/find?type=3&query=floe", "word": "floe"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural floes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a sheet or mass of floating ice :ice floe</div>",
+            "id": "10933",
+            "mean": [],
+            "pronounce": "/\u02c8flo\u028a/",
+            "type": "noun",
+            "word": "floe"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ea3ng b\u0103ng n\u1ed5i</div>",
+            "id": "36345",
+            "mean": [],
+            "pronounce": "/fl\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/905edb26104c6a8cadc3f20d780eea70/16e60653d00/F/floe.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/32db3c119e980c495cec3a364ad75fc0/16e60653507/F/floe.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "floe"
+        },
+        "suggests": [
+            {
+                "id": "36345",
+                "link": "/find?type=1&query=floe-ice",
+                "word": "floe-ice"
+            },
+            {
+                "id": "36345",
+                "link": "/find?type=1&query=floeberg",
+                "word": "floeberg"
+            }
+        ]
+    }
+}
