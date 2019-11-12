@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "19104", "link": "/find?type=1&query=contaminant", "word": "contaminant"}, {"id": "19105", "link": "/find?type=1&query=contaminate", "word": "contaminate"}, {"id": "19106", "link": "/find?type=1&query=contamination", "word": "contamination"}, {"id": "19107", "link": "/find?type=1&query=contaminative", "word": "contaminative"}, {"id": "19108", "link": "/find?type=1&query=contaminator", "word": "contaminator"}], "data": {}}, "en_en": {"suggests": [{"id": "6091", "link": "/find?type=3&query=contaminant", "word": "contaminant"}, {"id": "6092", "link": "/find?type=3&query=contaminate", "word": "contaminate"}], "data": {}}, "synonyms": {"suggests": [{"id": "1223", "link": "/find?type=4&query=contaminate", "word": "contaminate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6091",
+                "link": "/find?type=3&query=contaminant",
+                "word": "contaminant"
+            },
+            {
+                "id": "6092",
+                "link": "/find?type=3&query=contaminate",
+                "word": "contaminate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19104",
+                "link": "/find?type=1&query=contaminant",
+                "word": "contaminant"
+            },
+            {
+                "id": "19105",
+                "link": "/find?type=1&query=contaminate",
+                "word": "contaminate"
+            },
+            {
+                "id": "19106",
+                "link": "/find?type=1&query=contamination",
+                "word": "contamination"
+            },
+            {
+                "id": "19107",
+                "link": "/find?type=1&query=contaminative",
+                "word": "contaminative"
+            },
+            {
+                "id": "19108",
+                "link": "/find?type=1&query=contaminator",
+                "word": "contaminator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1223",
+                "link": "/find?type=4&query=contaminate",
+                "word": "contaminate"
+            }
+        ]
+    }
+}
