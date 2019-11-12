@@ -153,7 +153,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                 if delta > 1000:
                     delta = 0
                     print("Update logs files")
-                    with open(fileName, 'w+') as logFile:
+                    with open("logs.json", 'w+') as logFile:
                         logFile.seek(0)
                         logFile.truncate()
                         json.dump(logs, logFile, indent=4, sort_keys=True)
