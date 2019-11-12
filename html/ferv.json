@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "34864", "link": "/find?type=1&query=fervency", "word": "fervency"}, {"id": "34865", "link": "/find?type=1&query=fervent", "word": "fervent"}, {"id": "34866", "link": "/find?type=1&query=fervently", "word": "fervently"}, {"id": "34867", "link": "/find?type=1&query=fervescent", "word": "fervescent"}, {"id": "34868", "link": "/find?type=1&query=fervid", "word": "fervid"}, {"id": "34869", "link": "/find?type=1&query=fervidly", "word": "fervidly"}, {"id": "34870", "link": "/find?type=1&query=fervidness", "word": "fervidness"}, {"id": "34871", "link": "/find?type=1&query=fervidor", "word": "fervidor"}, {"id": "34872", "link": "/find?type=1&query=fervor", "word": "fervor"}, {"id": "34873", "link": "/find?type=1&query=fervour", "word": "fervour"}], "data": {}}, "en_en": {"suggests": [{"id": "10494", "link": "/find?type=3&query=fervent", "word": "fervent"}, {"id": "10495", "link": "/find?type=3&query=fervid", "word": "fervid"}, {"id": "10496", "link": "/find?type=3&query=fervor", "word": "fervor"}], "data": {}}, "synonyms": {"suggests": [{"id": "2579", "link": "/find?type=4&query=fervent", "word": "fervent"}, {"id": "2580", "link": "/find?type=4&query=fervour", "word": "fervour"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10494",
+                "link": "/find?type=3&query=fervent",
+                "word": "fervent"
+            },
+            {
+                "id": "10495",
+                "link": "/find?type=3&query=fervid",
+                "word": "fervid"
+            },
+            {
+                "id": "10496",
+                "link": "/find?type=3&query=fervor",
+                "word": "fervor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34864",
+                "link": "/find?type=1&query=fervency",
+                "word": "fervency"
+            },
+            {
+                "id": "34865",
+                "link": "/find?type=1&query=fervent",
+                "word": "fervent"
+            },
+            {
+                "id": "34866",
+                "link": "/find?type=1&query=fervently",
+                "word": "fervently"
+            },
+            {
+                "id": "34867",
+                "link": "/find?type=1&query=fervescent",
+                "word": "fervescent"
+            },
+            {
+                "id": "34868",
+                "link": "/find?type=1&query=fervid",
+                "word": "fervid"
+            },
+            {
+                "id": "34869",
+                "link": "/find?type=1&query=fervidly",
+                "word": "fervidly"
+            },
+            {
+                "id": "34870",
+                "link": "/find?type=1&query=fervidness",
+                "word": "fervidness"
+            },
+            {
+                "id": "34871",
+                "link": "/find?type=1&query=fervidor",
+                "word": "fervidor"
+            },
+            {
+                "id": "34872",
+                "link": "/find?type=1&query=fervor",
+                "word": "fervor"
+            },
+            {
+                "id": "34873",
+                "link": "/find?type=1&query=fervour",
+                "word": "fervour"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2579",
+                "link": "/find?type=4&query=fervent",
+                "word": "fervent"
+            },
+            {
+                "id": "2580",
+                "link": "/find?type=4&query=fervour",
+                "word": "fervour"
+            }
+        ]
+    }
+}
