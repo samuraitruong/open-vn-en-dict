@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "34591", "link": "/find?type=1&query=feetless", "word": "feetless"}], "data": {"word": "feet", "id": "34591", "pronounce": "/'fi:t/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u c\u1ee7a foot)</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=foot\">foot</a></span></div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/41665d0274106e486e045abaeaf0f957/16e5e211e98/F/feet.mp3"}}}, "en_en": {"suggests": [{"id": "10442", "link": "/find?type=3&query=feetfirst", "word": "feetfirst"}], "data": {"word": "feet", "id": "10442", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">plural of 1foot</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">plural of 1foot</div>",
+            "id": "10442",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "feet"
+        },
+        "suggests": [
+            {
+                "id": "10442",
+                "link": "/find?type=3&query=feetfirst",
+                "word": "feetfirst"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(s\u1ed1 nhi\u1ec1u c\u1ee7a foot)</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=foot\">foot</a></span></div>",
+            "id": "34591",
+            "mean": [],
+            "pronounce": "/'fi:t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e1e6d34416f9a42aec75d077a0f90dcb/16e602bfc72/F/feet.mp3"
+            },
+            "type": "",
+            "word": "feet"
+        },
+        "suggests": [
+            {
+                "id": "34591",
+                "link": "/find?type=1&query=feetless",
+                "word": "feetless"
+            }
+        ]
+    }
+}
