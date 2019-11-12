@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "20040", "link": "/find?type=1&query=corrupt", "word": "corrupt"}, {"id": "20041", "link": "/find?type=1&query=corrupter", "word": "corrupter"}, {"id": "20042", "link": "/find?type=1&query=corruptibility", "word": "corruptibility"}, {"id": "20043", "link": "/find?type=1&query=corruptible", "word": "corruptible"}, {"id": "20044", "link": "/find?type=1&query=corruptibleness", "word": "corruptibleness"}, {"id": "20045", "link": "/find?type=1&query=corruptibly", "word": "corruptibly"}, {"id": "20046", "link": "/find?type=1&query=corruption", "word": "corruption"}, {"id": "20047", "link": "/find?type=1&query=corruptive", "word": "corruptive"}, {"id": "20048", "link": "/find?type=1&query=corruptly", "word": "corruptly"}, {"id": "20049", "link": "/find?type=1&query=corruptness", "word": "corruptness"}], "data": {}}, "en_en": {"suggests": [{"id": "6376", "link": "/find?type=3&query=corrupt", "word": "corrupt"}, {"id": "6377", "link": "/find?type=3&query=corruption", "word": "corruption"}], "data": {}}, "synonyms": {"suggests": [{"id": "1274", "link": "/find?type=4&query=corrupt", "word": "corrupt"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6376",
+                "link": "/find?type=3&query=corrupt",
+                "word": "corrupt"
+            },
+            {
+                "id": "6377",
+                "link": "/find?type=3&query=corruption",
+                "word": "corruption"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20040",
+                "link": "/find?type=1&query=corrupt",
+                "word": "corrupt"
+            },
+            {
+                "id": "20041",
+                "link": "/find?type=1&query=corrupter",
+                "word": "corrupter"
+            },
+            {
+                "id": "20042",
+                "link": "/find?type=1&query=corruptibility",
+                "word": "corruptibility"
+            },
+            {
+                "id": "20043",
+                "link": "/find?type=1&query=corruptible",
+                "word": "corruptible"
+            },
+            {
+                "id": "20044",
+                "link": "/find?type=1&query=corruptibleness",
+                "word": "corruptibleness"
+            },
+            {
+                "id": "20045",
+                "link": "/find?type=1&query=corruptibly",
+                "word": "corruptibly"
+            },
+            {
+                "id": "20046",
+                "link": "/find?type=1&query=corruption",
+                "word": "corruption"
+            },
+            {
+                "id": "20047",
+                "link": "/find?type=1&query=corruptive",
+                "word": "corruptive"
+            },
+            {
+                "id": "20048",
+                "link": "/find?type=1&query=corruptly",
+                "word": "corruptly"
+            },
+            {
+                "id": "20049",
+                "link": "/find?type=1&query=corruptness",
+                "word": "corruptness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1274",
+                "link": "/find?type=4&query=corrupt",
+                "word": "corrupt"
+            }
+        ]
+    }
+}

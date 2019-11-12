@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "20106", "link": "/find?type=1&query=cosine", "word": "cosine"}, {"id": "20107", "link": "/find?type=1&query=cosine+potentiometer", "word": "cosine potentiometer"}, {"id": "20108", "link": "/find?type=1&query=cosiness", "word": "cosiness"}, {"id": "20109", "link": "/find?type=1&query=cosinusoid", "word": "cosinusoid"}], "data": {}}, "en_en": {"suggests": [{"id": "6389", "link": "/find?type=3&query=cosine", "word": "cosine"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6389",
+                "link": "/find?type=3&query=cosine",
+                "word": "cosine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20106",
+                "link": "/find?type=1&query=cosine",
+                "word": "cosine"
+            },
+            {
+                "id": "20107",
+                "link": "/find?type=1&query=cosine+potentiometer",
+                "word": "cosine potentiometer"
+            },
+            {
+                "id": "20108",
+                "link": "/find?type=1&query=cosiness",
+                "word": "cosiness"
+            },
+            {
+                "id": "20109",
+                "link": "/find?type=1&query=cosinusoid",
+                "word": "cosinusoid"
+            }
+        ]
+    }
+}

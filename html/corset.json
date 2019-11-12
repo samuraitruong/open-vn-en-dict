@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "20055", "link": "/find?type=1&query=corsetiere", "word": "corsetiere"}, {"id": "20055", "link": "/find?type=1&query=corsetry", "word": "corsetry"}], "data": {"word": "corset", "id": "20055", "pronounce": "/'k\u0254:sit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">coocxe, y\u1ebfm n\u1ecbt (c\u1ee7a n\u1eef)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8f4b92054938ff1553739732108679b8/16e5df85700/C/corset.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b3f819debfde2533ade7b51a912c3680/16e5df85c97/C/corset.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "corset", "id": "6380", "pronounce": "/\u02c8ko\u025as\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a tight, stiff piece of clothing worn by women under other clothing to make their waists appear smaller</div>\n    \n    <div class=\"green margin25 m-top15\">Corsets are no longer commonly worn.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a tight, stiff piece of clothing worn by women under other clothing to make their waists appear smaller</div>\n    \n    <div class=\"green margin25 m-top15\">Corsets are no longer commonly worn.</div>",
+            "id": "6380",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u025as\u0259t/",
+            "type": "noun",
+            "word": "corset"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">coocxe, y\u1ebfm n\u1ecbt (c\u1ee7a n\u1eef)</div>",
+            "id": "20055",
+            "mean": [],
+            "pronounce": "/'k\u0254:sit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7697dace498fedefe90740192bda34b2/16e5edc849a/C/corset.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b500cdaa96f34fd0aff6b2711b058f77/16e5edc7bd3/C/corset.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "corset"
+        },
+        "suggests": [
+            {
+                "id": "20055",
+                "link": "/find?type=1&query=corsetiere",
+                "word": "corsetiere"
+            },
+            {
+                "id": "20055",
+                "link": "/find?type=1&query=corsetry",
+                "word": "corsetry"
+            }
+        ]
+    }
+}

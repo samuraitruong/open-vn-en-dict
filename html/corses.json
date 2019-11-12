@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "20053", "link": "/find?type=1&query=corselet", "word": "corselet"}, {"id": "20053", "link": "/find?type=1&query=corset", "word": "corset"}, {"id": "20053", "link": "/find?type=1&query=corsetiere", "word": "corsetiere"}, {"id": "20053", "link": "/find?type=1&query=corsetry", "word": "corsetry"}], "data": {"word": "corse", "id": "20053", "pronounce": "/k\u0254:s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5), (th\u01a1 ca) x\u00e1c ch\u1ebft, thi h\u00e0i ((nh\u01b0) corpse)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6380", "link": "/find?type=3&query=corset", "word": "corset"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6380",
+                "link": "/find?type=3&query=corset",
+                "word": "corset"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5), (th\u01a1 ca) x\u00e1c ch\u1ebft, thi h\u00e0i ((nh\u01b0) corpse)</div>",
+            "id": "20053",
+            "mean": [],
+            "pronounce": "/k\u0254:s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "corse"
+        },
+        "suggests": [
+            {
+                "id": "20053",
+                "link": "/find?type=1&query=corselet",
+                "word": "corselet"
+            },
+            {
+                "id": "20053",
+                "link": "/find?type=1&query=corset",
+                "word": "corset"
+            },
+            {
+                "id": "20053",
+                "link": "/find?type=1&query=corsetiere",
+                "word": "corsetiere"
+            },
+            {
+                "id": "20053",
+                "link": "/find?type=1&query=corsetry",
+                "word": "corsetry"
+            }
+        ]
+    }
+}
