@@ -1,1 +1,32 @@
-{"error": 0, "query": "gant", "enViData": {"suggests": [{"id": "38987", "link": "/find?type=1&query=gantlet", "word": "gantlet"}, {"id": "38988", "link": "/find?type=1&query=gantry", "word": "gantry"}, {"id": "38989", "link": "/find?type=1&query=Gantt+chart", "word": "Gantt chart"}]}, "mUrl": "/find?type=1&query=gant", "enEnData": {"suggests": [{"id": "11804", "link": "/find?type=3&query=gantlet", "word": "gantlet"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11804",
+                "link": "/find?type=3&query=gantlet",
+                "word": "gantlet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38987",
+                "link": "/find?type=1&query=gantlet",
+                "word": "gantlet"
+            },
+            {
+                "id": "38988",
+                "link": "/find?type=1&query=gantry",
+                "word": "gantry"
+            },
+            {
+                "id": "38989",
+                "link": "/find?type=1&query=Gantt+chart",
+                "word": "Gantt chart"
+            }
+        ]
+    }
+}
