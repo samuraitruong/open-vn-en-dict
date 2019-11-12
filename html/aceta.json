@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "854", "link": "/find?type=1&query=acetabuliform", "word": "acetabuliform"}, {"id": "855", "link": "/find?type=1&query=acetabulum", "word": "acetabulum"}, {"id": "856", "link": "/find?type=1&query=acetate", "word": "acetate"}, {"id": "857", "link": "/find?type=1&query=acetate+film", "word": "acetate film"}], "data": {}}, "en_en": {"suggests": [{"id": "208", "link": "/find?type=3&query=acetaminophen", "word": "acetaminophen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "208",
+                "link": "/find?type=3&query=acetaminophen",
+                "word": "acetaminophen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "854",
+                "link": "/find?type=1&query=acetabuliform",
+                "word": "acetabuliform"
+            },
+            {
+                "id": "855",
+                "link": "/find?type=1&query=acetabulum",
+                "word": "acetabulum"
+            },
+            {
+                "id": "856",
+                "link": "/find?type=1&query=acetate",
+                "word": "acetate"
+            },
+            {
+                "id": "857",
+                "link": "/find?type=1&query=acetate+film",
+                "word": "acetate film"
+            }
+        ]
+    }
+}

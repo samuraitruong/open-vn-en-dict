@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "764", "link": "/find?type=1&query=accountantship", "word": "accountantship"}], "data": {"word": "accountant", "id": "764", "pronounce": "/\u0259'ka\u028ant\u0259nt/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebf to\u00e1n vi\u00ean</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ca9eb19d14558fdf596fcc79d90b6ddb/16e5db5d426/A/accountant.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ca32c9ef88c99d1b5cd8e4f63de9c616/16e5db5db66/A/accountant.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "accountant", "id": "187", "pronounce": "/\u0259\u02c8ka\u028antn\u0329t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tants</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone whose job is to keep the financial records of a business or person</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tants</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone whose job is to keep the financial records of a business or person</div>",
+            "id": "187",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8ka\u028antn\u0329t/",
+            "type": "noun",
+            "word": "accountant"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebf to\u00e1n vi\u00ean</div>",
+            "id": "764",
+            "mean": [],
+            "pronounce": "/\u0259'ka\u028ant\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f46b056136dffae271a9f08fca5a838e/16e5e9f9c39/A/accountant.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e32539c3bcedfd76d3ebddfbabb39b0f/16e5e9f9700/A/accountant.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "accountant"
+        },
+        "suggests": [
+            {
+                "id": "764",
+                "link": "/find?type=1&query=accountantship",
+                "word": "accountantship"
+            }
+        ]
+    }
+}

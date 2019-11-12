@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "845", "link": "/find?type=1&query=acerbate", "word": "acerbate"}, {"id": "846", "link": "/find?type=1&query=acerbic", "word": "acerbic"}, {"id": "847", "link": "/find?type=1&query=acerbically", "word": "acerbically"}, {"id": "848", "link": "/find?type=1&query=acerbity", "word": "acerbity"}], "data": {}}, "en_en": {"suggests": [{"id": "207", "link": "/find?type=3&query=acerbic", "word": "acerbic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "207",
+                "link": "/find?type=3&query=acerbic",
+                "word": "acerbic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "845",
+                "link": "/find?type=1&query=acerbate",
+                "word": "acerbate"
+            },
+            {
+                "id": "846",
+                "link": "/find?type=1&query=acerbic",
+                "word": "acerbic"
+            },
+            {
+                "id": "847",
+                "link": "/find?type=1&query=acerbically",
+                "word": "acerbically"
+            },
+            {
+                "id": "848",
+                "link": "/find?type=1&query=acerbity",
+                "word": "acerbity"
+            }
+        ]
+    }
+}

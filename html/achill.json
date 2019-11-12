@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "879", "link": "/find?type=1&query=Achilles", "word": "Achilles"}, {"id": "880", "link": "/find?type=1&query=achilles+heel", "word": "achilles heel"}, {"id": "881", "link": "/find?type=1&query=Achilles+tendon", "word": "Achilles tendon"}, {"id": "882", "link": "/find?type=1&query=achilles%27+tendon", "word": "achilles' tendon"}], "data": {}}, "en_en": {"suggests": [{"id": "214", "link": "/find?type=3&query=Achilles%27+heel", "word": "Achilles' heel"}, {"id": "215", "link": "/find?type=3&query=Achilles+tendon", "word": "Achilles tendon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "214",
+                "link": "/find?type=3&query=Achilles%27+heel",
+                "word": "Achilles' heel"
+            },
+            {
+                "id": "215",
+                "link": "/find?type=3&query=Achilles+tendon",
+                "word": "Achilles tendon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "879",
+                "link": "/find?type=1&query=Achilles",
+                "word": "Achilles"
+            },
+            {
+                "id": "880",
+                "link": "/find?type=1&query=achilles+heel",
+                "word": "achilles heel"
+            },
+            {
+                "id": "881",
+                "link": "/find?type=1&query=Achilles+tendon",
+                "word": "Achilles tendon"
+            },
+            {
+                "id": "882",
+                "link": "/find?type=1&query=achilles%27+tendon",
+                "word": "achilles' tendon"
+            }
+        ]
+    }
+}

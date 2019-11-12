@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "822", "link": "/find?type=1&query=accursed", "word": "accursed"}, {"id": "823", "link": "/find?type=1&query=accursedly", "word": "accursedly"}, {"id": "824", "link": "/find?type=1&query=accursedness", "word": "accursedness"}], "data": {}}, "en_en": {"suggests": [{"id": "198", "link": "/find?type=3&query=accursed", "word": "accursed"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "198",
+                "link": "/find?type=3&query=accursed",
+                "word": "accursed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "822",
+                "link": "/find?type=1&query=accursed",
+                "word": "accursed"
+            },
+            {
+                "id": "823",
+                "link": "/find?type=1&query=accursedly",
+                "word": "accursedly"
+            },
+            {
+                "id": "824",
+                "link": "/find?type=1&query=accursedness",
+                "word": "accursedness"
+            }
+        ]
+    }
+}
