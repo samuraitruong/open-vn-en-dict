@@ -1,1 +1,33 @@
-{"error": 0, "query": "integration", "enViData": {"suggests": [{"id": "49068", "link": "/find?type=1&query=integrationist", "word": "integrationist"}], "best": {"id": "49068", "details": "\n<div id=\"find_word_49068\" class=\"world word_en\" rel=\"integration\">\n    <h2 class=\"fl\">integration <span class=\"color-black\">/,inti'grei\u222bn/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"49068\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"49068\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u1ee3p nh\u1ea5t</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u1ed9i nh\u1eadp</div>\n    \n</div>\n", "link": "/find?type=1&query=integration", "word": "integration"}}, "mUrl": "/find?type=1&query=integration", "enEnData": {"suggests": [{"id": "15153", "link": "/find?type=3&query=integrationist", "word": "integrationist"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15153",
+                "link": "/find?type=3&query=integrationist",
+                "word": "integrationist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u1ee3p nh\u1ea5t</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u1ed9i nh\u1eadp</div>",
+            "id": "49068",
+            "mean": [],
+            "pronounce": "/,inti'grei\u222bn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4c02dcc884eda3497f26260a48c4a8f8/16e61cff5f2/I/integration.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f062c39f65443b49a25a642fa1deaa09/16e61cff026/I/integration.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "integration"
+        },
+        "suggests": [
+            {
+                "id": "49068",
+                "link": "/find?type=1&query=integrationist",
+                "word": "integrationist"
+            }
+        ]
+    }
+}

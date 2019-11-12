@@ -1,1 +1,34 @@
-{"error": 0, "query": "insurgent", "enViData": {"suggests": [{"id": "49017", "link": "/find?type=1&query=insurgently", "word": "insurgently"}], "best": {"id": "49017", "details": "\n<div id=\"find_word_49017\" class=\"world word_en\" rel=\"insurgent\">\n    <h2 class=\"fl\">insurgent <span class=\"color-black\">/in's\u025c:d\u0292\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"49017\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"49017\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ed5i d\u1eady; n\u1ed5i lo\u1ea1n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi n\u1ed5i d\u1eady; qu\u00e2n n\u1ed5i lo\u1ea1n</div>\n    \n</div>\n", "link": "/find?type=1&query=insurgent", "word": "insurgent"}}, "mUrl": "/find?type=1&query=insurgent", "enEnData": {"suggests": [], "best": {"id": "15142", "details": "\n<div id=\"find_word_15142\" class=\"world word_en\" rel=\"insurgent\">\n    <h2 class=\"fl\">insurgent <span class=\"color-black\">/\u026an\u02c8s\u025a\u02a4\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15142\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15142\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gents</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who fights against an established government or authority</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Insurgents are trying to gain control of the country's transportation system. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an insurgent group</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">insurgent attacks</div>\n    \n</div>\n", "link": "/find?type=3&query=insurgent", "word": "insurgent"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gents</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who fights against an established government or authority</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Insurgents are trying to gain control of the country's transportation system. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an insurgent group</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">insurgent attacks</div>",
+            "id": "15142",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8s\u025a\u02a4\u0259nt/",
+            "type": "noun",
+            "word": "insurgent"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ed5i d\u1eady; n\u1ed5i lo\u1ea1n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi n\u1ed5i d\u1eady; qu\u00e2n n\u1ed5i lo\u1ea1n</div>",
+            "id": "49017",
+            "mean": [],
+            "pronounce": "/in's\u025c:d\u0292\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bb265505656739cda0e209cb51ddad39/16e61cfd401/I/insurgent.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7c28021bfcb93b977f630170e82beba5/16e61cfcd67/I/insurgent.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "insurgent"
+        },
+        "suggests": [
+            {
+                "id": "49017",
+                "link": "/find?type=1&query=insurgently",
+                "word": "insurgently"
+            }
+        ]
+    }
+}

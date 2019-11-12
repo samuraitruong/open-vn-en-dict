@@ -1,1 +1,39 @@
-{"error": 0, "query": "integer", "enViData": {"suggests": [{"id": "49051", "link": "/find?type=1&query=Integerated+economy", "word": "Integerated economy"}, {"id": "49051", "link": "/find?type=1&query=Integerated+time+series", "word": "Integerated time series"}], "best": {"id": "49051", "details": "\n<div id=\"find_word_49051\" class=\"world word_en\" rel=\"integer\">\n    <h2 class=\"fl\">integer <span class=\"color-black\">/'intid\u0292\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"49051\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"49051\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">to\u00e1n h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nguy\u00ean</div>\n    \n</div>\n", "link": "/find?type=1&query=integer", "word": "integer"}}, "mUrl": "/find?type=1&query=integer", "enEnData": {"suggests": [], "best": {"id": "15148", "details": "\n<div id=\"find_word_15148\" class=\"world word_en\" rel=\"integer\">\n    <h2 class=\"fl\">integer <span class=\"color-black\">/\u02c8\u026ant\u026a\u02a4\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15148\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15148\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] mathematics :any number that is not a fraction or decimal :any whole number or its negative</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">positive and negative integers</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Both 10 and -10 are integers. - compare whole number</div>\n    \n</div>\n", "link": "/find?type=3&query=integer", "word": "integer"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] mathematics :any number that is not a fraction or decimal :any whole number or its negative</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">positive and negative integers</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Both 10 and -10 are integers. - compare whole number</div>",
+            "id": "15148",
+            "mean": [],
+            "pronounce": "/\u02c8\u026ant\u026a\u02a4\u025a/",
+            "type": "noun",
+            "word": "integer"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">to\u00e1n h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nguy\u00ean</div>",
+            "id": "49051",
+            "mean": [],
+            "pronounce": "/'intid\u0292\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ce9f1e922534131e80fb43be72bf41f7/16e61cfef7e/I/integer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f42a217abbc1d8a62c9ee032c6d79a2f/16e61cfe9a8/I/integer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "integer"
+        },
+        "suggests": [
+            {
+                "id": "49051",
+                "link": "/find?type=1&query=Integerated+economy",
+                "word": "Integerated economy"
+            },
+            {
+                "id": "49051",
+                "link": "/find?type=1&query=Integerated+time+series",
+                "word": "Integerated time series"
+            }
+        ]
+    }
+}

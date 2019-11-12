@@ -1,1 +1,52 @@
-{"error": 0, "query": "insurrect", "enViData": {"suggests": [{"id": "49024", "link": "/find?type=1&query=insurrection", "word": "insurrection"}, {"id": "49025", "link": "/find?type=1&query=insurrectional", "word": "insurrectional"}, {"id": "49026", "link": "/find?type=1&query=insurrectionary", "word": "insurrectionary"}, {"id": "49027", "link": "/find?type=1&query=insurrectionise", "word": "insurrectionise"}, {"id": "49028", "link": "/find?type=1&query=insurrectionism", "word": "insurrectionism"}, {"id": "49029", "link": "/find?type=1&query=insurrectionist", "word": "insurrectionist"}, {"id": "49030", "link": "/find?type=1&query=insurrectionize", "word": "insurrectionize"}]}, "mUrl": "/find?type=1&query=insurrect", "enEnData": {"suggests": [{"id": "15144", "link": "/find?type=3&query=insurrection", "word": "insurrection"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15144",
+                "link": "/find?type=3&query=insurrection",
+                "word": "insurrection"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "49024",
+                "link": "/find?type=1&query=insurrection",
+                "word": "insurrection"
+            },
+            {
+                "id": "49025",
+                "link": "/find?type=1&query=insurrectional",
+                "word": "insurrectional"
+            },
+            {
+                "id": "49026",
+                "link": "/find?type=1&query=insurrectionary",
+                "word": "insurrectionary"
+            },
+            {
+                "id": "49027",
+                "link": "/find?type=1&query=insurrectionise",
+                "word": "insurrectionise"
+            },
+            {
+                "id": "49028",
+                "link": "/find?type=1&query=insurrectionism",
+                "word": "insurrectionism"
+            },
+            {
+                "id": "49029",
+                "link": "/find?type=1&query=insurrectionist",
+                "word": "insurrectionist"
+            },
+            {
+                "id": "49030",
+                "link": "/find?type=1&query=insurrectionize",
+                "word": "insurrectionize"
+            }
+        ]
+    }
+}
