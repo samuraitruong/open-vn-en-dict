@@ -1,1 +1,42 @@
-{"error": 0, "query": "hak", "enViData": {"suggests": [{"id": "42413", "link": "/find?type=1&query=haka", "word": "haka"}, {"id": "42414", "link": "/find?type=1&query=hake", "word": "hake"}, {"id": "42415", "link": "/find?type=1&query=hakeem", "word": "hakeem"}, {"id": "42416", "link": "/find?type=1&query=hakenkreuz", "word": "hakenkreuz"}, {"id": "42417", "link": "/find?type=1&query=hakim", "word": "hakim"}]}, "mUrl": "/find?type=1&query=hak", "enEnData": {"suggests": [{"id": "12897", "link": "/find?type=3&query=hake", "word": "hake"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12897",
+                "link": "/find?type=3&query=hake",
+                "word": "hake"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42413",
+                "link": "/find?type=1&query=haka",
+                "word": "haka"
+            },
+            {
+                "id": "42414",
+                "link": "/find?type=1&query=hake",
+                "word": "hake"
+            },
+            {
+                "id": "42415",
+                "link": "/find?type=1&query=hakeem",
+                "word": "hakeem"
+            },
+            {
+                "id": "42416",
+                "link": "/find?type=1&query=hakenkreuz",
+                "word": "hakenkreuz"
+            },
+            {
+                "id": "42417",
+                "link": "/find?type=1&query=hakim",
+                "word": "hakim"
+            }
+        ]
+    }
+}
