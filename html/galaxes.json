@@ -1,1 +1,22 @@
-{"error": 0, "query": "galaxes", "enViData": {"suggests": [{"id": "38758", "link": "/find?type=1&query=galaxy", "word": "galaxy"}]}, "mUrl": "/find?type=1&query=galaxes", "enEnData": {"suggests": [{"id": "11741", "link": "/find?type=3&query=galaxy", "word": "galaxy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11741",
+                "link": "/find?type=3&query=galaxy",
+                "word": "galaxy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38758",
+                "link": "/find?type=1&query=galaxy",
+                "word": "galaxy"
+            }
+        ]
+    }
+}
