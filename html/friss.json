@@ -1,1 +1,37 @@
-{"error": 0, "query": "friss", "enViData": {"suggests": [{"id": "38063", "link": "/find?type=1&query=frisson", "word": "frisson"}]}, "mUrl": "/find?type=1&query=friss", "enEnData": {"suggests": [{"id": "11502", "link": "/find?type=3&query=frisson", "word": "frisson"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2865", "link": "/find?type=4&query=frisk", "word": "frisk"}, {"id": "2866", "link": "/find?type=4&query=frisky", "word": "frisky"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11502",
+                "link": "/find?type=3&query=frisson",
+                "word": "frisson"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38063",
+                "link": "/find?type=1&query=frisson",
+                "word": "frisson"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2865",
+                "link": "/find?type=4&query=frisk",
+                "word": "frisk"
+            },
+            {
+                "id": "2866",
+                "link": "/find?type=4&query=frisky",
+                "word": "frisky"
+            }
+        ]
+    }
+}
