@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "6536", "link": "/find?type=1&query=attrited", "word": "attrited"}], "data": {}}, "en_en": {"suggests": [{"id": "1615", "link": "/find?type=3&query=attrition", "word": "attrition"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1615",
+                "link": "/find?type=3&query=attrition",
+                "word": "attrition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6536",
+                "link": "/find?type=1&query=attrited",
+                "word": "attrited"
+            }
+        ]
+    }
+}

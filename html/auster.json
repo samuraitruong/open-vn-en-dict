@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "6728", "link": "/find?type=1&query=austere", "word": "austere"}, {"id": "6729", "link": "/find?type=1&query=austerely", "word": "austerely"}, {"id": "6730", "link": "/find?type=1&query=austereness", "word": "austereness"}, {"id": "6731", "link": "/find?type=1&query=austerity", "word": "austerity"}], "data": {}}, "en_en": {"suggests": [{"id": "1665", "link": "/find?type=3&query=austere", "word": "austere"}, {"id": "1666", "link": "/find?type=3&query=austerity", "word": "austerity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1665",
+                "link": "/find?type=3&query=austere",
+                "word": "austere"
+            },
+            {
+                "id": "1666",
+                "link": "/find?type=3&query=austerity",
+                "word": "austerity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6728",
+                "link": "/find?type=1&query=austere",
+                "word": "austere"
+            },
+            {
+                "id": "6729",
+                "link": "/find?type=1&query=austerely",
+                "word": "austerely"
+            },
+            {
+                "id": "6730",
+                "link": "/find?type=1&query=austereness",
+                "word": "austereness"
+            },
+            {
+                "id": "6731",
+                "link": "/find?type=1&query=austerity",
+                "word": "austerity"
+            }
+        ]
+    }
+}

@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "6631", "link": "/find?type=1&query=auditorial", "word": "auditorial"}, {"id": "6631", "link": "/find?type=1&query=auditorium", "word": "auditorium"}, {"id": "6631", "link": "/find?type=1&query=auditory", "word": "auditory"}, {"id": "6631", "link": "/find?type=1&query=auditory+sensation", "word": "auditory sensation"}], "data": {"word": "auditor", "id": "6631", "pronounce": "/'\u0254:dit\u0259[r]/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ki\u1ec3m tra s\u1ed5 s\u00e1ch k\u1ebf to\u00e1n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/219c77f714e6111826bd240f9359f789/16e5dcd4827/A/auditor.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/85e68ab0a974516d6fe50772c6ab81df/16e5dcd4e1e/A/auditor.mp3"}}}, "en_en": {"suggests": [{"id": "1643", "link": "/find?type=3&query=auditorium", "word": "auditorium"}, {"id": "1643", "link": "/find?type=3&query=auditory", "word": "auditory"}], "data": {"word": "auditor", "id": "1643", "pronounce": "/\u02c8\u0251\u02d0d\u0259t\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who checks the financial records of a company or person to make sure they are accurate :a person who audits accounts</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who checks the financial records of a company or person to make sure they are accurate :a person who audits accounts</div>",
+            "id": "1643",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0d\u0259t\u025a/",
+            "type": "noun",
+            "word": "auditor"
+        },
+        "suggests": [
+            {
+                "id": "1643",
+                "link": "/find?type=3&query=auditorium",
+                "word": "auditorium"
+            },
+            {
+                "id": "1643",
+                "link": "/find?type=3&query=auditory",
+                "word": "auditory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ki\u1ec3m tra s\u1ed5 s\u00e1ch k\u1ebf to\u00e1n</div>",
+            "id": "6631",
+            "mean": [],
+            "pronounce": "/'\u0254:dit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8a26ef3c81ad7df825bcca2e885bfaf9/16e5eb06aa6/A/auditor.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b39762467025d0b507ffb19a0372e79c/16e5eb064dc/A/auditor.mp3"
+            },
+            "type": "",
+            "word": "auditor"
+        },
+        "suggests": [
+            {
+                "id": "6631",
+                "link": "/find?type=1&query=auditorial",
+                "word": "auditorial"
+            },
+            {
+                "id": "6631",
+                "link": "/find?type=1&query=auditorium",
+                "word": "auditorium"
+            },
+            {
+                "id": "6631",
+                "link": "/find?type=1&query=auditory",
+                "word": "auditory"
+            },
+            {
+                "id": "6631",
+                "link": "/find?type=1&query=auditory+sensation",
+                "word": "auditory sensation"
+            }
+        ]
+    }
+}

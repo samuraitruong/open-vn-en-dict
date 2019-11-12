@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "6504", "link": "/find?type=1&query=atticism", "word": "atticism"}], "data": {"word": "attic", "id": "6504", "pronounce": "/'\u00e6tik/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e1c th\u01b0\u1ee3ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7d8346ec4d10d068f30c8582e83631e3/16e5dcd05ce/A/attic.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4fcd68c9c8a74c8c518818eb35b2d35f/16e5dcd0b80/A/attic.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "attic", "id": "1600", "pronounce": "/\u02c8\u00e6t\u026ak/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a room or space that is just below the roof of a building and that is often used to store things</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a room or space that is just below the roof of a building and that is often used to store things</div>",
+            "id": "1600",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6t\u026ak/",
+            "type": "noun",
+            "word": "attic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e1c th\u01b0\u1ee3ng</div>",
+            "id": "6504",
+            "mean": [],
+            "pronounce": "/'\u00e6tik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fcc2c19a38751524f016a63d6aaa2fe4/16e5eb025b0/A/attic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/08c05b53a9483e5c7246c2ed15bafa35/16e5eb01fb2/A/attic.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "attic"
+        },
+        "suggests": [
+            {
+                "id": "6504",
+                "link": "/find?type=1&query=atticism",
+                "word": "atticism"
+            }
+        ]
+    }
+}

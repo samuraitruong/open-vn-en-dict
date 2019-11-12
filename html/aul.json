@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "6660", "link": "/find?type=1&query=auld+lang+syne", "word": "auld lang syne"}, {"id": "6661", "link": "/find?type=1&query=aulic", "word": "aulic"}, {"id": "6662", "link": "/find?type=1&query=aulophyte", "word": "aulophyte"}, {"id": "6663", "link": "/find?type=1&query=aulostomatous", "word": "aulostomatous"}], "data": {}}, "en_en": {"suggests": [{"id": "1654", "link": "/find?type=3&query=auld+lang+syne", "word": "auld lang syne"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1654",
+                "link": "/find?type=3&query=auld+lang+syne",
+                "word": "auld lang syne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6660",
+                "link": "/find?type=1&query=auld+lang+syne",
+                "word": "auld lang syne"
+            },
+            {
+                "id": "6661",
+                "link": "/find?type=1&query=aulic",
+                "word": "aulic"
+            },
+            {
+                "id": "6662",
+                "link": "/find?type=1&query=aulophyte",
+                "word": "aulophyte"
+            },
+            {
+                "id": "6663",
+                "link": "/find?type=1&query=aulostomatous",
+                "word": "aulostomatous"
+            }
+        ]
+    }
+}

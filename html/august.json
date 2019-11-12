@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "6655", "link": "/find?type=1&query=Augustan", "word": "Augustan"}, {"id": "6655", "link": "/find?type=1&query=augustly", "word": "augustly"}, {"id": "6655", "link": "/find?type=1&query=augustness", "word": "augustness"}], "data": {"word": "august", "id": "6655", "pronounce": "/\u0254:'g\u028cst/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">uy nghi, t\u00f4n nghi\u00eam</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1651", "link": "/find?type=3&query=August", "word": "August"}], "data": {"word": "august", "id": "1651", "pronounce": "/\u0251\u02c8g\u028cst/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :having a formal and impressive quality</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We visited their august mansion and expansive grounds.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The family claims an august lineage.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :having a formal and impressive quality</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We visited their august mansion and expansive grounds.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The family claims an august lineage.</div>",
+            "id": "1651",
+            "mean": [],
+            "pronounce": "/\u0251\u02c8g\u028cst/",
+            "type": "adjective",
+            "word": "august"
+        },
+        "suggests": [
+            {
+                "id": "1651",
+                "link": "/find?type=3&query=August",
+                "word": "August"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">uy nghi, t\u00f4n nghi\u00eam</div>",
+            "id": "6655",
+            "mean": [],
+            "pronounce": "/\u0254:'g\u028cst/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "august"
+        },
+        "suggests": [
+            {
+                "id": "6655",
+                "link": "/find?type=1&query=Augustan",
+                "word": "Augustan"
+            },
+            {
+                "id": "6655",
+                "link": "/find?type=1&query=augustly",
+                "word": "augustly"
+            },
+            {
+                "id": "6655",
+                "link": "/find?type=1&query=augustness",
+                "word": "augustness"
+            }
+        ]
+    }
+}
