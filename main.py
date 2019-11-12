@@ -124,7 +124,6 @@ if len(sys.argv) > 1:
     exit()
 print("Retrive list of all english words")
 words = getWordList()
-logs = json.load("logs.json")
 print("Total english words %d" % (len(words)))
 for key in words:
     if key < "hype":
