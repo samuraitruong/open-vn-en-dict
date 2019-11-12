@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "17182", "link": "/find?type=1&query=comal", "word": "comal"}, {"id": "17182", "link": "/find?type=1&query=comatose", "word": "comatose"}, {"id": "17182", "link": "/find?type=1&query=comatosely", "word": "comatosely"}], "data": {"word": "coma", "id": "17182", "pronounce": "/'k\u0259\u028am\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u00f4n m\u00ea</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/936d54701b7e1f89a49c42d2867a7d59/16e5df15502/C/coma.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0c21520834255030e6deb95469a2f6dd/16e5df15ab6/C/coma.mp3"}}}, "en_en": {"suggests": [{"id": "5561", "link": "/find?type=3&query=Comanche", "word": "Comanche"}, {"id": "5561", "link": "/find?type=3&query=comatose", "word": "comatose"}], "data": {"word": "coma", "id": "5561", "pronounce": "/\u02c8ko\u028am\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mas</div>\n    \n    <div class=\"green margin25 m-top15\">a state in which a sick or injured person is unconscious for a long time [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He went into a coma.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was in a coma for a year. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">patients in (a state of) coma</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mas</div>\n    \n    <div class=\"green margin25 m-top15\">a state in which a sick or injured person is unconscious for a long time [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He went into a coma.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was in a coma for a year. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">patients in (a state of) coma</div>",
+            "id": "5561",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u028am\u0259/",
+            "type": "noun",
+            "word": "coma"
+        },
+        "suggests": [
+            {
+                "id": "5561",
+                "link": "/find?type=3&query=Comanche",
+                "word": "Comanche"
+            },
+            {
+                "id": "5561",
+                "link": "/find?type=3&query=comatose",
+                "word": "comatose"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u00f4n m\u00ea</div>",
+            "id": "17182",
+            "mean": [],
+            "pronounce": "/'k\u0259\u028am\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a44349e07dbf7dd6179634175ee80ae5/16e5ed28703/C/coma.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/27ef71d666c095566b0c00b69c5ae424/16e5ed27e47/C/coma.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "coma"
+        },
+        "suggests": [
+            {
+                "id": "17182",
+                "link": "/find?type=1&query=comal",
+                "word": "comal"
+            },
+            {
+                "id": "17182",
+                "link": "/find?type=1&query=comatose",
+                "word": "comatose"
+            },
+            {
+                "id": "17182",
+                "link": "/find?type=1&query=comatosely",
+                "word": "comatosely"
+            }
+        ]
+    }
+}

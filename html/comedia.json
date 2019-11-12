@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "17241", "link": "/find?type=1&query=comedian", "word": "comedian"}], "data": {}}, "en_en": {"suggests": [{"id": "5581", "link": "/find?type=3&query=comedian", "word": "comedian"}], "data": {}}, "synonyms": {"suggests": [{"id": "1107", "link": "/find?type=4&query=comedian", "word": "comedian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5581",
+                "link": "/find?type=3&query=comedian",
+                "word": "comedian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17241",
+                "link": "/find?type=1&query=comedian",
+                "word": "comedian"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1107",
+                "link": "/find?type=4&query=comedian",
+                "word": "comedian"
+            }
+        ]
+    }
+}
