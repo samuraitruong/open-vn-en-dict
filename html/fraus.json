@@ -1,1 +1,97 @@
-{"error": 0, "query": "fraus", "enViData": {"suggests": [{"id": "37709", "link": "/find?type=1&query=fraud", "word": "fraud"}, {"id": "37710", "link": "/find?type=1&query=fraudulence", "word": "fraudulence"}, {"id": "37711", "link": "/find?type=1&query=fraudulent", "word": "fraudulent"}, {"id": "37712", "link": "/find?type=1&query=fraudulently", "word": "fraudulently"}, {"id": "37713", "link": "/find?type=1&query=fraught", "word": "fraught"}, {"id": "37715", "link": "/find?type=1&query=fraulein", "word": "fraulein"}, {"id": "37716", "link": "/find?type=1&query=Fraunhofer+%28diffraction%29+hologram", "word": "Fraunhofer (diffraction) hologram"}, {"id": "37717", "link": "/find?type=1&query=Fraunhofer+diffraction", "word": "Fraunhofer diffraction"}, {"id": "37718", "link": "/find?type=1&query=Fraunhofer+holography", "word": "Fraunhofer holography"}]}, "mUrl": "/find?type=1&query=fraus", "enEnData": {"suggests": [{"id": "11382", "link": "/find?type=3&query=fraud", "word": "fraud"}, {"id": "11383", "link": "/find?type=3&query=fraudster", "word": "fraudster"}, {"id": "11384", "link": "/find?type=3&query=fraudulent", "word": "fraudulent"}, {"id": "11385", "link": "/find?type=3&query=fraught", "word": "fraught"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2835", "link": "/find?type=4&query=fraud", "word": "fraud"}, {"id": "2836", "link": "/find?type=4&query=fraudulent", "word": "fraudulent"}, {"id": "2837", "link": "/find?type=4&query=fraught", "word": "fraught"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11382",
+                "link": "/find?type=3&query=fraud",
+                "word": "fraud"
+            },
+            {
+                "id": "11383",
+                "link": "/find?type=3&query=fraudster",
+                "word": "fraudster"
+            },
+            {
+                "id": "11384",
+                "link": "/find?type=3&query=fraudulent",
+                "word": "fraudulent"
+            },
+            {
+                "id": "11385",
+                "link": "/find?type=3&query=fraught",
+                "word": "fraught"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37709",
+                "link": "/find?type=1&query=fraud",
+                "word": "fraud"
+            },
+            {
+                "id": "37710",
+                "link": "/find?type=1&query=fraudulence",
+                "word": "fraudulence"
+            },
+            {
+                "id": "37711",
+                "link": "/find?type=1&query=fraudulent",
+                "word": "fraudulent"
+            },
+            {
+                "id": "37712",
+                "link": "/find?type=1&query=fraudulently",
+                "word": "fraudulently"
+            },
+            {
+                "id": "37713",
+                "link": "/find?type=1&query=fraught",
+                "word": "fraught"
+            },
+            {
+                "id": "37715",
+                "link": "/find?type=1&query=fraulein",
+                "word": "fraulein"
+            },
+            {
+                "id": "37716",
+                "link": "/find?type=1&query=Fraunhofer+%28diffraction%29+hologram",
+                "word": "Fraunhofer (diffraction) hologram"
+            },
+            {
+                "id": "37717",
+                "link": "/find?type=1&query=Fraunhofer+diffraction",
+                "word": "Fraunhofer diffraction"
+            },
+            {
+                "id": "37718",
+                "link": "/find?type=1&query=Fraunhofer+holography",
+                "word": "Fraunhofer holography"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2835",
+                "link": "/find?type=4&query=fraud",
+                "word": "fraud"
+            },
+            {
+                "id": "2836",
+                "link": "/find?type=4&query=fraudulent",
+                "word": "fraudulent"
+            },
+            {
+                "id": "2837",
+                "link": "/find?type=4&query=fraught",
+                "word": "fraught"
+            }
+        ]
+    }
+}
