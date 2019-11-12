@@ -1,1 +1,32 @@
-{"error": 0, "query": "hypnos", "enViData": {"suggests": [{"id": "45629", "link": "/find?type=1&query=hypnosis", "word": "hypnosis"}]}, "mUrl": "/find?type=1&query=hypnos", "enEnData": {"suggests": [{"id": "14212", "link": "/find?type=3&query=hypnosis", "word": "hypnosis"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3434", "link": "/find?type=4&query=hypnotize", "word": "hypnotize"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14212",
+                "link": "/find?type=3&query=hypnosis",
+                "word": "hypnosis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45629",
+                "link": "/find?type=1&query=hypnosis",
+                "word": "hypnosis"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3434",
+                "link": "/find?type=4&query=hypnotize",
+                "word": "hypnotize"
+            }
+        ]
+    }
+}

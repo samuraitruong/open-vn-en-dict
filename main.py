@@ -142,6 +142,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
             fileName = "html/" + url+".json"
             html = future.result()
             if html != None:
+                logs[]
                 with open(fileName, 'w+') as outfile:
                     outfile.seek(0)
                     outfile.truncate()

@@ -1,1 +1,40 @@
-{"error": 0, "query": "hypochondria", "enViData": {"suggests": [{"id": "45644", "link": "/find?type=1&query=hypochondriac", "word": "hypochondriac"}], "best": {"id": "45644", "details": "\n<div id=\"find_word_45644\" class=\"world word_en\" rel=\"hypochondria\">\n    <h2 class=\"fl\">hypochondria <span class=\"color-black\">/,haip\u0259'k\u0252ndri\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45644\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45644\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee9ng b\u1ec7nh t\u01b0\u1edfng</div>\n    \n</div>\n", "link": "/find?type=1&query=hypochondria", "word": "hypochondria"}}, "mUrl": "/find?type=1&query=hypochondria", "enEnData": {"suggests": [{"id": "14219", "link": "/find?type=3&query=hypochondriac", "word": "hypochondriac"}], "best": {"id": "14219", "details": "\n<div id=\"find_word_14219\" class=\"world word_en\" rel=\"hypochondria\">\n    <h2 class=\"fl\">hypochondria <span class=\"color-black\">/\u02ccha\u026ap\u0259\u02c8k\u0251\u02d0ndrij\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14219\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14219\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :unusual or excessive concern about your health :a tendency to fear or imagine that you have illnesses that you do not actually have</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She fueled her hypochondria by reading articles about rare diseases.</div>\n    \n</div>\n", "link": "/find?type=3&query=hypochondria", "word": "hypochondria"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :unusual or excessive concern about your health :a tendency to fear or imagine that you have illnesses that you do not actually have</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She fueled her hypochondria by reading articles about rare diseases.</div>",
+            "id": "14219",
+            "mean": [],
+            "pronounce": "/\u02ccha\u026ap\u0259\u02c8k\u0251\u02d0ndrij\u0259/",
+            "type": "noun",
+            "word": "hypochondria"
+        },
+        "suggests": [
+            {
+                "id": "14219",
+                "link": "/find?type=3&query=hypochondriac",
+                "word": "hypochondriac"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee9ng b\u1ec7nh t\u01b0\u1edfng</div>",
+            "id": "45644",
+            "mean": [],
+            "pronounce": "/,haip\u0259'k\u0252ndri\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9e6e5bb70f3d95c5cef45faa7cf8ec85/16e61bd8100/H/hypochondria.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6161efb5e400f0577284a780978587b4/16e61bd7b2a/H/hypochondria.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hypochondria"
+        },
+        "suggests": [
+            {
+                "id": "45644",
+                "link": "/find?type=1&query=hypochondriac",
+                "word": "hypochondriac"
+            }
+        ]
+    }
+}
