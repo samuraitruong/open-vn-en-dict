@@ -1,1 +1,102 @@
-{"error": 0, "query": "illust", "enViData": {"suggests": [{"id": "46240", "link": "/find?type=1&query=illustratable", "word": "illustratable"}, {"id": "46241", "link": "/find?type=1&query=illustrate", "word": "illustrate"}, {"id": "46242", "link": "/find?type=1&query=illustration", "word": "illustration"}, {"id": "46243", "link": "/find?type=1&query=illustrational", "word": "illustrational"}, {"id": "46244", "link": "/find?type=1&query=illustrative", "word": "illustrative"}, {"id": "46245", "link": "/find?type=1&query=illustratively", "word": "illustratively"}, {"id": "46246", "link": "/find?type=1&query=illustrator", "word": "illustrator"}, {"id": "46247", "link": "/find?type=1&query=illustrious", "word": "illustrious"}, {"id": "46248", "link": "/find?type=1&query=illustriously", "word": "illustriously"}, {"id": "46249", "link": "/find?type=1&query=illustriousness", "word": "illustriousness"}]}, "mUrl": "/find?type=1&query=illust", "enEnData": {"suggests": [{"id": "14387", "link": "/find?type=3&query=illustrate", "word": "illustrate"}, {"id": "14388", "link": "/find?type=3&query=illustration", "word": "illustration"}, {"id": "14389", "link": "/find?type=3&query=illustrative", "word": "illustrative"}, {"id": "14390", "link": "/find?type=3&query=illustrious", "word": "illustrious"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3480", "link": "/find?type=4&query=illustrate", "word": "illustrate"}, {"id": "3481", "link": "/find?type=4&query=illustration", "word": "illustration"}, {"id": "3482", "link": "/find?type=4&query=illustrious", "word": "illustrious"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14387",
+                "link": "/find?type=3&query=illustrate",
+                "word": "illustrate"
+            },
+            {
+                "id": "14388",
+                "link": "/find?type=3&query=illustration",
+                "word": "illustration"
+            },
+            {
+                "id": "14389",
+                "link": "/find?type=3&query=illustrative",
+                "word": "illustrative"
+            },
+            {
+                "id": "14390",
+                "link": "/find?type=3&query=illustrious",
+                "word": "illustrious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46240",
+                "link": "/find?type=1&query=illustratable",
+                "word": "illustratable"
+            },
+            {
+                "id": "46241",
+                "link": "/find?type=1&query=illustrate",
+                "word": "illustrate"
+            },
+            {
+                "id": "46242",
+                "link": "/find?type=1&query=illustration",
+                "word": "illustration"
+            },
+            {
+                "id": "46243",
+                "link": "/find?type=1&query=illustrational",
+                "word": "illustrational"
+            },
+            {
+                "id": "46244",
+                "link": "/find?type=1&query=illustrative",
+                "word": "illustrative"
+            },
+            {
+                "id": "46245",
+                "link": "/find?type=1&query=illustratively",
+                "word": "illustratively"
+            },
+            {
+                "id": "46246",
+                "link": "/find?type=1&query=illustrator",
+                "word": "illustrator"
+            },
+            {
+                "id": "46247",
+                "link": "/find?type=1&query=illustrious",
+                "word": "illustrious"
+            },
+            {
+                "id": "46248",
+                "link": "/find?type=1&query=illustriously",
+                "word": "illustriously"
+            },
+            {
+                "id": "46249",
+                "link": "/find?type=1&query=illustriousness",
+                "word": "illustriousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3480",
+                "link": "/find?type=4&query=illustrate",
+                "word": "illustrate"
+            },
+            {
+                "id": "3481",
+                "link": "/find?type=4&query=illustration",
+                "word": "illustration"
+            },
+            {
+                "id": "3482",
+                "link": "/find?type=4&query=illustrious",
+                "word": "illustrious"
+            }
+        ]
+    }
+}

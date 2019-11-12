@@ -1,1 +1,47 @@
-{"error": 0, "query": "immeasured", "enViData": {"suggests": [{"id": "46353", "link": "/find?type=1&query=immeasurability", "word": "immeasurability"}, {"id": "46354", "link": "/find?type=1&query=immeasurable", "word": "immeasurable"}, {"id": "46355", "link": "/find?type=1&query=immeasurableness", "word": "immeasurableness"}, {"id": "46356", "link": "/find?type=1&query=immeasurably", "word": "immeasurably"}]}, "mUrl": "/find?type=1&query=immeasured", "enEnData": {"suggests": [{"id": "14416", "link": "/find?type=3&query=immeasurable", "word": "immeasurable"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3494", "link": "/find?type=4&query=immeasurable", "word": "immeasurable"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14416",
+                "link": "/find?type=3&query=immeasurable",
+                "word": "immeasurable"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46353",
+                "link": "/find?type=1&query=immeasurability",
+                "word": "immeasurability"
+            },
+            {
+                "id": "46354",
+                "link": "/find?type=1&query=immeasurable",
+                "word": "immeasurable"
+            },
+            {
+                "id": "46355",
+                "link": "/find?type=1&query=immeasurableness",
+                "word": "immeasurableness"
+            },
+            {
+                "id": "46356",
+                "link": "/find?type=1&query=immeasurably",
+                "word": "immeasurably"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3494",
+                "link": "/find?type=4&query=immeasurable",
+                "word": "immeasurable"
+            }
+        ]
+    }
+}
