@@ -112,14 +112,15 @@ def getWord(word):
     html = pq(data)
     # print(html("#column-content").html())
     return html("#column-content").html()
-
+logs = json.load("logs.json");
+console.log("")
 
 if len(sys.argv) > 1:
     pprint.pprint(getWordFromLaban(sys.argv[1]))
     exit()
 print("Retrive list of all english words")
 words = getWordList()
-logs = json.load("")
+logs = json.load("logs.json");
 print("Total english words %d" % (len(words)))
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
