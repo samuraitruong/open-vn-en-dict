@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "14356", "link": "/find?type=1&query=chamois", "word": "chamois"}, {"id": "14357", "link": "/find?type=1&query=chamois-leather", "word": "chamois-leather"}, {"id": "14358", "link": "/find?type=1&query=chamomile", "word": "chamomile"}], "data": {}}, "en_en": {"suggests": [{"id": "4541", "link": "/find?type=3&query=chamois", "word": "chamois"}, {"id": "4542", "link": "/find?type=3&query=chamomile", "word": "chamomile"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4541",
+                "link": "/find?type=3&query=chamois",
+                "word": "chamois"
+            },
+            {
+                "id": "4542",
+                "link": "/find?type=3&query=chamomile",
+                "word": "chamomile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14356",
+                "link": "/find?type=1&query=chamois",
+                "word": "chamois"
+            },
+            {
+                "id": "14357",
+                "link": "/find?type=1&query=chamois-leather",
+                "word": "chamois-leather"
+            },
+            {
+                "id": "14358",
+                "link": "/find?type=1&query=chamomile",
+                "word": "chamomile"
+            }
+        ]
+    }
+}

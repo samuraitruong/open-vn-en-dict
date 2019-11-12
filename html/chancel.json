@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "14368", "link": "/find?type=1&query=chancellery", "word": "chancellery"}, {"id": "14368", "link": "/find?type=1&query=chancellor", "word": "chancellor"}, {"id": "14368", "link": "/find?type=1&query=chancellorship", "word": "chancellorship"}, {"id": "14368", "link": "/find?type=1&query=chancellory", "word": "chancellory"}], "data": {"word": "chancel", "id": "14368", "pronounce": "/'t\u222b\u0251:nsl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00ednh \u0111i\u1ec7n (trong nh\u00e0 th\u1edd)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8a573581f612e898db1bfdb07694d722/16e5de7ae1c/C/chancel.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/91a1d8f71b7c08207c89f63981260546/16e5de7b40a/C/chancel.mp3"}}}, "en_en": {"suggests": [{"id": "4549", "link": "/find?type=3&query=chancellery", "word": "chancellery"}, {"id": "4549", "link": "/find?type=3&query=chancellor", "word": "chancellor"}, {"id": "4549", "link": "/find?type=3&query=Chancellor+of+the+Exchequer", "word": "Chancellor of the Exchequer"}], "data": {"word": "chancel", "id": "4549", "pronounce": "/\u02c8\u02a7\u00e6ns\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the part of a church that contains the altar and seats for the priest and choir</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the part of a church that contains the altar and seats for the priest and choir</div>",
+            "id": "4549",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7\u00e6ns\u0259l/",
+            "type": "noun",
+            "word": "chancel"
+        },
+        "suggests": [
+            {
+                "id": "4549",
+                "link": "/find?type=3&query=chancellery",
+                "word": "chancellery"
+            },
+            {
+                "id": "4549",
+                "link": "/find?type=3&query=chancellor",
+                "word": "chancellor"
+            },
+            {
+                "id": "4549",
+                "link": "/find?type=3&query=Chancellor+of+the+Exchequer",
+                "word": "Chancellor of the Exchequer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00ednh \u0111i\u1ec7n (trong nh\u00e0 th\u1edd)</div>",
+            "id": "14368",
+            "mean": [],
+            "pronounce": "/'t\u222b\u0251:nsl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8c1f096418f3e04a8a99f54b61021f5d/16e5ec856f3/C/chancel.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8212c97e722b5374bee2806037c375c4/16e5ec851d7/C/chancel.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "chancel"
+        },
+        "suggests": [
+            {
+                "id": "14368",
+                "link": "/find?type=1&query=chancellery",
+                "word": "chancellery"
+            },
+            {
+                "id": "14368",
+                "link": "/find?type=1&query=chancellor",
+                "word": "chancellor"
+            },
+            {
+                "id": "14368",
+                "link": "/find?type=1&query=chancellorship",
+                "word": "chancellorship"
+            },
+            {
+                "id": "14368",
+                "link": "/find?type=1&query=chancellory",
+                "word": "chancellory"
+            }
+        ]
+    }
+}

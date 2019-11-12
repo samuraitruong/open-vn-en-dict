@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14474", "link": "/find?type=1&query=charcoal", "word": "charcoal"}, {"id": "14475", "link": "/find?type=1&query=charcoal-burner", "word": "charcoal-burner"}], "data": {}}, "en_en": {"suggests": [{"id": "4597", "link": "/find?type=3&query=charcoal", "word": "charcoal"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4597",
+                "link": "/find?type=3&query=charcoal",
+                "word": "charcoal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14474",
+                "link": "/find?type=1&query=charcoal",
+                "word": "charcoal"
+            },
+            {
+                "id": "14475",
+                "link": "/find?type=1&query=charcoal-burner",
+                "word": "charcoal-burner"
+            }
+        ]
+    }
+}

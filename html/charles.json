@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14520", "link": "/find?type=1&query=charles%27s+wain", "word": "charles's wain"}, {"id": "14521", "link": "/find?type=1&query=Charleston", "word": "Charleston"}], "data": {}}, "en_en": {"suggests": [{"id": "4617", "link": "/find?type=3&query=Charleston", "word": "Charleston"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4617",
+                "link": "/find?type=3&query=Charleston",
+                "word": "Charleston"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14520",
+                "link": "/find?type=1&query=charles%27s+wain",
+                "word": "charles's wain"
+            },
+            {
+                "id": "14521",
+                "link": "/find?type=1&query=Charleston",
+                "word": "Charleston"
+            }
+        ]
+    }
+}

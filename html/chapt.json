@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14443", "link": "/find?type=1&query=chapter", "word": "chapter"}, {"id": "14444", "link": "/find?type=1&query=chapter+file", "word": "chapter file"}], "data": {}}, "en_en": {"suggests": [{"id": "4585", "link": "/find?type=3&query=chapter", "word": "chapter"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4585",
+                "link": "/find?type=3&query=chapter",
+                "word": "chapter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14443",
+                "link": "/find?type=1&query=chapter",
+                "word": "chapter"
+            },
+            {
+                "id": "14444",
+                "link": "/find?type=1&query=chapter+file",
+                "word": "chapter file"
+            }
+        ]
+    }
+}
