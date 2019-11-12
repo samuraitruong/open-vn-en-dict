@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "7179", "link": "/find?type=1&query=avarice", "word": "avarice"}, {"id": "7180", "link": "/find?type=1&query=avaricious", "word": "avaricious"}, {"id": "7181", "link": "/find?type=1&query=avariciously", "word": "avariciously"}, {"id": "7182", "link": "/find?type=1&query=avariciousness", "word": "avariciousness"}], "data": {}}, "en_en": {"suggests": [{"id": "1710", "link": "/find?type=3&query=avarice", "word": "avarice"}], "data": {}}, "synonyms": {"suggests": [{"id": "398", "link": "/find?type=4&query=avarice", "word": "avarice"}, {"id": "399", "link": "/find?type=4&query=avaricious", "word": "avaricious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1710",
+                "link": "/find?type=3&query=avarice",
+                "word": "avarice"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7179",
+                "link": "/find?type=1&query=avarice",
+                "word": "avarice"
+            },
+            {
+                "id": "7180",
+                "link": "/find?type=1&query=avaricious",
+                "word": "avaricious"
+            },
+            {
+                "id": "7181",
+                "link": "/find?type=1&query=avariciously",
+                "word": "avariciously"
+            },
+            {
+                "id": "7182",
+                "link": "/find?type=1&query=avariciousness",
+                "word": "avariciousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "398",
+                "link": "/find?type=4&query=avarice",
+                "word": "avarice"
+            },
+            {
+                "id": "399",
+                "link": "/find?type=4&query=avaricious",
+                "word": "avaricious"
+            }
+        ]
+    }
+}

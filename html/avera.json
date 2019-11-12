@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "7196", "link": "/find?type=1&query=average", "word": "average"}, {"id": "7197", "link": "/find?type=1&query=average+adjuster", "word": "average adjuster"}, {"id": "7198", "link": "/find?type=1&query=average+bright", "word": "average bright"}, {"id": "7199", "link": "/find?type=1&query=average+calculating+time", "word": "average calculating time"}, {"id": "7200", "link": "/find?type=1&query=average+capacity", "word": "average capacity"}, {"id": "7201", "link": "/find?type=1&query=Average+cost", "word": "Average cost"}, {"id": "7202", "link": "/find?type=1&query=Average+cost+pricing", "word": "Average cost pricing"}, {"id": "7203", "link": "/find?type=1&query=average+current", "word": "average current"}, {"id": "7204", "link": "/find?type=1&query=average+delay+time", "word": "average delay time"}, {"id": "7205", "link": "/find?type=1&query=average+density", "word": "average density"}], "data": {}}, "en_en": {"suggests": [{"id": "1716", "link": "/find?type=3&query=average", "word": "average"}], "data": {}}, "synonyms": {"suggests": [{"id": "400", "link": "/find?type=4&query=average", "word": "average"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1716",
+                "link": "/find?type=3&query=average",
+                "word": "average"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7196",
+                "link": "/find?type=1&query=average",
+                "word": "average"
+            },
+            {
+                "id": "7197",
+                "link": "/find?type=1&query=average+adjuster",
+                "word": "average adjuster"
+            },
+            {
+                "id": "7198",
+                "link": "/find?type=1&query=average+bright",
+                "word": "average bright"
+            },
+            {
+                "id": "7199",
+                "link": "/find?type=1&query=average+calculating+time",
+                "word": "average calculating time"
+            },
+            {
+                "id": "7200",
+                "link": "/find?type=1&query=average+capacity",
+                "word": "average capacity"
+            },
+            {
+                "id": "7201",
+                "link": "/find?type=1&query=Average+cost",
+                "word": "Average cost"
+            },
+            {
+                "id": "7202",
+                "link": "/find?type=1&query=Average+cost+pricing",
+                "word": "Average cost pricing"
+            },
+            {
+                "id": "7203",
+                "link": "/find?type=1&query=average+current",
+                "word": "average current"
+            },
+            {
+                "id": "7204",
+                "link": "/find?type=1&query=average+delay+time",
+                "word": "average delay time"
+            },
+            {
+                "id": "7205",
+                "link": "/find?type=1&query=average+density",
+                "word": "average density"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "400",
+                "link": "/find?type=4&query=average",
+                "word": "average"
+            }
+        ]
+    }
+}
