@@ -1,1 +1,22 @@
-{"error": 0, "query": "ginnings", "enViData": {"suggests": [{"id": "40006", "link": "/find?type=1&query=ginseng", "word": "ginseng"}]}, "mUrl": "/find?type=1&query=ginnings", "enEnData": {"suggests": [{"id": "12083", "link": "/find?type=3&query=ginseng", "word": "ginseng"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12083",
+                "link": "/find?type=3&query=ginseng",
+                "word": "ginseng"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40006",
+                "link": "/find?type=1&query=ginseng",
+                "word": "ginseng"
+            }
+        ]
+    }
+}
