@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "34494", "link": "/find?type=1&query=febricity", "word": "febricity"}, {"id": "34495", "link": "/find?type=1&query=febricula", "word": "febricula"}, {"id": "34496", "link": "/find?type=1&query=febrifaciant", "word": "febrifaciant"}, {"id": "34497", "link": "/find?type=1&query=febriferous", "word": "febriferous"}, {"id": "34498", "link": "/find?type=1&query=febrifugal", "word": "febrifugal"}, {"id": "34499", "link": "/find?type=1&query=febrifuge", "word": "febrifuge"}, {"id": "34500", "link": "/find?type=1&query=febrile", "word": "febrile"}], "data": {}}, "en_en": {"suggests": [{"id": "10413", "link": "/find?type=3&query=febrile", "word": "febrile"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10413",
+                "link": "/find?type=3&query=febrile",
+                "word": "febrile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34494",
+                "link": "/find?type=1&query=febricity",
+                "word": "febricity"
+            },
+            {
+                "id": "34495",
+                "link": "/find?type=1&query=febricula",
+                "word": "febricula"
+            },
+            {
+                "id": "34496",
+                "link": "/find?type=1&query=febrifaciant",
+                "word": "febrifaciant"
+            },
+            {
+                "id": "34497",
+                "link": "/find?type=1&query=febriferous",
+                "word": "febriferous"
+            },
+            {
+                "id": "34498",
+                "link": "/find?type=1&query=febrifugal",
+                "word": "febrifugal"
+            },
+            {
+                "id": "34499",
+                "link": "/find?type=1&query=febrifuge",
+                "word": "febrifuge"
+            },
+            {
+                "id": "34500",
+                "link": "/find?type=1&query=febrile",
+                "word": "febrile"
+            }
+        ]
+    }
+}
