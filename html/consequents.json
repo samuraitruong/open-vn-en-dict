@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "18827", "link": "/find?type=1&query=consequential", "word": "consequential"}, {"id": "18827", "link": "/find?type=1&query=consequentiality", "word": "consequentiality"}, {"id": "18827", "link": "/find?type=1&query=consequentially", "word": "consequentially"}, {"id": "18827", "link": "/find?type=1&query=consequently", "word": "consequently"}], "data": {"word": "consequent", "id": "18827", "pronounce": "/'k\u0252nsikw\u0259nt/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">do \u1edf, b\u1edfi \u1edf, l\u00e0 h\u1eadu qu\u1ea3 c\u1ee7a</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the rise of prices consequent upon the failure in crops</div>\n    \n    <div class=\"margin25\">s\u1ef1 t\u0103ng gi\u00e1 h\u00e0ng do h\u1eadu qu\u1ea3 c\u1ee7a m\u1ea5t m\u00f9a</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b884e5f35d2052bf370f54c2715c50ae/16e5df4fad4/C/consequent.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/09506308fa612e2693aeefe2524415b9/16e5df50092/C/consequent.mp3"}}}, "en_en": {"suggests": [{"id": "5999", "link": "/find?type=3&query=consequential", "word": "consequential"}], "data": {"word": "consequent", "id": "5999", "pronounce": "/\u02c8k\u0251\u02d0ns\u0259kw\u0259nt/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">somewhat formal :happening as a result of a particular action or set of conditions</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Weather forecasters predict heavy rains and consequent flooding.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Falling sales and a consequent loss of profits forced the company to lay off more workers.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1199", "link": "/find?type=4&query=consequently", "word": "consequently"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">somewhat formal :happening as a result of a particular action or set of conditions</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Weather forecasters predict heavy rains and consequent flooding.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Falling sales and a consequent loss of profits forced the company to lay off more workers.</div>",
+            "id": "5999",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0ns\u0259kw\u0259nt/",
+            "type": "adjective",
+            "word": "consequent"
+        },
+        "suggests": [
+            {
+                "id": "5999",
+                "link": "/find?type=3&query=consequential",
+                "word": "consequential"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">do \u1edf, b\u1edfi \u1edf, l\u00e0 h\u1eadu qu\u1ea3 c\u1ee7a</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the rise of prices consequent upon the failure in crops</div>\n    \n    <div class=\"margin25\">s\u1ef1 t\u0103ng gi\u00e1 h\u00e0ng do h\u1eadu qu\u1ea3 c\u1ee7a m\u1ea5t m\u00f9a</div>",
+            "id": "18827",
+            "mean": [],
+            "pronounce": "/'k\u0252nsikw\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2b6cefaa51e10a6f02fc224010b1e3f1/16e5ed7d603/C/consequent.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6ad19c33fb315f6886289d54d7fb6d8b/16e5ed7cd26/C/consequent.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "consequent"
+        },
+        "suggests": [
+            {
+                "id": "18827",
+                "link": "/find?type=1&query=consequential",
+                "word": "consequential"
+            },
+            {
+                "id": "18827",
+                "link": "/find?type=1&query=consequentiality",
+                "word": "consequentiality"
+            },
+            {
+                "id": "18827",
+                "link": "/find?type=1&query=consequentially",
+                "word": "consequentially"
+            },
+            {
+                "id": "18827",
+                "link": "/find?type=1&query=consequently",
+                "word": "consequently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1199",
+                "link": "/find?type=4&query=consequently",
+                "word": "consequently"
+            }
+        ]
+    }
+}
