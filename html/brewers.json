@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "11180", "link": "/find?type=1&query=brewery", "word": "brewery"}], "data": {"word": "brewer", "id": "11180", "pronounce": "/'bru:\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u00e0m r\u01b0\u1ee3u bia</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/186350955170b682e6e47333be415192/16e5ddcbc75/B/brewer.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/fa9635ac232f22100c60939873c6dad6/16e5ddcc26a/B/brewer.mp3"}}}, "en_en": {"suggests": [{"id": "3408", "link": "/find?type=3&query=brewery", "word": "brewery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3408",
+                "link": "/find?type=3&query=brewery",
+                "word": "brewery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u00e0m r\u01b0\u1ee3u bia</div>",
+            "id": "11180",
+            "mean": [],
+            "pronounce": "/'bru:\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/34f22c6063b97e0ec038febc83509998/16e5ebe5e5e/B/brewer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/69ab1eccb482a9310034a74c74344e6c/16e5ebe594c/B/brewer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "brewer"
+        },
+        "suggests": [
+            {
+                "id": "11180",
+                "link": "/find?type=1&query=brewery",
+                "word": "brewery"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11281", "link": "/find?type=1&query=brindle", "word": "brindle"}, {"id": "11282", "link": "/find?type=1&query=brindled", "word": "brindled"}], "data": {}}, "en_en": {"suggests": [{"id": "3446", "link": "/find?type=3&query=brindled", "word": "brindled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3446",
+                "link": "/find?type=3&query=brindled",
+                "word": "brindled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11281",
+                "link": "/find?type=1&query=brindle",
+                "word": "brindle"
+            },
+            {
+                "id": "11282",
+                "link": "/find?type=1&query=brindled",
+                "word": "brindled"
+            }
+        ]
+    }
+}

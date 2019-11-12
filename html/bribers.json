@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "11189", "link": "/find?type=1&query=bribery", "word": "bribery"}], "data": {"word": "briber", "id": "11189", "pronounce": "/'braib\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb \u0111\u00fat l\u00f3t, k\u1ebb h\u1ed1i l\u1ed9, k\u1ebb mua chu\u1ed9c</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3411", "link": "/find?type=3&query=bribery", "word": "bribery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3411",
+                "link": "/find?type=3&query=bribery",
+                "word": "bribery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb \u0111\u00fat l\u00f3t, k\u1ebb h\u1ed1i l\u1ed9, k\u1ebb mua chu\u1ed9c</div>",
+            "id": "11189",
+            "mean": [],
+            "pronounce": "/'braib\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "briber"
+        },
+        "suggests": [
+            {
+                "id": "11189",
+                "link": "/find?type=1&query=bribery",
+                "word": "bribery"
+            }
+        ]
+    }
+}
