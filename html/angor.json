@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "3849", "link": "/find?type=1&query=angora", "word": "angora"}], "data": {}}, "en_en": {"suggests": [{"id": "953", "link": "/find?type=3&query=angora", "word": "angora"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "953",
+                "link": "/find?type=3&query=angora",
+                "word": "angora"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3849",
+                "link": "/find?type=1&query=angora",
+                "word": "angora"
+            }
+        ]
+    }
+}

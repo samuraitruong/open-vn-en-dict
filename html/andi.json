@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "3688", "link": "/find?type=1&query=andiron", "word": "andiron"}], "data": {}}, "en_en": {"suggests": [{"id": "920", "link": "/find?type=3&query=andiron", "word": "andiron"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "920",
+                "link": "/find?type=3&query=andiron",
+                "word": "andiron"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3688",
+                "link": "/find?type=1&query=andiron",
+                "word": "andiron"
+            }
+        ]
+    }
+}

@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "3789", "link": "/find?type=1&query=angina+pectoris", "word": "angina pectoris"}, {"id": "3789", "link": "/find?type=1&query=anginal", "word": "anginal"}], "data": {"word": "angina", "id": "3789", "pronounce": "/\u00e6n'd\u02a4ain\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh vi\u00eam h\u1ecdng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">angina pectoris</div>\n    \n    <div class=\"margin25\">(y h\u1ecdc) ch\u1ee9ng \u0111au th\u1eaft ng\u1ef1c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8c2ee57d99d923de31cb183a3a7c6531/16e5dc3e3e3/A/angina.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/2bbdb80a976c805da37c54e908559e22/16e5dc3eb8e/A/angina.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "angina", "id": "936", "pronounce": "/\u00e6n\u02c8\u02a4a\u026an\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a heart disease that causes brief periods of intense chest pain</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an attack of angina = an angina attack - called also angina pectoris</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a heart disease that causes brief periods of intense chest pain</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an attack of angina = an angina attack - called also angina pectoris</div>",
+            "id": "936",
+            "mean": [],
+            "pronounce": "/\u00e6n\u02c8\u02a4a\u026an\u0259/",
+            "type": "noun",
+            "word": "angina"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh vi\u00eam h\u1ecdng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">angina pectoris</div>\n    \n    <div class=\"margin25\">(y h\u1ecdc) ch\u1ee9ng \u0111au th\u1eaft ng\u1ef1c</div>",
+            "id": "3789",
+            "mean": [],
+            "pronounce": "/\u00e6n'd\u02a4ain\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b54df7c3de23b78d9b74ba92f2c43a78/16e5ea7eca5/A/angina.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f47a083da066c89a686d83fce776b4c2/16e5ea7e76d/A/angina.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "angina"
+        },
+        "suggests": [
+            {
+                "id": "3789",
+                "link": "/find?type=1&query=angina+pectoris",
+                "word": "angina pectoris"
+            },
+            {
+                "id": "3789",
+                "link": "/find?type=1&query=anginal",
+                "word": "anginal"
+            }
+        ]
+    }
+}

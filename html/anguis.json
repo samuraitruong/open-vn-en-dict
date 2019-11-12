@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "3857", "link": "/find?type=1&query=anguish", "word": "anguish"}, {"id": "3858", "link": "/find?type=1&query=anguished", "word": "anguished"}], "data": {}}, "en_en": {"suggests": [{"id": "956", "link": "/find?type=3&query=anguish", "word": "anguish"}], "data": {}}, "synonyms": {"suggests": [{"id": "253", "link": "/find?type=4&query=anguish", "word": "anguish"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "956",
+                "link": "/find?type=3&query=anguish",
+                "word": "anguish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3857",
+                "link": "/find?type=1&query=anguish",
+                "word": "anguish"
+            },
+            {
+                "id": "3858",
+                "link": "/find?type=1&query=anguished",
+                "word": "anguished"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "253",
+                "link": "/find?type=4&query=anguish",
+                "word": "anguish"
+            }
+        ]
+    }
+}

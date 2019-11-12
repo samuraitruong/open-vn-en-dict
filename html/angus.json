@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "3877", "link": "/find?type=1&query=angustifoliate", "word": "angustifoliate"}, {"id": "3878", "link": "/find?type=1&query=angustura", "word": "angustura"}], "data": {}}, "en_en": {"suggests": [{"id": "956", "link": "/find?type=3&query=anguish", "word": "anguish"}, {"id": "957", "link": "/find?type=3&query=angular", "word": "angular"}], "data": {}}, "synonyms": {"suggests": [{"id": "253", "link": "/find?type=4&query=anguish", "word": "anguish"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "956",
+                "link": "/find?type=3&query=anguish",
+                "word": "anguish"
+            },
+            {
+                "id": "957",
+                "link": "/find?type=3&query=angular",
+                "word": "angular"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3877",
+                "link": "/find?type=1&query=angustifoliate",
+                "word": "angustifoliate"
+            },
+            {
+                "id": "3878",
+                "link": "/find?type=1&query=angustura",
+                "word": "angustura"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "253",
+                "link": "/find?type=4&query=anguish",
+                "word": "anguish"
+            }
+        ]
+    }
+}
