@@ -1,1 +1,34 @@
-{"error": 0, "query": "fourteen", "enViData": {"suggests": [{"id": "37551", "link": "/find?type=1&query=fourteenth", "word": "fourteenth"}], "best": {"id": "37551", "details": "\n<div id=\"find_word_37551\" class=\"world word_en\" rel=\"fourteen\">\n    <h2 class=\"fl\">fourteen <span class=\"color-black\">/,f\u0254:'ti:n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"37551\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"37551\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u01b0\u1eddi b\u1ed1n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">con s\u1ed1 m\u01b0\u1eddi b\u1ed1n</div>\n    \n</div>\n", "link": "/find?type=1&query=fourteen", "word": "fourteen"}}, "mUrl": "/find?type=1&query=fourteen", "enEnData": {"suggests": [], "best": {"id": "11327", "details": "\n<div id=\"find_word_11327\" class=\"world word_en\" rel=\"fourteen\">\n    <h2 class=\"fl\">fourteen <span class=\"color-black\">/fo\u025a\u02c8ti\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11327\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11327\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -teens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the number</div>\n    \n</div>\n", "link": "/find?type=3&query=fourteen", "word": "fourteen"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -teens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the number</div>",
+            "id": "11327",
+            "mean": [],
+            "pronounce": "/fo\u025a\u02c8ti\u02d0n/",
+            "type": "noun",
+            "word": "fourteen"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u01b0\u1eddi b\u1ed1n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">con s\u1ed1 m\u01b0\u1eddi b\u1ed1n</div>",
+            "id": "37551",
+            "mean": [],
+            "pronounce": "/,f\u0254:'ti:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5350d39d81816ae52e4bff1d8323ffd5/16e60928663/F/fourteen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c18efe3668be78b7c2e86fb78d32d8ae/16e60927e4b/F/fourteen.mp3"
+            },
+            "type": "\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb Danh t\u1eeb",
+            "word": "fourteen"
+        },
+        "suggests": [
+            {
+                "id": "37551",
+                "link": "/find?type=1&query=fourteenth",
+                "word": "fourteenth"
+            }
+        ]
+    }
+}
