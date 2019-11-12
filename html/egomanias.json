@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "29079", "link": "/find?type=1&query=egomaniac", "word": "egomaniac"}], "data": {"word": "egomania", "id": "29079", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh ch\u1ea5t h\u1ebft s\u1ee9c \u00edch k\u1ef7</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9263", "link": "/find?type=3&query=egomaniac", "word": "egomaniac"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9263",
+                "link": "/find?type=3&query=egomaniac",
+                "word": "egomaniac"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh ch\u1ea5t h\u1ebft s\u1ee9c \u00edch k\u1ef7</div>",
+            "id": "29079",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "egomania"
+        },
+        "suggests": [
+            {
+                "id": "29079",
+                "link": "/find?type=1&query=egomaniac",
+                "word": "egomaniac"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "29104", "link": "/find?type=1&query=eident", "word": "eident"}, {"id": "29105", "link": "/find?type=1&query=eider", "word": "eider"}, {"id": "29106", "link": "/find?type=1&query=eider-down", "word": "eider-down"}, {"id": "29107", "link": "/find?type=1&query=eider-duck", "word": "eider-duck"}, {"id": "29108", "link": "/find?type=1&query=eiderdown", "word": "eiderdown"}, {"id": "29109", "link": "/find?type=1&query=eidetic", "word": "eidetic"}], "data": {}}, "en_en": {"suggests": [{"id": "9270", "link": "/find?type=3&query=eiderdown", "word": "eiderdown"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9270",
+                "link": "/find?type=3&query=eiderdown",
+                "word": "eiderdown"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29104",
+                "link": "/find?type=1&query=eident",
+                "word": "eident"
+            },
+            {
+                "id": "29105",
+                "link": "/find?type=1&query=eider",
+                "word": "eider"
+            },
+            {
+                "id": "29106",
+                "link": "/find?type=1&query=eider-down",
+                "word": "eider-down"
+            },
+            {
+                "id": "29107",
+                "link": "/find?type=1&query=eider-duck",
+                "word": "eider-duck"
+            },
+            {
+                "id": "29108",
+                "link": "/find?type=1&query=eiderdown",
+                "word": "eiderdown"
+            },
+            {
+                "id": "29109",
+                "link": "/find?type=1&query=eidetic",
+                "word": "eidetic"
+            }
+        ]
+    }
+}

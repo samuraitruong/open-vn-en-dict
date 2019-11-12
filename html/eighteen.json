@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "29122", "link": "/find?type=1&query=eighteenmo", "word": "eighteenmo"}, {"id": "29122", "link": "/find?type=1&query=eighteens", "word": "eighteens"}, {"id": "29122", "link": "/find?type=1&query=eighteenth", "word": "eighteenth"}], "data": {"word": "eighteen", "id": "29122", "pronounce": "/ei'ti:n/", "type": "\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u01b0\u1eddi t\u00e1m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 m\u01b0\u1eddi t\u00e1m</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/dc3e90bed864aa833c5b9c5747e9afd1/16e5e12a15b/E/eighteen.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/fa3e3917ce9529109e7d34c10f08e4f6/16e5e12a753/E/eighteen.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "eighteen", "id": "9273", "pronounce": "/\u02cce\u026at\u02c8ti\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -teens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the number</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -teens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the number</div>",
+            "id": "9273",
+            "mean": [],
+            "pronounce": "/\u02cce\u026at\u02c8ti\u02d0n/",
+            "type": "noun",
+            "word": "eighteen"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u01b0\u1eddi t\u00e1m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 m\u01b0\u1eddi t\u00e1m</div>",
+            "id": "29122",
+            "mean": [],
+            "pronounce": "/ei'ti:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1a47aebbf7bb1a371403e811d27924e8/16e5f026a31/E/eighteen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ee9520389bea2ddd975ba80ee2da3e08/16e5f02580e/E/eighteen.mp3"
+            },
+            "type": "\u0110\u1ea1i t\u1eeb, \u0110\u1ecbnh t\u1eeb Danh t\u1eeb",
+            "word": "eighteen"
+        },
+        "suggests": [
+            {
+                "id": "29122",
+                "link": "/find?type=1&query=eighteenmo",
+                "word": "eighteenmo"
+            },
+            {
+                "id": "29122",
+                "link": "/find?type=1&query=eighteens",
+                "word": "eighteens"
+            },
+            {
+                "id": "29122",
+                "link": "/find?type=1&query=eighteenth",
+                "word": "eighteenth"
+            }
+        ]
+    }
+}
