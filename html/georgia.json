@@ -1,1 +1,22 @@
-{"error": 0, "query": "georgia", "enViData": {"suggests": [{"id": "39715", "link": "/find?type=1&query=Georgian", "word": "Georgian"}]}, "mUrl": "/find?type=1&query=georgia", "enEnData": {"suggests": [{"id": "11996", "link": "/find?type=3&query=Georgian", "word": "Georgian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11996",
+                "link": "/find?type=3&query=Georgian",
+                "word": "Georgian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39715",
+                "link": "/find?type=1&query=Georgian",
+                "word": "Georgian"
+            }
+        ]
+    }
+}
