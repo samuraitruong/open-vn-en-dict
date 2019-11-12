@@ -1,1 +1,32 @@
-{"error": 0, "query": "gridding", "enViData": {"suggests": [{"id": "41498", "link": "/find?type=1&query=gridded", "word": "gridded"}, {"id": "41499", "link": "/find?type=1&query=gridder", "word": "gridder"}]}, "mUrl": "/find?type=1&query=gridding", "enEnData": {"suggests": [{"id": "12593", "link": "/find?type=3&query=griddle", "word": "griddle"}, {"id": "12594", "link": "/find?type=3&query=griddle+cake", "word": "griddle cake"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12593",
+                "link": "/find?type=3&query=griddle",
+                "word": "griddle"
+            },
+            {
+                "id": "12594",
+                "link": "/find?type=3&query=griddle+cake",
+                "word": "griddle cake"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41498",
+                "link": "/find?type=1&query=gridded",
+                "word": "gridded"
+            },
+            {
+                "id": "41499",
+                "link": "/find?type=1&query=gridder",
+                "word": "gridder"
+            }
+        ]
+    }
+}
