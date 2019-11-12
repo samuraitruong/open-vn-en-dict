@@ -1,1 +1,104 @@
-{"en_vn": {"suggests": [{"id": "1432", "link": "/find?type=1&query=adminiculum", "word": "adminiculum"}, {"id": "1433", "link": "/find?type=1&query=administer", "word": "administer"}, {"id": "1434", "link": "/find?type=1&query=Administered+prices", "word": "Administered prices"}, {"id": "1435", "link": "/find?type=1&query=administrable", "word": "administrable"}, {"id": "1436", "link": "/find?type=1&query=administrant", "word": "administrant"}, {"id": "1437", "link": "/find?type=1&query=administrate", "word": "administrate"}, {"id": "1438", "link": "/find?type=1&query=administration", "word": "administration"}, {"id": "1439", "link": "/find?type=1&query=administration+information+display", "word": "administration information display"}, {"id": "1440", "link": "/find?type=1&query=administration+manager", "word": "administration manager"}, {"id": "1441", "link": "/find?type=1&query=administration+mode", "word": "administration mode"}], "data": {}}, "en_en": {"suggests": [{"id": "333", "link": "/find?type=3&query=administer", "word": "administer"}, {"id": "333", "link": "/find?type=3&query=administration", "word": "administration"}, {"id": "333", "link": "/find?type=3&query=administrative", "word": "administrative"}, {"id": "333", "link": "/find?type=3&query=administrator", "word": "administrator"}], "data": {"word": "admin", "id": "333", "pronounce": "/\u02c8\u00e6d\u02ccm\u026an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] Brit informal :administration</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">You'll have to go see the people in admin.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has a job in admin.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "111", "link": "/find?type=4&query=administer", "word": "administer"}, {"id": "112", "link": "/find?type=4&query=administration", "word": "administration"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] Brit informal :administration</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">You'll have to go see the people in admin.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has a job in admin.</div>",
+            "id": "333",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6d\u02ccm\u026an/",
+            "type": "noun",
+            "word": "admin"
+        },
+        "suggests": [
+            {
+                "id": "333",
+                "link": "/find?type=3&query=administer",
+                "word": "administer"
+            },
+            {
+                "id": "333",
+                "link": "/find?type=3&query=administration",
+                "word": "administration"
+            },
+            {
+                "id": "333",
+                "link": "/find?type=3&query=administrative",
+                "word": "administrative"
+            },
+            {
+                "id": "333",
+                "link": "/find?type=3&query=administrator",
+                "word": "administrator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1432",
+                "link": "/find?type=1&query=adminiculum",
+                "word": "adminiculum"
+            },
+            {
+                "id": "1433",
+                "link": "/find?type=1&query=administer",
+                "word": "administer"
+            },
+            {
+                "id": "1434",
+                "link": "/find?type=1&query=Administered+prices",
+                "word": "Administered prices"
+            },
+            {
+                "id": "1435",
+                "link": "/find?type=1&query=administrable",
+                "word": "administrable"
+            },
+            {
+                "id": "1436",
+                "link": "/find?type=1&query=administrant",
+                "word": "administrant"
+            },
+            {
+                "id": "1437",
+                "link": "/find?type=1&query=administrate",
+                "word": "administrate"
+            },
+            {
+                "id": "1438",
+                "link": "/find?type=1&query=administration",
+                "word": "administration"
+            },
+            {
+                "id": "1439",
+                "link": "/find?type=1&query=administration+information+display",
+                "word": "administration information display"
+            },
+            {
+                "id": "1440",
+                "link": "/find?type=1&query=administration+manager",
+                "word": "administration manager"
+            },
+            {
+                "id": "1441",
+                "link": "/find?type=1&query=administration+mode",
+                "word": "administration mode"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "111",
+                "link": "/find?type=4&query=administer",
+                "word": "administer"
+            },
+            {
+                "id": "112",
+                "link": "/find?type=4&query=administration",
+                "word": "administration"
+            }
+        ]
+    }
+}

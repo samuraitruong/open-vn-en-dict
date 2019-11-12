@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "1328", "link": "/find?type=1&query=adept", "word": "adept"}, {"id": "1329", "link": "/find?type=1&query=adeptly", "word": "adeptly"}, {"id": "1330", "link": "/find?type=1&query=adeptness", "word": "adeptness"}], "data": {}}, "en_en": {"suggests": [{"id": "310", "link": "/find?type=3&query=adept", "word": "adept"}], "data": {}}, "synonyms": {"suggests": [{"id": "106", "link": "/find?type=4&query=adept", "word": "adept"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "310",
+                "link": "/find?type=3&query=adept",
+                "word": "adept"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1328",
+                "link": "/find?type=1&query=adept",
+                "word": "adept"
+            },
+            {
+                "id": "1329",
+                "link": "/find?type=1&query=adeptly",
+                "word": "adeptly"
+            },
+            {
+                "id": "1330",
+                "link": "/find?type=1&query=adeptness",
+                "word": "adeptness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "106",
+                "link": "/find?type=4&query=adept",
+                "word": "adept"
+            }
+        ]
+    }
+}

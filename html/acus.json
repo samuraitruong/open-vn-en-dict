@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "1174", "link": "/find?type=1&query=acuate", "word": "acuate"}, {"id": "1175", "link": "/find?type=1&query=acuity", "word": "acuity"}, {"id": "1176", "link": "/find?type=1&query=aculea", "word": "aculea"}, {"id": "1177", "link": "/find?type=1&query=aculeate", "word": "aculeate"}, {"id": "1178", "link": "/find?type=1&query=aculeateform", "word": "aculeateform"}, {"id": "1179", "link": "/find?type=1&query=aculeus", "word": "aculeus"}, {"id": "1180", "link": "/find?type=1&query=acumen", "word": "acumen"}, {"id": "1181", "link": "/find?type=1&query=acuminate", "word": "acuminate"}, {"id": "1182", "link": "/find?type=1&query=acumination", "word": "acumination"}, {"id": "1183", "link": "/find?type=1&query=acumineit", "word": "acumineit"}], "data": {}}, "en_en": {"suggests": [{"id": "273", "link": "/find?type=3&query=acuity", "word": "acuity"}, {"id": "274", "link": "/find?type=3&query=acumen", "word": "acumen"}, {"id": "275", "link": "/find?type=3&query=acupressure", "word": "acupressure"}, {"id": "276", "link": "/find?type=3&query=acupuncture", "word": "acupuncture"}, {"id": "277", "link": "/find?type=3&query=acute", "word": "acute"}], "data": {}}, "synonyms": {"suggests": [{"id": "98", "link": "/find?type=4&query=acute", "word": "acute"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "273",
+                "link": "/find?type=3&query=acuity",
+                "word": "acuity"
+            },
+            {
+                "id": "274",
+                "link": "/find?type=3&query=acumen",
+                "word": "acumen"
+            },
+            {
+                "id": "275",
+                "link": "/find?type=3&query=acupressure",
+                "word": "acupressure"
+            },
+            {
+                "id": "276",
+                "link": "/find?type=3&query=acupuncture",
+                "word": "acupuncture"
+            },
+            {
+                "id": "277",
+                "link": "/find?type=3&query=acute",
+                "word": "acute"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1174",
+                "link": "/find?type=1&query=acuate",
+                "word": "acuate"
+            },
+            {
+                "id": "1175",
+                "link": "/find?type=1&query=acuity",
+                "word": "acuity"
+            },
+            {
+                "id": "1176",
+                "link": "/find?type=1&query=aculea",
+                "word": "aculea"
+            },
+            {
+                "id": "1177",
+                "link": "/find?type=1&query=aculeate",
+                "word": "aculeate"
+            },
+            {
+                "id": "1178",
+                "link": "/find?type=1&query=aculeateform",
+                "word": "aculeateform"
+            },
+            {
+                "id": "1179",
+                "link": "/find?type=1&query=aculeus",
+                "word": "aculeus"
+            },
+            {
+                "id": "1180",
+                "link": "/find?type=1&query=acumen",
+                "word": "acumen"
+            },
+            {
+                "id": "1181",
+                "link": "/find?type=1&query=acuminate",
+                "word": "acuminate"
+            },
+            {
+                "id": "1182",
+                "link": "/find?type=1&query=acumination",
+                "word": "acumination"
+            },
+            {
+                "id": "1183",
+                "link": "/find?type=1&query=acumineit",
+                "word": "acumineit"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "98",
+                "link": "/find?type=4&query=acute",
+                "word": "acute"
+            }
+        ]
+    }
+}
