@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "12306", "link": "/find?type=1&query=cadmium+cell", "word": "cadmium cell"}], "data": {"word": "cadmium", "id": "12306", "pronounce": "/'k\u00e6dmi\u0259m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a)</div>\n    \n    <div class=\"green margin25 m-top15\">ca\u0111imi</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8fd8c3ca9b7658b3cbbe2da8847a71a2/16e5de091b2/C/cadmium.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ee7b9750713a35a1cbf6dc59d17d3d34/16e5de097c2/C/cadmium.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cadmium", "id": "3864", "pronounce": "/\u02c8k\u00e6dmij\u0259m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a bluish-white metal that is used especially in protective coatings and in batteries</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a bluish-white metal that is used especially in protective coatings and in batteries</div>",
+            "id": "3864",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6dmij\u0259m/",
+            "type": "noun",
+            "word": "cadmium"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a)</div>\n    \n    <div class=\"green margin25 m-top15\">ca\u0111imi</div>",
+            "id": "12306",
+            "mean": [],
+            "pronounce": "/'k\u00e6dmi\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/811dd2b2eb9831fcca2a36d11d3e0f34/16e5ec1c845/C/cadmium.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cea2f22553d890906d0589afd05b37b1/16e5ec1c317/C/cadmium.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cadmium"
+        },
+        "suggests": [
+            {
+                "id": "12306",
+                "link": "/find?type=1&query=cadmium+cell",
+                "word": "cadmium cell"
+            }
+        ]
+    }
+}

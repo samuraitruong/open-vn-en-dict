@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "12339", "link": "/find?type=1&query=caffeinated", "word": "caffeinated"}], "data": {}}, "en_en": {"suggests": [{"id": "3869", "link": "/find?type=3&query=caffeinated", "word": "caffeinated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3869",
+                "link": "/find?type=3&query=caffeinated",
+                "word": "caffeinated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12339",
+                "link": "/find?type=1&query=caffeinated",
+                "word": "caffeinated"
+            }
+        ]
+    }
+}

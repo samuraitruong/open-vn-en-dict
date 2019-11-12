@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "12298", "link": "/find?type=1&query=cadet+corps", "word": "cadet corps"}, {"id": "12298", "link": "/find?type=1&query=cadetship", "word": "cadetship"}, {"id": "12298", "link": "/find?type=1&query=cadette", "word": "cadette"}], "data": {"word": "cadet", "id": "12298", "pronounce": "/k\u0259'det/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ecdc vi\u00ean tr\u01b0\u1eddng s\u0129 quan; h\u1ecdc vi\u00ean tr\u01b0\u1eddng c\u1ea3nh s\u00e1t</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/691ecea06326e7b90397f4ae33611dc9/16e5de08813/C/cadet.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/df9f80dfcd7e477f715a67f7f91cedb2/16e5de08e42/C/cadet.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cadet", "id": "3862", "pronounce": "/k\u0259\u02c8d\u025bt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a student at a military school who is preparing to be an officer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a naval cadet - see also space cadet</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a student at a military school who is preparing to be an officer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a naval cadet - see also space cadet</div>",
+            "id": "3862",
+            "mean": [],
+            "pronounce": "/k\u0259\u02c8d\u025bt/",
+            "type": "noun",
+            "word": "cadet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ecdc vi\u00ean tr\u01b0\u1eddng s\u0129 quan; h\u1ecdc vi\u00ean tr\u01b0\u1eddng c\u1ea3nh s\u00e1t</div>",
+            "id": "12298",
+            "mean": [],
+            "pronounce": "/k\u0259'det/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/93c0eda656bae430e9b86efb4864bc5a/16e5ec1c01c/C/cadet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2b8ff19696a978a369db54bdfad5c7e9/16e5ec1bb2d/C/cadet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cadet"
+        },
+        "suggests": [
+            {
+                "id": "12298",
+                "link": "/find?type=1&query=cadet+corps",
+                "word": "cadet corps"
+            },
+            {
+                "id": "12298",
+                "link": "/find?type=1&query=cadetship",
+                "word": "cadetship"
+            },
+            {
+                "id": "12298",
+                "link": "/find?type=1&query=cadette",
+                "word": "cadette"
+            }
+        ]
+    }
+}

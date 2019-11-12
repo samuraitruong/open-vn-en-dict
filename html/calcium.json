@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "12417", "link": "/find?type=1&query=calcium+carbide", "word": "calcium carbide"}, {"id": "12417", "link": "/find?type=1&query=calcium+hydroxide", "word": "calcium hydroxide"}], "data": {"word": "calcium", "id": "12417", "pronounce": "/'k\u00e6lsi\u0259m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00f3a) canxi</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8286d7c0cb59fd7b603a2452b7668213/16e5de108bd/C/calcium.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/402e65b12fb608e37f87da323ad926c7/16e5de10e94/C/calcium.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "calcium", "id": "3886", "pronounce": "/\u02c8k\u00e6lsij\u0259m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a substance that is found in most plants and animals and that is especially important in people for strong healthy bones</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her doctor said she should eat more foods that are high in calcium, such as milk and cheese.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a substance that is found in most plants and animals and that is especially important in people for strong healthy bones</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her doctor said she should eat more foods that are high in calcium, such as milk and cheese.</div>",
+            "id": "3886",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6lsij\u0259m/",
+            "type": "noun",
+            "word": "calcium"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00f3a) canxi</div>",
+            "id": "12417",
+            "mean": [],
+            "pronounce": "/'k\u00e6lsi\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f0aa9c46092b67744bc41eb3863f0399/16e5ec23495/C/calcium.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/76043c5130758aeadca5cd5a2d10aefc/16e5ec22f1b/C/calcium.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "calcium"
+        },
+        "suggests": [
+            {
+                "id": "12417",
+                "link": "/find?type=1&query=calcium+carbide",
+                "word": "calcium carbide"
+            },
+            {
+                "id": "12417",
+                "link": "/find?type=1&query=calcium+hydroxide",
+                "word": "calcium hydroxide"
+            }
+        ]
+    }
+}

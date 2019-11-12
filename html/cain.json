@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "12355", "link": "/find?type=1&query=cainozoic", "word": "cainozoic"}], "data": {"word": "cain", "id": "12355", "pronounce": "/kein/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb gi\u1ebft anh em; k\u1ebb s\u00e1t nh\u00e2n</div>\n    \n    <div class=\"bold dot-blue m-top15\">to ralse Cain</div>\n    \n    <div class=\"grey margin25 m-top15\">(xem) raise</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "Cain", "id": "3876", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">see raise Cain at 1raise</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">see raise Cain at 1raise</div>",
+            "id": "3876",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "Cain"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb gi\u1ebft anh em; k\u1ebb s\u00e1t nh\u00e2n</div>\n    \n    <div class=\"bold dot-blue m-top15\">to ralse Cain</div>\n    \n    <div class=\"grey margin25 m-top15\">(xem) raise</div>",
+            "id": "12355",
+            "mean": [],
+            "pronounce": "/kein/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "cain"
+        },
+        "suggests": [
+            {
+                "id": "12355",
+                "link": "/find?type=1&query=cainozoic",
+                "word": "cainozoic"
+            }
+        ]
+    }
+}

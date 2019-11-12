@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "12465", "link": "/find?type=1&query=calices", "word": "calices"}, {"id": "12466", "link": "/find?type=1&query=calicle", "word": "calicle"}, {"id": "12467", "link": "/find?type=1&query=calico", "word": "calico"}, {"id": "12468", "link": "/find?type=1&query=calicoprinting", "word": "calicoprinting"}], "data": {}}, "en_en": {"suggests": [{"id": "3900", "link": "/find?type=3&query=calico", "word": "calico"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3900",
+                "link": "/find?type=3&query=calico",
+                "word": "calico"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12465",
+                "link": "/find?type=1&query=calices",
+                "word": "calices"
+            },
+            {
+                "id": "12466",
+                "link": "/find?type=1&query=calicle",
+                "word": "calicle"
+            },
+            {
+                "id": "12467",
+                "link": "/find?type=1&query=calico",
+                "word": "calico"
+            },
+            {
+                "id": "12468",
+                "link": "/find?type=1&query=calicoprinting",
+                "word": "calicoprinting"
+            }
+        ]
+    }
+}
