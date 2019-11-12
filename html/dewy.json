@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "24837", "link": "/find?type=1&query=dewy-eyed", "word": "dewy-eyed"}], "data": {"word": "dewy", "id": "24837", "pronounce": "/'dju:i/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u01b0\u1edbt s\u01b0\u01a1ng, \u0111\u1eabm s\u01b0\u01a1ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a7e8ee0d775746ea4fd58ac9efe3047c/16e5e061d68/D/dewy.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d1507b5f55bd4e8ea5ca316b65c4711d/16e5e062325/D/dewy.mp3"}}}, "en_en": {"suggests": [{"id": "7891", "link": "/find?type=3&query=dewy-eyed", "word": "dewy-eyed"}], "data": {"word": "dewy", "id": "7891", "pronounce": "/\u02c8du\u02d0wi/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">wet with dew or with something like dew</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a dewy meadow</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dewy eyes</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">wet with dew or with something like dew</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a dewy meadow</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dewy eyes</div>",
+            "id": "7891",
+            "mean": [],
+            "pronounce": "/\u02c8du\u02d0wi/",
+            "type": "adjective",
+            "word": "dewy"
+        },
+        "suggests": [
+            {
+                "id": "7891",
+                "link": "/find?type=3&query=dewy-eyed",
+                "word": "dewy-eyed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u01b0\u1edbt s\u01b0\u01a1ng, \u0111\u1eabm s\u01b0\u01a1ng</div>",
+            "id": "24837",
+            "mean": [],
+            "pronounce": "/'dju:i/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f4c4338239d2943a165534ff23964182/16e5eef7f9b/D/dewy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/382177643b55fc233282882517627233/16e5eef76ca/D/dewy.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "dewy"
+        },
+        "suggests": [
+            {
+                "id": "24837",
+                "link": "/find?type=1&query=dewy-eyed",
+                "word": "dewy-eyed"
+            }
+        ]
+    }
+}

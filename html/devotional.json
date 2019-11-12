@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "24814", "link": "/find?type=1&query=devotionalism", "word": "devotionalism"}, {"id": "24814", "link": "/find?type=1&query=devotionalist", "word": "devotionalist"}, {"id": "24814", "link": "/find?type=1&query=devotionally", "word": "devotionally"}], "data": {"word": "devotional", "id": "24814", "pronounce": "/di'v\u0259\u028a\u222bnl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[d\u00f9ng trong] l\u1ec5 b\u00e1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">devotional literature</div>\n    \n    <div class=\"margin25\">v\u0103n li\u1ec7u l\u1ec5 b\u00e1i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8378ee53f04ba67f136251235b77d588/16e5e060a21/D/devotional.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/435c140b67ca39b4e007d9225c774992/16e5e060fe9/D/devotional.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "devotional", "id": "7885", "pronounce": "/d\u026a\u02c8vo\u028a\u0283\u0259nn\u0329/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">relating to or used in religious services</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">devotional music/literature</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">relating to or used in religious services</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">devotional music/literature</div>",
+            "id": "7885",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8vo\u028a\u0283\u0259nn\u0329/",
+            "type": "adjective",
+            "word": "devotional"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[d\u00f9ng trong] l\u1ec5 b\u00e1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">devotional literature</div>\n    \n    <div class=\"margin25\">v\u0103n li\u1ec7u l\u1ec5 b\u00e1i</div>",
+            "id": "24814",
+            "mean": [],
+            "pronounce": "/di'v\u0259\u028a\u222bnl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3dfbfcb2aafb83ddfa1eba403cd09438/16e5eef65f2/D/devotional.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/165b28831ee2bfb25d5ca6c9346f0a63/16e5eef5d34/D/devotional.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "devotional"
+        },
+        "suggests": [
+            {
+                "id": "24814",
+                "link": "/find?type=1&query=devotionalism",
+                "word": "devotionalism"
+            },
+            {
+                "id": "24814",
+                "link": "/find?type=1&query=devotionalist",
+                "word": "devotionalist"
+            },
+            {
+                "id": "24814",
+                "link": "/find?type=1&query=devotionally",
+                "word": "devotionally"
+            }
+        ]
+    }
+}

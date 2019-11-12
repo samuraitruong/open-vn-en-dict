@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "24840", "link": "/find?type=1&query=dexterity", "word": "dexterity"}, {"id": "24840", "link": "/find?type=1&query=dexterous", "word": "dexterous"}, {"id": "24840", "link": "/find?type=1&query=dexterously", "word": "dexterously"}], "data": {"word": "dexter", "id": "24840", "pronounce": "/'dekst\u0259/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u1ea3i, b\u00ean ph\u1ea3i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7893", "link": "/find?type=3&query=dexterity", "word": "dexterity"}, {"id": "7894", "link": "/find?type=3&query=dexterous", "word": "dexterous"}], "data": {}}, "synonyms": {"suggests": [{"id": "1642", "link": "/find?type=4&query=dexterity", "word": "dexterity"}, {"id": "1643", "link": "/find?type=4&query=dexterous", "word": "dexterous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7893",
+                "link": "/find?type=3&query=dexterity",
+                "word": "dexterity"
+            },
+            {
+                "id": "7894",
+                "link": "/find?type=3&query=dexterous",
+                "word": "dexterous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u1ea3i, b\u00ean ph\u1ea3i</div>",
+            "id": "24840",
+            "mean": [],
+            "pronounce": "/'dekst\u0259/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "dexter"
+        },
+        "suggests": [
+            {
+                "id": "24840",
+                "link": "/find?type=1&query=dexterity",
+                "word": "dexterity"
+            },
+            {
+                "id": "24840",
+                "link": "/find?type=1&query=dexterous",
+                "word": "dexterous"
+            },
+            {
+                "id": "24840",
+                "link": "/find?type=1&query=dexterously",
+                "word": "dexterously"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1642",
+                "link": "/find?type=4&query=dexterity",
+                "word": "dexterity"
+            },
+            {
+                "id": "1643",
+                "link": "/find?type=4&query=dexterous",
+                "word": "dexterous"
+            }
+        ]
+    }
+}
