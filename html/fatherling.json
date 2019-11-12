@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "34331", "link": "/find?type=1&query=fatherless", "word": "fatherless"}], "data": {}}, "en_en": {"suggests": [{"id": "10365", "link": "/find?type=3&query=fatherland", "word": "fatherland"}, {"id": "10366", "link": "/find?type=3&query=fatherly", "word": "fatherly"}], "data": {}}, "synonyms": {"suggests": [{"id": "2533", "link": "/find?type=4&query=fatherland", "word": "fatherland"}, {"id": "2534", "link": "/find?type=4&query=fatherly", "word": "fatherly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10365",
+                "link": "/find?type=3&query=fatherland",
+                "word": "fatherland"
+            },
+            {
+                "id": "10366",
+                "link": "/find?type=3&query=fatherly",
+                "word": "fatherly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34331",
+                "link": "/find?type=1&query=fatherless",
+                "word": "fatherless"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2533",
+                "link": "/find?type=4&query=fatherland",
+                "word": "fatherland"
+            },
+            {
+                "id": "2534",
+                "link": "/find?type=4&query=fatherly",
+                "word": "fatherly"
+            }
+        ]
+    }
+}
