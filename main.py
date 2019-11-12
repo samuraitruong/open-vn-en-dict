@@ -125,13 +125,13 @@ if len(sys.argv) > 1:
 print("Retrive list of all english words")
 words = getWordList()
 print("Total english words %d" % (len(words)))
-for key in words:
-    if key < "hype":
-        logs[key] = 1
-with open("logs.json", 'w+') as outfile:
-    outfile.seek(0)
-    outfile.truncate()
-    json.dump(logs, outfile, indent=4, sort_keys=True)
+# for key in words:
+#     if key < "hype":
+#         logs[key] = 1
+# with open("logs.json", 'w+') as outfile:
+#     outfile.seek(0)
+#     outfile.truncate()
+#     json.dump(logs, outfile, indent=4, sort_keys=True)
 exit()
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
