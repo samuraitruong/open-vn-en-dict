@@ -1,1 +1,93 @@
-{"error": 0, "query": "hast", "enViData": {"suggests": [{"id": "42961", "link": "/find?type=1&query=hastate", "word": "hastate"}, {"id": "42961", "link": "/find?type=1&query=haste", "word": "haste"}, {"id": "42961", "link": "/find?type=1&query=hasten", "word": "hasten"}, {"id": "42961", "link": "/find?type=1&query=hastily", "word": "hastily"}, {"id": "42961", "link": "/find?type=1&query=hastiness", "word": "hastiness"}, {"id": "42961", "link": "/find?type=1&query=hasty", "word": "hasty"}], "best": {"id": "42961", "details": "\n<div id=\"find_word_42961\" class=\"world word_en\" rel=\"hast\">\n    <h2 class=\"fl\">hast <span class=\"color-black\">/h\u00e6st/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42961\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42961\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5) ng\u00f4i 2 s\u1ed1 \u00edt th\u1eddi hi\u1ec7n t\u1ea1i c\u1ee7a have</div>\n    \n</div>\n", "link": "/find?type=1&query=hast", "word": "hast"}}, "mUrl": "/find?type=1&query=hast", "enEnData": {"suggests": [{"id": "13153", "link": "/find?type=3&query=haste", "word": "haste"}, {"id": "13154", "link": "/find?type=3&query=hasten", "word": "hasten"}, {"id": "13155", "link": "/find?type=3&query=hasty", "word": "hasty"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3227", "link": "/find?type=4&query=haste", "word": "haste"}, {"id": "3228", "link": "/find?type=4&query=hasten", "word": "hasten"}, {"id": "3229", "link": "/find?type=4&query=hastily", "word": "hastily"}, {"id": "3230", "link": "/find?type=4&query=hasty", "word": "hasty"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13153",
+                "link": "/find?type=3&query=haste",
+                "word": "haste"
+            },
+            {
+                "id": "13154",
+                "link": "/find?type=3&query=hasten",
+                "word": "hasten"
+            },
+            {
+                "id": "13155",
+                "link": "/find?type=3&query=hasty",
+                "word": "hasty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5) ng\u00f4i 2 s\u1ed1 \u00edt th\u1eddi hi\u1ec7n t\u1ea1i c\u1ee7a have</div>",
+            "id": "42961",
+            "mean": [],
+            "pronounce": "/h\u00e6st/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cc598ef97d16c43d332e40f10114ef59/16e616c684d/H/hast.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a2ab53deb66b0ae9376e04e565cfbc34/16e616c6022/H/hast.mp3"
+            },
+            "type": "",
+            "word": "hast"
+        },
+        "suggests": [
+            {
+                "id": "42961",
+                "link": "/find?type=1&query=hastate",
+                "word": "hastate"
+            },
+            {
+                "id": "42961",
+                "link": "/find?type=1&query=haste",
+                "word": "haste"
+            },
+            {
+                "id": "42961",
+                "link": "/find?type=1&query=hasten",
+                "word": "hasten"
+            },
+            {
+                "id": "42961",
+                "link": "/find?type=1&query=hastily",
+                "word": "hastily"
+            },
+            {
+                "id": "42961",
+                "link": "/find?type=1&query=hastiness",
+                "word": "hastiness"
+            },
+            {
+                "id": "42961",
+                "link": "/find?type=1&query=hasty",
+                "word": "hasty"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3227",
+                "link": "/find?type=4&query=haste",
+                "word": "haste"
+            },
+            {
+                "id": "3228",
+                "link": "/find?type=4&query=hasten",
+                "word": "hasten"
+            },
+            {
+                "id": "3229",
+                "link": "/find?type=4&query=hastily",
+                "word": "hastily"
+            },
+            {
+                "id": "3230",
+                "link": "/find?type=4&query=hasty",
+                "word": "hasty"
+            }
+        ]
+    }
+}
