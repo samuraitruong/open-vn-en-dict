@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "26330", "link": "/find?type=1&query=dispensation", "word": "dispensation"}], "data": {}}, "en_en": {"suggests": [{"id": "8287", "link": "/find?type=3&query=dispensation", "word": "dispensation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8287",
+                "link": "/find?type=3&query=dispensation",
+                "word": "dispensation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26330",
+                "link": "/find?type=1&query=dispensation",
+                "word": "dispensation"
+            }
+        ]
+    }
+}

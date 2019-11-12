@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "26265", "link": "/find?type=1&query=dismember", "word": "dismember"}, {"id": "26266", "link": "/find?type=1&query=dismemberment", "word": "dismemberment"}], "data": {}}, "en_en": {"suggests": [{"id": "8262", "link": "/find?type=3&query=dismember", "word": "dismember"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8262",
+                "link": "/find?type=3&query=dismember",
+                "word": "dismember"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26265",
+                "link": "/find?type=1&query=dismember",
+                "word": "dismember"
+            },
+            {
+                "id": "26266",
+                "link": "/find?type=1&query=dismemberment",
+                "word": "dismemberment"
+            }
+        ]
+    }
+}

@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "26204", "link": "/find?type=1&query=disjointed", "word": "disjointed"}, {"id": "26204", "link": "/find?type=1&query=disjointedly", "word": "disjointedly"}, {"id": "26204", "link": "/find?type=1&query=disjointedness", "word": "disjointedness"}, {"id": "26204", "link": "/find?type=1&query=disjointness", "word": "disjointness"}], "data": {"word": "disjoint", "id": "26204", "pronounce": "/dis'd\u02a4\u0254int/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e1o r\u1eddi ra</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e1o r\u1eddi kh\u1edbp n\u1ed1i ra; l\u00e0m tr\u1eadt kh\u1edbp</div>\n    \n    <div class=\"green margin25 m-top15\">r\u1eddi (nhau)</div>\n    \n    <div class=\"green margin25 m-top15\">mutually d. r\u1eddi nhau</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8248", "link": "/find?type=3&query=disjointed", "word": "disjointed"}], "data": {}}, "synonyms": {"suggests": [{"id": "1770", "link": "/find?type=4&query=disjointed", "word": "disjointed"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8248",
+                "link": "/find?type=3&query=disjointed",
+                "word": "disjointed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e1o r\u1eddi ra</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e1o r\u1eddi kh\u1edbp n\u1ed1i ra; l\u00e0m tr\u1eadt kh\u1edbp</div>\n    \n    <div class=\"green margin25 m-top15\">r\u1eddi (nhau)</div>\n    \n    <div class=\"green margin25 m-top15\">mutually d. r\u1eddi nhau</div>",
+            "id": "26204",
+            "mean": [],
+            "pronounce": "/dis'd\u02a4\u0254int/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "disjoint"
+        },
+        "suggests": [
+            {
+                "id": "26204",
+                "link": "/find?type=1&query=disjointed",
+                "word": "disjointed"
+            },
+            {
+                "id": "26204",
+                "link": "/find?type=1&query=disjointedly",
+                "word": "disjointedly"
+            },
+            {
+                "id": "26204",
+                "link": "/find?type=1&query=disjointedness",
+                "word": "disjointedness"
+            },
+            {
+                "id": "26204",
+                "link": "/find?type=1&query=disjointness",
+                "word": "disjointness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1770",
+                "link": "/find?type=4&query=disjointed",
+                "word": "disjointed"
+            }
+        ]
+    }
+}
