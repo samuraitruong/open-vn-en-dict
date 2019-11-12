@@ -1,1 +1,22 @@
-{"error": 0, "query": "haik", "enViData": {"suggests": [{"id": "42355", "link": "/find?type=1&query=haiku", "word": "haiku"}]}, "mUrl": "/find?type=1&query=haik", "enEnData": {"suggests": [{"id": "12870", "link": "/find?type=3&query=haiku", "word": "haiku"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12870",
+                "link": "/find?type=3&query=haiku",
+                "word": "haiku"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42355",
+                "link": "/find?type=1&query=haiku",
+                "word": "haiku"
+            }
+        ]
+    }
+}
