@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "15432", "link": "/find?type=1&query=cigarette-case", "word": "cigarette-case"}, {"id": "15432", "link": "/find?type=1&query=cigarette-end", "word": "cigarette-end"}, {"id": "15432", "link": "/find?type=1&query=cigarette-holder", "word": "cigarette-holder"}, {"id": "15432", "link": "/find?type=1&query=cigarette-lighter", "word": "cigarette-lighter"}, {"id": "15432", "link": "/find?type=1&query=cigarette-paper", "word": "cigarette-paper"}], "data": {"word": "cigarette", "id": "15432", "pronounce": "/,sig\u0259'ret/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u1eeb M\u1ef9 c\u00e1ch vi\u1ebft kh\u00e1c cigaret)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ebfu thu\u1ed1c l\u00e1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/3abe8eb8f50f4df2768c415ebfd2e610/16e5debcb50/C/cigarette.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/94f38fb3b38b1ba553b3829edb8798c3/16e5debd0f8/C/cigarette.mp3"}}}, "en_en": {"suggests": [{"id": "4967", "link": "/find?type=3&query=cigarette+paper", "word": "cigarette paper"}], "data": {"word": "cigarette", "id": "4967", "pronounce": "/\u02ccs\u026ag\u0259\u02c8r\u025bt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rettes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small roll of paper that is filled with cut tobacco and smoked</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pack of cigarettes - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cigarette butt/holder/lighter</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cigarette smoke</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rettes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small roll of paper that is filled with cut tobacco and smoked</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pack of cigarettes - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cigarette butt/holder/lighter</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cigarette smoke</div>",
+            "id": "4967",
+            "mean": [],
+            "pronounce": "/\u02ccs\u026ag\u0259\u02c8r\u025bt/",
+            "type": "noun",
+            "word": "cigarette"
+        },
+        "suggests": [
+            {
+                "id": "4967",
+                "link": "/find?type=3&query=cigarette+paper",
+                "word": "cigarette paper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u1eeb M\u1ef9 c\u00e1ch vi\u1ebft kh\u00e1c cigaret)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ebfu thu\u1ed1c l\u00e1</div>",
+            "id": "15432",
+            "mean": [],
+            "pronounce": "/,sig\u0259'ret/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/dce8731503f39771537b6bf74bc7b0cd/16e5ecc301d/C/cigarette.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/777bfc242e8889aa3d8aa0616fab4c33/16e5ecc2acd/C/cigarette.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cigarette"
+        },
+        "suggests": [
+            {
+                "id": "15432",
+                "link": "/find?type=1&query=cigarette-case",
+                "word": "cigarette-case"
+            },
+            {
+                "id": "15432",
+                "link": "/find?type=1&query=cigarette-end",
+                "word": "cigarette-end"
+            },
+            {
+                "id": "15432",
+                "link": "/find?type=1&query=cigarette-holder",
+                "word": "cigarette-holder"
+            },
+            {
+                "id": "15432",
+                "link": "/find?type=1&query=cigarette-lighter",
+                "word": "cigarette-lighter"
+            },
+            {
+                "id": "15432",
+                "link": "/find?type=1&query=cigarette-paper",
+                "word": "cigarette-paper"
+            }
+        ]
+    }
+}

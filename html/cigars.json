@@ -1,1 +1,85 @@
-{"en_vn": {"suggests": [{"id": "15427", "link": "/find?type=1&query=cigar-case", "word": "cigar-case"}, {"id": "15427", "link": "/find?type=1&query=cigar-holder", "word": "cigar-holder"}, {"id": "15427", "link": "/find?type=1&query=cigar-maker", "word": "cigar-maker"}, {"id": "15427", "link": "/find?type=1&query=cigar-shaped", "word": "cigar-shaped"}, {"id": "15427", "link": "/find?type=1&query=cigarette", "word": "cigarette"}, {"id": "15427", "link": "/find?type=1&query=cigarette-case", "word": "cigarette-case"}, {"id": "15427", "link": "/find?type=1&query=cigarette-end", "word": "cigarette-end"}, {"id": "15427", "link": "/find?type=1&query=cigarette-holder", "word": "cigarette-holder"}, {"id": "15427", "link": "/find?type=1&query=cigarette-lighter", "word": "cigarette-lighter"}], "data": {"word": "cigar", "id": "15427", "pronounce": "/si'g\u0251:[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">x\u00ec g\u00e0</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/51fa4c1a38c8b2e4715c0ef048ad4c99/16e5debcb70/C/cigar.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/bda1bce7f1c55187b3be41b9e7b6c2f4/16e5debd0f1/C/cigar.mp3"}}}, "en_en": {"suggests": [{"id": "4966", "link": "/find?type=3&query=cigarette", "word": "cigarette"}, {"id": "4966", "link": "/find?type=3&query=cigarette+paper", "word": "cigarette paper"}], "data": {"word": "cigar", "id": "4966", "pronounce": "/s\u026a\u02c8g\u0251\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gars</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a roll of tobacco leaves that is longer and thicker than a cigarette and that is smoked</div>\n    \n    <div class=\"bold dot-blue m-top15\">close but no cigar</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=3&amp;query=close\">close</a></span></div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gars</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a roll of tobacco leaves that is longer and thicker than a cigarette and that is smoked</div>\n    \n    <div class=\"bold dot-blue m-top15\">close but no cigar</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=3&amp;query=close\">close</a></span></div>",
+            "id": "4966",
+            "mean": [],
+            "pronounce": "/s\u026a\u02c8g\u0251\u025a/",
+            "type": "noun",
+            "word": "cigar"
+        },
+        "suggests": [
+            {
+                "id": "4966",
+                "link": "/find?type=3&query=cigarette",
+                "word": "cigarette"
+            },
+            {
+                "id": "4966",
+                "link": "/find?type=3&query=cigarette+paper",
+                "word": "cigarette paper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">x\u00ec g\u00e0</div>",
+            "id": "15427",
+            "mean": [],
+            "pronounce": "/si'g\u0251:[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f069c7c81641601b83569c1810afc153/16e5ecc2f4f/C/cigar.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/330e7d6ae9085d6ef7a2b196b79619c3/16e5ecc2781/C/cigar.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cigar"
+        },
+        "suggests": [
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigar-case",
+                "word": "cigar-case"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigar-holder",
+                "word": "cigar-holder"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigar-maker",
+                "word": "cigar-maker"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigar-shaped",
+                "word": "cigar-shaped"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigarette",
+                "word": "cigarette"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigarette-case",
+                "word": "cigarette-case"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigarette-end",
+                "word": "cigarette-end"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigarette-holder",
+                "word": "cigarette-holder"
+            },
+            {
+                "id": "15427",
+                "link": "/find?type=1&query=cigarette-lighter",
+                "word": "cigarette-lighter"
+            }
+        ]
+    }
+}

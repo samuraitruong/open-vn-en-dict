@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "22160", "link": "/find?type=1&query=cypher", "word": "cypher"}, {"id": "22161", "link": "/find?type=1&query=cypherpunks", "word": "cypherpunks"}, {"id": "22162", "link": "/find?type=1&query=cypress", "word": "cypress"}, {"id": "22163", "link": "/find?type=1&query=cyprinid", "word": "cyprinid"}, {"id": "22164", "link": "/find?type=1&query=cyprinodont", "word": "cyprinodont"}], "data": {}}, "en_en": {"suggests": [{"id": "7114", "link": "/find?type=3&query=cypher", "word": "cypher"}, {"id": "7115", "link": "/find?type=3&query=cypress", "word": "cypress"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7114",
+                "link": "/find?type=3&query=cypher",
+                "word": "cypher"
+            },
+            {
+                "id": "7115",
+                "link": "/find?type=3&query=cypress",
+                "word": "cypress"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22160",
+                "link": "/find?type=1&query=cypher",
+                "word": "cypher"
+            },
+            {
+                "id": "22161",
+                "link": "/find?type=1&query=cypherpunks",
+                "word": "cypherpunks"
+            },
+            {
+                "id": "22162",
+                "link": "/find?type=1&query=cypress",
+                "word": "cypress"
+            },
+            {
+                "id": "22163",
+                "link": "/find?type=1&query=cyprinid",
+                "word": "cyprinid"
+            },
+            {
+                "id": "22164",
+                "link": "/find?type=1&query=cyprinodont",
+                "word": "cyprinodont"
+            }
+        ]
+    }
+}

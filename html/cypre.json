@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "22162", "link": "/find?type=1&query=cypress", "word": "cypress"}], "data": {}}, "en_en": {"suggests": [{"id": "7115", "link": "/find?type=3&query=cypress", "word": "cypress"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7115",
+                "link": "/find?type=3&query=cypress",
+                "word": "cypress"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22162",
+                "link": "/find?type=1&query=cypress",
+                "word": "cypress"
+            }
+        ]
+    }
+}

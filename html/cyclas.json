@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "22069", "link": "/find?type=1&query=cyclamate", "word": "cyclamate"}, {"id": "22070", "link": "/find?type=1&query=cyclamen", "word": "cyclamen"}, {"id": "22071", "link": "/find?type=1&query=cyclamin", "word": "cyclamin"}], "data": {}}, "en_en": {"suggests": [{"id": "7100", "link": "/find?type=3&query=cyclamen", "word": "cyclamen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7100",
+                "link": "/find?type=3&query=cyclamen",
+                "word": "cyclamen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22069",
+                "link": "/find?type=1&query=cyclamate",
+                "word": "cyclamate"
+            },
+            {
+                "id": "22070",
+                "link": "/find?type=1&query=cyclamen",
+                "word": "cyclamen"
+            },
+            {
+                "id": "22071",
+                "link": "/find?type=1&query=cyclamin",
+                "word": "cyclamin"
+            }
+        ]
+    }
+}

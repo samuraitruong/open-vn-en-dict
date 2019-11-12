@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "22143", "link": "/find?type=1&query=cymbaleer", "word": "cymbaleer"}, {"id": "22143", "link": "/find?type=1&query=cymbalist", "word": "cymbalist"}], "data": {"word": "cymbal", "id": "22143", "pronounce": "/'simbl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i ch\u0169m ch\u1ecde</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ed3dc5bceaa1ee44890d705f92ac8d4c/16e5debe4ec/C/cymbal.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/34007b2870291f13325567517769f8f9/16e5debea84/C/cymbal.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cymbal", "id": "7109", "pronounce": "/\u02c8s\u026amb\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a musical instrument in the form of a slightly curved thin metal plate that is played by hitting it with a drumstick or with another cymbal and that makes a very loud metallic sound - see picture at percussion</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a musical instrument in the form of a slightly curved thin metal plate that is played by hitting it with a drumstick or with another cymbal and that makes a very loud metallic sound - see picture at percussion</div>",
+            "id": "7109",
+            "mean": [],
+            "pronounce": "/\u02c8s\u026amb\u0259l/",
+            "type": "noun",
+            "word": "cymbal"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i ch\u0169m ch\u1ecde</div>",
+            "id": "22143",
+            "mean": [],
+            "pronounce": "/'simbl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/297c12f2fc005262f0c7acb3e71534ad/16e5ecc45a4/C/cymbal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7c5059d1a8ebe56d27eb2a2db91d6555/16e5ecc4081/C/cymbal.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cymbal"
+        },
+        "suggests": [
+            {
+                "id": "22143",
+                "link": "/find?type=1&query=cymbaleer",
+                "word": "cymbaleer"
+            },
+            {
+                "id": "22143",
+                "link": "/find?type=1&query=cymbalist",
+                "word": "cymbalist"
+            }
+        ]
+    }
+}

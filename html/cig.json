@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "15425", "link": "/find?type=1&query=cigala", "word": "cigala"}, {"id": "15425", "link": "/find?type=1&query=cigar", "word": "cigar"}, {"id": "15425", "link": "/find?type=1&query=cigar-case", "word": "cigar-case"}, {"id": "15425", "link": "/find?type=1&query=cigar-holder", "word": "cigar-holder"}, {"id": "15425", "link": "/find?type=1&query=cigar-maker", "word": "cigar-maker"}, {"id": "15425", "link": "/find?type=1&query=cigar-shaped", "word": "cigar-shaped"}, {"id": "15425", "link": "/find?type=1&query=cigarette", "word": "cigarette"}, {"id": "15425", "link": "/find?type=1&query=cigarette-case", "word": "cigarette-case"}, {"id": "15425", "link": "/find?type=1&query=cigarette-end", "word": "cigarette-end"}], "data": {"word": "cig", "id": "15425", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) \u0111i\u1ebfu thu\u1ed1c l\u00e1</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4965", "link": "/find?type=3&query=cigar", "word": "cigar"}, {"id": "4965", "link": "/find?type=3&query=cigarette", "word": "cigarette"}, {"id": "4965", "link": "/find?type=3&query=cigarette+paper", "word": "cigarette paper"}, {"id": "4965", "link": "/find?type=3&query=ciggie", "word": "ciggie"}], "data": {"word": "cig", "id": "4965", "pronounce": "/\u02c8s\u026ag/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cigs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :cigarette</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cigs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :cigarette</div>",
+            "id": "4965",
+            "mean": [],
+            "pronounce": "/\u02c8s\u026ag/",
+            "type": "noun",
+            "word": "cig"
+        },
+        "suggests": [
+            {
+                "id": "4965",
+                "link": "/find?type=3&query=cigar",
+                "word": "cigar"
+            },
+            {
+                "id": "4965",
+                "link": "/find?type=3&query=cigarette",
+                "word": "cigarette"
+            },
+            {
+                "id": "4965",
+                "link": "/find?type=3&query=cigarette+paper",
+                "word": "cigarette paper"
+            },
+            {
+                "id": "4965",
+                "link": "/find?type=3&query=ciggie",
+                "word": "ciggie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) \u0111i\u1ebfu thu\u1ed1c l\u00e1</div>",
+            "id": "15425",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "cig"
+        },
+        "suggests": [
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigala",
+                "word": "cigala"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigar",
+                "word": "cigar"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigar-case",
+                "word": "cigar-case"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigar-holder",
+                "word": "cigar-holder"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigar-maker",
+                "word": "cigar-maker"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigar-shaped",
+                "word": "cigar-shaped"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigarette",
+                "word": "cigarette"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigarette-case",
+                "word": "cigarette-case"
+            },
+            {
+                "id": "15425",
+                "link": "/find?type=1&query=cigarette-end",
+                "word": "cigarette-end"
+            }
+        ]
+    }
+}

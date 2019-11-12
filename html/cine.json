@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "15463", "link": "/find?type=1&query=cine-", "word": "cine-"}, {"id": "15463", "link": "/find?type=1&query=cine-camera", "word": "cine-camera"}, {"id": "15463", "link": "/find?type=1&query=cine-film", "word": "cine-film"}, {"id": "15463", "link": "/find?type=1&query=cine-projector", "word": "cine-projector"}, {"id": "15463", "link": "/find?type=1&query=cineast", "word": "cineast"}, {"id": "15463", "link": "/find?type=1&query=cineaste", "word": "cineaste"}, {"id": "15463", "link": "/find?type=1&query=cinema", "word": "cinema"}, {"id": "15463", "link": "/find?type=1&query=cinema-circuit", "word": "cinema-circuit"}, {"id": "15463", "link": "/find?type=1&query=cinema-goer", "word": "cinema-goer"}], "data": {"word": "cine", "id": "15463", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec7n \u1ea3nh</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4976", "link": "/find?type=3&query=cinema", "word": "cinema"}, {"id": "4977", "link": "/find?type=3&query=cinematic", "word": "cinematic"}, {"id": "4978", "link": "/find?type=3&query=cinematography", "word": "cinematography"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4976",
+                "link": "/find?type=3&query=cinema",
+                "word": "cinema"
+            },
+            {
+                "id": "4977",
+                "link": "/find?type=3&query=cinematic",
+                "word": "cinematic"
+            },
+            {
+                "id": "4978",
+                "link": "/find?type=3&query=cinematography",
+                "word": "cinematography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u0111i\u1ec7n \u1ea3nh</div>",
+            "id": "15463",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cine"
+        },
+        "suggests": [
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cine-",
+                "word": "cine-"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cine-camera",
+                "word": "cine-camera"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cine-film",
+                "word": "cine-film"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cine-projector",
+                "word": "cine-projector"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cineast",
+                "word": "cineast"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cineaste",
+                "word": "cineaste"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cinema",
+                "word": "cinema"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cinema-circuit",
+                "word": "cinema-circuit"
+            },
+            {
+                "id": "15463",
+                "link": "/find?type=1&query=cinema-goer",
+                "word": "cinema-goer"
+            }
+        ]
+    }
+}

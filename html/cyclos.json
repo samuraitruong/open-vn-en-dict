@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "22114", "link": "/find?type=1&query=cyclostyle", "word": "cyclostyle"}, {"id": "22115", "link": "/find?type=1&query=cyclosymmetry", "word": "cyclosymmetry"}, {"id": "22116", "link": "/find?type=1&query=cyclosynchrotron", "word": "cyclosynchrotron"}], "data": {}}, "en_en": {"suggests": [{"id": "7104", "link": "/find?type=3&query=cyclone", "word": "cyclone"}, {"id": "7105", "link": "/find?type=3&query=Cyclops", "word": "Cyclops"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7104",
+                "link": "/find?type=3&query=cyclone",
+                "word": "cyclone"
+            },
+            {
+                "id": "7105",
+                "link": "/find?type=3&query=Cyclops",
+                "word": "Cyclops"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22114",
+                "link": "/find?type=1&query=cyclostyle",
+                "word": "cyclostyle"
+            },
+            {
+                "id": "22115",
+                "link": "/find?type=1&query=cyclosymmetry",
+                "word": "cyclosymmetry"
+            },
+            {
+                "id": "22116",
+                "link": "/find?type=1&query=cyclosynchrotron",
+                "word": "cyclosynchrotron"
+            }
+        ]
+    }
+}
