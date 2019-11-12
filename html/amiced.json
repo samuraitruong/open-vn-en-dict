@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [], "data": {"word": "amice", "id": "3175", "pronounce": "/'\u00e6mis/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u00f4n gi\u00e1o) kh\u0103n l\u1ec5 (c\u1ee7a gi\u00e1o s\u0129 tr\u00f9m \u0111\u1ea7u ho\u1eb7c tr\u00f9m vai khi l\u00e0m l\u1ec5)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u0169 tr\u00f9m \u0111\u1ea7u</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "834", "link": "/find?type=3&query=amicable", "word": "amicable"}], "data": {}}, "synonyms": {"suggests": [{"id": "233", "link": "/find?type=4&query=amicable", "word": "amicable"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "834",
+                "link": "/find?type=3&query=amicable",
+                "word": "amicable"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u00f4n gi\u00e1o) kh\u0103n l\u1ec5 (c\u1ee7a gi\u00e1o s\u0129 tr\u00f9m \u0111\u1ea7u ho\u1eb7c tr\u00f9m vai khi l\u00e0m l\u1ec5)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u0169 tr\u00f9m \u0111\u1ea7u</div>",
+            "id": "3175",
+            "mean": [],
+            "pronounce": "/'\u00e6mis/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "amice"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "233",
+                "link": "/find?type=4&query=amicable",
+                "word": "amicable"
+            }
+        ]
+    }
+}

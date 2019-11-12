@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "3184", "link": "/find?type=1&query=amidships", "word": "amidships"}], "data": {}}, "en_en": {"suggests": [{"id": "836", "link": "/find?type=3&query=amidships", "word": "amidships"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "836",
+                "link": "/find?type=3&query=amidships",
+                "word": "amidships"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3184",
+                "link": "/find?type=1&query=amidships",
+                "word": "amidships"
+            }
+        ]
+    }
+}

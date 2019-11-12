@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "3109", "link": "/find?type=1&query=amelification", "word": "amelification"}, {"id": "3110", "link": "/find?type=1&query=ameliorate", "word": "ameliorate"}, {"id": "3111", "link": "/find?type=1&query=amelioration", "word": "amelioration"}, {"id": "3112", "link": "/find?type=1&query=ameliorative", "word": "ameliorative"}, {"id": "3113", "link": "/find?type=1&query=ameliorator", "word": "ameliorator"}], "data": {}}, "en_en": {"suggests": [{"id": "811", "link": "/find?type=3&query=ameliorate", "word": "ameliorate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "811",
+                "link": "/find?type=3&query=ameliorate",
+                "word": "ameliorate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3109",
+                "link": "/find?type=1&query=amelification",
+                "word": "amelification"
+            },
+            {
+                "id": "3110",
+                "link": "/find?type=1&query=ameliorate",
+                "word": "ameliorate"
+            },
+            {
+                "id": "3111",
+                "link": "/find?type=1&query=amelioration",
+                "word": "amelioration"
+            },
+            {
+                "id": "3112",
+                "link": "/find?type=1&query=ameliorative",
+                "word": "ameliorative"
+            },
+            {
+                "id": "3113",
+                "link": "/find?type=1&query=ameliorator",
+                "word": "ameliorator"
+            }
+        ]
+    }
+}

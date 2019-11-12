@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2973", "link": "/find?type=1&query=alveolar", "word": "alveolar"}, {"id": "2974", "link": "/find?type=1&query=alveolate", "word": "alveolate"}, {"id": "2975", "link": "/find?type=1&query=alveolation", "word": "alveolation"}], "data": {}}, "en_en": {"suggests": [{"id": "779", "link": "/find?type=3&query=alveolar", "word": "alveolar"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "779",
+                "link": "/find?type=3&query=alveolar",
+                "word": "alveolar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2973",
+                "link": "/find?type=1&query=alveolar",
+                "word": "alveolar"
+            },
+            {
+                "id": "2974",
+                "link": "/find?type=1&query=alveolate",
+                "word": "alveolate"
+            },
+            {
+                "id": "2975",
+                "link": "/find?type=1&query=alveolation",
+                "word": "alveolation"
+            }
+        ]
+    }
+}

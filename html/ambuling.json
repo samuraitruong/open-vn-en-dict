@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "3089", "link": "/find?type=1&query=ambulacra", "word": "ambulacra"}, {"id": "3090", "link": "/find?type=1&query=ambulacrum", "word": "ambulacrum"}, {"id": "3091", "link": "/find?type=1&query=ambulance", "word": "ambulance"}, {"id": "3092", "link": "/find?type=1&query=ambulance-chaser", "word": "ambulance-chaser"}, {"id": "3093", "link": "/find?type=1&query=ambulant", "word": "ambulant"}, {"id": "3094", "link": "/find?type=1&query=ambulatories", "word": "ambulatories"}, {"id": "3095", "link": "/find?type=1&query=ambulatorily", "word": "ambulatorily"}, {"id": "3096", "link": "/find?type=1&query=ambulatory", "word": "ambulatory"}], "data": {}}, "en_en": {"suggests": [{"id": "808", "link": "/find?type=3&query=ambulance", "word": "ambulance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "808",
+                "link": "/find?type=3&query=ambulance",
+                "word": "ambulance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3089",
+                "link": "/find?type=1&query=ambulacra",
+                "word": "ambulacra"
+            },
+            {
+                "id": "3090",
+                "link": "/find?type=1&query=ambulacrum",
+                "word": "ambulacrum"
+            },
+            {
+                "id": "3091",
+                "link": "/find?type=1&query=ambulance",
+                "word": "ambulance"
+            },
+            {
+                "id": "3092",
+                "link": "/find?type=1&query=ambulance-chaser",
+                "word": "ambulance-chaser"
+            },
+            {
+                "id": "3093",
+                "link": "/find?type=1&query=ambulant",
+                "word": "ambulant"
+            },
+            {
+                "id": "3094",
+                "link": "/find?type=1&query=ambulatories",
+                "word": "ambulatories"
+            },
+            {
+                "id": "3095",
+                "link": "/find?type=1&query=ambulatorily",
+                "word": "ambulatorily"
+            },
+            {
+                "id": "3096",
+                "link": "/find?type=1&query=ambulatory",
+                "word": "ambulatory"
+            }
+        ]
+    }
+}

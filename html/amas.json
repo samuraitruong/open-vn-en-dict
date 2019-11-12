@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "3007", "link": "/find?type=1&query=amass", "word": "amass"}, {"id": "3008", "link": "/find?type=1&query=amassable", "word": "amassable"}, {"id": "3009", "link": "/find?type=1&query=amasser", "word": "amasser"}, {"id": "3010", "link": "/find?type=1&query=amassment", "word": "amassment"}], "data": {}}, "en_en": {"suggests": [{"id": "786", "link": "/find?type=3&query=amass", "word": "amass"}], "data": {}}, "synonyms": {"suggests": [{"id": "218", "link": "/find?type=4&query=amass", "word": "amass"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "786",
+                "link": "/find?type=3&query=amass",
+                "word": "amass"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3007",
+                "link": "/find?type=1&query=amass",
+                "word": "amass"
+            },
+            {
+                "id": "3008",
+                "link": "/find?type=1&query=amassable",
+                "word": "amassable"
+            },
+            {
+                "id": "3009",
+                "link": "/find?type=1&query=amasser",
+                "word": "amasser"
+            },
+            {
+                "id": "3010",
+                "link": "/find?type=1&query=amassment",
+                "word": "amassment"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "218",
+                "link": "/find?type=4&query=amass",
+                "word": "amass"
+            }
+        ]
+    }
+}

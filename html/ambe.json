@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3040", "link": "/find?type=1&query=ambegris", "word": "ambegris"}, {"id": "3041", "link": "/find?type=1&query=amber", "word": "amber"}, {"id": "3042", "link": "/find?type=1&query=ambergris", "word": "ambergris"}], "data": {}}, "en_en": {"suggests": [{"id": "797", "link": "/find?type=3&query=amber", "word": "amber"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "797",
+                "link": "/find?type=3&query=amber",
+                "word": "amber"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3040",
+                "link": "/find?type=1&query=ambegris",
+                "word": "ambegris"
+            },
+            {
+                "id": "3041",
+                "link": "/find?type=1&query=amber",
+                "word": "amber"
+            },
+            {
+                "id": "3042",
+                "link": "/find?type=1&query=ambergris",
+                "word": "ambergris"
+            }
+        ]
+    }
+}
