@@ -1,1 +1,97 @@
-{"error": 0, "query": "insol", "enViData": {"suggests": [{"id": "48813", "link": "/find?type=1&query=insolate", "word": "insolate"}, {"id": "48814", "link": "/find?type=1&query=insolation", "word": "insolation"}, {"id": "48815", "link": "/find?type=1&query=insole", "word": "insole"}, {"id": "48816", "link": "/find?type=1&query=insolence", "word": "insolence"}, {"id": "48817", "link": "/find?type=1&query=insolent", "word": "insolent"}, {"id": "48818", "link": "/find?type=1&query=insolently", "word": "insolently"}, {"id": "48819", "link": "/find?type=1&query=insolubility", "word": "insolubility"}, {"id": "48820", "link": "/find?type=1&query=insolubilization", "word": "insolubilization"}, {"id": "48821", "link": "/find?type=1&query=insolubilize", "word": "insolubilize"}, {"id": "48822", "link": "/find?type=1&query=insoluble", "word": "insoluble"}]}, "mUrl": "/find?type=1&query=insol", "enEnData": {"suggests": [{"id": "15071", "link": "/find?type=3&query=insole", "word": "insole"}, {"id": "15072", "link": "/find?type=3&query=insolent", "word": "insolent"}, {"id": "15073", "link": "/find?type=3&query=insoluble", "word": "insoluble"}, {"id": "15074", "link": "/find?type=3&query=insolvent", "word": "insolvent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3828", "link": "/find?type=4&query=insolent", "word": "insolent"}, {"id": "3829", "link": "/find?type=4&query=insolvent", "word": "insolvent"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15071",
+                "link": "/find?type=3&query=insole",
+                "word": "insole"
+            },
+            {
+                "id": "15072",
+                "link": "/find?type=3&query=insolent",
+                "word": "insolent"
+            },
+            {
+                "id": "15073",
+                "link": "/find?type=3&query=insoluble",
+                "word": "insoluble"
+            },
+            {
+                "id": "15074",
+                "link": "/find?type=3&query=insolvent",
+                "word": "insolvent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48813",
+                "link": "/find?type=1&query=insolate",
+                "word": "insolate"
+            },
+            {
+                "id": "48814",
+                "link": "/find?type=1&query=insolation",
+                "word": "insolation"
+            },
+            {
+                "id": "48815",
+                "link": "/find?type=1&query=insole",
+                "word": "insole"
+            },
+            {
+                "id": "48816",
+                "link": "/find?type=1&query=insolence",
+                "word": "insolence"
+            },
+            {
+                "id": "48817",
+                "link": "/find?type=1&query=insolent",
+                "word": "insolent"
+            },
+            {
+                "id": "48818",
+                "link": "/find?type=1&query=insolently",
+                "word": "insolently"
+            },
+            {
+                "id": "48819",
+                "link": "/find?type=1&query=insolubility",
+                "word": "insolubility"
+            },
+            {
+                "id": "48820",
+                "link": "/find?type=1&query=insolubilization",
+                "word": "insolubilization"
+            },
+            {
+                "id": "48821",
+                "link": "/find?type=1&query=insolubilize",
+                "word": "insolubilize"
+            },
+            {
+                "id": "48822",
+                "link": "/find?type=1&query=insoluble",
+                "word": "insoluble"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3828",
+                "link": "/find?type=4&query=insolent",
+                "word": "insolent"
+            },
+            {
+                "id": "3829",
+                "link": "/find?type=4&query=insolvent",
+                "word": "insolvent"
+            }
+        ]
+    }
+}

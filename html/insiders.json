@@ -1,1 +1,50 @@
-{"error": 0, "query": "insiders", "enViData": {"suggests": [{"id": "48767", "link": "/find?type=1&query=Insider+-+outsider", "word": "Insider - outsider"}, {"id": "48767", "link": "/find?type=1&query=Insider+-+outsider+model", "word": "Insider - outsider model"}, {"id": "48767", "link": "/find?type=1&query=insider+dealing", "word": "insider dealing"}], "best": {"id": "48767", "details": "\n<div id=\"find_word_48767\" class=\"world word_en\" rel=\"insider\">\n    <h2 class=\"fl\">insider <span class=\"color-black\">/in'said\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48767\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48767\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ee7a n\u1ed9i b\u1ed9</div>\n    \n</div>\n", "link": "/find?type=1&query=insider", "word": "insider"}}, "mUrl": "/find?type=1&query=insiders", "enEnData": {"suggests": [{"id": "15056", "link": "/find?type=3&query=insider+trading", "word": "insider trading"}], "best": {"id": "15056", "details": "\n<div id=\"find_word_15056\" class=\"world word_en\" rel=\"insider\">\n    <h2 class=\"fl\">insider <span class=\"color-black\">/\u026an\u02c8sa\u026ad\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\">/\u02c8\u026an\u02ccsa\u026ad\u025a/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15056\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15056\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who belongs to a group or organization and has special knowledge about it</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Political insiders say that she is planning to run for president.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The book gives fans an insider's view of Hollywood. - opposite outsider</div>\n    \n</div>\n", "link": "/find?type=3&query=insider", "word": "insider"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who belongs to a group or organization and has special knowledge about it</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Political insiders say that she is planning to run for president.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The book gives fans an insider's view of Hollywood. - opposite outsider</div>",
+            "id": "15056",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8sa\u026ad\u025a/",
+            "type": "noun",
+            "word": "insider"
+        },
+        "suggests": [
+            {
+                "id": "15056",
+                "link": "/find?type=3&query=insider+trading",
+                "word": "insider trading"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ee7a n\u1ed9i b\u1ed9</div>",
+            "id": "48767",
+            "mean": [],
+            "pronounce": "/in'said\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8d046f209034f192db4213dac8779d56/16e61cf161d/I/insider.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/87d96a78cf3e7dc4ddbb4ebb3464212e/16e61cf1073/I/insider.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "insider"
+        },
+        "suggests": [
+            {
+                "id": "48767",
+                "link": "/find?type=1&query=Insider+-+outsider",
+                "word": "Insider - outsider"
+            },
+            {
+                "id": "48767",
+                "link": "/find?type=1&query=Insider+-+outsider+model",
+                "word": "Insider - outsider model"
+            },
+            {
+                "id": "48767",
+                "link": "/find?type=1&query=insider+dealing",
+                "word": "insider dealing"
+            }
+        ]
+    }
+}
