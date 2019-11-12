@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "32388", "link": "/find?type=1&query=evacuee", "word": "evacuee"}], "data": {}}, "en_en": {"suggests": [{"id": "9846", "link": "/find?type=3&query=evacuee", "word": "evacuee"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9846",
+                "link": "/find?type=3&query=evacuee",
+                "word": "evacuee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32388",
+                "link": "/find?type=1&query=evacuee",
+                "word": "evacuee"
+            }
+        ]
+    }
+}
