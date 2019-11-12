@@ -1,1 +1,32 @@
-{"error": 0, "query": "fugit", "enViData": {"suggests": [{"id": "38290", "link": "/find?type=1&query=fugitive", "word": "fugitive"}]}, "mUrl": "/find?type=1&query=fugit", "enEnData": {"suggests": [{"id": "11584", "link": "/find?type=3&query=fugitive", "word": "fugitive"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2882", "link": "/find?type=4&query=fugitive", "word": "fugitive"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11584",
+                "link": "/find?type=3&query=fugitive",
+                "word": "fugitive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38290",
+                "link": "/find?type=1&query=fugitive",
+                "word": "fugitive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2882",
+                "link": "/find?type=4&query=fugitive",
+                "word": "fugitive"
+            }
+        ]
+    }
+}

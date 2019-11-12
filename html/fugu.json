@@ -1,1 +1,37 @@
-{"error": 0, "query": "fugu", "enViData": {"suggests": [{"id": "38293", "link": "/find?type=1&query=fugue", "word": "fugue"}, {"id": "38294", "link": "/find?type=1&query=fugued", "word": "fugued"}, {"id": "38295", "link": "/find?type=1&query=fuguing", "word": "fuguing"}, {"id": "38296", "link": "/find?type=1&query=fuguist", "word": "fuguist"}]}, "mUrl": "/find?type=1&query=fugu", "enEnData": {"suggests": [{"id": "11585", "link": "/find?type=3&query=fugue", "word": "fugue"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11585",
+                "link": "/find?type=3&query=fugue",
+                "word": "fugue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38293",
+                "link": "/find?type=1&query=fugue",
+                "word": "fugue"
+            },
+            {
+                "id": "38294",
+                "link": "/find?type=1&query=fugued",
+                "word": "fugued"
+            },
+            {
+                "id": "38295",
+                "link": "/find?type=1&query=fuguing",
+                "word": "fuguing"
+            },
+            {
+                "id": "38296",
+                "link": "/find?type=1&query=fuguist",
+                "word": "fuguist"
+            }
+        ]
+    }
+}
