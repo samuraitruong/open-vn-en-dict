@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "28076", "link": "/find?type=1&query=duneland", "word": "duneland"}, {"id": "28076", "link": "/find?type=1&query=dunelike", "word": "dunelike"}], "data": {"word": "dune", "id": "28076", "pronounce": "/dju:n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c sand-dune)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed3n c\u00e1t</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/76266e1ebdb4c4471473a9f848bcab74/16e5e1055a1/D/dune.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6444cafbe68770863c72811352d55ae9/16e5e105b86/D/dune.mp3"}}}, "en_en": {"suggests": [{"id": "9018", "link": "/find?type=3&query=dune+buggy", "word": "dune buggy"}], "data": {"word": "dune", "id": "9018", "pronounce": "/\u02c8du\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural dunes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a hill of sand near an ocean or in a desert that is formed by the wind</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We wandered over the dunes. - called also sand dune</div>\n    \n    <div class=\"green margin25 m-top15\">see color picture</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural dunes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a hill of sand near an ocean or in a desert that is formed by the wind</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We wandered over the dunes. - called also sand dune</div>\n    \n    <div class=\"green margin25 m-top15\">see color picture</div>",
+            "id": "9018",
+            "mean": [],
+            "pronounce": "/\u02c8du\u02d0n/",
+            "type": "noun",
+            "word": "dune"
+        },
+        "suggests": [
+            {
+                "id": "9018",
+                "link": "/find?type=3&query=dune+buggy",
+                "word": "dune buggy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c sand-dune)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed3n c\u00e1t</div>",
+            "id": "28076",
+            "mean": [],
+            "pronounce": "/dju:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c2f6ba44163ac72a0ca577839f9f8d17/16e5efda9c6/D/dune.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2dc33e5cd5f923ada4e87f9cc1b80010/16e5efd948f/D/dune.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "dune"
+        },
+        "suggests": [
+            {
+                "id": "28076",
+                "link": "/find?type=1&query=duneland",
+                "word": "duneland"
+            },
+            {
+                "id": "28076",
+                "link": "/find?type=1&query=dunelike",
+                "word": "dunelike"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "28198", "link": "/find?type=1&query=dustiness", "word": "dustiness"}, {"id": "28199", "link": "/find?type=1&query=dusting", "word": "dusting"}, {"id": "28200", "link": "/find?type=1&query=dusting-powder", "word": "dusting-powder"}], "data": {}}, "en_en": {"suggests": [{"id": "9051", "link": "/find?type=3&query=dusting", "word": "dusting"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9051",
+                "link": "/find?type=3&query=dusting",
+                "word": "dusting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28198",
+                "link": "/find?type=1&query=dustiness",
+                "word": "dustiness"
+            },
+            {
+                "id": "28199",
+                "link": "/find?type=1&query=dusting",
+                "word": "dusting"
+            },
+            {
+                "id": "28200",
+                "link": "/find?type=1&query=dusting-powder",
+                "word": "dusting-powder"
+            }
+        ]
+    }
+}
