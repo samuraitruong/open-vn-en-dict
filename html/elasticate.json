@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "29191", "link": "/find?type=1&query=elasticated", "word": "elasticated"}], "data": {"word": "elasticate", "id": "29191", "pronounce": "/i'l\u00e6stikeit/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng \u1edf d\u1ea1ng b\u1ecb \u0111\u1ed9ng)</div>\n    \n    <div class=\"green margin25 m-top15\">lu\u1ed3n d\u00e2y thun v\u00e0o</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an elasticated belt</div>\n    \n    <div class=\"margin25\">c\u00e1i th\u1eaft l\u01b0ng [c\u00f3 lu\u1ed3n d\u00e2y] thun</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9291", "link": "/find?type=3&query=elasticated", "word": "elasticated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9291",
+                "link": "/find?type=3&query=elasticated",
+                "word": "elasticated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng \u1edf d\u1ea1ng b\u1ecb \u0111\u1ed9ng)</div>\n    \n    <div class=\"green margin25 m-top15\">lu\u1ed3n d\u00e2y thun v\u00e0o</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an elasticated belt</div>\n    \n    <div class=\"margin25\">c\u00e1i th\u1eaft l\u01b0ng [c\u00f3 lu\u1ed3n d\u00e2y] thun</div>",
+            "id": "29191",
+            "mean": [],
+            "pronounce": "/i'l\u00e6stikeit/",
+            "speak": {},
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "elasticate"
+        },
+        "suggests": [
+            {
+                "id": "29191",
+                "link": "/find?type=1&query=elasticated",
+                "word": "elasticated"
+            }
+        ]
+    }
+}

@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "29235", "link": "/find?type=1&query=electoral", "word": "electoral"}, {"id": "29235", "link": "/find?type=1&query=electoral+college", "word": "electoral college"}, {"id": "29235", "link": "/find?type=1&query=electorally", "word": "electorally"}, {"id": "29235", "link": "/find?type=1&query=electorate", "word": "electorate"}, {"id": "29235", "link": "/find?type=1&query=electoress", "word": "electoress"}, {"id": "29235", "link": "/find?type=1&query=electorship", "word": "electorship"}], "data": {"word": "elector", "id": "29235", "pronounce": "/i'lekt\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eed tri</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ed8fe523b85b13c1b320352d8e7af8e3/16e5e12ff9c/E/elector.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cebc6b4cd0f224ae52d53b6b78ff9e70/16e5e130558/E/elector.mp3"}}}, "en_en": {"suggests": [{"id": "9308", "link": "/find?type=3&query=electoral", "word": "electoral"}, {"id": "9308", "link": "/find?type=3&query=Electoral+College", "word": "Electoral College"}, {"id": "9308", "link": "/find?type=3&query=electorate", "word": "electorate"}], "data": {"word": "elector", "id": "9308", "pronounce": "/\u026a\u02c8l\u025bkt\u0259r/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a member of the Electoral College in the U.S.</div>\n    \n    <div class=\"green margin25 m-top15\">formal :someone who can vote in an election :voter</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a member of the Electoral College in the U.S.</div>\n    \n    <div class=\"green margin25 m-top15\">formal :someone who can vote in an election :voter</div>",
+            "id": "9308",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8l\u025bkt\u0259r/",
+            "type": "noun",
+            "word": "elector"
+        },
+        "suggests": [
+            {
+                "id": "9308",
+                "link": "/find?type=3&query=electoral",
+                "word": "electoral"
+            },
+            {
+                "id": "9308",
+                "link": "/find?type=3&query=Electoral+College",
+                "word": "Electoral College"
+            },
+            {
+                "id": "9308",
+                "link": "/find?type=3&query=electorate",
+                "word": "electorate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eed tri</div>",
+            "id": "29235",
+            "mean": [],
+            "pronounce": "/i'lekt\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2b9883e07d69a8b77ed22d4a4d711692/16e5f032245/E/elector.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f6ad0d936f6b3778ba17930b23c34d93/16e5f0318ad/E/elector.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "elector"
+        },
+        "suggests": [
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=electoral",
+                "word": "electoral"
+            },
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=electoral+college",
+                "word": "electoral college"
+            },
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=electorally",
+                "word": "electorally"
+            },
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=electorate",
+                "word": "electorate"
+            },
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=electoress",
+                "word": "electoress"
+            },
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=electorship",
+                "word": "electorship"
+            }
+        ]
+    }
+}
