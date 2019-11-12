@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "16300", "link": "/find?type=1&query=cloudless", "word": "cloudless"}, {"id": "16301", "link": "/find?type=1&query=cloudlessness", "word": "cloudlessness"}, {"id": "16302", "link": "/find?type=1&query=cloudlet", "word": "cloudlet"}], "data": {}}, "en_en": {"suggests": [{"id": "5269", "link": "/find?type=3&query=cloudless", "word": "cloudless"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5269",
+                "link": "/find?type=3&query=cloudless",
+                "word": "cloudless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16300",
+                "link": "/find?type=1&query=cloudless",
+                "word": "cloudless"
+            },
+            {
+                "id": "16301",
+                "link": "/find?type=1&query=cloudlessness",
+                "word": "cloudlessness"
+            },
+            {
+                "id": "16302",
+                "link": "/find?type=1&query=cloudlet",
+                "word": "cloudlet"
+            }
+        ]
+    }
+}

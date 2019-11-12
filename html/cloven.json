@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "16308", "link": "/find?type=1&query=cloven-foot", "word": "cloven-foot"}, {"id": "16308", "link": "/find?type=1&query=cloven-footed", "word": "cloven-footed"}], "data": {"word": "cloven", "id": "16308", "pronounce": "/'kl\u0259\u028avn/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">qu\u00e1 kh\u1ee9 ph\u00e2n t\u1eeb c\u1ee7a cleave</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=cleave\">cleave</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/76f4c5b807f81fa90653540a57872620/16e5deeb08f/C/cloven.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a0d36c6204964405b1a1486db81aee1c/16e5deeb65d/C/cloven.mp3"}}}, "en_en": {"suggests": [{"id": "5273", "link": "/find?type=3&query=cloven+hoof", "word": "cloven hoof"}], "data": {"word": "cloven", "id": "5273", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">past participle of 1cleave</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">past participle of 1cleave</div>",
+            "id": "5273",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "cloven"
+        },
+        "suggests": [
+            {
+                "id": "5273",
+                "link": "/find?type=3&query=cloven+hoof",
+                "word": "cloven hoof"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">qu\u00e1 kh\u1ee9 ph\u00e2n t\u1eeb c\u1ee7a cleave</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=cleave\">cleave</a></span></div>",
+            "id": "16308",
+            "mean": [],
+            "pronounce": "/'kl\u0259\u028avn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5236a3c04d0cbd67e1173e590ed297f8/16e5ecbe89d/C/cloven.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7a958e0de9e148f53f32670c0267a865/16e5ecbe8a2/C/cloven.mp3"
+            },
+            "type": "",
+            "word": "cloven"
+        },
+        "suggests": [
+            {
+                "id": "16308",
+                "link": "/find?type=1&query=cloven-foot",
+                "word": "cloven-foot"
+            },
+            {
+                "id": "16308",
+                "link": "/find?type=1&query=cloven-footed",
+                "word": "cloven-footed"
+            }
+        ]
+    }
+}
