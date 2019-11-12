@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "13919", "link": "/find?type=1&query=cedilla", "word": "cedilla"}], "data": {}}, "en_en": {"suggests": [{"id": "4383", "link": "/find?type=3&query=cedilla", "word": "cedilla"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4383",
+                "link": "/find?type=3&query=cedilla",
+                "word": "cedilla"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13919",
+                "link": "/find?type=1&query=cedilla",
+                "word": "cedilla"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "guano", "enViData": {"suggests": [{"id": "41833", "link": "/find?type=1&query=guanophore", "word": "guanophore"}], "best": {"id": "41833", "details": "\n<div id=\"find_word_41833\" class=\"world word_en\" rel=\"guano\">\n    <h2 class=\"fl\">guano <span class=\"color-black\">/'gw\u0251:nou/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41833\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41833\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e2n chim bi\u1ec3n; ph\u00e2n g\u00e0 v\u1ecbt (d\u00f9ng l\u00e0m ph\u00e2n b\u00f3n)</div>\n    \n</div>\n", "link": "/find?type=1&query=guano", "word": "guano"}}, "mUrl": "/find?type=1&query=guano", "enEnData": {"suggests": [], "best": {"id": "12715", "details": "\n<div id=\"find_word_12715\" class=\"world word_en\" rel=\"guano\">\n    <h2 class=\"fl\">guano <span class=\"color-black\">/\u02c8gw\u0251\u02d0no\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12715\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12715\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :waste material from birds and bats that is used to help plants grow</div>\n    \n</div>\n", "link": "/find?type=3&query=guano", "word": "guano"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :waste material from birds and bats that is used to help plants grow</div>",
+            "id": "12715",
+            "mean": [],
+            "pronounce": "/\u02c8gw\u0251\u02d0no\u028a/",
+            "type": "noun",
+            "word": "guano"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e2n chim bi\u1ec3n; ph\u00e2n g\u00e0 v\u1ecbt (d\u00f9ng l\u00e0m ph\u00e2n b\u00f3n)</div>",
+            "id": "41833",
+            "mean": [],
+            "pronounce": "/'gw\u0251:nou/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/294b93bf69c4eff1c3a3f30dd1bd4114/16e613c536e/G/guano.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/16397114074c22f98877846487bc845b/16e613c4b55/G/guano.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "guano"
+        },
+        "suggests": [
+            {
+                "id": "41833",
+                "link": "/find?type=1&query=guanophore",
+                "word": "guanophore"
+            }
+        ]
+    }
+}

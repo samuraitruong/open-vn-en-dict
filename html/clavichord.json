@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "15908", "link": "/find?type=1&query=clavichordist", "word": "clavichordist"}], "data": {"word": "clavichord", "id": "15908", "pronounce": "/kl\u00e6vik\u0254:d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) clavico (nh\u1ea1c kh\u00ed)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/69358e24f16dbe269039cc47c193ea58/16e5dedacd6/C/clavichord.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a595f9c511bad1e71f0e5fa1b7721683/16e5dedb284/C/clavichord.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "clavichord", "id": "5116", "pronounce": "/\u02c8kl\u00e6v\u0259\u02ccko\u025ad/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -chords</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a musical instrument that is similar to a piano and was played mostly in the past before the piano was invented</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -chords</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a musical instrument that is similar to a piano and was played mostly in the past before the piano was invented</div>",
+            "id": "5116",
+            "mean": [],
+            "pronounce": "/\u02c8kl\u00e6v\u0259\u02ccko\u025ad/",
+            "type": "noun",
+            "word": "clavichord"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) clavico (nh\u1ea1c kh\u00ed)</div>",
+            "id": "15908",
+            "mean": [],
+            "pronounce": "/kl\u00e6vik\u0254:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/30a128c6a250ff35ac888c69c6a0965f/16e5ecdf032/C/clavichord.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e1b66e28e999c433ba2a085dcb5ce0b5/16e5ecdeaf3/C/clavichord.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "clavichord"
+        },
+        "suggests": [
+            {
+                "id": "15908",
+                "link": "/find?type=1&query=clavichordist",
+                "word": "clavichordist"
+            }
+        ]
+    }
+}

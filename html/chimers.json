@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "14924", "link": "/find?type=1&query=chimera", "word": "chimera"}, {"id": "14924", "link": "/find?type=1&query=chimera%2C+chimaera", "word": "chimera, chimaera"}, {"id": "14924", "link": "/find?type=1&query=chimere", "word": "chimere"}, {"id": "14924", "link": "/find?type=1&query=chimerical", "word": "chimerical"}, {"id": "14924", "link": "/find?type=1&query=chimerically", "word": "chimerically"}], "data": {"word": "chimer", "id": "14924", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=chime\">chime</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4791", "link": "/find?type=3&query=chimera", "word": "chimera"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4791",
+                "link": "/find?type=3&query=chimera",
+                "word": "chimera"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=chime\">chime</a></span></div>",
+            "id": "14924",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "chimer"
+        },
+        "suggests": [
+            {
+                "id": "14924",
+                "link": "/find?type=1&query=chimera",
+                "word": "chimera"
+            },
+            {
+                "id": "14924",
+                "link": "/find?type=1&query=chimera%2C+chimaera",
+                "word": "chimera, chimaera"
+            },
+            {
+                "id": "14924",
+                "link": "/find?type=1&query=chimere",
+                "word": "chimere"
+            },
+            {
+                "id": "14924",
+                "link": "/find?type=1&query=chimerical",
+                "word": "chimerical"
+            },
+            {
+                "id": "14924",
+                "link": "/find?type=1&query=chimerically",
+                "word": "chimerically"
+            }
+        ]
+    }
+}

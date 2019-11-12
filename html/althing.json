@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2931", "link": "/find?type=1&query=althaea", "word": "althaea"}, {"id": "2932", "link": "/find?type=1&query=altho", "word": "altho"}, {"id": "2933", "link": "/find?type=1&query=although", "word": "although"}], "data": {}}, "en_en": {"suggests": [{"id": "769", "link": "/find?type=3&query=although", "word": "although"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "769",
+                "link": "/find?type=3&query=although",
+                "word": "although"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2931",
+                "link": "/find?type=1&query=althaea",
+                "word": "althaea"
+            },
+            {
+                "id": "2932",
+                "link": "/find?type=1&query=altho",
+                "word": "altho"
+            },
+            {
+                "id": "2933",
+                "link": "/find?type=1&query=although",
+                "word": "although"
+            }
+        ]
+    }
+}

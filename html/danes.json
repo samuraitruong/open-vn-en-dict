@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "22401", "link": "/find?type=1&query=danelagh", "word": "danelagh"}], "data": {"word": "Dane", "id": "22401", "pronounce": "/dein/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0110an M\u1ea1ch</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/bd2fd3aac358e8c41e8dcb97c63f310d/16e5dfed389/D/Dane.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d7d30bd9f51746e61ef5f5df1841615e/16e5dfed92f/D/Dane.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "Dane", "id": "7189", "pronounce": "/\u02c8de\u026an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Danes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person born, raised, or living in Denmark - see also great dane</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Danes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person born, raised, or living in Denmark - see also great dane</div>",
+            "id": "7189",
+            "mean": [],
+            "pronounce": "/\u02c8de\u026an/",
+            "type": "noun",
+            "word": "Dane"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0110an M\u1ea1ch</div>",
+            "id": "22401",
+            "mean": [],
+            "pronounce": "/dein/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/74b05e59523d118b4abe22e2cbd21eef/16e5ee55f64/D/Dane.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c39cfabb144b2cb8e661c838fef6816f/16e5ee55666/D/Dane.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Dane"
+        },
+        "suggests": [
+            {
+                "id": "22401",
+                "link": "/find?type=1&query=danelagh",
+                "word": "danelagh"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "4884", "link": "/find?type=1&query=Apocrypha", "word": "Apocrypha"}, {"id": "4885", "link": "/find?type=1&query=apocryphal", "word": "apocryphal"}, {"id": "4886", "link": "/find?type=1&query=apocryphally", "word": "apocryphally"}], "data": {}}, "en_en": {"suggests": [{"id": "1125", "link": "/find?type=3&query=apocryphal", "word": "apocryphal"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1125",
+                "link": "/find?type=3&query=apocryphal",
+                "word": "apocryphal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4884",
+                "link": "/find?type=1&query=Apocrypha",
+                "word": "Apocrypha"
+            },
+            {
+                "id": "4885",
+                "link": "/find?type=1&query=apocryphal",
+                "word": "apocryphal"
+            },
+            {
+                "id": "4886",
+                "link": "/find?type=1&query=apocryphally",
+                "word": "apocryphally"
+            }
+        ]
+    }
+}

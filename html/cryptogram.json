@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "21470", "link": "/find?type=1&query=cryptogrammic", "word": "cryptogrammic"}], "data": {"word": "cryptogram", "id": "21470", "pronounce": "/'kript\u0259gr\u00e6m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0i li\u1ec7u [vi\u1ebft b\u1eb1ng] m\u1eadt m\u00e3</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "cryptogram", "id": "6918", "pronounce": "/\u02c8kr\u026apt\u0259\u02ccgr\u00e6m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -grams</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a message that is written in code</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -grams</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a message that is written in code</div>",
+            "id": "6918",
+            "mean": [],
+            "pronounce": "/\u02c8kr\u026apt\u0259\u02ccgr\u00e6m/",
+            "type": "noun",
+            "word": "cryptogram"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0i li\u1ec7u [vi\u1ebft b\u1eb1ng] m\u1eadt m\u00e3</div>",
+            "id": "21470",
+            "mean": [],
+            "pronounce": "/'kript\u0259gr\u00e6m/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "cryptogram"
+        },
+        "suggests": [
+            {
+                "id": "21470",
+                "link": "/find?type=1&query=cryptogrammic",
+                "word": "cryptogrammic"
+            }
+        ]
+    }
+}

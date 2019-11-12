@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "13284", "link": "/find?type=1&query=carotene", "word": "carotene"}, {"id": "13285", "link": "/find?type=1&query=carotid", "word": "carotid"}, {"id": "13286", "link": "/find?type=1&query=carotin", "word": "carotin"}], "data": {}}, "en_en": {"suggests": [{"id": "4168", "link": "/find?type=3&query=carotid+artery", "word": "carotid artery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4168",
+                "link": "/find?type=3&query=carotid+artery",
+                "word": "carotid artery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13284",
+                "link": "/find?type=1&query=carotene",
+                "word": "carotene"
+            },
+            {
+                "id": "13285",
+                "link": "/find?type=1&query=carotid",
+                "word": "carotid"
+            },
+            {
+                "id": "13286",
+                "link": "/find?type=1&query=carotin",
+                "word": "carotin"
+            }
+        ]
+    }
+}

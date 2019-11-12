@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "14535", "link": "/find?type=1&query=charring", "word": "charring"}], "data": {"word": "charr", "id": "14535", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u charrs</div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) c\u00e1 h\u1ed3i ch\u1ea5m h\u1ed3ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4623", "link": "/find?type=3&query=charred", "word": "charred"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4623",
+                "link": "/find?type=3&query=charred",
+                "word": "charred"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u charrs</div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) c\u00e1 h\u1ed3i ch\u1ea5m h\u1ed3ng</div>",
+            "id": "14535",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "charr"
+        },
+        "suggests": [
+            {
+                "id": "14535",
+                "link": "/find?type=1&query=charring",
+                "word": "charring"
+            }
+        ]
+    }
+}

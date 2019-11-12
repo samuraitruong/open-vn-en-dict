@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "27150", "link": "/find?type=1&query=Doppler+effect", "word": "Doppler effect"}, {"id": "27151", "link": "/find?type=1&query=Doppler+modulation", "word": "Doppler modulation"}, {"id": "27152", "link": "/find?type=1&query=Doppler+radar+system", "word": "Doppler radar system"}, {"id": "27153", "link": "/find?type=1&query=Doppler+velocity", "word": "Doppler velocity"}], "data": {}}, "en_en": {"suggests": [{"id": "8594", "link": "/find?type=3&query=Doppler+radar", "word": "Doppler radar"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8594",
+                "link": "/find?type=3&query=Doppler+radar",
+                "word": "Doppler radar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27150",
+                "link": "/find?type=1&query=Doppler+effect",
+                "word": "Doppler effect"
+            },
+            {
+                "id": "27151",
+                "link": "/find?type=1&query=Doppler+modulation",
+                "word": "Doppler modulation"
+            },
+            {
+                "id": "27152",
+                "link": "/find?type=1&query=Doppler+radar+system",
+                "word": "Doppler radar system"
+            },
+            {
+                "id": "27153",
+                "link": "/find?type=1&query=Doppler+velocity",
+                "word": "Doppler velocity"
+            }
+        ]
+    }
+}

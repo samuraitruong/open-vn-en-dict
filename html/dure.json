@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "28155", "link": "/find?type=1&query=duress", "word": "duress"}, {"id": "28156", "link": "/find?type=1&query=duresse", "word": "duresse"}], "data": {}}, "en_en": {"suggests": [{"id": "9035", "link": "/find?type=3&query=duress", "word": "duress"}], "data": {}}, "synonyms": {"suggests": [{"id": "1979", "link": "/find?type=4&query=duress", "word": "duress"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9035",
+                "link": "/find?type=3&query=duress",
+                "word": "duress"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28155",
+                "link": "/find?type=1&query=duress",
+                "word": "duress"
+            },
+            {
+                "id": "28156",
+                "link": "/find?type=1&query=duresse",
+                "word": "duresse"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1979",
+                "link": "/find?type=4&query=duress",
+                "word": "duress"
+            }
+        ]
+    }
+}

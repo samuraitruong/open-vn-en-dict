@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "4214", "link": "/find?type=1&query=anterior", "word": "anterior"}, {"id": "4215", "link": "/find?type=1&query=anteriority", "word": "anteriority"}, {"id": "4216", "link": "/find?type=1&query=anteriorly", "word": "anteriorly"}], "data": {}}, "en_en": {"suggests": [{"id": "1029", "link": "/find?type=3&query=anterior", "word": "anterior"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1029",
+                "link": "/find?type=3&query=anterior",
+                "word": "anterior"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4214",
+                "link": "/find?type=1&query=anterior",
+                "word": "anterior"
+            },
+            {
+                "id": "4215",
+                "link": "/find?type=1&query=anteriority",
+                "word": "anteriority"
+            },
+            {
+                "id": "4216",
+                "link": "/find?type=1&query=anteriorly",
+                "word": "anteriorly"
+            }
+        ]
+    }
+}

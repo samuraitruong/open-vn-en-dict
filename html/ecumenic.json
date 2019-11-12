@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "28778", "link": "/find?type=1&query=ecumenical", "word": "ecumenical"}, {"id": "28779", "link": "/find?type=1&query=ecumenicalism", "word": "ecumenicalism"}, {"id": "28780", "link": "/find?type=1&query=ecumenically", "word": "ecumenically"}, {"id": "28781", "link": "/find?type=1&query=ecumenics", "word": "ecumenics"}], "data": {}}, "en_en": {"suggests": [{"id": "9196", "link": "/find?type=3&query=ecumenical", "word": "ecumenical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9196",
+                "link": "/find?type=3&query=ecumenical",
+                "word": "ecumenical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28778",
+                "link": "/find?type=1&query=ecumenical",
+                "word": "ecumenical"
+            },
+            {
+                "id": "28779",
+                "link": "/find?type=1&query=ecumenicalism",
+                "word": "ecumenicalism"
+            },
+            {
+                "id": "28780",
+                "link": "/find?type=1&query=ecumenically",
+                "word": "ecumenically"
+            },
+            {
+                "id": "28781",
+                "link": "/find?type=1&query=ecumenics",
+                "word": "ecumenics"
+            }
+        ]
+    }
+}

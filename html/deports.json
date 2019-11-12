@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "24211", "link": "/find?type=1&query=deportation", "word": "deportation"}, {"id": "24211", "link": "/find?type=1&query=deportee", "word": "deportee"}, {"id": "24211", "link": "/find?type=1&query=deportment", "word": "deportment"}], "data": {"word": "deport", "id": "24211", "pronounce": "/di'p\u0254:t/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ee5c xu\u1ea5t, l\u01b0u \u0111\u00e0y</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he was convicted of drug offences and deported</div>\n    \n    <div class=\"margin25\">anh ta b\u1ecb k\u1ebft t\u1ed9i bu\u00f4n ma t\u00fay v\u00e0 b\u1ecb tr\u1ee5c xu\u1ea5t</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7483ce8e8c25082da39b4207e980ee7f/16e5e03f89e/D/deport.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/2787c226eac9dd3499c4c9405af0358f/16e5e03fe4f/D/deport.mp3"}}}, "en_en": {"suggests": [{"id": "7689", "link": "/find?type=3&query=deportment", "word": "deportment"}], "data": {"word": "deport", "id": "7689", "pronounce": "/d\u026a\u02c8po\u025at/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ports; -ported; -porting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to force (a person who is not a citizen) to leave a country</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Thousands of immigrants had been illegally deported.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ports; -ported; -porting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to force (a person who is not a citizen) to leave a country</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Thousands of immigrants had been illegally deported.</div>",
+            "id": "7689",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8po\u025at/",
+            "type": "verb",
+            "word": "deport"
+        },
+        "suggests": [
+            {
+                "id": "7689",
+                "link": "/find?type=3&query=deportment",
+                "word": "deportment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ee5c xu\u1ea5t, l\u01b0u \u0111\u00e0y</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he was convicted of drug offences and deported</div>\n    \n    <div class=\"margin25\">anh ta b\u1ecb k\u1ebft t\u1ed9i bu\u00f4n ma t\u00fay v\u00e0 b\u1ecb tr\u1ee5c xu\u1ea5t</div>",
+            "id": "24211",
+            "mean": [],
+            "pronounce": "/di'p\u0254:t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9b16b0a9c2da8024036c73337c51b0d4/16e5eec8054/D/deport.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1dd84c94a8142181e52cdb4f24f73135/16e5eec7713/D/deport.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "deport"
+        },
+        "suggests": [
+            {
+                "id": "24211",
+                "link": "/find?type=1&query=deportation",
+                "word": "deportation"
+            },
+            {
+                "id": "24211",
+                "link": "/find?type=1&query=deportee",
+                "word": "deportee"
+            },
+            {
+                "id": "24211",
+                "link": "/find?type=1&query=deportment",
+                "word": "deportment"
+            }
+        ]
+    }
+}

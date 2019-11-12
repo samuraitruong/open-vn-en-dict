@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "17081", "link": "/find?type=1&query=colonialism", "word": "colonialism"}, {"id": "17082", "link": "/find?type=1&query=colonialist", "word": "colonialist"}], "data": {}}, "en_en": {"suggests": [{"id": "5525", "link": "/find?type=3&query=colonialism", "word": "colonialism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5525",
+                "link": "/find?type=3&query=colonialism",
+                "word": "colonialism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17081",
+                "link": "/find?type=1&query=colonialism",
+                "word": "colonialism"
+            },
+            {
+                "id": "17082",
+                "link": "/find?type=1&query=colonialist",
+                "word": "colonialist"
+            }
+        ]
+    }
+}

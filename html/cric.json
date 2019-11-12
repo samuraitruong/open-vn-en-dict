@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "21017", "link": "/find?type=1&query=crick", "word": "crick"}, {"id": "21018", "link": "/find?type=1&query=cricket", "word": "cricket"}, {"id": "21019", "link": "/find?type=1&query=cricketeer", "word": "cricketeer"}, {"id": "21020", "link": "/find?type=1&query=cricketer", "word": "cricketer"}, {"id": "21021", "link": "/find?type=1&query=crico-thyroid", "word": "crico-thyroid"}, {"id": "21022", "link": "/find?type=1&query=cricoid", "word": "cricoid"}], "data": {}}, "en_en": {"suggests": [{"id": "6759", "link": "/find?type=3&query=crick", "word": "crick"}, {"id": "6760", "link": "/find?type=3&query=cricket", "word": "cricket"}, {"id": "6761", "link": "/find?type=3&query=cricketer", "word": "cricketer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6759",
+                "link": "/find?type=3&query=crick",
+                "word": "crick"
+            },
+            {
+                "id": "6760",
+                "link": "/find?type=3&query=cricket",
+                "word": "cricket"
+            },
+            {
+                "id": "6761",
+                "link": "/find?type=3&query=cricketer",
+                "word": "cricketer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21017",
+                "link": "/find?type=1&query=crick",
+                "word": "crick"
+            },
+            {
+                "id": "21018",
+                "link": "/find?type=1&query=cricket",
+                "word": "cricket"
+            },
+            {
+                "id": "21019",
+                "link": "/find?type=1&query=cricketeer",
+                "word": "cricketeer"
+            },
+            {
+                "id": "21020",
+                "link": "/find?type=1&query=cricketer",
+                "word": "cricketer"
+            },
+            {
+                "id": "21021",
+                "link": "/find?type=1&query=crico-thyroid",
+                "word": "crico-thyroid"
+            },
+            {
+                "id": "21022",
+                "link": "/find?type=1&query=cricoid",
+                "word": "cricoid"
+            }
+        ]
+    }
+}

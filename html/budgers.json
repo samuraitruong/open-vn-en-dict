@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11617", "link": "/find?type=1&query=budgerigar", "word": "budgerigar"}], "data": {}}, "en_en": {"suggests": [{"id": "3580", "link": "/find?type=3&query=budgerigar", "word": "budgerigar"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3580",
+                "link": "/find?type=3&query=budgerigar",
+                "word": "budgerigar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11617",
+                "link": "/find?type=1&query=budgerigar",
+                "word": "budgerigar"
+            }
+        ]
+    }
+}

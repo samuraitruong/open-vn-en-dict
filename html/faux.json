@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "34402", "link": "/find?type=1&query=faux+pas", "word": "faux pas"}], "data": {}}, "en_en": {"suggests": [{"id": "10382", "link": "/find?type=3&query=faux+pas", "word": "faux pas"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10382",
+                "link": "/find?type=3&query=faux+pas",
+                "word": "faux pas"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34402",
+                "link": "/find?type=1&query=faux+pas",
+                "word": "faux pas"
+            }
+        ]
+    }
+}

@@ -1,1 +1,54 @@
-{"en_vn": {"suggests": [{"id": "11940", "link": "/find?type=1&query=burrow", "word": "burrow"}, {"id": "11940", "link": "/find?type=1&query=burrower", "word": "burrower"}], "data": {"word": "burro", "id": "11940", "pronounce": "/'burou/", "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u burros", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u burros</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (th\u00f4ng t\u1ee5c) l\u1eeba th\u1ed3</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/9ca030af2e105a185e5ff38d1f59460c/16e5ddf8921/B/burro.mp3"}}}, "en_en": {"suggests": [{"id": "3722", "link": "/find?type=3&query=burrow", "word": "burrow"}], "data": {"word": "burro", "id": "3722", "pronounce": "/\u02c8b\u025aro\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ros</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly US :a small donkey</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "782", "link": "/find?type=4&query=burrow", "word": "burrow"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ros</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly US :a small donkey</div>",
+            "id": "3722",
+            "mean": [],
+            "pronounce": "/\u02c8b\u025aro\u028a/",
+            "type": "noun",
+            "word": "burro"
+        },
+        "suggests": [
+            {
+                "id": "3722",
+                "link": "/find?type=3&query=burrow",
+                "word": "burrow"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u burros</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (th\u00f4ng t\u1ee5c) l\u1eeba th\u1ed3</div>",
+            "id": "11940",
+            "mean": [],
+            "pronounce": "/'burou/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/258f0098c92ebf44ab1c0a61c087fd2b/16e5ec0da19/B/burro.mp3"
+            },
+            "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u burros",
+            "word": "burro"
+        },
+        "suggests": [
+            {
+                "id": "11940",
+                "link": "/find?type=1&query=burrow",
+                "word": "burrow"
+            },
+            {
+                "id": "11940",
+                "link": "/find?type=1&query=burrower",
+                "word": "burrower"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "782",
+                "link": "/find?type=4&query=burrow",
+                "word": "burrow"
+            }
+        ]
+    }
+}

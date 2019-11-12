@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "34288", "link": "/find?type=1&query=fastidious", "word": "fastidious"}, {"id": "34288", "link": "/find?type=1&query=fastidiously", "word": "fastidiously"}, {"id": "34288", "link": "/find?type=1&query=fastidiousness", "word": "fastidiousness"}, {"id": "34288", "link": "/find?type=1&query=fastigiate", "word": "fastigiate"}, {"id": "34288", "link": "/find?type=1&query=fastigium", "word": "fastigium"}, {"id": "34288", "link": "/find?type=1&query=fastish", "word": "fastish"}], "data": {"word": "fasti", "id": "34288", "pronounce": "/'f\u00e6sti:/", "type": "Danh t\u1eeb s\u1ed1 nhi\u1ec1u", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">ni\u00ean gi\u00e1m, l\u1ecbch bi\u00ean ni\u00ean</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10345", "link": "/find?type=3&query=fastidious", "word": "fastidious"}], "data": {}}, "synonyms": {"suggests": [{"id": "2525", "link": "/find?type=4&query=fastidious", "word": "fastidious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10345",
+                "link": "/find?type=3&query=fastidious",
+                "word": "fastidious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">ni\u00ean gi\u00e1m, l\u1ecbch bi\u00ean ni\u00ean</div>",
+            "id": "34288",
+            "mean": [],
+            "pronounce": "/'f\u00e6sti:/",
+            "speak": {},
+            "type": "Danh t\u1eeb s\u1ed1 nhi\u1ec1u",
+            "word": "fasti"
+        },
+        "suggests": [
+            {
+                "id": "34288",
+                "link": "/find?type=1&query=fastidious",
+                "word": "fastidious"
+            },
+            {
+                "id": "34288",
+                "link": "/find?type=1&query=fastidiously",
+                "word": "fastidiously"
+            },
+            {
+                "id": "34288",
+                "link": "/find?type=1&query=fastidiousness",
+                "word": "fastidiousness"
+            },
+            {
+                "id": "34288",
+                "link": "/find?type=1&query=fastigiate",
+                "word": "fastigiate"
+            },
+            {
+                "id": "34288",
+                "link": "/find?type=1&query=fastigium",
+                "word": "fastigium"
+            },
+            {
+                "id": "34288",
+                "link": "/find?type=1&query=fastish",
+                "word": "fastish"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2525",
+                "link": "/find?type=4&query=fastidious",
+                "word": "fastidious"
+            }
+        ]
+    }
+}

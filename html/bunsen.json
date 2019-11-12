@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11839", "link": "/find?type=1&query=Bunsen+burner", "word": "Bunsen burner"}, {"id": "11840", "link": "/find?type=1&query=Bunsen+photometer", "word": "Bunsen photometer"}], "data": {}}, "en_en": {"suggests": [{"id": "3681", "link": "/find?type=3&query=Bunsen+burner", "word": "Bunsen burner"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3681",
+                "link": "/find?type=3&query=Bunsen+burner",
+                "word": "Bunsen burner"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11839",
+                "link": "/find?type=1&query=Bunsen+burner",
+                "word": "Bunsen burner"
+            },
+            {
+                "id": "11840",
+                "link": "/find?type=1&query=Bunsen+photometer",
+                "word": "Bunsen photometer"
+            }
+        ]
+    }
+}

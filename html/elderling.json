@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "29218", "link": "/find?type=1&query=elderliness", "word": "elderliness"}, {"id": "29219", "link": "/find?type=1&query=elderly", "word": "elderly"}], "data": {}}, "en_en": {"suggests": [{"id": "9302", "link": "/find?type=3&query=elderly", "word": "elderly"}], "data": {}}, "synonyms": {"suggests": [{"id": "2059", "link": "/find?type=4&query=elderly", "word": "elderly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9302",
+                "link": "/find?type=3&query=elderly",
+                "word": "elderly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29218",
+                "link": "/find?type=1&query=elderliness",
+                "word": "elderliness"
+            },
+            {
+                "id": "29219",
+                "link": "/find?type=1&query=elderly",
+                "word": "elderly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2059",
+                "link": "/find?type=4&query=elderly",
+                "word": "elderly"
+            }
+        ]
+    }
+}

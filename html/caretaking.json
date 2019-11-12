@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "13222", "link": "/find?type=1&query=caretaker", "word": "caretaker"}, {"id": "13223", "link": "/find?type=1&query=caretaker+government", "word": "caretaker government"}], "data": {}}, "en_en": {"suggests": [{"id": "4149", "link": "/find?type=3&query=caretaker", "word": "caretaker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4149",
+                "link": "/find?type=3&query=caretaker",
+                "word": "caretaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13222",
+                "link": "/find?type=1&query=caretaker",
+                "word": "caretaker"
+            },
+            {
+                "id": "13223",
+                "link": "/find?type=1&query=caretaker+government",
+                "word": "caretaker government"
+            }
+        ]
+    }
+}

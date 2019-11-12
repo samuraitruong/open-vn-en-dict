@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "6908", "link": "/find?type=1&query=automata+theory", "word": "automata theory"}], "data": {"word": "automata", "id": "6908", "pronounce": "/\u0254:'t\u0254m\u0259t\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">s\u1ed1 nhi\u1ec1u c\u1ee7a automaton</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=automaton\">automaton</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "automata", "id": "1686", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">plural of automaton</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">plural of automaton</div>",
+            "id": "1686",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "automata"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">s\u1ed1 nhi\u1ec1u c\u1ee7a automaton</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=automaton\">automaton</a></span></div>",
+            "id": "6908",
+            "mean": [],
+            "pronounce": "/\u0254:'t\u0254m\u0259t\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "automata"
+        },
+        "suggests": [
+            {
+                "id": "6908",
+                "link": "/find?type=1&query=automata+theory",
+                "word": "automata theory"
+            }
+        ]
+    }
+}

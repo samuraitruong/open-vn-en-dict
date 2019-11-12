@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "4713", "link": "/find?type=1&query=antonymic", "word": "antonymic"}, {"id": "4713", "link": "/find?type=1&query=antonymous", "word": "antonymous"}, {"id": "4713", "link": "/find?type=1&query=antonymy", "word": "antonymy"}], "data": {"word": "antonym", "id": "4713", "pronounce": "/'\u00e6nt\u0259nim/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb tr\u00e1i ngh\u0129a</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1751fb7043f8b5f4311933420b94451d/16e5dc70871/A/antonym.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8c25592e728f706c900baff05454510b/16e5dc70e5c/A/antonym.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "antonym", "id": "1085", "pronounce": "/\u02c8\u00e6nt\u0259\u02ccn\u026am/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nyms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a word with a meaning that is opposite to the meaning of another word</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hot and cold are antonyms. - compare synonym</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nyms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a word with a meaning that is opposite to the meaning of another word</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hot and cold are antonyms. - compare synonym</div>",
+            "id": "1085",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6nt\u0259\u02ccn\u026am/",
+            "type": "noun",
+            "word": "antonym"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb tr\u00e1i ngh\u0129a</div>",
+            "id": "4713",
+            "mean": [],
+            "pronounce": "/'\u00e6nt\u0259nim/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/16c5b0da06d2495dbc23dd98840eccbd/16e5eaa805f/A/antonym.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/915984b5ad468f3eda7cca766ae5148a/16e5eaa7a0b/A/antonym.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "antonym"
+        },
+        "suggests": [
+            {
+                "id": "4713",
+                "link": "/find?type=1&query=antonymic",
+                "word": "antonymic"
+            },
+            {
+                "id": "4713",
+                "link": "/find?type=1&query=antonymous",
+                "word": "antonymous"
+            },
+            {
+                "id": "4713",
+                "link": "/find?type=1&query=antonymy",
+                "word": "antonymy"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "32047", "link": "/find?type=1&query=estuarial", "word": "estuarial"}, {"id": "32048", "link": "/find?type=1&query=estuarine", "word": "estuarine"}, {"id": "32049", "link": "/find?type=1&query=estuary", "word": "estuary"}], "data": {}}, "en_en": {"suggests": [{"id": "9803", "link": "/find?type=3&query=estuary", "word": "estuary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9803",
+                "link": "/find?type=3&query=estuary",
+                "word": "estuary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32047",
+                "link": "/find?type=1&query=estuarial",
+                "word": "estuarial"
+            },
+            {
+                "id": "32048",
+                "link": "/find?type=1&query=estuarine",
+                "word": "estuarine"
+            },
+            {
+                "id": "32049",
+                "link": "/find?type=1&query=estuary",
+                "word": "estuary"
+            }
+        ]
+    }
+}

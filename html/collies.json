@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "17069", "link": "/find?type=1&query=collyrium", "word": "collyrium"}, {"id": "17069", "link": "/find?type=1&query=collywobbles", "word": "collywobbles"}], "data": {"word": "colly", "id": "17069", "pronounce": "/'k\u0254li/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ed1ng ch\u00f3 c\u00f4li (\u00ca-c\u1ed1t)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5510", "link": "/find?type=3&query=collier", "word": "collier"}, {"id": "5510", "link": "/find?type=3&query=colliery", "word": "colliery"}], "data": {"word": "collie", "id": "5510", "pronounce": "/\u02c8k\u0251\u02d0li/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large type of dog with long hair and a long pointed nose</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large type of dog with long hair and a long pointed nose</div>",
+            "id": "5510",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0li/",
+            "type": "noun",
+            "word": "collie"
+        },
+        "suggests": [
+            {
+                "id": "5510",
+                "link": "/find?type=3&query=collier",
+                "word": "collier"
+            },
+            {
+                "id": "5510",
+                "link": "/find?type=3&query=colliery",
+                "word": "colliery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ed1ng ch\u00f3 c\u00f4li (\u00ca-c\u1ed1t)</div>",
+            "id": "17069",
+            "mean": [],
+            "pronounce": "/'k\u0254li/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "colly"
+        },
+        "suggests": [
+            {
+                "id": "17069",
+                "link": "/find?type=1&query=collyrium",
+                "word": "collyrium"
+            },
+            {
+                "id": "17069",
+                "link": "/find?type=1&query=collywobbles",
+                "word": "collywobbles"
+            }
+        ]
+    }
+}

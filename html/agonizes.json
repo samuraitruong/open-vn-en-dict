@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "2082", "link": "/find?type=1&query=agonize%2Cagonise", "word": "agonize,agonise"}, {"id": "2083", "link": "/find?type=1&query=agonized%2C+agonised", "word": "agonized, agonised"}], "data": {}}, "en_en": {"suggests": [{"id": "529", "link": "/find?type=3&query=agonized", "word": "agonized"}], "data": {"word": "agonize", "id": "529", "pronounce": "/\u02c8\u00e6g\u0259\u02ccna\u026az/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">also Brit agonise   -nizes; -nized; -nizing</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] :to think or worry very much about something - usually + about or over</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She agonized about what she was doing.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The coach agonizes for days over the choices he has to make.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The architect agonized over every detail of the planning.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">also Brit agonise   -nizes; -nized; -nizing</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] :to think or worry very much about something - usually + about or over</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She agonized about what she was doing.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The coach agonizes for days over the choices he has to make.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The architect agonized over every detail of the planning.</div>",
+            "id": "529",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6g\u0259\u02ccna\u026az/",
+            "type": "verb",
+            "word": "agonize"
+        },
+        "suggests": [
+            {
+                "id": "529",
+                "link": "/find?type=3&query=agonized",
+                "word": "agonized"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2082",
+                "link": "/find?type=1&query=agonize%2Cagonise",
+                "word": "agonize,agonise"
+            },
+            {
+                "id": "2083",
+                "link": "/find?type=1&query=agonized%2C+agonised",
+                "word": "agonized, agonised"
+            }
+        ]
+    }
+}

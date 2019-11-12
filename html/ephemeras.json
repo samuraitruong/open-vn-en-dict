@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "31213", "link": "/find?type=1&query=ephemerae", "word": "ephemerae"}, {"id": "31213", "link": "/find?type=1&query=ephemeral", "word": "ephemeral"}, {"id": "31213", "link": "/find?type=1&query=ephemerality", "word": "ephemerality"}, {"id": "31213", "link": "/find?type=1&query=ephemerally", "word": "ephemerally"}, {"id": "31213", "link": "/find?type=1&query=ephemeralness", "word": "ephemeralness"}], "data": {"word": "ephemera", "id": "31213", "pronounce": "/i'fem\u0259r\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt ch\u00f3ng t\u00e0n, v\u1eadt ph\u00f9 du</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d7198ea65ebe516619f85b102bf4578e/16e5e183e68/E/ephemera.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/2fb410673a6bd26d1ce90c2b8de3adf6/16e5e18443f/E/ephemera.mp3"}}}, "en_en": {"suggests": [{"id": "9663", "link": "/find?type=3&query=ephemeral", "word": "ephemeral"}], "data": {"word": "ephemera", "id": "9663", "pronounce": "/\u026a\u02c8f\u025bm\u0259r\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :things that are important or useful for only a short time :items that were not meant to have lasting value</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He has a large collection of old menus and other ephemera.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :things that are important or useful for only a short time :items that were not meant to have lasting value</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He has a large collection of old menus and other ephemera.</div>",
+            "id": "9663",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8f\u025bm\u0259r\u0259/",
+            "type": "noun",
+            "word": "ephemera"
+        },
+        "suggests": [
+            {
+                "id": "9663",
+                "link": "/find?type=3&query=ephemeral",
+                "word": "ephemeral"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt ch\u00f3ng t\u00e0n, v\u1eadt ph\u00f9 du</div>",
+            "id": "31213",
+            "mean": [],
+            "pronounce": "/i'fem\u0259r\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0600f484b5ba57a85a0da5368e26e25c/16e5f781dd7/E/ephemera.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f1ccd67fcd23d29879b63202269363cd/16e5f7811a4/E/ephemera.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ephemera"
+        },
+        "suggests": [
+            {
+                "id": "31213",
+                "link": "/find?type=1&query=ephemerae",
+                "word": "ephemerae"
+            },
+            {
+                "id": "31213",
+                "link": "/find?type=1&query=ephemeral",
+                "word": "ephemeral"
+            },
+            {
+                "id": "31213",
+                "link": "/find?type=1&query=ephemerality",
+                "word": "ephemerality"
+            },
+            {
+                "id": "31213",
+                "link": "/find?type=1&query=ephemerally",
+                "word": "ephemerally"
+            },
+            {
+                "id": "31213",
+                "link": "/find?type=1&query=ephemeralness",
+                "word": "ephemeralness"
+            }
+        ]
+    }
+}

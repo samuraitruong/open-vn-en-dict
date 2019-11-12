@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "8182", "link": "/find?type=1&query=barley+sugar", "word": "barley sugar"}, {"id": "8182", "link": "/find?type=1&query=barley+water", "word": "barley water"}, {"id": "8182", "link": "/find?type=1&query=barley+wine", "word": "barley wine"}, {"id": "8182", "link": "/find?type=1&query=barley-broth", "word": "barley-broth"}, {"id": "8182", "link": "/find?type=1&query=barley-corn", "word": "barley-corn"}], "data": {"word": "barley", "id": "8182", "pronounce": "/'b\u0251:li/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea1i m\u1ea1ch (\u0111\u1ec3 ch\u1ebf bia\u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/87f62a45de7acdf850a74454f4401946/16e5dd19dfe/B/barley.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ccdf5dafe5f961f060672c78031d35e9/16e5dd1a3d4/B/barley.mp3"}}}, "en_en": {"suggests": [{"id": "2071", "link": "/find?type=3&query=barley+sugar", "word": "barley sugar"}, {"id": "2071", "link": "/find?type=3&query=barley+wine", "word": "barley wine"}], "data": {"word": "barley", "id": "2071", "pronounce": "/\u02c8b\u0251\u025ali/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a kind of grain used for food and to make beer and whiskey also;  :the plant on which this grain grows</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a kind of grain used for food and to make beer and whiskey also;  :the plant on which this grain grows</div>",
+            "id": "2071",
+            "mean": [],
+            "pronounce": "/\u02c8b\u0251\u025ali/",
+            "type": "noun",
+            "word": "barley"
+        },
+        "suggests": [
+            {
+                "id": "2071",
+                "link": "/find?type=3&query=barley+sugar",
+                "word": "barley sugar"
+            },
+            {
+                "id": "2071",
+                "link": "/find?type=3&query=barley+wine",
+                "word": "barley wine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea1i m\u1ea1ch (\u0111\u1ec3 ch\u1ebf bia\u2026)</div>",
+            "id": "8182",
+            "mean": [],
+            "pronounce": "/'b\u0251:li/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9da8b53fc4a12fc6b80c3d2f83547d03/16e5eb4654a/B/barley.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cffe15728a58e14c7c9cf835d3fc7bd5/16e5eb4602b/B/barley.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "barley"
+        },
+        "suggests": [
+            {
+                "id": "8182",
+                "link": "/find?type=1&query=barley+sugar",
+                "word": "barley sugar"
+            },
+            {
+                "id": "8182",
+                "link": "/find?type=1&query=barley+water",
+                "word": "barley water"
+            },
+            {
+                "id": "8182",
+                "link": "/find?type=1&query=barley+wine",
+                "word": "barley wine"
+            },
+            {
+                "id": "8182",
+                "link": "/find?type=1&query=barley-broth",
+                "word": "barley-broth"
+            },
+            {
+                "id": "8182",
+                "link": "/find?type=1&query=barley-corn",
+                "word": "barley-corn"
+            }
+        ]
+    }
+}

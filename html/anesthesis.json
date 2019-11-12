@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "3756", "link": "/find?type=1&query=anesthesia", "word": "anesthesia"}], "data": {}}, "en_en": {"suggests": [{"id": "927", "link": "/find?type=3&query=anesthesia", "word": "anesthesia"}, {"id": "928", "link": "/find?type=3&query=anesthesiologist", "word": "anesthesiologist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "927",
+                "link": "/find?type=3&query=anesthesia",
+                "word": "anesthesia"
+            },
+            {
+                "id": "928",
+                "link": "/find?type=3&query=anesthesiologist",
+                "word": "anesthesiologist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3756",
+                "link": "/find?type=1&query=anesthesia",
+                "word": "anesthesia"
+            }
+        ]
+    }
+}

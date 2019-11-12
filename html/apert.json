@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "4786", "link": "/find?type=1&query=apertural", "word": "apertural"}, {"id": "4787", "link": "/find?type=1&query=aperture", "word": "aperture"}], "data": {}}, "en_en": {"suggests": [{"id": "1115", "link": "/find?type=3&query=aperture", "word": "aperture"}], "data": {}}, "synonyms": {"suggests": [{"id": "275", "link": "/find?type=4&query=aperture", "word": "aperture"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1115",
+                "link": "/find?type=3&query=aperture",
+                "word": "aperture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4786",
+                "link": "/find?type=1&query=apertural",
+                "word": "apertural"
+            },
+            {
+                "id": "4787",
+                "link": "/find?type=1&query=aperture",
+                "word": "aperture"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "275",
+                "link": "/find?type=4&query=aperture",
+                "word": "aperture"
+            }
+        ]
+    }
+}

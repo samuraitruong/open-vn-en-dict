@@ -1,1 +1,105 @@
-{"en_vn": {"suggests": [{"id": "8243", "link": "/find?type=1&query=barred", "word": "barred"}, {"id": "8243", "link": "/find?type=1&query=barrel", "word": "barrel"}, {"id": "8243", "link": "/find?type=1&query=barrel+antenna", "word": "barrel antenna"}, {"id": "8243", "link": "/find?type=1&query=barrel-head", "word": "barrel-head"}, {"id": "8243", "link": "/find?type=1&query=barrel-house", "word": "barrel-house"}, {"id": "8243", "link": "/find?type=1&query=barrel-organ", "word": "barrel-organ"}, {"id": "8243", "link": "/find?type=1&query=barrel-roll", "word": "barrel-roll"}, {"id": "8243", "link": "/find?type=1&query=barrel-shaped", "word": "barrel-shaped"}, {"id": "8243", "link": "/find?type=1&query=barrel-shop", "word": "barrel-shop"}], "data": {"word": "barre", "id": "8243", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">x\u00e0 ngang \u0111\u1ec3 cho c\u00e1c v\u0169 n\u1eef bal\u00ea t\u1eadp</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2097", "link": "/find?type=3&query=barred", "word": "barred"}, {"id": "2098", "link": "/find?type=3&query=barrel", "word": "barrel"}, {"id": "2099", "link": "/find?type=3&query=barrel+organ", "word": "barrel organ"}, {"id": "2100", "link": "/find?type=3&query=barrel-chested", "word": "barrel-chested"}, {"id": "2101", "link": "/find?type=3&query=barren", "word": "barren"}, {"id": "2102", "link": "/find?type=3&query=barrette", "word": "barrette"}], "data": {}}, "synonyms": {"suggests": [{"id": "440", "link": "/find?type=4&query=barren", "word": "barren"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2097",
+                "link": "/find?type=3&query=barred",
+                "word": "barred"
+            },
+            {
+                "id": "2098",
+                "link": "/find?type=3&query=barrel",
+                "word": "barrel"
+            },
+            {
+                "id": "2099",
+                "link": "/find?type=3&query=barrel+organ",
+                "word": "barrel organ"
+            },
+            {
+                "id": "2100",
+                "link": "/find?type=3&query=barrel-chested",
+                "word": "barrel-chested"
+            },
+            {
+                "id": "2101",
+                "link": "/find?type=3&query=barren",
+                "word": "barren"
+            },
+            {
+                "id": "2102",
+                "link": "/find?type=3&query=barrette",
+                "word": "barrette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">x\u00e0 ngang \u0111\u1ec3 cho c\u00e1c v\u0169 n\u1eef bal\u00ea t\u1eadp</div>",
+            "id": "8243",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "barre"
+        },
+        "suggests": [
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barred",
+                "word": "barred"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel",
+                "word": "barrel"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel+antenna",
+                "word": "barrel antenna"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel-head",
+                "word": "barrel-head"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel-house",
+                "word": "barrel-house"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel-organ",
+                "word": "barrel-organ"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel-roll",
+                "word": "barrel-roll"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel-shaped",
+                "word": "barrel-shaped"
+            },
+            {
+                "id": "8243",
+                "link": "/find?type=1&query=barrel-shop",
+                "word": "barrel-shop"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "440",
+                "link": "/find?type=4&query=barren",
+                "word": "barren"
+            }
+        ]
+    }
+}

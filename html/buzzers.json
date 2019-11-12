@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "12120", "link": "/find?type=1&query=buzzer+call", "word": "buzzer call"}, {"id": "12120", "link": "/find?type=1&query=buzzer+signal", "word": "buzzer signal"}], "data": {"word": "buzzer", "id": "12120", "pronounce": "/'b\u028cz\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chu\u00f4ng hi\u1ec7u</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/905b2bac236e6d3f9172a3bacd3d0361/16e5de00e12/B/buzzer.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/68ddf764ca431feb7988a6652430c6ce/16e5de013ba/B/buzzer.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "buzzer", "id": "3805", "pronounce": "/\u02c8b\u028cz\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an electric device that makes a loud sound</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Their team was ahead by two points when the buzzer signaled the end of the game.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an electric device that makes a loud sound</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Their team was ahead by two points when the buzzer signaled the end of the game.</div>",
+            "id": "3805",
+            "mean": [],
+            "pronounce": "/\u02c8b\u028cz\u025a/",
+            "type": "noun",
+            "word": "buzzer"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chu\u00f4ng hi\u1ec7u</div>",
+            "id": "12120",
+            "mean": [],
+            "pronounce": "/'b\u028cz\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3f917e808bc6fd9ec7ec25aa63118825/16e5ec1554d/B/buzzer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fa1b72878ac565538e17035efd8398b5/16e5ec15052/B/buzzer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "buzzer"
+        },
+        "suggests": [
+            {
+                "id": "12120",
+                "link": "/find?type=1&query=buzzer+call",
+                "word": "buzzer call"
+            },
+            {
+                "id": "12120",
+                "link": "/find?type=1&query=buzzer+signal",
+                "word": "buzzer signal"
+            }
+        ]
+    }
+}

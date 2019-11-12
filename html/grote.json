@@ -1,1 +1,47 @@
-{"error": 0, "query": "grote", "enViData": {"suggests": [{"id": "41638", "link": "/find?type=1&query=grotesque", "word": "grotesque"}, {"id": "41639", "link": "/find?type=1&query=grotesquely", "word": "grotesquely"}, {"id": "41640", "link": "/find?type=1&query=grotesqueness", "word": "grotesqueness"}, {"id": "41641", "link": "/find?type=1&query=grotesquerie", "word": "grotesquerie"}]}, "mUrl": "/find?type=1&query=grote", "enEnData": {"suggests": [{"id": "12647", "link": "/find?type=3&query=grotesque", "word": "grotesque"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3124", "link": "/find?type=4&query=grotesque", "word": "grotesque"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12647",
+                "link": "/find?type=3&query=grotesque",
+                "word": "grotesque"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41638",
+                "link": "/find?type=1&query=grotesque",
+                "word": "grotesque"
+            },
+            {
+                "id": "41639",
+                "link": "/find?type=1&query=grotesquely",
+                "word": "grotesquely"
+            },
+            {
+                "id": "41640",
+                "link": "/find?type=1&query=grotesqueness",
+                "word": "grotesqueness"
+            },
+            {
+                "id": "41641",
+                "link": "/find?type=1&query=grotesquerie",
+                "word": "grotesquerie"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3124",
+                "link": "/find?type=4&query=grotesque",
+                "word": "grotesque"
+            }
+        ]
+    }
+}

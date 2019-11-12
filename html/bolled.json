@@ -1,1 +1,69 @@
-{"en_vn": {"suggests": [{"id": "10339", "link": "/find?type=1&query=boll-weevil", "word": "boll-weevil"}, {"id": "10339", "link": "/find?type=1&query=bollard", "word": "bollard"}, {"id": "10339", "link": "/find?type=1&query=bollocking", "word": "bollocking"}, {"id": "10339", "link": "/find?type=1&query=bollocks", "word": "bollocks"}], "data": {"word": "boll", "id": "10339", "pronounce": "/b\u0259\u028al/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 nang (c\u1ee7a c\u00e2y b\u00f4ng)</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/b8980f45ac4c605d87c9f40822e31825/16e5dd9f02c/B/boll.mp3"}}}, "en_en": {"suggests": [{"id": "3046", "link": "/find?type=3&query=boll+weevil", "word": "boll weevil"}, {"id": "3046", "link": "/find?type=3&query=bollard", "word": "bollard"}, {"id": "3046", "link": "/find?type=3&query=bollix", "word": "bollix"}, {"id": "3046", "link": "/find?type=3&query=bollocks", "word": "bollocks"}], "data": {"word": "boll", "id": "3046", "pronounce": "/\u02c8bo\u028al/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural bolls</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the part of the cotton plant that contains the seeds</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural bolls</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the part of the cotton plant that contains the seeds</div>",
+            "id": "3046",
+            "mean": [],
+            "pronounce": "/\u02c8bo\u028al/",
+            "type": "noun",
+            "word": "boll"
+        },
+        "suggests": [
+            {
+                "id": "3046",
+                "link": "/find?type=3&query=boll+weevil",
+                "word": "boll weevil"
+            },
+            {
+                "id": "3046",
+                "link": "/find?type=3&query=bollard",
+                "word": "bollard"
+            },
+            {
+                "id": "3046",
+                "link": "/find?type=3&query=bollix",
+                "word": "bollix"
+            },
+            {
+                "id": "3046",
+                "link": "/find?type=3&query=bollocks",
+                "word": "bollocks"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 nang (c\u1ee7a c\u00e2y b\u00f4ng)</div>",
+            "id": "10339",
+            "mean": [],
+            "pronounce": "/b\u0259\u028al/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/da8af9e55434258835d9f3526dfdc69b/16e5ebbc919/B/boll.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "boll"
+        },
+        "suggests": [
+            {
+                "id": "10339",
+                "link": "/find?type=1&query=boll-weevil",
+                "word": "boll-weevil"
+            },
+            {
+                "id": "10339",
+                "link": "/find?type=1&query=bollard",
+                "word": "bollard"
+            },
+            {
+                "id": "10339",
+                "link": "/find?type=1&query=bollocking",
+                "word": "bollocking"
+            },
+            {
+                "id": "10339",
+                "link": "/find?type=1&query=bollocks",
+                "word": "bollocks"
+            }
+        ]
+    }
+}

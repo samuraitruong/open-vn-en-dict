@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "26037", "link": "/find?type=1&query=discuss", "word": "discuss"}, {"id": "26037", "link": "/find?type=1&query=discussible", "word": "discussible"}, {"id": "26037", "link": "/find?type=1&query=discussion", "word": "discussion"}, {"id": "26037", "link": "/find?type=1&query=discussive", "word": "discussive"}], "data": {"word": "discus", "id": "26037", "pronounce": "/'disk\u0259s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ec3 thao) \u0111\u0129a</div>\n    \n    <div class=\"bold dot-blue m-top15\">the discus</div>\n    \n    <div class=\"grey margin25 m-top15\">cu\u1ed9c thi n\u00e9m \u0111\u0129a</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8d914ba2bb3a0ab175d0dc6294ad4bac/16e5e09d569/D/discus.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6d142252898db2e7d694012d7248a712/16e5e09dafd/D/discus.mp3"}}}, "en_en": {"suggests": [{"id": "8187", "link": "/find?type=3&query=discuss", "word": "discuss"}, {"id": "8187", "link": "/find?type=3&query=discussion", "word": "discussion"}], "data": {"word": "discus", "id": "8187", "pronounce": "/\u02c8d\u026ask\u0259s/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cuses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a heavy flat round object that people throw as far as they can as a sport</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a discus thrower</div>\n    \n    <div class=\"green margin25 m-top15\">the discus :an athletic event in which people compete by trying to throw a discus farther than everyone else</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">winner of the discus</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1742", "link": "/find?type=4&query=discuss", "word": "discuss"}, {"id": "1743", "link": "/find?type=4&query=discussion", "word": "discussion"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cuses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a heavy flat round object that people throw as far as they can as a sport</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a discus thrower</div>\n    \n    <div class=\"green margin25 m-top15\">the discus :an athletic event in which people compete by trying to throw a discus farther than everyone else</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">winner of the discus</div>",
+            "id": "8187",
+            "mean": [],
+            "pronounce": "/\u02c8d\u026ask\u0259s/",
+            "type": "noun",
+            "word": "discus"
+        },
+        "suggests": [
+            {
+                "id": "8187",
+                "link": "/find?type=3&query=discuss",
+                "word": "discuss"
+            },
+            {
+                "id": "8187",
+                "link": "/find?type=3&query=discussion",
+                "word": "discussion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ec3 thao) \u0111\u0129a</div>\n    \n    <div class=\"bold dot-blue m-top15\">the discus</div>\n    \n    <div class=\"grey margin25 m-top15\">cu\u1ed9c thi n\u00e9m \u0111\u0129a</div>",
+            "id": "26037",
+            "mean": [],
+            "pronounce": "/'disk\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c526756aaffa8c97eb5432a769a50eb2/16e5ef4ae9c/D/discus.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/dcaebfa68aa00e4b15c703037e81d592/16e5ef4a5ca/D/discus.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "discus"
+        },
+        "suggests": [
+            {
+                "id": "26037",
+                "link": "/find?type=1&query=discuss",
+                "word": "discuss"
+            },
+            {
+                "id": "26037",
+                "link": "/find?type=1&query=discussible",
+                "word": "discussible"
+            },
+            {
+                "id": "26037",
+                "link": "/find?type=1&query=discussion",
+                "word": "discussion"
+            },
+            {
+                "id": "26037",
+                "link": "/find?type=1&query=discussive",
+                "word": "discussive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1742",
+                "link": "/find?type=4&query=discuss",
+                "word": "discuss"
+            },
+            {
+                "id": "1743",
+                "link": "/find?type=4&query=discussion",
+                "word": "discussion"
+            }
+        ]
+    }
+}

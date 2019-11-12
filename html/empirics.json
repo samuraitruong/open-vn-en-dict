@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "30184", "link": "/find?type=1&query=empiric%28al%29", "word": "empiric(al)"}, {"id": "30184", "link": "/find?type=1&query=empirical", "word": "empirical"}, {"id": "30184", "link": "/find?type=1&query=empirically", "word": "empirically"}, {"id": "30184", "link": "/find?type=1&query=empiricism", "word": "empiricism"}, {"id": "30184", "link": "/find?type=1&query=empiricist", "word": "empiricist"}], "data": {"word": "empiric", "id": "30184", "pronounce": "/em'pirik/", "type": "T\u00ednh t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">theo l\u1ed1i kinh nghi\u1ec7m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi theo ch\u1ee7 ngh\u0129a kinh nghi\u1ec7m</div>\n    \n    <div class=\"green margin25 m-top15\">lang b\u0103m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9458", "link": "/find?type=3&query=empirical", "word": "empirical"}, {"id": "9459", "link": "/find?type=3&query=empiricism", "word": "empiricism"}], "data": {}}, "synonyms": {"suggests": [{"id": "2116", "link": "/find?type=4&query=empirical", "word": "empirical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9458",
+                "link": "/find?type=3&query=empirical",
+                "word": "empirical"
+            },
+            {
+                "id": "9459",
+                "link": "/find?type=3&query=empiricism",
+                "word": "empiricism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">theo l\u1ed1i kinh nghi\u1ec7m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi theo ch\u1ee7 ngh\u0129a kinh nghi\u1ec7m</div>\n    \n    <div class=\"green margin25 m-top15\">lang b\u0103m</div>",
+            "id": "30184",
+            "mean": [],
+            "pronounce": "/em'pirik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "empiric"
+        },
+        "suggests": [
+            {
+                "id": "30184",
+                "link": "/find?type=1&query=empiric%28al%29",
+                "word": "empiric(al)"
+            },
+            {
+                "id": "30184",
+                "link": "/find?type=1&query=empirical",
+                "word": "empirical"
+            },
+            {
+                "id": "30184",
+                "link": "/find?type=1&query=empirically",
+                "word": "empirically"
+            },
+            {
+                "id": "30184",
+                "link": "/find?type=1&query=empiricism",
+                "word": "empiricism"
+            },
+            {
+                "id": "30184",
+                "link": "/find?type=1&query=empiricist",
+                "word": "empiricist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2116",
+                "link": "/find?type=4&query=empirical",
+                "word": "empirical"
+            }
+        ]
+    }
+}

@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "35933", "link": "/find?type=1&query=flamb%C3%A9", "word": "flamb\u00e9"}, {"id": "35934", "link": "/find?type=1&query=flambeau", "word": "flambeau"}, {"id": "35935", "link": "/find?type=1&query=flambeaux", "word": "flambeaux"}, {"id": "35936", "link": "/find?type=1&query=flamboyance", "word": "flamboyance"}, {"id": "35937", "link": "/find?type=1&query=flamboyancy", "word": "flamboyancy"}, {"id": "35938", "link": "/find?type=1&query=flamboyant", "word": "flamboyant"}, {"id": "35939", "link": "/find?type=1&query=flamboyantly", "word": "flamboyantly"}], "data": {}}, "en_en": {"suggests": [{"id": "10822", "link": "/find?type=3&query=flambe", "word": "flambe"}, {"id": "10823", "link": "/find?type=3&query=flamboyant", "word": "flamboyant"}], "data": {}}, "synonyms": {"suggests": [{"id": "2658", "link": "/find?type=4&query=flamboyant", "word": "flamboyant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10822",
+                "link": "/find?type=3&query=flambe",
+                "word": "flambe"
+            },
+            {
+                "id": "10823",
+                "link": "/find?type=3&query=flamboyant",
+                "word": "flamboyant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35933",
+                "link": "/find?type=1&query=flamb%C3%A9",
+                "word": "flamb\u00e9"
+            },
+            {
+                "id": "35934",
+                "link": "/find?type=1&query=flambeau",
+                "word": "flambeau"
+            },
+            {
+                "id": "35935",
+                "link": "/find?type=1&query=flambeaux",
+                "word": "flambeaux"
+            },
+            {
+                "id": "35936",
+                "link": "/find?type=1&query=flamboyance",
+                "word": "flamboyance"
+            },
+            {
+                "id": "35937",
+                "link": "/find?type=1&query=flamboyancy",
+                "word": "flamboyancy"
+            },
+            {
+                "id": "35938",
+                "link": "/find?type=1&query=flamboyant",
+                "word": "flamboyant"
+            },
+            {
+                "id": "35939",
+                "link": "/find?type=1&query=flamboyantly",
+                "word": "flamboyantly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2658",
+                "link": "/find?type=4&query=flamboyant",
+                "word": "flamboyant"
+            }
+        ]
+    }
+}

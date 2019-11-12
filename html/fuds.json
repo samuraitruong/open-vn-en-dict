@@ -1,1 +1,37 @@
-{"error": 0, "query": "fuds", "enViData": {"suggests": [{"id": "38278", "link": "/find?type=1&query=fuddle", "word": "fuddle"}, {"id": "38279", "link": "/find?type=1&query=fuddy-duddy", "word": "fuddy-duddy"}, {"id": "38280", "link": "/find?type=1&query=fudge", "word": "fudge"}]}, "mUrl": "/find?type=1&query=fuds", "enEnData": {"suggests": [{"id": "11580", "link": "/find?type=3&query=fuddy-duddy", "word": "fuddy-duddy"}, {"id": "11581", "link": "/find?type=3&query=fudge", "word": "fudge"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11580",
+                "link": "/find?type=3&query=fuddy-duddy",
+                "word": "fuddy-duddy"
+            },
+            {
+                "id": "11581",
+                "link": "/find?type=3&query=fudge",
+                "word": "fudge"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38278",
+                "link": "/find?type=1&query=fuddle",
+                "word": "fuddle"
+            },
+            {
+                "id": "38279",
+                "link": "/find?type=1&query=fuddy-duddy",
+                "word": "fuddy-duddy"
+            },
+            {
+                "id": "38280",
+                "link": "/find?type=1&query=fudge",
+                "word": "fudge"
+            }
+        ]
+    }
+}

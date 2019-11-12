@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "21042", "link": "/find?type=1&query=criminologic", "word": "criminologic"}, {"id": "21043", "link": "/find?type=1&query=criminological", "word": "criminological"}, {"id": "21044", "link": "/find?type=1&query=criminologically", "word": "criminologically"}, {"id": "21045", "link": "/find?type=1&query=criminologist", "word": "criminologist"}, {"id": "21046", "link": "/find?type=1&query=criminology", "word": "criminology"}], "data": {}}, "en_en": {"suggests": [{"id": "6768", "link": "/find?type=3&query=criminology", "word": "criminology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6768",
+                "link": "/find?type=3&query=criminology",
+                "word": "criminology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21042",
+                "link": "/find?type=1&query=criminologic",
+                "word": "criminologic"
+            },
+            {
+                "id": "21043",
+                "link": "/find?type=1&query=criminological",
+                "word": "criminological"
+            },
+            {
+                "id": "21044",
+                "link": "/find?type=1&query=criminologically",
+                "word": "criminologically"
+            },
+            {
+                "id": "21045",
+                "link": "/find?type=1&query=criminologist",
+                "word": "criminologist"
+            },
+            {
+                "id": "21046",
+                "link": "/find?type=1&query=criminology",
+                "word": "criminology"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11958", "link": "/find?type=1&query=burthen", "word": "burthen"}, {"id": "11959", "link": "/find?type=1&query=burton", "word": "burton"}], "data": {}}, "en_en": {"suggests": [{"id": "3727", "link": "/find?type=3&query=burton", "word": "burton"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3727",
+                "link": "/find?type=3&query=burton",
+                "word": "burton"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11958",
+                "link": "/find?type=1&query=burthen",
+                "word": "burthen"
+            },
+            {
+                "id": "11959",
+                "link": "/find?type=1&query=burton",
+                "word": "burton"
+            }
+        ]
+    }
+}

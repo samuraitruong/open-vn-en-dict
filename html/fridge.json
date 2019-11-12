@@ -1,1 +1,40 @@
-{"error": 0, "query": "fridge", "enViData": {"suggests": [{"id": "38001", "link": "/find?type=1&query=fridge-freezer", "word": "fridge-freezer"}], "best": {"id": "38001", "details": "\n<div id=\"find_word_38001\" class=\"world word_en\" rel=\"fridge\">\n    <h2 class=\"fl\">fridge <span class=\"color-black\">/'frid\u0292/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38001\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38001\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ee7 l\u1ea1nh; ph\u00f2ng \u01b0\u1edbp l\u1ea1nh</div>\n    \n</div>\n", "link": "/find?type=1&query=fridge", "word": "fridge"}}, "mUrl": "/find?type=1&query=fridge", "enEnData": {"suggests": [{"id": "11476", "link": "/find?type=3&query=fridge-freezer", "word": "fridge-freezer"}], "best": {"id": "11476", "details": "\n<div id=\"find_word_11476\" class=\"world word_en\" rel=\"fridge\">\n    <h2 class=\"fl\">fridge <span class=\"color-black\">/\u02c8fr\u026a\u02a4/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11476\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11476\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural fridges</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :refrigerator</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Please put the milk in the fridge.</div>\n    \n    <div class=\"green margin25 m-top15\">In U.S. English, fridge is informal, but in British English it is the usual word for a refrigerator.</div>\n    \n</div>\n", "link": "/find?type=3&query=fridge", "word": "fridge"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural fridges</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :refrigerator</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Please put the milk in the fridge.</div>\n    \n    <div class=\"green margin25 m-top15\">In U.S. English, fridge is informal, but in British English it is the usual word for a refrigerator.</div>",
+            "id": "11476",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u026a\u02a4/",
+            "type": "noun",
+            "word": "fridge"
+        },
+        "suggests": [
+            {
+                "id": "11476",
+                "link": "/find?type=3&query=fridge-freezer",
+                "word": "fridge-freezer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ee7 l\u1ea1nh; ph\u00f2ng \u01b0\u1edbp l\u1ea1nh</div>",
+            "id": "38001",
+            "mean": [],
+            "pronounce": "/'frid\u0292/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4e633035ff6620d2e6c453124f706470/16e60a08946/F/fridge.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e954d4a4afd50925ec7fc61a6d8b6dfd/16e60a08146/F/fridge.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "fridge"
+        },
+        "suggests": [
+            {
+                "id": "38001",
+                "link": "/find?type=1&query=fridge-freezer",
+                "word": "fridge-freezer"
+            }
+        ]
+    }
+}

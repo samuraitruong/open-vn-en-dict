@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "1977", "link": "/find?type=1&query=agenda", "word": "agenda"}], "data": {}}, "en_en": {"suggests": [{"id": "502", "link": "/find?type=3&query=agenda", "word": "agenda"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "502",
+                "link": "/find?type=3&query=agenda",
+                "word": "agenda"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1977",
+                "link": "/find?type=1&query=agenda",
+                "word": "agenda"
+            }
+        ]
+    }
+}

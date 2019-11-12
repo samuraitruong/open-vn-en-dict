@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "28783", "link": "/find?type=1&query=eczematous", "word": "eczematous"}], "data": {"word": "eczema", "id": "28783", "pronounce": "/'eksim\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">ecz\u00eama, ch\u00e0m</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8c99c224784365911ecd5be4b832e4a1/16e5e11bf83/E/eczema.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/798b4f279bfa8ac684ad886db26bf108/16e5e11c560/E/eczema.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "eczema", "id": "9197", "pronounce": "/\u02c8\u025bgz\u0259m\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a skin disease that causes areas of the skin to become red, rough, and itchy</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a skin disease that causes areas of the skin to become red, rough, and itchy</div>",
+            "id": "9197",
+            "mean": [],
+            "pronounce": "/\u02c8\u025bgz\u0259m\u0259/",
+            "type": "noun",
+            "word": "eczema"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">ecz\u00eama, ch\u00e0m</div>",
+            "id": "28783",
+            "mean": [],
+            "pronounce": "/'eksim\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/58e708c2673093f22bf50d825376f566/16e5f009bc4/E/eczema.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/91f8728d1dec1f882f846930fff32fe2/16e5f008932/E/eczema.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "eczema"
+        },
+        "suggests": [
+            {
+                "id": "28783",
+                "link": "/find?type=1&query=eczematous",
+                "word": "eczematous"
+            }
+        ]
+    }
+}

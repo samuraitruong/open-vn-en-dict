@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "10990", "link": "/find?type=1&query=brandy-snap", "word": "brandy-snap"}], "data": {"word": "brandy", "id": "10990", "pronounce": "/'br\u00e6ndi/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u01b0\u1ee3u brandi</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed1c r\u01b0\u1ee3u brandi</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d6276cf205f0e7db02f7931daa667681/16e5ddc1c46/B/brandy.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/422c1801c762c92fa4fe12d5e0222170/16e5ddc2235/B/brandy.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "brandy", "id": "3331", "pronounce": "/\u02c8br\u00e6ndi/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dies</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :an alcoholic drink made from wine</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dies</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :an alcoholic drink made from wine</div>",
+            "id": "3331",
+            "mean": [],
+            "pronounce": "/\u02c8br\u00e6ndi/",
+            "type": "noun",
+            "word": "brandy"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u01b0\u1ee3u brandi</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed1c r\u01b0\u1ee3u brandi</div>",
+            "id": "10990",
+            "mean": [],
+            "pronounce": "/'br\u00e6ndi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9d24bfb51fd18b0ca5afb6bd19175886/16e5ebdcb36/B/brandy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/24d1258ed47721f819a86016a24c2623/16e5ebdc61b/B/brandy.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "brandy"
+        },
+        "suggests": [
+            {
+                "id": "10990",
+                "link": "/find?type=1&query=brandy-snap",
+                "word": "brandy-snap"
+            }
+        ]
+    }
+}

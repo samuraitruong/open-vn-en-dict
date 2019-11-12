@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "14646", "link": "/find?type=1&query=checked", "word": "checked"}, {"id": "14647", "link": "/find?type=1&query=checker", "word": "checker"}, {"id": "14648", "link": "/find?type=1&query=checkerboard", "word": "checkerboard"}, {"id": "14649", "link": "/find?type=1&query=checkered", "word": "checkered"}, {"id": "14650", "link": "/find?type=1&query=checkers", "word": "checkers"}], "data": {}}, "en_en": {"suggests": [{"id": "4664", "link": "/find?type=3&query=checked", "word": "checked"}, {"id": "4665", "link": "/find?type=3&query=checker", "word": "checker"}, {"id": "4666", "link": "/find?type=3&query=checkerboard", "word": "checkerboard"}, {"id": "4667", "link": "/find?type=3&query=checkered", "word": "checkered"}, {"id": "4668", "link": "/find?type=3&query=checkers", "word": "checkers"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4664",
+                "link": "/find?type=3&query=checked",
+                "word": "checked"
+            },
+            {
+                "id": "4665",
+                "link": "/find?type=3&query=checker",
+                "word": "checker"
+            },
+            {
+                "id": "4666",
+                "link": "/find?type=3&query=checkerboard",
+                "word": "checkerboard"
+            },
+            {
+                "id": "4667",
+                "link": "/find?type=3&query=checkered",
+                "word": "checkered"
+            },
+            {
+                "id": "4668",
+                "link": "/find?type=3&query=checkers",
+                "word": "checkers"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14646",
+                "link": "/find?type=1&query=checked",
+                "word": "checked"
+            },
+            {
+                "id": "14647",
+                "link": "/find?type=1&query=checker",
+                "word": "checker"
+            },
+            {
+                "id": "14648",
+                "link": "/find?type=1&query=checkerboard",
+                "word": "checkerboard"
+            },
+            {
+                "id": "14649",
+                "link": "/find?type=1&query=checkered",
+                "word": "checkered"
+            },
+            {
+                "id": "14650",
+                "link": "/find?type=1&query=checkers",
+                "word": "checkers"
+            }
+        ]
+    }
+}

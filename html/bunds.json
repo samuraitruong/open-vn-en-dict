@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "11818", "link": "/find?type=1&query=bunder", "word": "bunder"}, {"id": "11818", "link": "/find?type=1&query=bundist", "word": "bundist"}, {"id": "11818", "link": "/find?type=1&query=bundle", "word": "bundle"}, {"id": "11818", "link": "/find?type=1&query=bundled", "word": "bundled"}, {"id": "11818", "link": "/find?type=1&query=bundled+software", "word": "bundled software"}, {"id": "11818", "link": "/find?type=1&query=bundler", "word": "bundler"}], "data": {"word": "bund", "id": "11818", "pronounce": "/b\u028cnd/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Anh, \u00c2n \u0111\u00ea, \u0111\u1eadp</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3666", "link": "/find?type=3&query=bundle", "word": "bundle"}], "data": {}}, "synonyms": {"suggests": [{"id": "768", "link": "/find?type=4&query=bundle", "word": "bundle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3666",
+                "link": "/find?type=3&query=bundle",
+                "word": "bundle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Anh, \u00c2n \u0111\u00ea, \u0111\u1eadp</div>",
+            "id": "11818",
+            "mean": [],
+            "pronounce": "/b\u028cnd/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bund"
+        },
+        "suggests": [
+            {
+                "id": "11818",
+                "link": "/find?type=1&query=bunder",
+                "word": "bunder"
+            },
+            {
+                "id": "11818",
+                "link": "/find?type=1&query=bundist",
+                "word": "bundist"
+            },
+            {
+                "id": "11818",
+                "link": "/find?type=1&query=bundle",
+                "word": "bundle"
+            },
+            {
+                "id": "11818",
+                "link": "/find?type=1&query=bundled",
+                "word": "bundled"
+            },
+            {
+                "id": "11818",
+                "link": "/find?type=1&query=bundled+software",
+                "word": "bundled software"
+            },
+            {
+                "id": "11818",
+                "link": "/find?type=1&query=bundler",
+                "word": "bundler"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "768",
+                "link": "/find?type=4&query=bundle",
+                "word": "bundle"
+            }
+        ]
+    }
+}

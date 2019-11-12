@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "21433", "link": "/find?type=1&query=cryogenic+device", "word": "cryogenic device"}, {"id": "21433", "link": "/find?type=1&query=cryogenic+electronics", "word": "cryogenic electronics"}, {"id": "21433", "link": "/find?type=1&query=cryogenic+laser", "word": "cryogenic laser"}, {"id": "21433", "link": "/find?type=1&query=cryogenic+memory", "word": "cryogenic memory"}, {"id": "21433", "link": "/find?type=1&query=cryogenic+operation", "word": "cryogenic operation"}, {"id": "21433", "link": "/find?type=1&query=cryogenic+temperature", "word": "cryogenic temperature"}, {"id": "21433", "link": "/find?type=1&query=cryogenically", "word": "cryogenically"}, {"id": "21433", "link": "/find?type=1&query=cryogenics", "word": "cryogenics"}], "data": {"word": "cryogenic", "id": "21433", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) thu\u1ed9c si\u00eau h\u00e0n, cry\u00f4g\u00eanic</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6913", "link": "/find?type=3&query=cryogenics", "word": "cryogenics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6913",
+                "link": "/find?type=3&query=cryogenics",
+                "word": "cryogenics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) thu\u1ed9c si\u00eau h\u00e0n, cry\u00f4g\u00eanic</div>",
+            "id": "21433",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cryogenic"
+        },
+        "suggests": [
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenic+device",
+                "word": "cryogenic device"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenic+electronics",
+                "word": "cryogenic electronics"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenic+laser",
+                "word": "cryogenic laser"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenic+memory",
+                "word": "cryogenic memory"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenic+operation",
+                "word": "cryogenic operation"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenic+temperature",
+                "word": "cryogenic temperature"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenically",
+                "word": "cryogenically"
+            },
+            {
+                "id": "21433",
+                "link": "/find?type=1&query=cryogenics",
+                "word": "cryogenics"
+            }
+        ]
+    }
+}

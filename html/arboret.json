@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "5305", "link": "/find?type=1&query=arboreta", "word": "arboreta"}, {"id": "5306", "link": "/find?type=1&query=arboretum", "word": "arboretum"}], "data": {}}, "en_en": {"suggests": [{"id": "1254", "link": "/find?type=3&query=arboretum", "word": "arboretum"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1254",
+                "link": "/find?type=3&query=arboretum",
+                "word": "arboretum"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5305",
+                "link": "/find?type=1&query=arboreta",
+                "word": "arboreta"
+            },
+            {
+                "id": "5306",
+                "link": "/find?type=1&query=arboretum",
+                "word": "arboretum"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "15580", "link": "/find?type=1&query=circumference", "word": "circumference"}, {"id": "15581", "link": "/find?type=1&query=circumferential", "word": "circumferential"}], "data": {}}, "en_en": {"suggests": [{"id": "4999", "link": "/find?type=3&query=circumference", "word": "circumference"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4999",
+                "link": "/find?type=3&query=circumference",
+                "word": "circumference"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15580",
+                "link": "/find?type=1&query=circumference",
+                "word": "circumference"
+            },
+            {
+                "id": "15581",
+                "link": "/find?type=1&query=circumferential",
+                "word": "circumferential"
+            }
+        ]
+    }
+}

@@ -1,1 +1,45 @@
-{"error": 0, "query": "harmonic", "enViData": {"suggests": [{"id": "42886", "link": "/find?type=1&query=harmonica", "word": "harmonica"}, {"id": "42886", "link": "/find?type=1&query=harmonics", "word": "harmonics"}], "best": {"id": "42886", "details": "\n<div id=\"find_word_42886\" class=\"world word_en\" rel=\"harmonic\">\n    <h2 class=\"fl\">harmonic <span class=\"color-black\">/h\u0251:'m\u0252nik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42886\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42886\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) \u00e2m b\u1ed9i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00e0i h\u00f2a, du d\u01b0\u01a1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=harmonic", "word": "harmonic"}}, "mUrl": "/find?type=1&query=harmonic", "enEnData": {"suggests": [{"id": "13122", "link": "/find?type=3&query=harmonica", "word": "harmonica"}], "best": {"id": "13122", "details": "\n<div id=\"find_word_13122\" class=\"world word_en\" rel=\"harmonic\">\n    <h2 class=\"fl\">harmonic <span class=\"color-black\">/h\u0251\u025a\u02c8m\u0251\u02d0n\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13122\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13122\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :of or relating to musical harmony rather than melody or rhythm</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">two different harmonic styles</div>\n    \n</div>\n", "link": "/find?type=3&query=harmonic", "word": "harmonic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :of or relating to musical harmony rather than melody or rhythm</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">two different harmonic styles</div>",
+            "id": "13122",
+            "mean": [],
+            "pronounce": "/h\u0251\u025a\u02c8m\u0251\u02d0n\u026ak/",
+            "type": "adjective",
+            "word": "harmonic"
+        },
+        "suggests": [
+            {
+                "id": "13122",
+                "link": "/find?type=3&query=harmonica",
+                "word": "harmonica"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) \u00e2m b\u1ed9i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00e0i h\u00f2a, du d\u01b0\u01a1ng</div>",
+            "id": "42886",
+            "mean": [],
+            "pronounce": "/h\u0251:'m\u0252nik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ca577cecd5ca515a3499b9e1fd424abb/16e61683de5/H/harmonic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a23e43bab29b5b4e8f07920181401f69/16e6168343e/H/harmonic.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "harmonic"
+        },
+        "suggests": [
+            {
+                "id": "42886",
+                "link": "/find?type=1&query=harmonica",
+                "word": "harmonica"
+            },
+            {
+                "id": "42886",
+                "link": "/find?type=1&query=harmonics",
+                "word": "harmonics"
+            }
+        ]
+    }
+}

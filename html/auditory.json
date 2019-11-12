@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "6634", "link": "/find?type=1&query=auditory+sensation", "word": "auditory sensation"}], "data": {"word": "auditory", "id": "6634", "pronounce": "/'\u0254:ditri/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c s\u1ef1] nghe, [thu\u1ed9c] th\u00ednh gi\u00e1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the auditory nerve</div>\n    \n    <div class=\"margin25\">d\u00e2y th\u1ea7n kinh th\u00ednh gi\u00e1c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6bf22d431c9243b3bd533e09d4d9c63c/16e5dcd488d/A/auditory.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5635af44e176bfce04fb98ce693ee40e/16e5dcd4e26/A/auditory.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "auditory", "id": "1645", "pronounce": "/\u02c8\u0251\u02d0d\u0259\u02cctori/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :relating to hearing or the ears</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The patient has damage to the auditory nerve.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :relating to hearing or the ears</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The patient has damage to the auditory nerve.</div>",
+            "id": "1645",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0d\u0259\u02cctori/",
+            "type": "adjective",
+            "word": "auditory"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c s\u1ef1] nghe, [thu\u1ed9c] th\u00ednh gi\u00e1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the auditory nerve</div>\n    \n    <div class=\"margin25\">d\u00e2y th\u1ea7n kinh th\u00ednh gi\u00e1c</div>",
+            "id": "6634",
+            "mean": [],
+            "pronounce": "/'\u0254:ditri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f5eae0545e6045c40ac42fdffa0b0b6c/16e5eb06a18/A/auditory.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f7f7bc49fd8d795d37154aa53c23ef67/16e5eb0645f/A/auditory.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "auditory"
+        },
+        "suggests": [
+            {
+                "id": "6634",
+                "link": "/find?type=1&query=auditory+sensation",
+                "word": "auditory sensation"
+            }
+        ]
+    }
+}

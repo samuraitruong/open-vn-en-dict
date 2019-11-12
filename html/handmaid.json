@@ -1,1 +1,37 @@
-{"error": 0, "query": "handmaid", "enViData": {"suggests": [{"id": "42689", "link": "/find?type=1&query=handmaiden", "word": "handmaiden"}], "best": {"id": "42689", "details": "\n<div id=\"find_word_42689\" class=\"world word_en\" rel=\"handmaid\">\n    <h2 class=\"fl\">handmaid <span class=\"color-black\">/'h\u00e6ndmeid/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42689\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42689\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5) ng\u01b0\u1eddi h\u1ea7u g\u00e1i, con sen</div>\n    \n</div>\n", "link": "/find?type=1&query=handmaid", "word": "handmaid"}}, "mUrl": "/find?type=1&query=handmaid", "enEnData": {"suggests": [{"id": "12997", "link": "/find?type=3&query=handmaiden", "word": "handmaiden"}], "best": {"id": "12997", "details": "\n<div id=\"find_word_12997\" class=\"world word_en\" rel=\"handmaid\">\n    <h2 class=\"fl\">handmaid <span class=\"color-black\">/\u02c8h\u00e6nd\u02ccme\u026ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12997\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12997\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -maids</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :handmaiden</div>\n    \n</div>\n", "link": "/find?type=3&query=handmaid", "word": "handmaid"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -maids</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :handmaiden</div>",
+            "id": "12997",
+            "mean": [],
+            "pronounce": "/\u02c8h\u00e6nd\u02ccme\u026ad/",
+            "type": "noun",
+            "word": "handmaid"
+        },
+        "suggests": [
+            {
+                "id": "12997",
+                "link": "/find?type=3&query=handmaiden",
+                "word": "handmaiden"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5) ng\u01b0\u1eddi h\u1ea7u g\u00e1i, con sen</div>",
+            "id": "42689",
+            "mean": [],
+            "pronounce": "/'h\u00e6ndmeid/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "handmaid"
+        },
+        "suggests": [
+            {
+                "id": "42689",
+                "link": "/find?type=1&query=handmaiden",
+                "word": "handmaiden"
+            }
+        ]
+    }
+}

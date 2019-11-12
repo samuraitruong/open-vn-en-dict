@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "11815", "link": "/find?type=1&query=bunco-steerer", "word": "bunco-steerer"}, {"id": "11815", "link": "/find?type=1&query=buncombe", "word": "buncombe"}], "data": {"word": "bunco", "id": "11815", "pronounce": "/'b\u028c\u0273kou/", "type": "Danh t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng) s\u1ef1 l\u1eeba b\u1ecbp, s\u1ef1 l\u1eeba \u0111\u1ea3o, s\u1ef1 gian l\u1eadn</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng) l\u1eeba b\u1ecbp, l\u1eeba \u0111\u1ea3o</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3665", "link": "/find?type=3&query=buncombe", "word": "buncombe"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3665",
+                "link": "/find?type=3&query=buncombe",
+                "word": "buncombe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng) s\u1ef1 l\u1eeba b\u1ecbp, s\u1ef1 l\u1eeba \u0111\u1ea3o, s\u1ef1 gian l\u1eadn</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng) l\u1eeba b\u1ecbp, l\u1eeba \u0111\u1ea3o</div>",
+            "id": "11815",
+            "mean": [],
+            "pronounce": "/'b\u028c\u0273kou/",
+            "speak": {},
+            "type": "Danh t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "bunco"
+        },
+        "suggests": [
+            {
+                "id": "11815",
+                "link": "/find?type=1&query=bunco-steerer",
+                "word": "bunco-steerer"
+            },
+            {
+                "id": "11815",
+                "link": "/find?type=1&query=buncombe",
+                "word": "buncombe"
+            }
+        ]
+    }
+}

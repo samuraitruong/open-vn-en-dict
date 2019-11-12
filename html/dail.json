@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "22280", "link": "/find?type=1&query=dailiness", "word": "dailiness"}, {"id": "22281", "link": "/find?type=1&query=daily", "word": "daily"}, {"id": "22282", "link": "/find?type=1&query=daily+dozen", "word": "daily dozen"}, {"id": "22283", "link": "/find?type=1&query=dailyness", "word": "dailyness"}], "data": {}}, "en_en": {"suggests": [{"id": "7147", "link": "/find?type=3&query=daily", "word": "daily"}], "data": {}}, "synonyms": {"suggests": [{"id": "1387", "link": "/find?type=4&query=daily", "word": "daily"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7147",
+                "link": "/find?type=3&query=daily",
+                "word": "daily"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22280",
+                "link": "/find?type=1&query=dailiness",
+                "word": "dailiness"
+            },
+            {
+                "id": "22281",
+                "link": "/find?type=1&query=daily",
+                "word": "daily"
+            },
+            {
+                "id": "22282",
+                "link": "/find?type=1&query=daily+dozen",
+                "word": "daily dozen"
+            },
+            {
+                "id": "22283",
+                "link": "/find?type=1&query=dailyness",
+                "word": "dailyness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1387",
+                "link": "/find?type=4&query=daily",
+                "word": "daily"
+            }
+        ]
+    }
+}

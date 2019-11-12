@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "3532", "link": "/find?type=1&query=analytic", "word": "analytic"}, {"id": "3533", "link": "/find?type=1&query=analytical", "word": "analytical"}, {"id": "3534", "link": "/find?type=1&query=analytical-function+generator", "word": "analytical-function generator"}, {"id": "3535", "link": "/find?type=1&query=analytically", "word": "analytically"}, {"id": "3536", "link": "/find?type=1&query=analytics", "word": "analytics"}], "data": {}}, "en_en": {"suggests": [{"id": "897", "link": "/find?type=3&query=analytical", "word": "analytical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "897",
+                "link": "/find?type=3&query=analytical",
+                "word": "analytical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3532",
+                "link": "/find?type=1&query=analytic",
+                "word": "analytic"
+            },
+            {
+                "id": "3533",
+                "link": "/find?type=1&query=analytical",
+                "word": "analytical"
+            },
+            {
+                "id": "3534",
+                "link": "/find?type=1&query=analytical-function+generator",
+                "word": "analytical-function generator"
+            },
+            {
+                "id": "3535",
+                "link": "/find?type=1&query=analytically",
+                "word": "analytically"
+            },
+            {
+                "id": "3536",
+                "link": "/find?type=1&query=analytics",
+                "word": "analytics"
+            }
+        ]
+    }
+}

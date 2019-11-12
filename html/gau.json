@@ -1,1 +1,122 @@
-{"error": 0, "query": "gau", "enViData": {"suggests": [{"id": "39277", "link": "/find?type=1&query=gauche", "word": "gauche"}, {"id": "39278", "link": "/find?type=1&query=gaucheness", "word": "gaucheness"}, {"id": "39279", "link": "/find?type=1&query=gaucherie", "word": "gaucherie"}, {"id": "39280", "link": "/find?type=1&query=gauchery", "word": "gauchery"}, {"id": "39281", "link": "/find?type=1&query=gaucho", "word": "gaucho"}, {"id": "39282", "link": "/find?type=1&query=gaud", "word": "gaud"}, {"id": "39283", "link": "/find?type=1&query=gaudery", "word": "gaudery"}, {"id": "39284", "link": "/find?type=1&query=gaudily", "word": "gaudily"}, {"id": "39285", "link": "/find?type=1&query=gaudiness", "word": "gaudiness"}, {"id": "39286", "link": "/find?type=1&query=gaudy", "word": "gaudy"}]}, "mUrl": "/find?type=1&query=gau", "enEnData": {"suggests": [{"id": "11877", "link": "/find?type=3&query=gauche", "word": "gauche"}, {"id": "11878", "link": "/find?type=3&query=gaucho", "word": "gaucho"}, {"id": "11879", "link": "/find?type=3&query=gaudy", "word": "gaudy"}, {"id": "11880", "link": "/find?type=3&query=gauge", "word": "gauge"}, {"id": "11881", "link": "/find?type=3&query=gaunt", "word": "gaunt"}, {"id": "11882", "link": "/find?type=3&query=gauntlet", "word": "gauntlet"}, {"id": "11883", "link": "/find?type=3&query=gauze", "word": "gauze"}, {"id": "11884", "link": "/find?type=3&query=gauzy", "word": "gauzy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2945", "link": "/find?type=4&query=gaudy", "word": "gaudy"}, {"id": "2946", "link": "/find?type=4&query=gauge", "word": "gauge"}, {"id": "2947", "link": "/find?type=4&query=gaunt", "word": "gaunt"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11877",
+                "link": "/find?type=3&query=gauche",
+                "word": "gauche"
+            },
+            {
+                "id": "11878",
+                "link": "/find?type=3&query=gaucho",
+                "word": "gaucho"
+            },
+            {
+                "id": "11879",
+                "link": "/find?type=3&query=gaudy",
+                "word": "gaudy"
+            },
+            {
+                "id": "11880",
+                "link": "/find?type=3&query=gauge",
+                "word": "gauge"
+            },
+            {
+                "id": "11881",
+                "link": "/find?type=3&query=gaunt",
+                "word": "gaunt"
+            },
+            {
+                "id": "11882",
+                "link": "/find?type=3&query=gauntlet",
+                "word": "gauntlet"
+            },
+            {
+                "id": "11883",
+                "link": "/find?type=3&query=gauze",
+                "word": "gauze"
+            },
+            {
+                "id": "11884",
+                "link": "/find?type=3&query=gauzy",
+                "word": "gauzy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39277",
+                "link": "/find?type=1&query=gauche",
+                "word": "gauche"
+            },
+            {
+                "id": "39278",
+                "link": "/find?type=1&query=gaucheness",
+                "word": "gaucheness"
+            },
+            {
+                "id": "39279",
+                "link": "/find?type=1&query=gaucherie",
+                "word": "gaucherie"
+            },
+            {
+                "id": "39280",
+                "link": "/find?type=1&query=gauchery",
+                "word": "gauchery"
+            },
+            {
+                "id": "39281",
+                "link": "/find?type=1&query=gaucho",
+                "word": "gaucho"
+            },
+            {
+                "id": "39282",
+                "link": "/find?type=1&query=gaud",
+                "word": "gaud"
+            },
+            {
+                "id": "39283",
+                "link": "/find?type=1&query=gaudery",
+                "word": "gaudery"
+            },
+            {
+                "id": "39284",
+                "link": "/find?type=1&query=gaudily",
+                "word": "gaudily"
+            },
+            {
+                "id": "39285",
+                "link": "/find?type=1&query=gaudiness",
+                "word": "gaudiness"
+            },
+            {
+                "id": "39286",
+                "link": "/find?type=1&query=gaudy",
+                "word": "gaudy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2945",
+                "link": "/find?type=4&query=gaudy",
+                "word": "gaudy"
+            },
+            {
+                "id": "2946",
+                "link": "/find?type=4&query=gauge",
+                "word": "gauge"
+            },
+            {
+                "id": "2947",
+                "link": "/find?type=4&query=gaunt",
+                "word": "gaunt"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "7872", "link": "/find?type=1&query=ballast", "word": "ballast"}, {"id": "7873", "link": "/find?type=1&query=ballast+resistor", "word": "ballast resistor"}, {"id": "7874", "link": "/find?type=1&query=ballastron", "word": "ballastron"}], "data": {}}, "en_en": {"suggests": [{"id": "1930", "link": "/find?type=3&query=ballast", "word": "ballast"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1930",
+                "link": "/find?type=3&query=ballast",
+                "word": "ballast"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7872",
+                "link": "/find?type=1&query=ballast",
+                "word": "ballast"
+            },
+            {
+                "id": "7873",
+                "link": "/find?type=1&query=ballast+resistor",
+                "word": "ballast resistor"
+            },
+            {
+                "id": "7874",
+                "link": "/find?type=1&query=ballastron",
+                "word": "ballastron"
+            }
+        ]
+    }
+}

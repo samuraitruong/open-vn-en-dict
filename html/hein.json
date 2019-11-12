@@ -1,1 +1,37 @@
-{"error": 0, "query": "hein", "enViData": {"suggests": [{"id": "43390", "link": "/find?type=1&query=heinous", "word": "heinous"}, {"id": "43391", "link": "/find?type=1&query=heinously", "word": "heinously"}, {"id": "43392", "link": "/find?type=1&query=heinousness", "word": "heinousness"}]}, "mUrl": "/find?type=1&query=hein", "enEnData": {"suggests": [{"id": "13366", "link": "/find?type=3&query=heinie", "word": "heinie"}, {"id": "13367", "link": "/find?type=3&query=heinous", "word": "heinous"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13366",
+                "link": "/find?type=3&query=heinie",
+                "word": "heinie"
+            },
+            {
+                "id": "13367",
+                "link": "/find?type=3&query=heinous",
+                "word": "heinous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43390",
+                "link": "/find?type=1&query=heinous",
+                "word": "heinous"
+            },
+            {
+                "id": "43391",
+                "link": "/find?type=1&query=heinously",
+                "word": "heinously"
+            },
+            {
+                "id": "43392",
+                "link": "/find?type=1&query=heinousness",
+                "word": "heinousness"
+            }
+        ]
+    }
+}

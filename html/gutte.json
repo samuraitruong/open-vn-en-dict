@@ -1,1 +1,77 @@
-{"error": 0, "query": "gutte", "enViData": {"suggests": [{"id": "42105", "link": "/find?type=1&query=gutter", "word": "gutter"}, {"id": "42106", "link": "/find?type=1&query=gutter-child", "word": "gutter-child"}, {"id": "42107", "link": "/find?type=1&query=gutter-journalism", "word": "gutter-journalism"}, {"id": "42108", "link": "/find?type=1&query=gutter-man", "word": "gutter-man"}, {"id": "42109", "link": "/find?type=1&query=gutter-press", "word": "gutter-press"}, {"id": "42110", "link": "/find?type=1&query=gutter-snipe", "word": "gutter-snipe"}, {"id": "42111", "link": "/find?type=1&query=guttering", "word": "guttering"}, {"id": "42112", "link": "/find?type=1&query=guttersnipish", "word": "guttersnipish"}, {"id": "42113", "link": "/find?type=1&query=gutterway", "word": "gutterway"}]}, "mUrl": "/find?type=1&query=gutte", "enEnData": {"suggests": [{"id": "12820", "link": "/find?type=3&query=gutted", "word": "gutted"}, {"id": "12821", "link": "/find?type=3&query=gutter", "word": "gutter"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3158", "link": "/find?type=4&query=guttersnipe", "word": "guttersnipe"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12820",
+                "link": "/find?type=3&query=gutted",
+                "word": "gutted"
+            },
+            {
+                "id": "12821",
+                "link": "/find?type=3&query=gutter",
+                "word": "gutter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42105",
+                "link": "/find?type=1&query=gutter",
+                "word": "gutter"
+            },
+            {
+                "id": "42106",
+                "link": "/find?type=1&query=gutter-child",
+                "word": "gutter-child"
+            },
+            {
+                "id": "42107",
+                "link": "/find?type=1&query=gutter-journalism",
+                "word": "gutter-journalism"
+            },
+            {
+                "id": "42108",
+                "link": "/find?type=1&query=gutter-man",
+                "word": "gutter-man"
+            },
+            {
+                "id": "42109",
+                "link": "/find?type=1&query=gutter-press",
+                "word": "gutter-press"
+            },
+            {
+                "id": "42110",
+                "link": "/find?type=1&query=gutter-snipe",
+                "word": "gutter-snipe"
+            },
+            {
+                "id": "42111",
+                "link": "/find?type=1&query=guttering",
+                "word": "guttering"
+            },
+            {
+                "id": "42112",
+                "link": "/find?type=1&query=guttersnipish",
+                "word": "guttersnipish"
+            },
+            {
+                "id": "42113",
+                "link": "/find?type=1&query=gutterway",
+                "word": "gutterway"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3158",
+                "link": "/find?type=4&query=guttersnipe",
+                "word": "guttersnipe"
+            }
+        ]
+    }
+}

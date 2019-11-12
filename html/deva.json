@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "24713", "link": "/find?type=1&query=devalorization", "word": "devalorization"}, {"id": "24714", "link": "/find?type=1&query=devalorize", "word": "devalorize"}, {"id": "24715", "link": "/find?type=1&query=devaluate", "word": "devaluate"}, {"id": "24716", "link": "/find?type=1&query=devaluation", "word": "devaluation"}, {"id": "24717", "link": "/find?type=1&query=Devaluation+and+revaluation", "word": "Devaluation and revaluation"}, {"id": "24718", "link": "/find?type=1&query=devalue", "word": "devalue"}, {"id": "24719", "link": "/find?type=1&query=devastate", "word": "devastate"}, {"id": "24720", "link": "/find?type=1&query=devastating", "word": "devastating"}, {"id": "24721", "link": "/find?type=1&query=devastatingly", "word": "devastatingly"}, {"id": "24722", "link": "/find?type=1&query=devastation", "word": "devastation"}], "data": {}}, "en_en": {"suggests": [{"id": "7856", "link": "/find?type=3&query=devalue", "word": "devalue"}, {"id": "7857", "link": "/find?type=3&query=devastate", "word": "devastate"}, {"id": "7858", "link": "/find?type=3&query=devastating", "word": "devastating"}], "data": {}}, "synonyms": {"suggests": [{"id": "1624", "link": "/find?type=4&query=devastate", "word": "devastate"}, {"id": "1625", "link": "/find?type=4&query=devastating", "word": "devastating"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7856",
+                "link": "/find?type=3&query=devalue",
+                "word": "devalue"
+            },
+            {
+                "id": "7857",
+                "link": "/find?type=3&query=devastate",
+                "word": "devastate"
+            },
+            {
+                "id": "7858",
+                "link": "/find?type=3&query=devastating",
+                "word": "devastating"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24713",
+                "link": "/find?type=1&query=devalorization",
+                "word": "devalorization"
+            },
+            {
+                "id": "24714",
+                "link": "/find?type=1&query=devalorize",
+                "word": "devalorize"
+            },
+            {
+                "id": "24715",
+                "link": "/find?type=1&query=devaluate",
+                "word": "devaluate"
+            },
+            {
+                "id": "24716",
+                "link": "/find?type=1&query=devaluation",
+                "word": "devaluation"
+            },
+            {
+                "id": "24717",
+                "link": "/find?type=1&query=Devaluation+and+revaluation",
+                "word": "Devaluation and revaluation"
+            },
+            {
+                "id": "24718",
+                "link": "/find?type=1&query=devalue",
+                "word": "devalue"
+            },
+            {
+                "id": "24719",
+                "link": "/find?type=1&query=devastate",
+                "word": "devastate"
+            },
+            {
+                "id": "24720",
+                "link": "/find?type=1&query=devastating",
+                "word": "devastating"
+            },
+            {
+                "id": "24721",
+                "link": "/find?type=1&query=devastatingly",
+                "word": "devastatingly"
+            },
+            {
+                "id": "24722",
+                "link": "/find?type=1&query=devastation",
+                "word": "devastation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1624",
+                "link": "/find?type=4&query=devastate",
+                "word": "devastate"
+            },
+            {
+                "id": "1625",
+                "link": "/find?type=4&query=devastating",
+                "word": "devastating"
+            }
+        ]
+    }
+}

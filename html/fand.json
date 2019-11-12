@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "34123", "link": "/find?type=1&query=fandangle", "word": "fandangle"}, {"id": "34124", "link": "/find?type=1&query=fandango", "word": "fandango"}], "data": {}}, "en_en": {"suggests": [{"id": "10293", "link": "/find?type=3&query=fandango", "word": "fandango"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10293",
+                "link": "/find?type=3&query=fandango",
+                "word": "fandango"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34123",
+                "link": "/find?type=1&query=fandangle",
+                "word": "fandangle"
+            },
+            {
+                "id": "34124",
+                "link": "/find?type=1&query=fandango",
+                "word": "fandango"
+            }
+        ]
+    }
+}

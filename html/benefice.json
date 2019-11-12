@@ -1,1 +1,48 @@
-{"en_vn": {"suggests": [{"id": "8928", "link": "/find?type=1&query=beneficed", "word": "beneficed"}, {"id": "8928", "link": "/find?type=1&query=beneficence", "word": "beneficence"}, {"id": "8928", "link": "/find?type=1&query=beneficent", "word": "beneficent"}, {"id": "8928", "link": "/find?type=1&query=beneficently", "word": "beneficently"}], "data": {"word": "benefice", "id": "8928", "pronounce": "/'benifis/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hoa l\u1ee3i (c\u1ee7a gi\u00e1 s\u0129 ph\u1ee5 tr\u00e1ch m\u1ed9t x\u1ee9 \u0111\u1ea1o)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/23e07dd73c5c4e85af29698114e52498/16e5dd4aa05/B/benefice.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6b0cc2b14e64436bef4cf33351afe45f/16e5dd4afec/B/benefice.mp3"}}}, "en_en": {"suggests": [{"id": "2439", "link": "/find?type=3&query=beneficent", "word": "beneficent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2439",
+                "link": "/find?type=3&query=beneficent",
+                "word": "beneficent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hoa l\u1ee3i (c\u1ee7a gi\u00e1 s\u0129 ph\u1ee5 tr\u00e1ch m\u1ed9t x\u1ee9 \u0111\u1ea1o)</div>",
+            "id": "8928",
+            "mean": [],
+            "pronounce": "/'benifis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/27a8370a807ef197f2ebd6403a192c73/16e5eb719ad/B/benefice.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/83a78e350eef0210442ad7d1d82c1397/16e5eb71469/B/benefice.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "benefice"
+        },
+        "suggests": [
+            {
+                "id": "8928",
+                "link": "/find?type=1&query=beneficed",
+                "word": "beneficed"
+            },
+            {
+                "id": "8928",
+                "link": "/find?type=1&query=beneficence",
+                "word": "beneficence"
+            },
+            {
+                "id": "8928",
+                "link": "/find?type=1&query=beneficent",
+                "word": "beneficent"
+            },
+            {
+                "id": "8928",
+                "link": "/find?type=1&query=beneficently",
+                "word": "beneficently"
+            }
+        ]
+    }
+}

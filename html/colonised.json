@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "17087", "link": "/find?type=1&query=colonise%2C+colonize", "word": "colonise, colonize"}], "data": {}}, "en_en": {"suggests": [{"id": "5526", "link": "/find?type=3&query=colonist", "word": "colonist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5526",
+                "link": "/find?type=3&query=colonist",
+                "word": "colonist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17087",
+                "link": "/find?type=1&query=colonise%2C+colonize",
+                "word": "colonise, colonize"
+            }
+        ]
+    }
+}

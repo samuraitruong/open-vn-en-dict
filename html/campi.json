@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "12669", "link": "/find?type=1&query=camping", "word": "camping"}, {"id": "12670", "link": "/find?type=1&query=camping-site", "word": "camping-site"}], "data": {}}, "en_en": {"suggests": [{"id": "3962", "link": "/find?type=3&query=camping", "word": "camping"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3962",
+                "link": "/find?type=3&query=camping",
+                "word": "camping"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12669",
+                "link": "/find?type=1&query=camping",
+                "word": "camping"
+            },
+            {
+                "id": "12670",
+                "link": "/find?type=1&query=camping-site",
+                "word": "camping-site"
+            }
+        ]
+    }
+}

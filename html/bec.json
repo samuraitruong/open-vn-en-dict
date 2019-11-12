@@ -1,1 +1,117 @@
-{"en_vn": {"suggests": [{"id": "8642", "link": "/find?type=1&query=becalm", "word": "becalm"}, {"id": "8643", "link": "/find?type=1&query=becalmed", "word": "becalmed"}, {"id": "8644", "link": "/find?type=1&query=became", "word": "became"}, {"id": "8645", "link": "/find?type=1&query=because", "word": "because"}, {"id": "8646", "link": "/find?type=1&query=because+of", "word": "because of"}, {"id": "8647", "link": "/find?type=1&query=bechamel", "word": "bechamel"}, {"id": "8648", "link": "/find?type=1&query=beck", "word": "beck"}, {"id": "8649", "link": "/find?type=1&query=beckon", "word": "beckon"}, {"id": "8650", "link": "/find?type=1&query=becloud", "word": "becloud"}, {"id": "8651", "link": "/find?type=1&query=become", "word": "become"}], "data": {}}, "en_en": {"suggests": [{"id": "2279", "link": "/find?type=3&query=becalmed", "word": "becalmed"}, {"id": "2280", "link": "/find?type=3&query=became", "word": "became"}, {"id": "2281", "link": "/find?type=3&query=because", "word": "because"}, {"id": "2282", "link": "/find?type=3&query=beck", "word": "beck"}, {"id": "2283", "link": "/find?type=3&query=beckon", "word": "beckon"}, {"id": "2284", "link": "/find?type=3&query=become", "word": "become"}, {"id": "2285", "link": "/find?type=3&query=becoming", "word": "becoming"}], "data": {}}, "synonyms": {"suggests": [{"id": "467", "link": "/find?type=4&query=beckon", "word": "beckon"}, {"id": "468", "link": "/find?type=4&query=become", "word": "become"}, {"id": "469", "link": "/find?type=4&query=becoming", "word": "becoming"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2279",
+                "link": "/find?type=3&query=becalmed",
+                "word": "becalmed"
+            },
+            {
+                "id": "2280",
+                "link": "/find?type=3&query=became",
+                "word": "became"
+            },
+            {
+                "id": "2281",
+                "link": "/find?type=3&query=because",
+                "word": "because"
+            },
+            {
+                "id": "2282",
+                "link": "/find?type=3&query=beck",
+                "word": "beck"
+            },
+            {
+                "id": "2283",
+                "link": "/find?type=3&query=beckon",
+                "word": "beckon"
+            },
+            {
+                "id": "2284",
+                "link": "/find?type=3&query=become",
+                "word": "become"
+            },
+            {
+                "id": "2285",
+                "link": "/find?type=3&query=becoming",
+                "word": "becoming"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8642",
+                "link": "/find?type=1&query=becalm",
+                "word": "becalm"
+            },
+            {
+                "id": "8643",
+                "link": "/find?type=1&query=becalmed",
+                "word": "becalmed"
+            },
+            {
+                "id": "8644",
+                "link": "/find?type=1&query=became",
+                "word": "became"
+            },
+            {
+                "id": "8645",
+                "link": "/find?type=1&query=because",
+                "word": "because"
+            },
+            {
+                "id": "8646",
+                "link": "/find?type=1&query=because+of",
+                "word": "because of"
+            },
+            {
+                "id": "8647",
+                "link": "/find?type=1&query=bechamel",
+                "word": "bechamel"
+            },
+            {
+                "id": "8648",
+                "link": "/find?type=1&query=beck",
+                "word": "beck"
+            },
+            {
+                "id": "8649",
+                "link": "/find?type=1&query=beckon",
+                "word": "beckon"
+            },
+            {
+                "id": "8650",
+                "link": "/find?type=1&query=becloud",
+                "word": "becloud"
+            },
+            {
+                "id": "8651",
+                "link": "/find?type=1&query=become",
+                "word": "become"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "467",
+                "link": "/find?type=4&query=beckon",
+                "word": "beckon"
+            },
+            {
+                "id": "468",
+                "link": "/find?type=4&query=become",
+                "word": "become"
+            },
+            {
+                "id": "469",
+                "link": "/find?type=4&query=becoming",
+                "word": "becoming"
+            }
+        ]
+    }
+}

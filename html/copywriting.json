@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "19718", "link": "/find?type=1&query=copywrite%5Br%5D", "word": "copywrite[r]"}], "data": {}}, "en_en": {"suggests": [{"id": "6287", "link": "/find?type=3&query=copywriter", "word": "copywriter"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6287",
+                "link": "/find?type=3&query=copywriter",
+                "word": "copywriter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19718",
+                "link": "/find?type=1&query=copywrite%5Br%5D",
+                "word": "copywrite[r]"
+            }
+        ]
+    }
+}

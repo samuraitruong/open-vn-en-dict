@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "20650", "link": "/find?type=1&query=coyote", "word": "coyote"}], "data": {}}, "en_en": {"suggests": [{"id": "6590", "link": "/find?type=3&query=coyote", "word": "coyote"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6590",
+                "link": "/find?type=3&query=coyote",
+                "word": "coyote"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20650",
+                "link": "/find?type=1&query=coyote",
+                "word": "coyote"
+            }
+        ]
+    }
+}

@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "12771", "link": "/find?type=1&query=cannery", "word": "cannery"}], "data": {"word": "canner", "id": "12771", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=can\">can</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4011", "link": "/find?type=3&query=cannery", "word": "cannery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4011",
+                "link": "/find?type=3&query=cannery",
+                "word": "cannery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=can\">can</a></span></div>",
+            "id": "12771",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "canner"
+        },
+        "suggests": [
+            {
+                "id": "12771",
+                "link": "/find?type=1&query=cannery",
+                "word": "cannery"
+            }
+        ]
+    }
+}

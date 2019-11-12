@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27834", "link": "/find?type=1&query=drubbing", "word": "drubbing"}], "data": {}}, "en_en": {"suggests": [{"id": "8910", "link": "/find?type=3&query=drubbing", "word": "drubbing"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8910",
+                "link": "/find?type=3&query=drubbing",
+                "word": "drubbing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27834",
+                "link": "/find?type=1&query=drubbing",
+                "word": "drubbing"
+            }
+        ]
+    }
+}

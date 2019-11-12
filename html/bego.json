@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "8779", "link": "/find?type=1&query=begone", "word": "begone"}, {"id": "8780", "link": "/find?type=1&query=begonia", "word": "begonia"}, {"id": "8781", "link": "/find?type=1&query=begorra", "word": "begorra"}, {"id": "8782", "link": "/find?type=1&query=begot", "word": "begot"}, {"id": "8783", "link": "/find?type=1&query=begotten", "word": "begotten"}], "data": {}}, "en_en": {"suggests": [{"id": "2359", "link": "/find?type=3&query=begone", "word": "begone"}, {"id": "2360", "link": "/find?type=3&query=begonia", "word": "begonia"}, {"id": "2361", "link": "/find?type=3&query=begot", "word": "begot"}, {"id": "2362", "link": "/find?type=3&query=begotten", "word": "begotten"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2359",
+                "link": "/find?type=3&query=begone",
+                "word": "begone"
+            },
+            {
+                "id": "2360",
+                "link": "/find?type=3&query=begonia",
+                "word": "begonia"
+            },
+            {
+                "id": "2361",
+                "link": "/find?type=3&query=begot",
+                "word": "begot"
+            },
+            {
+                "id": "2362",
+                "link": "/find?type=3&query=begotten",
+                "word": "begotten"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8779",
+                "link": "/find?type=1&query=begone",
+                "word": "begone"
+            },
+            {
+                "id": "8780",
+                "link": "/find?type=1&query=begonia",
+                "word": "begonia"
+            },
+            {
+                "id": "8781",
+                "link": "/find?type=1&query=begorra",
+                "word": "begorra"
+            },
+            {
+                "id": "8782",
+                "link": "/find?type=1&query=begot",
+                "word": "begot"
+            },
+            {
+                "id": "8783",
+                "link": "/find?type=1&query=begotten",
+                "word": "begotten"
+            }
+        ]
+    }
+}

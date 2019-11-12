@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "31175", "link": "/find?type=1&query=eosin", "word": "eosin"}, {"id": "31176", "link": "/find?type=1&query=eosinophil", "word": "eosinophil"}], "data": {}}, "en_en": {"suggests": [{"id": "9661", "link": "/find?type=3&query=eon", "word": "eon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9661",
+                "link": "/find?type=3&query=eon",
+                "word": "eon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31175",
+                "link": "/find?type=1&query=eosin",
+                "word": "eosin"
+            },
+            {
+                "id": "31176",
+                "link": "/find?type=1&query=eosinophil",
+                "word": "eosinophil"
+            }
+        ]
+    }
+}

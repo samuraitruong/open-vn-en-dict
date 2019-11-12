@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21299", "link": "/find?type=1&query=crouton", "word": "crouton"}], "data": {}}, "en_en": {"suggests": [{"id": "6852", "link": "/find?type=3&query=crouton", "word": "crouton"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6852",
+                "link": "/find?type=3&query=crouton",
+                "word": "crouton"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21299",
+                "link": "/find?type=1&query=crouton",
+                "word": "crouton"
+            }
+        ]
+    }
+}

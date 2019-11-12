@@ -1,1 +1,102 @@
-{"en_vn": {"suggests": [{"id": "22068", "link": "/find?type=1&query=cycad", "word": "cycad"}, {"id": "22069", "link": "/find?type=1&query=cyclamate", "word": "cyclamate"}, {"id": "22070", "link": "/find?type=1&query=cyclamen", "word": "cyclamen"}, {"id": "22071", "link": "/find?type=1&query=cyclamin", "word": "cyclamin"}, {"id": "22072", "link": "/find?type=1&query=cycle", "word": "cycle"}, {"id": "22073", "link": "/find?type=1&query=cycle+per+second", "word": "cycle per second"}, {"id": "22074", "link": "/find?type=1&query=cycle+stealing", "word": "cycle stealing"}, {"id": "22075", "link": "/find?type=1&query=cycle+time", "word": "cycle time"}, {"id": "22076", "link": "/find?type=1&query=cycle+timer", "word": "cycle timer"}, {"id": "22077", "link": "/find?type=1&query=cycle-car", "word": "cycle-car"}], "data": {}}, "en_en": {"suggests": [{"id": "7100", "link": "/find?type=3&query=cyclamen", "word": "cyclamen"}, {"id": "7101", "link": "/find?type=3&query=cycle", "word": "cycle"}, {"id": "7102", "link": "/find?type=3&query=cyclic", "word": "cyclic"}, {"id": "7103", "link": "/find?type=3&query=cycling", "word": "cycling"}, {"id": "7104", "link": "/find?type=3&query=cyclone", "word": "cyclone"}, {"id": "7105", "link": "/find?type=3&query=Cyclops", "word": "Cyclops"}], "data": {}}, "synonyms": {"suggests": [{"id": "1380", "link": "/find?type=4&query=cycle", "word": "cycle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7100",
+                "link": "/find?type=3&query=cyclamen",
+                "word": "cyclamen"
+            },
+            {
+                "id": "7101",
+                "link": "/find?type=3&query=cycle",
+                "word": "cycle"
+            },
+            {
+                "id": "7102",
+                "link": "/find?type=3&query=cyclic",
+                "word": "cyclic"
+            },
+            {
+                "id": "7103",
+                "link": "/find?type=3&query=cycling",
+                "word": "cycling"
+            },
+            {
+                "id": "7104",
+                "link": "/find?type=3&query=cyclone",
+                "word": "cyclone"
+            },
+            {
+                "id": "7105",
+                "link": "/find?type=3&query=Cyclops",
+                "word": "Cyclops"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22068",
+                "link": "/find?type=1&query=cycad",
+                "word": "cycad"
+            },
+            {
+                "id": "22069",
+                "link": "/find?type=1&query=cyclamate",
+                "word": "cyclamate"
+            },
+            {
+                "id": "22070",
+                "link": "/find?type=1&query=cyclamen",
+                "word": "cyclamen"
+            },
+            {
+                "id": "22071",
+                "link": "/find?type=1&query=cyclamin",
+                "word": "cyclamin"
+            },
+            {
+                "id": "22072",
+                "link": "/find?type=1&query=cycle",
+                "word": "cycle"
+            },
+            {
+                "id": "22073",
+                "link": "/find?type=1&query=cycle+per+second",
+                "word": "cycle per second"
+            },
+            {
+                "id": "22074",
+                "link": "/find?type=1&query=cycle+stealing",
+                "word": "cycle stealing"
+            },
+            {
+                "id": "22075",
+                "link": "/find?type=1&query=cycle+time",
+                "word": "cycle time"
+            },
+            {
+                "id": "22076",
+                "link": "/find?type=1&query=cycle+timer",
+                "word": "cycle timer"
+            },
+            {
+                "id": "22077",
+                "link": "/find?type=1&query=cycle-car",
+                "word": "cycle-car"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1380",
+                "link": "/find?type=4&query=cycle",
+                "word": "cycle"
+            }
+        ]
+    }
+}

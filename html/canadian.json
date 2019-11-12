@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [], "data": {"word": "Canadian", "id": "12682", "pronounce": "/k\u0259'neidi\u0259n/", "type": "Danh t\u1eeb T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi Canada</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Canada</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f7d2ec292a6538975b77ab68e195354d/16e5de1ef41/C/Canadian.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d961e86f8467d09f034332f74dd08dbe/16e5de1f509/C/Canadian.mp3"}}}, "en_en": {"suggests": [{"id": "3970", "link": "/find?type=3&query=Canadian+bacon", "word": "Canadian bacon"}, {"id": "3970", "link": "/find?type=3&query=Canadian+football", "word": "Canadian football"}], "data": {"word": "Canadian", "id": "3970", "pronounce": "/k\u0259\u02c8ne\u026adij\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person born, raised, or living in Canada - see also french canadian</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person born, raised, or living in Canada - see also french canadian</div>",
+            "id": "3970",
+            "mean": [],
+            "pronounce": "/k\u0259\u02c8ne\u026adij\u0259n/",
+            "type": "noun",
+            "word": "Canadian"
+        },
+        "suggests": [
+            {
+                "id": "3970",
+                "link": "/find?type=3&query=Canadian+bacon",
+                "word": "Canadian bacon"
+            },
+            {
+                "id": "3970",
+                "link": "/find?type=3&query=Canadian+football",
+                "word": "Canadian football"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi Canada</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Canada</div>",
+            "id": "12682",
+            "mean": [],
+            "pronounce": "/k\u0259'neidi\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/67a454c62b01457f3d81156ba827d7de/16e5ec30b3a/C/Canadian.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5b7d6e6dcb64e27588c86e5368667187/16e5ec3058f/C/Canadian.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "Canadian"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "26191", "link": "/find?type=1&query=disinterest", "word": "disinterest"}, {"id": "26192", "link": "/find?type=1&query=disinterested", "word": "disinterested"}, {"id": "26193", "link": "/find?type=1&query=disinterestedly", "word": "disinterestedly"}, {"id": "26194", "link": "/find?type=1&query=disinterestedness", "word": "disinterestedness"}], "data": {}}, "en_en": {"suggests": [{"id": "8245", "link": "/find?type=3&query=disinterest", "word": "disinterest"}, {"id": "8246", "link": "/find?type=3&query=disinterested", "word": "disinterested"}], "data": {}}, "synonyms": {"suggests": [{"id": "1769", "link": "/find?type=4&query=disinterested", "word": "disinterested"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8245",
+                "link": "/find?type=3&query=disinterest",
+                "word": "disinterest"
+            },
+            {
+                "id": "8246",
+                "link": "/find?type=3&query=disinterested",
+                "word": "disinterested"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26191",
+                "link": "/find?type=1&query=disinterest",
+                "word": "disinterest"
+            },
+            {
+                "id": "26192",
+                "link": "/find?type=1&query=disinterested",
+                "word": "disinterested"
+            },
+            {
+                "id": "26193",
+                "link": "/find?type=1&query=disinterestedly",
+                "word": "disinterestedly"
+            },
+            {
+                "id": "26194",
+                "link": "/find?type=1&query=disinterestedness",
+                "word": "disinterestedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1769",
+                "link": "/find?type=4&query=disinterested",
+                "word": "disinterested"
+            }
+        ]
+    }
+}

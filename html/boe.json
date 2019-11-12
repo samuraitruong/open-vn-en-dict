@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "10285", "link": "/find?type=1&query=boeotian", "word": "boeotian"}, {"id": "10286", "link": "/find?type=1&query=Boer", "word": "Boer"}, {"id": "10287", "link": "/find?type=1&query=boerewors", "word": "boerewors"}], "data": {}}, "en_en": {"suggests": [{"id": "3022", "link": "/find?type=3&query=Boer", "word": "Boer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3022",
+                "link": "/find?type=3&query=Boer",
+                "word": "Boer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10285",
+                "link": "/find?type=1&query=boeotian",
+                "word": "boeotian"
+            },
+            {
+                "id": "10286",
+                "link": "/find?type=1&query=Boer",
+                "word": "Boer"
+            },
+            {
+                "id": "10287",
+                "link": "/find?type=1&query=boerewors",
+                "word": "boerewors"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "34211", "link": "/find?type=1&query=farmyard", "word": "farmyard"}], "data": {}}, "en_en": {"suggests": [{"id": "10319", "link": "/find?type=3&query=farmyard", "word": "farmyard"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10319",
+                "link": "/find?type=3&query=farmyard",
+                "word": "farmyard"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34211",
+                "link": "/find?type=1&query=farmyard",
+                "word": "farmyard"
+            }
+        ]
+    }
+}

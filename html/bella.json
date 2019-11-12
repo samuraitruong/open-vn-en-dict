@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8862", "link": "/find?type=1&query=belladonna", "word": "belladonna"}], "data": {}}, "en_en": {"suggests": [{"id": "2399", "link": "/find?type=3&query=belladonna", "word": "belladonna"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2399",
+                "link": "/find?type=3&query=belladonna",
+                "word": "belladonna"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8862",
+                "link": "/find?type=1&query=belladonna",
+                "word": "belladonna"
+            }
+        ]
+    }
+}

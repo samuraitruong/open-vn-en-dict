@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "3242", "link": "/find?type=1&query=amorphic", "word": "amorphic"}, {"id": "3242", "link": "/find?type=1&query=amorphism", "word": "amorphism"}, {"id": "3242", "link": "/find?type=1&query=amorphous", "word": "amorphous"}, {"id": "3242", "link": "/find?type=1&query=amorphously", "word": "amorphously"}, {"id": "3242", "link": "/find?type=1&query=amorphousness", "word": "amorphousness"}], "data": {"word": "amorph", "id": "3242", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea1ng kh\u00f4ng \u0111\u1ecbnh h\u00ecnh, gen kh\u00f4ng \u0111\u1ecbnh h\u00ecnh</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "853", "link": "/find?type=3&query=amorphous", "word": "amorphous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "853",
+                "link": "/find?type=3&query=amorphous",
+                "word": "amorphous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea1ng kh\u00f4ng \u0111\u1ecbnh h\u00ecnh, gen kh\u00f4ng \u0111\u1ecbnh h\u00ecnh</div>",
+            "id": "3242",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "amorph"
+        },
+        "suggests": [
+            {
+                "id": "3242",
+                "link": "/find?type=1&query=amorphic",
+                "word": "amorphic"
+            },
+            {
+                "id": "3242",
+                "link": "/find?type=1&query=amorphism",
+                "word": "amorphism"
+            },
+            {
+                "id": "3242",
+                "link": "/find?type=1&query=amorphous",
+                "word": "amorphous"
+            },
+            {
+                "id": "3242",
+                "link": "/find?type=1&query=amorphously",
+                "word": "amorphously"
+            },
+            {
+                "id": "3242",
+                "link": "/find?type=1&query=amorphousness",
+                "word": "amorphousness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,87 @@
-{"error": 0, "query": "garde", "enViData": {"suggests": [{"id": "39022", "link": "/find?type=1&query=garden", "word": "garden"}, {"id": "39023", "link": "/find?type=1&query=garden+centre", "word": "garden centre"}, {"id": "39024", "link": "/find?type=1&query=garden+city", "word": "garden city"}, {"id": "39025", "link": "/find?type=1&query=garden+of+Eden", "word": "garden of Eden"}, {"id": "39026", "link": "/find?type=1&query=garden+party", "word": "garden party"}, {"id": "39027", "link": "/find?type=1&query=garden+seat", "word": "garden seat"}, {"id": "39028", "link": "/find?type=1&query=garden+suburb", "word": "garden suburb"}, {"id": "39029", "link": "/find?type=1&query=garden+truck", "word": "garden truck"}, {"id": "39030", "link": "/find?type=1&query=garden-bed", "word": "garden-bed"}, {"id": "39031", "link": "/find?type=1&query=garden-engine", "word": "garden-engine"}]}, "mUrl": "/find?type=1&query=garde", "enEnData": {"suggests": [{"id": "11822", "link": "/find?type=3&query=garden", "word": "garden"}, {"id": "11823", "link": "/find?type=3&query=garden+chair", "word": "garden chair"}, {"id": "11824", "link": "/find?type=3&query=Garden+of+Eden", "word": "Garden of Eden"}, {"id": "11825", "link": "/find?type=3&query=gardenia", "word": "gardenia"}, {"id": "11826", "link": "/find?type=3&query=garden-variety", "word": "garden-variety"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11822",
+                "link": "/find?type=3&query=garden",
+                "word": "garden"
+            },
+            {
+                "id": "11823",
+                "link": "/find?type=3&query=garden+chair",
+                "word": "garden chair"
+            },
+            {
+                "id": "11824",
+                "link": "/find?type=3&query=Garden+of+Eden",
+                "word": "Garden of Eden"
+            },
+            {
+                "id": "11825",
+                "link": "/find?type=3&query=gardenia",
+                "word": "gardenia"
+            },
+            {
+                "id": "11826",
+                "link": "/find?type=3&query=garden-variety",
+                "word": "garden-variety"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39022",
+                "link": "/find?type=1&query=garden",
+                "word": "garden"
+            },
+            {
+                "id": "39023",
+                "link": "/find?type=1&query=garden+centre",
+                "word": "garden centre"
+            },
+            {
+                "id": "39024",
+                "link": "/find?type=1&query=garden+city",
+                "word": "garden city"
+            },
+            {
+                "id": "39025",
+                "link": "/find?type=1&query=garden+of+Eden",
+                "word": "garden of Eden"
+            },
+            {
+                "id": "39026",
+                "link": "/find?type=1&query=garden+party",
+                "word": "garden party"
+            },
+            {
+                "id": "39027",
+                "link": "/find?type=1&query=garden+seat",
+                "word": "garden seat"
+            },
+            {
+                "id": "39028",
+                "link": "/find?type=1&query=garden+suburb",
+                "word": "garden suburb"
+            },
+            {
+                "id": "39029",
+                "link": "/find?type=1&query=garden+truck",
+                "word": "garden truck"
+            },
+            {
+                "id": "39030",
+                "link": "/find?type=1&query=garden-bed",
+                "word": "garden-bed"
+            },
+            {
+                "id": "39031",
+                "link": "/find?type=1&query=garden-engine",
+                "word": "garden-engine"
+            }
+        ]
+    }
+}

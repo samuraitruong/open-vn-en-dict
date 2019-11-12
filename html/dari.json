@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "22438", "link": "/find?type=1&query=daring", "word": "daring"}, {"id": "22439", "link": "/find?type=1&query=daringly", "word": "daringly"}, {"id": "22440", "link": "/find?type=1&query=daringness", "word": "daringness"}, {"id": "22441", "link": "/find?type=1&query=dariole", "word": "dariole"}], "data": {}}, "en_en": {"suggests": [{"id": "7205", "link": "/find?type=3&query=daring", "word": "daring"}], "data": {}}, "synonyms": {"suggests": [{"id": "1404", "link": "/find?type=4&query=daring", "word": "daring"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7205",
+                "link": "/find?type=3&query=daring",
+                "word": "daring"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22438",
+                "link": "/find?type=1&query=daring",
+                "word": "daring"
+            },
+            {
+                "id": "22439",
+                "link": "/find?type=1&query=daringly",
+                "word": "daringly"
+            },
+            {
+                "id": "22440",
+                "link": "/find?type=1&query=daringness",
+                "word": "daringness"
+            },
+            {
+                "id": "22441",
+                "link": "/find?type=1&query=dariole",
+                "word": "dariole"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1404",
+                "link": "/find?type=4&query=daring",
+                "word": "daring"
+            }
+        ]
+    }
+}

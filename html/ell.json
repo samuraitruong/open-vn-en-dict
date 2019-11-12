@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "29832", "link": "/find?type=1&query=ellipse", "word": "ellipse"}, {"id": "29832", "link": "/find?type=1&query=ellipses", "word": "ellipses"}, {"id": "29832", "link": "/find?type=1&query=ellipsis", "word": "ellipsis"}, {"id": "29832", "link": "/find?type=1&query=ellipsograph", "word": "ellipsograph"}, {"id": "29832", "link": "/find?type=1&query=ellipsoid", "word": "ellipsoid"}, {"id": "29832", "link": "/find?type=1&query=ellipsoidal", "word": "ellipsoidal"}, {"id": "29832", "link": "/find?type=1&query=elliptic", "word": "elliptic"}, {"id": "29832", "link": "/find?type=1&query=elliptic+aperture", "word": "elliptic aperture"}, {"id": "29832", "link": "/find?type=1&query=elliptic+filter", "word": "elliptic filter"}], "data": {"word": "ell", "id": "29832", "pronounce": "/el/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">En (\u0111\u01a1n v\u1ecb \u0111o chi\u1ec1u d\u00e0i b\u1eb1ng 113cm)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e1i, h\u1ed3i (c\u1ee7a m\u1ed9t c\u0103n nh\u00e0)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9369", "link": "/find?type=3&query=ellipse", "word": "ellipse"}, {"id": "9370", "link": "/find?type=3&query=ellipsis", "word": "ellipsis"}, {"id": "9371", "link": "/find?type=3&query=elliptical", "word": "elliptical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9369",
+                "link": "/find?type=3&query=ellipse",
+                "word": "ellipse"
+            },
+            {
+                "id": "9370",
+                "link": "/find?type=3&query=ellipsis",
+                "word": "ellipsis"
+            },
+            {
+                "id": "9371",
+                "link": "/find?type=3&query=elliptical",
+                "word": "elliptical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">En (\u0111\u01a1n v\u1ecb \u0111o chi\u1ec1u d\u00e0i b\u1eb1ng 113cm)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e1i, h\u1ed3i (c\u1ee7a m\u1ed9t c\u0103n nh\u00e0)</div>",
+            "id": "29832",
+            "mean": [],
+            "pronounce": "/el/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "ell"
+        },
+        "suggests": [
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=ellipse",
+                "word": "ellipse"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=ellipses",
+                "word": "ellipses"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=ellipsis",
+                "word": "ellipsis"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=ellipsograph",
+                "word": "ellipsograph"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=ellipsoid",
+                "word": "ellipsoid"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=ellipsoidal",
+                "word": "ellipsoidal"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=elliptic",
+                "word": "elliptic"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=elliptic+aperture",
+                "word": "elliptic aperture"
+            },
+            {
+                "id": "29832",
+                "link": "/find?type=1&query=elliptic+filter",
+                "word": "elliptic filter"
+            }
+        ]
+    }
+}

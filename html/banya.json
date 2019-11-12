@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8067", "link": "/find?type=1&query=banyan", "word": "banyan"}], "data": {}}, "en_en": {"suggests": [{"id": "2017", "link": "/find?type=3&query=banyan", "word": "banyan"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2017",
+                "link": "/find?type=3&query=banyan",
+                "word": "banyan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8067",
+                "link": "/find?type=1&query=banyan",
+                "word": "banyan"
+            }
+        ]
+    }
+}

@@ -1,1 +1,48 @@
-{"en_vn": {"suggests": [{"id": "1708", "link": "/find?type=1&query=aerodynamical", "word": "aerodynamical"}, {"id": "1708", "link": "/find?type=1&query=aerodynamically", "word": "aerodynamically"}, {"id": "1708", "link": "/find?type=1&query=aerodynamicist", "word": "aerodynamicist"}, {"id": "1708", "link": "/find?type=1&query=aerodynamics", "word": "aerodynamics"}], "data": {"word": "aerodynamic", "id": "1708", "pronounce": "/,e\u0259r\u0259\u028adai'n\u00e6mik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00ed \u0111\u1ed9ng l\u1ef1c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6b898ab3b04de754079136e4b8c80827/16e5dbd5321/A/aerodynamic.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/911668c9d8937bfa4b83a3462c987235/16e5dbd5946/A/aerodynamic.mp3"}}}, "en_en": {"suggests": [{"id": "415", "link": "/find?type=3&query=aerodynamics", "word": "aerodynamics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "415",
+                "link": "/find?type=3&query=aerodynamics",
+                "word": "aerodynamics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00ed \u0111\u1ed9ng l\u1ef1c</div>",
+            "id": "1708",
+            "mean": [],
+            "pronounce": "/,e\u0259r\u0259\u028adai'n\u00e6mik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e523735ffb0e73e5045c39e1a48c335f/16e5ea2296d/A/aerodynamic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/53057f6e1f9bdc4ff245acded3dcf6a5/16e5ea22453/A/aerodynamic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "aerodynamic"
+        },
+        "suggests": [
+            {
+                "id": "1708",
+                "link": "/find?type=1&query=aerodynamical",
+                "word": "aerodynamical"
+            },
+            {
+                "id": "1708",
+                "link": "/find?type=1&query=aerodynamically",
+                "word": "aerodynamically"
+            },
+            {
+                "id": "1708",
+                "link": "/find?type=1&query=aerodynamicist",
+                "word": "aerodynamicist"
+            },
+            {
+                "id": "1708",
+                "link": "/find?type=1&query=aerodynamics",
+                "word": "aerodynamics"
+            }
+        ]
+    }
+}

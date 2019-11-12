@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "19754", "link": "/find?type=1&query=cordial", "word": "cordial"}, {"id": "19755", "link": "/find?type=1&query=cordiality", "word": "cordiality"}, {"id": "19756", "link": "/find?type=1&query=cordially", "word": "cordially"}, {"id": "19757", "link": "/find?type=1&query=cordierite", "word": "cordierite"}, {"id": "19758", "link": "/find?type=1&query=cordiform", "word": "cordiform"}, {"id": "19759", "link": "/find?type=1&query=cordillera", "word": "cordillera"}, {"id": "19760", "link": "/find?type=1&query=cordite", "word": "cordite"}], "data": {}}, "en_en": {"suggests": [{"id": "6297", "link": "/find?type=3&query=cordial", "word": "cordial"}], "data": {}}, "synonyms": {"suggests": [{"id": "1265", "link": "/find?type=4&query=cordial", "word": "cordial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6297",
+                "link": "/find?type=3&query=cordial",
+                "word": "cordial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19754",
+                "link": "/find?type=1&query=cordial",
+                "word": "cordial"
+            },
+            {
+                "id": "19755",
+                "link": "/find?type=1&query=cordiality",
+                "word": "cordiality"
+            },
+            {
+                "id": "19756",
+                "link": "/find?type=1&query=cordially",
+                "word": "cordially"
+            },
+            {
+                "id": "19757",
+                "link": "/find?type=1&query=cordierite",
+                "word": "cordierite"
+            },
+            {
+                "id": "19758",
+                "link": "/find?type=1&query=cordiform",
+                "word": "cordiform"
+            },
+            {
+                "id": "19759",
+                "link": "/find?type=1&query=cordillera",
+                "word": "cordillera"
+            },
+            {
+                "id": "19760",
+                "link": "/find?type=1&query=cordite",
+                "word": "cordite"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1265",
+                "link": "/find?type=4&query=cordial",
+                "word": "cordial"
+            }
+        ]
+    }
+}

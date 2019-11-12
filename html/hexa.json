@@ -1,1 +1,67 @@
-{"error": 0, "query": "hexa", "enViData": {"suggests": [{"id": "43838", "link": "/find?type=1&query=hexachloroethane", "word": "hexachloroethane"}, {"id": "43839", "link": "/find?type=1&query=hexachord", "word": "hexachord"}, {"id": "43840", "link": "/find?type=1&query=hexad", "word": "hexad"}, {"id": "43841", "link": "/find?type=1&query=hexade", "word": "hexade"}, {"id": "43842", "link": "/find?type=1&query=hexadecimal", "word": "hexadecimal"}, {"id": "43843", "link": "/find?type=1&query=hexadic", "word": "hexadic"}, {"id": "43844", "link": "/find?type=1&query=hexagon", "word": "hexagon"}, {"id": "43845", "link": "/find?type=1&query=hexagonal", "word": "hexagonal"}, {"id": "43846", "link": "/find?type=1&query=hexagram", "word": "hexagram"}, {"id": "43847", "link": "/find?type=1&query=hexahedral", "word": "hexahedral"}]}, "mUrl": "/find?type=1&query=hexa", "enEnData": {"suggests": [{"id": "13495", "link": "/find?type=3&query=hexagon", "word": "hexagon"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13495",
+                "link": "/find?type=3&query=hexagon",
+                "word": "hexagon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43838",
+                "link": "/find?type=1&query=hexachloroethane",
+                "word": "hexachloroethane"
+            },
+            {
+                "id": "43839",
+                "link": "/find?type=1&query=hexachord",
+                "word": "hexachord"
+            },
+            {
+                "id": "43840",
+                "link": "/find?type=1&query=hexad",
+                "word": "hexad"
+            },
+            {
+                "id": "43841",
+                "link": "/find?type=1&query=hexade",
+                "word": "hexade"
+            },
+            {
+                "id": "43842",
+                "link": "/find?type=1&query=hexadecimal",
+                "word": "hexadecimal"
+            },
+            {
+                "id": "43843",
+                "link": "/find?type=1&query=hexadic",
+                "word": "hexadic"
+            },
+            {
+                "id": "43844",
+                "link": "/find?type=1&query=hexagon",
+                "word": "hexagon"
+            },
+            {
+                "id": "43845",
+                "link": "/find?type=1&query=hexagonal",
+                "word": "hexagonal"
+            },
+            {
+                "id": "43846",
+                "link": "/find?type=1&query=hexagram",
+                "word": "hexagram"
+            },
+            {
+                "id": "43847",
+                "link": "/find?type=1&query=hexahedral",
+                "word": "hexahedral"
+            }
+        ]
+    }
+}

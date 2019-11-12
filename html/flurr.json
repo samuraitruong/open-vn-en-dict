@@ -1,1 +1,37 @@
-{"error": 0, "query": "flurr", "enViData": {"suggests": [{"id": "36575", "link": "/find?type=1&query=flurried", "word": "flurried"}, {"id": "36576", "link": "/find?type=1&query=flurry", "word": "flurry"}]}, "mUrl": "/find?type=1&query=flurr", "enEnData": {"suggests": [{"id": "10997", "link": "/find?type=3&query=flurry", "word": "flurry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2724", "link": "/find?type=4&query=flurry", "word": "flurry"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10997",
+                "link": "/find?type=3&query=flurry",
+                "word": "flurry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36575",
+                "link": "/find?type=1&query=flurried",
+                "word": "flurried"
+            },
+            {
+                "id": "36576",
+                "link": "/find?type=1&query=flurry",
+                "word": "flurry"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2724",
+                "link": "/find?type=4&query=flurry",
+                "word": "flurry"
+            }
+        ]
+    }
+}

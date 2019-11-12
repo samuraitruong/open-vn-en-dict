@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "4000", "link": "/find?type=1&query=annihilability", "word": "annihilability"}, {"id": "4001", "link": "/find?type=1&query=annihilable", "word": "annihilable"}, {"id": "4002", "link": "/find?type=1&query=annihilate", "word": "annihilate"}, {"id": "4003", "link": "/find?type=1&query=annihilation", "word": "annihilation"}, {"id": "4004", "link": "/find?type=1&query=annihilationism", "word": "annihilationism"}, {"id": "4005", "link": "/find?type=1&query=annihilationist", "word": "annihilationist"}, {"id": "4006", "link": "/find?type=1&query=annihilator", "word": "annihilator"}, {"id": "4007", "link": "/find?type=1&query=annihilatory", "word": "annihilatory"}], "data": {}}, "en_en": {"suggests": [{"id": "978", "link": "/find?type=3&query=annihilate", "word": "annihilate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "978",
+                "link": "/find?type=3&query=annihilate",
+                "word": "annihilate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4000",
+                "link": "/find?type=1&query=annihilability",
+                "word": "annihilability"
+            },
+            {
+                "id": "4001",
+                "link": "/find?type=1&query=annihilable",
+                "word": "annihilable"
+            },
+            {
+                "id": "4002",
+                "link": "/find?type=1&query=annihilate",
+                "word": "annihilate"
+            },
+            {
+                "id": "4003",
+                "link": "/find?type=1&query=annihilation",
+                "word": "annihilation"
+            },
+            {
+                "id": "4004",
+                "link": "/find?type=1&query=annihilationism",
+                "word": "annihilationism"
+            },
+            {
+                "id": "4005",
+                "link": "/find?type=1&query=annihilationist",
+                "word": "annihilationist"
+            },
+            {
+                "id": "4006",
+                "link": "/find?type=1&query=annihilator",
+                "word": "annihilator"
+            },
+            {
+                "id": "4007",
+                "link": "/find?type=1&query=annihilatory",
+                "word": "annihilatory"
+            }
+        ]
+    }
+}

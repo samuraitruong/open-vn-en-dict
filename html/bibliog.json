@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "9139", "link": "/find?type=1&query=bibliograph", "word": "bibliograph"}, {"id": "9140", "link": "/find?type=1&query=bibliographer", "word": "bibliographer"}, {"id": "9141", "link": "/find?type=1&query=bibliographic", "word": "bibliographic"}, {"id": "9142", "link": "/find?type=1&query=bibliographical", "word": "bibliographical"}, {"id": "9143", "link": "/find?type=1&query=bibliography", "word": "bibliography"}], "data": {}}, "en_en": {"suggests": [{"id": "2522", "link": "/find?type=3&query=bibliography", "word": "bibliography"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2522",
+                "link": "/find?type=3&query=bibliography",
+                "word": "bibliography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9139",
+                "link": "/find?type=1&query=bibliograph",
+                "word": "bibliograph"
+            },
+            {
+                "id": "9140",
+                "link": "/find?type=1&query=bibliographer",
+                "word": "bibliographer"
+            },
+            {
+                "id": "9141",
+                "link": "/find?type=1&query=bibliographic",
+                "word": "bibliographic"
+            },
+            {
+                "id": "9142",
+                "link": "/find?type=1&query=bibliographical",
+                "word": "bibliographical"
+            },
+            {
+                "id": "9143",
+                "link": "/find?type=1&query=bibliography",
+                "word": "bibliography"
+            }
+        ]
+    }
+}

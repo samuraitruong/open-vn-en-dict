@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "1826", "link": "/find?type=1&query=affixer", "word": "affixer"}], "data": {"word": "affixe", "id": "1826", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">to\u1ea1 vi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "affix", "id": "439", "pronounce": "/\u0259\u02c8f\u026aks/", "type": "verb noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-fixes; -fixed; -fixing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal :to attach (something) to something else</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Please affix a stamp to [=put a stamp on] this letter.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She affixed her signature to the document. [=she signed the document]</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fixes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] grammar :a letter or group of letters added to the beginning or end of a word to change its meaning :a prefix or suffix</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-fixes; -fixed; -fixing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal :to attach (something) to something else</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Please affix a stamp to [=put a stamp on] this letter.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She affixed her signature to the document. [=she signed the document]</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fixes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] grammar :a letter or group of letters added to the beginning or end of a word to change its meaning :a prefix or suffix</div>",
+            "id": "439",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8f\u026aks/",
+            "type": "verb noun",
+            "word": "affix"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">to\u1ea1 vi</div>",
+            "id": "1826",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "affixe"
+        },
+        "suggests": [
+            {
+                "id": "1826",
+                "link": "/find?type=1&query=affixer",
+                "word": "affixer"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "8285", "link": "/find?type=1&query=basaltic", "word": "basaltic"}], "data": {"word": "basalt", "id": "8285", "pronounce": "/'b\u00e6s\u0254lt/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kho\u00e1ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e1 bazan</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f75c741449a5b709f0e6cec939b791db/16e5dd1feb5/B/basalt.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a72d1426740dc41dec573234dad2df15/16e5dd20465/B/basalt.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "basalt", "id": "2115", "pronounce": "/b\u0259\u02c8s\u0251\u02d0lt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a type of dark gray to black rock</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a type of dark gray to black rock</div>",
+            "id": "2115",
+            "mean": [],
+            "pronounce": "/b\u0259\u02c8s\u0251\u02d0lt/",
+            "type": "noun",
+            "word": "basalt"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kho\u00e1ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e1 bazan</div>",
+            "id": "8285",
+            "mean": [],
+            "pronounce": "/'b\u00e6s\u0254lt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ee8c01334c0cfc365e635fa711916ad2/16e5eb4b902/B/basalt.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8a2de39a33897d4afa3bc07ac4222ee4/16e5eb4b39e/B/basalt.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "basalt"
+        },
+        "suggests": [
+            {
+                "id": "8285",
+                "link": "/find?type=1&query=basaltic",
+                "word": "basaltic"
+            }
+        ]
+    }
+}

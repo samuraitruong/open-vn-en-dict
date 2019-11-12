@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "11649", "link": "/find?type=1&query=buffoonery", "word": "buffoonery"}, {"id": "11649", "link": "/find?type=1&query=buffoonish", "word": "buffoonish"}], "data": {"word": "buffoon", "id": "11649", "pronounce": "/b\u0259'fu:n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">anh h\u1ec1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/237bc220968f3623390f6b34ed6edc94/16e5dde6e58/B/buffoon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5c37ba9f4cf335b01479dd53460587f3/16e5dde743c/B/buffoon.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "buffoon", "id": "3591", "pronounce": "/b\u0259\u02c8fu\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -foons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a stupid or foolish person who tries to be funny</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Stop acting like a buffoon.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a ridiculous buffoon</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -foons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a stupid or foolish person who tries to be funny</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Stop acting like a buffoon.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a ridiculous buffoon</div>",
+            "id": "3591",
+            "mean": [],
+            "pronounce": "/b\u0259\u02c8fu\u02d0n/",
+            "type": "noun",
+            "word": "buffoon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">anh h\u1ec1</div>",
+            "id": "11649",
+            "mean": [],
+            "pronounce": "/b\u0259'fu:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3fbf93231b27402ac9ad238ed5bccb7f/16e5ebfe3c7/B/buffoon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6e12876d968afecd5d77fe0297e4be7c/16e5ebfdead/B/buffoon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "buffoon"
+        },
+        "suggests": [
+            {
+                "id": "11649",
+                "link": "/find?type=1&query=buffoonery",
+                "word": "buffoonery"
+            },
+            {
+                "id": "11649",
+                "link": "/find?type=1&query=buffoonish",
+                "word": "buffoonish"
+            }
+        ]
+    }
+}

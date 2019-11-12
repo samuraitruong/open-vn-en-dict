@@ -1,1 +1,74 @@
-{"en_vn": {"suggests": [{"id": "1212", "link": "/find?type=1&query=adam%27s+apple", "word": "adam's apple"}, {"id": "1212", "link": "/find?type=1&query=adamant", "word": "adamant"}, {"id": "1212", "link": "/find?type=1&query=adamantine", "word": "adamantine"}, {"id": "1212", "link": "/find?type=1&query=adamantly", "word": "adamantly"}, {"id": "1212", "link": "/find?type=1&query=adamantoblast", "word": "adamantoblast"}, {"id": "1212", "link": "/find?type=1&query=adamic", "word": "adamic"}, {"id": "1212", "link": "/find?type=1&query=adamite", "word": "adamite"}], "data": {"word": "Adam", "id": "1212", "pronounce": "/'\u00e6d\u0259m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Adam (ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ea7u ti\u00ean tr\u00ean tr\u00e1i \u0111\u1ea5t)</div>\n    \n    <div class=\"bold dot-blue m-top15\">not know somebody from Adam</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=know\">know</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/2de851e79e55aeea19232675381cfddd/16e5db74662/A/Adam.mp3"}}}, "en_en": {"suggests": [{"id": "285", "link": "/find?type=3&query=adamant", "word": "adamant"}, {"id": "285", "link": "/find?type=3&query=Adam%27s+apple", "word": "Adam's apple"}], "data": {"word": "Adam", "id": "285", "pronounce": "/\u02c8\u00e6d\u0259m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">not know (someone) from Adam</div>\n    \n    <div class=\"grey margin25 m-top15\">; see 1know</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">not know (someone) from Adam</div>\n    \n    <div class=\"grey margin25 m-top15\">; see 1know</div>",
+            "id": "285",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6d\u0259m/",
+            "type": "noun",
+            "word": "Adam"
+        },
+        "suggests": [
+            {
+                "id": "285",
+                "link": "/find?type=3&query=adamant",
+                "word": "adamant"
+            },
+            {
+                "id": "285",
+                "link": "/find?type=3&query=Adam%27s+apple",
+                "word": "Adam's apple"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Adam (ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ea7u ti\u00ean tr\u00ean tr\u00e1i \u0111\u1ea5t)</div>\n    \n    <div class=\"bold dot-blue m-top15\">not know somebody from Adam</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=know\">know</a></span></div>",
+            "id": "1212",
+            "mean": [],
+            "pronounce": "/'\u00e6d\u0259m/",
+            "speak": {
+                "us": "https://stream-dict-laban.zdn.vn/us/e0dd467ea2d0a431800f51aefb768bd3/16e5ea0cca9/A/Adam.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Adam"
+        },
+        "suggests": [
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adam%27s+apple",
+                "word": "adam's apple"
+            },
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adamant",
+                "word": "adamant"
+            },
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adamantine",
+                "word": "adamantine"
+            },
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adamantly",
+                "word": "adamantly"
+            },
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adamantoblast",
+                "word": "adamantoblast"
+            },
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adamic",
+                "word": "adamic"
+            },
+            {
+                "id": "1212",
+                "link": "/find?type=1&query=adamite",
+                "word": "adamite"
+            }
+        ]
+    }
+}

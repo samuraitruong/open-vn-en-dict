@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "36101", "link": "/find?type=1&query=flax-comb", "word": "flax-comb"}, {"id": "36101", "link": "/find?type=1&query=flax-dressing", "word": "flax-dressing"}, {"id": "36101", "link": "/find?type=1&query=flax-seed", "word": "flax-seed"}, {"id": "36101", "link": "/find?type=1&query=flaxdresser", "word": "flaxdresser"}, {"id": "36101", "link": "/find?type=1&query=flaxen", "word": "flaxen"}, {"id": "36101", "link": "/find?type=1&query=flaxy", "word": "flaxy"}], "data": {"word": "flax", "id": "36101", "pronounce": "/'fl\u00e6ks/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) c\u00e2y lanh</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ee3i lanh</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/44bdd784c5d4966a33b1c377ec55f91b/16e5e249dcc/F/flax.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/60dca3f21ab271229dfbe2c4d788214d/16e5e24a3db/F/flax.mp3"}}}, "en_en": {"suggests": [{"id": "10876", "link": "/find?type=3&query=flaxen", "word": "flaxen"}], "data": {"word": "flax", "id": "10876", "pronounce": "/\u02c8fl\u00e6ks/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] a plant that has blue flowers and that is grown for its fiber and its seed</div>\n    \n    <div class=\"green margin25 m-top15\">The fiber of flax is used to make linen and the seed is used to make linseed oil.</div>\n    \n    <div class=\"green margin25 m-top15\">the fiber of the flax plant</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] a plant that has blue flowers and that is grown for its fiber and its seed</div>\n    \n    <div class=\"green margin25 m-top15\">The fiber of flax is used to make linen and the seed is used to make linseed oil.</div>\n    \n    <div class=\"green margin25 m-top15\">the fiber of the flax plant</div>",
+            "id": "10876",
+            "mean": [],
+            "pronounce": "/\u02c8fl\u00e6ks/",
+            "type": "noun",
+            "word": "flax"
+        },
+        "suggests": [
+            {
+                "id": "10876",
+                "link": "/find?type=3&query=flaxen",
+                "word": "flaxen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) c\u00e2y lanh</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ee3i lanh</div>",
+            "id": "36101",
+            "mean": [],
+            "pronounce": "/'fl\u00e6ks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/84bf23ff8bfc03a390f17d96a2c5654d/16e605c3f9d/F/flax.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/329c3de378135e581f7d16c4a5bcde4a/16e605c3794/F/flax.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "flax"
+        },
+        "suggests": [
+            {
+                "id": "36101",
+                "link": "/find?type=1&query=flax-comb",
+                "word": "flax-comb"
+            },
+            {
+                "id": "36101",
+                "link": "/find?type=1&query=flax-dressing",
+                "word": "flax-dressing"
+            },
+            {
+                "id": "36101",
+                "link": "/find?type=1&query=flax-seed",
+                "word": "flax-seed"
+            },
+            {
+                "id": "36101",
+                "link": "/find?type=1&query=flaxdresser",
+                "word": "flaxdresser"
+            },
+            {
+                "id": "36101",
+                "link": "/find?type=1&query=flaxen",
+                "word": "flaxen"
+            },
+            {
+                "id": "36101",
+                "link": "/find?type=1&query=flaxy",
+                "word": "flaxy"
+            }
+        ]
+    }
+}

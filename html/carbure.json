@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "13125", "link": "/find?type=1&query=carburet", "word": "carburet"}, {"id": "13126", "link": "/find?type=1&query=carburetion", "word": "carburetion"}, {"id": "13127", "link": "/find?type=1&query=carburetor", "word": "carburetor"}, {"id": "13128", "link": "/find?type=1&query=carburetter", "word": "carburetter"}, {"id": "13129", "link": "/find?type=1&query=carburettor", "word": "carburettor"}], "data": {}}, "en_en": {"suggests": [{"id": "4112", "link": "/find?type=3&query=carburetor", "word": "carburetor"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4112",
+                "link": "/find?type=3&query=carburetor",
+                "word": "carburetor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13125",
+                "link": "/find?type=1&query=carburet",
+                "word": "carburet"
+            },
+            {
+                "id": "13126",
+                "link": "/find?type=1&query=carburetion",
+                "word": "carburetion"
+            },
+            {
+                "id": "13127",
+                "link": "/find?type=1&query=carburetor",
+                "word": "carburetor"
+            },
+            {
+                "id": "13128",
+                "link": "/find?type=1&query=carburetter",
+                "word": "carburetter"
+            },
+            {
+                "id": "13129",
+                "link": "/find?type=1&query=carburettor",
+                "word": "carburettor"
+            }
+        ]
+    }
+}

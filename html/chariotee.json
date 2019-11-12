@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14502", "link": "/find?type=1&query=charioteer", "word": "charioteer"}], "data": {}}, "en_en": {"suggests": [{"id": "4610", "link": "/find?type=3&query=charioteer", "word": "charioteer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4610",
+                "link": "/find?type=3&query=charioteer",
+                "word": "charioteer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14502",
+                "link": "/find?type=1&query=charioteer",
+                "word": "charioteer"
+            }
+        ]
+    }
+}

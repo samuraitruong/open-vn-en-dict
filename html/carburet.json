@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "13125", "link": "/find?type=1&query=carburetion", "word": "carburetion"}, {"id": "13125", "link": "/find?type=1&query=carburetor", "word": "carburetor"}, {"id": "13125", "link": "/find?type=1&query=carburetter", "word": "carburetter"}, {"id": "13125", "link": "/find?type=1&query=carburettor", "word": "carburettor"}], "data": {"word": "carburet", "id": "13125", "pronounce": "/'k\u0251:bjuret/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">pha cacbon; cho ho\u00e1 h\u1ee3p v\u1edbi cacbon</div>\n    \n    <div class=\"bold dot-blue m-top15\">carburetted water gas</div>\n    \n    <div class=\"grey margin25 m-top15\">kh\u00ed than \u01b0\u1edbt</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4112", "link": "/find?type=3&query=carburetor", "word": "carburetor"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4112",
+                "link": "/find?type=3&query=carburetor",
+                "word": "carburetor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">pha cacbon; cho ho\u00e1 h\u1ee3p v\u1edbi cacbon</div>\n    \n    <div class=\"bold dot-blue m-top15\">carburetted water gas</div>\n    \n    <div class=\"grey margin25 m-top15\">kh\u00ed than \u01b0\u1edbt</div>",
+            "id": "13125",
+            "mean": [],
+            "pronounce": "/'k\u0251:bjuret/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "carburet"
+        },
+        "suggests": [
+            {
+                "id": "13125",
+                "link": "/find?type=1&query=carburetion",
+                "word": "carburetion"
+            },
+            {
+                "id": "13125",
+                "link": "/find?type=1&query=carburetor",
+                "word": "carburetor"
+            },
+            {
+                "id": "13125",
+                "link": "/find?type=1&query=carburetter",
+                "word": "carburetter"
+            },
+            {
+                "id": "13125",
+                "link": "/find?type=1&query=carburettor",
+                "word": "carburettor"
+            }
+        ]
+    }
+}

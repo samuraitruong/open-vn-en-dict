@@ -1,1 +1,50 @@
-{"error": 0, "query": "havening", "enViData": {"suggests": [{"id": "43029", "link": "/find?type=1&query=haven%27t", "word": "haven't"}, {"id": "43029", "link": "/find?type=1&query=haven%27t", "word": "haven't"}, {"id": "43029", "link": "/find?type=1&query=havenly-minded", "word": "havenly-minded"}], "best": {"id": "43029", "details": "\n<div id=\"find_word_43029\" class=\"world word_en\" rel=\"haven\">\n    <h2 class=\"fl\">haven <span class=\"color-black\">/'heivn/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43029\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43029\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u01a1i tr\u00fa, n\u01a1i \u1ea9n n\u00e1u</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169) c\u1ea3ng</div>\n    \n</div>\n", "link": "/find?type=1&query=haven", "word": "haven"}}, "mUrl": "/find?type=1&query=havening", "enEnData": {"suggests": [{"id": "13183", "link": "/find?type=3&query=haven%27t", "word": "haven't"}], "best": {"id": "13183", "details": "\n<div id=\"find_word_13183\" class=\"world word_en\" rel=\"haven\">\n    <h2 class=\"fl\">haven <span class=\"color-black\">/\u02c8he\u026av\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13183\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13183\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a place where you are protected from danger, trouble, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The shelter offers/provides a haven from abusive spouses.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The inn is a haven for weary travelers.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">This national park provides a safe haven for wildlife. - see also tax haven</div>\n    \n</div>\n", "link": "/find?type=3&query=haven", "word": "haven"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a place where you are protected from danger, trouble, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The shelter offers/provides a haven from abusive spouses.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The inn is a haven for weary travelers.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">This national park provides a safe haven for wildlife. - see also tax haven</div>",
+            "id": "13183",
+            "mean": [],
+            "pronounce": "/\u02c8he\u026av\u0259n/",
+            "type": "noun",
+            "word": "haven"
+        },
+        "suggests": [
+            {
+                "id": "13183",
+                "link": "/find?type=3&query=haven%27t",
+                "word": "haven't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u01a1i tr\u00fa, n\u01a1i \u1ea9n n\u00e1u</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169) c\u1ea3ng</div>",
+            "id": "43029",
+            "mean": [],
+            "pronounce": "/'heivn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e87a29fe09f08d345f7eb3ae9065fd05/16e617071c9/H/haven.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/19c8d7f556989c1764151f210b26a905/16e617065d2/H/haven.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "haven"
+        },
+        "suggests": [
+            {
+                "id": "43029",
+                "link": "/find?type=1&query=haven%27t",
+                "word": "haven't"
+            },
+            {
+                "id": "43029",
+                "link": "/find?type=1&query=haven%27t",
+                "word": "haven't"
+            },
+            {
+                "id": "43029",
+                "link": "/find?type=1&query=havenly-minded",
+                "word": "havenly-minded"
+            }
+        ]
+    }
+}

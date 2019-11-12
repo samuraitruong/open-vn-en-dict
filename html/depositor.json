@@ -1,1 +1,38 @@
-{"en_vn": {"suggests": [{"id": "24224", "link": "/find?type=1&query=depository", "word": "depository"}, {"id": "24224", "link": "/find?type=1&query=Depository+Institution+Deregulation+and+Monetary+Control+Act+of+1980+%28DIDMCA%29", "word": "Depository Institution Deregulation and Monetary Control Act of 1980 (DIDMCA)"}], "data": {"word": "depositor", "id": "24224", "pronounce": "/di'p\u0252zit\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi g\u1eedi ti\u1ec1n (\u1edf ng\u00e2n h\u00e0ng)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b8086c392a939fe4b42686fbfb4075b4/16e5e040647/D/depositor.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/95964d7177e73151522bd18872da5b60/16e5e040d0a/D/depositor.mp3"}}}, "en_en": {"suggests": [{"id": "7696", "link": "/find?type=3&query=depository", "word": "depository"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7696",
+                "link": "/find?type=3&query=depository",
+                "word": "depository"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi g\u1eedi ti\u1ec1n (\u1edf ng\u00e2n h\u00e0ng)</div>",
+            "id": "24224",
+            "mean": [],
+            "pronounce": "/di'p\u0252zit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8ddceb93ff94cdb52d60fea94a3ac0cf/16e5eec9349/D/depositor.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c4e154faecb8b4aa46cac0698a86cc15/16e5eec8a8c/D/depositor.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "depositor"
+        },
+        "suggests": [
+            {
+                "id": "24224",
+                "link": "/find?type=1&query=depository",
+                "word": "depository"
+            },
+            {
+                "id": "24224",
+                "link": "/find?type=1&query=Depository+Institution+Deregulation+and+Monetary+Control+Act+of+1980+%28DIDMCA%29",
+                "word": "Depository Institution Deregulation and Monetary Control Act of 1980 (DIDMCA)"
+            }
+        ]
+    }
+}

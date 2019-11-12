@@ -1,1 +1,130 @@
-{"en_vn": {"suggests": [{"id": "31871", "link": "/find?type=1&query=ESC+%28escape+character%29", "word": "ESC (escape character)"}, {"id": "31871", "link": "/find?type=1&query=ESC+key", "word": "ESC key"}, {"id": "31871", "link": "/find?type=1&query=escadrille", "word": "escadrille"}, {"id": "31871", "link": "/find?type=1&query=escalade", "word": "escalade"}, {"id": "31871", "link": "/find?type=1&query=escalader", "word": "escalader"}, {"id": "31871", "link": "/find?type=1&query=escalate", "word": "escalate"}, {"id": "31871", "link": "/find?type=1&query=escalation", "word": "escalation"}, {"id": "31871", "link": "/find?type=1&query=escalator", "word": "escalator"}, {"id": "31871", "link": "/find?type=1&query=Escalators", "word": "Escalators"}], "data": {"word": "esc", "id": "31871", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">ph\u00edm Esc</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9754", "link": "/find?type=3&query=escalate", "word": "escalate"}, {"id": "9755", "link": "/find?type=3&query=escalator", "word": "escalator"}, {"id": "9756", "link": "/find?type=3&query=escapade", "word": "escapade"}, {"id": "9757", "link": "/find?type=3&query=escape", "word": "escape"}, {"id": "9758", "link": "/find?type=3&query=escape+artist", "word": "escape artist"}, {"id": "9759", "link": "/find?type=3&query=escape+clause", "word": "escape clause"}, {"id": "9760", "link": "/find?type=3&query=escape+hatch", "word": "escape hatch"}, {"id": "9761", "link": "/find?type=3&query=escape+mechanism", "word": "escape mechanism"}, {"id": "9762", "link": "/find?type=3&query=escapee", "word": "escapee"}, {"id": "9763", "link": "/find?type=3&query=escapism", "word": "escapism"}], "data": {}}, "synonyms": {"suggests": [{"id": "2252", "link": "/find?type=4&query=escape", "word": "escape"}, {"id": "2253", "link": "/find?type=4&query=escort", "word": "escort"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9754",
+                "link": "/find?type=3&query=escalate",
+                "word": "escalate"
+            },
+            {
+                "id": "9755",
+                "link": "/find?type=3&query=escalator",
+                "word": "escalator"
+            },
+            {
+                "id": "9756",
+                "link": "/find?type=3&query=escapade",
+                "word": "escapade"
+            },
+            {
+                "id": "9757",
+                "link": "/find?type=3&query=escape",
+                "word": "escape"
+            },
+            {
+                "id": "9758",
+                "link": "/find?type=3&query=escape+artist",
+                "word": "escape artist"
+            },
+            {
+                "id": "9759",
+                "link": "/find?type=3&query=escape+clause",
+                "word": "escape clause"
+            },
+            {
+                "id": "9760",
+                "link": "/find?type=3&query=escape+hatch",
+                "word": "escape hatch"
+            },
+            {
+                "id": "9761",
+                "link": "/find?type=3&query=escape+mechanism",
+                "word": "escape mechanism"
+            },
+            {
+                "id": "9762",
+                "link": "/find?type=3&query=escapee",
+                "word": "escapee"
+            },
+            {
+                "id": "9763",
+                "link": "/find?type=3&query=escapism",
+                "word": "escapism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ph\u00edm Esc</div>",
+            "id": "31871",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "esc"
+        },
+        "suggests": [
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=ESC+%28escape+character%29",
+                "word": "ESC (escape character)"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=ESC+key",
+                "word": "ESC key"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=escadrille",
+                "word": "escadrille"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=escalade",
+                "word": "escalade"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=escalader",
+                "word": "escalader"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=escalate",
+                "word": "escalate"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=escalation",
+                "word": "escalation"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=escalator",
+                "word": "escalator"
+            },
+            {
+                "id": "31871",
+                "link": "/find?type=1&query=Escalators",
+                "word": "Escalators"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2252",
+                "link": "/find?type=4&query=escape",
+                "word": "escape"
+            },
+            {
+                "id": "2253",
+                "link": "/find?type=4&query=escort",
+                "word": "escort"
+            }
+        ]
+    }
+}

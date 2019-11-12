@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "23645", "link": "/find?type=1&query=deja+vu", "word": "deja vu"}], "data": {}}, "en_en": {"suggests": [{"id": "7543", "link": "/find?type=3&query=deja+vu", "word": "deja vu"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7543",
+                "link": "/find?type=3&query=deja+vu",
+                "word": "deja vu"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23645",
+                "link": "/find?type=1&query=deja+vu",
+                "word": "deja vu"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "28442", "link": "/find?type=1&query=earshot", "word": "earshot"}], "data": {}}, "en_en": {"suggests": [{"id": "9126", "link": "/find?type=3&query=earshot", "word": "earshot"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9126",
+                "link": "/find?type=3&query=earshot",
+                "word": "earshot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28442",
+                "link": "/find?type=1&query=earshot",
+                "word": "earshot"
+            }
+        ]
+    }
+}

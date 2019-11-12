@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "31716", "link": "/find?type=1&query=ergonometric", "word": "ergonometric"}, {"id": "31716", "link": "/find?type=1&query=ergonomic", "word": "ergonomic"}, {"id": "31716", "link": "/find?type=1&query=ergonomically", "word": "ergonomically"}, {"id": "31716", "link": "/find?type=1&query=ergonomics", "word": "ergonomics"}, {"id": "31716", "link": "/find?type=1&query=ergonomist", "word": "ergonomist"}, {"id": "31716", "link": "/find?type=1&query=ergonovine", "word": "ergonovine"}], "data": {"word": "ergon", "id": "31716", "pronounce": "/\u0259:g/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(v\u1eadt l\u00fd) \u00e9c</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9732", "link": "/find?type=3&query=ergonomics", "word": "ergonomics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9732",
+                "link": "/find?type=3&query=ergonomics",
+                "word": "ergonomics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(v\u1eadt l\u00fd) \u00e9c</div>",
+            "id": "31716",
+            "mean": [],
+            "pronounce": "/\u0259:g/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "ergon"
+        },
+        "suggests": [
+            {
+                "id": "31716",
+                "link": "/find?type=1&query=ergonometric",
+                "word": "ergonometric"
+            },
+            {
+                "id": "31716",
+                "link": "/find?type=1&query=ergonomic",
+                "word": "ergonomic"
+            },
+            {
+                "id": "31716",
+                "link": "/find?type=1&query=ergonomically",
+                "word": "ergonomically"
+            },
+            {
+                "id": "31716",
+                "link": "/find?type=1&query=ergonomics",
+                "word": "ergonomics"
+            },
+            {
+                "id": "31716",
+                "link": "/find?type=1&query=ergonomist",
+                "word": "ergonomist"
+            },
+            {
+                "id": "31716",
+                "link": "/find?type=1&query=ergonovine",
+                "word": "ergonovine"
+            }
+        ]
+    }
+}

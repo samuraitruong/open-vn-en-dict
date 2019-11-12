@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "1835", "link": "/find?type=1&query=affluence", "word": "affluence"}, {"id": "1836", "link": "/find?type=1&query=affluent", "word": "affluent"}, {"id": "1837", "link": "/find?type=1&query=affluently", "word": "affluently"}], "data": {}}, "en_en": {"suggests": [{"id": "442", "link": "/find?type=3&query=affluent", "word": "affluent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "442",
+                "link": "/find?type=3&query=affluent",
+                "word": "affluent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1835",
+                "link": "/find?type=1&query=affluence",
+                "word": "affluence"
+            },
+            {
+                "id": "1836",
+                "link": "/find?type=1&query=affluent",
+                "word": "affluent"
+            },
+            {
+                "id": "1837",
+                "link": "/find?type=1&query=affluently",
+                "word": "affluently"
+            }
+        ]
+    }
+}

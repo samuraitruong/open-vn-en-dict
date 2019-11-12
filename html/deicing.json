@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "23629", "link": "/find?type=1&query=deicide", "word": "deicide"}, {"id": "23630", "link": "/find?type=1&query=deictic", "word": "deictic"}, {"id": "23631", "link": "/find?type=1&query=deictically", "word": "deictically"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "deice", "id": "7539", "pronounce": "/di\u02c8a\u026as/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ices; -iced; -icing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to remove ice from (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We watched while they deiced the plane before takeoff. - compare defog, defrost</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ices; -iced; -icing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to remove ice from (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We watched while they deiced the plane before takeoff. - compare defog, defrost</div>",
+            "id": "7539",
+            "mean": [],
+            "pronounce": "/di\u02c8a\u026as/",
+            "type": "verb",
+            "word": "deice"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23629",
+                "link": "/find?type=1&query=deicide",
+                "word": "deicide"
+            },
+            {
+                "id": "23630",
+                "link": "/find?type=1&query=deictic",
+                "word": "deictic"
+            },
+            {
+                "id": "23631",
+                "link": "/find?type=1&query=deictically",
+                "word": "deictically"
+            }
+        ]
+    }
+}

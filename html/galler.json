@@ -1,1 +1,22 @@
-{"error": 0, "query": "galler", "enViData": {"suggests": [{"id": "38791", "link": "/find?type=1&query=gallery", "word": "gallery"}]}, "mUrl": "/find?type=1&query=galler", "enEnData": {"suggests": [{"id": "11748", "link": "/find?type=3&query=gallery", "word": "gallery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11748",
+                "link": "/find?type=3&query=gallery",
+                "word": "gallery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38791",
+                "link": "/find?type=1&query=gallery",
+                "word": "gallery"
+            }
+        ]
+    }
+}

@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "28548", "link": "/find?type=1&query=eaves-trough", "word": "eaves-trough"}, {"id": "28548", "link": "/find?type=1&query=eavesdrip", "word": "eavesdrip"}, {"id": "28548", "link": "/find?type=1&query=eavesdrop", "word": "eavesdrop"}, {"id": "28548", "link": "/find?type=1&query=eavesdropper", "word": "eavesdropper"}], "data": {"word": "eaves", "id": "28548", "pronounce": "/i:vz/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)(x\u00e2y d\u1ef1ng)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1i ch\u00eca</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bird nesting under the eaves</div>\n    \n    <div class=\"margin25\">chim l\u00e0m t\u1ed5 d\u01b0\u1edbi m\u00e1i ch\u00eca</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/56d569103047b2a0565fc83827f4347a/16e5e112f7f/E/eaves.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a6ca4572c225bc5b852945b27004945d/16e5e11352a/E/eaves.mp3"}}}, "en_en": {"suggests": [{"id": "9163", "link": "/find?type=3&query=eavesdrop", "word": "eavesdrop"}], "data": {"word": "eaves", "id": "9163", "pronounce": "/\u02c8i\u02d0vz/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :the lower edge of a roof that sticks out past the wall - see picture at house</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "2008", "link": "/find?type=4&query=eavesdrop", "word": "eavesdrop"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :the lower edge of a roof that sticks out past the wall - see picture at house</div>",
+            "id": "9163",
+            "mean": [],
+            "pronounce": "/\u02c8i\u02d0vz/",
+            "type": "noun",
+            "word": "eaves"
+        },
+        "suggests": [
+            {
+                "id": "9163",
+                "link": "/find?type=3&query=eavesdrop",
+                "word": "eavesdrop"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)(x\u00e2y d\u1ef1ng)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1i ch\u00eca</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bird nesting under the eaves</div>\n    \n    <div class=\"margin25\">chim l\u00e0m t\u1ed5 d\u01b0\u1edbi m\u00e1i ch\u00eca</div>",
+            "id": "28548",
+            "mean": [],
+            "pronounce": "/i:vz/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/819e6bb868663bda992138ac3092827e/16e5eff8854/E/eaves.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2c5d217b7ffb705a6144b48098efd793/16e5eff7ede/E/eaves.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "eaves"
+        },
+        "suggests": [
+            {
+                "id": "28548",
+                "link": "/find?type=1&query=eaves-trough",
+                "word": "eaves-trough"
+            },
+            {
+                "id": "28548",
+                "link": "/find?type=1&query=eavesdrip",
+                "word": "eavesdrip"
+            },
+            {
+                "id": "28548",
+                "link": "/find?type=1&query=eavesdrop",
+                "word": "eavesdrop"
+            },
+            {
+                "id": "28548",
+                "link": "/find?type=1&query=eavesdropper",
+                "word": "eavesdropper"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2008",
+                "link": "/find?type=4&query=eavesdrop",
+                "word": "eavesdrop"
+            }
+        ]
+    }
+}

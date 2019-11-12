@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "16957", "link": "/find?type=1&query=collaborate", "word": "collaborate"}, {"id": "16958", "link": "/find?type=1&query=collaboration", "word": "collaboration"}, {"id": "16959", "link": "/find?type=1&query=collaborationism", "word": "collaborationism"}, {"id": "16960", "link": "/find?type=1&query=collaborationist", "word": "collaborationist"}, {"id": "16961", "link": "/find?type=1&query=collaborative", "word": "collaborative"}, {"id": "16962", "link": "/find?type=1&query=collaborator", "word": "collaborator"}], "data": {}}, "en_en": {"suggests": [{"id": "5484", "link": "/find?type=3&query=collaborate", "word": "collaborate"}, {"id": "5485", "link": "/find?type=3&query=collaborative", "word": "collaborative"}, {"id": "5486", "link": "/find?type=3&query=collaborator", "word": "collaborator"}], "data": {}}, "synonyms": {"suggests": [{"id": "1091", "link": "/find?type=4&query=collaborate", "word": "collaborate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5484",
+                "link": "/find?type=3&query=collaborate",
+                "word": "collaborate"
+            },
+            {
+                "id": "5485",
+                "link": "/find?type=3&query=collaborative",
+                "word": "collaborative"
+            },
+            {
+                "id": "5486",
+                "link": "/find?type=3&query=collaborator",
+                "word": "collaborator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16957",
+                "link": "/find?type=1&query=collaborate",
+                "word": "collaborate"
+            },
+            {
+                "id": "16958",
+                "link": "/find?type=1&query=collaboration",
+                "word": "collaboration"
+            },
+            {
+                "id": "16959",
+                "link": "/find?type=1&query=collaborationism",
+                "word": "collaborationism"
+            },
+            {
+                "id": "16960",
+                "link": "/find?type=1&query=collaborationist",
+                "word": "collaborationist"
+            },
+            {
+                "id": "16961",
+                "link": "/find?type=1&query=collaborative",
+                "word": "collaborative"
+            },
+            {
+                "id": "16962",
+                "link": "/find?type=1&query=collaborator",
+                "word": "collaborator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1091",
+                "link": "/find?type=4&query=collaborate",
+                "word": "collaborate"
+            }
+        ]
+    }
+}

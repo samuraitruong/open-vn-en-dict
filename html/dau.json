@@ -1,1 +1,107 @@
-{"en_vn": {"suggests": [{"id": "22638", "link": "/find?type=1&query=daub", "word": "daub"}, {"id": "22639", "link": "/find?type=1&query=daube", "word": "daube"}, {"id": "22640", "link": "/find?type=1&query=dauber", "word": "dauber"}, {"id": "22641", "link": "/find?type=1&query=daubery", "word": "daubery"}, {"id": "22642", "link": "/find?type=1&query=dauby", "word": "dauby"}, {"id": "22643", "link": "/find?type=1&query=daughter", "word": "daughter"}, {"id": "22644", "link": "/find?type=1&query=daughter+board", "word": "daughter board"}, {"id": "22645", "link": "/find?type=1&query=daughter-in-law", "word": "daughter-in-law"}, {"id": "22646", "link": "/find?type=1&query=daughterless", "word": "daughterless"}, {"id": "22647", "link": "/find?type=1&query=daughterly", "word": "daughterly"}], "data": {}}, "en_en": {"suggests": [{"id": "7239", "link": "/find?type=3&query=daub", "word": "daub"}, {"id": "7240", "link": "/find?type=3&query=daughter", "word": "daughter"}, {"id": "7241", "link": "/find?type=3&query=daughter-in-law", "word": "daughter-in-law"}, {"id": "7242", "link": "/find?type=3&query=daunt", "word": "daunt"}, {"id": "7243", "link": "/find?type=3&query=daunting", "word": "daunting"}, {"id": "7244", "link": "/find?type=3&query=dauntless", "word": "dauntless"}], "data": {}}, "synonyms": {"suggests": [{"id": "1411", "link": "/find?type=4&query=daunt", "word": "daunt"}, {"id": "1412", "link": "/find?type=4&query=dauntless", "word": "dauntless"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7239",
+                "link": "/find?type=3&query=daub",
+                "word": "daub"
+            },
+            {
+                "id": "7240",
+                "link": "/find?type=3&query=daughter",
+                "word": "daughter"
+            },
+            {
+                "id": "7241",
+                "link": "/find?type=3&query=daughter-in-law",
+                "word": "daughter-in-law"
+            },
+            {
+                "id": "7242",
+                "link": "/find?type=3&query=daunt",
+                "word": "daunt"
+            },
+            {
+                "id": "7243",
+                "link": "/find?type=3&query=daunting",
+                "word": "daunting"
+            },
+            {
+                "id": "7244",
+                "link": "/find?type=3&query=dauntless",
+                "word": "dauntless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22638",
+                "link": "/find?type=1&query=daub",
+                "word": "daub"
+            },
+            {
+                "id": "22639",
+                "link": "/find?type=1&query=daube",
+                "word": "daube"
+            },
+            {
+                "id": "22640",
+                "link": "/find?type=1&query=dauber",
+                "word": "dauber"
+            },
+            {
+                "id": "22641",
+                "link": "/find?type=1&query=daubery",
+                "word": "daubery"
+            },
+            {
+                "id": "22642",
+                "link": "/find?type=1&query=dauby",
+                "word": "dauby"
+            },
+            {
+                "id": "22643",
+                "link": "/find?type=1&query=daughter",
+                "word": "daughter"
+            },
+            {
+                "id": "22644",
+                "link": "/find?type=1&query=daughter+board",
+                "word": "daughter board"
+            },
+            {
+                "id": "22645",
+                "link": "/find?type=1&query=daughter-in-law",
+                "word": "daughter-in-law"
+            },
+            {
+                "id": "22646",
+                "link": "/find?type=1&query=daughterless",
+                "word": "daughterless"
+            },
+            {
+                "id": "22647",
+                "link": "/find?type=1&query=daughterly",
+                "word": "daughterly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1411",
+                "link": "/find?type=4&query=daunt",
+                "word": "daunt"
+            },
+            {
+                "id": "1412",
+                "link": "/find?type=4&query=dauntless",
+                "word": "dauntless"
+            }
+        ]
+    }
+}

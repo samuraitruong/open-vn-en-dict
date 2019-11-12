@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "17040", "link": "/find?type=1&query=collision", "word": "collision"}, {"id": "17041", "link": "/find?type=1&query=collision+course", "word": "collision course"}, {"id": "17042", "link": "/find?type=1&query=collisional", "word": "collisional"}], "data": {}}, "en_en": {"suggests": [{"id": "5513", "link": "/find?type=3&query=collision", "word": "collision"}, {"id": "5514", "link": "/find?type=3&query=collision+course", "word": "collision course"}], "data": {}}, "synonyms": {"suggests": [{"id": "1099", "link": "/find?type=4&query=collision", "word": "collision"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5513",
+                "link": "/find?type=3&query=collision",
+                "word": "collision"
+            },
+            {
+                "id": "5514",
+                "link": "/find?type=3&query=collision+course",
+                "word": "collision course"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17040",
+                "link": "/find?type=1&query=collision",
+                "word": "collision"
+            },
+            {
+                "id": "17041",
+                "link": "/find?type=1&query=collision+course",
+                "word": "collision course"
+            },
+            {
+                "id": "17042",
+                "link": "/find?type=1&query=collisional",
+                "word": "collisional"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1099",
+                "link": "/find?type=4&query=collision",
+                "word": "collision"
+            }
+        ]
+    }
+}

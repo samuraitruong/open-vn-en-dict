@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "13521", "link": "/find?type=1&query=castanet", "word": "castanet"}, {"id": "13522", "link": "/find?type=1&query=castanets", "word": "castanets"}], "data": {}}, "en_en": {"suggests": [{"id": "4247", "link": "/find?type=3&query=castanets", "word": "castanets"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4247",
+                "link": "/find?type=3&query=castanets",
+                "word": "castanets"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13521",
+                "link": "/find?type=1&query=castanet",
+                "word": "castanet"
+            },
+            {
+                "id": "13522",
+                "link": "/find?type=1&query=castanets",
+                "word": "castanets"
+            }
+        ]
+    }
+}

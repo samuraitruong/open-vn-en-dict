@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "5352", "link": "/find?type=1&query=archaeologer", "word": "archaeologer"}, {"id": "5353", "link": "/find?type=1&query=archaeological", "word": "archaeological"}, {"id": "5354", "link": "/find?type=1&query=archaeologist", "word": "archaeologist"}, {"id": "5355", "link": "/find?type=1&query=archaeology", "word": "archaeology"}], "data": {}}, "en_en": {"suggests": [{"id": "1261", "link": "/find?type=3&query=archaeology", "word": "archaeology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1261",
+                "link": "/find?type=3&query=archaeology",
+                "word": "archaeology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5352",
+                "link": "/find?type=1&query=archaeologer",
+                "word": "archaeologer"
+            },
+            {
+                "id": "5353",
+                "link": "/find?type=1&query=archaeological",
+                "word": "archaeological"
+            },
+            {
+                "id": "5354",
+                "link": "/find?type=1&query=archaeologist",
+                "word": "archaeologist"
+            },
+            {
+                "id": "5355",
+                "link": "/find?type=1&query=archaeology",
+                "word": "archaeology"
+            }
+        ]
+    }
+}

@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "24141", "link": "/find?type=1&query=depasture", "word": "depasture"}], "data": {}}, "en_en": {"suggests": [{"id": "7668", "link": "/find?type=3&query=depart", "word": "depart"}, {"id": "7669", "link": "/find?type=3&query=departed", "word": "departed"}, {"id": "7670", "link": "/find?type=3&query=department", "word": "department"}, {"id": "7671", "link": "/find?type=3&query=department+store", "word": "department store"}, {"id": "7672", "link": "/find?type=3&query=departmentalize", "word": "departmentalize"}, {"id": "7673", "link": "/find?type=3&query=departure", "word": "departure"}], "data": {}}, "synonyms": {"suggests": [{"id": "1542", "link": "/find?type=4&query=depart", "word": "depart"}, {"id": "1543", "link": "/find?type=4&query=department", "word": "department"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7668",
+                "link": "/find?type=3&query=depart",
+                "word": "depart"
+            },
+            {
+                "id": "7669",
+                "link": "/find?type=3&query=departed",
+                "word": "departed"
+            },
+            {
+                "id": "7670",
+                "link": "/find?type=3&query=department",
+                "word": "department"
+            },
+            {
+                "id": "7671",
+                "link": "/find?type=3&query=department+store",
+                "word": "department store"
+            },
+            {
+                "id": "7672",
+                "link": "/find?type=3&query=departmentalize",
+                "word": "departmentalize"
+            },
+            {
+                "id": "7673",
+                "link": "/find?type=3&query=departure",
+                "word": "departure"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24141",
+                "link": "/find?type=1&query=depasture",
+                "word": "depasture"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1542",
+                "link": "/find?type=4&query=depart",
+                "word": "depart"
+            },
+            {
+                "id": "1543",
+                "link": "/find?type=4&query=department",
+                "word": "department"
+            }
+        ]
+    }
+}

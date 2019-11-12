@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14814", "link": "/find?type=1&query=Chianti", "word": "Chianti"}], "data": {}}, "en_en": {"suggests": [{"id": "4734", "link": "/find?type=3&query=Chianti", "word": "Chianti"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4734",
+                "link": "/find?type=3&query=Chianti",
+                "word": "Chianti"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14814",
+                "link": "/find?type=1&query=Chianti",
+                "word": "Chianti"
+            }
+        ]
+    }
+}

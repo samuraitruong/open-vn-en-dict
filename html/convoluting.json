@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "19544", "link": "/find?type=1&query=convoluted", "word": "convoluted"}, {"id": "19544", "link": "/find?type=1&query=convolutely", "word": "convolutely"}], "data": {"word": "convolute", "id": "19544", "pronounce": "/'k\u0254nv\u0259lu:t/", "type": "Danh t\u1eeb T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 qu\u1ea5n l\u1ea1i, s\u1ef1 xo\u1eafn l\u1ea1i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) qu\u1ea5n</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eb7t cu\u1ed1n , ch\u1eadp cu\u1ed1n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6217", "link": "/find?type=3&query=convoluted", "word": "convoluted"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6217",
+                "link": "/find?type=3&query=convoluted",
+                "word": "convoluted"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 qu\u1ea5n l\u1ea1i, s\u1ef1 xo\u1eafn l\u1ea1i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) qu\u1ea5n</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eb7t cu\u1ed1n , ch\u1eadp cu\u1ed1n</div>",
+            "id": "19544",
+            "mean": [],
+            "pronounce": "/'k\u0254nv\u0259lu:t/",
+            "speak": {},
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "convolute"
+        },
+        "suggests": [
+            {
+                "id": "19544",
+                "link": "/find?type=1&query=convoluted",
+                "word": "convoluted"
+            },
+            {
+                "id": "19544",
+                "link": "/find?type=1&query=convolutely",
+                "word": "convolutely"
+            }
+        ]
+    }
+}

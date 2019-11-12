@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "15432", "link": "/find?type=1&query=cigarette", "word": "cigarette"}, {"id": "15433", "link": "/find?type=1&query=cigarette-case", "word": "cigarette-case"}, {"id": "15434", "link": "/find?type=1&query=cigarette-end", "word": "cigarette-end"}, {"id": "15435", "link": "/find?type=1&query=cigarette-holder", "word": "cigarette-holder"}, {"id": "15436", "link": "/find?type=1&query=cigarette-lighter", "word": "cigarette-lighter"}, {"id": "15437", "link": "/find?type=1&query=cigarette-paper", "word": "cigarette-paper"}], "data": {}}, "en_en": {"suggests": [{"id": "4967", "link": "/find?type=3&query=cigarette", "word": "cigarette"}, {"id": "4968", "link": "/find?type=3&query=cigarette+paper", "word": "cigarette paper"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4967",
+                "link": "/find?type=3&query=cigarette",
+                "word": "cigarette"
+            },
+            {
+                "id": "4968",
+                "link": "/find?type=3&query=cigarette+paper",
+                "word": "cigarette paper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15432",
+                "link": "/find?type=1&query=cigarette",
+                "word": "cigarette"
+            },
+            {
+                "id": "15433",
+                "link": "/find?type=1&query=cigarette-case",
+                "word": "cigarette-case"
+            },
+            {
+                "id": "15434",
+                "link": "/find?type=1&query=cigarette-end",
+                "word": "cigarette-end"
+            },
+            {
+                "id": "15435",
+                "link": "/find?type=1&query=cigarette-holder",
+                "word": "cigarette-holder"
+            },
+            {
+                "id": "15436",
+                "link": "/find?type=1&query=cigarette-lighter",
+                "word": "cigarette-lighter"
+            },
+            {
+                "id": "15437",
+                "link": "/find?type=1&query=cigarette-paper",
+                "word": "cigarette-paper"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7720", "link": "/find?type=1&query=badlands", "word": "badlands"}], "data": {}}, "en_en": {"suggests": [{"id": "1870", "link": "/find?type=3&query=badlands", "word": "badlands"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1870",
+                "link": "/find?type=3&query=badlands",
+                "word": "badlands"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7720",
+                "link": "/find?type=1&query=badlands",
+                "word": "badlands"
+            }
+        ]
+    }
+}

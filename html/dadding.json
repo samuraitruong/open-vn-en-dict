@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "22253", "link": "/find?type=1&query=daddy", "word": "daddy"}, {"id": "22254", "link": "/find?type=1&query=daddyish", "word": "daddyish"}], "data": {}}, "en_en": {"suggests": [{"id": "7137", "link": "/find?type=3&query=daddy", "word": "daddy"}, {"id": "7138", "link": "/find?type=3&query=daddy+longlegs", "word": "daddy longlegs"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7137",
+                "link": "/find?type=3&query=daddy",
+                "word": "daddy"
+            },
+            {
+                "id": "7138",
+                "link": "/find?type=3&query=daddy+longlegs",
+                "word": "daddy longlegs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22253",
+                "link": "/find?type=1&query=daddy",
+                "word": "daddy"
+            },
+            {
+                "id": "22254",
+                "link": "/find?type=1&query=daddyish",
+                "word": "daddyish"
+            }
+        ]
+    }
+}

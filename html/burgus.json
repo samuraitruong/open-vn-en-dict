@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11897", "link": "/find?type=1&query=Burgundy", "word": "Burgundy"}], "data": {}}, "en_en": {"suggests": [{"id": "3704", "link": "/find?type=3&query=burgundy", "word": "burgundy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3704",
+                "link": "/find?type=3&query=burgundy",
+                "word": "burgundy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11897",
+                "link": "/find?type=1&query=Burgundy",
+                "word": "Burgundy"
+            }
+        ]
+    }
+}

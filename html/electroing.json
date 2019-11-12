@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "29323", "link": "/find?type=1&query=electro-acoustics", "word": "electro-acoustics"}, {"id": "29323", "link": "/find?type=1&query=electro-analysis", "word": "electro-analysis"}, {"id": "29323", "link": "/find?type=1&query=electro-biology", "word": "electro-biology"}, {"id": "29323", "link": "/find?type=1&query=electro-cardiogram", "word": "electro-cardiogram"}, {"id": "29323", "link": "/find?type=1&query=electro-cardiograph", "word": "electro-cardiograph"}, {"id": "29323", "link": "/find?type=1&query=electro-chemical", "word": "electro-chemical"}, {"id": "29323", "link": "/find?type=1&query=electro-chemitry", "word": "electro-chemitry"}, {"id": "29323", "link": "/find?type=1&query=electro-convulsive", "word": "electro-convulsive"}, {"id": "29323", "link": "/find?type=1&query=electro-induction", "word": "electro-induction"}], "data": {"word": "electro", "id": "29323", "pronounce": "/i'lektrou/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) (vi\u1ebft t\u1eaft) c\u1ee7a electroplate</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) (vi\u1ebft t\u1eaft) c\u1ee7a electrotype</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9329", "link": "/find?type=3&query=electroencephalogram", "word": "electroencephalogram"}, {"id": "9330", "link": "/find?type=3&query=electroencephalograph", "word": "electroencephalograph"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9329",
+                "link": "/find?type=3&query=electroencephalogram",
+                "word": "electroencephalogram"
+            },
+            {
+                "id": "9330",
+                "link": "/find?type=3&query=electroencephalograph",
+                "word": "electroencephalograph"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) (vi\u1ebft t\u1eaft) c\u1ee7a electroplate</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) (vi\u1ebft t\u1eaft) c\u1ee7a electrotype</div>",
+            "id": "29323",
+            "mean": [],
+            "pronounce": "/i'lektrou/",
+            "speak": {},
+            "type": "",
+            "word": "electro"
+        },
+        "suggests": [
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-acoustics",
+                "word": "electro-acoustics"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-analysis",
+                "word": "electro-analysis"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-biology",
+                "word": "electro-biology"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-cardiogram",
+                "word": "electro-cardiogram"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-cardiograph",
+                "word": "electro-cardiograph"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-chemical",
+                "word": "electro-chemical"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-chemitry",
+                "word": "electro-chemitry"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-convulsive",
+                "word": "electro-convulsive"
+            },
+            {
+                "id": "29323",
+                "link": "/find?type=1&query=electro-induction",
+                "word": "electro-induction"
+            }
+        ]
+    }
+}

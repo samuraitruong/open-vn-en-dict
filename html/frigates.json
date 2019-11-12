@@ -1,1 +1,34 @@
-{"error": 0, "query": "frigates", "enViData": {"suggests": [{"id": "38016", "link": "/find?type=1&query=frigate-bird", "word": "frigate-bird"}], "best": {"id": "38016", "details": "\n<div id=\"find_word_38016\" class=\"world word_en\" rel=\"frigate\">\n    <h2 class=\"fl\">frigate <span class=\"color-black\">/'frig\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38016\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38016\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00e0ng h\u1ea3i)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0u h\u1ed9 t\u1ed1ng nh\u1ecf</div>\n    \n</div>\n", "link": "/find?type=1&query=frigate", "word": "frigate"}}, "mUrl": "/find?type=1&query=frigates", "enEnData": {"suggests": [], "best": {"id": "11487", "details": "\n<div id=\"find_word_11487\" class=\"world word_en\" rel=\"frigate\">\n    <h2 class=\"fl\">frigate <span class=\"color-black\">/\u02c8fr\u026ag\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11487\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11487\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ates</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small and fast military ship</div>\n    \n</div>\n", "link": "/find?type=3&query=frigate", "word": "frigate"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ates</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small and fast military ship</div>",
+            "id": "11487",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u026ag\u0259t/",
+            "type": "noun",
+            "word": "frigate"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00e0ng h\u1ea3i)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0u h\u1ed9 t\u1ed1ng nh\u1ecf</div>",
+            "id": "38016",
+            "mean": [],
+            "pronounce": "/'frig\u0259t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c55e969429e1054d268d9fe859f8d4ac/16e60a17ad1/F/frigate.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f199276d3d0713ef5bc536d1bdd3870d/16e60a172be/F/frigate.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "frigate"
+        },
+        "suggests": [
+            {
+                "id": "38016",
+                "link": "/find?type=1&query=frigate-bird",
+                "word": "frigate-bird"
+            }
+        ]
+    }
+}

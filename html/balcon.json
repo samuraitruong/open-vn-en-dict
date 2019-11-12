@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7830", "link": "/find?type=1&query=balcony", "word": "balcony"}], "data": {}}, "en_en": {"suggests": [{"id": "1911", "link": "/find?type=3&query=balcony", "word": "balcony"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1911",
+                "link": "/find?type=3&query=balcony",
+                "word": "balcony"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7830",
+                "link": "/find?type=1&query=balcony",
+                "word": "balcony"
+            }
+        ]
+    }
+}

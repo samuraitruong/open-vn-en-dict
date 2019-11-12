@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "9817", "link": "/find?type=1&query=bleary-eyed", "word": "bleary-eyed"}], "data": {"word": "bleary", "id": "9817", "pronounce": "/'bli\u0259ri/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u1edd m\u1eaft (do m\u1ec7t m\u1ecfi)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/041957b44597fa83a5454a33f3265827/16e5dd84bc2/B/bleary.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4193d21f45c6e9be4aaa5f2ad5549b78/16e5dd851f4/B/bleary.mp3"}}}, "en_en": {"suggests": [{"id": "2793", "link": "/find?type=3&query=bleary-eyed", "word": "bleary-eyed"}], "data": {"word": "bleary", "id": "2793", "pronounce": "/\u02c8bliri/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">blearier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">very tired and unable to see clearly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She looked at me with bleary eyes.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">blearier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">very tired and unable to see clearly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She looked at me with bleary eyes.</div>",
+            "id": "2793",
+            "mean": [],
+            "pronounce": "/\u02c8bliri/",
+            "type": "adjective",
+            "word": "bleary"
+        },
+        "suggests": [
+            {
+                "id": "2793",
+                "link": "/find?type=3&query=bleary-eyed",
+                "word": "bleary-eyed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u1edd m\u1eaft (do m\u1ec7t m\u1ecfi)</div>",
+            "id": "9817",
+            "mean": [],
+            "pronounce": "/'bli\u0259ri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/53062c00a4e954f49fc08f5fbcdd5494/16e5eba51af/B/bleary.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d51f6ea5165cd4144c4f2b4732e44ec2/16e5eba4ca2/B/bleary.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "bleary"
+        },
+        "suggests": [
+            {
+                "id": "9817",
+                "link": "/find?type=1&query=bleary-eyed",
+                "word": "bleary-eyed"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "14969", "link": "/find?type=1&query=chinoiserie", "word": "chinoiserie"}, {"id": "14970", "link": "/find?type=1&query=chinook", "word": "chinook"}, {"id": "14971", "link": "/find?type=1&query=chinook-jargon", "word": "chinook-jargon"}], "data": {}}, "en_en": {"suggests": [{"id": "4812", "link": "/find?type=3&query=chinos", "word": "chinos"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4812",
+                "link": "/find?type=3&query=chinos",
+                "word": "chinos"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14969",
+                "link": "/find?type=1&query=chinoiserie",
+                "word": "chinoiserie"
+            },
+            {
+                "id": "14970",
+                "link": "/find?type=1&query=chinook",
+                "word": "chinook"
+            },
+            {
+                "id": "14971",
+                "link": "/find?type=1&query=chinook-jargon",
+                "word": "chinook-jargon"
+            }
+        ]
+    }
+}

@@ -1,1 +1,41 @@
-{"en_vn": {"suggests": [], "data": {"word": "atomics", "id": "6406", "pronounce": "/\u0259't\u0254miks/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">s\u1ed1 nhi\u1ec1u d\u00f9ng nh\u01b0 s\u1ed1 \u00edt</div>\n    \n    <div class=\"green margin25 m-top15\">nguy\u00ean t\u1eed h\u1ecdc</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1565", "link": "/find?type=3&query=atomic+bomb", "word": "atomic bomb"}, {"id": "1565", "link": "/find?type=3&query=atomic+clock", "word": "atomic clock"}, {"id": "1565", "link": "/find?type=3&query=atomic+energy", "word": "atomic energy"}], "data": {"word": "atomic", "id": "1565", "pronounce": "/\u0259\u02c8t\u0251\u02d0m\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to atoms</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">atomic [=nuclear] physics/particles</div>\n    \n    <div class=\"green margin25 m-top15\">of, relating to, or using the energy that is produced when atoms are split apart</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">atomic [=nuclear] weapons</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the atomic [=nuclear] age</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an atomic [=nuclear] reactor</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to atoms</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">atomic [=nuclear] physics/particles</div>\n    \n    <div class=\"green margin25 m-top15\">of, relating to, or using the energy that is produced when atoms are split apart</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">atomic [=nuclear] weapons</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the atomic [=nuclear] age</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an atomic [=nuclear] reactor</div>",
+            "id": "1565",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8t\u0251\u02d0m\u026ak/",
+            "type": "adjective",
+            "word": "atomic"
+        },
+        "suggests": [
+            {
+                "id": "1565",
+                "link": "/find?type=3&query=atomic+bomb",
+                "word": "atomic bomb"
+            },
+            {
+                "id": "1565",
+                "link": "/find?type=3&query=atomic+clock",
+                "word": "atomic clock"
+            },
+            {
+                "id": "1565",
+                "link": "/find?type=3&query=atomic+energy",
+                "word": "atomic energy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">s\u1ed1 nhi\u1ec1u d\u00f9ng nh\u01b0 s\u1ed1 \u00edt</div>\n    \n    <div class=\"green margin25 m-top15\">nguy\u00ean t\u1eed h\u1ecdc</div>",
+            "id": "6406",
+            "mean": [],
+            "pronounce": "/\u0259't\u0254miks/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "atomics"
+        },
+        "suggests": []
+    }
+}

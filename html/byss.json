@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "12155", "link": "/find?type=1&query=byssinosis", "word": "byssinosis"}], "data": {}}, "en_en": {"suggests": [{"id": "3817", "link": "/find?type=3&query=bystander", "word": "bystander"}], "data": {}}, "synonyms": {"suggests": [{"id": "800", "link": "/find?type=4&query=bystander", "word": "bystander"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3817",
+                "link": "/find?type=3&query=bystander",
+                "word": "bystander"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12155",
+                "link": "/find?type=1&query=byssinosis",
+                "word": "byssinosis"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "800",
+                "link": "/find?type=4&query=bystander",
+                "word": "bystander"
+            }
+        ]
+    }
+}

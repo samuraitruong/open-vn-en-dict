@@ -1,1 +1,22 @@
-{"error": 0, "query": "gloam", "enViData": {"suggests": [{"id": "40238", "link": "/find?type=1&query=gloaming", "word": "gloaming"}]}, "mUrl": "/find?type=1&query=gloam", "enEnData": {"suggests": [{"id": "12158", "link": "/find?type=3&query=gloaming", "word": "gloaming"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12158",
+                "link": "/find?type=3&query=gloaming",
+                "word": "gloaming"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40238",
+                "link": "/find?type=1&query=gloaming",
+                "word": "gloaming"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8817", "link": "/find?type=1&query=bejewelled", "word": "bejewelled"}], "data": {}}, "en_en": {"suggests": [{"id": "2383", "link": "/find?type=3&query=bejeweled", "word": "bejeweled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2383",
+                "link": "/find?type=3&query=bejeweled",
+                "word": "bejeweled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8817",
+                "link": "/find?type=1&query=bejewelled",
+                "word": "bejewelled"
+            }
+        ]
+    }
+}

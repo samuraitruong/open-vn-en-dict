@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "13084", "link": "/find?type=1&query=carbine", "word": "carbine"}, {"id": "13085", "link": "/find?type=1&query=carbineer", "word": "carbineer"}, {"id": "13086", "link": "/find?type=1&query=carbinol", "word": "carbinol"}], "data": {}}, "en_en": {"suggests": [{"id": "4102", "link": "/find?type=3&query=carbine", "word": "carbine"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4102",
+                "link": "/find?type=3&query=carbine",
+                "word": "carbine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13084",
+                "link": "/find?type=1&query=carbine",
+                "word": "carbine"
+            },
+            {
+                "id": "13085",
+                "link": "/find?type=1&query=carbineer",
+                "word": "carbineer"
+            },
+            {
+                "id": "13086",
+                "link": "/find?type=1&query=carbinol",
+                "word": "carbinol"
+            }
+        ]
+    }
+}

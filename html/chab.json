@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14257", "link": "/find?type=1&query=chabazite", "word": "chabazite"}, {"id": "14258", "link": "/find?type=1&query=Chablis", "word": "Chablis"}], "data": {}}, "en_en": {"suggests": [{"id": "4502", "link": "/find?type=3&query=Chablis", "word": "Chablis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4502",
+                "link": "/find?type=3&query=Chablis",
+                "word": "Chablis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14257",
+                "link": "/find?type=1&query=chabazite",
+                "word": "chabazite"
+            },
+            {
+                "id": "14258",
+                "link": "/find?type=1&query=Chablis",
+                "word": "Chablis"
+            }
+        ]
+    }
+}

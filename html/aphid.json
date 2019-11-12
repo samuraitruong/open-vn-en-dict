@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "4807", "link": "/find?type=1&query=aphides", "word": "aphides"}, {"id": "4807", "link": "/find?type=1&query=aphidian", "word": "aphidian"}, {"id": "4807", "link": "/find?type=1&query=aphidicide", "word": "aphidicide"}], "data": {"word": "aphid", "id": "4807", "pronounce": "/'eifid/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=aphis\">aphis</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/e0239de938f1925da094834a061fd7a2/16e5dc7566f/A/aphid.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/83dbde677ec5bad87d0fa4fa5105e03c/16e5dc75d4a/A/aphid.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "aphid", "id": "1117", "pronounce": "/\u02c8e\u026af\u0259d/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural aphids</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a very small insect that harms plants</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural aphids</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a very small insect that harms plants</div>",
+            "id": "1117",
+            "mean": [],
+            "pronounce": "/\u02c8e\u026af\u0259d/",
+            "type": "noun",
+            "word": "aphid"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=aphis\">aphis</a></span></div>",
+            "id": "4807",
+            "mean": [],
+            "pronounce": "/'eifid/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/163e338366d61b0148910b921c9b98de/16e5eaac789/A/aphid.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ce768e1513132af3d31b12340c0d6157/16e5eaac27d/A/aphid.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "aphid"
+        },
+        "suggests": [
+            {
+                "id": "4807",
+                "link": "/find?type=1&query=aphides",
+                "word": "aphides"
+            },
+            {
+                "id": "4807",
+                "link": "/find?type=1&query=aphidian",
+                "word": "aphidian"
+            },
+            {
+                "id": "4807",
+                "link": "/find?type=1&query=aphidicide",
+                "word": "aphidicide"
+            }
+        ]
+    }
+}

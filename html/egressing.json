@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "29091", "link": "/find?type=1&query=egression", "word": "egression"}, {"id": "29091", "link": "/find?type=1&query=egressive", "word": "egressive"}], "data": {"word": "egress", "id": "29091", "pronounce": "/'i:gres/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(lu\u1eadt h\u1ecdc) quy\u1ec1n ra</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169) l\u1ed1i ra</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/3d156de6ece8812be39ce6e10f031342/16e5e126fb3/E/egress.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/1ab8bd50c777d2d7adf897cb342191dd/16e5e12757c/E/egress.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "egress", "id": "9266", "pronounce": "/\u02c8i\u02d0\u02ccgr\u025bs/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :a way to get out of a place or the act of leaving a place :exit</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The auditorium is designed to provide easy egress in an emergency. - compare ingress</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :a way to get out of a place or the act of leaving a place :exit</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The auditorium is designed to provide easy egress in an emergency. - compare ingress</div>",
+            "id": "9266",
+            "mean": [],
+            "pronounce": "/\u02c8i\u02d0\u02ccgr\u025bs/",
+            "type": "noun",
+            "word": "egress"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(lu\u1eadt h\u1ecdc) quy\u1ec1n ra</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169) l\u1ed1i ra</div>",
+            "id": "29091",
+            "mean": [],
+            "pronounce": "/'i:gres/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c3925afa9e1496c8cb224171b974e548/16e5f01f5a9/E/egress.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b6dfa4a4cbf7beb2742d0ffb6b13fe20/16e5f01eaf3/E/egress.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "egress"
+        },
+        "suggests": [
+            {
+                "id": "29091",
+                "link": "/find?type=1&query=egression",
+                "word": "egression"
+            },
+            {
+                "id": "29091",
+                "link": "/find?type=1&query=egressive",
+                "word": "egressive"
+            }
+        ]
+    }
+}

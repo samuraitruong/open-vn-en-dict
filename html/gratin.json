@@ -1,1 +1,60 @@
-{"error": 0, "query": "gratin", "enViData": {"suggests": [{"id": "41253", "link": "/find?type=1&query=grating", "word": "grating"}, {"id": "41253", "link": "/find?type=1&query=grating+interferometer", "word": "grating interferometer"}, {"id": "41253", "link": "/find?type=1&query=gratingly", "word": "gratingly"}], "best": {"id": "41253", "details": "\n<div id=\"find_word_41253\" class=\"world word_en\" rel=\"gratin\">\n    <h2 class=\"fl\">gratin <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41253\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41253\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n r\u1eafc v\u1ecf b\u00e1nh m\u00ec v\u1ee5n b\u1ecf l\u00f2</div>\n    \n</div>\n", "link": "/find?type=1&query=gratin", "word": "gratin"}}, "mUrl": "/find?type=1&query=gratin", "enEnData": {"suggests": [{"id": "12516", "link": "/find?type=3&query=grating", "word": "grating"}], "best": {"id": "12516", "details": "\n<div id=\"find_word_12516\" class=\"world word_en\" rel=\"gratin\">\n    <h2 class=\"fl\">gratin <span class=\"color-black\">/\u02c8gr\u0251\u02d0tn\u0329/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8gr\u00e6t\u00e6n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12516\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12516\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a dish that has bread crumbs or cheese on top and is cooked in an oven - see also au gratin</div>\n    \n</div>\n", "link": "/find?type=3&query=gratin", "word": "gratin"}}, "ftype": "1", "synData": {"suggests": [{"id": "3091", "link": "/find?type=4&query=grating", "word": "grating"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a dish that has bread crumbs or cheese on top and is cooked in an oven - see also au gratin</div>",
+            "id": "12516",
+            "mean": [],
+            "pronounce": "/\u02c8gr\u0251\u02d0tn\u0329/",
+            "type": "noun",
+            "word": "gratin"
+        },
+        "suggests": [
+            {
+                "id": "12516",
+                "link": "/find?type=3&query=grating",
+                "word": "grating"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n r\u1eafc v\u1ecf b\u00e1nh m\u00ec v\u1ee5n b\u1ecf l\u00f2</div>",
+            "id": "41253",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/95d6b9a4e6c28415f6b4aca58965580d/16e61273f42/G/gratin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cfae9c89d516f31f8124da6521169c34/16e61273726/G/gratin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gratin"
+        },
+        "suggests": [
+            {
+                "id": "41253",
+                "link": "/find?type=1&query=grating",
+                "word": "grating"
+            },
+            {
+                "id": "41253",
+                "link": "/find?type=1&query=grating+interferometer",
+                "word": "grating interferometer"
+            },
+            {
+                "id": "41253",
+                "link": "/find?type=1&query=gratingly",
+                "word": "gratingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3091",
+                "link": "/find?type=4&query=grating",
+                "word": "grating"
+            }
+        ]
+    }
+}

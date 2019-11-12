@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "12527", "link": "/find?type=1&query=calloused", "word": "calloused"}], "data": {}}, "en_en": {"suggests": [{"id": "3922", "link": "/find?type=3&query=calloused", "word": "calloused"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3922",
+                "link": "/find?type=3&query=calloused",
+                "word": "calloused"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12527",
+                "link": "/find?type=1&query=calloused",
+                "word": "calloused"
+            }
+        ]
+    }
+}

@@ -1,1 +1,28 @@
-{"en_vn": {"suggests": [{"id": "33784", "link": "/find?type=1&query=facient", "word": "facient"}, {"id": "33785", "link": "/find?type=1&query=facies", "word": "facies"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "facie", "id": "10182", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">see prima facie</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">see prima facie</div>",
+            "id": "10182",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "facie"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33784",
+                "link": "/find?type=1&query=facient",
+                "word": "facient"
+            },
+            {
+                "id": "33785",
+                "link": "/find?type=1&query=facies",
+                "word": "facies"
+            }
+        ]
+    }
+}

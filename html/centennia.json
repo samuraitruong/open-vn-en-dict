@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14023", "link": "/find?type=1&query=centennial", "word": "centennial"}, {"id": "14024", "link": "/find?type=1&query=centennially", "word": "centennially"}], "data": {}}, "en_en": {"suggests": [{"id": "4425", "link": "/find?type=3&query=centennial", "word": "centennial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4425",
+                "link": "/find?type=3&query=centennial",
+                "word": "centennial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14023",
+                "link": "/find?type=1&query=centennial",
+                "word": "centennial"
+            },
+            {
+                "id": "14024",
+                "link": "/find?type=1&query=centennially",
+                "word": "centennially"
+            }
+        ]
+    }
+}

@@ -1,1 +1,85 @@
-{"en_vn": {"suggests": [{"id": "9507", "link": "/find?type=1&query=bisecant", "word": "bisecant"}, {"id": "9507", "link": "/find?type=1&query=bisect", "word": "bisect"}, {"id": "9507", "link": "/find?type=1&query=bisection", "word": "bisection"}, {"id": "9507", "link": "/find?type=1&query=bisectional", "word": "bisectional"}, {"id": "9507", "link": "/find?type=1&query=bisectionally", "word": "bisectionally"}, {"id": "9507", "link": "/find?type=1&query=bisector", "word": "bisector"}, {"id": "9507", "link": "/find?type=1&query=bisectrices", "word": "bisectrices"}, {"id": "9507", "link": "/find?type=1&query=bisectrix", "word": "bisectrix"}, {"id": "9507", "link": "/find?type=1&query=biserial", "word": "biserial"}], "data": {"word": "bise", "id": "9507", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00f3 b\u1eafc ho\u1eb7c \u0111\u00f4ng b\u1eafc hanh kh\u00f4</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2689", "link": "/find?type=3&query=bisect", "word": "bisect"}, {"id": "2690", "link": "/find?type=3&query=bisexual", "word": "bisexual"}], "data": {}}, "synonyms": {"suggests": [{"id": "546", "link": "/find?type=4&query=bisexual", "word": "bisexual"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2689",
+                "link": "/find?type=3&query=bisect",
+                "word": "bisect"
+            },
+            {
+                "id": "2690",
+                "link": "/find?type=3&query=bisexual",
+                "word": "bisexual"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00f3 b\u1eafc ho\u1eb7c \u0111\u00f4ng b\u1eafc hanh kh\u00f4</div>",
+            "id": "9507",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bise"
+        },
+        "suggests": [
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisecant",
+                "word": "bisecant"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisect",
+                "word": "bisect"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisection",
+                "word": "bisection"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisectional",
+                "word": "bisectional"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisectionally",
+                "word": "bisectionally"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisector",
+                "word": "bisector"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisectrices",
+                "word": "bisectrices"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=bisectrix",
+                "word": "bisectrix"
+            },
+            {
+                "id": "9507",
+                "link": "/find?type=1&query=biserial",
+                "word": "biserial"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "546",
+                "link": "/find?type=4&query=bisexual",
+                "word": "bisexual"
+            }
+        ]
+    }
+}

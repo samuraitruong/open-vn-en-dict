@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "7969", "link": "/find?type=1&query=banditry", "word": "banditry"}, {"id": "7969", "link": "/find?type=1&query=banditti", "word": "banditti"}], "data": {"word": "bandit", "id": "7969", "pronounce": "/'b\u00e6ndit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb c\u01b0\u1edbp, t\u00ean ph\u1ec9</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d44ebe3a421221261fdfec26ab107e2c/16e5dd0d87d/B/bandit.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ebfac2a28041d8fb8151e13c963e5bcc/16e5dd0de4c/B/bandit.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "bandit", "id": "1976", "pronounce": "/\u02c8b\u00e6nd\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dits</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a criminal who attacks and steals from travelers and who is often a member of a group of criminals</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They were two of the most famous bandits [=outlaws, robbers] of the 19th century. - see also one-armed bandit</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dits</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a criminal who attacks and steals from travelers and who is often a member of a group of criminals</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They were two of the most famous bandits [=outlaws, robbers] of the 19th century. - see also one-armed bandit</div>",
+            "id": "1976",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6nd\u0259t/",
+            "type": "noun",
+            "word": "bandit"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb c\u01b0\u1edbp, t\u00ean ph\u1ec9</div>",
+            "id": "7969",
+            "mean": [],
+            "pronounce": "/'b\u00e6ndit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f7b44cae143fa68e75e728ee11d31387/16e5eb3bac2/B/bandit.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e65354f0b459272ebdaa66f60404ee13/16e5eb3b5ac/B/bandit.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bandit"
+        },
+        "suggests": [
+            {
+                "id": "7969",
+                "link": "/find?type=1&query=banditry",
+                "word": "banditry"
+            },
+            {
+                "id": "7969",
+                "link": "/find?type=1&query=banditti",
+                "word": "banditti"
+            }
+        ]
+    }
+}

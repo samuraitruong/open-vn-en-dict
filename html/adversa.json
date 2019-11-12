@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "1622", "link": "/find?type=1&query=adversary", "word": "adversary"}, {"id": "1623", "link": "/find?type=1&query=adversative", "word": "adversative"}, {"id": "1624", "link": "/find?type=1&query=adversatively", "word": "adversatively"}], "data": {}}, "en_en": {"suggests": [{"id": "388", "link": "/find?type=3&query=adversarial", "word": "adversarial"}, {"id": "389", "link": "/find?type=3&query=adversary", "word": "adversary"}], "data": {}}, "synonyms": {"suggests": [{"id": "132", "link": "/find?type=4&query=adversary", "word": "adversary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "388",
+                "link": "/find?type=3&query=adversarial",
+                "word": "adversarial"
+            },
+            {
+                "id": "389",
+                "link": "/find?type=3&query=adversary",
+                "word": "adversary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1622",
+                "link": "/find?type=1&query=adversary",
+                "word": "adversary"
+            },
+            {
+                "id": "1623",
+                "link": "/find?type=1&query=adversative",
+                "word": "adversative"
+            },
+            {
+                "id": "1624",
+                "link": "/find?type=1&query=adversatively",
+                "word": "adversatively"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "132",
+                "link": "/find?type=4&query=adversary",
+                "word": "adversary"
+            }
+        ]
+    }
+}

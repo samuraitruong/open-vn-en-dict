@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "30216", "link": "/find?type=1&query=empties", "word": "empties"}, {"id": "30217", "link": "/find?type=1&query=emptily", "word": "emptily"}, {"id": "30218", "link": "/find?type=1&query=emptiness", "word": "emptiness"}, {"id": "30219", "link": "/find?type=1&query=empty", "word": "empty"}, {"id": "30220", "link": "/find?type=1&query=empty+set", "word": "empty set"}, {"id": "30221", "link": "/find?type=1&query=empty-handed", "word": "empty-handed"}, {"id": "30222", "link": "/find?type=1&query=empty-headed", "word": "empty-headed"}, {"id": "30223", "link": "/find?type=1&query=emptying", "word": "emptying"}], "data": {}}, "en_en": {"suggests": [{"id": "9469", "link": "/find?type=3&query=emptor", "word": "emptor"}, {"id": "9470", "link": "/find?type=3&query=empty", "word": "empty"}, {"id": "9471", "link": "/find?type=3&query=empty+nester", "word": "empty nester"}, {"id": "9472", "link": "/find?type=3&query=empty-handed", "word": "empty-handed"}, {"id": "9473", "link": "/find?type=3&query=empty-headed", "word": "empty-headed"}], "data": {}}, "synonyms": {"suggests": [{"id": "2121", "link": "/find?type=4&query=emptiness", "word": "emptiness"}, {"id": "2122", "link": "/find?type=4&query=empty", "word": "empty"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9469",
+                "link": "/find?type=3&query=emptor",
+                "word": "emptor"
+            },
+            {
+                "id": "9470",
+                "link": "/find?type=3&query=empty",
+                "word": "empty"
+            },
+            {
+                "id": "9471",
+                "link": "/find?type=3&query=empty+nester",
+                "word": "empty nester"
+            },
+            {
+                "id": "9472",
+                "link": "/find?type=3&query=empty-handed",
+                "word": "empty-handed"
+            },
+            {
+                "id": "9473",
+                "link": "/find?type=3&query=empty-headed",
+                "word": "empty-headed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30216",
+                "link": "/find?type=1&query=empties",
+                "word": "empties"
+            },
+            {
+                "id": "30217",
+                "link": "/find?type=1&query=emptily",
+                "word": "emptily"
+            },
+            {
+                "id": "30218",
+                "link": "/find?type=1&query=emptiness",
+                "word": "emptiness"
+            },
+            {
+                "id": "30219",
+                "link": "/find?type=1&query=empty",
+                "word": "empty"
+            },
+            {
+                "id": "30220",
+                "link": "/find?type=1&query=empty+set",
+                "word": "empty set"
+            },
+            {
+                "id": "30221",
+                "link": "/find?type=1&query=empty-handed",
+                "word": "empty-handed"
+            },
+            {
+                "id": "30222",
+                "link": "/find?type=1&query=empty-headed",
+                "word": "empty-headed"
+            },
+            {
+                "id": "30223",
+                "link": "/find?type=1&query=emptying",
+                "word": "emptying"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2121",
+                "link": "/find?type=4&query=emptiness",
+                "word": "emptiness"
+            },
+            {
+                "id": "2122",
+                "link": "/find?type=4&query=empty",
+                "word": "empty"
+            }
+        ]
+    }
+}

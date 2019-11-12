@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8144", "link": "/find?type=1&query=bareheaded", "word": "bareheaded"}, {"id": "8145", "link": "/find?type=1&query=bareheadedness", "word": "bareheadedness"}], "data": {}}, "en_en": {"suggests": [{"id": "2051", "link": "/find?type=3&query=bareheaded", "word": "bareheaded"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2051",
+                "link": "/find?type=3&query=bareheaded",
+                "word": "bareheaded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8144",
+                "link": "/find?type=1&query=bareheaded",
+                "word": "bareheaded"
+            },
+            {
+                "id": "8145",
+                "link": "/find?type=1&query=bareheadedness",
+                "word": "bareheadedness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "1323", "link": "/find?type=1&query=adenitis", "word": "adenitis"}, {"id": "1324", "link": "/find?type=1&query=adenoidal", "word": "adenoidal"}, {"id": "1325", "link": "/find?type=1&query=adenoidectomy", "word": "adenoidectomy"}, {"id": "1326", "link": "/find?type=1&query=adenoids", "word": "adenoids"}, {"id": "1327", "link": "/find?type=1&query=adenoma", "word": "adenoma"}], "data": {}}, "en_en": {"suggests": [{"id": "309", "link": "/find?type=3&query=adenoids", "word": "adenoids"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "309",
+                "link": "/find?type=3&query=adenoids",
+                "word": "adenoids"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1323",
+                "link": "/find?type=1&query=adenitis",
+                "word": "adenitis"
+            },
+            {
+                "id": "1324",
+                "link": "/find?type=1&query=adenoidal",
+                "word": "adenoidal"
+            },
+            {
+                "id": "1325",
+                "link": "/find?type=1&query=adenoidectomy",
+                "word": "adenoidectomy"
+            },
+            {
+                "id": "1326",
+                "link": "/find?type=1&query=adenoids",
+                "word": "adenoids"
+            },
+            {
+                "id": "1327",
+                "link": "/find?type=1&query=adenoma",
+                "word": "adenoma"
+            }
+        ]
+    }
+}

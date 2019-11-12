@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "32092", "link": "/find?type=1&query=ethanolamine", "word": "ethanolamine"}], "data": {"word": "ethanol", "id": "32092", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) ethanol</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5365cb8c4234d7ec7c3ea5f9829ebc5e/16e5e1abeec/E/ethanol.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e6a123eb742d34b4f9cf0467e259008d/16e5e1ac4b0/E/ethanol.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "ethanol", "id": "9814", "pronounce": "/\u02c8\u025b\u0275\u0259\u02ccn\u0251\u02d0l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :alcohol 1 - used especially to refer to alcohol when it is used as a fuel</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a car that uses a mixture of ethanol and gasoline for fuel</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :alcohol 1 - used especially to refer to alcohol when it is used as a fuel</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a car that uses a mixture of ethanol and gasoline for fuel</div>",
+            "id": "9814",
+            "mean": [],
+            "pronounce": "/\u02c8\u025b\u0275\u0259\u02ccn\u0251\u02d0l/",
+            "type": "noun",
+            "word": "ethanol"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) ethanol</div>",
+            "id": "32092",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e4d633cf17b4e7b60536a502a2c30468/16e5fd03b64/E/ethanol.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6f2c661230ca0305cda9b8c5b81bdc85/16e5fd0335f/E/ethanol.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ethanol"
+        },
+        "suggests": [
+            {
+                "id": "32092",
+                "link": "/find?type=1&query=ethanolamine",
+                "word": "ethanolamine"
+            }
+        ]
+    }
+}

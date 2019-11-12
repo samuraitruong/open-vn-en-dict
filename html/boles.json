@@ -1,1 +1,43 @@
-{"en_vn": {"suggests": [{"id": "10333", "link": "/find?type=1&query=bolection", "word": "bolection"}, {"id": "10333", "link": "/find?type=1&query=bolero", "word": "bolero"}, {"id": "10333", "link": "/find?type=1&query=boletus", "word": "boletus"}], "data": {"word": "bole", "id": "10333", "pronounce": "/b\u0259\u028al/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e2n (c\u00e2y g\u1ed7)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a2d4df6b1d2c922f5375001c026c356b/16e5dd9e359/B/bole.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ebdc5060dbf2688af77c6b0cf931e96a/16e5dd9e93a/B/bole.mp3"}}}, "en_en": {"suggests": [{"id": "3045", "link": "/find?type=3&query=bolero", "word": "bolero"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3045",
+                "link": "/find?type=3&query=bolero",
+                "word": "bolero"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00e2n (c\u00e2y g\u1ed7)</div>",
+            "id": "10333",
+            "mean": [],
+            "pronounce": "/b\u0259\u028al/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/61cdb0a35bd002e62897092d4fc8ef4e/16e5ebbc343/B/bole.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1a795a88ccbd593be52b83ad5f0ab530/16e5ebbbdfe/B/bole.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bole"
+        },
+        "suggests": [
+            {
+                "id": "10333",
+                "link": "/find?type=1&query=bolection",
+                "word": "bolection"
+            },
+            {
+                "id": "10333",
+                "link": "/find?type=1&query=bolero",
+                "word": "bolero"
+            },
+            {
+                "id": "10333",
+                "link": "/find?type=1&query=boletus",
+                "word": "boletus"
+            }
+        ]
+    }
+}

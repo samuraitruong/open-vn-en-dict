@@ -1,1 +1,130 @@
-{"en_vn": {"suggests": [{"id": "1209", "link": "/find?type=1&query=adage", "word": "adage"}, {"id": "1209", "link": "/find?type=1&query=adagio", "word": "adagio"}, {"id": "1209", "link": "/find?type=1&query=Adam", "word": "Adam"}, {"id": "1209", "link": "/find?type=1&query=adam%27s+apple", "word": "adam's apple"}, {"id": "1209", "link": "/find?type=1&query=adamant", "word": "adamant"}, {"id": "1209", "link": "/find?type=1&query=adamantine", "word": "adamantine"}, {"id": "1209", "link": "/find?type=1&query=adamantly", "word": "adamantly"}, {"id": "1209", "link": "/find?type=1&query=adamantoblast", "word": "adamantoblast"}, {"id": "1209", "link": "/find?type=1&query=adamic", "word": "adamic"}], "data": {"word": "ada", "id": "1209", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">T\u00ean m\u1ed9t ng\u00f4n ng\u1eef l\u1eadp tr\u00ecnh b\u1eadc cao</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "283", "link": "/find?type=3&query=adage", "word": "adage"}, {"id": "284", "link": "/find?type=3&query=adagio", "word": "adagio"}, {"id": "285", "link": "/find?type=3&query=Adam", "word": "Adam"}, {"id": "286", "link": "/find?type=3&query=adamant", "word": "adamant"}, {"id": "287", "link": "/find?type=3&query=Adam%27s+apple", "word": "Adam's apple"}, {"id": "288", "link": "/find?type=3&query=adapt", "word": "adapt"}, {"id": "289", "link": "/find?type=3&query=adaptable", "word": "adaptable"}, {"id": "290", "link": "/find?type=3&query=adaptation", "word": "adaptation"}, {"id": "291", "link": "/find?type=3&query=adapter", "word": "adapter"}], "data": {}}, "synonyms": {"suggests": [{"id": "99", "link": "/find?type=4&query=adapt", "word": "adapt"}, {"id": "100", "link": "/find?type=4&query=adaptable", "word": "adaptable"}, {"id": "101", "link": "/find?type=4&query=adaptation", "word": "adaptation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "283",
+                "link": "/find?type=3&query=adage",
+                "word": "adage"
+            },
+            {
+                "id": "284",
+                "link": "/find?type=3&query=adagio",
+                "word": "adagio"
+            },
+            {
+                "id": "285",
+                "link": "/find?type=3&query=Adam",
+                "word": "Adam"
+            },
+            {
+                "id": "286",
+                "link": "/find?type=3&query=adamant",
+                "word": "adamant"
+            },
+            {
+                "id": "287",
+                "link": "/find?type=3&query=Adam%27s+apple",
+                "word": "Adam's apple"
+            },
+            {
+                "id": "288",
+                "link": "/find?type=3&query=adapt",
+                "word": "adapt"
+            },
+            {
+                "id": "289",
+                "link": "/find?type=3&query=adaptable",
+                "word": "adaptable"
+            },
+            {
+                "id": "290",
+                "link": "/find?type=3&query=adaptation",
+                "word": "adaptation"
+            },
+            {
+                "id": "291",
+                "link": "/find?type=3&query=adapter",
+                "word": "adapter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">T\u00ean m\u1ed9t ng\u00f4n ng\u1eef l\u1eadp tr\u00ecnh b\u1eadc cao</div>",
+            "id": "1209",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "ada"
+        },
+        "suggests": [
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adage",
+                "word": "adage"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adagio",
+                "word": "adagio"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=Adam",
+                "word": "Adam"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adam%27s+apple",
+                "word": "adam's apple"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adamant",
+                "word": "adamant"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adamantine",
+                "word": "adamantine"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adamantly",
+                "word": "adamantly"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adamantoblast",
+                "word": "adamantoblast"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=1&query=adamic",
+                "word": "adamic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "99",
+                "link": "/find?type=4&query=adapt",
+                "word": "adapt"
+            },
+            {
+                "id": "100",
+                "link": "/find?type=4&query=adaptable",
+                "word": "adaptable"
+            },
+            {
+                "id": "101",
+                "link": "/find?type=4&query=adaptation",
+                "word": "adaptation"
+            }
+        ]
+    }
+}

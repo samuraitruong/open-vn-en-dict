@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21760", "link": "/find?type=1&query=curfew", "word": "curfew"}], "data": {}}, "en_en": {"suggests": [{"id": "7003", "link": "/find?type=3&query=curfew", "word": "curfew"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7003",
+                "link": "/find?type=3&query=curfew",
+                "word": "curfew"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21760",
+                "link": "/find?type=1&query=curfew",
+                "word": "curfew"
+            }
+        ]
+    }
+}

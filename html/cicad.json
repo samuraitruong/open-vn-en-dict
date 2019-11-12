@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15411", "link": "/find?type=1&query=cicada", "word": "cicada"}], "data": {}}, "en_en": {"suggests": [{"id": "4962", "link": "/find?type=3&query=cicada", "word": "cicada"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4962",
+                "link": "/find?type=3&query=cicada",
+                "word": "cicada"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15411",
+                "link": "/find?type=1&query=cicada",
+                "word": "cicada"
+            }
+        ]
+    }
+}

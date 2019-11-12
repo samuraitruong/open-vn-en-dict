@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "15827", "link": "/find?type=1&query=clarence", "word": "clarence"}, {"id": "15828", "link": "/find?type=1&query=claret", "word": "claret"}], "data": {}}, "en_en": {"suggests": [{"id": "5088", "link": "/find?type=3&query=claret", "word": "claret"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5088",
+                "link": "/find?type=3&query=claret",
+                "word": "claret"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15827",
+                "link": "/find?type=1&query=clarence",
+                "word": "clarence"
+            },
+            {
+                "id": "15828",
+                "link": "/find?type=1&query=claret",
+                "word": "claret"
+            }
+        ]
+    }
+}

@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "16017", "link": "/find?type=1&query=clerical", "word": "clerical"}, {"id": "16017", "link": "/find?type=1&query=clericalism", "word": "clericalism"}, {"id": "16017", "link": "/find?type=1&query=clericalist", "word": "clericalist"}, {"id": "16017", "link": "/find?type=1&query=clerically", "word": "clerically"}, {"id": "16017", "link": "/find?type=1&query=clericals", "word": "clericals"}], "data": {"word": "cleric", "id": "16017", "pronounce": "/'klerik/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u1ed5)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 clergyman</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=clergyman\">clergyman</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/999fe8af0257d2ffee89a4dfee023495/16e5dedf131/C/cleric.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5554dd21ce0c64aa0a35404de6643a47/16e5dedf6ef/C/cleric.mp3"}}}, "en_en": {"suggests": [{"id": "5167", "link": "/find?type=3&query=clerical", "word": "clerical"}], "data": {"word": "cleric", "id": "5167", "pronounce": "/\u02c8kler\u026ak/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of the clergy in any religion</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1040", "link": "/find?type=4&query=clerical", "word": "clerical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of the clergy in any religion</div>",
+            "id": "5167",
+            "mean": [],
+            "pronounce": "/\u02c8kler\u026ak/",
+            "type": "noun",
+            "word": "cleric"
+        },
+        "suggests": [
+            {
+                "id": "5167",
+                "link": "/find?type=3&query=clerical",
+                "word": "clerical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u1ed5)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 clergyman</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=clergyman\">clergyman</a></span></div>",
+            "id": "16017",
+            "mean": [],
+            "pronounce": "/'klerik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/67b4f1d6a6bcd1a8bd5aa633b76997b8/16e5ece35af/C/cleric.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e8c9cf7a418dcf90f4612aefe345a7de/16e5ece3086/C/cleric.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cleric"
+        },
+        "suggests": [
+            {
+                "id": "16017",
+                "link": "/find?type=1&query=clerical",
+                "word": "clerical"
+            },
+            {
+                "id": "16017",
+                "link": "/find?type=1&query=clericalism",
+                "word": "clericalism"
+            },
+            {
+                "id": "16017",
+                "link": "/find?type=1&query=clericalist",
+                "word": "clericalist"
+            },
+            {
+                "id": "16017",
+                "link": "/find?type=1&query=clerically",
+                "word": "clerically"
+            },
+            {
+                "id": "16017",
+                "link": "/find?type=1&query=clericals",
+                "word": "clericals"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1040",
+                "link": "/find?type=4&query=clerical",
+                "word": "clerical"
+            }
+        ]
+    }
+}

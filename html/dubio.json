@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "27957", "link": "/find?type=1&query=dubious", "word": "dubious"}, {"id": "27958", "link": "/find?type=1&query=dubiously", "word": "dubiously"}, {"id": "27959", "link": "/find?type=1&query=dubiousness", "word": "dubiousness"}], "data": {}}, "en_en": {"suggests": [{"id": "8962", "link": "/find?type=3&query=dubious", "word": "dubious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8962",
+                "link": "/find?type=3&query=dubious",
+                "word": "dubious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27957",
+                "link": "/find?type=1&query=dubious",
+                "word": "dubious"
+            },
+            {
+                "id": "27958",
+                "link": "/find?type=1&query=dubiously",
+                "word": "dubiously"
+            },
+            {
+                "id": "27959",
+                "link": "/find?type=1&query=dubiousness",
+                "word": "dubiousness"
+            }
+        ]
+    }
+}

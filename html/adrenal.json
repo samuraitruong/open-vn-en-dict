@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "1526", "link": "/find?type=1&query=adrenal+gland", "word": "adrenal gland"}, {"id": "1526", "link": "/find?type=1&query=adrenalectomy", "word": "adrenalectomy"}, {"id": "1526", "link": "/find?type=1&query=adrenalin", "word": "adrenalin"}, {"id": "1526", "link": "/find?type=1&query=adrenally", "word": "adrenally"}], "data": {"word": "adrenal", "id": "1526", "pronounce": "/\u0259'dri:nl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] th\u01b0\u1ee3ng th\u1eadn</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "362", "link": "/find?type=3&query=adrenaline", "word": "adrenaline"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "362",
+                "link": "/find?type=3&query=adrenaline",
+                "word": "adrenaline"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] th\u01b0\u1ee3ng th\u1eadn</div>",
+            "id": "1526",
+            "mean": [],
+            "pronounce": "/\u0259'dri:nl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "adrenal"
+        },
+        "suggests": [
+            {
+                "id": "1526",
+                "link": "/find?type=1&query=adrenal+gland",
+                "word": "adrenal gland"
+            },
+            {
+                "id": "1526",
+                "link": "/find?type=1&query=adrenalectomy",
+                "word": "adrenalectomy"
+            },
+            {
+                "id": "1526",
+                "link": "/find?type=1&query=adrenalin",
+                "word": "adrenalin"
+            },
+            {
+                "id": "1526",
+                "link": "/find?type=1&query=adrenally",
+                "word": "adrenally"
+            }
+        ]
+    }
+}

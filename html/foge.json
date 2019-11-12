@@ -1,1 +1,37 @@
-{"error": 0, "query": "foge", "enViData": {"suggests": [{"id": "36744", "link": "/find?type=1&query=fogey", "word": "fogey"}, {"id": "36745", "link": "/find?type=1&query=fogeydom", "word": "fogeydom"}, {"id": "36746", "link": "/find?type=1&query=fogeyish", "word": "fogeyish"}, {"id": "36747", "link": "/find?type=1&query=fogeyism", "word": "fogeyism"}]}, "mUrl": "/find?type=1&query=foge", "enEnData": {"suggests": [{"id": "11048", "link": "/find?type=3&query=fogey", "word": "fogey"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11048",
+                "link": "/find?type=3&query=fogey",
+                "word": "fogey"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36744",
+                "link": "/find?type=1&query=fogey",
+                "word": "fogey"
+            },
+            {
+                "id": "36745",
+                "link": "/find?type=1&query=fogeydom",
+                "word": "fogeydom"
+            },
+            {
+                "id": "36746",
+                "link": "/find?type=1&query=fogeyish",
+                "word": "fogeyish"
+            },
+            {
+                "id": "36747",
+                "link": "/find?type=1&query=fogeyism",
+                "word": "fogeyism"
+            }
+        ]
+    }
+}

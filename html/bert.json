@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8994", "link": "/find?type=1&query=berth", "word": "berth"}, {"id": "8995", "link": "/find?type=1&query=Bertrand%27s+duopoly+Model", "word": "Bertrand's duopoly Model"}], "data": {}}, "en_en": {"suggests": [{"id": "2462", "link": "/find?type=3&query=berth", "word": "berth"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2462",
+                "link": "/find?type=3&query=berth",
+                "word": "berth"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8994",
+                "link": "/find?type=1&query=berth",
+                "word": "berth"
+            },
+            {
+                "id": "8995",
+                "link": "/find?type=1&query=Bertrand%27s+duopoly+Model",
+                "word": "Bertrand's duopoly Model"
+            }
+        ]
+    }
+}

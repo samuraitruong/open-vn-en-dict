@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "15045", "link": "/find?type=1&query=chloride", "word": "chloride"}, {"id": "15046", "link": "/find?type=1&query=chloridic", "word": "chloridic"}], "data": {}}, "en_en": {"suggests": [{"id": "4841", "link": "/find?type=3&query=chloride", "word": "chloride"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4841",
+                "link": "/find?type=3&query=chloride",
+                "word": "chloride"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15045",
+                "link": "/find?type=1&query=chloride",
+                "word": "chloride"
+            },
+            {
+                "id": "15046",
+                "link": "/find?type=1&query=chloridic",
+                "word": "chloridic"
+            }
+        ]
+    }
+}

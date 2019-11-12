@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "1651", "link": "/find?type=1&query=advisor", "word": "advisor"}, {"id": "1652", "link": "/find?type=1&query=advisory", "word": "advisory"}], "data": {}}, "en_en": {"suggests": [{"id": "402", "link": "/find?type=3&query=advisory", "word": "advisory"}], "data": {}}, "synonyms": {"suggests": [{"id": "138", "link": "/find?type=4&query=advisory", "word": "advisory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "402",
+                "link": "/find?type=3&query=advisory",
+                "word": "advisory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1651",
+                "link": "/find?type=1&query=advisor",
+                "word": "advisor"
+            },
+            {
+                "id": "1652",
+                "link": "/find?type=1&query=advisory",
+                "word": "advisory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "138",
+                "link": "/find?type=4&query=advisory",
+                "word": "advisory"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "harelips", "enViData": {"suggests": [{"id": "42863", "link": "/find?type=1&query=harelipped", "word": "harelipped"}], "best": {"id": "42863", "details": "\n<div id=\"find_word_42863\" class=\"world word_en\" rel=\"harelip\">\n    <h2 class=\"fl\">harelip <span class=\"color-black\">/he\u0259lip/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42863\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42863\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eadt s\u1ee9t m\u00f4i (b\u1ea9m sinh)</div>\n    \n</div>\n", "link": "/find?type=1&query=harelip", "word": "harelip"}}, "mUrl": "/find?type=1&query=harelips", "enEnData": {"suggests": [], "best": {"id": "13113", "details": "\n<div id=\"find_word_13113\" class=\"world word_en\" rel=\"harelip\">\n    <h2 class=\"fl\">harelip <span class=\"color-black\">/\u02c8he\u025a\u02c8l\u026ap/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13113\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13113\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lips</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned + often offensive :cleft lip</div>\n    \n</div>\n", "link": "/find?type=3&query=harelip", "word": "harelip"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lips</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned + often offensive :cleft lip</div>",
+            "id": "13113",
+            "mean": [],
+            "pronounce": "/\u02c8he\u025a\u02c8l\u026ap/",
+            "type": "noun",
+            "word": "harelip"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eadt s\u1ee9t m\u00f4i (b\u1ea9m sinh)</div>",
+            "id": "42863",
+            "mean": [],
+            "pronounce": "/he\u0259lip/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fe2ec761fdcd650fedb2d4378fb4a738/16e6166c777/H/harelip.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d40fc88ad52380ecbd35aa595f6bcf48/16e6166bf4f/H/harelip.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "harelip"
+        },
+        "suggests": [
+            {
+                "id": "42863",
+                "link": "/find?type=1&query=harelipped",
+                "word": "harelipped"
+            }
+        ]
+    }
+}

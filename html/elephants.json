@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "29768", "link": "/find?type=1&query=elephantiasis", "word": "elephantiasis"}, {"id": "29768", "link": "/find?type=1&query=elephantine", "word": "elephantine"}], "data": {"word": "elephant", "id": "29768", "pronounce": "/'elif\u0259nt/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c elephants) (\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">con voi</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a herd of elephant</div>\n    \n    <div class=\"margin25\">m\u1ed9t \u0111\u00e0n voi</div>\n    \n    <div class=\"bold dot-blue m-top15\">elephants never forget</div>\n    \n    <div class=\"grey margin25 m-top15\">voi nh\u1edb dai l\u1eafm</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5e4260d384dc8e08dfc70a7866354e25/16e5e13816f/E/elephant.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/01350ce6e61ba53070ec6e17a6eba700/16e5e13873d/E/elephant.mp3"}}}, "en_en": {"suggests": [{"id": "9349", "link": "/find?type=3&query=elephantine", "word": "elephantine"}], "data": {"word": "elephant", "id": "9349", "pronounce": "/\u02c8\u025bl\u0259f\u0259nt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phants</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a very large gray animal that has a long, flexible nose and two long tusks - see also white elephant</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phants</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a very large gray animal that has a long, flexible nose and two long tusks - see also white elephant</div>",
+            "id": "9349",
+            "mean": [],
+            "pronounce": "/\u02c8\u025bl\u0259f\u0259nt/",
+            "type": "noun",
+            "word": "elephant"
+        },
+        "suggests": [
+            {
+                "id": "9349",
+                "link": "/find?type=3&query=elephantine",
+                "word": "elephantine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c elephants) (\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">con voi</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a herd of elephant</div>\n    \n    <div class=\"margin25\">m\u1ed9t \u0111\u00e0n voi</div>\n    \n    <div class=\"bold dot-blue m-top15\">elephants never forget</div>\n    \n    <div class=\"grey margin25 m-top15\">voi nh\u1edb dai l\u1eafm</div>",
+            "id": "29768",
+            "mean": [],
+            "pronounce": "/'elif\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e62d8d6526c1c7180f779b39756b5658/16e5f040fff/E/elephant.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/888ccab2e11130c17366b48deff2abd2/16e5f04064a/E/elephant.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "elephant"
+        },
+        "suggests": [
+            {
+                "id": "29768",
+                "link": "/find?type=1&query=elephantiasis",
+                "word": "elephantiasis"
+            },
+            {
+                "id": "29768",
+                "link": "/find?type=1&query=elephantine",
+                "word": "elephantine"
+            }
+        ]
+    }
+}

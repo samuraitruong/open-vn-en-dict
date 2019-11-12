@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "24839", "link": "/find?type=1&query=dexiotropic", "word": "dexiotropic"}, {"id": "24840", "link": "/find?type=1&query=dexter", "word": "dexter"}, {"id": "24841", "link": "/find?type=1&query=dexterity", "word": "dexterity"}, {"id": "24842", "link": "/find?type=1&query=dexterous", "word": "dexterous"}, {"id": "24843", "link": "/find?type=1&query=dexterously", "word": "dexterously"}, {"id": "24844", "link": "/find?type=1&query=dextral", "word": "dextral"}, {"id": "24845", "link": "/find?type=1&query=dextrality", "word": "dextrality"}, {"id": "24846", "link": "/find?type=1&query=dextran", "word": "dextran"}, {"id": "24847", "link": "/find?type=1&query=dextrin", "word": "dextrin"}, {"id": "24848", "link": "/find?type=1&query=dextro", "word": "dextro"}], "data": {}}, "en_en": {"suggests": [{"id": "7893", "link": "/find?type=3&query=dexterity", "word": "dexterity"}, {"id": "7894", "link": "/find?type=3&query=dexterous", "word": "dexterous"}, {"id": "7895", "link": "/find?type=3&query=dextrose", "word": "dextrose"}], "data": {}}, "synonyms": {"suggests": [{"id": "1642", "link": "/find?type=4&query=dexterity", "word": "dexterity"}, {"id": "1643", "link": "/find?type=4&query=dexterous", "word": "dexterous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7893",
+                "link": "/find?type=3&query=dexterity",
+                "word": "dexterity"
+            },
+            {
+                "id": "7894",
+                "link": "/find?type=3&query=dexterous",
+                "word": "dexterous"
+            },
+            {
+                "id": "7895",
+                "link": "/find?type=3&query=dextrose",
+                "word": "dextrose"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24839",
+                "link": "/find?type=1&query=dexiotropic",
+                "word": "dexiotropic"
+            },
+            {
+                "id": "24840",
+                "link": "/find?type=1&query=dexter",
+                "word": "dexter"
+            },
+            {
+                "id": "24841",
+                "link": "/find?type=1&query=dexterity",
+                "word": "dexterity"
+            },
+            {
+                "id": "24842",
+                "link": "/find?type=1&query=dexterous",
+                "word": "dexterous"
+            },
+            {
+                "id": "24843",
+                "link": "/find?type=1&query=dexterously",
+                "word": "dexterously"
+            },
+            {
+                "id": "24844",
+                "link": "/find?type=1&query=dextral",
+                "word": "dextral"
+            },
+            {
+                "id": "24845",
+                "link": "/find?type=1&query=dextrality",
+                "word": "dextrality"
+            },
+            {
+                "id": "24846",
+                "link": "/find?type=1&query=dextran",
+                "word": "dextran"
+            },
+            {
+                "id": "24847",
+                "link": "/find?type=1&query=dextrin",
+                "word": "dextrin"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextro",
+                "word": "dextro"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1642",
+                "link": "/find?type=4&query=dexterity",
+                "word": "dexterity"
+            },
+            {
+                "id": "1643",
+                "link": "/find?type=4&query=dexterous",
+                "word": "dexterous"
+            }
+        ]
+    }
+}

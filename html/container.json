@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "19098", "link": "/find?type=1&query=containerisation", "word": "containerisation"}, {"id": "19098", "link": "/find?type=1&query=containerise", "word": "containerise"}, {"id": "19098", "link": "/find?type=1&query=containerization", "word": "containerization"}, {"id": "19098", "link": "/find?type=1&query=containerize", "word": "containerize"}], "data": {"word": "container", "id": "19098", "pronounce": "/k\u0259n'tein\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3 ch\u1ee9a, \u0111\u1ed3 \u0111\u1ef1ng (nh\u01b0 chai, l\u1ecd, h\u1ed9p, th\u00f9ng\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ngten\u01a1</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a container ship</div>\n    \n    <div class=\"margin25\">t\u00e0u th\u1ee7y ch\u1edf c\u00f4ngten\u01a1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/26da81284e0e01dc05239da050ec4054/16e5deea70c/C/container.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/2581919133698ad6ea0d597315b4f4db/16e5deea6f6/C/container.mp3"}}}, "en_en": {"suggests": [{"id": "6088", "link": "/find?type=3&query=container+ship", "word": "container ship"}], "data": {"word": "container", "id": "6088", "pronounce": "/k\u0259n\u02c8te\u026an\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] an object (such as a box or can) that can hold something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The tea leaves come in a small metal container.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bowls, boxes, jars, and other containers</div>\n    \n    <div class=\"green margin25 m-top15\">a large box that goods are placed in so that they can be moved from one place to another on a ship, airplane, train, or truck</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The shipment of tools arrived at the dock in cargo containers yesterday.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] an object (such as a box or can) that can hold something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The tea leaves come in a small metal container.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bowls, boxes, jars, and other containers</div>\n    \n    <div class=\"green margin25 m-top15\">a large box that goods are placed in so that they can be moved from one place to another on a ship, airplane, train, or truck</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The shipment of tools arrived at the dock in cargo containers yesterday.</div>",
+            "id": "6088",
+            "mean": [],
+            "pronounce": "/k\u0259n\u02c8te\u026an\u025a/",
+            "type": "noun",
+            "word": "container"
+        },
+        "suggests": [
+            {
+                "id": "6088",
+                "link": "/find?type=3&query=container+ship",
+                "word": "container ship"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3 ch\u1ee9a, \u0111\u1ed3 \u0111\u1ef1ng (nh\u01b0 chai, l\u1ecd, h\u1ed9p, th\u00f9ng\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ngten\u01a1</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a container ship</div>\n    \n    <div class=\"margin25\">t\u00e0u th\u1ee7y ch\u1edf c\u00f4ngten\u01a1</div>",
+            "id": "19098",
+            "mean": [],
+            "pronounce": "/k\u0259n'tein\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/05ebde3c4dd9c4445d4abde088e81778/16e5ed8c471/C/container.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0d9b203a6aec57a784a47f2537f6d4ac/16e5ed8bb36/C/container.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "container"
+        },
+        "suggests": [
+            {
+                "id": "19098",
+                "link": "/find?type=1&query=containerisation",
+                "word": "containerisation"
+            },
+            {
+                "id": "19098",
+                "link": "/find?type=1&query=containerise",
+                "word": "containerise"
+            },
+            {
+                "id": "19098",
+                "link": "/find?type=1&query=containerization",
+                "word": "containerization"
+            },
+            {
+                "id": "19098",
+                "link": "/find?type=1&query=containerize",
+                "word": "containerize"
+            }
+        ]
+    }
+}

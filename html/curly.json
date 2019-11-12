@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "21783", "link": "/find?type=1&query=curly+bracket", "word": "curly bracket"}, {"id": "21783", "link": "/find?type=1&query=curly-pate", "word": "curly-pate"}], "data": {"word": "curly", "id": "21783", "pronounce": "/'k\u0259:li/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u0103n, xo\u1eafn</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">curly hair</div>\n    \n    <div class=\"margin25\">t\u00f3c qu\u0103n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/72c51bfdf223f68732eec375ba97a95a/16e5dfd7c80/C/curly.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b32b5e16d6622f7aec08350f8eeefe75/16e5dfd8232/C/curly.mp3"}}}, "en_en": {"suggests": [{"id": "7013", "link": "/find?type=3&query=curly+brace", "word": "curly brace"}, {"id": "7013", "link": "/find?type=3&query=curly+bracket", "word": "curly bracket"}], "data": {"word": "curly", "id": "7013", "pronounce": "/\u02c8k\u025ali/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">curlier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">[also more ~; most ~]</div>\n    \n    <div class=\"green margin25 m-top15\">having curls</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has curly hair and blue eyes.</div>\n    \n    <div class=\"green margin25 m-top15\">formed into a round shape</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">curly french fries</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The dog's tail is curly.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">curlier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">[also more ~; most ~]</div>\n    \n    <div class=\"green margin25 m-top15\">having curls</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has curly hair and blue eyes.</div>\n    \n    <div class=\"green margin25 m-top15\">formed into a round shape</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">curly french fries</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The dog's tail is curly.</div>",
+            "id": "7013",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025ali/",
+            "type": "adjective",
+            "word": "curly"
+        },
+        "suggests": [
+            {
+                "id": "7013",
+                "link": "/find?type=3&query=curly+brace",
+                "word": "curly brace"
+            },
+            {
+                "id": "7013",
+                "link": "/find?type=3&query=curly+bracket",
+                "word": "curly bracket"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u0103n, xo\u1eafn</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">curly hair</div>\n    \n    <div class=\"margin25\">t\u00f3c qu\u0103n</div>",
+            "id": "21783",
+            "mean": [],
+            "pronounce": "/'k\u0259:li/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cf15f3c6ecc9034b8ed9129092c0cb52/16e5ee3887e/C/curly.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a980391bb7654e966c80cc89e922be02/16e5ee37f82/C/curly.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "curly"
+        },
+        "suggests": [
+            {
+                "id": "21783",
+                "link": "/find?type=1&query=curly+bracket",
+                "word": "curly bracket"
+            },
+            {
+                "id": "21783",
+                "link": "/find?type=1&query=curly-pate",
+                "word": "curly-pate"
+            }
+        ]
+    }
+}

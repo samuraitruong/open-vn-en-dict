@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "16950", "link": "/find?type=1&query=colic", "word": "colic"}, {"id": "16951", "link": "/find?type=1&query=colicky", "word": "colicky"}, {"id": "16952", "link": "/find?type=1&query=coliform", "word": "coliform"}, {"id": "16953", "link": "/find?type=1&query=colimit", "word": "colimit"}, {"id": "16954", "link": "/find?type=1&query=colinear", "word": "colinear"}, {"id": "16955", "link": "/find?type=1&query=coliseum", "word": "coliseum"}, {"id": "16956", "link": "/find?type=1&query=colitis", "word": "colitis"}], "data": {}}, "en_en": {"suggests": [{"id": "5481", "link": "/find?type=3&query=colic", "word": "colic"}, {"id": "5482", "link": "/find?type=3&query=coliseum", "word": "coliseum"}, {"id": "5483", "link": "/find?type=3&query=colitis", "word": "colitis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5481",
+                "link": "/find?type=3&query=colic",
+                "word": "colic"
+            },
+            {
+                "id": "5482",
+                "link": "/find?type=3&query=coliseum",
+                "word": "coliseum"
+            },
+            {
+                "id": "5483",
+                "link": "/find?type=3&query=colitis",
+                "word": "colitis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16950",
+                "link": "/find?type=1&query=colic",
+                "word": "colic"
+            },
+            {
+                "id": "16951",
+                "link": "/find?type=1&query=colicky",
+                "word": "colicky"
+            },
+            {
+                "id": "16952",
+                "link": "/find?type=1&query=coliform",
+                "word": "coliform"
+            },
+            {
+                "id": "16953",
+                "link": "/find?type=1&query=colimit",
+                "word": "colimit"
+            },
+            {
+                "id": "16954",
+                "link": "/find?type=1&query=colinear",
+                "word": "colinear"
+            },
+            {
+                "id": "16955",
+                "link": "/find?type=1&query=coliseum",
+                "word": "coliseum"
+            },
+            {
+                "id": "16956",
+                "link": "/find?type=1&query=colitis",
+                "word": "colitis"
+            }
+        ]
+    }
+}

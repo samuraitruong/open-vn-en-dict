@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "34502", "link": "/find?type=1&query=fecder", "word": "fecder"}, {"id": "34503", "link": "/find?type=1&query=feces", "word": "feces"}, {"id": "34504", "link": "/find?type=1&query=feck", "word": "feck"}, {"id": "34505", "link": "/find?type=1&query=feckful", "word": "feckful"}, {"id": "34506", "link": "/find?type=1&query=feckless", "word": "feckless"}, {"id": "34507", "link": "/find?type=1&query=fecklessly", "word": "fecklessly"}, {"id": "34508", "link": "/find?type=1&query=fecklessness", "word": "fecklessness"}, {"id": "34509", "link": "/find?type=1&query=fecula", "word": "fecula"}, {"id": "34510", "link": "/find?type=1&query=feculae", "word": "feculae"}, {"id": "34511", "link": "/find?type=1&query=feculence", "word": "feculence"}], "data": {}}, "en_en": {"suggests": [{"id": "10415", "link": "/find?type=3&query=feces", "word": "feces"}, {"id": "10416", "link": "/find?type=3&query=feckless", "word": "feckless"}, {"id": "10417", "link": "/find?type=3&query=fecund", "word": "fecund"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10415",
+                "link": "/find?type=3&query=feces",
+                "word": "feces"
+            },
+            {
+                "id": "10416",
+                "link": "/find?type=3&query=feckless",
+                "word": "feckless"
+            },
+            {
+                "id": "10417",
+                "link": "/find?type=3&query=fecund",
+                "word": "fecund"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34502",
+                "link": "/find?type=1&query=fecder",
+                "word": "fecder"
+            },
+            {
+                "id": "34503",
+                "link": "/find?type=1&query=feces",
+                "word": "feces"
+            },
+            {
+                "id": "34504",
+                "link": "/find?type=1&query=feck",
+                "word": "feck"
+            },
+            {
+                "id": "34505",
+                "link": "/find?type=1&query=feckful",
+                "word": "feckful"
+            },
+            {
+                "id": "34506",
+                "link": "/find?type=1&query=feckless",
+                "word": "feckless"
+            },
+            {
+                "id": "34507",
+                "link": "/find?type=1&query=fecklessly",
+                "word": "fecklessly"
+            },
+            {
+                "id": "34508",
+                "link": "/find?type=1&query=fecklessness",
+                "word": "fecklessness"
+            },
+            {
+                "id": "34509",
+                "link": "/find?type=1&query=fecula",
+                "word": "fecula"
+            },
+            {
+                "id": "34510",
+                "link": "/find?type=1&query=feculae",
+                "word": "feculae"
+            },
+            {
+                "id": "34511",
+                "link": "/find?type=1&query=feculence",
+                "word": "feculence"
+            }
+        ]
+    }
+}

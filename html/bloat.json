@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "9926", "link": "/find?type=1&query=bloated", "word": "bloated"}, {"id": "9926", "link": "/find?type=1&query=bloater", "word": "bloater"}], "data": {"word": "bloat", "id": "9926", "pronounce": "/blout/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb \u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">mu\u1ed1i v\u00e0 hun kh\u00f3i (c\u00e1 tr\u00edch)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f4ng l\u00ean, s\u01b0ng l\u00ean, ph\u00f9 l\u00ean, s\u01b0ng h\u00fap l\u00ean</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2844", "link": "/find?type=3&query=bloated", "word": "bloated"}], "data": {"word": "bloat", "id": "2844", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] chiefly US :too much growth</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">budget/bureaucratic bloat</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company became an example of corporate bloat. [=it became too big]</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "584", "link": "/find?type=4&query=bloated", "word": "bloated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] chiefly US :too much growth</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">budget/bureaucratic bloat</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company became an example of corporate bloat. [=it became too big]</div>",
+            "id": "2844",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "bloat"
+        },
+        "suggests": [
+            {
+                "id": "2844",
+                "link": "/find?type=3&query=bloated",
+                "word": "bloated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">mu\u1ed1i v\u00e0 hun kh\u00f3i (c\u00e1 tr\u00edch)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f4ng l\u00ean, s\u01b0ng l\u00ean, ph\u00f9 l\u00ean, s\u01b0ng h\u00fap l\u00ean</div>",
+            "id": "9926",
+            "mean": [],
+            "pronounce": "/blout/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "bloat"
+        },
+        "suggests": [
+            {
+                "id": "9926",
+                "link": "/find?type=1&query=bloated",
+                "word": "bloated"
+            },
+            {
+                "id": "9926",
+                "link": "/find?type=1&query=bloater",
+                "word": "bloater"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "584",
+                "link": "/find?type=4&query=bloated",
+                "word": "bloated"
+            }
+        ]
+    }
+}

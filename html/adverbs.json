@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "1618", "link": "/find?type=1&query=adverbe", "word": "adverbe"}, {"id": "1618", "link": "/find?type=1&query=adverbial", "word": "adverbial"}, {"id": "1618", "link": "/find?type=1&query=adverbially", "word": "adverbially"}], "data": {"word": "adverb", "id": "1618", "pronounce": "/'\u00e6dv\u0259:b/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ng\u00f4n ng\u1eef h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f3 t\u1eeb</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/eb3749e9b2a2478a644aed48ec4cac52/16e5dbcfdbb/A/adverb.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/24f8ab319e0e3ab0925092403750d0b3/16e5dbd036f/A/adverb.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "adverb", "id": "387", "pronounce": "/\u02c8\u00e6d\u02ccv\u025ab/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -verbs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a word that describes a verb, an adjective, another adverb, or a sentence and that is often used to show time, manner, place, or degree</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">In arrived early, runs slowly, stayed home, and works hard the words early, slowly, home, and hard are adverbs.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -verbs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a word that describes a verb, an adjective, another adverb, or a sentence and that is often used to show time, manner, place, or degree</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">In arrived early, runs slowly, stayed home, and works hard the words early, slowly, home, and hard are adverbs.</div>",
+            "id": "387",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6d\u02ccv\u025ab/",
+            "type": "noun",
+            "word": "adverb"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ng\u00f4n ng\u1eef h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f3 t\u1eeb</div>",
+            "id": "1618",
+            "mean": [],
+            "pronounce": "/'\u00e6dv\u0259:b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/24310c7326dea24ec99dc5433b203e70/16e5ea1deb7/A/adverb.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7d7fe6e43f7648233556f480e6f93682/16e5ea1d9a9/A/adverb.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "adverb"
+        },
+        "suggests": [
+            {
+                "id": "1618",
+                "link": "/find?type=1&query=adverbe",
+                "word": "adverbe"
+            },
+            {
+                "id": "1618",
+                "link": "/find?type=1&query=adverbial",
+                "word": "adverbial"
+            },
+            {
+                "id": "1618",
+                "link": "/find?type=1&query=adverbially",
+                "word": "adverbially"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"error": 0, "query": "garg", "enViData": {"suggests": [{"id": "39043", "link": "/find?type=1&query=gargantuan", "word": "gargantuan"}, {"id": "39044", "link": "/find?type=1&query=garget", "word": "garget"}, {"id": "39045", "link": "/find?type=1&query=gargety", "word": "gargety"}, {"id": "39046", "link": "/find?type=1&query=gargle", "word": "gargle"}, {"id": "39047", "link": "/find?type=1&query=gargoyle", "word": "gargoyle"}]}, "mUrl": "/find?type=1&query=garg", "enEnData": {"suggests": [{"id": "11827", "link": "/find?type=3&query=gargantuan", "word": "gargantuan"}, {"id": "11828", "link": "/find?type=3&query=gargle", "word": "gargle"}, {"id": "11829", "link": "/find?type=3&query=gargoyle", "word": "gargoyle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11827",
+                "link": "/find?type=3&query=gargantuan",
+                "word": "gargantuan"
+            },
+            {
+                "id": "11828",
+                "link": "/find?type=3&query=gargle",
+                "word": "gargle"
+            },
+            {
+                "id": "11829",
+                "link": "/find?type=3&query=gargoyle",
+                "word": "gargoyle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39043",
+                "link": "/find?type=1&query=gargantuan",
+                "word": "gargantuan"
+            },
+            {
+                "id": "39044",
+                "link": "/find?type=1&query=garget",
+                "word": "garget"
+            },
+            {
+                "id": "39045",
+                "link": "/find?type=1&query=gargety",
+                "word": "gargety"
+            },
+            {
+                "id": "39046",
+                "link": "/find?type=1&query=gargle",
+                "word": "gargle"
+            },
+            {
+                "id": "39047",
+                "link": "/find?type=1&query=gargoyle",
+                "word": "gargoyle"
+            }
+        ]
+    }
+}

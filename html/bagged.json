@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "7749", "link": "/find?type=1&query=bagger", "word": "bagger"}], "data": {}}, "en_en": {"suggests": [{"id": "1882", "link": "/find?type=3&query=baggage", "word": "baggage"}, {"id": "1883", "link": "/find?type=3&query=baggy", "word": "baggy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1882",
+                "link": "/find?type=3&query=baggage",
+                "word": "baggage"
+            },
+            {
+                "id": "1883",
+                "link": "/find?type=3&query=baggy",
+                "word": "baggy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7749",
+                "link": "/find?type=1&query=bagger",
+                "word": "bagger"
+            }
+        ]
+    }
+}

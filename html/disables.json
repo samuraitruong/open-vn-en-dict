@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "25764", "link": "/find?type=1&query=disabled", "word": "disabled"}, {"id": "25764", "link": "/find?type=1&query=disablement", "word": "disablement"}], "data": {"word": "disable", "id": "25764", "pronounce": "/dis'eibl/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m t\u00e0n t\u1eadt, l\u00e0m qu\u00e8 qu\u1eb7t</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a soldier disabled by leg wounds</div>\n    \n    <div class=\"margin25\">ng\u01b0\u1eddi l\u00ednh t\u00e0n t\u1eadt v\u00ec nh\u1eefng v\u1ebft th\u01b0\u01a1ng \u1edf ch\u00e2n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4bd5c137eb1251187d7cb04958200c51/16e5e08d2c6/D/disable.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d555b0499e534b6c4cb02b4c060b8d3c/16e5e08d876/D/disable.mp3"}}}, "en_en": {"suggests": [{"id": "8099", "link": "/find?type=3&query=disabled", "word": "disabled"}, {"id": "8099", "link": "/find?type=3&query=disabled+list", "word": "disabled list"}], "data": {"word": "disable", "id": "8099", "pronounce": "/d\u026as\u02c8e\u026ab\u0259l/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ables; -abled; -abling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to cause (something) to be unable to work in the normal way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">disable a bomb</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">disable an alarm</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">disable a computer program</div>\n    \n    <div class=\"green margin25 m-top15\">to make (someone) unable to do something (such as use part of the body) in the usual way - often used as (be) disabled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was disabled by the accident.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1694", "link": "/find?type=4&query=disabled", "word": "disabled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ables; -abled; -abling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to cause (something) to be unable to work in the normal way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">disable a bomb</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">disable an alarm</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">disable a computer program</div>\n    \n    <div class=\"green margin25 m-top15\">to make (someone) unable to do something (such as use part of the body) in the usual way - often used as (be) disabled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was disabled by the accident.</div>",
+            "id": "8099",
+            "mean": [],
+            "pronounce": "/d\u026as\u02c8e\u026ab\u0259l/",
+            "type": "verb",
+            "word": "disable"
+        },
+        "suggests": [
+            {
+                "id": "8099",
+                "link": "/find?type=3&query=disabled",
+                "word": "disabled"
+            },
+            {
+                "id": "8099",
+                "link": "/find?type=3&query=disabled+list",
+                "word": "disabled list"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m t\u00e0n t\u1eadt, l\u00e0m qu\u00e8 qu\u1eb7t</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a soldier disabled by leg wounds</div>\n    \n    <div class=\"margin25\">ng\u01b0\u1eddi l\u00ednh t\u00e0n t\u1eadt v\u00ec nh\u1eefng v\u1ebft th\u01b0\u01a1ng \u1edf ch\u00e2n</div>",
+            "id": "25764",
+            "mean": [],
+            "pronounce": "/dis'eibl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/01b4386da37eb8c052cd436979c3be16/16e5ef343d3/D/disable.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/00ee25cddee2a61ebba3b4eeec31b652/16e5ef33b13/D/disable.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "disable"
+        },
+        "suggests": [
+            {
+                "id": "25764",
+                "link": "/find?type=1&query=disabled",
+                "word": "disabled"
+            },
+            {
+                "id": "25764",
+                "link": "/find?type=1&query=disablement",
+                "word": "disablement"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1694",
+                "link": "/find?type=4&query=disabled",
+                "word": "disabled"
+            }
+        ]
+    }
+}

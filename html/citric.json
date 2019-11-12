@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "15684", "link": "/find?type=1&query=citric+acid", "word": "citric acid"}, {"id": "15684", "link": "/find?type=1&query=citriculture", "word": "citriculture"}], "data": {"word": "citric", "id": "15684", "pronounce": "/'sitrik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) xitric</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">citric acid</div>\n    \n    <div class=\"margin25\">axit xitric</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5021", "link": "/find?type=3&query=citric+acid", "word": "citric acid"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5021",
+                "link": "/find?type=3&query=citric+acid",
+                "word": "citric acid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) xitric</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">citric acid</div>\n    \n    <div class=\"margin25\">axit xitric</div>",
+            "id": "15684",
+            "mean": [],
+            "pronounce": "/'sitrik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "citric"
+        },
+        "suggests": [
+            {
+                "id": "15684",
+                "link": "/find?type=1&query=citric+acid",
+                "word": "citric acid"
+            },
+            {
+                "id": "15684",
+                "link": "/find?type=1&query=citriculture",
+                "word": "citriculture"
+            }
+        ]
+    }
+}

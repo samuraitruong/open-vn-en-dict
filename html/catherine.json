@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "13726", "link": "/find?type=1&query=Catherine+wheel", "word": "Catherine wheel"}, {"id": "13727", "link": "/find?type=1&query=catherine-wheel", "word": "catherine-wheel"}], "data": {}}, "en_en": {"suggests": [{"id": "4302", "link": "/find?type=3&query=Catherine+wheel", "word": "Catherine wheel"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4302",
+                "link": "/find?type=3&query=Catherine+wheel",
+                "word": "Catherine wheel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13726",
+                "link": "/find?type=1&query=Catherine+wheel",
+                "word": "Catherine wheel"
+            },
+            {
+                "id": "13727",
+                "link": "/find?type=1&query=catherine-wheel",
+                "word": "catherine-wheel"
+            }
+        ]
+    }
+}

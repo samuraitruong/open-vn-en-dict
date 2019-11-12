@@ -1,1 +1,47 @@
-{"error": 0, "query": "hange", "enViData": {"suggests": [{"id": "42724", "link": "/find?type=1&query=hanger", "word": "hanger"}, {"id": "42725", "link": "/find?type=1&query=hanger-on", "word": "hanger-on"}, {"id": "42726", "link": "/find?type=1&query=hangers-on", "word": "hangers-on"}]}, "mUrl": "/find?type=1&query=hange", "enEnData": {"suggests": [{"id": "13029", "link": "/find?type=3&query=hanger", "word": "hanger"}, {"id": "13030", "link": "/find?type=3&query=hanger-on", "word": "hanger-on"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3197", "link": "/find?type=4&query=hanger-on", "word": "hanger-on"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13029",
+                "link": "/find?type=3&query=hanger",
+                "word": "hanger"
+            },
+            {
+                "id": "13030",
+                "link": "/find?type=3&query=hanger-on",
+                "word": "hanger-on"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42724",
+                "link": "/find?type=1&query=hanger",
+                "word": "hanger"
+            },
+            {
+                "id": "42725",
+                "link": "/find?type=1&query=hanger-on",
+                "word": "hanger-on"
+            },
+            {
+                "id": "42726",
+                "link": "/find?type=1&query=hangers-on",
+                "word": "hangers-on"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3197",
+                "link": "/find?type=4&query=hanger-on",
+                "word": "hanger-on"
+            }
+        ]
+    }
+}

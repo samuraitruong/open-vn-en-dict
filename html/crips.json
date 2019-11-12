@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [], "data": {"word": "crips", "id": "21071", "pronounce": "/krisps/", "type": "Danh t\u1eeb s\u1ed1 nhi\u1ec1u", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">khoai t\u00e2y c\u1eaft m\u1ecfng r\u00e0n gi\u00f2n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6773", "link": "/find?type=3&query=cripple", "word": "cripple"}], "data": {}}, "synonyms": {"suggests": [{"id": "1331", "link": "/find?type=4&query=cripple", "word": "cripple"}, {"id": "1332", "link": "/find?type=4&query=crippled", "word": "crippled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6773",
+                "link": "/find?type=3&query=cripple",
+                "word": "cripple"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb s\u1ed1 nhi\u1ec1u</span></div>\n    \n    <div class=\"green margin25 m-top15\">khoai t\u00e2y c\u1eaft m\u1ecfng r\u00e0n gi\u00f2n</div>",
+            "id": "21071",
+            "mean": [],
+            "pronounce": "/krisps/",
+            "speak": {},
+            "type": "Danh t\u1eeb s\u1ed1 nhi\u1ec1u",
+            "word": "crips"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1331",
+                "link": "/find?type=4&query=cripple",
+                "word": "cripple"
+            },
+            {
+                "id": "1332",
+                "link": "/find?type=4&query=crippled",
+                "word": "crippled"
+            }
+        ]
+    }
+}

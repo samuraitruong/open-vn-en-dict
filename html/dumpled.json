@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "28067", "link": "/find?type=1&query=dumpling", "word": "dumpling"}], "data": {}}, "en_en": {"suggests": [{"id": "9014", "link": "/find?type=3&query=dumpling", "word": "dumpling"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9014",
+                "link": "/find?type=3&query=dumpling",
+                "word": "dumpling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28067",
+                "link": "/find?type=1&query=dumpling",
+                "word": "dumpling"
+            }
+        ]
+    }
+}

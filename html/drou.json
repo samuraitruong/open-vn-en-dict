@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "27821", "link": "/find?type=1&query=drought", "word": "drought"}, {"id": "27822", "link": "/find?type=1&query=droughty", "word": "droughty"}, {"id": "27823", "link": "/find?type=1&query=drouth", "word": "drouth"}, {"id": "27824", "link": "/find?type=1&query=drouthy", "word": "drouthy"}], "data": {}}, "en_en": {"suggests": [{"id": "8904", "link": "/find?type=3&query=drought", "word": "drought"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8904",
+                "link": "/find?type=3&query=drought",
+                "word": "drought"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27821",
+                "link": "/find?type=1&query=drought",
+                "word": "drought"
+            },
+            {
+                "id": "27822",
+                "link": "/find?type=1&query=droughty",
+                "word": "droughty"
+            },
+            {
+                "id": "27823",
+                "link": "/find?type=1&query=drouth",
+                "word": "drouth"
+            },
+            {
+                "id": "27824",
+                "link": "/find?type=1&query=drouthy",
+                "word": "drouthy"
+            }
+        ]
+    }
+}

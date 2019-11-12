@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "1290", "link": "/find?type=1&query=addle-brained", "word": "addle-brained"}, {"id": "1290", "link": "/find?type=1&query=addle-head", "word": "addle-head"}, {"id": "1290", "link": "/find?type=1&query=addle-pate", "word": "addle-pate"}], "data": {"word": "addle", "id": "1290", "pronounce": "/'\u00e6dl/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m qu\u1eabn, l\u00e0m r\u1ed1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">my hair feels addled</div>\n    \n    <div class=\"margin25\">\u0111\u1ea7u t\u00f3c t\u00f4i r\u1ed1i c\u1ea3 l\u00ean</div>\n    \n    <div class=\"green margin25 m-top15\">[l\u00e0m cho] th\u1ed1i, [l\u00e0m cho] ung (tr\u1ee9ng)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d052e8568f4cc878e7bbed4877414962/16e5db76e2e/A/addle.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0e67b1d2ea04c50242d8c3f91a7f9e03/16e5db77438/A/addle.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "addle", "id": "303", "pronounce": "/\u02c8\u00e6dn\u0329/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">addles; addled; addling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to make (someone's mind or brain) unable to think clearly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">It's a dangerous poison that's strong enough to addle the brain.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Their brains were addled with/by fear/drugs.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">addles; addled; addling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to make (someone's mind or brain) unable to think clearly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">It's a dangerous poison that's strong enough to addle the brain.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Their brains were addled with/by fear/drugs.</div>",
+            "id": "303",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6dn\u0329/",
+            "type": "verb",
+            "word": "addle"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m qu\u1eabn, l\u00e0m r\u1ed1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">my hair feels addled</div>\n    \n    <div class=\"margin25\">\u0111\u1ea7u t\u00f3c t\u00f4i r\u1ed1i c\u1ea3 l\u00ean</div>\n    \n    <div class=\"green margin25 m-top15\">[l\u00e0m cho] th\u1ed1i, [l\u00e0m cho] ung (tr\u1ee9ng)</div>",
+            "id": "1290",
+            "mean": [],
+            "pronounce": "/'\u00e6dl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b61a0b7560e5486677d5b81f7d45065d/16e5ea0f46e/A/addle.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2ecced09c577c32dfb89dc3b048b8043/16e5ea0ef08/A/addle.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "addle"
+        },
+        "suggests": [
+            {
+                "id": "1290",
+                "link": "/find?type=1&query=addle-brained",
+                "word": "addle-brained"
+            },
+            {
+                "id": "1290",
+                "link": "/find?type=1&query=addle-head",
+                "word": "addle-head"
+            },
+            {
+                "id": "1290",
+                "link": "/find?type=1&query=addle-pate",
+                "word": "addle-pate"
+            }
+        ]
+    }
+}

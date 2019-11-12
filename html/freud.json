@@ -1,1 +1,37 @@
-{"error": 0, "query": "freud", "enViData": {"suggests": [{"id": "37969", "link": "/find?type=1&query=Freudian", "word": "Freudian"}, {"id": "37970", "link": "/find?type=1&query=Freudian+slip", "word": "Freudian slip"}, {"id": "37971", "link": "/find?type=1&query=freudianism", "word": "freudianism"}]}, "mUrl": "/find?type=1&query=freud", "enEnData": {"suggests": [{"id": "11467", "link": "/find?type=3&query=Freudian", "word": "Freudian"}, {"id": "11468", "link": "/find?type=3&query=Freudian+slip", "word": "Freudian slip"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11467",
+                "link": "/find?type=3&query=Freudian",
+                "word": "Freudian"
+            },
+            {
+                "id": "11468",
+                "link": "/find?type=3&query=Freudian+slip",
+                "word": "Freudian slip"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37969",
+                "link": "/find?type=1&query=Freudian",
+                "word": "Freudian"
+            },
+            {
+                "id": "37970",
+                "link": "/find?type=1&query=Freudian+slip",
+                "word": "Freudian slip"
+            },
+            {
+                "id": "37971",
+                "link": "/find?type=1&query=freudianism",
+                "word": "freudianism"
+            }
+        ]
+    }
+}

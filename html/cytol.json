@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "22184", "link": "/find?type=1&query=cytologic", "word": "cytologic"}, {"id": "22185", "link": "/find?type=1&query=cytologist", "word": "cytologist"}, {"id": "22186", "link": "/find?type=1&query=cytology", "word": "cytology"}, {"id": "22187", "link": "/find?type=1&query=cytolysin", "word": "cytolysin"}], "data": {}}, "en_en": {"suggests": [{"id": "7119", "link": "/find?type=3&query=cytology", "word": "cytology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7119",
+                "link": "/find?type=3&query=cytology",
+                "word": "cytology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22184",
+                "link": "/find?type=1&query=cytologic",
+                "word": "cytologic"
+            },
+            {
+                "id": "22185",
+                "link": "/find?type=1&query=cytologist",
+                "word": "cytologist"
+            },
+            {
+                "id": "22186",
+                "link": "/find?type=1&query=cytology",
+                "word": "cytology"
+            },
+            {
+                "id": "22187",
+                "link": "/find?type=1&query=cytolysin",
+                "word": "cytolysin"
+            }
+        ]
+    }
+}

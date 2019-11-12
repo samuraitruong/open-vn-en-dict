@@ -1,1 +1,37 @@
-{"error": 0, "query": "furnit", "enViData": {"suggests": [{"id": "38555", "link": "/find?type=1&query=furniture", "word": "furniture"}, {"id": "38556", "link": "/find?type=1&query=furniture-car", "word": "furniture-car"}]}, "mUrl": "/find?type=1&query=furnit", "enEnData": {"suggests": [{"id": "11667", "link": "/find?type=3&query=furniture", "word": "furniture"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2900", "link": "/find?type=4&query=furniture", "word": "furniture"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11667",
+                "link": "/find?type=3&query=furniture",
+                "word": "furniture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38555",
+                "link": "/find?type=1&query=furniture",
+                "word": "furniture"
+            },
+            {
+                "id": "38556",
+                "link": "/find?type=1&query=furniture-car",
+                "word": "furniture-car"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2900",
+                "link": "/find?type=4&query=furniture",
+                "word": "furniture"
+            }
+        ]
+    }
+}

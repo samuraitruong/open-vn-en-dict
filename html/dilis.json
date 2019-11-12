@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "25449", "link": "/find?type=1&query=diligence", "word": "diligence"}, {"id": "25450", "link": "/find?type=1&query=diligent", "word": "diligent"}, {"id": "25451", "link": "/find?type=1&query=diligently", "word": "diligently"}], "data": {}}, "en_en": {"suggests": [{"id": "8002", "link": "/find?type=3&query=diligence", "word": "diligence"}], "data": {}}, "synonyms": {"suggests": [{"id": "1676", "link": "/find?type=4&query=diligent", "word": "diligent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8002",
+                "link": "/find?type=3&query=diligence",
+                "word": "diligence"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25449",
+                "link": "/find?type=1&query=diligence",
+                "word": "diligence"
+            },
+            {
+                "id": "25450",
+                "link": "/find?type=1&query=diligent",
+                "word": "diligent"
+            },
+            {
+                "id": "25451",
+                "link": "/find?type=1&query=diligently",
+                "word": "diligently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1676",
+                "link": "/find?type=4&query=diligent",
+                "word": "diligent"
+            }
+        ]
+    }
+}

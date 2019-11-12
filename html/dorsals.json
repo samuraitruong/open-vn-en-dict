@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "27179", "link": "/find?type=1&query=dorsalis", "word": "dorsalis"}], "data": {"word": "dorsal", "id": "27179", "pronounce": "/'d\u0254:sl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] l\u01b0ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the dorsal fin</div>\n    \n    <div class=\"margin25\">v\u00e2y l\u01b0ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4b968d0997b598fdb7b515554da3e74f/16e5e0dd005/D/dorsal.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/1fd30b8cefaa9660c8df9eca30a9812a/16e5e0dd5ac/D/dorsal.mp3"}}}, "en_en": {"suggests": [{"id": "8602", "link": "/find?type=3&query=dorsal+fin", "word": "dorsal fin"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8602",
+                "link": "/find?type=3&query=dorsal+fin",
+                "word": "dorsal fin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] l\u01b0ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the dorsal fin</div>\n    \n    <div class=\"margin25\">v\u00e2y l\u01b0ng</div>",
+            "id": "27179",
+            "mean": [],
+            "pronounce": "/'d\u0254:sl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/be15a20e8aa514d05762ec087df6eb07/16e5efa3d42/D/dorsal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1af84abef5e7b51dd5a76a2d51d8d915/16e5efa3442/D/dorsal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "dorsal"
+        },
+        "suggests": [
+            {
+                "id": "27179",
+                "link": "/find?type=1&query=dorsalis",
+                "word": "dorsalis"
+            }
+        ]
+    }
+}

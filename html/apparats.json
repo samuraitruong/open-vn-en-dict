@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "4991", "link": "/find?type=1&query=apparatchik", "word": "apparatchik"}, {"id": "4991", "link": "/find?type=1&query=apparatus", "word": "apparatus"}, {"id": "4991", "link": "/find?type=1&query=apparatus+criticus", "word": "apparatus criticus"}, {"id": "4991", "link": "/find?type=1&query=apparatus+room", "word": "apparatus room"}], "data": {"word": "apparat", "id": "4991", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh ch\u1ea5t h\u00e0nh ch\u00ednh quan li\u00eau</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1143", "link": "/find?type=3&query=apparatchik", "word": "apparatchik"}, {"id": "1144", "link": "/find?type=3&query=apparatus", "word": "apparatus"}], "data": {}}, "synonyms": {"suggests": [{"id": "279", "link": "/find?type=4&query=apparatus", "word": "apparatus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1143",
+                "link": "/find?type=3&query=apparatchik",
+                "word": "apparatchik"
+            },
+            {
+                "id": "1144",
+                "link": "/find?type=3&query=apparatus",
+                "word": "apparatus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh ch\u1ea5t h\u00e0nh ch\u00ednh quan li\u00eau</div>",
+            "id": "4991",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "apparat"
+        },
+        "suggests": [
+            {
+                "id": "4991",
+                "link": "/find?type=1&query=apparatchik",
+                "word": "apparatchik"
+            },
+            {
+                "id": "4991",
+                "link": "/find?type=1&query=apparatus",
+                "word": "apparatus"
+            },
+            {
+                "id": "4991",
+                "link": "/find?type=1&query=apparatus+criticus",
+                "word": "apparatus criticus"
+            },
+            {
+                "id": "4991",
+                "link": "/find?type=1&query=apparatus+room",
+                "word": "apparatus room"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "279",
+                "link": "/find?type=4&query=apparatus",
+                "word": "apparatus"
+            }
+        ]
+    }
+}

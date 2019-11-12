@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "12657", "link": "/find?type=1&query=camper", "word": "camper"}, {"id": "12658", "link": "/find?type=1&query=campestral", "word": "campestral"}], "data": {}}, "en_en": {"suggests": [{"id": "3958", "link": "/find?type=3&query=camper", "word": "camper"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3958",
+                "link": "/find?type=3&query=camper",
+                "word": "camper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12657",
+                "link": "/find?type=1&query=camper",
+                "word": "camper"
+            },
+            {
+                "id": "12658",
+                "link": "/find?type=1&query=campestral",
+                "word": "campestral"
+            }
+        ]
+    }
+}

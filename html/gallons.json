@@ -1,1 +1,44 @@
-{"error": 0, "query": "gallons", "enViData": {"suggests": [{"id": "38822", "link": "/find?type=1&query=gallon-degree", "word": "gallon-degree"}, {"id": "38822", "link": "/find?type=1&query=gallonage", "word": "gallonage"}, {"id": "38822", "link": "/find?type=1&query=galloned", "word": "galloned"}], "best": {"id": "38822", "details": "\n<div id=\"find_word_38822\" class=\"world word_en\" rel=\"gallon\">\n    <h2 class=\"fl\">gallon <span class=\"color-black\">/'g\u00e6l\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38822\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38822\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ga-l\u00f4ng (\u0111\u01a1n v\u1ecb \u0111o l\u01b0\u1eddng ch\u1ea5t l\u1ecfng, b\u1eb1ng 4,5 l\u00edt)</div>\n    \n</div>\n", "link": "/find?type=1&query=gallon", "word": "gallon"}}, "mUrl": "/find?type=1&query=gallons", "enEnData": {"suggests": [], "best": {"id": "11753", "details": "\n<div id=\"find_word_11753\" class=\"world word_en\" rel=\"gallon\">\n    <h2 class=\"fl\">gallon <span class=\"color-black\">/\u02c8g\u00e6l\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11753\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11753\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US :a unit of liquid measurement equal to four U.S. quarts or 3.785 liters</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :a unit of liquid measurement equal to four British quarts or 4.546 liters</div>\n    \n</div>\n", "link": "/find?type=3&query=gallon", "word": "gallon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US :a unit of liquid measurement equal to four U.S. quarts or 3.785 liters</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :a unit of liquid measurement equal to four British quarts or 4.546 liters</div>",
+            "id": "11753",
+            "mean": [],
+            "pronounce": "/\u02c8g\u00e6l\u0259n/",
+            "type": "noun",
+            "word": "gallon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ga-l\u00f4ng (\u0111\u01a1n v\u1ecb \u0111o l\u01b0\u1eddng ch\u1ea5t l\u1ecfng, b\u1eb1ng 4,5 l\u00edt)</div>",
+            "id": "38822",
+            "mean": [],
+            "pronounce": "/'g\u00e6l\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c3d2a7aa173af7f4a0b26e0c610ea5f7/16e60c22817/G/gallon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7e454c299bacbe1b06dc066417238a63/16e60c22014/G/gallon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gallon"
+        },
+        "suggests": [
+            {
+                "id": "38822",
+                "link": "/find?type=1&query=gallon-degree",
+                "word": "gallon-degree"
+            },
+            {
+                "id": "38822",
+                "link": "/find?type=1&query=gallonage",
+                "word": "gallonage"
+            },
+            {
+                "id": "38822",
+                "link": "/find?type=1&query=galloned",
+                "word": "galloned"
+            }
+        ]
+    }
+}

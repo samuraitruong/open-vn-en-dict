@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "31416", "link": "/find?type=1&query=epistolarian", "word": "epistolarian"}, {"id": "31417", "link": "/find?type=1&query=epistolary", "word": "epistolary"}], "data": {}}, "en_en": {"suggests": [{"id": "9683", "link": "/find?type=3&query=epistolary", "word": "epistolary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9683",
+                "link": "/find?type=3&query=epistolary",
+                "word": "epistolary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31416",
+                "link": "/find?type=1&query=epistolarian",
+                "word": "epistolarian"
+            },
+            {
+                "id": "31417",
+                "link": "/find?type=1&query=epistolary",
+                "word": "epistolary"
+            }
+        ]
+    }
+}

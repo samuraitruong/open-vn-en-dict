@@ -1,1 +1,22 @@
-{"error": 0, "query": "gerb", "enViData": {"suggests": [{"id": "39735", "link": "/find?type=1&query=gerbil", "word": "gerbil"}]}, "mUrl": "/find?type=1&query=gerb", "enEnData": {"suggests": [{"id": "11999", "link": "/find?type=3&query=gerbil", "word": "gerbil"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11999",
+                "link": "/find?type=3&query=gerbil",
+                "word": "gerbil"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39735",
+                "link": "/find?type=1&query=gerbil",
+                "word": "gerbil"
+            }
+        ]
+    }
+}

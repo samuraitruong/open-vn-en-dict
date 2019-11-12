@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "30668", "link": "/find?type=1&query=enfranchise", "word": "enfranchise"}, {"id": "30669", "link": "/find?type=1&query=enfranchisement", "word": "enfranchisement"}, {"id": "30670", "link": "/find?type=1&query=Enfranchisement+of+the+nomenklatura", "word": "Enfranchisement of the nomenklatura"}], "data": {}}, "en_en": {"suggests": [{"id": "9552", "link": "/find?type=3&query=enfranchise", "word": "enfranchise"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9552",
+                "link": "/find?type=3&query=enfranchise",
+                "word": "enfranchise"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30668",
+                "link": "/find?type=1&query=enfranchise",
+                "word": "enfranchise"
+            },
+            {
+                "id": "30669",
+                "link": "/find?type=1&query=enfranchisement",
+                "word": "enfranchisement"
+            },
+            {
+                "id": "30670",
+                "link": "/find?type=1&query=Enfranchisement+of+the+nomenklatura",
+                "word": "Enfranchisement of the nomenklatura"
+            }
+        ]
+    }
+}

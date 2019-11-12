@@ -1,1 +1,142 @@
-{"error": 0, "query": "hab", "enViData": {"suggests": [{"id": "42231", "link": "/find?type=1&query=habanera", "word": "habanera"}, {"id": "42232", "link": "/find?type=1&query=habdalah", "word": "habdalah"}, {"id": "42233", "link": "/find?type=1&query=habeas+corpus", "word": "habeas corpus"}, {"id": "42234", "link": "/find?type=1&query=haberdasher", "word": "haberdasher"}, {"id": "42235", "link": "/find?type=1&query=haberdashery", "word": "haberdashery"}, {"id": "42236", "link": "/find?type=1&query=habergeon", "word": "habergeon"}, {"id": "42237", "link": "/find?type=1&query=Haberler%2C+Gottfried", "word": "Haberler, Gottfried"}, {"id": "42238", "link": "/find?type=1&query=habile", "word": "habile"}, {"id": "42239", "link": "/find?type=1&query=habiliment", "word": "habiliment"}, {"id": "42240", "link": "/find?type=1&query=habilitate", "word": "habilitate"}]}, "mUrl": "/find?type=1&query=hab", "enEnData": {"suggests": [{"id": "12843", "link": "/find?type=3&query=habeas+corpus", "word": "habeas corpus"}, {"id": "12844", "link": "/find?type=3&query=haberdasher", "word": "haberdasher"}, {"id": "12845", "link": "/find?type=3&query=haberdashery", "word": "haberdashery"}, {"id": "12846", "link": "/find?type=3&query=habit", "word": "habit"}, {"id": "12847", "link": "/find?type=3&query=habitable", "word": "habitable"}, {"id": "12848", "link": "/find?type=3&query=habitat", "word": "habitat"}, {"id": "12849", "link": "/find?type=3&query=habitation", "word": "habitation"}, {"id": "12850", "link": "/find?type=3&query=habit-forming", "word": "habit-forming"}, {"id": "12851", "link": "/find?type=3&query=habitual", "word": "habitual"}, {"id": "12852", "link": "/find?type=3&query=habituate", "word": "habituate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3161", "link": "/find?type=4&query=habit", "word": "habit"}, {"id": "3162", "link": "/find?type=4&query=habitable", "word": "habitable"}, {"id": "3163", "link": "/find?type=4&query=habitat", "word": "habitat"}, {"id": "3164", "link": "/find?type=4&query=habitu%E2%80%9A", "word": "habitu\u201a"}, {"id": "3165", "link": "/find?type=4&query=habitual", "word": "habitual"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12843",
+                "link": "/find?type=3&query=habeas+corpus",
+                "word": "habeas corpus"
+            },
+            {
+                "id": "12844",
+                "link": "/find?type=3&query=haberdasher",
+                "word": "haberdasher"
+            },
+            {
+                "id": "12845",
+                "link": "/find?type=3&query=haberdashery",
+                "word": "haberdashery"
+            },
+            {
+                "id": "12846",
+                "link": "/find?type=3&query=habit",
+                "word": "habit"
+            },
+            {
+                "id": "12847",
+                "link": "/find?type=3&query=habitable",
+                "word": "habitable"
+            },
+            {
+                "id": "12848",
+                "link": "/find?type=3&query=habitat",
+                "word": "habitat"
+            },
+            {
+                "id": "12849",
+                "link": "/find?type=3&query=habitation",
+                "word": "habitation"
+            },
+            {
+                "id": "12850",
+                "link": "/find?type=3&query=habit-forming",
+                "word": "habit-forming"
+            },
+            {
+                "id": "12851",
+                "link": "/find?type=3&query=habitual",
+                "word": "habitual"
+            },
+            {
+                "id": "12852",
+                "link": "/find?type=3&query=habituate",
+                "word": "habituate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42231",
+                "link": "/find?type=1&query=habanera",
+                "word": "habanera"
+            },
+            {
+                "id": "42232",
+                "link": "/find?type=1&query=habdalah",
+                "word": "habdalah"
+            },
+            {
+                "id": "42233",
+                "link": "/find?type=1&query=habeas+corpus",
+                "word": "habeas corpus"
+            },
+            {
+                "id": "42234",
+                "link": "/find?type=1&query=haberdasher",
+                "word": "haberdasher"
+            },
+            {
+                "id": "42235",
+                "link": "/find?type=1&query=haberdashery",
+                "word": "haberdashery"
+            },
+            {
+                "id": "42236",
+                "link": "/find?type=1&query=habergeon",
+                "word": "habergeon"
+            },
+            {
+                "id": "42237",
+                "link": "/find?type=1&query=Haberler%2C+Gottfried",
+                "word": "Haberler, Gottfried"
+            },
+            {
+                "id": "42238",
+                "link": "/find?type=1&query=habile",
+                "word": "habile"
+            },
+            {
+                "id": "42239",
+                "link": "/find?type=1&query=habiliment",
+                "word": "habiliment"
+            },
+            {
+                "id": "42240",
+                "link": "/find?type=1&query=habilitate",
+                "word": "habilitate"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3161",
+                "link": "/find?type=4&query=habit",
+                "word": "habit"
+            },
+            {
+                "id": "3162",
+                "link": "/find?type=4&query=habitable",
+                "word": "habitable"
+            },
+            {
+                "id": "3163",
+                "link": "/find?type=4&query=habitat",
+                "word": "habitat"
+            },
+            {
+                "id": "3164",
+                "link": "/find?type=4&query=habitu%E2%80%9A",
+                "word": "habitu\u201a"
+            },
+            {
+                "id": "3165",
+                "link": "/find?type=4&query=habitual",
+                "word": "habitual"
+            }
+        ]
+    }
+}

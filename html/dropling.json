@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27802", "link": "/find?type=1&query=droplet", "word": "droplet"}], "data": {}}, "en_en": {"suggests": [{"id": "8897", "link": "/find?type=3&query=droplet", "word": "droplet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8897",
+                "link": "/find?type=3&query=droplet",
+                "word": "droplet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27802",
+                "link": "/find?type=1&query=droplet",
+                "word": "droplet"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "9610", "link": "/find?type=1&query=blabber", "word": "blabber"}, {"id": "9611", "link": "/find?type=1&query=blabbermouth", "word": "blabbermouth"}], "data": {}}, "en_en": {"suggests": [{"id": "2715", "link": "/find?type=3&query=blabbermouth", "word": "blabbermouth"}], "data": {}}, "synonyms": {"suggests": [{"id": "555", "link": "/find?type=4&query=blabbermouth", "word": "blabbermouth"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2715",
+                "link": "/find?type=3&query=blabbermouth",
+                "word": "blabbermouth"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9610",
+                "link": "/find?type=1&query=blabber",
+                "word": "blabber"
+            },
+            {
+                "id": "9611",
+                "link": "/find?type=1&query=blabbermouth",
+                "word": "blabbermouth"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "555",
+                "link": "/find?type=4&query=blabbermouth",
+                "word": "blabbermouth"
+            }
+        ]
+    }
+}

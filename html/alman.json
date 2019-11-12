@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2741", "link": "/find?type=1&query=almanac", "word": "almanac"}, {"id": "2742", "link": "/find?type=1&query=almanack", "word": "almanack"}, {"id": "2743", "link": "/find?type=1&query=almandine", "word": "almandine"}], "data": {}}, "en_en": {"suggests": [{"id": "728", "link": "/find?type=3&query=almanac", "word": "almanac"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "728",
+                "link": "/find?type=3&query=almanac",
+                "word": "almanac"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2741",
+                "link": "/find?type=1&query=almanac",
+                "word": "almanac"
+            },
+            {
+                "id": "2742",
+                "link": "/find?type=1&query=almanack",
+                "word": "almanack"
+            },
+            {
+                "id": "2743",
+                "link": "/find?type=1&query=almandine",
+                "word": "almandine"
+            }
+        ]
+    }
+}

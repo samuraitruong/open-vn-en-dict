@@ -1,1 +1,53 @@
-{"en_vn": {"suggests": [{"id": "15328", "link": "/find?type=1&query=chubbily", "word": "chubbily"}, {"id": "15328", "link": "/find?type=1&query=chubbiness", "word": "chubbiness"}, {"id": "15328", "link": "/find?type=1&query=chubby", "word": "chubby"}], "data": {"word": "chub", "id": "15328", "pronounce": "/'t\u222b\u028cb/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i) (\u0111\u1ed9ng v\u1eadt) c\u00e1 l\u01b0\u1edbi (h\u1ecd c\u00e1 ch\u00e9p)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/feb2d478991f143d881e2d318fb62f93/16e5deb2271/C/chub.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cbbea2cabf613e90dcfdae85eb63d04d/16e5deb2836/C/chub.mp3"}}}, "en_en": {"suggests": [{"id": "4933", "link": "/find?type=3&query=chubby", "word": "chubby"}], "data": {}}, "synonyms": {"suggests": [{"id": "1001", "link": "/find?type=4&query=chubby", "word": "chubby"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4933",
+                "link": "/find?type=3&query=chubby",
+                "word": "chubby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i) (\u0111\u1ed9ng v\u1eadt) c\u00e1 l\u01b0\u1edbi (h\u1ecd c\u00e1 ch\u00e9p)</div>",
+            "id": "15328",
+            "mean": [],
+            "pronounce": "/'t\u222b\u028cb/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1a7a7544784aed722c4852325de9a7e3/16e5ecb8c8d/C/chub.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ee60116905919f068e99c4a1546cc83d/16e5ecb8744/C/chub.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "chub"
+        },
+        "suggests": [
+            {
+                "id": "15328",
+                "link": "/find?type=1&query=chubbily",
+                "word": "chubbily"
+            },
+            {
+                "id": "15328",
+                "link": "/find?type=1&query=chubbiness",
+                "word": "chubbiness"
+            },
+            {
+                "id": "15328",
+                "link": "/find?type=1&query=chubby",
+                "word": "chubby"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1001",
+                "link": "/find?type=4&query=chubby",
+                "word": "chubby"
+            }
+        ]
+    }
+}

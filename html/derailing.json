@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "24294", "link": "/find?type=1&query=derailment", "word": "derailment"}], "data": {"word": "derail", "id": "24294", "pronounce": "/di'reil/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m tr\u1eadt \u0111\u01b0\u1eddng ray (t\u00e0u h\u1ecfa)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/126e3b11adfaf037c191e82a5cada80a/16e5e044b19/D/derail.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/73e2a4fdd7b0934d95889b4dc1f9a5bc/16e5e0450cd/D/derail.mp3"}}}, "en_en": {"suggests": [{"id": "7721", "link": "/find?type=3&query=derailleur", "word": "derailleur"}], "data": {"word": "derail", "id": "7721", "pronounce": "/d\u026a\u02c8re\u026al/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-rails; -railed; -railing</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] of a train :to leave its tracks</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The train derailed in heavy snow.</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to cause (a train) to leave its tracks</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The train was derailed by heavy snow. - often used figuratively</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His plans for becoming a professional football player were derailed [=ruined] by several injuries in college.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The incident threatened to derail her career.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-rails; -railed; -railing</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] of a train :to leave its tracks</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The train derailed in heavy snow.</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to cause (a train) to leave its tracks</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The train was derailed by heavy snow. - often used figuratively</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His plans for becoming a professional football player were derailed [=ruined] by several injuries in college.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The incident threatened to derail her career.</div>",
+            "id": "7721",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8re\u026al/",
+            "type": "verb",
+            "word": "derail"
+        },
+        "suggests": [
+            {
+                "id": "7721",
+                "link": "/find?type=3&query=derailleur",
+                "word": "derailleur"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m tr\u1eadt \u0111\u01b0\u1eddng ray (t\u00e0u h\u1ecfa)</div>",
+            "id": "24294",
+            "mean": [],
+            "pronounce": "/di'reil/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1645180da574f329eb82820b532a2d33/16e5eecf310/D/derail.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5bec613829e1539a62985633a743c339/16e5eece98a/D/derail.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "derail"
+        },
+        "suggests": [
+            {
+                "id": "24294",
+                "link": "/find?type=1&query=derailment",
+                "word": "derailment"
+            }
+        ]
+    }
+}

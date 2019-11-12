@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "10902", "link": "/find?type=1&query=brahman", "word": "brahman"}, {"id": "10903", "link": "/find?type=1&query=brahmanism", "word": "brahmanism"}], "data": {}}, "en_en": {"suggests": [{"id": "3302", "link": "/find?type=3&query=Brahman", "word": "Brahman"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3302",
+                "link": "/find?type=3&query=Brahman",
+                "word": "Brahman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10902",
+                "link": "/find?type=1&query=brahman",
+                "word": "brahman"
+            },
+            {
+                "id": "10903",
+                "link": "/find?type=1&query=brahmanism",
+                "word": "brahmanism"
+            }
+        ]
+    }
+}

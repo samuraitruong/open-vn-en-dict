@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "7924", "link": "/find?type=1&query=balun", "word": "balun"}, {"id": "7925", "link": "/find?type=1&query=baluster", "word": "baluster"}, {"id": "7926", "link": "/find?type=1&query=balustrade", "word": "balustrade"}], "data": {}}, "en_en": {"suggests": [{"id": "1958", "link": "/find?type=3&query=baluster", "word": "baluster"}, {"id": "1959", "link": "/find?type=3&query=balustrade", "word": "balustrade"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1958",
+                "link": "/find?type=3&query=baluster",
+                "word": "baluster"
+            },
+            {
+                "id": "1959",
+                "link": "/find?type=3&query=balustrade",
+                "word": "balustrade"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7924",
+                "link": "/find?type=1&query=balun",
+                "word": "balun"
+            },
+            {
+                "id": "7925",
+                "link": "/find?type=1&query=baluster",
+                "word": "baluster"
+            },
+            {
+                "id": "7926",
+                "link": "/find?type=1&query=balustrade",
+                "word": "balustrade"
+            }
+        ]
+    }
+}

@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "19600", "link": "/find?type=1&query=cooperage", "word": "cooperage"}, {"id": "19600", "link": "/find?type=1&query=coopery", "word": "coopery"}], "data": {"word": "cooper", "id": "19600", "pronounce": "/'ku:p\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 \u0111\u00f3ng th\u00f9ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/e8bab4a49cbb20c459a4fa6be2962f9b/16e5df6eb33/C/cooper.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b00606b4d72c54a8af6b87bb927642de/16e5df6f121/C/cooper.mp3"}}}, "en_en": {"suggests": [{"id": "6249", "link": "/find?type=3&query=cooperate", "word": "cooperate"}, {"id": "6249", "link": "/find?type=3&query=cooperation", "word": "cooperation"}, {"id": "6249", "link": "/find?type=3&query=cooperative", "word": "cooperative"}], "data": {"word": "cooper", "id": "6249", "pronounce": "/\u02c8ku\u02d0p\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -pers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who makes or repairs wooden casks or barrels</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1259", "link": "/find?type=4&query=cooperate", "word": "cooperate"}, {"id": "1260", "link": "/find?type=4&query=cooperation", "word": "cooperation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -pers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who makes or repairs wooden casks or barrels</div>",
+            "id": "6249",
+            "mean": [],
+            "pronounce": "/\u02c8ku\u02d0p\u025a/",
+            "type": "noun",
+            "word": "cooper"
+        },
+        "suggests": [
+            {
+                "id": "6249",
+                "link": "/find?type=3&query=cooperate",
+                "word": "cooperate"
+            },
+            {
+                "id": "6249",
+                "link": "/find?type=3&query=cooperation",
+                "word": "cooperation"
+            },
+            {
+                "id": "6249",
+                "link": "/find?type=3&query=cooperative",
+                "word": "cooperative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 \u0111\u00f3ng th\u00f9ng</div>",
+            "id": "19600",
+            "mean": [],
+            "pronounce": "/'ku:p\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/54b8cfa08757aa8b9e99e5c54f100ef9/16e5eda9526/C/cooper.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4d85dff2f36b8594270c0e8fa1752f42/16e5eda8bdc/C/cooper.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cooper"
+        },
+        "suggests": [
+            {
+                "id": "19600",
+                "link": "/find?type=1&query=cooperage",
+                "word": "cooperage"
+            },
+            {
+                "id": "19600",
+                "link": "/find?type=1&query=coopery",
+                "word": "coopery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1259",
+                "link": "/find?type=4&query=cooperate",
+                "word": "cooperate"
+            },
+            {
+                "id": "1260",
+                "link": "/find?type=4&query=cooperation",
+                "word": "cooperation"
+            }
+        ]
+    }
+}

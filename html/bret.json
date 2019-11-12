@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "11167", "link": "/find?type=1&query=brethren", "word": "brethren"}, {"id": "11168", "link": "/find?type=1&query=Bretton+Woods", "word": "Bretton Woods"}, {"id": "11169", "link": "/find?type=1&query=Bretton+Woods+system", "word": "Bretton Woods system"}], "data": {}}, "en_en": {"suggests": [{"id": "3405", "link": "/find?type=3&query=brethren", "word": "brethren"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3405",
+                "link": "/find?type=3&query=brethren",
+                "word": "brethren"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11167",
+                "link": "/find?type=1&query=brethren",
+                "word": "brethren"
+            },
+            {
+                "id": "11168",
+                "link": "/find?type=1&query=Bretton+Woods",
+                "word": "Bretton Woods"
+            },
+            {
+                "id": "11169",
+                "link": "/find?type=1&query=Bretton+Woods+system",
+                "word": "Bretton Woods system"
+            }
+        ]
+    }
+}

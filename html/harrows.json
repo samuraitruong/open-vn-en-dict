@@ -1,1 +1,43 @@
-{"error": 0, "query": "harrows", "enViData": {"suggests": [{"id": "42921", "link": "/find?type=1&query=harrowing", "word": "harrowing"}], "best": {"id": "42921", "details": "\n<div id=\"find_word_42921\" class=\"world word_en\" rel=\"harrow\">\n    <h2 class=\"fl\">harrow <span class=\"color-black\">/'h\u00e6r\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42921\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42921\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i b\u1eeba</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1eeba (ru\u1ed9ng\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m (ai) \u0111au kh\u1ed5</div>\n    \n</div>\n", "link": "/find?type=1&query=harrow", "word": "harrow"}}, "mUrl": "/find?type=1&query=harrows", "enEnData": {"suggests": [{"id": "13136", "link": "/find?type=3&query=harrowing", "word": "harrowing"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3223", "link": "/find?type=4&query=harrowing", "word": "harrowing"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13136",
+                "link": "/find?type=3&query=harrowing",
+                "word": "harrowing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i b\u1eeba</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1eeba (ru\u1ed9ng\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m (ai) \u0111au kh\u1ed5</div>",
+            "id": "42921",
+            "mean": [],
+            "pronounce": "/'h\u00e6r\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4aa74959210a49d1e5223d835fc41d0a/16e616a577d/H/harrow.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7c6c9e51cd43dba0931118ffca049357/16e616a4f63/H/harrow.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "harrow"
+        },
+        "suggests": [
+            {
+                "id": "42921",
+                "link": "/find?type=1&query=harrowing",
+                "word": "harrowing"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3223",
+                "link": "/find?type=4&query=harrowing",
+                "word": "harrowing"
+            }
+        ]
+    }
+}

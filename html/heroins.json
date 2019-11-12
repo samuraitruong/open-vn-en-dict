@@ -1,1 +1,50 @@
-{"error": 0, "query": "heroins", "enViData": {"suggests": [{"id": "43722", "link": "/find?type=1&query=heroine", "word": "heroine"}], "best": {"id": "43722", "details": "\n<div id=\"find_word_43722\" class=\"world word_en\" rel=\"heroin\">\n    <h2 class=\"fl\">heroin <span class=\"color-black\">/'her\u0259\u028ain/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43722\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43722\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(d\u01b0\u1ee3c) h\u00ear\u00f4in</div>\n    \n</div>\n", "link": "/find?type=1&query=heroin", "word": "heroin"}}, "mUrl": "/find?type=1&query=heroins", "enEnData": {"suggests": [{"id": "13474", "link": "/find?type=3&query=heroine", "word": "heroine"}], "best": {"id": "13474", "details": "\n<div id=\"find_word_13474\" class=\"world word_en\" rel=\"heroin\">\n    <h2 class=\"fl\">heroin <span class=\"color-black\">/\u02c8her\u0259w\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13474\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13474\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a powerful illegal drug that is made from morphine</div>\n    \n</div>\n", "link": "/find?type=3&query=heroin", "word": "heroin"}}, "ftype": "1", "synData": {"suggests": [{"id": "3295", "link": "/find?type=4&query=heroine", "word": "heroine"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a powerful illegal drug that is made from morphine</div>",
+            "id": "13474",
+            "mean": [],
+            "pronounce": "/\u02c8her\u0259w\u0259n/",
+            "type": "noun",
+            "word": "heroin"
+        },
+        "suggests": [
+            {
+                "id": "13474",
+                "link": "/find?type=3&query=heroine",
+                "word": "heroine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(d\u01b0\u1ee3c) h\u00ear\u00f4in</div>",
+            "id": "43722",
+            "mean": [],
+            "pronounce": "/'her\u0259\u028ain/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/85bdf08b8bf75502bd42547d19be8bd2/16e6192b71e/H/heroin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2b784d5863c04a214f629de46d85f928/16e6192af1d/H/heroin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "heroin"
+        },
+        "suggests": [
+            {
+                "id": "43722",
+                "link": "/find?type=1&query=heroine",
+                "word": "heroine"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3295",
+                "link": "/find?type=4&query=heroine",
+                "word": "heroine"
+            }
+        ]
+    }
+}

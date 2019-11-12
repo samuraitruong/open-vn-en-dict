@@ -1,1 +1,95 @@
-{"en_vn": {"suggests": [{"id": "31129", "link": "/find?type=1&query=environment", "word": "environment"}, {"id": "31129", "link": "/find?type=1&query=environment+variable", "word": "environment variable"}, {"id": "31129", "link": "/find?type=1&query=environmental", "word": "environmental"}, {"id": "31129", "link": "/find?type=1&query=Environmental+conditions", "word": "Environmental conditions"}, {"id": "31129", "link": "/find?type=1&query=Environmental+determinism", "word": "Environmental determinism"}, {"id": "31129", "link": "/find?type=1&query=Environmental+impact+analysis", "word": "Environmental impact analysis"}, {"id": "31129", "link": "/find?type=1&query=environmental+requirement", "word": "environmental requirement"}, {"id": "31129", "link": "/find?type=1&query=environmentalism", "word": "environmentalism"}, {"id": "31129", "link": "/find?type=1&query=environmentalist", "word": "environmentalist"}], "data": {"word": "environ", "id": "31129", "pronounce": "/in'vai\u0259r\u0259n/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bao v\u00e2y, v\u00e2y quanh, bao v\u00e2y</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9653", "link": "/find?type=3&query=environment", "word": "environment"}, {"id": "9654", "link": "/find?type=3&query=environmentalist", "word": "environmentalist"}, {"id": "9655", "link": "/find?type=3&query=environs", "word": "environs"}], "data": {}}, "synonyms": {"suggests": [{"id": "2215", "link": "/find?type=4&query=environment", "word": "environment"}, {"id": "2216", "link": "/find?type=4&query=environmentalist", "word": "environmentalist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9653",
+                "link": "/find?type=3&query=environment",
+                "word": "environment"
+            },
+            {
+                "id": "9654",
+                "link": "/find?type=3&query=environmentalist",
+                "word": "environmentalist"
+            },
+            {
+                "id": "9655",
+                "link": "/find?type=3&query=environs",
+                "word": "environs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bao v\u00e2y, v\u00e2y quanh, bao v\u00e2y</div>",
+            "id": "31129",
+            "mean": [],
+            "pronounce": "/in'vai\u0259r\u0259n/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "environ"
+        },
+        "suggests": [
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=environment",
+                "word": "environment"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=environment+variable",
+                "word": "environment variable"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=environmental",
+                "word": "environmental"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=Environmental+conditions",
+                "word": "Environmental conditions"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=Environmental+determinism",
+                "word": "Environmental determinism"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=Environmental+impact+analysis",
+                "word": "Environmental impact analysis"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=environmental+requirement",
+                "word": "environmental requirement"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=environmentalism",
+                "word": "environmentalism"
+            },
+            {
+                "id": "31129",
+                "link": "/find?type=1&query=environmentalist",
+                "word": "environmentalist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2215",
+                "link": "/find?type=4&query=environment",
+                "word": "environment"
+            },
+            {
+                "id": "2216",
+                "link": "/find?type=4&query=environmentalist",
+                "word": "environmentalist"
+            }
+        ]
+    }
+}

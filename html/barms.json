@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "8190", "link": "/find?type=1&query=barmaid", "word": "barmaid"}, {"id": "8190", "link": "/find?type=1&query=barman", "word": "barman"}, {"id": "8190", "link": "/find?type=1&query=barmecidal", "word": "barmecidal"}, {"id": "8190", "link": "/find?type=1&query=barmy", "word": "barmy"}], "data": {"word": "barm", "id": "8190", "pronounce": "/b\u0251:m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">men (r\u01b0\u1ee3u)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2074", "link": "/find?type=3&query=barmaid", "word": "barmaid"}, {"id": "2075", "link": "/find?type=3&query=barman", "word": "barman"}, {"id": "2076", "link": "/find?type=3&query=barmy", "word": "barmy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2074",
+                "link": "/find?type=3&query=barmaid",
+                "word": "barmaid"
+            },
+            {
+                "id": "2075",
+                "link": "/find?type=3&query=barman",
+                "word": "barman"
+            },
+            {
+                "id": "2076",
+                "link": "/find?type=3&query=barmy",
+                "word": "barmy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">men (r\u01b0\u1ee3u)</div>",
+            "id": "8190",
+            "mean": [],
+            "pronounce": "/b\u0251:m/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "barm"
+        },
+        "suggests": [
+            {
+                "id": "8190",
+                "link": "/find?type=1&query=barmaid",
+                "word": "barmaid"
+            },
+            {
+                "id": "8190",
+                "link": "/find?type=1&query=barman",
+                "word": "barman"
+            },
+            {
+                "id": "8190",
+                "link": "/find?type=1&query=barmecidal",
+                "word": "barmecidal"
+            },
+            {
+                "id": "8190",
+                "link": "/find?type=1&query=barmy",
+                "word": "barmy"
+            }
+        ]
+    }
+}

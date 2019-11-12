@@ -1,1 +1,127 @@
-{"en_vn": {"suggests": [{"id": "8464", "link": "/find?type=1&query=battalion", "word": "battalion"}, {"id": "8465", "link": "/find?type=1&query=batten", "word": "batten"}, {"id": "8466", "link": "/find?type=1&query=batter", "word": "batter"}, {"id": "8467", "link": "/find?type=1&query=battered", "word": "battered"}, {"id": "8468", "link": "/find?type=1&query=battering-ram", "word": "battering-ram"}, {"id": "8469", "link": "/find?type=1&query=battery", "word": "battery"}, {"id": "8470", "link": "/find?type=1&query=battery+farm", "word": "battery farm"}, {"id": "8471", "link": "/find?type=1&query=battiness", "word": "battiness"}, {"id": "8472", "link": "/find?type=1&query=batting", "word": "batting"}, {"id": "8473", "link": "/find?type=1&query=battle", "word": "battle"}], "data": {}}, "en_en": {"suggests": [{"id": "2177", "link": "/find?type=3&query=battalion", "word": "battalion"}, {"id": "2178", "link": "/find?type=3&query=batten", "word": "batten"}, {"id": "2179", "link": "/find?type=3&query=batter", "word": "batter"}, {"id": "2180", "link": "/find?type=3&query=battered", "word": "battered"}, {"id": "2181", "link": "/find?type=3&query=battering", "word": "battering"}, {"id": "2182", "link": "/find?type=3&query=battering+ram", "word": "battering ram"}, {"id": "2183", "link": "/find?type=3&query=battery", "word": "battery"}, {"id": "2184", "link": "/find?type=3&query=batting+average", "word": "batting average"}, {"id": "2185", "link": "/find?type=3&query=battle", "word": "battle"}, {"id": "2186", "link": "/find?type=3&query=battle+cruiser", "word": "battle cruiser"}], "data": {}}, "synonyms": {"suggests": [{"id": "448", "link": "/find?type=4&query=batter", "word": "batter"}, {"id": "449", "link": "/find?type=4&query=battle", "word": "battle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2177",
+                "link": "/find?type=3&query=battalion",
+                "word": "battalion"
+            },
+            {
+                "id": "2178",
+                "link": "/find?type=3&query=batten",
+                "word": "batten"
+            },
+            {
+                "id": "2179",
+                "link": "/find?type=3&query=batter",
+                "word": "batter"
+            },
+            {
+                "id": "2180",
+                "link": "/find?type=3&query=battered",
+                "word": "battered"
+            },
+            {
+                "id": "2181",
+                "link": "/find?type=3&query=battering",
+                "word": "battering"
+            },
+            {
+                "id": "2182",
+                "link": "/find?type=3&query=battering+ram",
+                "word": "battering ram"
+            },
+            {
+                "id": "2183",
+                "link": "/find?type=3&query=battery",
+                "word": "battery"
+            },
+            {
+                "id": "2184",
+                "link": "/find?type=3&query=batting+average",
+                "word": "batting average"
+            },
+            {
+                "id": "2185",
+                "link": "/find?type=3&query=battle",
+                "word": "battle"
+            },
+            {
+                "id": "2186",
+                "link": "/find?type=3&query=battle+cruiser",
+                "word": "battle cruiser"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8464",
+                "link": "/find?type=1&query=battalion",
+                "word": "battalion"
+            },
+            {
+                "id": "8465",
+                "link": "/find?type=1&query=batten",
+                "word": "batten"
+            },
+            {
+                "id": "8466",
+                "link": "/find?type=1&query=batter",
+                "word": "batter"
+            },
+            {
+                "id": "8467",
+                "link": "/find?type=1&query=battered",
+                "word": "battered"
+            },
+            {
+                "id": "8468",
+                "link": "/find?type=1&query=battering-ram",
+                "word": "battering-ram"
+            },
+            {
+                "id": "8469",
+                "link": "/find?type=1&query=battery",
+                "word": "battery"
+            },
+            {
+                "id": "8470",
+                "link": "/find?type=1&query=battery+farm",
+                "word": "battery farm"
+            },
+            {
+                "id": "8471",
+                "link": "/find?type=1&query=battiness",
+                "word": "battiness"
+            },
+            {
+                "id": "8472",
+                "link": "/find?type=1&query=batting",
+                "word": "batting"
+            },
+            {
+                "id": "8473",
+                "link": "/find?type=1&query=battle",
+                "word": "battle"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "448",
+                "link": "/find?type=4&query=batter",
+                "word": "batter"
+            },
+            {
+                "id": "449",
+                "link": "/find?type=4&query=battle",
+                "word": "battle"
+            }
+        ]
+    }
+}

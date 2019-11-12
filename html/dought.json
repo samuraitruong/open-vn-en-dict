@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "27369", "link": "/find?type=1&query=doughtiness", "word": "doughtiness"}, {"id": "27370", "link": "/find?type=1&query=doughty", "word": "doughty"}], "data": {}}, "en_en": {"suggests": [{"id": "8678", "link": "/find?type=3&query=doughty", "word": "doughty"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8678",
+                "link": "/find?type=3&query=doughty",
+                "word": "doughty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27369",
+                "link": "/find?type=1&query=doughtiness",
+                "word": "doughtiness"
+            },
+            {
+                "id": "27370",
+                "link": "/find?type=1&query=doughty",
+                "word": "doughty"
+            }
+        ]
+    }
+}

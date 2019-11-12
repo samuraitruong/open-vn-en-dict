@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11049", "link": "/find?type=1&query=brazil-wood", "word": "brazil-wood"}], "data": {}}, "en_en": {"suggests": [{"id": "3351", "link": "/find?type=3&query=Brazil+nut", "word": "Brazil nut"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3351",
+                "link": "/find?type=3&query=Brazil+nut",
+                "word": "Brazil nut"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11049",
+                "link": "/find?type=1&query=brazil-wood",
+                "word": "brazil-wood"
+            }
+        ]
+    }
+}

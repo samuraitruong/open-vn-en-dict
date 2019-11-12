@@ -1,1 +1,50 @@
-{"error": 0, "query": "glim", "enViData": {"suggests": [{"id": "40217", "link": "/find?type=1&query=glimmer", "word": "glimmer"}, {"id": "40217", "link": "/find?type=1&query=glimmering", "word": "glimmering"}, {"id": "40217", "link": "/find?type=1&query=glimpse", "word": "glimpse"}], "best": {"id": "40217", "details": "\n<div id=\"find_word_40217\" class=\"world word_en\" rel=\"glim\">\n    <h2 class=\"fl\">glim <span class=\"color-black\">/glim/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40217\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40217\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb (t\u1eeb l\u00f3ng)</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1nh s\u00e1ng; \u0111\u00e8n, n\u1ebfn</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eaft</div>\n    \n</div>\n", "link": "/find?type=1&query=glim", "word": "glim"}}, "mUrl": "/find?type=1&query=glim", "enEnData": {"suggests": [{"id": "12148", "link": "/find?type=3&query=glimmer", "word": "glimmer"}, {"id": "12149", "link": "/find?type=3&query=glimmering", "word": "glimmering"}, {"id": "12150", "link": "/find?type=3&query=glimpse", "word": "glimpse"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12148",
+                "link": "/find?type=3&query=glimmer",
+                "word": "glimmer"
+            },
+            {
+                "id": "12149",
+                "link": "/find?type=3&query=glimmering",
+                "word": "glimmering"
+            },
+            {
+                "id": "12150",
+                "link": "/find?type=3&query=glimpse",
+                "word": "glimpse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb (t\u1eeb l\u00f3ng)</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1nh s\u00e1ng; \u0111\u00e8n, n\u1ebfn</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eaft</div>",
+            "id": "40217",
+            "mean": [],
+            "pronounce": "/glim/",
+            "speak": {},
+            "type": "Danh t\u1eeb (t\u1eeb l\u00f3ng)",
+            "word": "glim"
+        },
+        "suggests": [
+            {
+                "id": "40217",
+                "link": "/find?type=1&query=glimmer",
+                "word": "glimmer"
+            },
+            {
+                "id": "40217",
+                "link": "/find?type=1&query=glimmering",
+                "word": "glimmering"
+            },
+            {
+                "id": "40217",
+                "link": "/find?type=1&query=glimpse",
+                "word": "glimpse"
+            }
+        ]
+    }
+}

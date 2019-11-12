@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "6028", "link": "/find?type=1&query=assassinate", "word": "assassinate"}, {"id": "6028", "link": "/find?type=1&query=assassination", "word": "assassination"}, {"id": "6028", "link": "/find?type=1&query=assassinative", "word": "assassinative"}, {"id": "6028", "link": "/find?type=1&query=assassinator", "word": "assassinator"}], "data": {"word": "assassin", "id": "6028", "pronounce": "/\u0259's\u00e6sin/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb \u00e1m s\u00e1t</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/900218aeb3fd845a8f0e00716510339c/16e5dcb97f6/A/assassin.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/769def3bc7bbfa1d1b30e98054167f25/16e5dcb9d9a/A/assassin.mp3"}}}, "en_en": {"suggests": [{"id": "1459", "link": "/find?type=3&query=assassinate", "word": "assassinate"}], "data": {"word": "assassin", "id": "1459", "pronounce": "/\u0259\u02c8s\u00e6sn\u0329/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who kills someone (such as a famous or important person) usually for political reasons or for money :a person who assassinates someone</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's a hired assassin. [=someone hired to kill someone]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the President's would-be assassin [=the person who tried to kill the President]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">John Wilkes Booth was the assassin of Abraham Lincoln.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who kills someone (such as a famous or important person) usually for political reasons or for money :a person who assassinates someone</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's a hired assassin. [=someone hired to kill someone]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the President's would-be assassin [=the person who tried to kill the President]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">John Wilkes Booth was the assassin of Abraham Lincoln.</div>",
+            "id": "1459",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8s\u00e6sn\u0329/",
+            "type": "noun",
+            "word": "assassin"
+        },
+        "suggests": [
+            {
+                "id": "1459",
+                "link": "/find?type=3&query=assassinate",
+                "word": "assassinate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb \u00e1m s\u00e1t</div>",
+            "id": "6028",
+            "mean": [],
+            "pronounce": "/\u0259's\u00e6sin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/10e4650ba2e38a57a7c99a51399c76a8/16e5eaec750/A/assassin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d0a4cc77990dd99de68cae1d645f3567/16e5eaec1ad/A/assassin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "assassin"
+        },
+        "suggests": [
+            {
+                "id": "6028",
+                "link": "/find?type=1&query=assassinate",
+                "word": "assassinate"
+            },
+            {
+                "id": "6028",
+                "link": "/find?type=1&query=assassination",
+                "word": "assassination"
+            },
+            {
+                "id": "6028",
+                "link": "/find?type=1&query=assassinative",
+                "word": "assassinative"
+            },
+            {
+                "id": "6028",
+                "link": "/find?type=1&query=assassinator",
+                "word": "assassinator"
+            }
+        ]
+    }
+}

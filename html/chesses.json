@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "14778", "link": "/find?type=1&query=chess-board", "word": "chess-board"}, {"id": "14778", "link": "/find?type=1&query=chess-man", "word": "chess-man"}, {"id": "14778", "link": "/find?type=1&query=chess-player", "word": "chess-player"}, {"id": "14778", "link": "/find?type=1&query=chessboard", "word": "chessboard"}, {"id": "14778", "link": "/find?type=1&query=chessel", "word": "chessel"}, {"id": "14778", "link": "/find?type=1&query=chessman", "word": "chessman"}], "data": {"word": "chess", "id": "14778", "pronounce": "/t\u222bes/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to play [at] chess</div>\n    \n    <div class=\"margin25\">ch\u01a1i c\u1edd</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/844d4acabf15ddbbae233db110476daa/16e5de91722/C/chess.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5dff3078641a967e9b93e3615d21ca20/16e5de91cc8/C/chess.mp3"}}}, "en_en": {"suggests": [{"id": "4721", "link": "/find?type=3&query=chessboard", "word": "chessboard"}, {"id": "4721", "link": "/find?type=3&query=chessman", "word": "chessman"}], "data": {"word": "chess", "id": "4721", "pronounce": "/\u02c8\u02a7\u025bs/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a game for two players in which each player moves 16 pieces across a board and tries to place the opponent's king in a position from which it cannot escape</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We played (a game of) chess. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a chess player/champion</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a chess match/tournament</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a game for two players in which each player moves 16 pieces across a board and tries to place the opponent's king in a position from which it cannot escape</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We played (a game of) chess. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a chess player/champion</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a chess match/tournament</div>",
+            "id": "4721",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7\u025bs/",
+            "type": "noun",
+            "word": "chess"
+        },
+        "suggests": [
+            {
+                "id": "4721",
+                "link": "/find?type=3&query=chessboard",
+                "word": "chessboard"
+            },
+            {
+                "id": "4721",
+                "link": "/find?type=3&query=chessman",
+                "word": "chessman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to play [at] chess</div>\n    \n    <div class=\"margin25\">ch\u01a1i c\u1edd</div>",
+            "id": "14778",
+            "mean": [],
+            "pronounce": "/t\u222bes/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a12f98482ea854c945dc66ec66747635/16e5ec9a45f/C/chess.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/624da52362a1ae0d383fe7245526b583/16e5ec99f4b/C/chess.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "chess"
+        },
+        "suggests": [
+            {
+                "id": "14778",
+                "link": "/find?type=1&query=chess-board",
+                "word": "chess-board"
+            },
+            {
+                "id": "14778",
+                "link": "/find?type=1&query=chess-man",
+                "word": "chess-man"
+            },
+            {
+                "id": "14778",
+                "link": "/find?type=1&query=chess-player",
+                "word": "chess-player"
+            },
+            {
+                "id": "14778",
+                "link": "/find?type=1&query=chessboard",
+                "word": "chessboard"
+            },
+            {
+                "id": "14778",
+                "link": "/find?type=1&query=chessel",
+                "word": "chessel"
+            },
+            {
+                "id": "14778",
+                "link": "/find?type=1&query=chessman",
+                "word": "chessman"
+            }
+        ]
+    }
+}

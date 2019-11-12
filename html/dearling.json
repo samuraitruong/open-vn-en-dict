@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "22865", "link": "/find?type=1&query=dearly", "word": "dearly"}], "data": {}}, "en_en": {"suggests": [{"id": "7313", "link": "/find?type=3&query=dearly", "word": "dearly"}], "data": {}}, "synonyms": {"suggests": [{"id": "1430", "link": "/find?type=4&query=dearly", "word": "dearly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7313",
+                "link": "/find?type=3&query=dearly",
+                "word": "dearly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22865",
+                "link": "/find?type=1&query=dearly",
+                "word": "dearly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1430",
+                "link": "/find?type=4&query=dearly",
+                "word": "dearly"
+            }
+        ]
+    }
+}

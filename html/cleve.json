@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "16030", "link": "/find?type=1&query=clever", "word": "clever"}, {"id": "16031", "link": "/find?type=1&query=clever+Dick", "word": "clever Dick"}, {"id": "16032", "link": "/find?type=1&query=clever-clever", "word": "clever-clever"}, {"id": "16033", "link": "/find?type=1&query=cleverly", "word": "cleverly"}, {"id": "16034", "link": "/find?type=1&query=cleverness", "word": "cleverness"}], "data": {}}, "en_en": {"suggests": [{"id": "5170", "link": "/find?type=3&query=clever", "word": "clever"}, {"id": "5171", "link": "/find?type=3&query=clever+dick", "word": "clever dick"}], "data": {}}, "synonyms": {"suggests": [{"id": "1041", "link": "/find?type=4&query=clever", "word": "clever"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5170",
+                "link": "/find?type=3&query=clever",
+                "word": "clever"
+            },
+            {
+                "id": "5171",
+                "link": "/find?type=3&query=clever+dick",
+                "word": "clever dick"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16030",
+                "link": "/find?type=1&query=clever",
+                "word": "clever"
+            },
+            {
+                "id": "16031",
+                "link": "/find?type=1&query=clever+Dick",
+                "word": "clever Dick"
+            },
+            {
+                "id": "16032",
+                "link": "/find?type=1&query=clever-clever",
+                "word": "clever-clever"
+            },
+            {
+                "id": "16033",
+                "link": "/find?type=1&query=cleverly",
+                "word": "cleverly"
+            },
+            {
+                "id": "16034",
+                "link": "/find?type=1&query=cleverness",
+                "word": "cleverness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1041",
+                "link": "/find?type=4&query=clever",
+                "word": "clever"
+            }
+        ]
+    }
+}

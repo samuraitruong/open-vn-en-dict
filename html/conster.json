@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "18950", "link": "/find?type=1&query=consternate", "word": "consternate"}, {"id": "18951", "link": "/find?type=1&query=consternated", "word": "consternated"}, {"id": "18952", "link": "/find?type=1&query=consternation", "word": "consternation"}], "data": {}}, "en_en": {"suggests": [{"id": "6043", "link": "/find?type=3&query=consternation", "word": "consternation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6043",
+                "link": "/find?type=3&query=consternation",
+                "word": "consternation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18950",
+                "link": "/find?type=1&query=consternate",
+                "word": "consternate"
+            },
+            {
+                "id": "18951",
+                "link": "/find?type=1&query=consternated",
+                "word": "consternated"
+            },
+            {
+                "id": "18952",
+                "link": "/find?type=1&query=consternation",
+                "word": "consternation"
+            }
+        ]
+    }
+}

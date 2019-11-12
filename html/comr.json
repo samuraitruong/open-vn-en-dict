@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "18130", "link": "/find?type=1&query=comrade", "word": "comrade"}, {"id": "18131", "link": "/find?type=1&query=comrade-in-arms", "word": "comrade-in-arms"}, {"id": "18132", "link": "/find?type=1&query=comradeliness", "word": "comradeliness"}, {"id": "18133", "link": "/find?type=1&query=comradely", "word": "comradely"}, {"id": "18134", "link": "/find?type=1&query=comradery", "word": "comradery"}, {"id": "18135", "link": "/find?type=1&query=comradeship", "word": "comradeship"}, {"id": "18136", "link": "/find?type=1&query=comradily", "word": "comradily"}], "data": {}}, "en_en": {"suggests": [{"id": "5784", "link": "/find?type=3&query=comrade", "word": "comrade"}], "data": {}}, "synonyms": {"suggests": [{"id": "1157", "link": "/find?type=4&query=comrade", "word": "comrade"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5784",
+                "link": "/find?type=3&query=comrade",
+                "word": "comrade"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18130",
+                "link": "/find?type=1&query=comrade",
+                "word": "comrade"
+            },
+            {
+                "id": "18131",
+                "link": "/find?type=1&query=comrade-in-arms",
+                "word": "comrade-in-arms"
+            },
+            {
+                "id": "18132",
+                "link": "/find?type=1&query=comradeliness",
+                "word": "comradeliness"
+            },
+            {
+                "id": "18133",
+                "link": "/find?type=1&query=comradely",
+                "word": "comradely"
+            },
+            {
+                "id": "18134",
+                "link": "/find?type=1&query=comradery",
+                "word": "comradery"
+            },
+            {
+                "id": "18135",
+                "link": "/find?type=1&query=comradeship",
+                "word": "comradeship"
+            },
+            {
+                "id": "18136",
+                "link": "/find?type=1&query=comradily",
+                "word": "comradily"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1157",
+                "link": "/find?type=4&query=comrade",
+                "word": "comrade"
+            }
+        ]
+    }
+}

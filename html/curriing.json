@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "21850", "link": "/find?type=1&query=curried", "word": "curried"}, {"id": "21851", "link": "/find?type=1&query=currier", "word": "currier"}], "data": {}}, "en_en": {"suggests": [{"id": "7024", "link": "/find?type=3&query=curried", "word": "curried"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7024",
+                "link": "/find?type=3&query=curried",
+                "word": "curried"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21850",
+                "link": "/find?type=1&query=curried",
+                "word": "curried"
+            },
+            {
+                "id": "21851",
+                "link": "/find?type=1&query=currier",
+                "word": "currier"
+            }
+        ]
+    }
+}

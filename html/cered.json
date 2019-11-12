@@ -1,1 +1,79 @@
-{"en_vn": {"suggests": [], "data": {"word": "cered", "id": "14166", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=cere\">cere</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4463", "link": "/find?type=3&query=cereal", "word": "cereal"}, {"id": "4464", "link": "/find?type=3&query=cerebellum", "word": "cerebellum"}, {"id": "4465", "link": "/find?type=3&query=cerebral", "word": "cerebral"}, {"id": "4466", "link": "/find?type=3&query=cerebral+palsy", "word": "cerebral palsy"}, {"id": "4467", "link": "/find?type=3&query=cerebrum", "word": "cerebrum"}, {"id": "4468", "link": "/find?type=3&query=ceremonial", "word": "ceremonial"}, {"id": "4469", "link": "/find?type=3&query=ceremonious", "word": "ceremonious"}, {"id": "4470", "link": "/find?type=3&query=ceremony", "word": "ceremony"}], "data": {}}, "synonyms": {"suggests": [{"id": "924", "link": "/find?type=4&query=ceremonial", "word": "ceremonial"}, {"id": "925", "link": "/find?type=4&query=ceremonious", "word": "ceremonious"}, {"id": "926", "link": "/find?type=4&query=ceremony", "word": "ceremony"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4463",
+                "link": "/find?type=3&query=cereal",
+                "word": "cereal"
+            },
+            {
+                "id": "4464",
+                "link": "/find?type=3&query=cerebellum",
+                "word": "cerebellum"
+            },
+            {
+                "id": "4465",
+                "link": "/find?type=3&query=cerebral",
+                "word": "cerebral"
+            },
+            {
+                "id": "4466",
+                "link": "/find?type=3&query=cerebral+palsy",
+                "word": "cerebral palsy"
+            },
+            {
+                "id": "4467",
+                "link": "/find?type=3&query=cerebrum",
+                "word": "cerebrum"
+            },
+            {
+                "id": "4468",
+                "link": "/find?type=3&query=ceremonial",
+                "word": "ceremonial"
+            },
+            {
+                "id": "4469",
+                "link": "/find?type=3&query=ceremonious",
+                "word": "ceremonious"
+            },
+            {
+                "id": "4470",
+                "link": "/find?type=3&query=ceremony",
+                "word": "ceremony"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=cere\">cere</a></span></div>",
+            "id": "14166",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cered"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "924",
+                "link": "/find?type=4&query=ceremonial",
+                "word": "ceremonial"
+            },
+            {
+                "id": "925",
+                "link": "/find?type=4&query=ceremonious",
+                "word": "ceremonious"
+            },
+            {
+                "id": "926",
+                "link": "/find?type=4&query=ceremony",
+                "word": "ceremony"
+            }
+        ]
+    }
+}

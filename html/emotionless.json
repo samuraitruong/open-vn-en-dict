@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "30154", "link": "/find?type=1&query=emotionlessness", "word": "emotionlessness"}], "data": {"word": "emotionless", "id": "30154", "pronounce": "/i'm\u0259\u028a\u222bnlis/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng x\u00fac \u0111\u1ed9ng, kh\u00f4ng x\u00fac c\u1ea3m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "emotionless", "id": "9447", "pronounce": "/\u026a\u02c8mo\u028a\u0283\u0259nl\u0259s/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :showing, having, or expressing no emotion</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She did her job with emotionless efficiency.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">emotionless eyes</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :showing, having, or expressing no emotion</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She did her job with emotionless efficiency.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">emotionless eyes</div>",
+            "id": "9447",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8mo\u028a\u0283\u0259nl\u0259s/",
+            "type": "adjective",
+            "word": "emotionless"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng x\u00fac \u0111\u1ed9ng, kh\u00f4ng x\u00fac c\u1ea3m</div>",
+            "id": "30154",
+            "mean": [],
+            "pronounce": "/i'm\u0259\u028a\u222bnlis/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "emotionless"
+        },
+        "suggests": [
+            {
+                "id": "30154",
+                "link": "/find?type=1&query=emotionlessness",
+                "word": "emotionlessness"
+            }
+        ]
+    }
+}

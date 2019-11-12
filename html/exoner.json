@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "33011", "link": "/find?type=1&query=exonerate", "word": "exonerate"}, {"id": "33012", "link": "/find?type=1&query=exoneration", "word": "exoneration"}, {"id": "33013", "link": "/find?type=1&query=exonerative", "word": "exonerative"}, {"id": "33014", "link": "/find?type=1&query=exonerator", "word": "exonerator"}], "data": {}}, "en_en": {"suggests": [{"id": "9997", "link": "/find?type=3&query=exonerate", "word": "exonerate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9997",
+                "link": "/find?type=3&query=exonerate",
+                "word": "exonerate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33011",
+                "link": "/find?type=1&query=exonerate",
+                "word": "exonerate"
+            },
+            {
+                "id": "33012",
+                "link": "/find?type=1&query=exoneration",
+                "word": "exoneration"
+            },
+            {
+                "id": "33013",
+                "link": "/find?type=1&query=exonerative",
+                "word": "exonerative"
+            },
+            {
+                "id": "33014",
+                "link": "/find?type=1&query=exonerator",
+                "word": "exonerator"
+            }
+        ]
+    }
+}

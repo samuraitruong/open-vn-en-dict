@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "8089", "link": "/find?type=1&query=barbarian", "word": "barbarian"}, {"id": "8090", "link": "/find?type=1&query=barbarianism", "word": "barbarianism"}, {"id": "8091", "link": "/find?type=1&query=barbaric", "word": "barbaric"}, {"id": "8092", "link": "/find?type=1&query=barbarically", "word": "barbarically"}, {"id": "8094", "link": "/find?type=1&query=barbarise", "word": "barbarise"}, {"id": "8095", "link": "/find?type=1&query=barbarism", "word": "barbarism"}, {"id": "8096", "link": "/find?type=1&query=barbarity", "word": "barbarity"}, {"id": "8097", "link": "/find?type=1&query=barbarization", "word": "barbarization"}, {"id": "8098", "link": "/find?type=1&query=barbarize", "word": "barbarize"}], "data": {}}, "en_en": {"suggests": [{"id": "2028", "link": "/find?type=3&query=barbarian", "word": "barbarian"}, {"id": "2029", "link": "/find?type=3&query=barbaric", "word": "barbaric"}, {"id": "2030", "link": "/find?type=3&query=barbarism", "word": "barbarism"}, {"id": "2031", "link": "/find?type=3&query=barbarity", "word": "barbarity"}, {"id": "2032", "link": "/find?type=3&query=barbarous", "word": "barbarous"}], "data": {}}, "synonyms": {"suggests": [{"id": "434", "link": "/find?type=4&query=barbarian", "word": "barbarian"}, {"id": "435", "link": "/find?type=4&query=barbarity", "word": "barbarity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2028",
+                "link": "/find?type=3&query=barbarian",
+                "word": "barbarian"
+            },
+            {
+                "id": "2029",
+                "link": "/find?type=3&query=barbaric",
+                "word": "barbaric"
+            },
+            {
+                "id": "2030",
+                "link": "/find?type=3&query=barbarism",
+                "word": "barbarism"
+            },
+            {
+                "id": "2031",
+                "link": "/find?type=3&query=barbarity",
+                "word": "barbarity"
+            },
+            {
+                "id": "2032",
+                "link": "/find?type=3&query=barbarous",
+                "word": "barbarous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8089",
+                "link": "/find?type=1&query=barbarian",
+                "word": "barbarian"
+            },
+            {
+                "id": "8090",
+                "link": "/find?type=1&query=barbarianism",
+                "word": "barbarianism"
+            },
+            {
+                "id": "8091",
+                "link": "/find?type=1&query=barbaric",
+                "word": "barbaric"
+            },
+            {
+                "id": "8092",
+                "link": "/find?type=1&query=barbarically",
+                "word": "barbarically"
+            },
+            {
+                "id": "8094",
+                "link": "/find?type=1&query=barbarise",
+                "word": "barbarise"
+            },
+            {
+                "id": "8095",
+                "link": "/find?type=1&query=barbarism",
+                "word": "barbarism"
+            },
+            {
+                "id": "8096",
+                "link": "/find?type=1&query=barbarity",
+                "word": "barbarity"
+            },
+            {
+                "id": "8097",
+                "link": "/find?type=1&query=barbarization",
+                "word": "barbarization"
+            },
+            {
+                "id": "8098",
+                "link": "/find?type=1&query=barbarize",
+                "word": "barbarize"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "434",
+                "link": "/find?type=4&query=barbarian",
+                "word": "barbarian"
+            },
+            {
+                "id": "435",
+                "link": "/find?type=4&query=barbarity",
+                "word": "barbarity"
+            }
+        ]
+    }
+}

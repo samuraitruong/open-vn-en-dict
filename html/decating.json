@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23033", "link": "/find?type=1&query=decathlete", "word": "decathlete"}, {"id": "23034", "link": "/find?type=1&query=decathlon", "word": "decathlon"}, {"id": "23035", "link": "/find?type=1&query=decatron", "word": "decatron"}], "data": {}}, "en_en": {"suggests": [{"id": "7376", "link": "/find?type=3&query=decathlon", "word": "decathlon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7376",
+                "link": "/find?type=3&query=decathlon",
+                "word": "decathlon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23033",
+                "link": "/find?type=1&query=decathlete",
+                "word": "decathlete"
+            },
+            {
+                "id": "23034",
+                "link": "/find?type=1&query=decathlon",
+                "word": "decathlon"
+            },
+            {
+                "id": "23035",
+                "link": "/find?type=1&query=decatron",
+                "word": "decatron"
+            }
+        ]
+    }
+}

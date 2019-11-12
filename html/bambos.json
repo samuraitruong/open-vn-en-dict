@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "7929", "link": "/find?type=1&query=bamboo", "word": "bamboo"}, {"id": "7930", "link": "/find?type=1&query=bamboozle", "word": "bamboozle"}, {"id": "7931", "link": "/find?type=1&query=bamboozlement", "word": "bamboozlement"}, {"id": "7932", "link": "/find?type=1&query=bamboozler", "word": "bamboozler"}], "data": {}}, "en_en": {"suggests": [{"id": "1961", "link": "/find?type=3&query=bamboo", "word": "bamboo"}, {"id": "1962", "link": "/find?type=3&query=bamboozle", "word": "bamboozle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1961",
+                "link": "/find?type=3&query=bamboo",
+                "word": "bamboo"
+            },
+            {
+                "id": "1962",
+                "link": "/find?type=3&query=bamboozle",
+                "word": "bamboozle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7929",
+                "link": "/find?type=1&query=bamboo",
+                "word": "bamboo"
+            },
+            {
+                "id": "7930",
+                "link": "/find?type=1&query=bamboozle",
+                "word": "bamboozle"
+            },
+            {
+                "id": "7931",
+                "link": "/find?type=1&query=bamboozlement",
+                "word": "bamboozlement"
+            },
+            {
+                "id": "7932",
+                "link": "/find?type=1&query=bamboozler",
+                "word": "bamboozler"
+            }
+        ]
+    }
+}

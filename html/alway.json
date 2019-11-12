@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2979", "link": "/find?type=1&query=always", "word": "always"}], "data": {}}, "en_en": {"suggests": [{"id": "780", "link": "/find?type=3&query=always", "word": "always"}], "data": {}}, "synonyms": {"suggests": [{"id": "214", "link": "/find?type=4&query=always", "word": "always"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "780",
+                "link": "/find?type=3&query=always",
+                "word": "always"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2979",
+                "link": "/find?type=1&query=always",
+                "word": "always"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "214",
+                "link": "/find?type=4&query=always",
+                "word": "always"
+            }
+        ]
+    }
+}

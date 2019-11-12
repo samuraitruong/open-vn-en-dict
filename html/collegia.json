@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "17022", "link": "/find?type=1&query=collegian", "word": "collegian"}, {"id": "17023", "link": "/find?type=1&query=collegiate", "word": "collegiate"}], "data": {}}, "en_en": {"suggests": [{"id": "5508", "link": "/find?type=3&query=collegiate", "word": "collegiate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5508",
+                "link": "/find?type=3&query=collegiate",
+                "word": "collegiate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17022",
+                "link": "/find?type=1&query=collegian",
+                "word": "collegian"
+            },
+            {
+                "id": "17023",
+                "link": "/find?type=1&query=collegiate",
+                "word": "collegiate"
+            }
+        ]
+    }
+}

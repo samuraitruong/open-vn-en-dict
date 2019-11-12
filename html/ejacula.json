@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "29155", "link": "/find?type=1&query=ejaculate", "word": "ejaculate"}, {"id": "29156", "link": "/find?type=1&query=ejaculation", "word": "ejaculation"}, {"id": "29157", "link": "/find?type=1&query=ejaculator", "word": "ejaculator"}, {"id": "29158", "link": "/find?type=1&query=ejaculatory", "word": "ejaculatory"}], "data": {}}, "en_en": {"suggests": [{"id": "9279", "link": "/find?type=3&query=ejaculate", "word": "ejaculate"}, {"id": "9280", "link": "/find?type=3&query=ejaculation", "word": "ejaculation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9279",
+                "link": "/find?type=3&query=ejaculate",
+                "word": "ejaculate"
+            },
+            {
+                "id": "9280",
+                "link": "/find?type=3&query=ejaculation",
+                "word": "ejaculation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29155",
+                "link": "/find?type=1&query=ejaculate",
+                "word": "ejaculate"
+            },
+            {
+                "id": "29156",
+                "link": "/find?type=1&query=ejaculation",
+                "word": "ejaculation"
+            },
+            {
+                "id": "29157",
+                "link": "/find?type=1&query=ejaculator",
+                "word": "ejaculator"
+            },
+            {
+                "id": "29158",
+                "link": "/find?type=1&query=ejaculatory",
+                "word": "ejaculatory"
+            }
+        ]
+    }
+}

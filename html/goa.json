@@ -1,1 +1,122 @@
-{"error": 0, "query": "goa", "enViData": {"suggests": [{"id": "40494", "link": "/find?type=1&query=goad", "word": "goad"}, {"id": "40495", "link": "/find?type=1&query=goadsman", "word": "goadsman"}, {"id": "40496", "link": "/find?type=1&query=goaf", "word": "goaf"}, {"id": "40497", "link": "/find?type=1&query=goafed", "word": "goafed"}, {"id": "40498", "link": "/find?type=1&query=goal", "word": "goal"}, {"id": "40499", "link": "/find?type=1&query=goal-area", "word": "goal-area"}, {"id": "40500", "link": "/find?type=1&query=goal-driven+method", "word": "goal-driven method"}, {"id": "40501", "link": "/find?type=1&query=goal-kick", "word": "goal-kick"}, {"id": "40502", "link": "/find?type=1&query=goal-line", "word": "goal-line"}, {"id": "40503", "link": "/find?type=1&query=goal-mouth", "word": "goal-mouth"}]}, "mUrl": "/find?type=1&query=goa", "enEnData": {"suggests": [{"id": "12215", "link": "/find?type=3&query=goad", "word": "goad"}, {"id": "12217", "link": "/find?type=3&query=goal", "word": "goal"}, {"id": "12218", "link": "/find?type=3&query=goal+line", "word": "goal line"}, {"id": "12219", "link": "/find?type=3&query=goal+mouth", "word": "goal mouth"}, {"id": "12220", "link": "/find?type=3&query=goalie", "word": "goalie"}, {"id": "12221", "link": "/find?type=3&query=goalkeeper", "word": "goalkeeper"}, {"id": "12222", "link": "/find?type=3&query=goalpost", "word": "goalpost"}, {"id": "12223", "link": "/find?type=3&query=goaltender", "word": "goaltender"}, {"id": "12225", "link": "/find?type=3&query=goat", "word": "goat"}, {"id": "12226", "link": "/find?type=3&query=goat+cheese", "word": "goat cheese"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3036", "link": "/find?type=4&query=goal", "word": "goal"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12215",
+                "link": "/find?type=3&query=goad",
+                "word": "goad"
+            },
+            {
+                "id": "12217",
+                "link": "/find?type=3&query=goal",
+                "word": "goal"
+            },
+            {
+                "id": "12218",
+                "link": "/find?type=3&query=goal+line",
+                "word": "goal line"
+            },
+            {
+                "id": "12219",
+                "link": "/find?type=3&query=goal+mouth",
+                "word": "goal mouth"
+            },
+            {
+                "id": "12220",
+                "link": "/find?type=3&query=goalie",
+                "word": "goalie"
+            },
+            {
+                "id": "12221",
+                "link": "/find?type=3&query=goalkeeper",
+                "word": "goalkeeper"
+            },
+            {
+                "id": "12222",
+                "link": "/find?type=3&query=goalpost",
+                "word": "goalpost"
+            },
+            {
+                "id": "12223",
+                "link": "/find?type=3&query=goaltender",
+                "word": "goaltender"
+            },
+            {
+                "id": "12225",
+                "link": "/find?type=3&query=goat",
+                "word": "goat"
+            },
+            {
+                "id": "12226",
+                "link": "/find?type=3&query=goat+cheese",
+                "word": "goat cheese"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40494",
+                "link": "/find?type=1&query=goad",
+                "word": "goad"
+            },
+            {
+                "id": "40495",
+                "link": "/find?type=1&query=goadsman",
+                "word": "goadsman"
+            },
+            {
+                "id": "40496",
+                "link": "/find?type=1&query=goaf",
+                "word": "goaf"
+            },
+            {
+                "id": "40497",
+                "link": "/find?type=1&query=goafed",
+                "word": "goafed"
+            },
+            {
+                "id": "40498",
+                "link": "/find?type=1&query=goal",
+                "word": "goal"
+            },
+            {
+                "id": "40499",
+                "link": "/find?type=1&query=goal-area",
+                "word": "goal-area"
+            },
+            {
+                "id": "40500",
+                "link": "/find?type=1&query=goal-driven+method",
+                "word": "goal-driven method"
+            },
+            {
+                "id": "40501",
+                "link": "/find?type=1&query=goal-kick",
+                "word": "goal-kick"
+            },
+            {
+                "id": "40502",
+                "link": "/find?type=1&query=goal-line",
+                "word": "goal-line"
+            },
+            {
+                "id": "40503",
+                "link": "/find?type=1&query=goal-mouth",
+                "word": "goal-mouth"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3036",
+                "link": "/find?type=4&query=goal",
+                "word": "goal"
+            }
+        ]
+    }
+}

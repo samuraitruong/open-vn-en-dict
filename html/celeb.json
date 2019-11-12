@@ -1,1 +1,119 @@
-{"en_vn": {"suggests": [{"id": "13931", "link": "/find?type=1&query=celebrant", "word": "celebrant"}, {"id": "13932", "link": "/find?type=1&query=celebrate", "word": "celebrate"}, {"id": "13933", "link": "/find?type=1&query=celebrated", "word": "celebrated"}, {"id": "13934", "link": "/find?type=1&query=celebration", "word": "celebration"}, {"id": "13935", "link": "/find?type=1&query=celebrator", "word": "celebrator"}, {"id": "13936", "link": "/find?type=1&query=celebratory", "word": "celebratory"}, {"id": "13937", "link": "/find?type=1&query=celebrity", "word": "celebrity"}, {"id": "13938", "link": "/find?type=1&query=celebrityhood", "word": "celebrityhood"}], "data": {}}, "en_en": {"suggests": [{"id": "4385", "link": "/find?type=3&query=celebrant", "word": "celebrant"}, {"id": "4385", "link": "/find?type=3&query=celebrate", "word": "celebrate"}, {"id": "4385", "link": "/find?type=3&query=celebrated", "word": "celebrated"}, {"id": "4385", "link": "/find?type=3&query=celebration", "word": "celebration"}, {"id": "4385", "link": "/find?type=3&query=celebre", "word": "celebre"}, {"id": "4385", "link": "/find?type=3&query=celebrity", "word": "celebrity"}], "data": {"word": "celeb", "id": "4385", "pronounce": "/s\u0259\u02c8l\u025bb/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lebs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :celebrity</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hollywood celebs</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "911", "link": "/find?type=4&query=celebrant", "word": "celebrant"}, {"id": "912", "link": "/find?type=4&query=celebrate", "word": "celebrate"}, {"id": "913", "link": "/find?type=4&query=celebrated", "word": "celebrated"}, {"id": "914", "link": "/find?type=4&query=celebration", "word": "celebration"}, {"id": "915", "link": "/find?type=4&query=celebrity", "word": "celebrity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lebs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :celebrity</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hollywood celebs</div>",
+            "id": "4385",
+            "mean": [],
+            "pronounce": "/s\u0259\u02c8l\u025bb/",
+            "type": "noun",
+            "word": "celeb"
+        },
+        "suggests": [
+            {
+                "id": "4385",
+                "link": "/find?type=3&query=celebrant",
+                "word": "celebrant"
+            },
+            {
+                "id": "4385",
+                "link": "/find?type=3&query=celebrate",
+                "word": "celebrate"
+            },
+            {
+                "id": "4385",
+                "link": "/find?type=3&query=celebrated",
+                "word": "celebrated"
+            },
+            {
+                "id": "4385",
+                "link": "/find?type=3&query=celebration",
+                "word": "celebration"
+            },
+            {
+                "id": "4385",
+                "link": "/find?type=3&query=celebre",
+                "word": "celebre"
+            },
+            {
+                "id": "4385",
+                "link": "/find?type=3&query=celebrity",
+                "word": "celebrity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13931",
+                "link": "/find?type=1&query=celebrant",
+                "word": "celebrant"
+            },
+            {
+                "id": "13932",
+                "link": "/find?type=1&query=celebrate",
+                "word": "celebrate"
+            },
+            {
+                "id": "13933",
+                "link": "/find?type=1&query=celebrated",
+                "word": "celebrated"
+            },
+            {
+                "id": "13934",
+                "link": "/find?type=1&query=celebration",
+                "word": "celebration"
+            },
+            {
+                "id": "13935",
+                "link": "/find?type=1&query=celebrator",
+                "word": "celebrator"
+            },
+            {
+                "id": "13936",
+                "link": "/find?type=1&query=celebratory",
+                "word": "celebratory"
+            },
+            {
+                "id": "13937",
+                "link": "/find?type=1&query=celebrity",
+                "word": "celebrity"
+            },
+            {
+                "id": "13938",
+                "link": "/find?type=1&query=celebrityhood",
+                "word": "celebrityhood"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "911",
+                "link": "/find?type=4&query=celebrant",
+                "word": "celebrant"
+            },
+            {
+                "id": "912",
+                "link": "/find?type=4&query=celebrate",
+                "word": "celebrate"
+            },
+            {
+                "id": "913",
+                "link": "/find?type=4&query=celebrated",
+                "word": "celebrated"
+            },
+            {
+                "id": "914",
+                "link": "/find?type=4&query=celebration",
+                "word": "celebration"
+            },
+            {
+                "id": "915",
+                "link": "/find?type=4&query=celebrity",
+                "word": "celebrity"
+            }
+        ]
+    }
+}

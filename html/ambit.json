@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "3068", "link": "/find?type=1&query=ambition", "word": "ambition"}, {"id": "3068", "link": "/find?type=1&query=ambitious", "word": "ambitious"}, {"id": "3068", "link": "/find?type=1&query=ambitiously", "word": "ambitiously"}, {"id": "3068", "link": "/find?type=1&query=ambitiousness", "word": "ambitiousness"}], "data": {"word": "ambit", "id": "3068", "pronounce": "/'\u00e6mbit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 \u00edt)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1edbi h\u1ea1n, ph\u1ea1m vi (quy\u1ec1n l\u1ef1c \u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8368fb936138bbd98a846745d84c8aae/16e5dc18ffb/A/ambit.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/36d3c465dcdf7f3014caad773c489493/16e5dc195c8/A/ambit.mp3"}}}, "en_en": {"suggests": [{"id": "803", "link": "/find?type=3&query=ambition", "word": "ambition"}, {"id": "803", "link": "/find?type=3&query=ambitious", "word": "ambitious"}], "data": {"word": "ambit", "id": "803", "pronounce": "/\u02c8\u00e6mb\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bits</div>\n    \n    <div class=\"green margin25 m-top15\">[count] formal :the range or limit that is covered by something (such as a law) :scope</div>\n    \n    <div class=\"green margin25 m-top15\">usually singular</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm afraid your case doesn't fall within the ambit of our jurisdiction.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "226", "link": "/find?type=4&query=ambition", "word": "ambition"}, {"id": "227", "link": "/find?type=4&query=ambitious", "word": "ambitious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bits</div>\n    \n    <div class=\"green margin25 m-top15\">[count] formal :the range or limit that is covered by something (such as a law) :scope</div>\n    \n    <div class=\"green margin25 m-top15\">usually singular</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm afraid your case doesn't fall within the ambit of our jurisdiction.</div>",
+            "id": "803",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6mb\u0259t/",
+            "type": "noun",
+            "word": "ambit"
+        },
+        "suggests": [
+            {
+                "id": "803",
+                "link": "/find?type=3&query=ambition",
+                "word": "ambition"
+            },
+            {
+                "id": "803",
+                "link": "/find?type=3&query=ambitious",
+                "word": "ambitious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 \u00edt)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1edbi h\u1ea1n, ph\u1ea1m vi (quy\u1ec1n l\u1ef1c \u2026)</div>",
+            "id": "3068",
+            "mean": [],
+            "pronounce": "/'\u00e6mbit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/811ede4fe4735d7838bcc7a8f511b2b7/16e5ea5f1c2/A/ambit.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bdbb707e23982ab29a4e6a29cc3714f0/16e5ea5ecd1/A/ambit.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ambit"
+        },
+        "suggests": [
+            {
+                "id": "3068",
+                "link": "/find?type=1&query=ambition",
+                "word": "ambition"
+            },
+            {
+                "id": "3068",
+                "link": "/find?type=1&query=ambitious",
+                "word": "ambitious"
+            },
+            {
+                "id": "3068",
+                "link": "/find?type=1&query=ambitiously",
+                "word": "ambitiously"
+            },
+            {
+                "id": "3068",
+                "link": "/find?type=1&query=ambitiousness",
+                "word": "ambitiousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "226",
+                "link": "/find?type=4&query=ambition",
+                "word": "ambition"
+            },
+            {
+                "id": "227",
+                "link": "/find?type=4&query=ambitious",
+                "word": "ambitious"
+            }
+        ]
+    }
+}

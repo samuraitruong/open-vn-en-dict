@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "1294", "link": "/find?type=1&query=address", "word": "address"}, {"id": "1295", "link": "/find?type=1&query=address+block", "word": "address block"}, {"id": "1296", "link": "/find?type=1&query=address+bus", "word": "address bus"}, {"id": "1297", "link": "/find?type=1&query=address+counter", "word": "address counter"}, {"id": "1298", "link": "/find?type=1&query=address+descriptor", "word": "address descriptor"}, {"id": "1299", "link": "/find?type=1&query=address+mapping", "word": "address mapping"}, {"id": "1300", "link": "/find?type=1&query=address+marker", "word": "address marker"}, {"id": "1301", "link": "/find?type=1&query=address+matrix", "word": "address matrix"}, {"id": "1302", "link": "/find?type=1&query=address+mode", "word": "address mode"}, {"id": "1303", "link": "/find?type=1&query=address+name", "word": "address name"}], "data": {}}, "en_en": {"suggests": [{"id": "305", "link": "/find?type=3&query=address", "word": "address"}, {"id": "306", "link": "/find?type=3&query=address+book", "word": "address book"}, {"id": "307", "link": "/find?type=3&query=addressee", "word": "addressee"}], "data": {}}, "synonyms": {"suggests": [{"id": "105", "link": "/find?type=4&query=address", "word": "address"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "305",
+                "link": "/find?type=3&query=address",
+                "word": "address"
+            },
+            {
+                "id": "306",
+                "link": "/find?type=3&query=address+book",
+                "word": "address book"
+            },
+            {
+                "id": "307",
+                "link": "/find?type=3&query=addressee",
+                "word": "addressee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1294",
+                "link": "/find?type=1&query=address",
+                "word": "address"
+            },
+            {
+                "id": "1295",
+                "link": "/find?type=1&query=address+block",
+                "word": "address block"
+            },
+            {
+                "id": "1296",
+                "link": "/find?type=1&query=address+bus",
+                "word": "address bus"
+            },
+            {
+                "id": "1297",
+                "link": "/find?type=1&query=address+counter",
+                "word": "address counter"
+            },
+            {
+                "id": "1298",
+                "link": "/find?type=1&query=address+descriptor",
+                "word": "address descriptor"
+            },
+            {
+                "id": "1299",
+                "link": "/find?type=1&query=address+mapping",
+                "word": "address mapping"
+            },
+            {
+                "id": "1300",
+                "link": "/find?type=1&query=address+marker",
+                "word": "address marker"
+            },
+            {
+                "id": "1301",
+                "link": "/find?type=1&query=address+matrix",
+                "word": "address matrix"
+            },
+            {
+                "id": "1302",
+                "link": "/find?type=1&query=address+mode",
+                "word": "address mode"
+            },
+            {
+                "id": "1303",
+                "link": "/find?type=1&query=address+name",
+                "word": "address name"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "105",
+                "link": "/find?type=4&query=address",
+                "word": "address"
+            }
+        ]
+    }
+}

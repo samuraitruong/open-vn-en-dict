@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [{"id": "25275", "link": "/find?type=1&query=diffraction", "word": "diffraction"}, {"id": "25275", "link": "/find?type=1&query=diffraction+by+disk", "word": "diffraction by disk"}, {"id": "25275", "link": "/find?type=1&query=diffraction+grating", "word": "diffraction grating"}, {"id": "25275", "link": "/find?type=1&query=diffractive", "word": "diffractive"}], "data": {"word": "diffract", "id": "25275", "pronounce": "/di'fr\u00e6k\u222bn/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(v\u1eadt l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m nhi\u1ec5u x\u1ea1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a21103e9db7dca177854d234bfb52b40/16e5e0769c6/D/diffract.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4bdd4ae5a4338de26f7532f01eeef224/16e5e076fdc/D/diffract.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "diffract", "id": "7976", "pronounce": "/d\u026a\u02c8fr\u00e6kt/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-fracts; -fracted; -fracting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] technical :to cause (a beam of light) to bend or spread</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Light is diffracted when it passes through a prism.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-fracts; -fracted; -fracting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] technical :to cause (a beam of light) to bend or spread</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Light is diffracted when it passes through a prism.</div>",
+            "id": "7976",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8fr\u00e6kt/",
+            "type": "verb",
+            "word": "diffract"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(v\u1eadt l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m nhi\u1ec5u x\u1ea1</div>",
+            "id": "25275",
+            "mean": [],
+            "pronounce": "/di'fr\u00e6k\u222bn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fd7511262c9f7cf639b53954ac85c28c/16e5ef146be/D/diffract.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cae9df783a161711b338989ec4791a50/16e5ef13dd8/D/diffract.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "diffract"
+        },
+        "suggests": [
+            {
+                "id": "25275",
+                "link": "/find?type=1&query=diffraction",
+                "word": "diffraction"
+            },
+            {
+                "id": "25275",
+                "link": "/find?type=1&query=diffraction+by+disk",
+                "word": "diffraction by disk"
+            },
+            {
+                "id": "25275",
+                "link": "/find?type=1&query=diffraction+grating",
+                "word": "diffraction grating"
+            },
+            {
+                "id": "25275",
+                "link": "/find?type=1&query=diffractive",
+                "word": "diffractive"
+            }
+        ]
+    }
+}

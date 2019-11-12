@@ -1,1 +1,62 @@
-{"error": 0, "query": "gaw", "enViData": {"suggests": [{"id": "39330", "link": "/find?type=1&query=gawk", "word": "gawk"}, {"id": "39331", "link": "/find?type=1&query=gawkily", "word": "gawkily"}, {"id": "39332", "link": "/find?type=1&query=gawkiness", "word": "gawkiness"}, {"id": "39333", "link": "/find?type=1&query=gawky", "word": "gawky"}, {"id": "39334", "link": "/find?type=1&query=gawp", "word": "gawp"}]}, "mUrl": "/find?type=1&query=gaw", "enEnData": {"suggests": [{"id": "11887", "link": "/find?type=3&query=gawk", "word": "gawk"}, {"id": "11888", "link": "/find?type=3&query=gawky", "word": "gawky"}, {"id": "11889", "link": "/find?type=3&query=gawp", "word": "gawp"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2948", "link": "/find?type=4&query=gawk", "word": "gawk"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11887",
+                "link": "/find?type=3&query=gawk",
+                "word": "gawk"
+            },
+            {
+                "id": "11888",
+                "link": "/find?type=3&query=gawky",
+                "word": "gawky"
+            },
+            {
+                "id": "11889",
+                "link": "/find?type=3&query=gawp",
+                "word": "gawp"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39330",
+                "link": "/find?type=1&query=gawk",
+                "word": "gawk"
+            },
+            {
+                "id": "39331",
+                "link": "/find?type=1&query=gawkily",
+                "word": "gawkily"
+            },
+            {
+                "id": "39332",
+                "link": "/find?type=1&query=gawkiness",
+                "word": "gawkiness"
+            },
+            {
+                "id": "39333",
+                "link": "/find?type=1&query=gawky",
+                "word": "gawky"
+            },
+            {
+                "id": "39334",
+                "link": "/find?type=1&query=gawp",
+                "word": "gawp"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2948",
+                "link": "/find?type=4&query=gawk",
+                "word": "gawk"
+            }
+        ]
+    }
+}

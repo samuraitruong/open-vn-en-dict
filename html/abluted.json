@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "194", "link": "/find?type=1&query=ablution", "word": "ablution"}, {"id": "195", "link": "/find?type=1&query=ablutionary", "word": "ablutionary"}], "data": {}}, "en_en": {"suggests": [{"id": "61", "link": "/find?type=3&query=ablution", "word": "ablution"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61",
+                "link": "/find?type=3&query=ablution",
+                "word": "ablution"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "194",
+                "link": "/find?type=1&query=ablution",
+                "word": "ablution"
+            },
+            {
+                "id": "195",
+                "link": "/find?type=1&query=ablutionary",
+                "word": "ablutionary"
+            }
+        ]
+    }
+}

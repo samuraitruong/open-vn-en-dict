@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2273", "link": "/find?type=1&query=airborne", "word": "airborne"}], "data": {}}, "en_en": {"suggests": [{"id": "580", "link": "/find?type=3&query=airborne", "word": "airborne"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "580",
+                "link": "/find?type=3&query=airborne",
+                "word": "airborne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2273",
+                "link": "/find?type=1&query=airborne",
+                "word": "airborne"
+            }
+        ]
+    }
+}

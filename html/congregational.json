@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "18622", "link": "/find?type=1&query=congregationalism", "word": "congregationalism"}, {"id": "18622", "link": "/find?type=1&query=congregationalist", "word": "congregationalist"}], "data": {"word": "Congregational", "id": "18622", "pronounce": "/,k\u0252ngri'gei\u222b\u0259nl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] gi\u00e1o \u0111\u00f2an</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "congregational", "id": "5947", "pronounce": "/\u02cck\u0251\u02d0\u014bgr\u026a\u02c8ge\u026a\u0283\u0259nn\u0329/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">involving or done by the people who attend religious services :relating to a congregation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">congregational singing</div>\n    \n    <div class=\"green margin25 m-top15\">Congregational :relating to a group of Christian churches that believe that the people who attend each church should make their own decisions, rules, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a Congregational church</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">involving or done by the people who attend religious services :relating to a congregation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">congregational singing</div>\n    \n    <div class=\"green margin25 m-top15\">Congregational :relating to a group of Christian churches that believe that the people who attend each church should make their own decisions, rules, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a Congregational church</div>",
+            "id": "5947",
+            "mean": [],
+            "pronounce": "/\u02cck\u0251\u02d0\u014bgr\u026a\u02c8ge\u026a\u0283\u0259nn\u0329/",
+            "type": "adjective",
+            "word": "congregational"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] gi\u00e1o \u0111\u00f2an</div>",
+            "id": "18622",
+            "mean": [],
+            "pronounce": "/,k\u0252ngri'gei\u222b\u0259nl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "Congregational"
+        },
+        "suggests": [
+            {
+                "id": "18622",
+                "link": "/find?type=1&query=congregationalism",
+                "word": "congregationalism"
+            },
+            {
+                "id": "18622",
+                "link": "/find?type=1&query=congregationalist",
+                "word": "congregationalist"
+            }
+        ]
+    }
+}

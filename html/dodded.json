@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "26861", "link": "/find?type=1&query=doddecagon", "word": "doddecagon"}, {"id": "26862", "link": "/find?type=1&query=doddecahedron", "word": "doddecahedron"}, {"id": "26863", "link": "/find?type=1&query=dodder", "word": "dodder"}, {"id": "26864", "link": "/find?type=1&query=doddered", "word": "doddered"}, {"id": "26865", "link": "/find?type=1&query=dodderer", "word": "dodderer"}, {"id": "26866", "link": "/find?type=1&query=doddering", "word": "doddering"}, {"id": "26867", "link": "/find?type=1&query=doddery", "word": "doddery"}], "data": {}}, "en_en": {"suggests": [{"id": "8465", "link": "/find?type=3&query=doddering", "word": "doddering"}], "data": {}}, "synonyms": {"suggests": [{"id": "1870", "link": "/find?type=4&query=doddering", "word": "doddering"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8465",
+                "link": "/find?type=3&query=doddering",
+                "word": "doddering"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26861",
+                "link": "/find?type=1&query=doddecagon",
+                "word": "doddecagon"
+            },
+            {
+                "id": "26862",
+                "link": "/find?type=1&query=doddecahedron",
+                "word": "doddecahedron"
+            },
+            {
+                "id": "26863",
+                "link": "/find?type=1&query=dodder",
+                "word": "dodder"
+            },
+            {
+                "id": "26864",
+                "link": "/find?type=1&query=doddered",
+                "word": "doddered"
+            },
+            {
+                "id": "26865",
+                "link": "/find?type=1&query=dodderer",
+                "word": "dodderer"
+            },
+            {
+                "id": "26866",
+                "link": "/find?type=1&query=doddering",
+                "word": "doddering"
+            },
+            {
+                "id": "26867",
+                "link": "/find?type=1&query=doddery",
+                "word": "doddery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1870",
+                "link": "/find?type=4&query=doddering",
+                "word": "doddering"
+            }
+        ]
+    }
+}

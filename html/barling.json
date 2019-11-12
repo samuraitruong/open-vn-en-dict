@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "8182", "link": "/find?type=1&query=barley", "word": "barley"}, {"id": "8183", "link": "/find?type=1&query=barley+sugar", "word": "barley sugar"}, {"id": "8184", "link": "/find?type=1&query=barley+water", "word": "barley water"}, {"id": "8185", "link": "/find?type=1&query=barley+wine", "word": "barley wine"}, {"id": "8186", "link": "/find?type=1&query=barley-broth", "word": "barley-broth"}, {"id": "8187", "link": "/find?type=1&query=barley-corn", "word": "barley-corn"}], "data": {}}, "en_en": {"suggests": [{"id": "2071", "link": "/find?type=3&query=barley", "word": "barley"}, {"id": "2072", "link": "/find?type=3&query=barley+sugar", "word": "barley sugar"}, {"id": "2073", "link": "/find?type=3&query=barley+wine", "word": "barley wine"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2071",
+                "link": "/find?type=3&query=barley",
+                "word": "barley"
+            },
+            {
+                "id": "2072",
+                "link": "/find?type=3&query=barley+sugar",
+                "word": "barley sugar"
+            },
+            {
+                "id": "2073",
+                "link": "/find?type=3&query=barley+wine",
+                "word": "barley wine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8182",
+                "link": "/find?type=1&query=barley",
+                "word": "barley"
+            },
+            {
+                "id": "8183",
+                "link": "/find?type=1&query=barley+sugar",
+                "word": "barley sugar"
+            },
+            {
+                "id": "8184",
+                "link": "/find?type=1&query=barley+water",
+                "word": "barley water"
+            },
+            {
+                "id": "8185",
+                "link": "/find?type=1&query=barley+wine",
+                "word": "barley wine"
+            },
+            {
+                "id": "8186",
+                "link": "/find?type=1&query=barley-broth",
+                "word": "barley-broth"
+            },
+            {
+                "id": "8187",
+                "link": "/find?type=1&query=barley-corn",
+                "word": "barley-corn"
+            }
+        ]
+    }
+}

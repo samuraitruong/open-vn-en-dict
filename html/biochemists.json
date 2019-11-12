@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "9368", "link": "/find?type=1&query=biochemistry", "word": "biochemistry"}], "data": {"word": "biochemist", "id": "9368", "pronounce": "/,bai\u0259\u028a'kemist/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00f3a sinh</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7e441e20afacb5b50657458643339faf/16e5dd6c876/B/biochemist.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/542fd430b578f6e9a0aa064e922064b8/16e5dd6ce6f/B/biochemist.mp3"}}}, "en_en": {"suggests": [{"id": "2631", "link": "/find?type=3&query=biochemistry", "word": "biochemistry"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2631",
+                "link": "/find?type=3&query=biochemistry",
+                "word": "biochemistry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00f3a sinh</div>",
+            "id": "9368",
+            "mean": [],
+            "pronounce": "/,bai\u0259\u028a'kemist/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b8efd360c4853184b8f4f5de84fb28ed/16e5eb8f785/B/biochemist.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8712f8e5b67fa5fab4a72c04f993a3fc/16e5eb8f258/B/biochemist.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "biochemist"
+        },
+        "suggests": [
+            {
+                "id": "9368",
+                "link": "/find?type=1&query=biochemistry",
+                "word": "biochemistry"
+            }
+        ]
+    }
+}

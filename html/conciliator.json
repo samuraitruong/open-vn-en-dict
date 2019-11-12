@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "18256", "link": "/find?type=1&query=conciliatory", "word": "conciliatory"}], "data": {"word": "conciliator", "id": "18256", "pronounce": "/k\u0259n'silieit\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ho\u00e0 gi\u1ea3i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5823", "link": "/find?type=3&query=conciliatory", "word": "conciliatory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5823",
+                "link": "/find?type=3&query=conciliatory",
+                "word": "conciliatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ho\u00e0 gi\u1ea3i</div>",
+            "id": "18256",
+            "mean": [],
+            "pronounce": "/k\u0259n'silieit\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "conciliator"
+        },
+        "suggests": [
+            {
+                "id": "18256",
+                "link": "/find?type=1&query=conciliatory",
+                "word": "conciliatory"
+            }
+        ]
+    }
+}

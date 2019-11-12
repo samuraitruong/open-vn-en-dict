@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "9388", "link": "/find?type=1&query=biological", "word": "biological"}, {"id": "9388", "link": "/find?type=1&query=biological+control", "word": "biological control"}, {"id": "9388", "link": "/find?type=1&query=Biological+interest+rate", "word": "Biological interest rate"}, {"id": "9388", "link": "/find?type=1&query=biological+warfare", "word": "biological warfare"}, {"id": "9388", "link": "/find?type=1&query=biologically", "word": "biologically"}], "data": {"word": "biologic", "id": "9388", "pronounce": "/bai\u0259'l\u0254d\u02a4ik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) sinh v\u1eadt h\u1ecdc</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">biologic warfare</div>\n    \n    <div class=\"margin25\">chi\u1ebfn tranh vi tr\u00f9ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2638", "link": "/find?type=3&query=biological", "word": "biological"}, {"id": "2639", "link": "/find?type=3&query=biological+clock", "word": "biological clock"}, {"id": "2640", "link": "/find?type=3&query=biological+control", "word": "biological control"}, {"id": "2641", "link": "/find?type=3&query=biological+warfare", "word": "biological warfare"}, {"id": "2642", "link": "/find?type=3&query=biological+weapon", "word": "biological weapon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2638",
+                "link": "/find?type=3&query=biological",
+                "word": "biological"
+            },
+            {
+                "id": "2639",
+                "link": "/find?type=3&query=biological+clock",
+                "word": "biological clock"
+            },
+            {
+                "id": "2640",
+                "link": "/find?type=3&query=biological+control",
+                "word": "biological control"
+            },
+            {
+                "id": "2641",
+                "link": "/find?type=3&query=biological+warfare",
+                "word": "biological warfare"
+            },
+            {
+                "id": "2642",
+                "link": "/find?type=3&query=biological+weapon",
+                "word": "biological weapon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) sinh v\u1eadt h\u1ecdc</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">biologic warfare</div>\n    \n    <div class=\"margin25\">chi\u1ebfn tranh vi tr\u00f9ng</div>",
+            "id": "9388",
+            "mean": [],
+            "pronounce": "/bai\u0259'l\u0254d\u02a4ik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "biologic"
+        },
+        "suggests": [
+            {
+                "id": "9388",
+                "link": "/find?type=1&query=biological",
+                "word": "biological"
+            },
+            {
+                "id": "9388",
+                "link": "/find?type=1&query=biological+control",
+                "word": "biological control"
+            },
+            {
+                "id": "9388",
+                "link": "/find?type=1&query=Biological+interest+rate",
+                "word": "Biological interest rate"
+            },
+            {
+                "id": "9388",
+                "link": "/find?type=1&query=biological+warfare",
+                "word": "biological warfare"
+            },
+            {
+                "id": "9388",
+                "link": "/find?type=1&query=biologically",
+                "word": "biologically"
+            }
+        ]
+    }
+}

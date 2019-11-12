@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "6711", "link": "/find?type=1&query=auroral", "word": "auroral"}, {"id": "6711", "link": "/find?type=1&query=auroral+zone+propagation", "word": "auroral zone propagation"}, {"id": "6711", "link": "/find?type=1&query=aurorally", "word": "aurorally"}], "data": {"word": "aurora", "id": "6711", "pronounce": "/\u0254:'r\u0254:r\u0259/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">aurora borealis (c\u00e1ch vi\u1ebft kh\u00e1c northern lights)</div>\n    \n    <div class=\"grey margin25 m-top15\">B\u1eafc c\u1ef1c quang</div>\n    \n    <div class=\"bold dot-blue m-top15\">Aurora australis</div>\n    \n    <div class=\"grey margin25 m-top15\">Nam c\u1ef1c quang</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1659", "link": "/find?type=3&query=aurora+australis", "word": "aurora australis"}, {"id": "1660", "link": "/find?type=3&query=aurora+borealis", "word": "aurora borealis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1659",
+                "link": "/find?type=3&query=aurora+australis",
+                "word": "aurora australis"
+            },
+            {
+                "id": "1660",
+                "link": "/find?type=3&query=aurora+borealis",
+                "word": "aurora borealis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">aurora borealis (c\u00e1ch vi\u1ebft kh\u00e1c northern lights)</div>\n    \n    <div class=\"grey margin25 m-top15\">B\u1eafc c\u1ef1c quang</div>\n    \n    <div class=\"bold dot-blue m-top15\">Aurora australis</div>\n    \n    <div class=\"grey margin25 m-top15\">Nam c\u1ef1c quang</div>",
+            "id": "6711",
+            "mean": [],
+            "pronounce": "/\u0254:'r\u0254:r\u0259/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "aurora"
+        },
+        "suggests": [
+            {
+                "id": "6711",
+                "link": "/find?type=1&query=auroral",
+                "word": "auroral"
+            },
+            {
+                "id": "6711",
+                "link": "/find?type=1&query=auroral+zone+propagation",
+                "word": "auroral zone propagation"
+            },
+            {
+                "id": "6711",
+                "link": "/find?type=1&query=aurorally",
+                "word": "aurorally"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "4925", "link": "/find?type=1&query=apologist", "word": "apologist"}], "data": {}}, "en_en": {"suggests": [{"id": "1129", "link": "/find?type=3&query=apologist", "word": "apologist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1129",
+                "link": "/find?type=3&query=apologist",
+                "word": "apologist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4925",
+                "link": "/find?type=1&query=apologist",
+                "word": "apologist"
+            }
+        ]
+    }
+}

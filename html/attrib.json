@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "6526", "link": "/find?type=1&query=attributable", "word": "attributable"}, {"id": "6527", "link": "/find?type=1&query=attribute", "word": "attribute"}, {"id": "6528", "link": "/find?type=1&query=attributer", "word": "attributer"}, {"id": "6529", "link": "/find?type=1&query=attribution", "word": "attribution"}, {"id": "6530", "link": "/find?type=1&query=attributional", "word": "attributional"}, {"id": "6531", "link": "/find?type=1&query=attributive", "word": "attributive"}, {"id": "6532", "link": "/find?type=1&query=attributively", "word": "attributively"}, {"id": "6533", "link": "/find?type=1&query=attributiveness", "word": "attributiveness"}, {"id": "6534", "link": "/find?type=1&query=attributor", "word": "attributor"}], "data": {}}, "en_en": {"suggests": [{"id": "1612", "link": "/find?type=3&query=attributable", "word": "attributable"}, {"id": "1613", "link": "/find?type=3&query=attribute", "word": "attribute"}, {"id": "1614", "link": "/find?type=3&query=attributive", "word": "attributive"}], "data": {}}, "synonyms": {"suggests": [{"id": "382", "link": "/find?type=4&query=attribute", "word": "attribute"}, {"id": "383", "link": "/find?type=4&query=attribution", "word": "attribution"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1612",
+                "link": "/find?type=3&query=attributable",
+                "word": "attributable"
+            },
+            {
+                "id": "1613",
+                "link": "/find?type=3&query=attribute",
+                "word": "attribute"
+            },
+            {
+                "id": "1614",
+                "link": "/find?type=3&query=attributive",
+                "word": "attributive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6526",
+                "link": "/find?type=1&query=attributable",
+                "word": "attributable"
+            },
+            {
+                "id": "6527",
+                "link": "/find?type=1&query=attribute",
+                "word": "attribute"
+            },
+            {
+                "id": "6528",
+                "link": "/find?type=1&query=attributer",
+                "word": "attributer"
+            },
+            {
+                "id": "6529",
+                "link": "/find?type=1&query=attribution",
+                "word": "attribution"
+            },
+            {
+                "id": "6530",
+                "link": "/find?type=1&query=attributional",
+                "word": "attributional"
+            },
+            {
+                "id": "6531",
+                "link": "/find?type=1&query=attributive",
+                "word": "attributive"
+            },
+            {
+                "id": "6532",
+                "link": "/find?type=1&query=attributively",
+                "word": "attributively"
+            },
+            {
+                "id": "6533",
+                "link": "/find?type=1&query=attributiveness",
+                "word": "attributiveness"
+            },
+            {
+                "id": "6534",
+                "link": "/find?type=1&query=attributor",
+                "word": "attributor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "382",
+                "link": "/find?type=4&query=attribute",
+                "word": "attribute"
+            },
+            {
+                "id": "383",
+                "link": "/find?type=4&query=attribution",
+                "word": "attribution"
+            }
+        ]
+    }
+}

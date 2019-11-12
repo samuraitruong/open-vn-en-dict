@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "10399", "link": "/find?type=1&query=bonbon", "word": "bonbon"}], "data": {}}, "en_en": {"suggests": [{"id": "3075", "link": "/find?type=3&query=bonbon", "word": "bonbon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3075",
+                "link": "/find?type=3&query=bonbon",
+                "word": "bonbon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10399",
+                "link": "/find?type=1&query=bonbon",
+                "word": "bonbon"
+            }
+        ]
+    }
+}

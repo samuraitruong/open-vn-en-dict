@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "26889", "link": "/find?type=1&query=DOE", "word": "DOE"}, {"id": "26889", "link": "/find?type=1&query=doek", "word": "doek"}, {"id": "26889", "link": "/find?type=1&query=doer", "word": "doer"}, {"id": "26889", "link": "/find?type=1&query=does", "word": "does"}, {"id": "26889", "link": "/find?type=1&query=doeskin", "word": "doeskin"}], "data": {"word": "doe", "id": "26889", "pronounce": "/d\u0259\u028a/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u01a1u c\u00e1i, ho\u1eb5ng c\u00e1i, nai c\u00e1i, th\u1ecf c\u00e1i, th\u1ecf r\u1eebng c\u00e1i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c11d785e3609103de1587635e982a23a/16e5e0ceabc/D/doe.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/93c445ac081bc7f3749e386e2c8adff4/16e5e0cf06f/D/doe.mp3"}}}, "en_en": {"suggests": [{"id": "8473", "link": "/find?type=3&query=doe-eyed", "word": "doe-eyed"}, {"id": "8473", "link": "/find?type=3&query=doer", "word": "doer"}, {"id": "8473", "link": "/find?type=3&query=does", "word": "does"}, {"id": "8473", "link": "/find?type=3&query=doesn%27t", "word": "doesn't"}], "data": {"word": "doe", "id": "8473", "pronounce": "/\u02c8do\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural does or doe</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a female animal (such as a deer, rabbit, or kangaroo) - compare buck; see also jane doe, john doe</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural does or doe</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a female animal (such as a deer, rabbit, or kangaroo) - compare buck; see also jane doe, john doe</div>",
+            "id": "8473",
+            "mean": [],
+            "pronounce": "/\u02c8do\u028a/",
+            "type": "noun",
+            "word": "doe"
+        },
+        "suggests": [
+            {
+                "id": "8473",
+                "link": "/find?type=3&query=doe-eyed",
+                "word": "doe-eyed"
+            },
+            {
+                "id": "8473",
+                "link": "/find?type=3&query=doer",
+                "word": "doer"
+            },
+            {
+                "id": "8473",
+                "link": "/find?type=3&query=does",
+                "word": "does"
+            },
+            {
+                "id": "8473",
+                "link": "/find?type=3&query=doesn%27t",
+                "word": "doesn't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u01a1u c\u00e1i, ho\u1eb5ng c\u00e1i, nai c\u00e1i, th\u1ecf c\u00e1i, th\u1ecf r\u1eebng c\u00e1i</div>",
+            "id": "26889",
+            "mean": [],
+            "pronounce": "/d\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e8f51d4d299803a8a5a15f4382ee6df8/16e5ef8f6c9/D/doe.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5e4d4e1674b33d9674a0c1514603c5ba/16e5ef8edf4/D/doe.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "doe"
+        },
+        "suggests": [
+            {
+                "id": "26889",
+                "link": "/find?type=1&query=DOE",
+                "word": "DOE"
+            },
+            {
+                "id": "26889",
+                "link": "/find?type=1&query=doek",
+                "word": "doek"
+            },
+            {
+                "id": "26889",
+                "link": "/find?type=1&query=doer",
+                "word": "doer"
+            },
+            {
+                "id": "26889",
+                "link": "/find?type=1&query=does",
+                "word": "does"
+            },
+            {
+                "id": "26889",
+                "link": "/find?type=1&query=doeskin",
+                "word": "doeskin"
+            }
+        ]
+    }
+}

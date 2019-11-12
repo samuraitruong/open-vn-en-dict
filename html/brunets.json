@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11494", "link": "/find?type=1&query=brunette", "word": "brunette"}], "data": {}}, "en_en": {"suggests": [{"id": "3539", "link": "/find?type=3&query=brunette", "word": "brunette"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3539",
+                "link": "/find?type=3&query=brunette",
+                "word": "brunette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11494",
+                "link": "/find?type=1&query=brunette",
+                "word": "brunette"
+            }
+        ]
+    }
+}

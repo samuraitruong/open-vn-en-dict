@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "1479", "link": "/find?type=1&query=admixture", "word": "admixture"}], "data": {"word": "admix", "id": "1479", "pronounce": "/\u0259d'miks/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ed9n l\u1eabn, h\u1ed7n h\u1ee3p</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "347", "link": "/find?type=3&query=admixture", "word": "admixture"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "347",
+                "link": "/find?type=3&query=admixture",
+                "word": "admixture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ed9n l\u1eabn, h\u1ed7n h\u1ee3p</div>",
+            "id": "1479",
+            "mean": [],
+            "pronounce": "/\u0259d'miks/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "admix"
+        },
+        "suggests": [
+            {
+                "id": "1479",
+                "link": "/find?type=1&query=admixture",
+                "word": "admixture"
+            }
+        ]
+    }
+}

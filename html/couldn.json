@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "20267", "link": "/find?type=1&query=couldn%27t", "word": "couldn't"}, {"id": "20268", "link": "/find?type=1&query=couldn%27t", "word": "couldn't"}], "data": {}}, "en_en": {"suggests": [{"id": "6446", "link": "/find?type=3&query=couldn%27t", "word": "couldn't"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6446",
+                "link": "/find?type=3&query=couldn%27t",
+                "word": "couldn't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20267",
+                "link": "/find?type=1&query=couldn%27t",
+                "word": "couldn't"
+            },
+            {
+                "id": "20268",
+                "link": "/find?type=1&query=couldn%27t",
+                "word": "couldn't"
+            }
+        ]
+    }
+}

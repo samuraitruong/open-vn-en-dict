@@ -1,1 +1,32 @@
-{"error": 0, "query": "goll", "enViData": {"suggests": [{"id": "40649", "link": "/find?type=1&query=golliwog", "word": "golliwog"}, {"id": "40650", "link": "/find?type=1&query=gollop", "word": "gollop"}, {"id": "40651", "link": "/find?type=1&query=golly", "word": "golly"}]}, "mUrl": "/find?type=1&query=goll", "enEnData": {"suggests": [{"id": "12304", "link": "/find?type=3&query=golly", "word": "golly"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12304",
+                "link": "/find?type=3&query=golly",
+                "word": "golly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40649",
+                "link": "/find?type=1&query=golliwog",
+                "word": "golliwog"
+            },
+            {
+                "id": "40650",
+                "link": "/find?type=1&query=gollop",
+                "word": "gollop"
+            },
+            {
+                "id": "40651",
+                "link": "/find?type=1&query=golly",
+                "word": "golly"
+            }
+        ]
+    }
+}

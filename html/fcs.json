@@ -1,1 +1,43 @@
-{"en_vn": {"suggests": [{"id": "34431", "link": "/find?type=1&query=fcc+certification", "word": "fcc certification"}, {"id": "34431", "link": "/find?type=1&query=FCI", "word": "FCI"}, {"id": "34431", "link": "/find?type=1&query=FCO", "word": "FCO"}], "data": {"word": "FC", "id": "34431", "pronounce": "/efsi:/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Football Club (Anh))</div>\n    \n    <div class=\"green margin25 m-top15\">C\u00e2u l\u1ea1c b\u1ed9 b\u00f3ng \u0111\u00e1 (Anh)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b51c1b773227a41a1a12710d87ec0f16/16e5e20c265/F/FC.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/45291e77c7ab4e889b66359319a43e0f/16e5e20c816/F/FC.mp3"}}}, "en_en": {"suggests": [{"id": "10395", "link": "/find?type=3&query=FCC", "word": "FCC"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10395",
+                "link": "/find?type=3&query=FCC",
+                "word": "FCC"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Football Club (Anh))</div>\n    \n    <div class=\"green margin25 m-top15\">C\u00e2u l\u1ea1c b\u1ed9 b\u00f3ng \u0111\u00e1 (Anh)</div>",
+            "id": "34431",
+            "mean": [],
+            "pronounce": "/efsi:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d553dce9b3302759d80c39f28a64b8bb/16e6026fee9/F/FC.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/01c9e4a557fa6b120c6a4e060e8c84db/16e6026f6f1/F/FC.mp3"
+            },
+            "type": "",
+            "word": "FC"
+        },
+        "suggests": [
+            {
+                "id": "34431",
+                "link": "/find?type=1&query=fcc+certification",
+                "word": "fcc certification"
+            },
+            {
+                "id": "34431",
+                "link": "/find?type=1&query=FCI",
+                "word": "FCI"
+            },
+            {
+                "id": "34431",
+                "link": "/find?type=1&query=FCO",
+                "word": "FCO"
+            }
+        ]
+    }
+}

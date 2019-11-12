@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "25510", "link": "/find?type=1&query=dimple", "word": "dimple"}], "data": {}}, "en_en": {"suggests": [{"id": "8018", "link": "/find?type=3&query=dimple", "word": "dimple"}, {"id": "8019", "link": "/find?type=3&query=dimpled", "word": "dimpled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8018",
+                "link": "/find?type=3&query=dimple",
+                "word": "dimple"
+            },
+            {
+                "id": "8019",
+                "link": "/find?type=3&query=dimpled",
+                "word": "dimpled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25510",
+                "link": "/find?type=1&query=dimple",
+                "word": "dimple"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "8892", "link": "/find?type=1&query=beloved", "word": "beloved"}], "data": {}}, "en_en": {"suggests": [{"id": "2420", "link": "/find?type=3&query=beloved", "word": "beloved"}], "data": {}}, "synonyms": {"suggests": [{"id": "497", "link": "/find?type=4&query=beloved", "word": "beloved"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2420",
+                "link": "/find?type=3&query=beloved",
+                "word": "beloved"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8892",
+                "link": "/find?type=1&query=beloved",
+                "word": "beloved"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "497",
+                "link": "/find?type=4&query=beloved",
+                "word": "beloved"
+            }
+        ]
+    }
+}

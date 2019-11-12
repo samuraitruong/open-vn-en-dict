@@ -1,1 +1,107 @@
-{"en_vn": {"suggests": [{"id": "31619", "link": "/find?type=1&query=Equivalance+scale", "word": "Equivalance scale"}, {"id": "31620", "link": "/find?type=1&query=equivalence", "word": "equivalence"}, {"id": "31621", "link": "/find?type=1&query=equivalence+element", "word": "equivalence element"}, {"id": "31622", "link": "/find?type=1&query=equivalence%2C+%28cy%29", "word": "equivalence, (cy)"}, {"id": "31623", "link": "/find?type=1&query=equivalency", "word": "equivalency"}, {"id": "31624", "link": "/find?type=1&query=equivalent", "word": "equivalent"}, {"id": "31625", "link": "/find?type=1&query=equivalent+circuit", "word": "equivalent circuit"}, {"id": "31626", "link": "/find?type=1&query=Equivalent+commodity+scale", "word": "Equivalent commodity scale"}, {"id": "31627", "link": "/find?type=1&query=equivalent+diode", "word": "equivalent diode"}, {"id": "31628", "link": "/find?type=1&query=Equivalent+income+scale", "word": "Equivalent income scale"}], "data": {}}, "en_en": {"suggests": [{"id": "9714", "link": "/find?type=3&query=equivalence", "word": "equivalence"}, {"id": "9715", "link": "/find?type=3&query=equivalency", "word": "equivalency"}, {"id": "9716", "link": "/find?type=3&query=equivalent", "word": "equivalent"}, {"id": "9717", "link": "/find?type=3&query=equivocal", "word": "equivocal"}, {"id": "9718", "link": "/find?type=3&query=equivocate", "word": "equivocate"}], "data": {}}, "synonyms": {"suggests": [{"id": "2236", "link": "/find?type=4&query=equivalent", "word": "equivalent"}, {"id": "2237", "link": "/find?type=4&query=equivocal", "word": "equivocal"}, {"id": "2238", "link": "/find?type=4&query=equivocate", "word": "equivocate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9714",
+                "link": "/find?type=3&query=equivalence",
+                "word": "equivalence"
+            },
+            {
+                "id": "9715",
+                "link": "/find?type=3&query=equivalency",
+                "word": "equivalency"
+            },
+            {
+                "id": "9716",
+                "link": "/find?type=3&query=equivalent",
+                "word": "equivalent"
+            },
+            {
+                "id": "9717",
+                "link": "/find?type=3&query=equivocal",
+                "word": "equivocal"
+            },
+            {
+                "id": "9718",
+                "link": "/find?type=3&query=equivocate",
+                "word": "equivocate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31619",
+                "link": "/find?type=1&query=Equivalance+scale",
+                "word": "Equivalance scale"
+            },
+            {
+                "id": "31620",
+                "link": "/find?type=1&query=equivalence",
+                "word": "equivalence"
+            },
+            {
+                "id": "31621",
+                "link": "/find?type=1&query=equivalence+element",
+                "word": "equivalence element"
+            },
+            {
+                "id": "31622",
+                "link": "/find?type=1&query=equivalence%2C+%28cy%29",
+                "word": "equivalence, (cy)"
+            },
+            {
+                "id": "31623",
+                "link": "/find?type=1&query=equivalency",
+                "word": "equivalency"
+            },
+            {
+                "id": "31624",
+                "link": "/find?type=1&query=equivalent",
+                "word": "equivalent"
+            },
+            {
+                "id": "31625",
+                "link": "/find?type=1&query=equivalent+circuit",
+                "word": "equivalent circuit"
+            },
+            {
+                "id": "31626",
+                "link": "/find?type=1&query=Equivalent+commodity+scale",
+                "word": "Equivalent commodity scale"
+            },
+            {
+                "id": "31627",
+                "link": "/find?type=1&query=equivalent+diode",
+                "word": "equivalent diode"
+            },
+            {
+                "id": "31628",
+                "link": "/find?type=1&query=Equivalent+income+scale",
+                "word": "Equivalent income scale"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2236",
+                "link": "/find?type=4&query=equivalent",
+                "word": "equivalent"
+            },
+            {
+                "id": "2237",
+                "link": "/find?type=4&query=equivocal",
+                "word": "equivocal"
+            },
+            {
+                "id": "2238",
+                "link": "/find?type=4&query=equivocate",
+                "word": "equivocate"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "gabbles", "enViData": {"suggests": [{"id": "38673", "link": "/find?type=1&query=gabbler", "word": "gabbler"}], "best": {"id": "38673", "details": "\n<div id=\"find_word_38673\" class=\"world word_en\" rel=\"gabble\">\n    <h2 class=\"fl\">gabble <span class=\"color-black\">/'g\u00e6bl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38673\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38673\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(+ on, away) n\u00f3i li\u1ebfn tho\u1eafng</div>\n    \n    <div class=\"green margin25 m-top15\">(+ out) n\u00f3i qu\u00e1 nhanh nghe kh\u00f4ng hi\u1ec3u</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">L\u1eddi n\u00f3i nhanh kh\u00f3 hi\u1ec3u</div>\n    \n</div>\n", "link": "/find?type=1&query=gabble", "word": "gabble"}}, "mUrl": "/find?type=1&query=gabbles", "enEnData": {"suggests": [], "best": {"id": "11712", "details": "\n<div id=\"find_word_11712\" class=\"world word_en\" rel=\"gabble\">\n    <h2 class=\"fl\">gabble <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11712\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11712\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02c8g\u00e6b\u0259l/  gabbles; gabbled; gabbling /\u02c8g\u00e6bl\u026a\u014b/</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] chiefly Brit :to talk quickly and in a way that is difficult to understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I could hear my aunts gabbling [=babbling] in the kitchen.</div>\n    \n</div>\n", "link": "/find?type=3&query=gabble", "word": "gabble"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02c8g\u00e6b\u0259l/  gabbles; gabbled; gabbling /\u02c8g\u00e6bl\u026a\u014b/</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] chiefly Brit :to talk quickly and in a way that is difficult to understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I could hear my aunts gabbling [=babbling] in the kitchen.</div>",
+            "id": "11712",
+            "mean": [],
+            "pronounce": "",
+            "type": "verb",
+            "word": "gabble"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(+ on, away) n\u00f3i li\u1ebfn tho\u1eafng</div>\n    \n    <div class=\"green margin25 m-top15\">(+ out) n\u00f3i qu\u00e1 nhanh nghe kh\u00f4ng hi\u1ec3u</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">L\u1eddi n\u00f3i nhanh kh\u00f3 hi\u1ec3u</div>",
+            "id": "38673",
+            "mean": [],
+            "pronounce": "/'g\u00e6bl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8f8fced9464a9b31581a2b52beb19b53/16e60b9f7c0/G/gabble.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/87314fa529f9272a49ae6ef68d19076f/16e60b9efd0/G/gabble.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb Danh t\u1eeb",
+            "word": "gabble"
+        },
+        "suggests": [
+            {
+                "id": "38673",
+                "link": "/find?type=1&query=gabbler",
+                "word": "gabbler"
+            }
+        ]
+    }
+}

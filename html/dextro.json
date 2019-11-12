@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "24848", "link": "/find?type=1&query=dextro-glucose", "word": "dextro-glucose"}, {"id": "24848", "link": "/find?type=1&query=dextro-rotatory", "word": "dextro-rotatory"}, {"id": "24848", "link": "/find?type=1&query=dextrocardia", "word": "dextrocardia"}, {"id": "24848", "link": "/find?type=1&query=dextrogyrate", "word": "dextrogyrate"}, {"id": "24848", "link": "/find?type=1&query=dextrorse", "word": "dextrorse"}, {"id": "24848", "link": "/find?type=1&query=dextrose", "word": "dextrose"}, {"id": "24848", "link": "/find?type=1&query=dextrous", "word": "dextrous"}, {"id": "24848", "link": "/find?type=1&query=dextrously", "word": "dextrously"}], "data": {"word": "dextro", "id": "24848", "pronounce": "", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">quay sang ph\u1ea3i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7895", "link": "/find?type=3&query=dextrose", "word": "dextrose"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7895",
+                "link": "/find?type=3&query=dextrose",
+                "word": "dextrose"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">quay sang ph\u1ea3i</div>",
+            "id": "24848",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "dextro"
+        },
+        "suggests": [
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextro-glucose",
+                "word": "dextro-glucose"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextro-rotatory",
+                "word": "dextro-rotatory"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextrocardia",
+                "word": "dextrocardia"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextrogyrate",
+                "word": "dextrogyrate"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextrorse",
+                "word": "dextrorse"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextrose",
+                "word": "dextrose"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextrous",
+                "word": "dextrous"
+            },
+            {
+                "id": "24848",
+                "link": "/find?type=1&query=dextrously",
+                "word": "dextrously"
+            }
+        ]
+    }
+}

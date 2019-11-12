@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "8499", "link": "/find?type=1&query=bawbee", "word": "bawbee"}, {"id": "8500", "link": "/find?type=1&query=bawd", "word": "bawd"}, {"id": "8501", "link": "/find?type=1&query=bawdily", "word": "bawdily"}, {"id": "8502", "link": "/find?type=1&query=bawdiness", "word": "bawdiness"}, {"id": "8503", "link": "/find?type=1&query=bawdy", "word": "bawdy"}, {"id": "8504", "link": "/find?type=1&query=bawdy-house", "word": "bawdy-house"}, {"id": "8505", "link": "/find?type=1&query=bawl", "word": "bawl"}, {"id": "8506", "link": "/find?type=1&query=bawler", "word": "bawler"}], "data": {}}, "en_en": {"suggests": [{"id": "2199", "link": "/find?type=3&query=bawdy", "word": "bawdy"}, {"id": "2200", "link": "/find?type=3&query=bawl", "word": "bawl"}], "data": {}}, "synonyms": {"suggests": [{"id": "451", "link": "/find?type=4&query=bawdy", "word": "bawdy"}, {"id": "452", "link": "/find?type=4&query=bawl", "word": "bawl"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2199",
+                "link": "/find?type=3&query=bawdy",
+                "word": "bawdy"
+            },
+            {
+                "id": "2200",
+                "link": "/find?type=3&query=bawl",
+                "word": "bawl"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8499",
+                "link": "/find?type=1&query=bawbee",
+                "word": "bawbee"
+            },
+            {
+                "id": "8500",
+                "link": "/find?type=1&query=bawd",
+                "word": "bawd"
+            },
+            {
+                "id": "8501",
+                "link": "/find?type=1&query=bawdily",
+                "word": "bawdily"
+            },
+            {
+                "id": "8502",
+                "link": "/find?type=1&query=bawdiness",
+                "word": "bawdiness"
+            },
+            {
+                "id": "8503",
+                "link": "/find?type=1&query=bawdy",
+                "word": "bawdy"
+            },
+            {
+                "id": "8504",
+                "link": "/find?type=1&query=bawdy-house",
+                "word": "bawdy-house"
+            },
+            {
+                "id": "8505",
+                "link": "/find?type=1&query=bawl",
+                "word": "bawl"
+            },
+            {
+                "id": "8506",
+                "link": "/find?type=1&query=bawler",
+                "word": "bawler"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "451",
+                "link": "/find?type=4&query=bawdy",
+                "word": "bawdy"
+            },
+            {
+                "id": "452",
+                "link": "/find?type=4&query=bawl",
+                "word": "bawl"
+            }
+        ]
+    }
+}

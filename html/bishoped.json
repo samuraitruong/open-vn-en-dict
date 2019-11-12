@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "9521", "link": "/find?type=1&query=bishopric", "word": "bishopric"}], "data": {"word": "bishop", "id": "9521", "pronounce": "/'bi\u222b\u0259p/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e1m m\u1ee5c</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u00e2n h\u1eadu (c\u1edd vua)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c8e60aad13a1f3efa1d54bcbd63148a5/16e5dd75ba8/B/bishop.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e7e7a4feef7fa928e997f6dc85e1d14e/16e5dd76197/B/bishop.mp3"}}}, "en_en": {"suggests": [{"id": "2691", "link": "/find?type=3&query=bishopric", "word": "bishopric"}], "data": {"word": "bishop", "id": "2691", "pronounce": "/\u02c8b\u026a\u0283\u0259p/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ops</div>\n    \n    <div class=\"green margin25 m-top15\">[count] an official in some Christian religions who is ranked higher than a priest and who is usually in charge of church matters in a specific geographical area</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Roman Catholic bishops</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Bishop of New York</div>\n    \n    <div class=\"green margin25 m-top15\">a piece in the game of chess that moves across the board at an angle - see picture at chess</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ops</div>\n    \n    <div class=\"green margin25 m-top15\">[count] an official in some Christian religions who is ranked higher than a priest and who is usually in charge of church matters in a specific geographical area</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Roman Catholic bishops</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Bishop of New York</div>\n    \n    <div class=\"green margin25 m-top15\">a piece in the game of chess that moves across the board at an angle - see picture at chess</div>",
+            "id": "2691",
+            "mean": [],
+            "pronounce": "/\u02c8b\u026a\u0283\u0259p/",
+            "type": "noun",
+            "word": "bishop"
+        },
+        "suggests": [
+            {
+                "id": "2691",
+                "link": "/find?type=3&query=bishopric",
+                "word": "bishopric"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e1m m\u1ee5c</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u00e2n h\u1eadu (c\u1edd vua)</div>",
+            "id": "9521",
+            "mean": [],
+            "pronounce": "/'bi\u222b\u0259p/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fbdd557127ee16ac9e068e89f26ba487/16e5eb978e5/B/bishop.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b37c2a36582e3f51965c618cb167089e/16e5eb973ad/B/bishop.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bishop"
+        },
+        "suggests": [
+            {
+                "id": "9521",
+                "link": "/find?type=1&query=bishopric",
+                "word": "bishopric"
+            }
+        ]
+    }
+}

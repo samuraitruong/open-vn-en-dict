@@ -1,1 +1,53 @@
-{"en_vn": {"suggests": [{"id": "7793", "link": "/find?type=1&query=baking-hot", "word": "baking-hot"}, {"id": "7793", "link": "/find?type=1&query=baking-powder", "word": "baking-powder"}], "data": {"word": "baking", "id": "7793", "pronounce": "/'beiki\u0273/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 n\u01b0\u1edbng (b\u00e1nh...)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 nung (g\u1ea1ch...)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1ebb (b\u00e1nh, g\u1ea1ch...)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/99f5637222136fa30f089b8382246e3e/16e5dd02e7d/B/baking.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e32c6bf50d451e6812496510a3e3328b/16e5dd03450/B/baking.mp3"}}}, "en_en": {"suggests": [{"id": "1899", "link": "/find?type=3&query=baking+powder", "word": "baking powder"}, {"id": "1900", "link": "/find?type=3&query=baking+sheet", "word": "baking sheet"}, {"id": "1901", "link": "/find?type=3&query=baking+soda", "word": "baking soda"}, {"id": "1902", "link": "/find?type=3&query=baking+tray", "word": "baking tray"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1899",
+                "link": "/find?type=3&query=baking+powder",
+                "word": "baking powder"
+            },
+            {
+                "id": "1900",
+                "link": "/find?type=3&query=baking+sheet",
+                "word": "baking sheet"
+            },
+            {
+                "id": "1901",
+                "link": "/find?type=3&query=baking+soda",
+                "word": "baking soda"
+            },
+            {
+                "id": "1902",
+                "link": "/find?type=3&query=baking+tray",
+                "word": "baking tray"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 n\u01b0\u1edbng (b\u00e1nh...)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 nung (g\u1ea1ch...)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1ebb (b\u00e1nh, g\u1ea1ch...)</div>",
+            "id": "7793",
+            "mean": [],
+            "pronounce": "/'beiki\u0273/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/054079f03c4f920d85c3a64b41325036/16e5eb32c19/B/baking.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e5e27536108e2addf6a21e660208e143/16e5eb32703/B/baking.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "baking"
+        },
+        "suggests": [
+            {
+                "id": "7793",
+                "link": "/find?type=1&query=baking-hot",
+                "word": "baking-hot"
+            },
+            {
+                "id": "7793",
+                "link": "/find?type=1&query=baking-powder",
+                "word": "baking-powder"
+            }
+        ]
+    }
+}

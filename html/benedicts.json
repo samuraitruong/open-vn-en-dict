@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "8922", "link": "/find?type=1&query=Benedictine", "word": "Benedictine"}, {"id": "8923", "link": "/find?type=1&query=benediction", "word": "benediction"}, {"id": "8924", "link": "/find?type=1&query=benedictory", "word": "benedictory"}], "data": {}}, "en_en": {"suggests": [{"id": "2436", "link": "/find?type=3&query=benediction", "word": "benediction"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2436",
+                "link": "/find?type=3&query=benediction",
+                "word": "benediction"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8922",
+                "link": "/find?type=1&query=Benedictine",
+                "word": "Benedictine"
+            },
+            {
+                "id": "8923",
+                "link": "/find?type=1&query=benediction",
+                "word": "benediction"
+            },
+            {
+                "id": "8924",
+                "link": "/find?type=1&query=benedictory",
+                "word": "benedictory"
+            }
+        ]
+    }
+}

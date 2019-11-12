@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "29360", "link": "/find?type=1&query=electroencephalograph+%28EEG%29", "word": "electroencephalograph (EEG)"}, {"id": "29360", "link": "/find?type=1&query=electroencephalographic", "word": "electroencephalographic"}, {"id": "29360", "link": "/find?type=1&query=electroencephalography", "word": "electroencephalography"}], "data": {"word": "electroencephalograph", "id": "29360", "pronounce": "/i,lektr\u0259\u028a'k\u0251:di\u0259gr\u0251:f/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec7n n\u00e3o k\u00fd</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/314e47dd4ae450449c6d6e3b0fe87297/16e5e13263f/E/electroencephalograph.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/02ddeac425e5db680421b78e397a591f/16e5e132c25/E/electroencephalograph.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "electroencephalograph", "id": "9330", "pronounce": "/\u026a\u02ccl\u025bktrow\u026an\u02c8s\u025bf\u0259l\u0259\u02ccgr\u00e6f/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -graphs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :eeg</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -graphs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :eeg</div>",
+            "id": "9330",
+            "mean": [],
+            "pronounce": "/\u026a\u02ccl\u025bktrow\u026an\u02c8s\u025bf\u0259l\u0259\u02ccgr\u00e6f/",
+            "type": "noun",
+            "word": "electroencephalograph"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec7n n\u00e3o k\u00fd</div>",
+            "id": "29360",
+            "mean": [],
+            "pronounce": "/i,lektr\u0259\u028a'k\u0251:di\u0259gr\u0251:f/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7b9f245c19ce5a0beec711c156ffb107/16e5f037804/E/electroencephalograph.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bc759f4c58cdfc53f7c275f9bbc77f9c/16e5f036859/E/electroencephalograph.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "electroencephalograph"
+        },
+        "suggests": [
+            {
+                "id": "29360",
+                "link": "/find?type=1&query=electroencephalograph+%28EEG%29",
+                "word": "electroencephalograph (EEG)"
+            },
+            {
+                "id": "29360",
+                "link": "/find?type=1&query=electroencephalographic",
+                "word": "electroencephalographic"
+            },
+            {
+                "id": "29360",
+                "link": "/find?type=1&query=electroencephalography",
+                "word": "electroencephalography"
+            }
+        ]
+    }
+}

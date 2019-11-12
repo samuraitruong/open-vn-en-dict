@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "12848", "link": "/find?type=1&query=cantilena", "word": "cantilena"}, {"id": "12849", "link": "/find?type=1&query=cantilever", "word": "cantilever"}, {"id": "12850", "link": "/find?type=1&query=cantilever+bridge", "word": "cantilever bridge"}, {"id": "12851", "link": "/find?type=1&query=cantilever+network", "word": "cantilever network"}, {"id": "12852", "link": "/find?type=1&query=cantillate", "word": "cantillate"}, {"id": "12853", "link": "/find?type=1&query=cantillation", "word": "cantillation"}], "data": {}}, "en_en": {"suggests": [{"id": "4037", "link": "/find?type=3&query=cantilever", "word": "cantilever"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4037",
+                "link": "/find?type=3&query=cantilever",
+                "word": "cantilever"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12848",
+                "link": "/find?type=1&query=cantilena",
+                "word": "cantilena"
+            },
+            {
+                "id": "12849",
+                "link": "/find?type=1&query=cantilever",
+                "word": "cantilever"
+            },
+            {
+                "id": "12850",
+                "link": "/find?type=1&query=cantilever+bridge",
+                "word": "cantilever bridge"
+            },
+            {
+                "id": "12851",
+                "link": "/find?type=1&query=cantilever+network",
+                "word": "cantilever network"
+            },
+            {
+                "id": "12852",
+                "link": "/find?type=1&query=cantillate",
+                "word": "cantillate"
+            },
+            {
+                "id": "12853",
+                "link": "/find?type=1&query=cantillation",
+                "word": "cantillation"
+            }
+        ]
+    }
+}

@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "57", "link": "/find?type=1&query=abandon", "word": "abandon"}, {"id": "58", "link": "/find?type=1&query=abandon+call", "word": "abandon call"}, {"id": "59", "link": "/find?type=1&query=abandoned", "word": "abandoned"}, {"id": "60", "link": "/find?type=1&query=abandoner", "word": "abandoner"}, {"id": "61", "link": "/find?type=1&query=abandonment", "word": "abandonment"}], "data": {}}, "en_en": {"suggests": [{"id": "28", "link": "/find?type=3&query=abandon", "word": "abandon"}, {"id": "29", "link": "/find?type=3&query=abandoned", "word": "abandoned"}], "data": {}}, "synonyms": {"suggests": [{"id": "1", "link": "/find?type=4&query=abandon", "word": "abandon"}, {"id": "2", "link": "/find?type=4&query=abandoned", "word": "abandoned"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28",
+                "link": "/find?type=3&query=abandon",
+                "word": "abandon"
+            },
+            {
+                "id": "29",
+                "link": "/find?type=3&query=abandoned",
+                "word": "abandoned"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57",
+                "link": "/find?type=1&query=abandon",
+                "word": "abandon"
+            },
+            {
+                "id": "58",
+                "link": "/find?type=1&query=abandon+call",
+                "word": "abandon call"
+            },
+            {
+                "id": "59",
+                "link": "/find?type=1&query=abandoned",
+                "word": "abandoned"
+            },
+            {
+                "id": "60",
+                "link": "/find?type=1&query=abandoner",
+                "word": "abandoner"
+            },
+            {
+                "id": "61",
+                "link": "/find?type=1&query=abandonment",
+                "word": "abandonment"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1",
+                "link": "/find?type=4&query=abandon",
+                "word": "abandon"
+            },
+            {
+                "id": "2",
+                "link": "/find?type=4&query=abandoned",
+                "word": "abandoned"
+            }
+        ]
+    }
+}

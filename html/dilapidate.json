@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "25425", "link": "/find?type=1&query=dilapidated", "word": "dilapidated"}], "data": {"word": "dilapidate", "id": "25425", "pronounce": "/di'l\u00e6pideit/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m h\u01b0 n\u00e1t, l\u00e0m \u0111\u1ed5 n\u00e1t (nh\u00e0...); l\u00e0m long tay g\u00e3y ng\u00f5ng (\u0111\u1ed3 \u0111\u1ea1c); l\u00e0m x\u00e1c x\u01a1 (qu\u1ea7n \u00e1o...)</div>\n    \n    <div class=\"green margin25 m-top15\">phung ph\u00ed (c\u1ee7a c\u1ea3i)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7995", "link": "/find?type=3&query=dilapidated", "word": "dilapidated"}], "data": {}}, "synonyms": {"suggests": [{"id": "1673", "link": "/find?type=4&query=dilapidated", "word": "dilapidated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7995",
+                "link": "/find?type=3&query=dilapidated",
+                "word": "dilapidated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m h\u01b0 n\u00e1t, l\u00e0m \u0111\u1ed5 n\u00e1t (nh\u00e0...); l\u00e0m long tay g\u00e3y ng\u00f5ng (\u0111\u1ed3 \u0111\u1ea1c); l\u00e0m x\u00e1c x\u01a1 (qu\u1ea7n \u00e1o...)</div>\n    \n    <div class=\"green margin25 m-top15\">phung ph\u00ed (c\u1ee7a c\u1ea3i)</div>",
+            "id": "25425",
+            "mean": [],
+            "pronounce": "/di'l\u00e6pideit/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "dilapidate"
+        },
+        "suggests": [
+            {
+                "id": "25425",
+                "link": "/find?type=1&query=dilapidated",
+                "word": "dilapidated"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1673",
+                "link": "/find?type=4&query=dilapidated",
+                "word": "dilapidated"
+            }
+        ]
+    }
+}

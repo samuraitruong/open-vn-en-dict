@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "18618", "link": "/find?type=1&query=congratulatory", "word": "congratulatory"}], "data": {"word": "congratulator", "id": "18618", "pronounce": "/k\u0259n'gr\u00e6tjuleit\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ch\u00fac m\u1eebng, ng\u01b0\u1eddi khen ng\u1ee3i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5943", "link": "/find?type=3&query=congratulatory", "word": "congratulatory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5943",
+                "link": "/find?type=3&query=congratulatory",
+                "word": "congratulatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ch\u00fac m\u1eebng, ng\u01b0\u1eddi khen ng\u1ee3i</div>",
+            "id": "18618",
+            "mean": [],
+            "pronounce": "/k\u0259n'gr\u00e6tjuleit\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "congratulator"
+        },
+        "suggests": [
+            {
+                "id": "18618",
+                "link": "/find?type=1&query=congratulatory",
+                "word": "congratulatory"
+            }
+        ]
+    }
+}

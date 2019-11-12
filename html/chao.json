@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "14422", "link": "/find?type=1&query=chaos", "word": "chaos"}, {"id": "14423", "link": "/find?type=1&query=chaotic", "word": "chaotic"}, {"id": "14424", "link": "/find?type=1&query=chaotically", "word": "chaotically"}], "data": {}}, "en_en": {"suggests": [{"id": "4574", "link": "/find?type=3&query=chaos", "word": "chaos"}, {"id": "4575", "link": "/find?type=3&query=chaotic", "word": "chaotic"}], "data": {}}, "synonyms": {"suggests": [{"id": "943", "link": "/find?type=4&query=chaos", "word": "chaos"}, {"id": "944", "link": "/find?type=4&query=chaotic", "word": "chaotic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4574",
+                "link": "/find?type=3&query=chaos",
+                "word": "chaos"
+            },
+            {
+                "id": "4575",
+                "link": "/find?type=3&query=chaotic",
+                "word": "chaotic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14422",
+                "link": "/find?type=1&query=chaos",
+                "word": "chaos"
+            },
+            {
+                "id": "14423",
+                "link": "/find?type=1&query=chaotic",
+                "word": "chaotic"
+            },
+            {
+                "id": "14424",
+                "link": "/find?type=1&query=chaotically",
+                "word": "chaotically"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "943",
+                "link": "/find?type=4&query=chaos",
+                "word": "chaos"
+            },
+            {
+                "id": "944",
+                "link": "/find?type=4&query=chaotic",
+                "word": "chaotic"
+            }
+        ]
+    }
+}

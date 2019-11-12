@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "12865", "link": "/find?type=1&query=cantorial", "word": "cantorial"}], "data": {"word": "cantor", "id": "12865", "pronounce": "/'k\u00e6nt\u0254[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u0129nh x\u01b0\u1edbng ban \u0111\u1ed3ng ca nh\u00e0 th\u1edd</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/3de27ce6507707ad173ac6566eb73f0a/16e5de2a4ee/C/cantor.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cantor", "id": "4040", "pronounce": "/\u02c8k\u00e6nt\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who sings and leads people in prayer in a Jewish religious service</div>\n    \n    <div class=\"green margin25 m-top15\">a person who leads a group of singers in a church</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who sings and leads people in prayer in a Jewish religious service</div>\n    \n    <div class=\"green margin25 m-top15\">a person who leads a group of singers in a church</div>",
+            "id": "4040",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6nt\u025a/",
+            "type": "noun",
+            "word": "cantor"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u0129nh x\u01b0\u1edbng ban \u0111\u1ed3ng ca nh\u00e0 th\u1edd</div>",
+            "id": "12865",
+            "mean": [],
+            "pronounce": "/'k\u00e6nt\u0254[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6e034b14c1451a8f33bc89816f35bbb7/16e5ec3aa1e/C/cantor.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cantor"
+        },
+        "suggests": [
+            {
+                "id": "12865",
+                "link": "/find?type=1&query=cantorial",
+                "word": "cantorial"
+            }
+        ]
+    }
+}

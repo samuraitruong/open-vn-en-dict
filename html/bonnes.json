@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "10439", "link": "/find?type=1&query=bonnet", "word": "bonnet"}], "data": {"word": "bonne", "id": "10439", "pronounce": "/b\u0254n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4 gi\u1eef tr\u1ebb</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3098", "link": "/find?type=3&query=bonnet", "word": "bonnet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3098",
+                "link": "/find?type=3&query=bonnet",
+                "word": "bonnet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4 gi\u1eef tr\u1ebb</div>",
+            "id": "10439",
+            "mean": [],
+            "pronounce": "/b\u0254n/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bonne"
+        },
+        "suggests": [
+            {
+                "id": "10439",
+                "link": "/find?type=1&query=bonnet",
+                "word": "bonnet"
+            }
+        ]
+    }
+}

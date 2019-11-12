@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "10790", "link": "/find?type=1&query=bowline", "word": "bowline"}, {"id": "10791", "link": "/find?type=1&query=bowling", "word": "bowling"}, {"id": "10792", "link": "/find?type=1&query=bowling+alley", "word": "bowling alley"}, {"id": "10793", "link": "/find?type=1&query=bowling+green", "word": "bowling green"}], "data": {}}, "en_en": {"suggests": [{"id": "3265", "link": "/find?type=3&query=bowling", "word": "bowling"}, {"id": "3266", "link": "/find?type=3&query=bowling+alley", "word": "bowling alley"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3265",
+                "link": "/find?type=3&query=bowling",
+                "word": "bowling"
+            },
+            {
+                "id": "3266",
+                "link": "/find?type=3&query=bowling+alley",
+                "word": "bowling alley"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10790",
+                "link": "/find?type=1&query=bowline",
+                "word": "bowline"
+            },
+            {
+                "id": "10791",
+                "link": "/find?type=1&query=bowling",
+                "word": "bowling"
+            },
+            {
+                "id": "10792",
+                "link": "/find?type=1&query=bowling+alley",
+                "word": "bowling alley"
+            },
+            {
+                "id": "10793",
+                "link": "/find?type=1&query=bowling+green",
+                "word": "bowling green"
+            }
+        ]
+    }
+}

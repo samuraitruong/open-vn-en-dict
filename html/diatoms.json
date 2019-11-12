@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "25060", "link": "/find?type=1&query=diatomaceous", "word": "diatomaceous"}, {"id": "25060", "link": "/find?type=1&query=diatomaceous+earth", "word": "diatomaceous earth"}, {"id": "25060", "link": "/find?type=1&query=diatomic", "word": "diatomic"}, {"id": "25060", "link": "/find?type=1&query=diatomite", "word": "diatomite"}], "data": {"word": "diatom", "id": "25060", "pronounce": "/'dai\u0259t\u0259m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ea3o v\u1ecf</div>\n    \n", "speak": {}}}}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ea3o v\u1ecf</div>",
+            "id": "25060",
+            "mean": [],
+            "pronounce": "/'dai\u0259t\u0259m/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "diatom"
+        },
+        "suggests": [
+            {
+                "id": "25060",
+                "link": "/find?type=1&query=diatomaceous",
+                "word": "diatomaceous"
+            },
+            {
+                "id": "25060",
+                "link": "/find?type=1&query=diatomaceous+earth",
+                "word": "diatomaceous earth"
+            },
+            {
+                "id": "25060",
+                "link": "/find?type=1&query=diatomic",
+                "word": "diatomic"
+            },
+            {
+                "id": "25060",
+                "link": "/find?type=1&query=diatomite",
+                "word": "diatomite"
+            }
+        ]
+    }
+}

@@ -1,1 +1,73 @@
-{"en_vn": {"suggests": [{"id": "12158", "link": "/find?type=1&query=byte+pointer", "word": "byte pointer"}, {"id": "12158", "link": "/find?type=1&query=byte+stuffing", "word": "byte stuffing"}, {"id": "12158", "link": "/find?type=1&query=byte+synchronization", "word": "byte synchronization"}, {"id": "12158", "link": "/find?type=1&query=byte-addressable", "word": "byte-addressable"}, {"id": "12158", "link": "/find?type=1&query=byte-addressable+storage", "word": "byte-addressable storage"}, {"id": "12158", "link": "/find?type=1&query=byte-aligned", "word": "byte-aligned"}, {"id": "12158", "link": "/find?type=1&query=-byte+character", "word": "-byte character"}, {"id": "12158", "link": "/find?type=1&query=-byte+character+code", "word": "-byte character code"}, {"id": "12158", "link": "/find?type=1&query=-byte+character+set", "word": "-byte character set"}], "data": {"word": "byte", "id": "12158", "pronounce": "/'bait/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111i\u1ec7n to\u00e1n)</div>\n    \n    <div class=\"green margin25 m-top15\">byte (b\u1eb1ng 8 b\u00edt)</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/aedded95ba9e0bc7f0668ec2ad31ed59/16e5dd78108/B/byte.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "byte", "id": "3818", "pronounce": "/\u02c8ba\u026at/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural bytes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a unit of computer information that is equal to eight bits - see also gigabyte, kilobyte, megabyte</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural bytes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a unit of computer information that is equal to eight bits - see also gigabyte, kilobyte, megabyte</div>",
+            "id": "3818",
+            "mean": [],
+            "pronounce": "/\u02c8ba\u026at/",
+            "type": "noun",
+            "word": "byte"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111i\u1ec7n to\u00e1n)</div>\n    \n    <div class=\"green margin25 m-top15\">byte (b\u1eb1ng 8 b\u00edt)</div>",
+            "id": "12158",
+            "mean": [],
+            "pronounce": "/'bait/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/511567fe944e666294cdd1dfcc42f980/16e5eb998bf/B/byte.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "byte"
+        },
+        "suggests": [
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=byte+pointer",
+                "word": "byte pointer"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=byte+stuffing",
+                "word": "byte stuffing"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=byte+synchronization",
+                "word": "byte synchronization"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=byte-addressable",
+                "word": "byte-addressable"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=byte-addressable+storage",
+                "word": "byte-addressable storage"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=byte-aligned",
+                "word": "byte-aligned"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=-byte+character",
+                "word": "-byte character"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=-byte+character+code",
+                "word": "-byte character code"
+            },
+            {
+                "id": "12158",
+                "link": "/find?type=1&query=-byte+character+set",
+                "word": "-byte character set"
+            }
+        ]
+    }
+}

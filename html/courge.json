@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "20479", "link": "/find?type=1&query=courgette", "word": "courgette"}], "data": {}}, "en_en": {"suggests": [{"id": "6516", "link": "/find?type=3&query=courgette", "word": "courgette"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6516",
+                "link": "/find?type=3&query=courgette",
+                "word": "courgette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20479",
+                "link": "/find?type=1&query=courgette",
+                "word": "courgette"
+            }
+        ]
+    }
+}

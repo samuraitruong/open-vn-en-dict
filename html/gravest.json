@@ -1,1 +1,22 @@
-{"error": 0, "query": "gravest", "enViData": {"suggests": [{"id": "41283", "link": "/find?type=1&query=gravestone", "word": "gravestone"}]}, "mUrl": "/find?type=1&query=gravest", "enEnData": {"suggests": [{"id": "12527", "link": "/find?type=3&query=gravestone", "word": "gravestone"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12527",
+                "link": "/find?type=3&query=gravestone",
+                "word": "gravestone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41283",
+                "link": "/find?type=1&query=gravestone",
+                "word": "gravestone"
+            }
+        ]
+    }
+}

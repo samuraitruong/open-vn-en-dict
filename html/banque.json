@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "8052", "link": "/find?type=1&query=banquet", "word": "banquet"}, {"id": "8053", "link": "/find?type=1&query=banqueter", "word": "banqueter"}, {"id": "8054", "link": "/find?type=1&query=banquette", "word": "banquette"}], "data": {}}, "en_en": {"suggests": [{"id": "2012", "link": "/find?type=3&query=banquet", "word": "banquet"}], "data": {}}, "synonyms": {"suggests": [{"id": "431", "link": "/find?type=4&query=banquet", "word": "banquet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2012",
+                "link": "/find?type=3&query=banquet",
+                "word": "banquet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8052",
+                "link": "/find?type=1&query=banquet",
+                "word": "banquet"
+            },
+            {
+                "id": "8053",
+                "link": "/find?type=1&query=banqueter",
+                "word": "banqueter"
+            },
+            {
+                "id": "8054",
+                "link": "/find?type=1&query=banquette",
+                "word": "banquette"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "431",
+                "link": "/find?type=4&query=banquet",
+                "word": "banquet"
+            }
+        ]
+    }
+}

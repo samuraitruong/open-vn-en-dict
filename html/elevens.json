@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "29788", "link": "/find?type=1&query=elevenses", "word": "elevenses"}], "data": {"word": "elevens", "id": "29788", "pronounce": "/i'levnz/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) b\u1eefa \u0103n nh\u1eb9 l\u00fac (11 gi\u1edd s\u00e1ng)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9356", "link": "/find?type=3&query=eleventh+hour", "word": "eleventh hour"}], "data": {"word": "eleven", "id": "9356", "pronounce": "/\u026a\u02c8l\u025bv\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the number</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the eleventh in a set or series</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">page eleven</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">item/question number eleven</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :eleven o'clock</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I got home last night at eleven.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the number</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the eleventh in a set or series</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">page eleven</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">item/question number eleven</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :eleven o'clock</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I got home last night at eleven.</div>",
+            "id": "9356",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8l\u025bv\u0259n/",
+            "type": "noun",
+            "word": "eleven"
+        },
+        "suggests": [
+            {
+                "id": "9356",
+                "link": "/find?type=3&query=eleventh+hour",
+                "word": "eleventh hour"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) b\u1eefa \u0103n nh\u1eb9 l\u00fac (11 gi\u1edd s\u00e1ng)</div>",
+            "id": "29788",
+            "mean": [],
+            "pronounce": "/i'levnz/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "elevens"
+        },
+        "suggests": [
+            {
+                "id": "29788",
+                "link": "/find?type=1&query=elevenses",
+                "word": "elevenses"
+            }
+        ]
+    }
+}

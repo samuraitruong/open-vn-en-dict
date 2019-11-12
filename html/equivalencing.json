@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "31620", "link": "/find?type=1&query=equivalence+element", "word": "equivalence element"}, {"id": "31620", "link": "/find?type=1&query=equivalence%2C+%28cy%29", "word": "equivalence, (cy)"}], "data": {"word": "equivalence", "id": "31620", "pronounce": "/i'kwiv\u0259l\u0259ns/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 t\u01b0\u01a1ng \u0111\u01b0\u01a1ng</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt t\u01b0\u01a1ng \u0111\u01b0\u01a1ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "equivalence", "id": "9714", "pronounce": "/\u026a\u02c8kw\u026av\u0259l\u0259ns/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :the quality or state of being alike :the quality or state of having the same value, function, meaning, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the equivalence of the two propositions - compare equality</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :the quality or state of being alike :the quality or state of having the same value, function, meaning, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the equivalence of the two propositions - compare equality</div>",
+            "id": "9714",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8kw\u026av\u0259l\u0259ns/",
+            "type": "noun",
+            "word": "equivalence"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">s\u1ef1 t\u01b0\u01a1ng \u0111\u01b0\u01a1ng</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt t\u01b0\u01a1ng \u0111\u01b0\u01a1ng</div>",
+            "id": "31620",
+            "mean": [],
+            "pronounce": "/i'kwiv\u0259l\u0259ns/",
+            "speak": {},
+            "type": "",
+            "word": "equivalence"
+        },
+        "suggests": [
+            {
+                "id": "31620",
+                "link": "/find?type=1&query=equivalence+element",
+                "word": "equivalence element"
+            },
+            {
+                "id": "31620",
+                "link": "/find?type=1&query=equivalence%2C+%28cy%29",
+                "word": "equivalence, (cy)"
+            }
+        ]
+    }
+}

@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "5913", "link": "/find?type=1&query=ASEAN", "word": "ASEAN"}, {"id": "5914", "link": "/find?type=1&query=aseanpol", "word": "aseanpol"}, {"id": "5915", "link": "/find?type=1&query=asemic", "word": "asemic"}, {"id": "5916", "link": "/find?type=1&query=asepsis", "word": "asepsis"}, {"id": "5917", "link": "/find?type=1&query=aseptate", "word": "aseptate"}, {"id": "5918", "link": "/find?type=1&query=aseptic", "word": "aseptic"}, {"id": "5919", "link": "/find?type=1&query=aseptically", "word": "aseptically"}, {"id": "5920", "link": "/find?type=1&query=asepticism", "word": "asepticism"}, {"id": "5921", "link": "/find?type=1&query=asexual", "word": "asexual"}, {"id": "5922", "link": "/find?type=1&query=asexuality", "word": "asexuality"}], "data": {}}, "en_en": {"suggests": [{"id": "1419", "link": "/find?type=3&query=aseptic", "word": "aseptic"}, {"id": "1420", "link": "/find?type=3&query=asexual", "word": "asexual"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1419",
+                "link": "/find?type=3&query=aseptic",
+                "word": "aseptic"
+            },
+            {
+                "id": "1420",
+                "link": "/find?type=3&query=asexual",
+                "word": "asexual"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5913",
+                "link": "/find?type=1&query=ASEAN",
+                "word": "ASEAN"
+            },
+            {
+                "id": "5914",
+                "link": "/find?type=1&query=aseanpol",
+                "word": "aseanpol"
+            },
+            {
+                "id": "5915",
+                "link": "/find?type=1&query=asemic",
+                "word": "asemic"
+            },
+            {
+                "id": "5916",
+                "link": "/find?type=1&query=asepsis",
+                "word": "asepsis"
+            },
+            {
+                "id": "5917",
+                "link": "/find?type=1&query=aseptate",
+                "word": "aseptate"
+            },
+            {
+                "id": "5918",
+                "link": "/find?type=1&query=aseptic",
+                "word": "aseptic"
+            },
+            {
+                "id": "5919",
+                "link": "/find?type=1&query=aseptically",
+                "word": "aseptically"
+            },
+            {
+                "id": "5920",
+                "link": "/find?type=1&query=asepticism",
+                "word": "asepticism"
+            },
+            {
+                "id": "5921",
+                "link": "/find?type=1&query=asexual",
+                "word": "asexual"
+            },
+            {
+                "id": "5922",
+                "link": "/find?type=1&query=asexuality",
+                "word": "asexuality"
+            }
+        ]
+    }
+}

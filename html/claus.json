@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "15894", "link": "/find?type=1&query=clausal", "word": "clausal"}, {"id": "15895", "link": "/find?type=1&query=clause", "word": "clause"}, {"id": "15896", "link": "/find?type=1&query=claustral", "word": "claustral"}, {"id": "15897", "link": "/find?type=1&query=claustrophobe", "word": "claustrophobe"}, {"id": "15898", "link": "/find?type=1&query=claustrophobia", "word": "claustrophobia"}, {"id": "15899", "link": "/find?type=1&query=claustrophobic", "word": "claustrophobic"}, {"id": "15900", "link": "/find?type=1&query=claustrophobically", "word": "claustrophobically"}], "data": {}}, "en_en": {"suggests": [{"id": "5113", "link": "/find?type=3&query=clause", "word": "clause"}, {"id": "5114", "link": "/find?type=3&query=claustrophobia", "word": "claustrophobia"}, {"id": "5115", "link": "/find?type=3&query=claustrophobic", "word": "claustrophobic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5113",
+                "link": "/find?type=3&query=clause",
+                "word": "clause"
+            },
+            {
+                "id": "5114",
+                "link": "/find?type=3&query=claustrophobia",
+                "word": "claustrophobia"
+            },
+            {
+                "id": "5115",
+                "link": "/find?type=3&query=claustrophobic",
+                "word": "claustrophobic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15894",
+                "link": "/find?type=1&query=clausal",
+                "word": "clausal"
+            },
+            {
+                "id": "15895",
+                "link": "/find?type=1&query=clause",
+                "word": "clause"
+            },
+            {
+                "id": "15896",
+                "link": "/find?type=1&query=claustral",
+                "word": "claustral"
+            },
+            {
+                "id": "15897",
+                "link": "/find?type=1&query=claustrophobe",
+                "word": "claustrophobe"
+            },
+            {
+                "id": "15898",
+                "link": "/find?type=1&query=claustrophobia",
+                "word": "claustrophobia"
+            },
+            {
+                "id": "15899",
+                "link": "/find?type=1&query=claustrophobic",
+                "word": "claustrophobic"
+            },
+            {
+                "id": "15900",
+                "link": "/find?type=1&query=claustrophobically",
+                "word": "claustrophobically"
+            }
+        ]
+    }
+}

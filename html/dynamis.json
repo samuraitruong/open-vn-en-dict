@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "28294", "link": "/find?type=1&query=dynamism", "word": "dynamism"}, {"id": "28295", "link": "/find?type=1&query=dynamist", "word": "dynamist"}], "data": {}}, "en_en": {"suggests": [{"id": "9082", "link": "/find?type=3&query=dynamism", "word": "dynamism"}], "data": {}}, "synonyms": {"suggests": [{"id": "1990", "link": "/find?type=4&query=dynamism", "word": "dynamism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9082",
+                "link": "/find?type=3&query=dynamism",
+                "word": "dynamism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28294",
+                "link": "/find?type=1&query=dynamism",
+                "word": "dynamism"
+            },
+            {
+                "id": "28295",
+                "link": "/find?type=1&query=dynamist",
+                "word": "dynamist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1990",
+                "link": "/find?type=4&query=dynamism",
+                "word": "dynamism"
+            }
+        ]
+    }
+}

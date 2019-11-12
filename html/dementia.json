@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "23855", "link": "/find?type=1&query=dementia+praecox", "word": "dementia praecox"}, {"id": "23855", "link": "/find?type=1&query=demential", "word": "demential"}], "data": {"word": "dementia", "id": "23855", "pronounce": "/di'men\u222b\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 sa s\u00fat tr\u00ed tu\u1ec7</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4b8241ad02b7c70b4d676d2684cc3a0c/16e5e02b24d/D/dementia.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cde749412443b03bcbf67506b8d2b0c4/16e5e02b85c/D/dementia.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "dementia", "id": "7599", "pronounce": "/d\u026a\u02c8m\u025bn\u0283\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tias</div>\n    \n    <div class=\"green margin25 m-top15\">medical :a mental illness that causes someone to be unable to think clearly or to understand what is real and what is not real [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">This patient suffers from dementia. [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a new study on age-related dementias - see also senile dementia</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tias</div>\n    \n    <div class=\"green margin25 m-top15\">medical :a mental illness that causes someone to be unable to think clearly or to understand what is real and what is not real [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">This patient suffers from dementia. [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a new study on age-related dementias - see also senile dementia</div>",
+            "id": "7599",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8m\u025bn\u0283\u0259/",
+            "type": "noun",
+            "word": "dementia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 sa s\u00fat tr\u00ed tu\u1ec7</div>",
+            "id": "23855",
+            "mean": [],
+            "pronounce": "/di'men\u222b\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5fce3ff8543af87535d46a8a4da2d231/16e5eeab77e/D/dementia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9bff870b1d50a8acccb87ffd81c7edfd/16e5eeaaecd/D/dementia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "dementia"
+        },
+        "suggests": [
+            {
+                "id": "23855",
+                "link": "/find?type=1&query=dementia+praecox",
+                "word": "dementia praecox"
+            },
+            {
+                "id": "23855",
+                "link": "/find?type=1&query=demential",
+                "word": "demential"
+            }
+        ]
+    }
+}

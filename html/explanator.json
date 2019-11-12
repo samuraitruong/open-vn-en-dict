@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "33195", "link": "/find?type=1&query=explanatorily", "word": "explanatorily"}, {"id": "33196", "link": "/find?type=1&query=explanatory", "word": "explanatory"}, {"id": "33197", "link": "/find?type=1&query=Explanatory+variable", "word": "Explanatory variable"}], "data": {}}, "en_en": {"suggests": [{"id": "10039", "link": "/find?type=3&query=explanatory", "word": "explanatory"}], "data": {}}, "synonyms": {"suggests": [{"id": "2399", "link": "/find?type=4&query=explanatory", "word": "explanatory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10039",
+                "link": "/find?type=3&query=explanatory",
+                "word": "explanatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33195",
+                "link": "/find?type=1&query=explanatorily",
+                "word": "explanatorily"
+            },
+            {
+                "id": "33196",
+                "link": "/find?type=1&query=explanatory",
+                "word": "explanatory"
+            },
+            {
+                "id": "33197",
+                "link": "/find?type=1&query=Explanatory+variable",
+                "word": "Explanatory variable"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2399",
+                "link": "/find?type=4&query=explanatory",
+                "word": "explanatory"
+            }
+        ]
+    }
+}

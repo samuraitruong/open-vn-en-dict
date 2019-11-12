@@ -1,1 +1,127 @@
-{"en_vn": {"suggests": [{"id": "14276", "link": "/find?type=1&query=chain", "word": "chain"}, {"id": "14277", "link": "/find?type=1&query=chain+armour", "word": "chain armour"}, {"id": "14278", "link": "/find?type=1&query=chain+code", "word": "chain code"}, {"id": "14279", "link": "/find?type=1&query=chain+command", "word": "chain command"}, {"id": "14280", "link": "/find?type=1&query=chain+gang", "word": "chain gang"}, {"id": "14281", "link": "/find?type=1&query=chain+inference", "word": "chain inference"}, {"id": "14282", "link": "/find?type=1&query=chain+letter", "word": "chain letter"}, {"id": "14283", "link": "/find?type=1&query=chain+mail", "word": "chain mail"}, {"id": "14284", "link": "/find?type=1&query=chain+reaction", "word": "chain reaction"}, {"id": "14285", "link": "/find?type=1&query=Chain+rule", "word": "Chain rule"}], "data": {}}, "en_en": {"suggests": [{"id": "4510", "link": "/find?type=3&query=chain", "word": "chain"}, {"id": "4511", "link": "/find?type=3&query=chain+gang", "word": "chain gang"}, {"id": "4512", "link": "/find?type=3&query=chain+letter", "word": "chain letter"}, {"id": "4513", "link": "/find?type=3&query=chain+mail", "word": "chain mail"}, {"id": "4514", "link": "/find?type=3&query=chain+of+command", "word": "chain of command"}, {"id": "4515", "link": "/find?type=3&query=chain+reaction", "word": "chain reaction"}, {"id": "4516", "link": "/find?type=3&query=chain+saw", "word": "chain saw"}, {"id": "4517", "link": "/find?type=3&query=chain+store", "word": "chain store"}, {"id": "4518", "link": "/find?type=3&query=chain-link+fence", "word": "chain-link fence"}, {"id": "4519", "link": "/find?type=3&query=chain-smoke", "word": "chain-smoke"}], "data": {}}, "synonyms": {"suggests": [{"id": "932", "link": "/find?type=4&query=chain", "word": "chain"}, {"id": "933", "link": "/find?type=4&query=chair", "word": "chair"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4510",
+                "link": "/find?type=3&query=chain",
+                "word": "chain"
+            },
+            {
+                "id": "4511",
+                "link": "/find?type=3&query=chain+gang",
+                "word": "chain gang"
+            },
+            {
+                "id": "4512",
+                "link": "/find?type=3&query=chain+letter",
+                "word": "chain letter"
+            },
+            {
+                "id": "4513",
+                "link": "/find?type=3&query=chain+mail",
+                "word": "chain mail"
+            },
+            {
+                "id": "4514",
+                "link": "/find?type=3&query=chain+of+command",
+                "word": "chain of command"
+            },
+            {
+                "id": "4515",
+                "link": "/find?type=3&query=chain+reaction",
+                "word": "chain reaction"
+            },
+            {
+                "id": "4516",
+                "link": "/find?type=3&query=chain+saw",
+                "word": "chain saw"
+            },
+            {
+                "id": "4517",
+                "link": "/find?type=3&query=chain+store",
+                "word": "chain store"
+            },
+            {
+                "id": "4518",
+                "link": "/find?type=3&query=chain-link+fence",
+                "word": "chain-link fence"
+            },
+            {
+                "id": "4519",
+                "link": "/find?type=3&query=chain-smoke",
+                "word": "chain-smoke"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14276",
+                "link": "/find?type=1&query=chain",
+                "word": "chain"
+            },
+            {
+                "id": "14277",
+                "link": "/find?type=1&query=chain+armour",
+                "word": "chain armour"
+            },
+            {
+                "id": "14278",
+                "link": "/find?type=1&query=chain+code",
+                "word": "chain code"
+            },
+            {
+                "id": "14279",
+                "link": "/find?type=1&query=chain+command",
+                "word": "chain command"
+            },
+            {
+                "id": "14280",
+                "link": "/find?type=1&query=chain+gang",
+                "word": "chain gang"
+            },
+            {
+                "id": "14281",
+                "link": "/find?type=1&query=chain+inference",
+                "word": "chain inference"
+            },
+            {
+                "id": "14282",
+                "link": "/find?type=1&query=chain+letter",
+                "word": "chain letter"
+            },
+            {
+                "id": "14283",
+                "link": "/find?type=1&query=chain+mail",
+                "word": "chain mail"
+            },
+            {
+                "id": "14284",
+                "link": "/find?type=1&query=chain+reaction",
+                "word": "chain reaction"
+            },
+            {
+                "id": "14285",
+                "link": "/find?type=1&query=Chain+rule",
+                "word": "Chain rule"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "932",
+                "link": "/find?type=4&query=chain",
+                "word": "chain"
+            },
+            {
+                "id": "933",
+                "link": "/find?type=4&query=chair",
+                "word": "chair"
+            }
+        ]
+    }
+}

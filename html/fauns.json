@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "34389", "link": "/find?type=1&query=fauna", "word": "fauna"}, {"id": "34389", "link": "/find?type=1&query=faunae", "word": "faunae"}, {"id": "34389", "link": "/find?type=1&query=faunal", "word": "faunal"}, {"id": "34389", "link": "/find?type=1&query=faunist", "word": "faunist"}, {"id": "34389", "link": "/find?type=1&query=faunistic", "word": "faunistic"}, {"id": "34389", "link": "/find?type=1&query=faunistical", "word": "faunistical"}, {"id": "34389", "link": "/find?type=1&query=faunology", "word": "faunology"}, {"id": "34389", "link": "/find?type=1&query=faunula", "word": "faunula"}, {"id": "34389", "link": "/find?type=1&query=faunus", "word": "faunus"}], "data": {"word": "faun", "id": "34389", "pronounce": "/f\u0254:n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea7n \u0111\u1ed3ng \u00e1ng (th\u1ea7n tho\u1ea1i La M\u00e3, th\u00e2n ng\u01b0\u1eddi c\u00f3 s\u1eebng v\u00e0 ch\u00e2n d\u00ea)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/263bb85ca3df6dbb8013b4d42f0f6a7a/16e5e209ed9/F/faun.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0c28b9ab5fe3ed734569c2b7c22ab68c/16e5e20a4a1/F/faun.mp3"}}}, "en_en": {"suggests": [{"id": "10380", "link": "/find?type=3&query=fauna", "word": "fauna"}], "data": {"word": "faun", "id": "10380", "pronounce": "/\u02c8f\u0251\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural fauns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a creature in Roman mythology that is part human and part goat</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural fauns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a creature in Roman mythology that is part human and part goat</div>",
+            "id": "10380",
+            "mean": [],
+            "pronounce": "/\u02c8f\u0251\u02d0n/",
+            "type": "noun",
+            "word": "faun"
+        },
+        "suggests": [
+            {
+                "id": "10380",
+                "link": "/find?type=3&query=fauna",
+                "word": "fauna"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea7n \u0111\u1ed3ng \u00e1ng (th\u1ea7n tho\u1ea1i La M\u00e3, th\u00e2n ng\u01b0\u1eddi c\u00f3 s\u1eebng v\u00e0 ch\u00e2n d\u00ea)</div>",
+            "id": "34389",
+            "mean": [],
+            "pronounce": "/f\u0254:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9258786bd517c2be779a300b71ac44cc/16e60250b5b/F/faun.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5de0e16d905c2271503b55e9b1820e97/16e60250362/F/faun.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "faun"
+        },
+        "suggests": [
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=fauna",
+                "word": "fauna"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunae",
+                "word": "faunae"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunal",
+                "word": "faunal"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunist",
+                "word": "faunist"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunistic",
+                "word": "faunistic"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunistical",
+                "word": "faunistical"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunology",
+                "word": "faunology"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunula",
+                "word": "faunula"
+            },
+            {
+                "id": "34389",
+                "link": "/find?type=1&query=faunus",
+                "word": "faunus"
+            }
+        ]
+    }
+}

@@ -1,1 +1,50 @@
-{"error": 0, "query": "granny", "enViData": {"suggests": [{"id": "41102", "link": "/find?type=1&query=granny+flat", "word": "granny flat"}, {"id": "41102", "link": "/find?type=1&query=granny+knot", "word": "granny knot"}], "best": {"id": "41102", "details": "\n<div id=\"find_word_41102\" class=\"world word_en\" rel=\"granny\">\n    <h2 class=\"fl\">granny <span class=\"color-black\">/'gr\u00e6ni/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41102\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41102\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">c\u0169ng nh\u01b0 grannie</div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef) b\u00e0</div>\n    \n</div>\n", "link": "/find?type=1&query=granny", "word": "granny"}}, "mUrl": "/find?type=1&query=granny", "enEnData": {"suggests": [{"id": "12482", "link": "/find?type=3&query=granny+flat", "word": "granny flat"}, {"id": "12482", "link": "/find?type=3&query=granny+knot", "word": "granny knot"}], "best": {"id": "12482", "details": "\n<div id=\"find_word_12482\" class=\"world word_en\" rel=\"granny\">\n    <h2 class=\"fl\">granny <span class=\"color-black\">/\u02c8gr\u00e6ni/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12482\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12482\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">also grannie  , pl -nies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :grandmother</div>\n    \n</div>\n", "link": "/find?type=3&query=granny", "word": "granny"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">also grannie  , pl -nies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :grandmother</div>",
+            "id": "12482",
+            "mean": [],
+            "pronounce": "/\u02c8gr\u00e6ni/",
+            "type": "noun",
+            "word": "granny"
+        },
+        "suggests": [
+            {
+                "id": "12482",
+                "link": "/find?type=3&query=granny+flat",
+                "word": "granny flat"
+            },
+            {
+                "id": "12482",
+                "link": "/find?type=3&query=granny+knot",
+                "word": "granny knot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">c\u0169ng nh\u01b0 grannie</div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef) b\u00e0</div>",
+            "id": "41102",
+            "mean": [],
+            "pronounce": "/'gr\u00e6ni/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/08ed1dfe45c3b0240dbaead384a85ba6/16e6122e407/G/granny.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6abbd33b1be622c28a2949275c4cc3f9/16e6122dc18/G/granny.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "granny"
+        },
+        "suggests": [
+            {
+                "id": "41102",
+                "link": "/find?type=1&query=granny+flat",
+                "word": "granny flat"
+            },
+            {
+                "id": "41102",
+                "link": "/find?type=1&query=granny+knot",
+                "word": "granny knot"
+            }
+        ]
+    }
+}

@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "19341", "link": "/find?type=1&query=contributory", "word": "contributory"}], "data": {"word": "contributor", "id": "19341", "pronounce": "/k\u0259n'tribju:t\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111\u00f3ng g\u00f3p (ti\u1ec1n cho m\u1ed9t qu\u1ef9, b\u00e0i cho m\u1ed9t t\u1edd b\u00e1o\u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/2440bf5772ddab6be5fad86300771be1/16e5df63f75/C/contributor.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8177e6f0037027123128dfeaac5c8427/16e5df6453b/C/contributor.mp3"}}}, "en_en": {"suggests": [{"id": "6160", "link": "/find?type=3&query=contributory", "word": "contributory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6160",
+                "link": "/find?type=3&query=contributory",
+                "word": "contributory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111\u00f3ng g\u00f3p (ti\u1ec1n cho m\u1ed9t qu\u1ef9, b\u00e0i cho m\u1ed9t t\u1edd b\u00e1o\u2026)</div>",
+            "id": "19341",
+            "mean": [],
+            "pronounce": "/k\u0259n'tribju:t\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/66bf4911acac7ea1bd0eb0f11670c7be/16e5ed99c8b/C/contributor.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ba557c8cfba28ed9ebf6981130d6ea94/16e5ed993c5/C/contributor.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "contributor"
+        },
+        "suggests": [
+            {
+                "id": "19341",
+                "link": "/find?type=1&query=contributory",
+                "word": "contributory"
+            }
+        ]
+    }
+}

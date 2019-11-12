@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "31979", "link": "/find?type=1&query=esquimau", "word": "esquimau"}, {"id": "31979", "link": "/find?type=1&query=esquimaux", "word": "esquimaux"}, {"id": "31979", "link": "/find?type=1&query=Esquire", "word": "Esquire"}, {"id": "31979", "link": "/find?type=1&query=esquisse", "word": "esquisse"}, {"id": "31979", "link": "/find?type=1&query=-esque", "word": "-esque"}], "data": {"word": "Esq", "id": "31979", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Esquire)</div>\n    \n    <div class=\"green margin25 m-top15\">Ng\u00e0i (vi\u1ebft \u0111\u1eb1ng sau t\u00ean, h\u1ecd, tr\u00ean \u0111\u1ecba ch\u1ec9 \u0111\u1ec1 tr\u00ean th\u01b0)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Edgar Broughton, Esq</div>\n    \n    <div class=\"margin25\">Ng\u00e0i Edgar Broughton</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9782", "link": "/find?type=3&query=Esq.", "word": "Esq."}, {"id": "9783", "link": "/find?type=3&query=esquire", "word": "esquire"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9782",
+                "link": "/find?type=3&query=Esq.",
+                "word": "Esq."
+            },
+            {
+                "id": "9783",
+                "link": "/find?type=3&query=esquire",
+                "word": "esquire"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Esquire)</div>\n    \n    <div class=\"green margin25 m-top15\">Ng\u00e0i (vi\u1ebft \u0111\u1eb1ng sau t\u00ean, h\u1ecd, tr\u00ean \u0111\u1ecba ch\u1ec9 \u0111\u1ec1 tr\u00ean th\u01b0)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Edgar Broughton, Esq</div>\n    \n    <div class=\"margin25\">Ng\u00e0i Edgar Broughton</div>",
+            "id": "31979",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "Esq"
+        },
+        "suggests": [
+            {
+                "id": "31979",
+                "link": "/find?type=1&query=esquimau",
+                "word": "esquimau"
+            },
+            {
+                "id": "31979",
+                "link": "/find?type=1&query=esquimaux",
+                "word": "esquimaux"
+            },
+            {
+                "id": "31979",
+                "link": "/find?type=1&query=Esquire",
+                "word": "Esquire"
+            },
+            {
+                "id": "31979",
+                "link": "/find?type=1&query=esquisse",
+                "word": "esquisse"
+            },
+            {
+                "id": "31979",
+                "link": "/find?type=1&query=-esque",
+                "word": "-esque"
+            }
+        ]
+    }
+}

@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "14720", "link": "/find?type=1&query=chemical", "word": "chemical"}, {"id": "14720", "link": "/find?type=1&query=chemical+engineer", "word": "chemical engineer"}, {"id": "14720", "link": "/find?type=1&query=chemical+warfare", "word": "chemical warfare"}, {"id": "14720", "link": "/find?type=1&query=chemically", "word": "chemically"}, {"id": "14720", "link": "/find?type=1&query=chemicals", "word": "chemicals"}, {"id": "14720", "link": "/find?type=1&query=chemico-physical", "word": "chemico-physical"}], "data": {"word": "chemic", "id": "14720", "pronounce": "", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thu\u1ed9c ho\u00e1 h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5, ngh\u0129a c\u1ed5) thu\u1ed9c thu\u1eadt luy\u1ec7n kim</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4699", "link": "/find?type=3&query=chemical", "word": "chemical"}, {"id": "4700", "link": "/find?type=3&query=chemical+engineering", "word": "chemical engineering"}, {"id": "4701", "link": "/find?type=3&query=chemical+reaction", "word": "chemical reaction"}, {"id": "4702", "link": "/find?type=3&query=chemical+warfare", "word": "chemical warfare"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4699",
+                "link": "/find?type=3&query=chemical",
+                "word": "chemical"
+            },
+            {
+                "id": "4700",
+                "link": "/find?type=3&query=chemical+engineering",
+                "word": "chemical engineering"
+            },
+            {
+                "id": "4701",
+                "link": "/find?type=3&query=chemical+reaction",
+                "word": "chemical reaction"
+            },
+            {
+                "id": "4702",
+                "link": "/find?type=3&query=chemical+warfare",
+                "word": "chemical warfare"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thu\u1ed9c ho\u00e1 h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5, ngh\u0129a c\u1ed5) thu\u1ed9c thu\u1eadt luy\u1ec7n kim</div>",
+            "id": "14720",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "chemic"
+        },
+        "suggests": [
+            {
+                "id": "14720",
+                "link": "/find?type=1&query=chemical",
+                "word": "chemical"
+            },
+            {
+                "id": "14720",
+                "link": "/find?type=1&query=chemical+engineer",
+                "word": "chemical engineer"
+            },
+            {
+                "id": "14720",
+                "link": "/find?type=1&query=chemical+warfare",
+                "word": "chemical warfare"
+            },
+            {
+                "id": "14720",
+                "link": "/find?type=1&query=chemically",
+                "word": "chemically"
+            },
+            {
+                "id": "14720",
+                "link": "/find?type=1&query=chemicals",
+                "word": "chemicals"
+            },
+            {
+                "id": "14720",
+                "link": "/find?type=1&query=chemico-physical",
+                "word": "chemico-physical"
+            }
+        ]
+    }
+}

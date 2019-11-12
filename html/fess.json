@@ -1,1 +1,43 @@
-{"en_vn": {"suggests": [{"id": "34876", "link": "/find?type=1&query=fesse", "word": "fesse"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "fess", "id": "10497", "pronounce": "/\u02c8f\u025bs/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">fesses; fessed; fessing</div>\n    \n    <div class=\"bold dot-blue m-top15\">fess up</div>\n    \n    <div class=\"grey margin25 m-top15\">[phrasal verb] chiefly US informal :to admit that you have done something wrong :confess</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">At first he denied everything, but eventually he fessed up.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He finally fessed up about his involvement. = He finally fessed up to being involved.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "2581", "link": "/find?type=4&query=fester", "word": "fester"}, {"id": "2582", "link": "/find?type=4&query=festival", "word": "festival"}, {"id": "2583", "link": "/find?type=4&query=festivity", "word": "festivity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">fesses; fessed; fessing</div>\n    \n    <div class=\"bold dot-blue m-top15\">fess up</div>\n    \n    <div class=\"grey margin25 m-top15\">[phrasal verb] chiefly US informal :to admit that you have done something wrong :confess</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">At first he denied everything, but eventually he fessed up.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He finally fessed up about his involvement. = He finally fessed up to being involved.</div>",
+            "id": "10497",
+            "mean": [],
+            "pronounce": "/\u02c8f\u025bs/",
+            "type": "verb",
+            "word": "fess"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34876",
+                "link": "/find?type=1&query=fesse",
+                "word": "fesse"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2581",
+                "link": "/find?type=4&query=fester",
+                "word": "fester"
+            },
+            {
+                "id": "2582",
+                "link": "/find?type=4&query=festival",
+                "word": "festival"
+            },
+            {
+                "id": "2583",
+                "link": "/find?type=4&query=festivity",
+                "word": "festivity"
+            }
+        ]
+    }
+}

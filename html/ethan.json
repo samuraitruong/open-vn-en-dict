@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "32091", "link": "/find?type=1&query=ethane", "word": "ethane"}, {"id": "32092", "link": "/find?type=1&query=ethanol", "word": "ethanol"}, {"id": "32093", "link": "/find?type=1&query=ethanolamine", "word": "ethanolamine"}], "data": {}}, "en_en": {"suggests": [{"id": "9814", "link": "/find?type=3&query=ethanol", "word": "ethanol"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9814",
+                "link": "/find?type=3&query=ethanol",
+                "word": "ethanol"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32091",
+                "link": "/find?type=1&query=ethane",
+                "word": "ethane"
+            },
+            {
+                "id": "32092",
+                "link": "/find?type=1&query=ethanol",
+                "word": "ethanol"
+            },
+            {
+                "id": "32093",
+                "link": "/find?type=1&query=ethanolamine",
+                "word": "ethanolamine"
+            }
+        ]
+    }
+}

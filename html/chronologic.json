@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "15307", "link": "/find?type=1&query=chronological", "word": "chronological"}, {"id": "15307", "link": "/find?type=1&query=chronologically", "word": "chronologically"}], "data": {"word": "chronologic", "id": "15307", "pronounce": "/kr\u0254n\u0259'l\u0254d\u02a4ik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) ni\u00ean \u0111\u1ea1i h\u1ecdc; theo th\u1ee9 t\u1ef1 ni\u00ean \u0111\u1ea1i; theo th\u1ee9 t\u1ef1 th\u1eddi gian</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">in chronologic order</div>\n    \n    <div class=\"margin25\">theo th\u1ee9 t\u1ef1 th\u1eddi gian</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4928", "link": "/find?type=3&query=chronological", "word": "chronological"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4928",
+                "link": "/find?type=3&query=chronological",
+                "word": "chronological"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) ni\u00ean \u0111\u1ea1i h\u1ecdc; theo th\u1ee9 t\u1ef1 ni\u00ean \u0111\u1ea1i; theo th\u1ee9 t\u1ef1 th\u1eddi gian</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">in chronologic order</div>\n    \n    <div class=\"margin25\">theo th\u1ee9 t\u1ef1 th\u1eddi gian</div>",
+            "id": "15307",
+            "mean": [],
+            "pronounce": "/kr\u0254n\u0259'l\u0254d\u02a4ik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "chronologic"
+        },
+        "suggests": [
+            {
+                "id": "15307",
+                "link": "/find?type=1&query=chronological",
+                "word": "chronological"
+            },
+            {
+                "id": "15307",
+                "link": "/find?type=1&query=chronologically",
+                "word": "chronologically"
+            }
+        ]
+    }
+}

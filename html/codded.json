@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "16675", "link": "/find?type=1&query=coddle", "word": "coddle"}, {"id": "16676", "link": "/find?type=1&query=coddler", "word": "coddler"}], "data": {}}, "en_en": {"suggests": [{"id": "5391", "link": "/find?type=3&query=coddle", "word": "coddle"}], "data": {}}, "synonyms": {"suggests": [{"id": "1076", "link": "/find?type=4&query=coddle", "word": "coddle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5391",
+                "link": "/find?type=3&query=coddle",
+                "word": "coddle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16675",
+                "link": "/find?type=1&query=coddle",
+                "word": "coddle"
+            },
+            {
+                "id": "16676",
+                "link": "/find?type=1&query=coddler",
+                "word": "coddler"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1076",
+                "link": "/find?type=4&query=coddle",
+                "word": "coddle"
+            }
+        ]
+    }
+}

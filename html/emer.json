@@ -1,1 +1,132 @@
-{"en_vn": {"suggests": [{"id": "30072", "link": "/find?type=1&query=emerald", "word": "emerald"}, {"id": "30073", "link": "/find?type=1&query=emerge", "word": "emerge"}, {"id": "30074", "link": "/find?type=1&query=emergence", "word": "emergence"}, {"id": "30075", "link": "/find?type=1&query=emergency", "word": "emergency"}, {"id": "30076", "link": "/find?type=1&query=emergency+communication", "word": "emergency communication"}, {"id": "30077", "link": "/find?type=1&query=emergency+door", "word": "emergency door"}, {"id": "30078", "link": "/find?type=1&query=emergency+exit", "word": "emergency exit"}, {"id": "30079", "link": "/find?type=1&query=emergency+signal", "word": "emergency signal"}, {"id": "30080", "link": "/find?type=1&query=emergent", "word": "emergent"}, {"id": "30081", "link": "/find?type=1&query=emeritus", "word": "emeritus"}], "data": {}}, "en_en": {"suggests": [{"id": "9419", "link": "/find?type=3&query=emerald", "word": "emerald"}, {"id": "9420", "link": "/find?type=3&query=emerge", "word": "emerge"}, {"id": "9421", "link": "/find?type=3&query=emergence", "word": "emergence"}, {"id": "9422", "link": "/find?type=3&query=emergency", "word": "emergency"}, {"id": "9423", "link": "/find?type=3&query=emergency+brake", "word": "emergency brake"}, {"id": "9424", "link": "/find?type=3&query=emergency+medical+technician", "word": "emergency medical technician"}, {"id": "9425", "link": "/find?type=3&query=emergency+room", "word": "emergency room"}, {"id": "9426", "link": "/find?type=3&query=emergent", "word": "emergent"}, {"id": "9427", "link": "/find?type=3&query=emerging", "word": "emerging"}, {"id": "9428", "link": "/find?type=3&query=emeritus", "word": "emeritus"}], "data": {}}, "synonyms": {"suggests": [{"id": "2103", "link": "/find?type=4&query=emerge", "word": "emerge"}, {"id": "2104", "link": "/find?type=4&query=emergence", "word": "emergence"}, {"id": "2105", "link": "/find?type=4&query=emergency", "word": "emergency"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9419",
+                "link": "/find?type=3&query=emerald",
+                "word": "emerald"
+            },
+            {
+                "id": "9420",
+                "link": "/find?type=3&query=emerge",
+                "word": "emerge"
+            },
+            {
+                "id": "9421",
+                "link": "/find?type=3&query=emergence",
+                "word": "emergence"
+            },
+            {
+                "id": "9422",
+                "link": "/find?type=3&query=emergency",
+                "word": "emergency"
+            },
+            {
+                "id": "9423",
+                "link": "/find?type=3&query=emergency+brake",
+                "word": "emergency brake"
+            },
+            {
+                "id": "9424",
+                "link": "/find?type=3&query=emergency+medical+technician",
+                "word": "emergency medical technician"
+            },
+            {
+                "id": "9425",
+                "link": "/find?type=3&query=emergency+room",
+                "word": "emergency room"
+            },
+            {
+                "id": "9426",
+                "link": "/find?type=3&query=emergent",
+                "word": "emergent"
+            },
+            {
+                "id": "9427",
+                "link": "/find?type=3&query=emerging",
+                "word": "emerging"
+            },
+            {
+                "id": "9428",
+                "link": "/find?type=3&query=emeritus",
+                "word": "emeritus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30072",
+                "link": "/find?type=1&query=emerald",
+                "word": "emerald"
+            },
+            {
+                "id": "30073",
+                "link": "/find?type=1&query=emerge",
+                "word": "emerge"
+            },
+            {
+                "id": "30074",
+                "link": "/find?type=1&query=emergence",
+                "word": "emergence"
+            },
+            {
+                "id": "30075",
+                "link": "/find?type=1&query=emergency",
+                "word": "emergency"
+            },
+            {
+                "id": "30076",
+                "link": "/find?type=1&query=emergency+communication",
+                "word": "emergency communication"
+            },
+            {
+                "id": "30077",
+                "link": "/find?type=1&query=emergency+door",
+                "word": "emergency door"
+            },
+            {
+                "id": "30078",
+                "link": "/find?type=1&query=emergency+exit",
+                "word": "emergency exit"
+            },
+            {
+                "id": "30079",
+                "link": "/find?type=1&query=emergency+signal",
+                "word": "emergency signal"
+            },
+            {
+                "id": "30080",
+                "link": "/find?type=1&query=emergent",
+                "word": "emergent"
+            },
+            {
+                "id": "30081",
+                "link": "/find?type=1&query=emeritus",
+                "word": "emeritus"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2103",
+                "link": "/find?type=4&query=emerge",
+                "word": "emerge"
+            },
+            {
+                "id": "2104",
+                "link": "/find?type=4&query=emergence",
+                "word": "emergence"
+            },
+            {
+                "id": "2105",
+                "link": "/find?type=4&query=emergency",
+                "word": "emergency"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "5148", "link": "/find?type=1&query=approachable", "word": "approachable"}], "data": {}}, "en_en": {"suggests": [{"id": "1199", "link": "/find?type=3&query=approachable", "word": "approachable"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1199",
+                "link": "/find?type=3&query=approachable",
+                "word": "approachable"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5148",
+                "link": "/find?type=1&query=approachable",
+                "word": "approachable"
+            }
+        ]
+    }
+}

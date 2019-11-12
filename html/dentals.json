@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "24081", "link": "/find?type=1&query=dental+floss", "word": "dental floss"}, {"id": "24081", "link": "/find?type=1&query=dental+hygienist", "word": "dental hygienist"}, {"id": "24081", "link": "/find?type=1&query=dental+plate", "word": "dental plate"}, {"id": "24081", "link": "/find?type=1&query=dental+surgeon", "word": "dental surgeon"}], "data": {"word": "dental", "id": "24081", "pronounce": "/'dentl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] r\u0103ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a dental treatment</div>\n    \n    <div class=\"margin25\">s\u1ef1 ch\u1eefa r\u0103ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dental sounds</div>\n    \n    <div class=\"margin25\">(ng\u00f4n ng\u1eef h\u1ecdc) \u00e2m r\u0103ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d27e1c2a99b65de3a08e91fb61617734/16e5e038077/D/dental.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a85b0332e68635211b7361081a83139f/16e5e038631/D/dental.mp3"}}}, "en_en": {"suggests": [{"id": "7653", "link": "/find?type=3&query=dental+floss", "word": "dental floss"}, {"id": "7653", "link": "/find?type=3&query=dental+hygienist", "word": "dental hygienist"}], "data": {"word": "dental", "id": "7653", "pronounce": "/\u02c8d\u025bntn\u0329/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to teeth or to the work dentists do</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dental decay</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">your dental records [=the information about your teeth that your dentist has]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She decided to go to dental school. [=a school where you are trained to be a dentist]</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to teeth or to the work dentists do</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dental decay</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">your dental records [=the information about your teeth that your dentist has]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She decided to go to dental school. [=a school where you are trained to be a dentist]</div>",
+            "id": "7653",
+            "mean": [],
+            "pronounce": "/\u02c8d\u025bntn\u0329/",
+            "type": "adjective",
+            "word": "dental"
+        },
+        "suggests": [
+            {
+                "id": "7653",
+                "link": "/find?type=3&query=dental+floss",
+                "word": "dental floss"
+            },
+            {
+                "id": "7653",
+                "link": "/find?type=3&query=dental+hygienist",
+                "word": "dental hygienist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] r\u0103ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a dental treatment</div>\n    \n    <div class=\"margin25\">s\u1ef1 ch\u1eefa r\u0103ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dental sounds</div>\n    \n    <div class=\"margin25\">(ng\u00f4n ng\u1eef h\u1ecdc) \u00e2m r\u0103ng</div>",
+            "id": "24081",
+            "mean": [],
+            "pronounce": "/'dentl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a1e945d418ff581cd342dcb229505779/16e5eebd42a/D/dental.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/394964f6520748ba29640178c261fb6a/16e5eebca2b/D/dental.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "dental"
+        },
+        "suggests": [
+            {
+                "id": "24081",
+                "link": "/find?type=1&query=dental+floss",
+                "word": "dental floss"
+            },
+            {
+                "id": "24081",
+                "link": "/find?type=1&query=dental+hygienist",
+                "word": "dental hygienist"
+            },
+            {
+                "id": "24081",
+                "link": "/find?type=1&query=dental+plate",
+                "word": "dental plate"
+            },
+            {
+                "id": "24081",
+                "link": "/find?type=1&query=dental+surgeon",
+                "word": "dental surgeon"
+            }
+        ]
+    }
+}

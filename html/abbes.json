@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "83", "link": "/find?type=1&query=abbess", "word": "abbess"}], "data": {}}, "en_en": {"suggests": [{"id": "34", "link": "/find?type=3&query=abbess", "word": "abbess"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34",
+                "link": "/find?type=3&query=abbess",
+                "word": "abbess"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "83",
+                "link": "/find?type=1&query=abbess",
+                "word": "abbess"
+            }
+        ]
+    }
+}

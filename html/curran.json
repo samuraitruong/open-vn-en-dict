@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "21791", "link": "/find?type=1&query=currant", "word": "currant"}, {"id": "21792", "link": "/find?type=1&query=currant+tree", "word": "currant tree"}], "data": {}}, "en_en": {"suggests": [{"id": "7017", "link": "/find?type=3&query=currant", "word": "currant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7017",
+                "link": "/find?type=3&query=currant",
+                "word": "currant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21791",
+                "link": "/find?type=1&query=currant",
+                "word": "currant"
+            },
+            {
+                "id": "21792",
+                "link": "/find?type=1&query=currant+tree",
+                "word": "currant tree"
+            }
+        ]
+    }
+}

@@ -1,1 +1,79 @@
-{"en_vn": {"suggests": [{"id": "2332", "link": "/find?type=1&query=aka", "word": "aka"}, {"id": "2333", "link": "/find?type=1&query=akaryocyte", "word": "akaryocyte"}, {"id": "2334", "link": "/find?type=1&query=akaryote", "word": "akaryote"}, {"id": "2335", "link": "/find?type=1&query=akene", "word": "akene"}, {"id": "2336", "link": "/find?type=1&query=akimbo", "word": "akimbo"}, {"id": "2337", "link": "/find?type=1&query=akin", "word": "akin"}, {"id": "2338", "link": "/find?type=1&query=akinesia", "word": "akinesia"}], "data": {}}, "en_en": {"suggests": [{"id": "616", "link": "/find?type=3&query=aka", "word": "aka"}, {"id": "616", "link": "/find?type=3&query=akimbo", "word": "akimbo"}, {"id": "616", "link": "/find?type=3&query=akin", "word": "akin"}], "data": {"word": "AK", "id": "616", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Alaska</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "182", "link": "/find?type=4&query=akin", "word": "akin"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Alaska</div>",
+            "id": "616",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "AK"
+        },
+        "suggests": [
+            {
+                "id": "616",
+                "link": "/find?type=3&query=aka",
+                "word": "aka"
+            },
+            {
+                "id": "616",
+                "link": "/find?type=3&query=akimbo",
+                "word": "akimbo"
+            },
+            {
+                "id": "616",
+                "link": "/find?type=3&query=akin",
+                "word": "akin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2332",
+                "link": "/find?type=1&query=aka",
+                "word": "aka"
+            },
+            {
+                "id": "2333",
+                "link": "/find?type=1&query=akaryocyte",
+                "word": "akaryocyte"
+            },
+            {
+                "id": "2334",
+                "link": "/find?type=1&query=akaryote",
+                "word": "akaryote"
+            },
+            {
+                "id": "2335",
+                "link": "/find?type=1&query=akene",
+                "word": "akene"
+            },
+            {
+                "id": "2336",
+                "link": "/find?type=1&query=akimbo",
+                "word": "akimbo"
+            },
+            {
+                "id": "2337",
+                "link": "/find?type=1&query=akin",
+                "word": "akin"
+            },
+            {
+                "id": "2338",
+                "link": "/find?type=1&query=akinesia",
+                "word": "akinesia"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "182",
+                "link": "/find?type=4&query=akin",
+                "word": "akin"
+            }
+        ]
+    }
+}

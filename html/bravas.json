@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "11027", "link": "/find?type=1&query=bravado", "word": "bravado"}], "data": {}}, "en_en": {"suggests": [{"id": "3340", "link": "/find?type=3&query=bravado", "word": "bravado"}], "data": {}}, "synonyms": {"suggests": [{"id": "683", "link": "/find?type=4&query=bravado", "word": "bravado"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3340",
+                "link": "/find?type=3&query=bravado",
+                "word": "bravado"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11027",
+                "link": "/find?type=1&query=bravado",
+                "word": "bravado"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "683",
+                "link": "/find?type=4&query=bravado",
+                "word": "bravado"
+            }
+        ]
+    }
+}

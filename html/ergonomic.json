@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "31718", "link": "/find?type=1&query=ergonomically", "word": "ergonomically"}, {"id": "31718", "link": "/find?type=1&query=ergonomics", "word": "ergonomics"}], "data": {"word": "ergonomic", "id": "31718", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=ergonomics\">ergonomics</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9732", "link": "/find?type=3&query=ergonomics", "word": "ergonomics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9732",
+                "link": "/find?type=3&query=ergonomics",
+                "word": "ergonomics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=ergonomics\">ergonomics</a></span></div>",
+            "id": "31718",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "ergonomic"
+        },
+        "suggests": [
+            {
+                "id": "31718",
+                "link": "/find?type=1&query=ergonomically",
+                "word": "ergonomically"
+            },
+            {
+                "id": "31718",
+                "link": "/find?type=1&query=ergonomics",
+                "word": "ergonomics"
+            }
+        ]
+    }
+}

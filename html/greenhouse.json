@@ -1,1 +1,40 @@
-{"error": 0, "query": "greenhouse", "enViData": {"suggests": [{"id": "41414", "link": "/find?type=1&query=greenhouse+effect", "word": "greenhouse effect"}], "best": {"id": "41414", "details": "\n<div id=\"find_word_41414\" class=\"world word_en\" rel=\"greenhouse\">\n    <h2 class=\"fl\">greenhouse <span class=\"color-black\">/'gri:nha\u028as/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41414\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41414\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 k\u00ednh [tr\u1ed3ng c\u00e2y]</div>\n    \n</div>\n", "link": "/find?type=1&query=greenhouse", "word": "greenhouse"}}, "mUrl": "/find?type=1&query=greenhouse", "enEnData": {"suggests": [{"id": "12573", "link": "/find?type=3&query=greenhouse+effect", "word": "greenhouse effect"}], "best": {"id": "12573", "details": "\n<div id=\"find_word_12573\" class=\"world word_en\" rel=\"greenhouse\">\n    <h2 class=\"fl\">greenhouse <span class=\"color-black\">/\u02c8gri\u02d0n\u02ccha\u028as/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12573\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12573\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -houses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a building or part of a building that has glass walls and a glass roof and that is used for growing plants</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">relating to or caused by the warming of the Earth's atmosphere that is caused by air pollution :relating to or caused by the greenhouse effect</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">greenhouse warming</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">carbon dioxide and other greenhouse gases [=gases that cause the greenhouse effect]</div>\n    \n</div>\n", "link": "/find?type=3&query=greenhouse", "word": "greenhouse"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -houses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a building or part of a building that has glass walls and a glass roof and that is used for growing plants</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">relating to or caused by the warming of the Earth's atmosphere that is caused by air pollution :relating to or caused by the greenhouse effect</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">greenhouse warming</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">carbon dioxide and other greenhouse gases [=gases that cause the greenhouse effect]</div>",
+            "id": "12573",
+            "mean": [],
+            "pronounce": "/\u02c8gri\u02d0n\u02ccha\u028as/",
+            "type": "noun adjective",
+            "word": "greenhouse"
+        },
+        "suggests": [
+            {
+                "id": "12573",
+                "link": "/find?type=3&query=greenhouse+effect",
+                "word": "greenhouse effect"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 k\u00ednh [tr\u1ed3ng c\u00e2y]</div>",
+            "id": "41414",
+            "mean": [],
+            "pronounce": "/'gri:nha\u028as/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4705728cc09496ae7ecc209e7102bc3a/16e612be469/G/greenhouse.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6881bf6b1a1d5febd7f8be5d901d125e/16e612bdc50/G/greenhouse.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "greenhouse"
+        },
+        "suggests": [
+            {
+                "id": "41414",
+                "link": "/find?type=1&query=greenhouse+effect",
+                "word": "greenhouse effect"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "5747", "link": "/find?type=1&query=artefact", "word": "artefact"}], "data": {}}, "en_en": {"suggests": [{"id": "1375", "link": "/find?type=3&query=artefact", "word": "artefact"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1375",
+                "link": "/find?type=3&query=artefact",
+                "word": "artefact"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5747",
+                "link": "/find?type=1&query=artefact",
+                "word": "artefact"
+            }
+        ]
+    }
+}

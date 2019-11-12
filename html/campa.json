@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "12650", "link": "/find?type=1&query=campaign", "word": "campaign"}, {"id": "12651", "link": "/find?type=1&query=campaigner", "word": "campaigner"}, {"id": "12652", "link": "/find?type=1&query=campanile", "word": "campanile"}, {"id": "12653", "link": "/find?type=1&query=campanologist", "word": "campanologist"}, {"id": "12654", "link": "/find?type=1&query=campanula", "word": "campanula"}, {"id": "12655", "link": "/find?type=1&query=campanulaceous", "word": "campanulaceous"}, {"id": "12656", "link": "/find?type=1&query=campanulate", "word": "campanulate"}], "data": {}}, "en_en": {"suggests": [{"id": "3956", "link": "/find?type=3&query=campaign", "word": "campaign"}, {"id": "3957", "link": "/find?type=3&query=campanile", "word": "campanile"}], "data": {}}, "synonyms": {"suggests": [{"id": "834", "link": "/find?type=4&query=campaign", "word": "campaign"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3956",
+                "link": "/find?type=3&query=campaign",
+                "word": "campaign"
+            },
+            {
+                "id": "3957",
+                "link": "/find?type=3&query=campanile",
+                "word": "campanile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12650",
+                "link": "/find?type=1&query=campaign",
+                "word": "campaign"
+            },
+            {
+                "id": "12651",
+                "link": "/find?type=1&query=campaigner",
+                "word": "campaigner"
+            },
+            {
+                "id": "12652",
+                "link": "/find?type=1&query=campanile",
+                "word": "campanile"
+            },
+            {
+                "id": "12653",
+                "link": "/find?type=1&query=campanologist",
+                "word": "campanologist"
+            },
+            {
+                "id": "12654",
+                "link": "/find?type=1&query=campanula",
+                "word": "campanula"
+            },
+            {
+                "id": "12655",
+                "link": "/find?type=1&query=campanulaceous",
+                "word": "campanulaceous"
+            },
+            {
+                "id": "12656",
+                "link": "/find?type=1&query=campanulate",
+                "word": "campanulate"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "834",
+                "link": "/find?type=4&query=campaign",
+                "word": "campaign"
+            }
+        ]
+    }
+}

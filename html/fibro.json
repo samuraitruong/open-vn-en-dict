@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "35001", "link": "/find?type=1&query=fibro-cement", "word": "fibro-cement"}, {"id": "35002", "link": "/find?type=1&query=fibroblast", "word": "fibroblast"}, {"id": "35003", "link": "/find?type=1&query=fibrocartilage", "word": "fibrocartilage"}, {"id": "35004", "link": "/find?type=1&query=fibrocartilaginous", "word": "fibrocartilaginous"}, {"id": "35005", "link": "/find?type=1&query=fibrocyte", "word": "fibrocyte"}, {"id": "35006", "link": "/find?type=1&query=fibrocytic", "word": "fibrocytic"}, {"id": "35007", "link": "/find?type=1&query=fibroferite", "word": "fibroferite"}, {"id": "35008", "link": "/find?type=1&query=fibroid", "word": "fibroid"}, {"id": "35009", "link": "/find?type=1&query=fibroin", "word": "fibroin"}, {"id": "35010", "link": "/find?type=1&query=fibroma", "word": "fibroma"}], "data": {}}, "en_en": {"suggests": [{"id": "10537", "link": "/find?type=3&query=fibrous", "word": "fibrous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10537",
+                "link": "/find?type=3&query=fibrous",
+                "word": "fibrous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35001",
+                "link": "/find?type=1&query=fibro-cement",
+                "word": "fibro-cement"
+            },
+            {
+                "id": "35002",
+                "link": "/find?type=1&query=fibroblast",
+                "word": "fibroblast"
+            },
+            {
+                "id": "35003",
+                "link": "/find?type=1&query=fibrocartilage",
+                "word": "fibrocartilage"
+            },
+            {
+                "id": "35004",
+                "link": "/find?type=1&query=fibrocartilaginous",
+                "word": "fibrocartilaginous"
+            },
+            {
+                "id": "35005",
+                "link": "/find?type=1&query=fibrocyte",
+                "word": "fibrocyte"
+            },
+            {
+                "id": "35006",
+                "link": "/find?type=1&query=fibrocytic",
+                "word": "fibrocytic"
+            },
+            {
+                "id": "35007",
+                "link": "/find?type=1&query=fibroferite",
+                "word": "fibroferite"
+            },
+            {
+                "id": "35008",
+                "link": "/find?type=1&query=fibroid",
+                "word": "fibroid"
+            },
+            {
+                "id": "35009",
+                "link": "/find?type=1&query=fibroin",
+                "word": "fibroin"
+            },
+            {
+                "id": "35010",
+                "link": "/find?type=1&query=fibroma",
+                "word": "fibroma"
+            }
+        ]
+    }
+}

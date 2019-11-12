@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "16351", "link": "/find?type=1&query=clump", "word": "clump"}, {"id": "16352", "link": "/find?type=1&query=clumpish", "word": "clumpish"}, {"id": "16353", "link": "/find?type=1&query=clumpy", "word": "clumpy"}, {"id": "16354", "link": "/find?type=1&query=clumsily", "word": "clumsily"}, {"id": "16355", "link": "/find?type=1&query=clumsiness", "word": "clumsiness"}, {"id": "16356", "link": "/find?type=1&query=clumsy", "word": "clumsy"}], "data": {}}, "en_en": {"suggests": [{"id": "5290", "link": "/find?type=3&query=clump", "word": "clump"}, {"id": "5291", "link": "/find?type=3&query=clumpy", "word": "clumpy"}, {"id": "5292", "link": "/find?type=3&query=clumsy", "word": "clumsy"}], "data": {}}, "synonyms": {"suggests": [{"id": "1064", "link": "/find?type=4&query=clump", "word": "clump"}, {"id": "1065", "link": "/find?type=4&query=clumsy", "word": "clumsy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5290",
+                "link": "/find?type=3&query=clump",
+                "word": "clump"
+            },
+            {
+                "id": "5291",
+                "link": "/find?type=3&query=clumpy",
+                "word": "clumpy"
+            },
+            {
+                "id": "5292",
+                "link": "/find?type=3&query=clumsy",
+                "word": "clumsy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16351",
+                "link": "/find?type=1&query=clump",
+                "word": "clump"
+            },
+            {
+                "id": "16352",
+                "link": "/find?type=1&query=clumpish",
+                "word": "clumpish"
+            },
+            {
+                "id": "16353",
+                "link": "/find?type=1&query=clumpy",
+                "word": "clumpy"
+            },
+            {
+                "id": "16354",
+                "link": "/find?type=1&query=clumsily",
+                "word": "clumsily"
+            },
+            {
+                "id": "16355",
+                "link": "/find?type=1&query=clumsiness",
+                "word": "clumsiness"
+            },
+            {
+                "id": "16356",
+                "link": "/find?type=1&query=clumsy",
+                "word": "clumsy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1064",
+                "link": "/find?type=4&query=clump",
+                "word": "clump"
+            },
+            {
+                "id": "1065",
+                "link": "/find?type=4&query=clumsy",
+                "word": "clumsy"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "gabbed", "enViData": {"suggests": [{"id": "38672", "link": "/find?type=1&query=gabber", "word": "gabber"}]}, "mUrl": "/find?type=1&query=gabbed", "enEnData": {"suggests": [{"id": "11712", "link": "/find?type=3&query=gabble", "word": "gabble"}, {"id": "11713", "link": "/find?type=3&query=gabby", "word": "gabby"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11712",
+                "link": "/find?type=3&query=gabble",
+                "word": "gabble"
+            },
+            {
+                "id": "11713",
+                "link": "/find?type=3&query=gabby",
+                "word": "gabby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38672",
+                "link": "/find?type=1&query=gabber",
+                "word": "gabber"
+            }
+        ]
+    }
+}

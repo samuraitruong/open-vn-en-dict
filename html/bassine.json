@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8382", "link": "/find?type=1&query=bassinet", "word": "bassinet"}, {"id": "8383", "link": "/find?type=1&query=bassinette", "word": "bassinette"}], "data": {}}, "en_en": {"suggests": [{"id": "2152", "link": "/find?type=3&query=bassinet", "word": "bassinet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2152",
+                "link": "/find?type=3&query=bassinet",
+                "word": "bassinet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8382",
+                "link": "/find?type=1&query=bassinet",
+                "word": "bassinet"
+            },
+            {
+                "id": "8383",
+                "link": "/find?type=1&query=bassinette",
+                "word": "bassinette"
+            }
+        ]
+    }
+}

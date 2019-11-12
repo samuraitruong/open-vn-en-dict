@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "27025", "link": "/find?type=1&query=dolphin", "word": "dolphin"}, {"id": "27026", "link": "/find?type=1&query=dolphinarium", "word": "dolphinarium"}], "data": {}}, "en_en": {"suggests": [{"id": "8521", "link": "/find?type=3&query=dolphin", "word": "dolphin"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8521",
+                "link": "/find?type=3&query=dolphin",
+                "word": "dolphin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27025",
+                "link": "/find?type=1&query=dolphin",
+                "word": "dolphin"
+            },
+            {
+                "id": "27026",
+                "link": "/find?type=1&query=dolphinarium",
+                "word": "dolphinarium"
+            }
+        ]
+    }
+}

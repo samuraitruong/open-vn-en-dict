@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2186", "link": "/find?type=1&query=ain%27t", "word": "ain't"}], "data": {}}, "en_en": {"suggests": [{"id": "561", "link": "/find?type=3&query=ain%27t", "word": "ain't"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "561",
+                "link": "/find?type=3&query=ain%27t",
+                "word": "ain't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2186",
+                "link": "/find?type=1&query=ain%27t",
+                "word": "ain't"
+            }
+        ]
+    }
+}

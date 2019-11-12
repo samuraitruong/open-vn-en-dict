@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "8928", "link": "/find?type=1&query=benefice", "word": "benefice"}, {"id": "8929", "link": "/find?type=1&query=beneficed", "word": "beneficed"}, {"id": "8930", "link": "/find?type=1&query=beneficence", "word": "beneficence"}, {"id": "8931", "link": "/find?type=1&query=beneficent", "word": "beneficent"}, {"id": "8932", "link": "/find?type=1&query=beneficently", "word": "beneficently"}, {"id": "8933", "link": "/find?type=1&query=beneficial", "word": "beneficial"}, {"id": "8934", "link": "/find?type=1&query=beneficially", "word": "beneficially"}, {"id": "8935", "link": "/find?type=1&query=beneficiary", "word": "beneficiary"}], "data": {}}, "en_en": {"suggests": [{"id": "2439", "link": "/find?type=3&query=beneficent", "word": "beneficent"}, {"id": "2440", "link": "/find?type=3&query=beneficial", "word": "beneficial"}, {"id": "2441", "link": "/find?type=3&query=beneficiary", "word": "beneficiary"}], "data": {}}, "synonyms": {"suggests": [{"id": "506", "link": "/find?type=4&query=beneficial", "word": "beneficial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2439",
+                "link": "/find?type=3&query=beneficent",
+                "word": "beneficent"
+            },
+            {
+                "id": "2440",
+                "link": "/find?type=3&query=beneficial",
+                "word": "beneficial"
+            },
+            {
+                "id": "2441",
+                "link": "/find?type=3&query=beneficiary",
+                "word": "beneficiary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8928",
+                "link": "/find?type=1&query=benefice",
+                "word": "benefice"
+            },
+            {
+                "id": "8929",
+                "link": "/find?type=1&query=beneficed",
+                "word": "beneficed"
+            },
+            {
+                "id": "8930",
+                "link": "/find?type=1&query=beneficence",
+                "word": "beneficence"
+            },
+            {
+                "id": "8931",
+                "link": "/find?type=1&query=beneficent",
+                "word": "beneficent"
+            },
+            {
+                "id": "8932",
+                "link": "/find?type=1&query=beneficently",
+                "word": "beneficently"
+            },
+            {
+                "id": "8933",
+                "link": "/find?type=1&query=beneficial",
+                "word": "beneficial"
+            },
+            {
+                "id": "8934",
+                "link": "/find?type=1&query=beneficially",
+                "word": "beneficially"
+            },
+            {
+                "id": "8935",
+                "link": "/find?type=1&query=beneficiary",
+                "word": "beneficiary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "506",
+                "link": "/find?type=4&query=beneficial",
+                "word": "beneficial"
+            }
+        ]
+    }
+}

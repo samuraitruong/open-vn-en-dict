@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "31959", "link": "/find?type=1&query=especial", "word": "especial"}, {"id": "31960", "link": "/find?type=1&query=especially", "word": "especially"}], "data": {}}, "en_en": {"suggests": [{"id": "9773", "link": "/find?type=3&query=especial", "word": "especial"}, {"id": "9774", "link": "/find?type=3&query=especially", "word": "especially"}], "data": {}}, "synonyms": {"suggests": [{"id": "2254", "link": "/find?type=4&query=especially", "word": "especially"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9773",
+                "link": "/find?type=3&query=especial",
+                "word": "especial"
+            },
+            {
+                "id": "9774",
+                "link": "/find?type=3&query=especially",
+                "word": "especially"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31959",
+                "link": "/find?type=1&query=especial",
+                "word": "especial"
+            },
+            {
+                "id": "31960",
+                "link": "/find?type=1&query=especially",
+                "word": "especially"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2254",
+                "link": "/find?type=4&query=especially",
+                "word": "especially"
+            }
+        ]
+    }
+}

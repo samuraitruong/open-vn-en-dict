@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "28086", "link": "/find?type=1&query=dungaree", "word": "dungaree"}, {"id": "28087", "link": "/find?type=1&query=dungarees", "word": "dungarees"}], "data": {}}, "en_en": {"suggests": [{"id": "9021", "link": "/find?type=3&query=dungarees", "word": "dungarees"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9021",
+                "link": "/find?type=3&query=dungarees",
+                "word": "dungarees"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28086",
+                "link": "/find?type=1&query=dungaree",
+                "word": "dungaree"
+            },
+            {
+                "id": "28087",
+                "link": "/find?type=1&query=dungarees",
+                "word": "dungarees"
+            }
+        ]
+    }
+}

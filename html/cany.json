@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "12874", "link": "/find?type=1&query=canyon", "word": "canyon"}], "data": {}}, "en_en": {"suggests": [{"id": "4044", "link": "/find?type=3&query=canyon", "word": "canyon"}], "data": {}}, "synonyms": {"suggests": [{"id": "845", "link": "/find?type=4&query=canyon", "word": "canyon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4044",
+                "link": "/find?type=3&query=canyon",
+                "word": "canyon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12874",
+                "link": "/find?type=1&query=canyon",
+                "word": "canyon"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "845",
+                "link": "/find?type=4&query=canyon",
+                "word": "canyon"
+            }
+        ]
+    }
+}

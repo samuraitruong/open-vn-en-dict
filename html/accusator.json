@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "830", "link": "/find?type=1&query=accusatorial", "word": "accusatorial"}, {"id": "831", "link": "/find?type=1&query=accusatorially", "word": "accusatorially"}, {"id": "832", "link": "/find?type=1&query=accusatory", "word": "accusatory"}], "data": {}}, "en_en": {"suggests": [{"id": "201", "link": "/find?type=3&query=accusatory", "word": "accusatory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "201",
+                "link": "/find?type=3&query=accusatory",
+                "word": "accusatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "830",
+                "link": "/find?type=1&query=accusatorial",
+                "word": "accusatorial"
+            },
+            {
+                "id": "831",
+                "link": "/find?type=1&query=accusatorially",
+                "word": "accusatorially"
+            },
+            {
+                "id": "832",
+                "link": "/find?type=1&query=accusatory",
+                "word": "accusatory"
+            }
+        ]
+    }
+}

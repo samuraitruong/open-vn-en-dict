@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "16903", "link": "/find?type=1&query=cola-nut", "word": "cola-nut"}, {"id": "16903", "link": "/find?type=1&query=colander", "word": "colander"}, {"id": "16903", "link": "/find?type=1&query=colatitude", "word": "colatitude"}], "data": {"word": "cola", "id": "16903", "pronounce": "/'k\u0259\u028al\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c kola)</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) c\u00e2y cola</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc cola</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ebe35267c87326a8428e43fa2aa27112/16e5df075ef/C/cola.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5910f97b6554205c55da5510b836a77a/16e5df07bc6/C/cola.mp3"}}}, "en_en": {"suggests": [{"id": "5457", "link": "/find?type=3&query=colander", "word": "colander"}], "data": {"word": "cola", "id": "5457", "pronounce": "/\u02c8ko\u028al\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -las</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a sweet brown drink that contains many bubbles</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a glass of cola</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -las</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a sweet brown drink that contains many bubbles</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a glass of cola</div>",
+            "id": "5457",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u028al\u0259/",
+            "type": "noun",
+            "word": "cola"
+        },
+        "suggests": [
+            {
+                "id": "5457",
+                "link": "/find?type=3&query=colander",
+                "word": "colander"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c kola)</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) c\u00e2y cola</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc cola</div>",
+            "id": "16903",
+            "mean": [],
+            "pronounce": "/'k\u0259\u028al\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d615952dd4e6a210e423f02a8b1f9b1f/16e5ed15592/C/cola.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/babc589856a628d467928abfd5d9f844/16e5ed14cdb/C/cola.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cola"
+        },
+        "suggests": [
+            {
+                "id": "16903",
+                "link": "/find?type=1&query=cola-nut",
+                "word": "cola-nut"
+            },
+            {
+                "id": "16903",
+                "link": "/find?type=1&query=colander",
+                "word": "colander"
+            },
+            {
+                "id": "16903",
+                "link": "/find?type=1&query=colatitude",
+                "word": "colatitude"
+            }
+        ]
+    }
+}

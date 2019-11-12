@@ -1,1 +1,52 @@
-{"error": 0, "query": "foresing", "enViData": {"suggests": [{"id": "37145", "link": "/find?type=1&query=foresee", "word": "foresee"}, {"id": "37146", "link": "/find?type=1&query=foreseeable", "word": "foreseeable"}, {"id": "37147", "link": "/find?type=1&query=foreseeing", "word": "foreseeing"}, {"id": "37148", "link": "/find?type=1&query=foreseen", "word": "foreseen"}, {"id": "37149", "link": "/find?type=1&query=foreseer", "word": "foreseer"}]}, "mUrl": "/find?type=1&query=foresing", "enEnData": {"suggests": [{"id": "11201", "link": "/find?type=3&query=foresee", "word": "foresee"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2775", "link": "/find?type=4&query=foresee", "word": "foresee"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11201",
+                "link": "/find?type=3&query=foresee",
+                "word": "foresee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37145",
+                "link": "/find?type=1&query=foresee",
+                "word": "foresee"
+            },
+            {
+                "id": "37146",
+                "link": "/find?type=1&query=foreseeable",
+                "word": "foreseeable"
+            },
+            {
+                "id": "37147",
+                "link": "/find?type=1&query=foreseeing",
+                "word": "foreseeing"
+            },
+            {
+                "id": "37148",
+                "link": "/find?type=1&query=foreseen",
+                "word": "foreseen"
+            },
+            {
+                "id": "37149",
+                "link": "/find?type=1&query=foreseer",
+                "word": "foreseer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2775",
+                "link": "/find?type=4&query=foresee",
+                "word": "foresee"
+            }
+        ]
+    }
+}

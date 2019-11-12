@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "10774", "link": "/find?type=1&query=bowed", "word": "bowed"}, {"id": "10775", "link": "/find?type=1&query=bowel", "word": "bowel"}, {"id": "10776", "link": "/find?type=1&query=bowel+movement", "word": "bowel movement"}, {"id": "10777", "link": "/find?type=1&query=bower", "word": "bower"}, {"id": "10778", "link": "/find?type=1&query=bower-anchor", "word": "bower-anchor"}, {"id": "10779", "link": "/find?type=1&query=bower-bird", "word": "bower-bird"}, {"id": "10780", "link": "/find?type=1&query=bower-cable", "word": "bower-cable"}, {"id": "10781", "link": "/find?type=1&query=bowery", "word": "bowery"}], "data": {}}, "en_en": {"suggests": [{"id": "3258", "link": "/find?type=3&query=bowel", "word": "bowel"}, {"id": "3259", "link": "/find?type=3&query=bower", "word": "bower"}], "data": {}}, "synonyms": {"suggests": [{"id": "663", "link": "/find?type=4&query=bowels", "word": "bowels"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3258",
+                "link": "/find?type=3&query=bowel",
+                "word": "bowel"
+            },
+            {
+                "id": "3259",
+                "link": "/find?type=3&query=bower",
+                "word": "bower"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10774",
+                "link": "/find?type=1&query=bowed",
+                "word": "bowed"
+            },
+            {
+                "id": "10775",
+                "link": "/find?type=1&query=bowel",
+                "word": "bowel"
+            },
+            {
+                "id": "10776",
+                "link": "/find?type=1&query=bowel+movement",
+                "word": "bowel movement"
+            },
+            {
+                "id": "10777",
+                "link": "/find?type=1&query=bower",
+                "word": "bower"
+            },
+            {
+                "id": "10778",
+                "link": "/find?type=1&query=bower-anchor",
+                "word": "bower-anchor"
+            },
+            {
+                "id": "10779",
+                "link": "/find?type=1&query=bower-bird",
+                "word": "bower-bird"
+            },
+            {
+                "id": "10780",
+                "link": "/find?type=1&query=bower-cable",
+                "word": "bower-cable"
+            },
+            {
+                "id": "10781",
+                "link": "/find?type=1&query=bowery",
+                "word": "bowery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "663",
+                "link": "/find?type=4&query=bowels",
+                "word": "bowels"
+            }
+        ]
+    }
+}

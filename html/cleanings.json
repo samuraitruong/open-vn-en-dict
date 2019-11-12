@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "15951", "link": "/find?type=1&query=cleaning+disk", "word": "cleaning disk"}, {"id": "15951", "link": "/find?type=1&query=cleaning+rod", "word": "cleaning rod"}, {"id": "15951", "link": "/find?type=1&query=cleaning+woman", "word": "cleaning woman"}], "data": {"word": "cleaning", "id": "15951", "pronounce": "/'kli:ni\u0273/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 qu\u00e9t t\u01b0\u1edbc, s\u1ef1 d\u1ecdn d\u1eb9p</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/0e5e26dfe2a55f519619816e92e40eeb/16e5dedbbce/C/cleaning.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/69bd6cf744927b814374626598a2fcde/16e5dedc191/C/cleaning.mp3"}}}, "en_en": {"suggests": [{"id": "5127", "link": "/find?type=3&query=cleaning+lady", "word": "cleaning lady"}, {"id": "5127", "link": "/find?type=3&query=cleaning+person", "word": "cleaning person"}], "data": {"word": "cleaning", "id": "5127", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the act or process of cleaning something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She needs someone to help her with the cleaning [=housecleaning] while she is recovering from surgery.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the act or process of cleaning something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She needs someone to help her with the cleaning [=housecleaning] while she is recovering from surgery.</div>",
+            "id": "5127",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "cleaning"
+        },
+        "suggests": [
+            {
+                "id": "5127",
+                "link": "/find?type=3&query=cleaning+lady",
+                "word": "cleaning lady"
+            },
+            {
+                "id": "5127",
+                "link": "/find?type=3&query=cleaning+person",
+                "word": "cleaning person"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 qu\u00e9t t\u01b0\u1edbc, s\u1ef1 d\u1ecdn d\u1eb9p</div>",
+            "id": "15951",
+            "mean": [],
+            "pronounce": "/'kli:ni\u0273/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ea049923d9996eaa3ecc3656b2db6cb6/16e5ecdffc1/C/cleaning.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8088ebd91a1a80ce4f732ef4cfec3a50/16e5ecdf91b/C/cleaning.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cleaning"
+        },
+        "suggests": [
+            {
+                "id": "15951",
+                "link": "/find?type=1&query=cleaning+disk",
+                "word": "cleaning disk"
+            },
+            {
+                "id": "15951",
+                "link": "/find?type=1&query=cleaning+rod",
+                "word": "cleaning rod"
+            },
+            {
+                "id": "15951",
+                "link": "/find?type=1&query=cleaning+woman",
+                "word": "cleaning woman"
+            }
+        ]
+    }
+}

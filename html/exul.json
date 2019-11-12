@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "33628", "link": "/find?type=1&query=exulation", "word": "exulation"}, {"id": "33629", "link": "/find?type=1&query=exulcerate", "word": "exulcerate"}, {"id": "33630", "link": "/find?type=1&query=exulceration", "word": "exulceration"}, {"id": "33631", "link": "/find?type=1&query=exult", "word": "exult"}, {"id": "33632", "link": "/find?type=1&query=exultance", "word": "exultance"}, {"id": "33633", "link": "/find?type=1&query=exultancy", "word": "exultancy"}, {"id": "33634", "link": "/find?type=1&query=exultant", "word": "exultant"}, {"id": "33635", "link": "/find?type=1&query=exultantly", "word": "exultantly"}, {"id": "33636", "link": "/find?type=1&query=exultation", "word": "exultation"}, {"id": "33637", "link": "/find?type=1&query=exultingly", "word": "exultingly"}], "data": {}}, "en_en": {"suggests": [{"id": "10120", "link": "/find?type=3&query=exult", "word": "exult"}, {"id": "10121", "link": "/find?type=3&query=exultant", "word": "exultant"}, {"id": "10122", "link": "/find?type=3&query=exultation", "word": "exultation"}], "data": {}}, "synonyms": {"suggests": [{"id": "2445", "link": "/find?type=4&query=exult", "word": "exult"}, {"id": "2446", "link": "/find?type=4&query=exultant", "word": "exultant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10120",
+                "link": "/find?type=3&query=exult",
+                "word": "exult"
+            },
+            {
+                "id": "10121",
+                "link": "/find?type=3&query=exultant",
+                "word": "exultant"
+            },
+            {
+                "id": "10122",
+                "link": "/find?type=3&query=exultation",
+                "word": "exultation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33628",
+                "link": "/find?type=1&query=exulation",
+                "word": "exulation"
+            },
+            {
+                "id": "33629",
+                "link": "/find?type=1&query=exulcerate",
+                "word": "exulcerate"
+            },
+            {
+                "id": "33630",
+                "link": "/find?type=1&query=exulceration",
+                "word": "exulceration"
+            },
+            {
+                "id": "33631",
+                "link": "/find?type=1&query=exult",
+                "word": "exult"
+            },
+            {
+                "id": "33632",
+                "link": "/find?type=1&query=exultance",
+                "word": "exultance"
+            },
+            {
+                "id": "33633",
+                "link": "/find?type=1&query=exultancy",
+                "word": "exultancy"
+            },
+            {
+                "id": "33634",
+                "link": "/find?type=1&query=exultant",
+                "word": "exultant"
+            },
+            {
+                "id": "33635",
+                "link": "/find?type=1&query=exultantly",
+                "word": "exultantly"
+            },
+            {
+                "id": "33636",
+                "link": "/find?type=1&query=exultation",
+                "word": "exultation"
+            },
+            {
+                "id": "33637",
+                "link": "/find?type=1&query=exultingly",
+                "word": "exultingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2445",
+                "link": "/find?type=4&query=exult",
+                "word": "exult"
+            },
+            {
+                "id": "2446",
+                "link": "/find?type=4&query=exultant",
+                "word": "exultant"
+            }
+        ]
+    }
+}

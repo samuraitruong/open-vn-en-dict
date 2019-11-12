@@ -1,1 +1,52 @@
-{"error": 0, "query": "fructed", "enViData": {"suggests": [{"id": "38194", "link": "/find?type=1&query=fructidor", "word": "fructidor"}, {"id": "38195", "link": "/find?type=1&query=fructiferous", "word": "fructiferous"}, {"id": "38196", "link": "/find?type=1&query=fructification", "word": "fructification"}, {"id": "38197", "link": "/find?type=1&query=fructify", "word": "fructify"}, {"id": "38198", "link": "/find?type=1&query=fructivorous", "word": "fructivorous"}, {"id": "38199", "link": "/find?type=1&query=fructose", "word": "fructose"}, {"id": "38200", "link": "/find?type=1&query=fructuous", "word": "fructuous"}]}, "mUrl": "/find?type=1&query=fructed", "enEnData": {"suggests": [{"id": "11549", "link": "/find?type=3&query=fructose", "word": "fructose"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11549",
+                "link": "/find?type=3&query=fructose",
+                "word": "fructose"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38194",
+                "link": "/find?type=1&query=fructidor",
+                "word": "fructidor"
+            },
+            {
+                "id": "38195",
+                "link": "/find?type=1&query=fructiferous",
+                "word": "fructiferous"
+            },
+            {
+                "id": "38196",
+                "link": "/find?type=1&query=fructification",
+                "word": "fructification"
+            },
+            {
+                "id": "38197",
+                "link": "/find?type=1&query=fructify",
+                "word": "fructify"
+            },
+            {
+                "id": "38198",
+                "link": "/find?type=1&query=fructivorous",
+                "word": "fructivorous"
+            },
+            {
+                "id": "38199",
+                "link": "/find?type=1&query=fructose",
+                "word": "fructose"
+            },
+            {
+                "id": "38200",
+                "link": "/find?type=1&query=fructuous",
+                "word": "fructuous"
+            }
+        ]
+    }
+}

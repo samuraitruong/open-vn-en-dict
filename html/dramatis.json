@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "27548", "link": "/find?type=1&query=dramatis+personae", "word": "dramatis personae"}, {"id": "27549", "link": "/find?type=1&query=dramatisation", "word": "dramatisation"}, {"id": "27550", "link": "/find?type=1&query=dramatise", "word": "dramatise"}, {"id": "27551", "link": "/find?type=1&query=dramatist", "word": "dramatist"}], "data": {}}, "en_en": {"suggests": [{"id": "8782", "link": "/find?type=3&query=dramatis+personae", "word": "dramatis personae"}, {"id": "8783", "link": "/find?type=3&query=dramatist", "word": "dramatist"}], "data": {}}, "synonyms": {"suggests": [{"id": "1919", "link": "/find?type=4&query=dramatist", "word": "dramatist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8782",
+                "link": "/find?type=3&query=dramatis+personae",
+                "word": "dramatis personae"
+            },
+            {
+                "id": "8783",
+                "link": "/find?type=3&query=dramatist",
+                "word": "dramatist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27548",
+                "link": "/find?type=1&query=dramatis+personae",
+                "word": "dramatis personae"
+            },
+            {
+                "id": "27549",
+                "link": "/find?type=1&query=dramatisation",
+                "word": "dramatisation"
+            },
+            {
+                "id": "27550",
+                "link": "/find?type=1&query=dramatise",
+                "word": "dramatise"
+            },
+            {
+                "id": "27551",
+                "link": "/find?type=1&query=dramatist",
+                "word": "dramatist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1919",
+                "link": "/find?type=4&query=dramatist",
+                "word": "dramatist"
+            }
+        ]
+    }
+}

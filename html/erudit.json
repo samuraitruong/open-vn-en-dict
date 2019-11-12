@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "31830", "link": "/find?type=1&query=erudite", "word": "erudite"}, {"id": "31831", "link": "/find?type=1&query=eruditely", "word": "eruditely"}, {"id": "31832", "link": "/find?type=1&query=eruditeness", "word": "eruditeness"}, {"id": "31833", "link": "/find?type=1&query=erudition", "word": "erudition"}], "data": {}}, "en_en": {"suggests": [{"id": "9749", "link": "/find?type=3&query=erudite", "word": "erudite"}, {"id": "9750", "link": "/find?type=3&query=erudition", "word": "erudition"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9749",
+                "link": "/find?type=3&query=erudite",
+                "word": "erudite"
+            },
+            {
+                "id": "9750",
+                "link": "/find?type=3&query=erudition",
+                "word": "erudition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31830",
+                "link": "/find?type=1&query=erudite",
+                "word": "erudite"
+            },
+            {
+                "id": "31831",
+                "link": "/find?type=1&query=eruditely",
+                "word": "eruditely"
+            },
+            {
+                "id": "31832",
+                "link": "/find?type=1&query=eruditeness",
+                "word": "eruditeness"
+            },
+            {
+                "id": "31833",
+                "link": "/find?type=1&query=erudition",
+                "word": "erudition"
+            }
+        ]
+    }
+}

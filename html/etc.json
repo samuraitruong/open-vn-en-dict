@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "32064", "link": "/find?type=1&query=etcetera", "word": "etcetera"}, {"id": "32064", "link": "/find?type=1&query=etceteras", "word": "etceteras"}, {"id": "32064", "link": "/find?type=1&query=etceteras", "word": "etceteras"}, {"id": "32064", "link": "/find?type=1&query=etch", "word": "etch"}, {"id": "32064", "link": "/find?type=1&query=etch+pattern", "word": "etch pattern"}, {"id": "32064", "link": "/find?type=1&query=etch+pit+density", "word": "etch pit density"}, {"id": "32064", "link": "/find?type=1&query=etchant", "word": "etchant"}, {"id": "32064", "link": "/find?type=1&query=etched+circuit", "word": "etched circuit"}, {"id": "32064", "link": "/find?type=1&query=etcher", "word": "etcher"}], "data": {"word": "etc", "id": "32064", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ec1u h\u01a1n n\u1eefa, v\u00e2n v\u00e2n (khi li\u1ec7t k\u00ea)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9808", "link": "/find?type=3&query=etc.", "word": "etc."}, {"id": "9809", "link": "/find?type=3&query=etch", "word": "etch"}, {"id": "9810", "link": "/find?type=3&query=etching", "word": "etching"}], "data": {}}, "synonyms": {"suggests": [{"id": "2266", "link": "/find?type=4&query=etch", "word": "etch"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9808",
+                "link": "/find?type=3&query=etc.",
+                "word": "etc."
+            },
+            {
+                "id": "9809",
+                "link": "/find?type=3&query=etch",
+                "word": "etch"
+            },
+            {
+                "id": "9810",
+                "link": "/find?type=3&query=etching",
+                "word": "etching"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">nhi\u1ec1u h\u01a1n n\u1eefa, v\u00e2n v\u00e2n (khi li\u1ec7t k\u00ea)</div>",
+            "id": "32064",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "etc"
+        },
+        "suggests": [
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etcetera",
+                "word": "etcetera"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etceteras",
+                "word": "etceteras"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etceteras",
+                "word": "etceteras"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etch",
+                "word": "etch"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etch+pattern",
+                "word": "etch pattern"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etch+pit+density",
+                "word": "etch pit density"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etchant",
+                "word": "etchant"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etched+circuit",
+                "word": "etched circuit"
+            },
+            {
+                "id": "32064",
+                "link": "/find?type=1&query=etcher",
+                "word": "etcher"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2266",
+                "link": "/find?type=4&query=etch",
+                "word": "etch"
+            }
+        ]
+    }
+}

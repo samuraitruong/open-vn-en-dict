@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "11931", "link": "/find?type=1&query=burnouse", "word": "burnouse"}], "data": {"word": "burnous", "id": "11931", "pronounce": "/b\u025c:'nu:s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o cho\u00e0ng tr\u00f9m k\u00edn \u0111\u1ea7u (c\u1ee7a ng\u01b0\u1eddi A- r\u1eadp)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3715", "link": "/find?type=3&query=burnout", "word": "burnout"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3715",
+                "link": "/find?type=3&query=burnout",
+                "word": "burnout"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o cho\u00e0ng tr\u00f9m k\u00edn \u0111\u1ea7u (c\u1ee7a ng\u01b0\u1eddi A- r\u1eadp)</div>",
+            "id": "11931",
+            "mean": [],
+            "pronounce": "/b\u025c:'nu:s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "burnous"
+        },
+        "suggests": [
+            {
+                "id": "11931",
+                "link": "/find?type=1&query=burnouse",
+                "word": "burnouse"
+            }
+        ]
+    }
+}

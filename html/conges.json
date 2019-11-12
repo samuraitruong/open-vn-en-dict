@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "18599", "link": "/find?type=1&query=congest", "word": "congest"}, {"id": "18600", "link": "/find?type=1&query=congested", "word": "congested"}, {"id": "18601", "link": "/find?type=1&query=congestion", "word": "congestion"}, {"id": "18602", "link": "/find?type=1&query=Congestion+costs", "word": "Congestion costs"}, {"id": "18603", "link": "/find?type=1&query=congestive", "word": "congestive"}], "data": {}}, "en_en": {"suggests": [{"id": "5937", "link": "/find?type=3&query=congested", "word": "congested"}], "data": {}}, "synonyms": {"suggests": [{"id": "1188", "link": "/find?type=4&query=congested", "word": "congested"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5937",
+                "link": "/find?type=3&query=congested",
+                "word": "congested"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18599",
+                "link": "/find?type=1&query=congest",
+                "word": "congest"
+            },
+            {
+                "id": "18600",
+                "link": "/find?type=1&query=congested",
+                "word": "congested"
+            },
+            {
+                "id": "18601",
+                "link": "/find?type=1&query=congestion",
+                "word": "congestion"
+            },
+            {
+                "id": "18602",
+                "link": "/find?type=1&query=Congestion+costs",
+                "word": "Congestion costs"
+            },
+            {
+                "id": "18603",
+                "link": "/find?type=1&query=congestive",
+                "word": "congestive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1188",
+                "link": "/find?type=4&query=congested",
+                "word": "congested"
+            }
+        ]
+    }
+}

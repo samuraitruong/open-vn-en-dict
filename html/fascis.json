@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "34251", "link": "/find?type=1&query=fascisization", "word": "fascisization"}, {"id": "34252", "link": "/find?type=1&query=fascisize", "word": "fascisize"}, {"id": "34253", "link": "/find?type=1&query=fascism", "word": "fascism"}, {"id": "34254", "link": "/find?type=1&query=fascist", "word": "fascist"}, {"id": "34255", "link": "/find?type=1&query=fascista", "word": "fascista"}, {"id": "34256", "link": "/find?type=1&query=fascistic", "word": "fascistic"}], "data": {}}, "en_en": {"suggests": [{"id": "10331", "link": "/find?type=3&query=fascism", "word": "fascism"}], "data": {}}, "synonyms": {"suggests": [{"id": "2518", "link": "/find?type=4&query=fascinate", "word": "fascinate"}, {"id": "2519", "link": "/find?type=4&query=fascination", "word": "fascination"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10331",
+                "link": "/find?type=3&query=fascism",
+                "word": "fascism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34251",
+                "link": "/find?type=1&query=fascisization",
+                "word": "fascisization"
+            },
+            {
+                "id": "34252",
+                "link": "/find?type=1&query=fascisize",
+                "word": "fascisize"
+            },
+            {
+                "id": "34253",
+                "link": "/find?type=1&query=fascism",
+                "word": "fascism"
+            },
+            {
+                "id": "34254",
+                "link": "/find?type=1&query=fascist",
+                "word": "fascist"
+            },
+            {
+                "id": "34255",
+                "link": "/find?type=1&query=fascista",
+                "word": "fascista"
+            },
+            {
+                "id": "34256",
+                "link": "/find?type=1&query=fascistic",
+                "word": "fascistic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2518",
+                "link": "/find?type=4&query=fascinate",
+                "word": "fascinate"
+            },
+            {
+                "id": "2519",
+                "link": "/find?type=4&query=fascination",
+                "word": "fascination"
+            }
+        ]
+    }
+}

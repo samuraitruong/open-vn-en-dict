@@ -1,1 +1,22 @@
-{"error": 0, "query": "greenwich", "enViData": {"suggests": [{"id": "41432", "link": "/find?type=1&query=Greenwich+Mean+Time", "word": "Greenwich Mean Time"}]}, "mUrl": "/find?type=1&query=greenwich", "enEnData": {"suggests": [{"id": "12577", "link": "/find?type=3&query=Greenwich+mean+time", "word": "Greenwich mean time"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12577",
+                "link": "/find?type=3&query=Greenwich+mean+time",
+                "word": "Greenwich mean time"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41432",
+                "link": "/find?type=1&query=Greenwich+Mean+Time",
+                "word": "Greenwich Mean Time"
+            }
+        ]
+    }
+}

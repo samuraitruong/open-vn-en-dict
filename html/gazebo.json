@@ -1,1 +1,28 @@
-{"error": 0, "query": "gazebo", "enViData": {"suggests": [], "best": {"id": "39340", "details": "\n<div id=\"find_word_39340\" class=\"world word_en\" rel=\"gazebo\">\n    <h2 class=\"fl\">gazebo <span class=\"color-black\">/g\u0259'zi:bou/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"39340\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"39340\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u gazebos)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 ng\u1eafm c\u1ea3nh, v\u1ecdng l\u00e2u</div>\n    \n</div>\n", "link": "/find?type=1&query=gazebo", "word": "gazebo"}}, "mUrl": "/find?type=1&query=gazebo", "enEnData": {"suggests": [], "best": {"id": "11892", "details": "\n<div id=\"find_word_11892\" class=\"world word_en\" rel=\"gazebo\">\n    <h2 class=\"fl\">gazebo <span class=\"color-black\">/g\u0259\u02c8zi\u02d0\u02ccbo\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11892\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11892\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bos</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small building in a garden or park that is open on all sides</div>\n    \n</div>\n", "link": "/find?type=3&query=gazebo", "word": "gazebo"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bos</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small building in a garden or park that is open on all sides</div>",
+            "id": "11892",
+            "mean": [],
+            "pronounce": "/g\u0259\u02c8zi\u02d0\u02ccbo\u028a/",
+            "type": "noun",
+            "word": "gazebo"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u gazebos)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 ng\u1eafm c\u1ea3nh, v\u1ecdng l\u00e2u</div>",
+            "id": "39340",
+            "mean": [],
+            "pronounce": "/g\u0259'zi:bou/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3f5b4b6cc869229a8e9c02670ce296ec/16e60d6258e/G/gazebo.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b50a25742df0a88df48b757f98fdefd7/16e60d61c7a/G/gazebo.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gazebo"
+        },
+        "suggests": []
+    }
+}

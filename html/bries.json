@@ -1,1 +1,103 @@
-{"en_vn": {"suggests": [{"id": "11234", "link": "/find?type=1&query=brief", "word": "brief"}, {"id": "11234", "link": "/find?type=1&query=brief-bag", "word": "brief-bag"}, {"id": "11234", "link": "/find?type=1&query=briefcase", "word": "briefcase"}, {"id": "11234", "link": "/find?type=1&query=briefcase+computer", "word": "briefcase computer"}, {"id": "11234", "link": "/find?type=1&query=briefer", "word": "briefer"}, {"id": "11234", "link": "/find?type=1&query=briefing", "word": "briefing"}, {"id": "11234", "link": "/find?type=1&query=briefing-room", "word": "briefing-room"}, {"id": "11234", "link": "/find?type=1&query=briefless", "word": "briefless"}, {"id": "11234", "link": "/find?type=1&query=briefly", "word": "briefly"}], "data": {"word": "Brie", "id": "11234", "pronounce": "/bri:/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">pho m\u00e1t Brie (pho m\u00e1t m\u1ec1m c\u1ee7a Ph\u00e1p)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9b1fd60c0d37fdd4f3730f8b96b12f6a/16e5ddcebcf/B/Brie.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e094ce9d0ace90dbfef101dd59fa5847/16e5ddcf194/B/Brie.mp3"}}}, "en_en": {"suggests": [{"id": "3429", "link": "/find?type=3&query=brief", "word": "brief"}, {"id": "3430", "link": "/find?type=3&query=briefcase", "word": "briefcase"}, {"id": "3431", "link": "/find?type=3&query=briefly", "word": "briefly"}, {"id": "3432", "link": "/find?type=3&query=brier", "word": "brier"}], "data": {}}, "synonyms": {"suggests": [{"id": "711", "link": "/find?type=4&query=brief", "word": "brief"}, {"id": "712", "link": "/find?type=4&query=briefly", "word": "briefly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3429",
+                "link": "/find?type=3&query=brief",
+                "word": "brief"
+            },
+            {
+                "id": "3430",
+                "link": "/find?type=3&query=briefcase",
+                "word": "briefcase"
+            },
+            {
+                "id": "3431",
+                "link": "/find?type=3&query=briefly",
+                "word": "briefly"
+            },
+            {
+                "id": "3432",
+                "link": "/find?type=3&query=brier",
+                "word": "brier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">pho m\u00e1t Brie (pho m\u00e1t m\u1ec1m c\u1ee7a Ph\u00e1p)</div>",
+            "id": "11234",
+            "mean": [],
+            "pronounce": "/bri:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6ae4614bf547b32b98fb35cb082403b8/16e5ebe89e7/B/Brie.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/13fd233f2d3401faaed67858dee0b2a2/16e5ebe84a2/B/Brie.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Brie"
+        },
+        "suggests": [
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=brief",
+                "word": "brief"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=brief-bag",
+                "word": "brief-bag"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefcase",
+                "word": "briefcase"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefcase+computer",
+                "word": "briefcase computer"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefer",
+                "word": "briefer"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefing",
+                "word": "briefing"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefing-room",
+                "word": "briefing-room"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefless",
+                "word": "briefless"
+            },
+            {
+                "id": "11234",
+                "link": "/find?type=1&query=briefly",
+                "word": "briefly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "711",
+                "link": "/find?type=4&query=brief",
+                "word": "brief"
+            },
+            {
+                "id": "712",
+                "link": "/find?type=4&query=briefly",
+                "word": "briefly"
+            }
+        ]
+    }
+}

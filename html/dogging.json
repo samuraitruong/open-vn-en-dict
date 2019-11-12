@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "26950", "link": "/find?type=1&query=dogged", "word": "dogged"}, {"id": "26951", "link": "/find?type=1&query=doggedly", "word": "doggedly"}, {"id": "26952", "link": "/find?type=1&query=doggedness", "word": "doggedness"}, {"id": "26953", "link": "/find?type=1&query=dogger", "word": "dogger"}, {"id": "26954", "link": "/find?type=1&query=doggerel", "word": "doggerel"}, {"id": "26955", "link": "/find?type=1&query=doggery", "word": "doggery"}], "data": {}}, "en_en": {"suggests": [{"id": "8488", "link": "/find?type=3&query=dogged", "word": "dogged"}, {"id": "8489", "link": "/find?type=3&query=doggerel", "word": "doggerel"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8488",
+                "link": "/find?type=3&query=dogged",
+                "word": "dogged"
+            },
+            {
+                "id": "8489",
+                "link": "/find?type=3&query=doggerel",
+                "word": "doggerel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26950",
+                "link": "/find?type=1&query=dogged",
+                "word": "dogged"
+            },
+            {
+                "id": "26951",
+                "link": "/find?type=1&query=doggedly",
+                "word": "doggedly"
+            },
+            {
+                "id": "26952",
+                "link": "/find?type=1&query=doggedness",
+                "word": "doggedness"
+            },
+            {
+                "id": "26953",
+                "link": "/find?type=1&query=dogger",
+                "word": "dogger"
+            },
+            {
+                "id": "26954",
+                "link": "/find?type=1&query=doggerel",
+                "word": "doggerel"
+            },
+            {
+                "id": "26955",
+                "link": "/find?type=1&query=doggery",
+                "word": "doggery"
+            }
+        ]
+    }
+}

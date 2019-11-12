@@ -1,1 +1,95 @@
-{"en_vn": {"suggests": [{"id": "24824", "link": "/find?type=1&query=dew-fall", "word": "dew-fall"}, {"id": "24824", "link": "/find?type=1&query=dew-point", "word": "dew-point"}, {"id": "24824", "link": "/find?type=1&query=dew-ret", "word": "dew-ret"}, {"id": "24824", "link": "/find?type=1&query=dew-worm", "word": "dew-worm"}, {"id": "24824", "link": "/find?type=1&query=dewberry", "word": "dewberry"}, {"id": "24824", "link": "/find?type=1&query=dewclaw", "word": "dewclaw"}, {"id": "24824", "link": "/find?type=1&query=dewdrop", "word": "dewdrop"}, {"id": "24824", "link": "/find?type=1&query=dewey", "word": "dewey"}, {"id": "24824", "link": "/find?type=1&query=dewiness", "word": "dewiness"}], "data": {"word": "dew", "id": "24824", "pronounce": "/dju:/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u01b0\u01a1ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/0fe68539ce0b50662758b02b73f6d09a/16e5e061706/D/dew.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cb03efa6492bfd7d46a57f427f8e30b6/16e5e061c99/D/dew.mp3"}}}, "en_en": {"suggests": [{"id": "7888", "link": "/find?type=3&query=dew+point", "word": "dew point"}, {"id": "7888", "link": "/find?type=3&query=dewdrop", "word": "dewdrop"}, {"id": "7888", "link": "/find?type=3&query=dewy", "word": "dewy"}, {"id": "7888", "link": "/find?type=3&query=dewy-eyed", "word": "dewy-eyed"}], "data": {"word": "dew", "id": "7888", "pronounce": "/\u02c8du\u02d0/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :drops of water that form outside at night on grass, trees, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The grass was wet with the morning dew.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :drops of water that form outside at night on grass, trees, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The grass was wet with the morning dew.</div>",
+            "id": "7888",
+            "mean": [],
+            "pronounce": "/\u02c8du\u02d0/",
+            "type": "noun",
+            "word": "dew"
+        },
+        "suggests": [
+            {
+                "id": "7888",
+                "link": "/find?type=3&query=dew+point",
+                "word": "dew point"
+            },
+            {
+                "id": "7888",
+                "link": "/find?type=3&query=dewdrop",
+                "word": "dewdrop"
+            },
+            {
+                "id": "7888",
+                "link": "/find?type=3&query=dewy",
+                "word": "dewy"
+            },
+            {
+                "id": "7888",
+                "link": "/find?type=3&query=dewy-eyed",
+                "word": "dewy-eyed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u01b0\u01a1ng</div>",
+            "id": "24824",
+            "mean": [],
+            "pronounce": "/dju:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/93f05a87497f0f3684b8b48ba9145759/16e5eef76dd/D/dew.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6b2f4aca7d8464a82c08ba87b12fdbe5/16e5eef6e16/D/dew.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "dew"
+        },
+        "suggests": [
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dew-fall",
+                "word": "dew-fall"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dew-point",
+                "word": "dew-point"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dew-ret",
+                "word": "dew-ret"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dew-worm",
+                "word": "dew-worm"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dewberry",
+                "word": "dewberry"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dewclaw",
+                "word": "dewclaw"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dewdrop",
+                "word": "dewdrop"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dewey",
+                "word": "dewey"
+            },
+            {
+                "id": "24824",
+                "link": "/find?type=1&query=dewiness",
+                "word": "dewiness"
+            }
+        ]
+    }
+}

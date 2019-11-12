@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "1377", "link": "/find?type=1&query=adjectival", "word": "adjectival"}, {"id": "1378", "link": "/find?type=1&query=adjectivally", "word": "adjectivally"}, {"id": "1379", "link": "/find?type=1&query=adjective", "word": "adjective"}, {"id": "1380", "link": "/find?type=1&query=adjectively", "word": "adjectively"}], "data": {}}, "en_en": {"suggests": [{"id": "321", "link": "/find?type=3&query=adjective", "word": "adjective"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "321",
+                "link": "/find?type=3&query=adjective",
+                "word": "adjective"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1377",
+                "link": "/find?type=1&query=adjectival",
+                "word": "adjectival"
+            },
+            {
+                "id": "1378",
+                "link": "/find?type=1&query=adjectivally",
+                "word": "adjectivally"
+            },
+            {
+                "id": "1379",
+                "link": "/find?type=1&query=adjective",
+                "word": "adjective"
+            },
+            {
+                "id": "1380",
+                "link": "/find?type=1&query=adjectively",
+                "word": "adjectively"
+            }
+        ]
+    }
+}

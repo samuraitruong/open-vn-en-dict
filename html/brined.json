@@ -1,1 +1,59 @@
-{"en_vn": {"suggests": [{"id": "11283", "link": "/find?type=1&query=brine+pit", "word": "brine pit"}, {"id": "11283", "link": "/find?type=1&query=brine-pan", "word": "brine-pan"}, {"id": "11283", "link": "/find?type=1&query=briner", "word": "briner"}], "data": {"word": "brine", "id": "11283", "pronounce": "/brain/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc mu\u1ed1i (\u0111\u1ec3 gi\u1ea7m c\u00e1\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc bi\u1ec3n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d8034edfbe946d1ed93956a40f404fdf/16e5ddd181f/B/brine.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6ba14480f95cda77f2dd3887647513f4/16e5ddd1e11/B/brine.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "brine", "id": "3447", "pronounce": "/\u02c8bra\u026an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] a mixture of salty water used especially to preserve or add flavor to food</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The chicken was soaked in brine before it was roasted.</div>\n    \n    <div class=\"green margin25 m-top15\">the salty water of the ocean</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ocean brine - see also briny</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "718", "link": "/find?type=4&query=bring", "word": "bring"}, {"id": "719", "link": "/find?type=4&query=brink", "word": "brink"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] a mixture of salty water used especially to preserve or add flavor to food</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The chicken was soaked in brine before it was roasted.</div>\n    \n    <div class=\"green margin25 m-top15\">the salty water of the ocean</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ocean brine - see also briny</div>",
+            "id": "3447",
+            "mean": [],
+            "pronounce": "/\u02c8bra\u026an/",
+            "type": "noun",
+            "word": "brine"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc mu\u1ed1i (\u0111\u1ec3 gi\u1ea7m c\u00e1\u2026)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc bi\u1ec3n</div>",
+            "id": "11283",
+            "mean": [],
+            "pronounce": "/brain/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bf5270e2c883d0da6f0ceb9829c5aa67/16e5ebeb099/B/brine.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/80e378ee6b2666059b6f84a492e2833d/16e5ebeab20/B/brine.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "brine"
+        },
+        "suggests": [
+            {
+                "id": "11283",
+                "link": "/find?type=1&query=brine+pit",
+                "word": "brine pit"
+            },
+            {
+                "id": "11283",
+                "link": "/find?type=1&query=brine-pan",
+                "word": "brine-pan"
+            },
+            {
+                "id": "11283",
+                "link": "/find?type=1&query=briner",
+                "word": "briner"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "718",
+                "link": "/find?type=4&query=bring",
+                "word": "bring"
+            },
+            {
+                "id": "719",
+                "link": "/find?type=4&query=brink",
+                "word": "brink"
+            }
+        ]
+    }
+}

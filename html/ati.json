@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "6362", "link": "/find?type=1&query=ation", "word": "ation"}, {"id": "6363", "link": "/find?type=1&query=atishoo", "word": "atishoo"}, {"id": "104565", "link": "/find?type=1&query=-ative", "word": "-ative"}], "data": {}}, "en_en": {"suggests": [{"id": "1554", "link": "/find?type=3&query=-ation", "word": "-ation"}, {"id": "1555", "link": "/find?type=3&query=atishoo", "word": "atishoo"}, {"id": "1556", "link": "/find?type=3&query=-ative", "word": "-ative"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1554",
+                "link": "/find?type=3&query=-ation",
+                "word": "-ation"
+            },
+            {
+                "id": "1555",
+                "link": "/find?type=3&query=atishoo",
+                "word": "atishoo"
+            },
+            {
+                "id": "1556",
+                "link": "/find?type=3&query=-ative",
+                "word": "-ative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6362",
+                "link": "/find?type=1&query=ation",
+                "word": "ation"
+            },
+            {
+                "id": "6363",
+                "link": "/find?type=1&query=atishoo",
+                "word": "atishoo"
+            },
+            {
+                "id": "104565",
+                "link": "/find?type=1&query=-ative",
+                "word": "-ative"
+            }
+        ]
+    }
+}

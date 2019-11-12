@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "5351", "link": "/find?type=1&query=archaean", "word": "archaean"}, {"id": "5352", "link": "/find?type=1&query=archaeologer", "word": "archaeologer"}, {"id": "5353", "link": "/find?type=1&query=archaeological", "word": "archaeological"}, {"id": "5354", "link": "/find?type=1&query=archaeologist", "word": "archaeologist"}, {"id": "5355", "link": "/find?type=1&query=archaeology", "word": "archaeology"}, {"id": "5356", "link": "/find?type=1&query=archaeophyte", "word": "archaeophyte"}, {"id": "5357", "link": "/find?type=1&query=archaeopteryx", "word": "archaeopteryx"}, {"id": "5358", "link": "/find?type=1&query=archaeozoic", "word": "archaeozoic"}], "data": {}}, "en_en": {"suggests": [{"id": "1261", "link": "/find?type=3&query=archaeology", "word": "archaeology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1261",
+                "link": "/find?type=3&query=archaeology",
+                "word": "archaeology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5351",
+                "link": "/find?type=1&query=archaean",
+                "word": "archaean"
+            },
+            {
+                "id": "5352",
+                "link": "/find?type=1&query=archaeologer",
+                "word": "archaeologer"
+            },
+            {
+                "id": "5353",
+                "link": "/find?type=1&query=archaeological",
+                "word": "archaeological"
+            },
+            {
+                "id": "5354",
+                "link": "/find?type=1&query=archaeologist",
+                "word": "archaeologist"
+            },
+            {
+                "id": "5355",
+                "link": "/find?type=1&query=archaeology",
+                "word": "archaeology"
+            },
+            {
+                "id": "5356",
+                "link": "/find?type=1&query=archaeophyte",
+                "word": "archaeophyte"
+            },
+            {
+                "id": "5357",
+                "link": "/find?type=1&query=archaeopteryx",
+                "word": "archaeopteryx"
+            },
+            {
+                "id": "5358",
+                "link": "/find?type=1&query=archaeozoic",
+                "word": "archaeozoic"
+            }
+        ]
+    }
+}

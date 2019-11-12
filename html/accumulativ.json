@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "809", "link": "/find?type=1&query=accumulative", "word": "accumulative"}, {"id": "810", "link": "/find?type=1&query=accumulative+carry", "word": "accumulative carry"}, {"id": "811", "link": "/find?type=1&query=accumulatively", "word": "accumulatively"}, {"id": "812", "link": "/find?type=1&query=accumulativeness", "word": "accumulativeness"}], "data": {}}, "en_en": {"suggests": [{"id": "195", "link": "/find?type=3&query=accumulative", "word": "accumulative"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "195",
+                "link": "/find?type=3&query=accumulative",
+                "word": "accumulative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "809",
+                "link": "/find?type=1&query=accumulative",
+                "word": "accumulative"
+            },
+            {
+                "id": "810",
+                "link": "/find?type=1&query=accumulative+carry",
+                "word": "accumulative carry"
+            },
+            {
+                "id": "811",
+                "link": "/find?type=1&query=accumulatively",
+                "word": "accumulatively"
+            },
+            {
+                "id": "812",
+                "link": "/find?type=1&query=accumulativeness",
+                "word": "accumulativeness"
+            }
+        ]
+    }
+}

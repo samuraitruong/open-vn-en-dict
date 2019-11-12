@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "3681", "link": "/find?type=1&query=andalusian", "word": "andalusian"}, {"id": "3682", "link": "/find?type=1&query=andalusite", "word": "andalusite"}, {"id": "3683", "link": "/find?type=1&query=andante", "word": "andante"}, {"id": "3684", "link": "/find?type=1&query=andantino", "word": "andantino"}], "data": {}}, "en_en": {"suggests": [{"id": "919", "link": "/find?type=3&query=andante", "word": "andante"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "919",
+                "link": "/find?type=3&query=andante",
+                "word": "andante"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3681",
+                "link": "/find?type=1&query=andalusian",
+                "word": "andalusian"
+            },
+            {
+                "id": "3682",
+                "link": "/find?type=1&query=andalusite",
+                "word": "andalusite"
+            },
+            {
+                "id": "3683",
+                "link": "/find?type=1&query=andante",
+                "word": "andante"
+            },
+            {
+                "id": "3684",
+                "link": "/find?type=1&query=andantino",
+                "word": "andantino"
+            }
+        ]
+    }
+}

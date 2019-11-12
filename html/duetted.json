@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "28008", "link": "/find?type=1&query=duett", "word": "duett"}, {"id": "28008", "link": "/find?type=1&query=duettist", "word": "duettist"}, {"id": "28008", "link": "/find?type=1&query=duetto", "word": "duetto"}], "data": {"word": "duet", "id": "28008", "pronounce": "/dju:'et/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c duo) (\u00e2m nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e8 \u0111\u00f4i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/05210f3eba94d0c644c4259b0aca1cbd/16e5e1011eb/D/duet.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/718e07ff296b0bb562ae1cba1862bbe5/16e5e1017a7/D/duet.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "duet", "id": "8985", "pronounce": "/du\u02c8\u025bt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a piece of music that is performed by two singers or musicians</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They sang the duet beautifully.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a piano and flute duet</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a piece of music that is performed by two singers or musicians</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They sang the duet beautifully.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a piano and flute duet</div>",
+            "id": "8985",
+            "mean": [],
+            "pronounce": "/du\u02c8\u025bt/",
+            "type": "noun",
+            "word": "duet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c duo) (\u00e2m nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e8 \u0111\u00f4i</div>",
+            "id": "28008",
+            "mean": [],
+            "pronounce": "/dju:'et/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/45d0b6f9cdb14cc73cb9c82e906fb3c1/16e5ef49547/D/duet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/709e3b8a7fd0eb875068f760e0754d40/16e5ef49560/D/duet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "duet"
+        },
+        "suggests": [
+            {
+                "id": "28008",
+                "link": "/find?type=1&query=duett",
+                "word": "duett"
+            },
+            {
+                "id": "28008",
+                "link": "/find?type=1&query=duettist",
+                "word": "duettist"
+            },
+            {
+                "id": "28008",
+                "link": "/find?type=1&query=duetto",
+                "word": "duetto"
+            }
+        ]
+    }
+}

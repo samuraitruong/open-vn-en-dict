@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "23738", "link": "/find?type=1&query=delimiter", "word": "delimiter"}], "data": {"word": "delimite", "id": "23738", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">ph\u00e2n gi\u1edbi, \u0111\u1ecbnh gi\u1edbi h\u1ea1n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "delimit", "id": "7568", "pronounce": "/d\u026a\u02c8l\u026am\u0259t/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-its; -ited; -iting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal :to officially set or state the limits of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Strict guidelines delimit his responsibilities.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-its; -ited; -iting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal :to officially set or state the limits of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Strict guidelines delimit his responsibilities.</div>",
+            "id": "7568",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8l\u026am\u0259t/",
+            "type": "verb",
+            "word": "delimit"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ph\u00e2n gi\u1edbi, \u0111\u1ecbnh gi\u1edbi h\u1ea1n</div>",
+            "id": "23738",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "delimite"
+        },
+        "suggests": [
+            {
+                "id": "23738",
+                "link": "/find?type=1&query=delimiter",
+                "word": "delimiter"
+            }
+        ]
+    }
+}

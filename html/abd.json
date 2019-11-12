@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "96", "link": "/find?type=1&query=abdicable", "word": "abdicable"}, {"id": "97", "link": "/find?type=1&query=abdicant", "word": "abdicant"}, {"id": "98", "link": "/find?type=1&query=abdicate", "word": "abdicate"}, {"id": "99", "link": "/find?type=1&query=abdication", "word": "abdication"}, {"id": "100", "link": "/find?type=1&query=abdicator", "word": "abdicator"}, {"id": "101", "link": "/find?type=1&query=abdomen", "word": "abdomen"}, {"id": "102", "link": "/find?type=1&query=abdominal", "word": "abdominal"}, {"id": "103", "link": "/find?type=1&query=abdominally", "word": "abdominally"}, {"id": "104", "link": "/find?type=1&query=abdominous", "word": "abdominous"}, {"id": "105", "link": "/find?type=1&query=abducens", "word": "abducens"}], "data": {}}, "en_en": {"suggests": [{"id": "41", "link": "/find?type=3&query=abdicate", "word": "abdicate"}, {"id": "42", "link": "/find?type=3&query=abdomen", "word": "abdomen"}, {"id": "43", "link": "/find?type=3&query=abduct", "word": "abduct"}], "data": {}}, "synonyms": {"suggests": [{"id": "6", "link": "/find?type=4&query=abdicate", "word": "abdicate"}, {"id": "7", "link": "/find?type=4&query=abduct", "word": "abduct"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41",
+                "link": "/find?type=3&query=abdicate",
+                "word": "abdicate"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=3&query=abdomen",
+                "word": "abdomen"
+            },
+            {
+                "id": "43",
+                "link": "/find?type=3&query=abduct",
+                "word": "abduct"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "96",
+                "link": "/find?type=1&query=abdicable",
+                "word": "abdicable"
+            },
+            {
+                "id": "97",
+                "link": "/find?type=1&query=abdicant",
+                "word": "abdicant"
+            },
+            {
+                "id": "98",
+                "link": "/find?type=1&query=abdicate",
+                "word": "abdicate"
+            },
+            {
+                "id": "99",
+                "link": "/find?type=1&query=abdication",
+                "word": "abdication"
+            },
+            {
+                "id": "100",
+                "link": "/find?type=1&query=abdicator",
+                "word": "abdicator"
+            },
+            {
+                "id": "101",
+                "link": "/find?type=1&query=abdomen",
+                "word": "abdomen"
+            },
+            {
+                "id": "102",
+                "link": "/find?type=1&query=abdominal",
+                "word": "abdominal"
+            },
+            {
+                "id": "103",
+                "link": "/find?type=1&query=abdominally",
+                "word": "abdominally"
+            },
+            {
+                "id": "104",
+                "link": "/find?type=1&query=abdominous",
+                "word": "abdominous"
+            },
+            {
+                "id": "105",
+                "link": "/find?type=1&query=abducens",
+                "word": "abducens"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6",
+                "link": "/find?type=4&query=abdicate",
+                "word": "abdicate"
+            },
+            {
+                "id": "7",
+                "link": "/find?type=4&query=abduct",
+                "word": "abduct"
+            }
+        ]
+    }
+}

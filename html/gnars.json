@@ -1,1 +1,47 @@
-{"error": 0, "query": "gnars", "enViData": {"suggests": [{"id": "40421", "link": "/find?type=1&query=gnarl", "word": "gnarl"}, {"id": "40422", "link": "/find?type=1&query=gnarled", "word": "gnarled"}, {"id": "40423", "link": "/find?type=1&query=gnarly", "word": "gnarly"}]}, "mUrl": "/find?type=1&query=gnars", "enEnData": {"suggests": [{"id": "12203", "link": "/find?type=3&query=gnarled", "word": "gnarled"}, {"id": "12204", "link": "/find?type=3&query=gnarly", "word": "gnarly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3032", "link": "/find?type=4&query=gnarled", "word": "gnarled"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12203",
+                "link": "/find?type=3&query=gnarled",
+                "word": "gnarled"
+            },
+            {
+                "id": "12204",
+                "link": "/find?type=3&query=gnarly",
+                "word": "gnarly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40421",
+                "link": "/find?type=1&query=gnarl",
+                "word": "gnarl"
+            },
+            {
+                "id": "40422",
+                "link": "/find?type=1&query=gnarled",
+                "word": "gnarled"
+            },
+            {
+                "id": "40423",
+                "link": "/find?type=1&query=gnarly",
+                "word": "gnarly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3032",
+                "link": "/find?type=4&query=gnarled",
+                "word": "gnarled"
+            }
+        ]
+    }
+}

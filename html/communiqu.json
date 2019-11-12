@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "17493", "link": "/find?type=1&query=communiqu%C3%A9", "word": "communiqu\u00e9"}], "data": {}}, "en_en": {"suggests": [{"id": "5675", "link": "/find?type=3&query=communique", "word": "communique"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5675",
+                "link": "/find?type=3&query=communique",
+                "word": "communique"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17493",
+                "link": "/find?type=1&query=communiqu%C3%A9",
+                "word": "communiqu\u00e9"
+            }
+        ]
+    }
+}

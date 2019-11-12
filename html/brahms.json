@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "10902", "link": "/find?type=1&query=brahman", "word": "brahman"}, {"id": "10903", "link": "/find?type=1&query=brahmanism", "word": "brahmanism"}, {"id": "10904", "link": "/find?type=1&query=brahmin", "word": "brahmin"}, {"id": "10905", "link": "/find?type=1&query=brahminee", "word": "brahminee"}, {"id": "10906", "link": "/find?type=1&query=brahminical", "word": "brahminical"}, {"id": "10907", "link": "/find?type=1&query=brahminism", "word": "brahminism"}], "data": {}}, "en_en": {"suggests": [{"id": "3302", "link": "/find?type=3&query=Brahman", "word": "Brahman"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3302",
+                "link": "/find?type=3&query=Brahman",
+                "word": "Brahman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10902",
+                "link": "/find?type=1&query=brahman",
+                "word": "brahman"
+            },
+            {
+                "id": "10903",
+                "link": "/find?type=1&query=brahmanism",
+                "word": "brahmanism"
+            },
+            {
+                "id": "10904",
+                "link": "/find?type=1&query=brahmin",
+                "word": "brahmin"
+            },
+            {
+                "id": "10905",
+                "link": "/find?type=1&query=brahminee",
+                "word": "brahminee"
+            },
+            {
+                "id": "10906",
+                "link": "/find?type=1&query=brahminical",
+                "word": "brahminical"
+            },
+            {
+                "id": "10907",
+                "link": "/find?type=1&query=brahminism",
+                "word": "brahminism"
+            }
+        ]
+    }
+}

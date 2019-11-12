@@ -1,1 +1,37 @@
-{"error": 0, "query": "hieroglyphic", "enViData": {"suggests": [{"id": "43927", "link": "/find?type=1&query=hieroglyphics", "word": "hieroglyphics"}], "best": {"id": "43927", "details": "\n<div id=\"find_word_43927\" class=\"world word_en\" rel=\"hieroglyphic\">\n    <h2 class=\"fl\">hieroglyphic <span class=\"color-black\">/,hai\u0259r\u0259'glifik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43927\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43927\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">s\u1ed1 nhi\u1ec1u</div>\n    \n    <div class=\"green margin25 m-top15\">[h\u1ec7 th\u1ed1ng] ch\u1eef t\u01b0\u1ee3ng h\u00ecnh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">his writing is so bad it just looks like hieroglyphics to me</div>\n    \n    <div class=\"margin25\">ch\u1eef n\u00f3 x\u1ea5u \u0111\u1ebfn m\u1ee9c nh\u01b0 l\u00e0 ch\u1eef t\u01b0\u1ee3ng h\u00ecnh \u0111\u1ed1i v\u1edbi t\u00f4i</div>\n    \n</div>\n", "link": "/find?type=1&query=hieroglyphic", "word": "hieroglyphic"}}, "mUrl": "/find?type=1&query=hieroglyphic", "enEnData": {"suggests": [{"id": "13521", "link": "/find?type=3&query=hieroglyphics", "word": "hieroglyphics"}], "best": {"id": "13521", "details": "\n<div id=\"find_word_13521\" class=\"world word_en\" rel=\"hieroglyphic\">\n    <h2 class=\"fl\">hieroglyphic <span class=\"color-black\">/\u02cchaj\u0259r\u0259\u02c8gl\u026af\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13521\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13521\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :hieroglyph</div>\n    \n</div>\n", "link": "/find?type=3&query=hieroglyphic", "word": "hieroglyphic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :hieroglyph</div>",
+            "id": "13521",
+            "mean": [],
+            "pronounce": "/\u02cchaj\u0259r\u0259\u02c8gl\u026af\u026ak/",
+            "type": "noun",
+            "word": "hieroglyphic"
+        },
+        "suggests": [
+            {
+                "id": "13521",
+                "link": "/find?type=3&query=hieroglyphics",
+                "word": "hieroglyphics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">s\u1ed1 nhi\u1ec1u</div>\n    \n    <div class=\"green margin25 m-top15\">[h\u1ec7 th\u1ed1ng] ch\u1eef t\u01b0\u1ee3ng h\u00ecnh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">his writing is so bad it just looks like hieroglyphics to me</div>\n    \n    <div class=\"margin25\">ch\u1eef n\u00f3 x\u1ea5u \u0111\u1ebfn m\u1ee9c nh\u01b0 l\u00e0 ch\u1eef t\u01b0\u1ee3ng h\u00ecnh \u0111\u1ed1i v\u1edbi t\u00f4i</div>",
+            "id": "43927",
+            "mean": [],
+            "pronounce": "/,hai\u0259r\u0259'glifik/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "hieroglyphic"
+        },
+        "suggests": [
+            {
+                "id": "43927",
+                "link": "/find?type=1&query=hieroglyphics",
+                "word": "hieroglyphics"
+            }
+        ]
+    }
+}

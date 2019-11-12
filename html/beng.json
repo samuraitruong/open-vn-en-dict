@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "8946", "link": "/find?type=1&query=bengal", "word": "bengal"}, {"id": "8947", "link": "/find?type=1&query=bengal+light", "word": "bengal light"}, {"id": "8948", "link": "/find?type=1&query=bengalee", "word": "bengalee"}], "data": {}}, "en_en": {"suggests": [{"id": "2444", "link": "/find?type=3&query=Bengali", "word": "Bengali"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2444",
+                "link": "/find?type=3&query=Bengali",
+                "word": "Bengali"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8946",
+                "link": "/find?type=1&query=bengal",
+                "word": "bengal"
+            },
+            {
+                "id": "8947",
+                "link": "/find?type=1&query=bengal+light",
+                "word": "bengal light"
+            },
+            {
+                "id": "8948",
+                "link": "/find?type=1&query=bengalee",
+                "word": "bengalee"
+            }
+        ]
+    }
+}

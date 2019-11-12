@@ -1,1 +1,132 @@
-{"en_vn": {"suggests": [{"id": "2598", "link": "/find?type=1&query=allegation", "word": "allegation"}, {"id": "2599", "link": "/find?type=1&query=allege", "word": "allege"}, {"id": "2600", "link": "/find?type=1&query=allegeable", "word": "allegeable"}, {"id": "2601", "link": "/find?type=1&query=alleged", "word": "alleged"}, {"id": "2602", "link": "/find?type=1&query=allegedly", "word": "allegedly"}, {"id": "2603", "link": "/find?type=1&query=alleger", "word": "alleger"}, {"id": "2604", "link": "/find?type=1&query=allegiance", "word": "allegiance"}, {"id": "2605", "link": "/find?type=1&query=allegiant", "word": "allegiant"}, {"id": "2606", "link": "/find?type=1&query=allegoric", "word": "allegoric"}, {"id": "2607", "link": "/find?type=1&query=allegorical", "word": "allegorical"}], "data": {}}, "en_en": {"suggests": [{"id": "678", "link": "/find?type=3&query=allegation", "word": "allegation"}, {"id": "679", "link": "/find?type=3&query=allege", "word": "allege"}, {"id": "680", "link": "/find?type=3&query=alleged", "word": "alleged"}, {"id": "681", "link": "/find?type=3&query=allegiance", "word": "allegiance"}, {"id": "682", "link": "/find?type=3&query=allegory", "word": "allegory"}, {"id": "683", "link": "/find?type=3&query=allegro", "word": "allegro"}, {"id": "684", "link": "/find?type=3&query=alleluia", "word": "alleluia"}, {"id": "685", "link": "/find?type=3&query=Allen+wrench", "word": "Allen wrench"}, {"id": "687", "link": "/find?type=3&query=allergen", "word": "allergen"}, {"id": "688", "link": "/find?type=3&query=allergic", "word": "allergic"}], "data": {}}, "synonyms": {"suggests": [{"id": "193", "link": "/find?type=4&query=allegation", "word": "allegation"}, {"id": "194", "link": "/find?type=4&query=allege", "word": "allege"}, {"id": "195", "link": "/find?type=4&query=alleged", "word": "alleged"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "678",
+                "link": "/find?type=3&query=allegation",
+                "word": "allegation"
+            },
+            {
+                "id": "679",
+                "link": "/find?type=3&query=allege",
+                "word": "allege"
+            },
+            {
+                "id": "680",
+                "link": "/find?type=3&query=alleged",
+                "word": "alleged"
+            },
+            {
+                "id": "681",
+                "link": "/find?type=3&query=allegiance",
+                "word": "allegiance"
+            },
+            {
+                "id": "682",
+                "link": "/find?type=3&query=allegory",
+                "word": "allegory"
+            },
+            {
+                "id": "683",
+                "link": "/find?type=3&query=allegro",
+                "word": "allegro"
+            },
+            {
+                "id": "684",
+                "link": "/find?type=3&query=alleluia",
+                "word": "alleluia"
+            },
+            {
+                "id": "685",
+                "link": "/find?type=3&query=Allen+wrench",
+                "word": "Allen wrench"
+            },
+            {
+                "id": "687",
+                "link": "/find?type=3&query=allergen",
+                "word": "allergen"
+            },
+            {
+                "id": "688",
+                "link": "/find?type=3&query=allergic",
+                "word": "allergic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2598",
+                "link": "/find?type=1&query=allegation",
+                "word": "allegation"
+            },
+            {
+                "id": "2599",
+                "link": "/find?type=1&query=allege",
+                "word": "allege"
+            },
+            {
+                "id": "2600",
+                "link": "/find?type=1&query=allegeable",
+                "word": "allegeable"
+            },
+            {
+                "id": "2601",
+                "link": "/find?type=1&query=alleged",
+                "word": "alleged"
+            },
+            {
+                "id": "2602",
+                "link": "/find?type=1&query=allegedly",
+                "word": "allegedly"
+            },
+            {
+                "id": "2603",
+                "link": "/find?type=1&query=alleger",
+                "word": "alleger"
+            },
+            {
+                "id": "2604",
+                "link": "/find?type=1&query=allegiance",
+                "word": "allegiance"
+            },
+            {
+                "id": "2605",
+                "link": "/find?type=1&query=allegiant",
+                "word": "allegiant"
+            },
+            {
+                "id": "2606",
+                "link": "/find?type=1&query=allegoric",
+                "word": "allegoric"
+            },
+            {
+                "id": "2607",
+                "link": "/find?type=1&query=allegorical",
+                "word": "allegorical"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "193",
+                "link": "/find?type=4&query=allegation",
+                "word": "allegation"
+            },
+            {
+                "id": "194",
+                "link": "/find?type=4&query=allege",
+                "word": "allege"
+            },
+            {
+                "id": "195",
+                "link": "/find?type=4&query=alleged",
+                "word": "alleged"
+            }
+        ]
+    }
+}

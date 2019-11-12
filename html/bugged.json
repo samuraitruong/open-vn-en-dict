@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "11658", "link": "/find?type=1&query=bugger", "word": "bugger"}, {"id": "11659", "link": "/find?type=1&query=bugger-all", "word": "bugger-all"}, {"id": "11660", "link": "/find?type=1&query=buggered", "word": "buggered"}, {"id": "11661", "link": "/find?type=1&query=buggery", "word": "buggery"}], "data": {}}, "en_en": {"suggests": [{"id": "3596", "link": "/find?type=3&query=bugger", "word": "bugger"}, {"id": "3597", "link": "/find?type=3&query=bugger+all", "word": "bugger all"}, {"id": "3598", "link": "/find?type=3&query=buggery", "word": "buggery"}], "data": {}}, "synonyms": {"suggests": [{"id": "755", "link": "/find?type=4&query=bugger", "word": "bugger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3596",
+                "link": "/find?type=3&query=bugger",
+                "word": "bugger"
+            },
+            {
+                "id": "3597",
+                "link": "/find?type=3&query=bugger+all",
+                "word": "bugger all"
+            },
+            {
+                "id": "3598",
+                "link": "/find?type=3&query=buggery",
+                "word": "buggery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11658",
+                "link": "/find?type=1&query=bugger",
+                "word": "bugger"
+            },
+            {
+                "id": "11659",
+                "link": "/find?type=1&query=bugger-all",
+                "word": "bugger-all"
+            },
+            {
+                "id": "11660",
+                "link": "/find?type=1&query=buggered",
+                "word": "buggered"
+            },
+            {
+                "id": "11661",
+                "link": "/find?type=1&query=buggery",
+                "word": "buggery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "755",
+                "link": "/find?type=4&query=bugger",
+                "word": "bugger"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "globus", "enViData": {"suggests": [{"id": "40275", "link": "/find?type=1&query=globular", "word": "globular"}, {"id": "40276", "link": "/find?type=1&query=globularity", "word": "globularity"}, {"id": "40277", "link": "/find?type=1&query=globule", "word": "globule"}, {"id": "40278", "link": "/find?type=1&query=globuliferous", "word": "globuliferous"}, {"id": "40279", "link": "/find?type=1&query=globulin", "word": "globulin"}, {"id": "40280", "link": "/find?type=1&query=globulit", "word": "globulit"}]}, "mUrl": "/find?type=1&query=globus", "enEnData": {"suggests": [{"id": "12167", "link": "/find?type=3&query=globule", "word": "globule"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12167",
+                "link": "/find?type=3&query=globule",
+                "word": "globule"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40275",
+                "link": "/find?type=1&query=globular",
+                "word": "globular"
+            },
+            {
+                "id": "40276",
+                "link": "/find?type=1&query=globularity",
+                "word": "globularity"
+            },
+            {
+                "id": "40277",
+                "link": "/find?type=1&query=globule",
+                "word": "globule"
+            },
+            {
+                "id": "40278",
+                "link": "/find?type=1&query=globuliferous",
+                "word": "globuliferous"
+            },
+            {
+                "id": "40279",
+                "link": "/find?type=1&query=globulin",
+                "word": "globulin"
+            },
+            {
+                "id": "40280",
+                "link": "/find?type=1&query=globulit",
+                "word": "globulit"
+            }
+        ]
+    }
+}

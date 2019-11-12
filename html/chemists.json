@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "14730", "link": "/find?type=1&query=chemistry", "word": "chemistry"}], "data": {"word": "chemist", "id": "14730", "pronounce": "/'kemist/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9 druggist) ng\u01b0\u1eddi b\u00e1n d\u01b0\u1ee3c ph\u1ea9m, d\u01b0\u1ee3c s\u0129</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 h\u00f3a h\u1ecdc</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c7334fc2753f2f3a8587b60fee78e2d9/16e5de8ea36/C/chemist.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/31283fedf93af4d7a94e9f84e0c7fc03/16e5de8f00b/C/chemist.mp3"}}}, "en_en": {"suggests": [{"id": "4704", "link": "/find?type=3&query=chemistry", "word": "chemistry"}, {"id": "4704", "link": "/find?type=3&query=chemistry+set", "word": "chemistry set"}], "data": {"word": "chemist", "id": "4704", "pronounce": "/\u02c8k\u025bm\u026ast/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ists</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who studies or does research in the science of chemistry</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :pharmacist</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ists</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who studies or does research in the science of chemistry</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :pharmacist</div>",
+            "id": "4704",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025bm\u026ast/",
+            "type": "noun",
+            "word": "chemist"
+        },
+        "suggests": [
+            {
+                "id": "4704",
+                "link": "/find?type=3&query=chemistry",
+                "word": "chemistry"
+            },
+            {
+                "id": "4704",
+                "link": "/find?type=3&query=chemistry+set",
+                "word": "chemistry set"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9 druggist) ng\u01b0\u1eddi b\u00e1n d\u01b0\u1ee3c ph\u1ea9m, d\u01b0\u1ee3c s\u0129</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 h\u00f3a h\u1ecdc</div>",
+            "id": "14730",
+            "mean": [],
+            "pronounce": "/'kemist/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/10ec4fed11785cb9e4f5a1e42d3aede4/16e5ec97adf/C/chemist.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a1d09ba13c0f780f13a1501d8637d48b/16e5ec974a6/C/chemist.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "chemist"
+        },
+        "suggests": [
+            {
+                "id": "14730",
+                "link": "/find?type=1&query=chemistry",
+                "word": "chemistry"
+            }
+        ]
+    }
+}

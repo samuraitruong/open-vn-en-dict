@@ -1,1 +1,137 @@
-{"en_vn": {"suggests": [{"id": "15702", "link": "/find?type=1&query=civet", "word": "civet"}, {"id": "15703", "link": "/find?type=1&query=civic", "word": "civic"}, {"id": "15704", "link": "/find?type=1&query=civic+centre", "word": "civic centre"}, {"id": "15705", "link": "/find?type=1&query=civics", "word": "civics"}, {"id": "15706", "link": "/find?type=1&query=civies", "word": "civies"}, {"id": "15707", "link": "/find?type=1&query=civil", "word": "civil"}, {"id": "15708", "link": "/find?type=1&query=civil+defence", "word": "civil defence"}, {"id": "15709", "link": "/find?type=1&query=civil+disobedience", "word": "civil disobedience"}, {"id": "15710", "link": "/find?type=1&query=civil+engineer", "word": "civil engineer"}, {"id": "15711", "link": "/find?type=1&query=civil+engineering", "word": "civil engineering"}], "data": {}}, "en_en": {"suggests": [{"id": "5036", "link": "/find?type=3&query=civet", "word": "civet"}, {"id": "5037", "link": "/find?type=3&query=civic", "word": "civic"}, {"id": "5038", "link": "/find?type=3&query=civic+center", "word": "civic center"}, {"id": "5039", "link": "/find?type=3&query=civic-minded", "word": "civic-minded"}, {"id": "5040", "link": "/find?type=3&query=civics", "word": "civics"}, {"id": "5041", "link": "/find?type=3&query=civil", "word": "civil"}, {"id": "5042", "link": "/find?type=3&query=civil+defense", "word": "civil defense"}, {"id": "5043", "link": "/find?type=3&query=civil+disobedience", "word": "civil disobedience"}, {"id": "5044", "link": "/find?type=3&query=civil+engineering", "word": "civil engineering"}, {"id": "5045", "link": "/find?type=3&query=civil+law", "word": "civil law"}], "data": {}}, "synonyms": {"suggests": [{"id": "1015", "link": "/find?type=4&query=civil", "word": "civil"}, {"id": "1016", "link": "/find?type=4&query=civility", "word": "civility"}, {"id": "1017", "link": "/find?type=4&query=civilization", "word": "civilization"}, {"id": "1018", "link": "/find?type=4&query=civilize", "word": "civilize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5036",
+                "link": "/find?type=3&query=civet",
+                "word": "civet"
+            },
+            {
+                "id": "5037",
+                "link": "/find?type=3&query=civic",
+                "word": "civic"
+            },
+            {
+                "id": "5038",
+                "link": "/find?type=3&query=civic+center",
+                "word": "civic center"
+            },
+            {
+                "id": "5039",
+                "link": "/find?type=3&query=civic-minded",
+                "word": "civic-minded"
+            },
+            {
+                "id": "5040",
+                "link": "/find?type=3&query=civics",
+                "word": "civics"
+            },
+            {
+                "id": "5041",
+                "link": "/find?type=3&query=civil",
+                "word": "civil"
+            },
+            {
+                "id": "5042",
+                "link": "/find?type=3&query=civil+defense",
+                "word": "civil defense"
+            },
+            {
+                "id": "5043",
+                "link": "/find?type=3&query=civil+disobedience",
+                "word": "civil disobedience"
+            },
+            {
+                "id": "5044",
+                "link": "/find?type=3&query=civil+engineering",
+                "word": "civil engineering"
+            },
+            {
+                "id": "5045",
+                "link": "/find?type=3&query=civil+law",
+                "word": "civil law"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15702",
+                "link": "/find?type=1&query=civet",
+                "word": "civet"
+            },
+            {
+                "id": "15703",
+                "link": "/find?type=1&query=civic",
+                "word": "civic"
+            },
+            {
+                "id": "15704",
+                "link": "/find?type=1&query=civic+centre",
+                "word": "civic centre"
+            },
+            {
+                "id": "15705",
+                "link": "/find?type=1&query=civics",
+                "word": "civics"
+            },
+            {
+                "id": "15706",
+                "link": "/find?type=1&query=civies",
+                "word": "civies"
+            },
+            {
+                "id": "15707",
+                "link": "/find?type=1&query=civil",
+                "word": "civil"
+            },
+            {
+                "id": "15708",
+                "link": "/find?type=1&query=civil+defence",
+                "word": "civil defence"
+            },
+            {
+                "id": "15709",
+                "link": "/find?type=1&query=civil+disobedience",
+                "word": "civil disobedience"
+            },
+            {
+                "id": "15710",
+                "link": "/find?type=1&query=civil+engineer",
+                "word": "civil engineer"
+            },
+            {
+                "id": "15711",
+                "link": "/find?type=1&query=civil+engineering",
+                "word": "civil engineering"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1015",
+                "link": "/find?type=4&query=civil",
+                "word": "civil"
+            },
+            {
+                "id": "1016",
+                "link": "/find?type=4&query=civility",
+                "word": "civility"
+            },
+            {
+                "id": "1017",
+                "link": "/find?type=4&query=civilization",
+                "word": "civilization"
+            },
+            {
+                "id": "1018",
+                "link": "/find?type=4&query=civilize",
+                "word": "civilize"
+            }
+        ]
+    }
+}

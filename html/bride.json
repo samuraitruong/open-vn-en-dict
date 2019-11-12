@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "11208", "link": "/find?type=1&query=bridecake", "word": "bridecake"}, {"id": "11208", "link": "/find?type=1&query=bridegroom", "word": "bridegroom"}, {"id": "11208", "link": "/find?type=1&query=bridesmaid", "word": "bridesmaid"}, {"id": "11208", "link": "/find?type=1&query=bridesman", "word": "bridesman"}, {"id": "11208", "link": "/find?type=1&query=bridewell", "word": "bridewell"}], "data": {"word": "bride", "id": "11208", "pronounce": "/braid/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4 d\u00e2u</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a216de36433af875ad47ae3d5c6b9f83/16e5ddcd9c9/B/bride.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ed43b0d79fedbe0312c4ff674eed5a5d/16e5ddcdf8b/B/bride.mp3"}}}, "en_en": {"suggests": [{"id": "3420", "link": "/find?type=3&query=bridegroom", "word": "bridegroom"}, {"id": "3420", "link": "/find?type=3&query=bridesmaid", "word": "bridesmaid"}, {"id": "3420", "link": "/find?type=3&query=bride-to-be", "word": "bride-to-be"}], "data": {"word": "bride", "id": "3420", "pronounce": "/\u02c8bra\u026ad/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural brides</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a woman who has just married or is about to be married</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a new bride</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the mother of the bride - compare groom</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural brides</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a woman who has just married or is about to be married</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a new bride</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the mother of the bride - compare groom</div>",
+            "id": "3420",
+            "mean": [],
+            "pronounce": "/\u02c8bra\u026ad/",
+            "type": "noun",
+            "word": "bride"
+        },
+        "suggests": [
+            {
+                "id": "3420",
+                "link": "/find?type=3&query=bridegroom",
+                "word": "bridegroom"
+            },
+            {
+                "id": "3420",
+                "link": "/find?type=3&query=bridesmaid",
+                "word": "bridesmaid"
+            },
+            {
+                "id": "3420",
+                "link": "/find?type=3&query=bride-to-be",
+                "word": "bride-to-be"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4 d\u00e2u</div>",
+            "id": "11208",
+            "mean": [],
+            "pronounce": "/braid/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/150e33c0595e35061e951902b7b6b561/16e5ebe792d/B/bride.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2e1cbc8a31853cc44ee49e62bc28bbe6/16e5ebe742e/B/bride.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bride"
+        },
+        "suggests": [
+            {
+                "id": "11208",
+                "link": "/find?type=1&query=bridecake",
+                "word": "bridecake"
+            },
+            {
+                "id": "11208",
+                "link": "/find?type=1&query=bridegroom",
+                "word": "bridegroom"
+            },
+            {
+                "id": "11208",
+                "link": "/find?type=1&query=bridesmaid",
+                "word": "bridesmaid"
+            },
+            {
+                "id": "11208",
+                "link": "/find?type=1&query=bridesman",
+                "word": "bridesman"
+            },
+            {
+                "id": "11208",
+                "link": "/find?type=1&query=bridewell",
+                "word": "bridewell"
+            }
+        ]
+    }
+}

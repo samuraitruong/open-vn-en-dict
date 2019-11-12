@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "6539", "link": "/find?type=1&query=Atty-Gen", "word": "Atty-Gen"}], "data": {}}, "en_en": {"suggests": [{"id": "1617", "link": "/find?type=3&query=atty.", "word": "atty."}, {"id": "1618", "link": "/find?type=3&query=atty.+gen.", "word": "atty. gen."}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1617",
+                "link": "/find?type=3&query=atty.",
+                "word": "atty."
+            },
+            {
+                "id": "1618",
+                "link": "/find?type=3&query=atty.+gen.",
+                "word": "atty. gen."
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6539",
+                "link": "/find?type=1&query=Atty-Gen",
+                "word": "Atty-Gen"
+            }
+        ]
+    }
+}

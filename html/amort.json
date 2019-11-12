@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3248", "link": "/find?type=1&query=amortizable", "word": "amortizable"}, {"id": "3249", "link": "/find?type=1&query=amortization%2C+amortisation", "word": "amortization, amortisation"}, {"id": "3250", "link": "/find?type=1&query=amortize%2C+amortise", "word": "amortize, amortise"}], "data": {}}, "en_en": {"suggests": [{"id": "854", "link": "/find?type=3&query=amortize", "word": "amortize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "854",
+                "link": "/find?type=3&query=amortize",
+                "word": "amortize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3248",
+                "link": "/find?type=1&query=amortizable",
+                "word": "amortizable"
+            },
+            {
+                "id": "3249",
+                "link": "/find?type=1&query=amortization%2C+amortisation",
+                "word": "amortization, amortisation"
+            },
+            {
+                "id": "3250",
+                "link": "/find?type=1&query=amortize%2C+amortise",
+                "word": "amortize, amortise"
+            }
+        ]
+    }
+}

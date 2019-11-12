@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "29830", "link": "/find?type=1&query=Elizabethan", "word": "Elizabethan"}], "data": {}}, "en_en": {"suggests": [{"id": "9367", "link": "/find?type=3&query=Elizabethan", "word": "Elizabethan"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9367",
+                "link": "/find?type=3&query=Elizabethan",
+                "word": "Elizabethan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29830",
+                "link": "/find?type=1&query=Elizabethan",
+                "word": "Elizabethan"
+            }
+        ]
+    }
+}

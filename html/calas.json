@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "12389", "link": "/find?type=1&query=calash", "word": "calash"}], "data": {}}, "en_en": {"suggests": [{"id": "3883", "link": "/find?type=3&query=calamine", "word": "calamine"}, {"id": "3884", "link": "/find?type=3&query=calamitous", "word": "calamitous"}, {"id": "3885", "link": "/find?type=3&query=calamity", "word": "calamity"}], "data": {}}, "synonyms": {"suggests": [{"id": "817", "link": "/find?type=4&query=calamitous", "word": "calamitous"}, {"id": "818", "link": "/find?type=4&query=calamity", "word": "calamity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3883",
+                "link": "/find?type=3&query=calamine",
+                "word": "calamine"
+            },
+            {
+                "id": "3884",
+                "link": "/find?type=3&query=calamitous",
+                "word": "calamitous"
+            },
+            {
+                "id": "3885",
+                "link": "/find?type=3&query=calamity",
+                "word": "calamity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12389",
+                "link": "/find?type=1&query=calash",
+                "word": "calash"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "817",
+                "link": "/find?type=4&query=calamitous",
+                "word": "calamitous"
+            },
+            {
+                "id": "818",
+                "link": "/find?type=4&query=calamity",
+                "word": "calamity"
+            }
+        ]
+    }
+}

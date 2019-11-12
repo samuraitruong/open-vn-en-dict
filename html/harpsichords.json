@@ -1,1 +1,28 @@
-{"error": 0, "query": "harpsichords", "enViData": {"suggests": [], "best": {"id": "42912", "details": "\n<div id=\"find_word_42912\" class=\"world word_en\" rel=\"harpsichord\">\n    <h2 class=\"fl\">harpsichord <span class=\"color-black\">/'h\u0251:psik\u0254:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42912\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42912\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) \u0111\u00e0n clavico</div>\n    \n</div>\n", "link": "/find?type=1&query=harpsichord", "word": "harpsichord"}}, "mUrl": "/find?type=1&query=harpsichords", "enEnData": {"suggests": [], "best": {"id": "13131", "details": "\n<div id=\"find_word_13131\" class=\"world word_en\" rel=\"harpsichord\">\n    <h2 class=\"fl\">harpsichord <span class=\"color-black\">/\u02c8h\u0251\u025aps\u026a\u02ccko\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13131\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13131\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -chords</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a musical instrument that is similar to a piano but with strings that are plucked rather than struck - see picture at keyboard</div>\n    \n</div>\n", "link": "/find?type=3&query=harpsichord", "word": "harpsichord"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -chords</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a musical instrument that is similar to a piano but with strings that are plucked rather than struck - see picture at keyboard</div>",
+            "id": "13131",
+            "mean": [],
+            "pronounce": "/\u02c8h\u0251\u025aps\u026a\u02ccko\u025ad/",
+            "type": "noun",
+            "word": "harpsichord"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) \u0111\u00e0n clavico</div>",
+            "id": "42912",
+            "mean": [],
+            "pronounce": "/'h\u0251:psik\u0254:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/15c782c63781d4b720f1d7375c849cad/16e6169d975/H/harpsichord.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4d55a62b94a71bc2bc455a79790841a8/16e6169d10e/H/harpsichord.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "harpsichord"
+        },
+        "suggests": []
+    }
+}

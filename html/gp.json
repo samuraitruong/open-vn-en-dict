@@ -1,1 +1,43 @@
-{"error": 0, "query": "gp", "enViData": {"suggests": [{"id": "40904", "link": "/find?type=1&query=Gp+Capt", "word": "Gp Capt"}, {"id": "40904", "link": "/find?type=1&query=GPO", "word": "GPO"}], "best": {"id": "40904", "details": "\n<div id=\"find_word_40904\" class=\"world word_en\" rel=\"GP\">\n    <h2 class=\"fl\">GP <span class=\"color-black\">/d\u0292i: 'pi:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40904\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40904\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a general practioner)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1c s\u0129 \u0111a khoa</div>\n    \n</div>\n", "link": "/find?type=1&query=GP", "word": "GP"}}, "mUrl": "/find?type=1&query=gp", "enEnData": {"suggests": [{"id": "12405", "link": "/find?type=3&query=GPA", "word": "GPA"}, {"id": "12406", "link": "/find?type=3&query=GPS", "word": "GPS"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12405",
+                "link": "/find?type=3&query=GPA",
+                "word": "GPA"
+            },
+            {
+                "id": "12406",
+                "link": "/find?type=3&query=GPS",
+                "word": "GPS"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a general practioner)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1c s\u0129 \u0111a khoa</div>",
+            "id": "40904",
+            "mean": [],
+            "pronounce": "/d\u0292i: 'pi:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3ac3cd7374be46ad988f69a9434288b2/16e611b8c14/G/GP.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/de027b83146051eae6b024b80d9a728b/16e611b8415/G/GP.mp3"
+            },
+            "type": "",
+            "word": "GP"
+        },
+        "suggests": [
+            {
+                "id": "40904",
+                "link": "/find?type=1&query=Gp+Capt",
+                "word": "Gp Capt"
+            },
+            {
+                "id": "40904",
+                "link": "/find?type=1&query=GPO",
+                "word": "GPO"
+            }
+        ]
+    }
+}

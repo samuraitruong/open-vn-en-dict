@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "957", "link": "/find?type=1&query=acorn", "word": "acorn"}, {"id": "958", "link": "/find?type=1&query=acorn+tube", "word": "acorn tube"}, {"id": "959", "link": "/find?type=1&query=acorn-shaped", "word": "acorn-shaped"}], "data": {}}, "en_en": {"suggests": [{"id": "227", "link": "/find?type=3&query=acorn", "word": "acorn"}, {"id": "228", "link": "/find?type=3&query=acorn+squash", "word": "acorn squash"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "227",
+                "link": "/find?type=3&query=acorn",
+                "word": "acorn"
+            },
+            {
+                "id": "228",
+                "link": "/find?type=3&query=acorn+squash",
+                "word": "acorn squash"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "957",
+                "link": "/find?type=1&query=acorn",
+                "word": "acorn"
+            },
+            {
+                "id": "958",
+                "link": "/find?type=1&query=acorn+tube",
+                "word": "acorn tube"
+            },
+            {
+                "id": "959",
+                "link": "/find?type=1&query=acorn-shaped",
+                "word": "acorn-shaped"
+            }
+        ]
+    }
+}

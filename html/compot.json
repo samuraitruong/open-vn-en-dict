@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "17803", "link": "/find?type=1&query=compotation", "word": "compotation"}, {"id": "17804", "link": "/find?type=1&query=compotator", "word": "compotator"}, {"id": "17805", "link": "/find?type=1&query=compote", "word": "compote"}], "data": {}}, "en_en": {"suggests": [{"id": "5759", "link": "/find?type=3&query=compote", "word": "compote"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5759",
+                "link": "/find?type=3&query=compote",
+                "word": "compote"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17803",
+                "link": "/find?type=1&query=compotation",
+                "word": "compotation"
+            },
+            {
+                "id": "17804",
+                "link": "/find?type=1&query=compotator",
+                "word": "compotator"
+            },
+            {
+                "id": "17805",
+                "link": "/find?type=1&query=compote",
+                "word": "compote"
+            }
+        ]
+    }
+}

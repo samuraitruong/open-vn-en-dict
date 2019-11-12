@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "27065", "link": "/find?type=1&query=dominical", "word": "dominical"}, {"id": "27066", "link": "/find?type=1&query=Dominican", "word": "Dominican"}, {"id": "27067", "link": "/find?type=1&query=dominie", "word": "dominie"}, {"id": "27068", "link": "/find?type=1&query=dominion", "word": "dominion"}, {"id": "27069", "link": "/find?type=1&query=dominium", "word": "dominium"}], "data": {}}, "en_en": {"suggests": [{"id": "8539", "link": "/find?type=3&query=Dominican", "word": "Dominican"}, {"id": "8540", "link": "/find?type=3&query=dominion", "word": "dominion"}], "data": {}}, "synonyms": {"suggests": [{"id": "1885", "link": "/find?type=4&query=dominion", "word": "dominion"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8539",
+                "link": "/find?type=3&query=Dominican",
+                "word": "Dominican"
+            },
+            {
+                "id": "8540",
+                "link": "/find?type=3&query=dominion",
+                "word": "dominion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27065",
+                "link": "/find?type=1&query=dominical",
+                "word": "dominical"
+            },
+            {
+                "id": "27066",
+                "link": "/find?type=1&query=Dominican",
+                "word": "Dominican"
+            },
+            {
+                "id": "27067",
+                "link": "/find?type=1&query=dominie",
+                "word": "dominie"
+            },
+            {
+                "id": "27068",
+                "link": "/find?type=1&query=dominion",
+                "word": "dominion"
+            },
+            {
+                "id": "27069",
+                "link": "/find?type=1&query=dominium",
+                "word": "dominium"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1885",
+                "link": "/find?type=4&query=dominion",
+                "word": "dominion"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "879", "link": "/find?type=1&query=achilles+heel", "word": "achilles heel"}, {"id": "879", "link": "/find?type=1&query=Achilles+tendon", "word": "Achilles tendon"}, {"id": "879", "link": "/find?type=1&query=achilles%27+tendon", "word": "achilles' tendon"}], "data": {"word": "Achilles", "id": "879", "pronounce": "/\u0259'kili:z/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">an (one's) Achilles heel</div>\n    \n    <div class=\"grey margin25 m-top15\">\u0111i\u1ec3m y\u1ebfu</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">vanity is his Achilles heel</div>\n    \n    <div class=\"margin25\">t\u00ednh ki\u00eau c\u0103ng l\u00e0 \u0111i\u1ec3m y\u1ebfu c\u1ee7a anh ta</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6d9e5d5511b89c56916080dce5cac33b/16e5db64cb7/A/Achilles.mp3"}}}, "en_en": {"suggests": [{"id": "214", "link": "/find?type=3&query=Achilles%27+heel", "word": "Achilles' heel"}, {"id": "215", "link": "/find?type=3&query=Achilles+tendon", "word": "Achilles tendon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "214",
+                "link": "/find?type=3&query=Achilles%27+heel",
+                "word": "Achilles' heel"
+            },
+            {
+                "id": "215",
+                "link": "/find?type=3&query=Achilles+tendon",
+                "word": "Achilles tendon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">an (one's) Achilles heel</div>\n    \n    <div class=\"grey margin25 m-top15\">\u0111i\u1ec3m y\u1ebfu</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">vanity is his Achilles heel</div>\n    \n    <div class=\"margin25\">t\u00ednh ki\u00eau c\u0103ng l\u00e0 \u0111i\u1ec3m y\u1ebfu c\u1ee7a anh ta</div>",
+            "id": "879",
+            "mean": [],
+            "pronounce": "/\u0259'kili:z/",
+            "speak": {
+                "us": "https://stream-dict-laban.zdn.vn/us/1b08ddad3b87a078c2f4bccfc178eab2/16e5e9ffabd/A/Achilles.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Achilles"
+        },
+        "suggests": [
+            {
+                "id": "879",
+                "link": "/find?type=1&query=achilles+heel",
+                "word": "achilles heel"
+            },
+            {
+                "id": "879",
+                "link": "/find?type=1&query=Achilles+tendon",
+                "word": "Achilles tendon"
+            },
+            {
+                "id": "879",
+                "link": "/find?type=1&query=achilles%27+tendon",
+                "word": "achilles' tendon"
+            }
+        ]
+    }
+}

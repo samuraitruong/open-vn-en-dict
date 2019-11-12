@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [], "data": {"word": "denominate", "id": "24046", "pronounce": "/di'n\u0254mineit/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cho t\u00ean l\u00e0, \u0111\u1eb7t t\u00ean l\u00e0, g\u1ecdi t\u00ean l\u00e0</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9860b0287a814a1a0eda13ea8c60a5d8/16e5e036672/D/denominate.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/07985cb356684ecd80735261e8d2c365/16e5e036c28/D/denominate.mp3"}}}, "en_en": {"suggests": [{"id": "7644", "link": "/find?type=3&query=denomination", "word": "denomination"}, {"id": "7645", "link": "/find?type=3&query=denominator", "word": "denominator"}], "data": {}}, "synonyms": {"suggests": [{"id": "1537", "link": "/find?type=4&query=denomination", "word": "denomination"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7644",
+                "link": "/find?type=3&query=denomination",
+                "word": "denomination"
+            },
+            {
+                "id": "7645",
+                "link": "/find?type=3&query=denominator",
+                "word": "denominator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cho t\u00ean l\u00e0, \u0111\u1eb7t t\u00ean l\u00e0, g\u1ecdi t\u00ean l\u00e0</div>",
+            "id": "24046",
+            "mean": [],
+            "pronounce": "/di'n\u0254mineit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/aacd0b99e0c434b65c41860b247e10b6/16e5eebaf18/D/denominate.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e40e87e7fd34b5b34ef472985b2662cd/16e5eeba5f5/D/denominate.mp3"
+            },
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "denominate"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1537",
+                "link": "/find?type=4&query=denomination",
+                "word": "denomination"
+            }
+        ]
+    }
+}

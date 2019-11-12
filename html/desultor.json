@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "24570", "link": "/find?type=1&query=desultorily", "word": "desultorily"}, {"id": "24571", "link": "/find?type=1&query=desultoriness", "word": "desultoriness"}, {"id": "24572", "link": "/find?type=1&query=desultory", "word": "desultory"}], "data": {}}, "en_en": {"suggests": [{"id": "7809", "link": "/find?type=3&query=desultory", "word": "desultory"}], "data": {}}, "synonyms": {"suggests": [{"id": "1603", "link": "/find?type=4&query=desultory", "word": "desultory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7809",
+                "link": "/find?type=3&query=desultory",
+                "word": "desultory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24570",
+                "link": "/find?type=1&query=desultorily",
+                "word": "desultorily"
+            },
+            {
+                "id": "24571",
+                "link": "/find?type=1&query=desultoriness",
+                "word": "desultoriness"
+            },
+            {
+                "id": "24572",
+                "link": "/find?type=1&query=desultory",
+                "word": "desultory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1603",
+                "link": "/find?type=4&query=desultory",
+                "word": "desultory"
+            }
+        ]
+    }
+}

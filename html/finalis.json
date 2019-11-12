@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "35345", "link": "/find?type=1&query=finalisation", "word": "finalisation"}, {"id": "35346", "link": "/find?type=1&query=finalise", "word": "finalise"}, {"id": "35347", "link": "/find?type=1&query=finalist", "word": "finalist"}], "data": {}}, "en_en": {"suggests": [{"id": "10631", "link": "/find?type=3&query=finalist", "word": "finalist"}], "data": {}}, "synonyms": {"suggests": [{"id": "2618", "link": "/find?type=4&query=finality", "word": "finality"}, {"id": "2619", "link": "/find?type=4&query=finalize", "word": "finalize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10631",
+                "link": "/find?type=3&query=finalist",
+                "word": "finalist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35345",
+                "link": "/find?type=1&query=finalisation",
+                "word": "finalisation"
+            },
+            {
+                "id": "35346",
+                "link": "/find?type=1&query=finalise",
+                "word": "finalise"
+            },
+            {
+                "id": "35347",
+                "link": "/find?type=1&query=finalist",
+                "word": "finalist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2618",
+                "link": "/find?type=4&query=finality",
+                "word": "finality"
+            },
+            {
+                "id": "2619",
+                "link": "/find?type=4&query=finalize",
+                "word": "finalize"
+            }
+        ]
+    }
+}

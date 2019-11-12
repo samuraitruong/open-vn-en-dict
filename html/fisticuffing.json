@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "35779", "link": "/find?type=1&query=fisticuffer", "word": "fisticuffer"}], "data": {}}, "en_en": {"suggests": [{"id": "10775", "link": "/find?type=3&query=fisticuffs", "word": "fisticuffs"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10775",
+                "link": "/find?type=3&query=fisticuffs",
+                "word": "fisticuffs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35779",
+                "link": "/find?type=1&query=fisticuffer",
+                "word": "fisticuffer"
+            }
+        ]
+    }
+}

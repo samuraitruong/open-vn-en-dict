@@ -1,1 +1,37 @@
-{"error": 0, "query": "harris", "enViData": {"suggests": [{"id": "42916", "link": "/find?type=1&query=harridan", "word": "harridan"}, {"id": "42917", "link": "/find?type=1&query=harrier", "word": "harrier"}]}, "mUrl": "/find?type=1&query=harris", "enEnData": {"suggests": [{"id": "13133", "link": "/find?type=3&query=harridan", "word": "harridan"}, {"id": "13134", "link": "/find?type=3&query=harried", "word": "harried"}, {"id": "13135", "link": "/find?type=3&query=harrier", "word": "harrier"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13133",
+                "link": "/find?type=3&query=harridan",
+                "word": "harridan"
+            },
+            {
+                "id": "13134",
+                "link": "/find?type=3&query=harried",
+                "word": "harried"
+            },
+            {
+                "id": "13135",
+                "link": "/find?type=3&query=harrier",
+                "word": "harrier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42916",
+                "link": "/find?type=1&query=harridan",
+                "word": "harridan"
+            },
+            {
+                "id": "42917",
+                "link": "/find?type=1&query=harrier",
+                "word": "harrier"
+            }
+        ]
+    }
+}

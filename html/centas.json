@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "14017", "link": "/find?type=1&query=cental", "word": "cental"}, {"id": "14018", "link": "/find?type=1&query=centare", "word": "centare"}, {"id": "14019", "link": "/find?type=1&query=centaur", "word": "centaur"}], "data": {}}, "en_en": {"suggests": [{"id": "4422", "link": "/find?type=3&query=centaur", "word": "centaur"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4422",
+                "link": "/find?type=3&query=centaur",
+                "word": "centaur"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14017",
+                "link": "/find?type=1&query=cental",
+                "word": "cental"
+            },
+            {
+                "id": "14018",
+                "link": "/find?type=1&query=centare",
+                "word": "centare"
+            },
+            {
+                "id": "14019",
+                "link": "/find?type=1&query=centaur",
+                "word": "centaur"
+            }
+        ]
+    }
+}

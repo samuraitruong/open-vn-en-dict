@@ -1,1 +1,42 @@
-{"error": 0, "query": "gentes", "enViData": {"suggests": [{"id": "39584", "link": "/find?type=1&query=genteel", "word": "genteel"}, {"id": "39585", "link": "/find?type=1&query=genteelism", "word": "genteelism"}, {"id": "39586", "link": "/find?type=1&query=genteelly", "word": "genteelly"}]}, "mUrl": "/find?type=1&query=gentes", "enEnData": {"suggests": [{"id": "11975", "link": "/find?type=3&query=genteel", "word": "genteel"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2963", "link": "/find?type=4&query=genteel", "word": "genteel"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11975",
+                "link": "/find?type=3&query=genteel",
+                "word": "genteel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39584",
+                "link": "/find?type=1&query=genteel",
+                "word": "genteel"
+            },
+            {
+                "id": "39585",
+                "link": "/find?type=1&query=genteelism",
+                "word": "genteelism"
+            },
+            {
+                "id": "39586",
+                "link": "/find?type=1&query=genteelly",
+                "word": "genteelly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2963",
+                "link": "/find?type=4&query=genteel",
+                "word": "genteel"
+            }
+        ]
+    }
+}

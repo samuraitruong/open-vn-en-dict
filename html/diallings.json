@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "24962", "link": "/find?type=1&query=dialling+code", "word": "dialling code"}, {"id": "24963", "link": "/find?type=1&query=dialling+tone", "word": "dialling tone"}], "data": {}}, "en_en": {"suggests": [{"id": "7914", "link": "/find?type=3&query=dialling+code", "word": "dialling code"}, {"id": "7915", "link": "/find?type=3&query=dialling+tone", "word": "dialling tone"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7914",
+                "link": "/find?type=3&query=dialling+code",
+                "word": "dialling code"
+            },
+            {
+                "id": "7915",
+                "link": "/find?type=3&query=dialling+tone",
+                "word": "dialling tone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24962",
+                "link": "/find?type=1&query=dialling+code",
+                "word": "dialling code"
+            },
+            {
+                "id": "24963",
+                "link": "/find?type=1&query=dialling+tone",
+                "word": "dialling tone"
+            }
+        ]
+    }
+}

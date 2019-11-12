@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15395", "link": "/find?type=1&query=chutzpah", "word": "chutzpah"}], "data": {}}, "en_en": {"suggests": [{"id": "4959", "link": "/find?type=3&query=chutzpah", "word": "chutzpah"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4959",
+                "link": "/find?type=3&query=chutzpah",
+                "word": "chutzpah"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15395",
+                "link": "/find?type=1&query=chutzpah",
+                "word": "chutzpah"
+            }
+        ]
+    }
+}

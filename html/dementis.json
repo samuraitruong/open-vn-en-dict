@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23855", "link": "/find?type=1&query=dementia", "word": "dementia"}, {"id": "23856", "link": "/find?type=1&query=dementia+praecox", "word": "dementia praecox"}, {"id": "23857", "link": "/find?type=1&query=demential", "word": "demential"}], "data": {}}, "en_en": {"suggests": [{"id": "7599", "link": "/find?type=3&query=dementia", "word": "dementia"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7599",
+                "link": "/find?type=3&query=dementia",
+                "word": "dementia"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23855",
+                "link": "/find?type=1&query=dementia",
+                "word": "dementia"
+            },
+            {
+                "id": "23856",
+                "link": "/find?type=1&query=dementia+praecox",
+                "word": "dementia praecox"
+            },
+            {
+                "id": "23857",
+                "link": "/find?type=1&query=demential",
+                "word": "demential"
+            }
+        ]
+    }
+}

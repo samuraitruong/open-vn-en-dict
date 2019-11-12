@@ -1,1 +1,56 @@
-{"en_vn": {"suggests": [], "data": {"word": "dorms", "id": "27176", "pronounce": "/d\u0254:mz/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng), (nh\u01b0) dormitory</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8597", "link": "/find?type=3&query=dormant", "word": "dormant"}, {"id": "8597", "link": "/find?type=3&query=dormer", "word": "dormer"}, {"id": "8597", "link": "/find?type=3&query=dormitory", "word": "dormitory"}, {"id": "8597", "link": "/find?type=3&query=dormouse", "word": "dormouse"}], "data": {"word": "dorm", "id": "8597", "pronounce": "/\u02c8do\u025am/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural dorms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :dormitory</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We all lived in the same dorm during our sophomore year.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">my old dorm room</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1892", "link": "/find?type=4&query=dormant", "word": "dormant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural dorms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :dormitory</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We all lived in the same dorm during our sophomore year.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">my old dorm room</div>",
+            "id": "8597",
+            "mean": [],
+            "pronounce": "/\u02c8do\u025am/",
+            "type": "noun",
+            "word": "dorm"
+        },
+        "suggests": [
+            {
+                "id": "8597",
+                "link": "/find?type=3&query=dormant",
+                "word": "dormant"
+            },
+            {
+                "id": "8597",
+                "link": "/find?type=3&query=dormer",
+                "word": "dormer"
+            },
+            {
+                "id": "8597",
+                "link": "/find?type=3&query=dormitory",
+                "word": "dormitory"
+            },
+            {
+                "id": "8597",
+                "link": "/find?type=3&query=dormouse",
+                "word": "dormouse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng), (nh\u01b0) dormitory</div>",
+            "id": "27176",
+            "mean": [],
+            "pronounce": "/d\u0254:mz/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "dorms"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1892",
+                "link": "/find?type=4&query=dormant",
+                "word": "dormant"
+            }
+        ]
+    }
+}

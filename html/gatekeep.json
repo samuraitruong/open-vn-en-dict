@@ -1,1 +1,22 @@
-{"error": 0, "query": "gatekeep", "enViData": {"suggests": [{"id": "39264", "link": "/find?type=1&query=gatekeeper", "word": "gatekeeper"}]}, "mUrl": "/find?type=1&query=gatekeep", "enEnData": {"suggests": [{"id": "11870", "link": "/find?type=3&query=gatekeeper", "word": "gatekeeper"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11870",
+                "link": "/find?type=3&query=gatekeeper",
+                "word": "gatekeeper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39264",
+                "link": "/find?type=1&query=gatekeeper",
+                "word": "gatekeeper"
+            }
+        ]
+    }
+}

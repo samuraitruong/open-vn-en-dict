@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [], "data": {"word": "epos", "id": "31483", "pronounce": "/'ep\u0254s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thi\u00ean anh h\u00f9ng ca c\u1ed5 (truy\u1ec1n h\u00ecnh)</div>\n    \n    <div class=\"green margin25 m-top15\">thi\u00ean anh h\u00f9ng ca, thi\u00ean s\u1eed thi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9688", "link": "/find?type=3&query=epoch", "word": "epoch"}, {"id": "9689", "link": "/find?type=3&query=epoch-making", "word": "epoch-making"}, {"id": "9690", "link": "/find?type=3&query=epoxy", "word": "epoxy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9688",
+                "link": "/find?type=3&query=epoch",
+                "word": "epoch"
+            },
+            {
+                "id": "9689",
+                "link": "/find?type=3&query=epoch-making",
+                "word": "epoch-making"
+            },
+            {
+                "id": "9690",
+                "link": "/find?type=3&query=epoxy",
+                "word": "epoxy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thi\u00ean anh h\u00f9ng ca c\u1ed5 (truy\u1ec1n h\u00ecnh)</div>\n    \n    <div class=\"green margin25 m-top15\">thi\u00ean anh h\u00f9ng ca, thi\u00ean s\u1eed thi</div>",
+            "id": "31483",
+            "mean": [],
+            "pronounce": "/'ep\u0254s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "epos"
+        },
+        "suggests": []
+    }
+}

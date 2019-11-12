@@ -1,1 +1,32 @@
-{"error": 0, "query": "goodbys", "enViData": {"suggests": [{"id": "40750", "link": "/find?type=1&query=goodbye", "word": "goodbye"}]}, "mUrl": "/find?type=1&query=goodbys", "enEnData": {"suggests": [{"id": "12329", "link": "/find?type=3&query=goodbye", "word": "goodbye"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3050", "link": "/find?type=4&query=goodbye", "word": "goodbye"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12329",
+                "link": "/find?type=3&query=goodbye",
+                "word": "goodbye"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40750",
+                "link": "/find?type=1&query=goodbye",
+                "word": "goodbye"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3050",
+                "link": "/find?type=4&query=goodbye",
+                "word": "goodbye"
+            }
+        ]
+    }
+}

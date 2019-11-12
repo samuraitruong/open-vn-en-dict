@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "32234", "link": "/find?type=1&query=eugenia", "word": "eugenia"}, {"id": "32235", "link": "/find?type=1&query=eugenic", "word": "eugenic"}, {"id": "32236", "link": "/find?type=1&query=eugenically", "word": "eugenically"}, {"id": "32237", "link": "/find?type=1&query=eugenics", "word": "eugenics"}, {"id": "32238", "link": "/find?type=1&query=eugenism", "word": "eugenism"}, {"id": "32239", "link": "/find?type=1&query=eugenist", "word": "eugenist"}, {"id": "32240", "link": "/find?type=1&query=eugenol", "word": "eugenol"}], "data": {}}, "en_en": {"suggests": [{"id": "9832", "link": "/find?type=3&query=eugenics", "word": "eugenics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9832",
+                "link": "/find?type=3&query=eugenics",
+                "word": "eugenics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32234",
+                "link": "/find?type=1&query=eugenia",
+                "word": "eugenia"
+            },
+            {
+                "id": "32235",
+                "link": "/find?type=1&query=eugenic",
+                "word": "eugenic"
+            },
+            {
+                "id": "32236",
+                "link": "/find?type=1&query=eugenically",
+                "word": "eugenically"
+            },
+            {
+                "id": "32237",
+                "link": "/find?type=1&query=eugenics",
+                "word": "eugenics"
+            },
+            {
+                "id": "32238",
+                "link": "/find?type=1&query=eugenism",
+                "word": "eugenism"
+            },
+            {
+                "id": "32239",
+                "link": "/find?type=1&query=eugenist",
+                "word": "eugenist"
+            },
+            {
+                "id": "32240",
+                "link": "/find?type=1&query=eugenol",
+                "word": "eugenol"
+            }
+        ]
+    }
+}

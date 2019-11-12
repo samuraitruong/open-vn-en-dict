@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "5533", "link": "/find?type=1&query=argus-eyed", "word": "argus-eyed"}], "data": {"word": "argus", "id": "5533", "pronounce": "/'\u0251:g\u0259s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ea7n tho\u1ea1i,th\u1ea7n h\u1ecdc) A-gu\u00fdt (ng\u01b0\u1eddi tr\u0103m m\u1eaft)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi canh g\u00e1c lu\u00f4n lu\u00f4n c\u1ea3nh gi\u00e1c</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1297", "link": "/find?type=3&query=arguable", "word": "arguable"}, {"id": "1298", "link": "/find?type=3&query=arguably", "word": "arguably"}, {"id": "1299", "link": "/find?type=3&query=argue", "word": "argue"}, {"id": "1300", "link": "/find?type=3&query=argument", "word": "argument"}, {"id": "1301", "link": "/find?type=3&query=argumentation", "word": "argumentation"}, {"id": "1302", "link": "/find?type=3&query=argumentative", "word": "argumentative"}], "data": {}}, "synonyms": {"suggests": [{"id": "311", "link": "/find?type=4&query=argue", "word": "argue"}, {"id": "312", "link": "/find?type=4&query=argument", "word": "argument"}, {"id": "313", "link": "/find?type=4&query=argumentative", "word": "argumentative"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1297",
+                "link": "/find?type=3&query=arguable",
+                "word": "arguable"
+            },
+            {
+                "id": "1298",
+                "link": "/find?type=3&query=arguably",
+                "word": "arguably"
+            },
+            {
+                "id": "1299",
+                "link": "/find?type=3&query=argue",
+                "word": "argue"
+            },
+            {
+                "id": "1300",
+                "link": "/find?type=3&query=argument",
+                "word": "argument"
+            },
+            {
+                "id": "1301",
+                "link": "/find?type=3&query=argumentation",
+                "word": "argumentation"
+            },
+            {
+                "id": "1302",
+                "link": "/find?type=3&query=argumentative",
+                "word": "argumentative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ea7n tho\u1ea1i,th\u1ea7n h\u1ecdc) A-gu\u00fdt (ng\u01b0\u1eddi tr\u0103m m\u1eaft)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi canh g\u00e1c lu\u00f4n lu\u00f4n c\u1ea3nh gi\u00e1c</div>",
+            "id": "5533",
+            "mean": [],
+            "pronounce": "/'\u0251:g\u0259s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "argus"
+        },
+        "suggests": [
+            {
+                "id": "5533",
+                "link": "/find?type=1&query=argus-eyed",
+                "word": "argus-eyed"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "311",
+                "link": "/find?type=4&query=argue",
+                "word": "argue"
+            },
+            {
+                "id": "312",
+                "link": "/find?type=4&query=argument",
+                "word": "argument"
+            },
+            {
+                "id": "313",
+                "link": "/find?type=4&query=argumentative",
+                "word": "argumentative"
+            }
+        ]
+    }
+}

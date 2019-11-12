@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "7325", "link": "/find?type=1&query=awl-shaped", "word": "awl-shaped"}], "data": {"word": "awl", "id": "7325", "pronounce": "/\u0254:l/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i gi\u00f9i</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/f1799c0ac5bdf0fb10f499659993f722/16e5dced081/A/awl.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "awl", "id": "1749", "pronounce": "/\u02c8\u0251\u02d0l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural awls</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a pointed tool that is used for marking surfaces or for making small holes in leather, wood, etc.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural awls</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a pointed tool that is used for marking surfaces or for making small holes in leather, wood, etc.</div>",
+            "id": "1749",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0l/",
+            "type": "noun",
+            "word": "awl"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i gi\u00f9i</div>",
+            "id": "7325",
+            "mean": [],
+            "pronounce": "/\u0254:l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0f4af73243365977534481d248c169b5/16e5eb1db61/A/awl.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "awl"
+        },
+        "suggests": [
+            {
+                "id": "7325",
+                "link": "/find?type=1&query=awl-shaped",
+                "word": "awl-shaped"
+            }
+        ]
+    }
+}

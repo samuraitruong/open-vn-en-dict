@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "23059", "link": "/find?type=1&query=December", "word": "December"}, {"id": "23060", "link": "/find?type=1&query=decemberly", "word": "decemberly"}, {"id": "23061", "link": "/find?type=1&query=decembrist", "word": "decembrist"}, {"id": "23062", "link": "/find?type=1&query=decemvir", "word": "decemvir"}, {"id": "23063", "link": "/find?type=1&query=decemviri", "word": "decemviri"}], "data": {}}, "en_en": {"suggests": [{"id": "7385", "link": "/find?type=3&query=December", "word": "December"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7385",
+                "link": "/find?type=3&query=December",
+                "word": "December"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23059",
+                "link": "/find?type=1&query=December",
+                "word": "December"
+            },
+            {
+                "id": "23060",
+                "link": "/find?type=1&query=decemberly",
+                "word": "decemberly"
+            },
+            {
+                "id": "23061",
+                "link": "/find?type=1&query=decembrist",
+                "word": "decembrist"
+            },
+            {
+                "id": "23062",
+                "link": "/find?type=1&query=decemvir",
+                "word": "decemvir"
+            },
+            {
+                "id": "23063",
+                "link": "/find?type=1&query=decemviri",
+                "word": "decemviri"
+            }
+        ]
+    }
+}

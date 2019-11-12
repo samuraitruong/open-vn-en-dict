@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15371", "link": "/find?type=1&query=churchgoer", "word": "churchgoer"}], "data": {}}, "en_en": {"suggests": [{"id": "4950", "link": "/find?type=3&query=churchgoer", "word": "churchgoer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4950",
+                "link": "/find?type=3&query=churchgoer",
+                "word": "churchgoer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15371",
+                "link": "/find?type=1&query=churchgoer",
+                "word": "churchgoer"
+            }
+        ]
+    }
+}

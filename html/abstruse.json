@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "465", "link": "/find?type=1&query=abstrusely", "word": "abstrusely"}, {"id": "465", "link": "/find?type=1&query=abstruseness", "word": "abstruseness"}], "data": {"word": "abstruse", "id": "465", "pronounce": "/\u0259b'stru:s/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f3 hi\u1ec3u</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1268850b3f1ad7be9ed0812399aef738/16e5db529ae/A/abstruse.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8041689982d9e79b0c8628710814cb22/16e5db52fb3/A/abstruse.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "abstruse", "id": "125", "pronounce": "/\u0259b\u02c8stru\u02d0s/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :hard to understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her subject matter is abstruse.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">abstruse [=obscure] concepts/ideas/theories</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :hard to understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her subject matter is abstruse.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">abstruse [=obscure] concepts/ideas/theories</div>",
+            "id": "125",
+            "mean": [],
+            "pronounce": "/\u0259b\u02c8stru\u02d0s/",
+            "type": "adjective",
+            "word": "abstruse"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f3 hi\u1ec3u</div>",
+            "id": "465",
+            "mean": [],
+            "pronounce": "/\u0259b'stru:s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/83611e77ba499a96522f1e3cb5c01c1e/16e5e9f13b7/A/abstruse.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/05c8d38b975a5d63ec08dc5667b360fc/16e5e9f0e93/A/abstruse.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "abstruse"
+        },
+        "suggests": [
+            {
+                "id": "465",
+                "link": "/find?type=1&query=abstrusely",
+                "word": "abstrusely"
+            },
+            {
+                "id": "465",
+                "link": "/find?type=1&query=abstruseness",
+                "word": "abstruseness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "gae", "enViData": {"suggests": [{"id": "38705", "link": "/find?type=1&query=gael", "word": "gael"}, {"id": "38706", "link": "/find?type=1&query=Gaelic", "word": "Gaelic"}, {"id": "38707", "link": "/find?type=1&query=gaeltacht", "word": "gaeltacht"}]}, "mUrl": "/find?type=1&query=gae", "enEnData": {"suggests": [{"id": "11721", "link": "/find?type=3&query=Gaelic", "word": "Gaelic"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11721",
+                "link": "/find?type=3&query=Gaelic",
+                "word": "Gaelic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38705",
+                "link": "/find?type=1&query=gael",
+                "word": "gael"
+            },
+            {
+                "id": "38706",
+                "link": "/find?type=1&query=Gaelic",
+                "word": "Gaelic"
+            },
+            {
+                "id": "38707",
+                "link": "/find?type=1&query=gaeltacht",
+                "word": "gaeltacht"
+            }
+        ]
+    }
+}

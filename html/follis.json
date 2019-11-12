@@ -1,1 +1,37 @@
-{"error": 0, "query": "follis", "enViData": {"suggests": [{"id": "36810", "link": "/find?type=1&query=follicle", "word": "follicle"}, {"id": "36811", "link": "/find?type=1&query=follicular", "word": "follicular"}, {"id": "36812", "link": "/find?type=1&query=folliculated", "word": "folliculated"}, {"id": "36813", "link": "/find?type=1&query=folliculin", "word": "folliculin"}]}, "mUrl": "/find?type=1&query=follis", "enEnData": {"suggests": [{"id": "11074", "link": "/find?type=3&query=follicle", "word": "follicle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11074",
+                "link": "/find?type=3&query=follicle",
+                "word": "follicle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36810",
+                "link": "/find?type=1&query=follicle",
+                "word": "follicle"
+            },
+            {
+                "id": "36811",
+                "link": "/find?type=1&query=follicular",
+                "word": "follicular"
+            },
+            {
+                "id": "36812",
+                "link": "/find?type=1&query=folliculated",
+                "word": "folliculated"
+            },
+            {
+                "id": "36813",
+                "link": "/find?type=1&query=folliculin",
+                "word": "folliculin"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "32673", "link": "/find?type=1&query=excerpt", "word": "excerpt"}, {"id": "32674", "link": "/find?type=1&query=excerptible", "word": "excerptible"}, {"id": "32675", "link": "/find?type=1&query=excerption", "word": "excerption"}], "data": {}}, "en_en": {"suggests": [{"id": "9928", "link": "/find?type=3&query=excerpt", "word": "excerpt"}], "data": {}}, "synonyms": {"suggests": [{"id": "2328", "link": "/find?type=4&query=excerpt", "word": "excerpt"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9928",
+                "link": "/find?type=3&query=excerpt",
+                "word": "excerpt"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32673",
+                "link": "/find?type=1&query=excerpt",
+                "word": "excerpt"
+            },
+            {
+                "id": "32674",
+                "link": "/find?type=1&query=excerptible",
+                "word": "excerptible"
+            },
+            {
+                "id": "32675",
+                "link": "/find?type=1&query=excerption",
+                "word": "excerption"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2328",
+                "link": "/find?type=4&query=excerpt",
+                "word": "excerpt"
+            }
+        ]
+    }
+}

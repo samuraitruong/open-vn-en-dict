@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "20881", "link": "/find?type=1&query=credentials", "word": "credentials"}], "data": {"word": "credent", "id": "20881", "pronounce": "", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e1ng tin</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6703", "link": "/find?type=3&query=credential", "word": "credential"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6703",
+                "link": "/find?type=3&query=credential",
+                "word": "credential"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e1ng tin</div>",
+            "id": "20881",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "credent"
+        },
+        "suggests": [
+            {
+                "id": "20881",
+                "link": "/find?type=1&query=credentials",
+                "word": "credentials"
+            }
+        ]
+    }
+}

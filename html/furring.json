@@ -1,1 +1,44 @@
-{"error": 0, "query": "furring", "enViData": {"suggests": [], "best": {"id": "38561", "details": "\n<div id=\"find_word_38561\" class=\"world word_en\" rel=\"furring\">\n    <h2 class=\"fl\">furring <span class=\"color-black\">/'f\u0259:ri\u0273/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38561\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38561\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 l\u00f3t \u00e1o b\u1eb1ng da l\u00f4ng th\u00fa</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 c\u1ea1o c\u00e1u (\u1edf n\u1ed3i, \u1ea5m)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 \u0111\u00f3ng hai l\u1ea7n v\u00e1n (\u1edf s\u01b0\u1eddn t\u00e0u)</div>\n    \n</div>\n", "link": "/find?type=1&query=furring", "word": "furring"}}, "mUrl": "/find?type=1&query=furring", "enEnData": {"suggests": [{"id": "11669", "link": "/find?type=3&query=furrier", "word": "furrier"}, {"id": "11670", "link": "/find?type=3&query=furrow", "word": "furrow"}, {"id": "11671", "link": "/find?type=3&query=furry", "word": "furry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2902", "link": "/find?type=4&query=furrow", "word": "furrow"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11669",
+                "link": "/find?type=3&query=furrier",
+                "word": "furrier"
+            },
+            {
+                "id": "11670",
+                "link": "/find?type=3&query=furrow",
+                "word": "furrow"
+            },
+            {
+                "id": "11671",
+                "link": "/find?type=3&query=furry",
+                "word": "furry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 l\u00f3t \u00e1o b\u1eb1ng da l\u00f4ng th\u00fa</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 c\u1ea1o c\u00e1u (\u1edf n\u1ed3i, \u1ea5m)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 \u0111\u00f3ng hai l\u1ea7n v\u00e1n (\u1edf s\u01b0\u1eddn t\u00e0u)</div>",
+            "id": "38561",
+            "mean": [],
+            "pronounce": "/'f\u0259:ri\u0273/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "furring"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2902",
+                "link": "/find?type=4&query=furrow",
+                "word": "furrow"
+            }
+        ]
+    }
+}

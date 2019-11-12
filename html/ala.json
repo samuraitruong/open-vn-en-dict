@@ -1,1 +1,102 @@
-{"en_vn": {"suggests": [{"id": "2339", "link": "/find?type=1&query=alabaster", "word": "alabaster"}, {"id": "2340", "link": "/find?type=1&query=alack", "word": "alack"}, {"id": "2341", "link": "/find?type=1&query=alackaday", "word": "alackaday"}, {"id": "2342", "link": "/find?type=1&query=alacritous", "word": "alacritous"}, {"id": "2343", "link": "/find?type=1&query=alacrity", "word": "alacrity"}, {"id": "2344", "link": "/find?type=1&query=alalia", "word": "alalia"}, {"id": "2345", "link": "/find?type=1&query=alanine", "word": "alanine"}, {"id": "2346", "link": "/find?type=1&query=alar", "word": "alar"}, {"id": "2347", "link": "/find?type=1&query=alarm", "word": "alarm"}, {"id": "2348", "link": "/find?type=1&query=alarm+clock", "word": "alarm clock"}], "data": {}}, "en_en": {"suggests": [{"id": "623", "link": "/find?type=3&query=alabaster", "word": "alabaster"}, {"id": "624", "link": "/find?type=3&query=alacrity", "word": "alacrity"}, {"id": "625", "link": "/find?type=3&query=alarm", "word": "alarm"}, {"id": "626", "link": "/find?type=3&query=alarm+clock", "word": "alarm clock"}, {"id": "627", "link": "/find?type=3&query=alarmist", "word": "alarmist"}, {"id": "628", "link": "/find?type=3&query=alas", "word": "alas"}], "data": {}}, "synonyms": {"suggests": [{"id": "183", "link": "/find?type=4&query=alarm", "word": "alarm"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "623",
+                "link": "/find?type=3&query=alabaster",
+                "word": "alabaster"
+            },
+            {
+                "id": "624",
+                "link": "/find?type=3&query=alacrity",
+                "word": "alacrity"
+            },
+            {
+                "id": "625",
+                "link": "/find?type=3&query=alarm",
+                "word": "alarm"
+            },
+            {
+                "id": "626",
+                "link": "/find?type=3&query=alarm+clock",
+                "word": "alarm clock"
+            },
+            {
+                "id": "627",
+                "link": "/find?type=3&query=alarmist",
+                "word": "alarmist"
+            },
+            {
+                "id": "628",
+                "link": "/find?type=3&query=alas",
+                "word": "alas"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2339",
+                "link": "/find?type=1&query=alabaster",
+                "word": "alabaster"
+            },
+            {
+                "id": "2340",
+                "link": "/find?type=1&query=alack",
+                "word": "alack"
+            },
+            {
+                "id": "2341",
+                "link": "/find?type=1&query=alackaday",
+                "word": "alackaday"
+            },
+            {
+                "id": "2342",
+                "link": "/find?type=1&query=alacritous",
+                "word": "alacritous"
+            },
+            {
+                "id": "2343",
+                "link": "/find?type=1&query=alacrity",
+                "word": "alacrity"
+            },
+            {
+                "id": "2344",
+                "link": "/find?type=1&query=alalia",
+                "word": "alalia"
+            },
+            {
+                "id": "2345",
+                "link": "/find?type=1&query=alanine",
+                "word": "alanine"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=1&query=alar",
+                "word": "alar"
+            },
+            {
+                "id": "2347",
+                "link": "/find?type=1&query=alarm",
+                "word": "alarm"
+            },
+            {
+                "id": "2348",
+                "link": "/find?type=1&query=alarm+clock",
+                "word": "alarm clock"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "183",
+                "link": "/find?type=4&query=alarm",
+                "word": "alarm"
+            }
+        ]
+    }
+}

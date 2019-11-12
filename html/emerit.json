@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "30081", "link": "/find?type=1&query=emeritus", "word": "emeritus"}], "data": {}}, "en_en": {"suggests": [{"id": "9428", "link": "/find?type=3&query=emeritus", "word": "emeritus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9428",
+                "link": "/find?type=3&query=emeritus",
+                "word": "emeritus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30081",
+                "link": "/find?type=1&query=emeritus",
+                "word": "emeritus"
+            }
+        ]
+    }
+}

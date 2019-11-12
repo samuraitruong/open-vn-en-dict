@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "15029", "link": "/find?type=1&query=chivalrous", "word": "chivalrous"}, {"id": "15030", "link": "/find?type=1&query=chivalrously", "word": "chivalrously"}, {"id": "15031", "link": "/find?type=1&query=chivalrousness", "word": "chivalrousness"}, {"id": "15032", "link": "/find?type=1&query=chivalry", "word": "chivalry"}, {"id": "15033", "link": "/find?type=1&query=chive", "word": "chive"}, {"id": "15034", "link": "/find?type=1&query=chivvy", "word": "chivvy"}, {"id": "15035", "link": "/find?type=1&query=chivy", "word": "chivy"}], "data": {}}, "en_en": {"suggests": [{"id": "4836", "link": "/find?type=3&query=chivalric", "word": "chivalric"}, {"id": "4837", "link": "/find?type=3&query=chivalrous", "word": "chivalrous"}, {"id": "4838", "link": "/find?type=3&query=chivalry", "word": "chivalry"}, {"id": "4839", "link": "/find?type=3&query=chive", "word": "chive"}, {"id": "4840", "link": "/find?type=3&query=chivvy", "word": "chivvy"}], "data": {}}, "synonyms": {"suggests": [{"id": "990", "link": "/find?type=4&query=chivalrous", "word": "chivalrous"}, {"id": "991", "link": "/find?type=4&query=chivalry", "word": "chivalry"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4836",
+                "link": "/find?type=3&query=chivalric",
+                "word": "chivalric"
+            },
+            {
+                "id": "4837",
+                "link": "/find?type=3&query=chivalrous",
+                "word": "chivalrous"
+            },
+            {
+                "id": "4838",
+                "link": "/find?type=3&query=chivalry",
+                "word": "chivalry"
+            },
+            {
+                "id": "4839",
+                "link": "/find?type=3&query=chive",
+                "word": "chive"
+            },
+            {
+                "id": "4840",
+                "link": "/find?type=3&query=chivvy",
+                "word": "chivvy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15029",
+                "link": "/find?type=1&query=chivalrous",
+                "word": "chivalrous"
+            },
+            {
+                "id": "15030",
+                "link": "/find?type=1&query=chivalrously",
+                "word": "chivalrously"
+            },
+            {
+                "id": "15031",
+                "link": "/find?type=1&query=chivalrousness",
+                "word": "chivalrousness"
+            },
+            {
+                "id": "15032",
+                "link": "/find?type=1&query=chivalry",
+                "word": "chivalry"
+            },
+            {
+                "id": "15033",
+                "link": "/find?type=1&query=chive",
+                "word": "chive"
+            },
+            {
+                "id": "15034",
+                "link": "/find?type=1&query=chivvy",
+                "word": "chivvy"
+            },
+            {
+                "id": "15035",
+                "link": "/find?type=1&query=chivy",
+                "word": "chivy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "990",
+                "link": "/find?type=4&query=chivalrous",
+                "word": "chivalrous"
+            },
+            {
+                "id": "991",
+                "link": "/find?type=4&query=chivalry",
+                "word": "chivalry"
+            }
+        ]
+    }
+}

@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "19414", "link": "/find?type=1&query=convection+current", "word": "convection current"}, {"id": "19414", "link": "/find?type=1&query=convectional", "word": "convectional"}], "data": {"word": "convection", "id": "19414", "pronounce": "/k\u0259n'vek\u222bn/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(l\u00fd, kh\u00ed t\u01b0\u1ee3ng)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 \u0111\u1ed1i l\u01b0u</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5b20da6f46447b9c46e5dd2cace53961/16e5df66a21/C/convection.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7944b610463390b95b6e8b5395552540/16e5df66fe5/C/convection.mp3"}}}, "en_en": {"suggests": [{"id": "6180", "link": "/find?type=3&query=convection+oven", "word": "convection oven"}], "data": {"word": "convection", "id": "6180", "pronounce": "/k\u0259n\u02c8v\u025bk\u0283\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :movement in a gas or liquid in which the warmer parts move up and the colder parts move down</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">convection currents also;  :the transfer of heat by this movement</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">foods cooked by convection</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :movement in a gas or liquid in which the warmer parts move up and the colder parts move down</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">convection currents also;  :the transfer of heat by this movement</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">foods cooked by convection</div>",
+            "id": "6180",
+            "mean": [],
+            "pronounce": "/k\u0259n\u02c8v\u025bk\u0283\u0259n/",
+            "type": "noun",
+            "word": "convection"
+        },
+        "suggests": [
+            {
+                "id": "6180",
+                "link": "/find?type=3&query=convection+oven",
+                "word": "convection oven"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(l\u00fd, kh\u00ed t\u01b0\u1ee3ng)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 \u0111\u1ed1i l\u01b0u</div>",
+            "id": "19414",
+            "mean": [],
+            "pronounce": "/k\u0259n'vek\u222bn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1e1c2f21a61580a8e0b2d47a4142b612/16e5ed9d7e3/C/convection.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/50651f0fda7bb9b78b95f18d3319af5d/16e5ed9cf0c/C/convection.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "convection"
+        },
+        "suggests": [
+            {
+                "id": "19414",
+                "link": "/find?type=1&query=convection+current",
+                "word": "convection current"
+            },
+            {
+                "id": "19414",
+                "link": "/find?type=1&query=convectional",
+                "word": "convectional"
+            }
+        ]
+    }
+}

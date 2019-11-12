@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "11732", "link": "/find?type=1&query=bulldog+clip", "word": "bulldog clip"}, {"id": "11732", "link": "/find?type=1&query=bulldogger", "word": "bulldogger"}], "data": {"word": "bulldog", "id": "11732", "pronounce": "/'b\u028ald\u0252g/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ed1ng ch\u00f3 bun</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6ae4475502dd5ff76d65c5faa8a19340/16e5ddeadd8/B/bulldog.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e4e6703960536e3e58ac97ecb05e058c/16e5ddeb3b3/B/bulldog.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "bulldog", "id": "3622", "pronounce": "/\u02c8b\u028al\u02ccd\u0251\u02d0g/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dogs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a short, strong, muscular dog with short hair, short legs, and a wide square head</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dogs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a short, strong, muscular dog with short hair, short legs, and a wide square head</div>",
+            "id": "3622",
+            "mean": [],
+            "pronounce": "/\u02c8b\u028al\u02ccd\u0251\u02d0g/",
+            "type": "noun",
+            "word": "bulldog"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ed1ng ch\u00f3 bun</div>",
+            "id": "11732",
+            "mean": [],
+            "pronounce": "/'b\u028ald\u0252g/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/53ecd1cb14693835bb0aa0c2243ae01a/16e5ec01cba/B/bulldog.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8c65b47593ff87e43f72234c68a5180d/16e5ec01747/B/bulldog.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bulldog"
+        },
+        "suggests": [
+            {
+                "id": "11732",
+                "link": "/find?type=1&query=bulldog+clip",
+                "word": "bulldog clip"
+            },
+            {
+                "id": "11732",
+                "link": "/find?type=1&query=bulldogger",
+                "word": "bulldogger"
+            }
+        ]
+    }
+}

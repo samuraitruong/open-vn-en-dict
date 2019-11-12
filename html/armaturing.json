@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "5602", "link": "/find?type=1&query=armature+coil", "word": "armature coil"}, {"id": "5602", "link": "/find?type=1&query=armature+gap", "word": "armature gap"}, {"id": "5602", "link": "/find?type=1&query=armature+winding", "word": "armature winding"}], "data": {"word": "armature", "id": "5602", "pronounce": "/'\u0251:m\u0259t\u222b\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u1ea7n c\u1ee9ng (m\u00e1y ph\u00e1t \u0111i\u1ec7n)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/298c01d22bee078899b02e7a074c8643/16e5dca03b6/A/armature.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/1277dca95797ce46c6fa0da5752274da/16e5dca09d9/A/armature.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "armature", "id": "1319", "pronounce": "/\u02c8\u0251\u025am\u0259\u02a7\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tures</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical</div>\n    \n    <div class=\"green margin25 m-top15\">the part of an electric motor or generator that produces an electric current when it turns in a magnetic field</div>\n    \n    <div class=\"green margin25 m-top15\">a frame used by a sculptor to support a figure that is being modeled</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tures</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical</div>\n    \n    <div class=\"green margin25 m-top15\">the part of an electric motor or generator that produces an electric current when it turns in a magnetic field</div>\n    \n    <div class=\"green margin25 m-top15\">a frame used by a sculptor to support a figure that is being modeled</div>",
+            "id": "1319",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u025am\u0259\u02a7\u025a/",
+            "type": "noun",
+            "word": "armature"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u1ea7n c\u1ee9ng (m\u00e1y ph\u00e1t \u0111i\u1ec7n)</div>",
+            "id": "5602",
+            "mean": [],
+            "pronounce": "/'\u0251:m\u0259t\u222b\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/534df8357ab5cdbde096759628ab47a6/16e5ead47c6/A/armature.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/84ed57d07e95f485c0847b284edce89e/16e5ead4257/A/armature.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "armature"
+        },
+        "suggests": [
+            {
+                "id": "5602",
+                "link": "/find?type=1&query=armature+coil",
+                "word": "armature coil"
+            },
+            {
+                "id": "5602",
+                "link": "/find?type=1&query=armature+gap",
+                "word": "armature gap"
+            },
+            {
+                "id": "5602",
+                "link": "/find?type=1&query=armature+winding",
+                "word": "armature winding"
+            }
+        ]
+    }
+}

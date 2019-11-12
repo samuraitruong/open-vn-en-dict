@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "21947", "link": "/find?type=1&query=custard-apple", "word": "custard-apple"}, {"id": "21947", "link": "/find?type=1&query=custard-pie", "word": "custard-pie"}, {"id": "21947", "link": "/find?type=1&query=custardy", "word": "custardy"}], "data": {"word": "custard", "id": "21947", "pronounce": "/'k\u028cst\u0259d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n kem s\u1eefa</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/022e3844aebc703750cad1ae3586a71b/16e5dfddb33/C/custard.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9db31b9668b97b2012bfc63976b62c2e/16e5dfde0da/C/custard.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "custard", "id": "7052", "pronounce": "/\u02c8k\u028cst\u025ad/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tards</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a type of sweet food that is made with eggs and milk</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tards</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a type of sweet food that is made with eggs and milk</div>",
+            "id": "7052",
+            "mean": [],
+            "pronounce": "/\u02c8k\u028cst\u025ad/",
+            "type": "noun",
+            "word": "custard"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n kem s\u1eefa</div>",
+            "id": "21947",
+            "mean": [],
+            "pronounce": "/'k\u028cst\u0259d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6a66c1dbc2c12b247c25dd8656e9eb9f/16e5ee40b63/C/custard.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/16f76337209707b5f8b0e4383e398624/16e5ee40240/C/custard.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "custard"
+        },
+        "suggests": [
+            {
+                "id": "21947",
+                "link": "/find?type=1&query=custard-apple",
+                "word": "custard-apple"
+            },
+            {
+                "id": "21947",
+                "link": "/find?type=1&query=custard-pie",
+                "word": "custard-pie"
+            },
+            {
+                "id": "21947",
+                "link": "/find?type=1&query=custardy",
+                "word": "custardy"
+            }
+        ]
+    }
+}

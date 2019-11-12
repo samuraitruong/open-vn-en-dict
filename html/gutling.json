@@ -1,1 +1,27 @@
-{"error": 0, "query": "gutling", "enViData": {"suggests": [{"id": "42096", "link": "/find?type=1&query=gutless", "word": "gutless"}, {"id": "42097", "link": "/find?type=1&query=gutlessness", "word": "gutlessness"}]}, "mUrl": "/find?type=1&query=gutling", "enEnData": {"suggests": [{"id": "12818", "link": "/find?type=3&query=gutless", "word": "gutless"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12818",
+                "link": "/find?type=3&query=gutless",
+                "word": "gutless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42096",
+                "link": "/find?type=1&query=gutless",
+                "word": "gutless"
+            },
+            {
+                "id": "42097",
+                "link": "/find?type=1&query=gutlessness",
+                "word": "gutlessness"
+            }
+        ]
+    }
+}

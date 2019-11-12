@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "12989", "link": "/find?type=1&query=Capitol", "word": "Capitol"}, {"id": "12990", "link": "/find?type=1&query=capitole", "word": "capitole"}], "data": {}}, "en_en": {"suggests": [{"id": "4063", "link": "/find?type=3&query=capitol", "word": "capitol"}, {"id": "4064", "link": "/find?type=3&query=Capitol+Hill", "word": "Capitol Hill"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4063",
+                "link": "/find?type=3&query=capitol",
+                "word": "capitol"
+            },
+            {
+                "id": "4064",
+                "link": "/find?type=3&query=Capitol+Hill",
+                "word": "Capitol Hill"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12989",
+                "link": "/find?type=1&query=Capitol",
+                "word": "Capitol"
+            },
+            {
+                "id": "12990",
+                "link": "/find?type=1&query=capitole",
+                "word": "capitole"
+            }
+        ]
+    }
+}

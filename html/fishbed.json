@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "35736", "link": "/find?type=1&query=fishbolt", "word": "fishbolt"}, {"id": "35737", "link": "/find?type=1&query=fishbone", "word": "fishbone"}, {"id": "35738", "link": "/find?type=1&query=fishbowl", "word": "fishbowl"}], "data": {}}, "en_en": {"suggests": [{"id": "10758", "link": "/find?type=3&query=fishbowl", "word": "fishbowl"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10758",
+                "link": "/find?type=3&query=fishbowl",
+                "word": "fishbowl"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35736",
+                "link": "/find?type=1&query=fishbolt",
+                "word": "fishbolt"
+            },
+            {
+                "id": "35737",
+                "link": "/find?type=1&query=fishbone",
+                "word": "fishbone"
+            },
+            {
+                "id": "35738",
+                "link": "/find?type=1&query=fishbowl",
+                "word": "fishbowl"
+            }
+        ]
+    }
+}

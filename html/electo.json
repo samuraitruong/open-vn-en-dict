@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "29235", "link": "/find?type=1&query=elector", "word": "elector"}, {"id": "29236", "link": "/find?type=1&query=electoral", "word": "electoral"}, {"id": "29237", "link": "/find?type=1&query=electoral+college", "word": "electoral college"}, {"id": "29238", "link": "/find?type=1&query=electorally", "word": "electorally"}, {"id": "29239", "link": "/find?type=1&query=electorate", "word": "electorate"}, {"id": "29240", "link": "/find?type=1&query=electoress", "word": "electoress"}, {"id": "29241", "link": "/find?type=1&query=electorship", "word": "electorship"}], "data": {}}, "en_en": {"suggests": [{"id": "9308", "link": "/find?type=3&query=elector", "word": "elector"}, {"id": "9309", "link": "/find?type=3&query=electoral", "word": "electoral"}, {"id": "9310", "link": "/find?type=3&query=Electoral+College", "word": "Electoral College"}, {"id": "9311", "link": "/find?type=3&query=electorate", "word": "electorate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9308",
+                "link": "/find?type=3&query=elector",
+                "word": "elector"
+            },
+            {
+                "id": "9309",
+                "link": "/find?type=3&query=electoral",
+                "word": "electoral"
+            },
+            {
+                "id": "9310",
+                "link": "/find?type=3&query=Electoral+College",
+                "word": "Electoral College"
+            },
+            {
+                "id": "9311",
+                "link": "/find?type=3&query=electorate",
+                "word": "electorate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29235",
+                "link": "/find?type=1&query=elector",
+                "word": "elector"
+            },
+            {
+                "id": "29236",
+                "link": "/find?type=1&query=electoral",
+                "word": "electoral"
+            },
+            {
+                "id": "29237",
+                "link": "/find?type=1&query=electoral+college",
+                "word": "electoral college"
+            },
+            {
+                "id": "29238",
+                "link": "/find?type=1&query=electorally",
+                "word": "electorally"
+            },
+            {
+                "id": "29239",
+                "link": "/find?type=1&query=electorate",
+                "word": "electorate"
+            },
+            {
+                "id": "29240",
+                "link": "/find?type=1&query=electoress",
+                "word": "electoress"
+            },
+            {
+                "id": "29241",
+                "link": "/find?type=1&query=electorship",
+                "word": "electorship"
+            }
+        ]
+    }
+}

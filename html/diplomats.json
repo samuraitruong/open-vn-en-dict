@@ -1,1 +1,100 @@
-{"en_vn": {"suggests": [{"id": "25641", "link": "/find?type=1&query=diplomate", "word": "diplomate"}, {"id": "25641", "link": "/find?type=1&query=diplomatic", "word": "diplomatic"}, {"id": "25641", "link": "/find?type=1&query=diplomatic+bag", "word": "diplomatic bag"}, {"id": "25641", "link": "/find?type=1&query=diplomatic+corps", "word": "diplomatic corps"}, {"id": "25641", "link": "/find?type=1&query=diplomatic+immunity", "word": "diplomatic immunity"}, {"id": "25641", "link": "/find?type=1&query=diplomatic+relations", "word": "diplomatic relations"}, {"id": "25641", "link": "/find?type=1&query=diplomatic+service", "word": "diplomatic service"}, {"id": "25641", "link": "/find?type=1&query=diplomatically", "word": "diplomatically"}, {"id": "25641", "link": "/find?type=1&query=diplomatics", "word": "diplomatics"}], "data": {"word": "diplomat", "id": "25641", "pronounce": "/'dipl\u0259\u028am\u00e6t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 ngo\u1ea1i giao</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u00f3 t\u00e0i giao thi\u1ec7p</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/3bbfda86c7092aaca8ff55a09bcf683b/16e5e088826/D/diplomat.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7cb9cf73b52feac023a8b53d825fbab6/16e5e088dd8/D/diplomat.mp3"}}}, "en_en": {"suggests": [{"id": "8053", "link": "/find?type=3&query=diplomatic", "word": "diplomatic"}, {"id": "8053", "link": "/find?type=3&query=diplomatic+corps", "word": "diplomatic corps"}, {"id": "8053", "link": "/find?type=3&query=diplomatic+immunity", "word": "diplomatic immunity"}], "data": {"word": "diplomat", "id": "8053", "pronounce": "/\u02c8d\u026apl\u0259\u02ccm\u00e6t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mats</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who represents his or her country's government in a foreign country :someone whose work is diplomacy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The President will be meeting with foreign diplomats.</div>\n    \n    <div class=\"green margin25 m-top15\">a person who has skill in dealing with other people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's a talented architect but a poor diplomat.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1686", "link": "/find?type=4&query=diplomatic", "word": "diplomatic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mats</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who represents his or her country's government in a foreign country :someone whose work is diplomacy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The President will be meeting with foreign diplomats.</div>\n    \n    <div class=\"green margin25 m-top15\">a person who has skill in dealing with other people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's a talented architect but a poor diplomat.</div>",
+            "id": "8053",
+            "mean": [],
+            "pronounce": "/\u02c8d\u026apl\u0259\u02ccm\u00e6t/",
+            "type": "noun",
+            "word": "diplomat"
+        },
+        "suggests": [
+            {
+                "id": "8053",
+                "link": "/find?type=3&query=diplomatic",
+                "word": "diplomatic"
+            },
+            {
+                "id": "8053",
+                "link": "/find?type=3&query=diplomatic+corps",
+                "word": "diplomatic corps"
+            },
+            {
+                "id": "8053",
+                "link": "/find?type=3&query=diplomatic+immunity",
+                "word": "diplomatic immunity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 ngo\u1ea1i giao</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u00f3 t\u00e0i giao thi\u1ec7p</div>",
+            "id": "25641",
+            "mean": [],
+            "pronounce": "/'dipl\u0259\u028am\u00e6t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c03870614a908acb0409863bf345c2fd/16e5ef2e24d/D/diplomat.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2a36ff380a529b28a471de051cb6b47c/16e5ef2d981/D/diplomat.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "diplomat"
+        },
+        "suggests": [
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomate",
+                "word": "diplomate"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatic",
+                "word": "diplomatic"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatic+bag",
+                "word": "diplomatic bag"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatic+corps",
+                "word": "diplomatic corps"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatic+immunity",
+                "word": "diplomatic immunity"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatic+relations",
+                "word": "diplomatic relations"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatic+service",
+                "word": "diplomatic service"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatically",
+                "word": "diplomatically"
+            },
+            {
+                "id": "25641",
+                "link": "/find?type=1&query=diplomatics",
+                "word": "diplomatics"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1686",
+                "link": "/find?type=4&query=diplomatic",
+                "word": "diplomatic"
+            }
+        ]
+    }
+}

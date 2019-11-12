@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "22927", "link": "/find?type=1&query=debauchery", "word": "debauchery"}], "data": {"word": "debaucher", "id": "22927", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=debauch\">debauch</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7350", "link": "/find?type=3&query=debauchery", "word": "debauchery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7350",
+                "link": "/find?type=3&query=debauchery",
+                "word": "debauchery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=debauch\">debauch</a></span></div>",
+            "id": "22927",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "debaucher"
+        },
+        "suggests": [
+            {
+                "id": "22927",
+                "link": "/find?type=1&query=debauchery",
+                "word": "debauchery"
+            }
+        ]
+    }
+}

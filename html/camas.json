@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "12596", "link": "/find?type=1&query=camaraderie", "word": "camaraderie"}, {"id": "12597", "link": "/find?type=1&query=camarilla", "word": "camarilla"}], "data": {}}, "en_en": {"suggests": [{"id": "3935", "link": "/find?type=3&query=camaraderie", "word": "camaraderie"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3935",
+                "link": "/find?type=3&query=camaraderie",
+                "word": "camaraderie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12596",
+                "link": "/find?type=1&query=camaraderie",
+                "word": "camaraderie"
+            },
+            {
+                "id": "12597",
+                "link": "/find?type=1&query=camarilla",
+                "word": "camarilla"
+            }
+        ]
+    }
+}

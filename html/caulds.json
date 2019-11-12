@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "13801", "link": "/find?type=1&query=cauldron", "word": "cauldron"}], "data": {}}, "en_en": {"suggests": [{"id": "4332", "link": "/find?type=3&query=cauldron", "word": "cauldron"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4332",
+                "link": "/find?type=3&query=cauldron",
+                "word": "cauldron"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13801",
+                "link": "/find?type=1&query=cauldron",
+                "word": "cauldron"
+            }
+        ]
+    }
+}

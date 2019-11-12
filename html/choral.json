@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "15143", "link": "/find?type=1&query=chorale", "word": "chorale"}, {"id": "15143", "link": "/find?type=1&query=choralist", "word": "choralist"}, {"id": "15143", "link": "/find?type=1&query=chorally", "word": "chorally"}], "data": {"word": "choral", "id": "15143", "pronounce": "/'k\u0254:r\u0259l/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] \u0111\u1ed9i h\u00e1t th\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a choral service</div>\n    \n    <div class=\"margin25\">bu\u1ed5i l\u1ec5 c\u00f3 \u0111\u1ed9i h\u00e1t nh\u00e0 th\u1edd</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d0f04e284dc2b92ce3883b66e4aff6c3/16e5dea8143/C/choral.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7143bf3af44bef9672740fbe443c60a0/16e5dea86e1/C/choral.mp3"}}}, "en_en": {"suggests": [{"id": "4881", "link": "/find?type=3&query=chorale", "word": "chorale"}], "data": {"word": "choral", "id": "4881", "pronounce": "/\u02c8kor\u0259l/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to a choir or chorus</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a choral group</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">choral singing :sung by a choir or chorus</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">choral music</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to a choir or chorus</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a choral group</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">choral singing :sung by a choir or chorus</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">choral music</div>",
+            "id": "4881",
+            "mean": [],
+            "pronounce": "/\u02c8kor\u0259l/",
+            "type": "adjective",
+            "word": "choral"
+        },
+        "suggests": [
+            {
+                "id": "4881",
+                "link": "/find?type=3&query=chorale",
+                "word": "chorale"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] \u0111\u1ed9i h\u00e1t th\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a choral service</div>\n    \n    <div class=\"margin25\">bu\u1ed5i l\u1ec5 c\u00f3 \u0111\u1ed9i h\u00e1t nh\u00e0 th\u1edd</div>",
+            "id": "15143",
+            "mean": [],
+            "pronounce": "/'k\u0254:r\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d46d0717818d099308cb6bc18db992f1/16e5ecaf6b4/C/choral.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/74e047adf4a69bb335cf114f45ef1c2b/16e5ecaf1a9/C/choral.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "choral"
+        },
+        "suggests": [
+            {
+                "id": "15143",
+                "link": "/find?type=1&query=chorale",
+                "word": "chorale"
+            },
+            {
+                "id": "15143",
+                "link": "/find?type=1&query=choralist",
+                "word": "choralist"
+            },
+            {
+                "id": "15143",
+                "link": "/find?type=1&query=chorally",
+                "word": "chorally"
+            }
+        ]
+    }
+}

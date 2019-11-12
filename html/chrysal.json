@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "15320", "link": "/find?type=1&query=chrysalides", "word": "chrysalides"}, {"id": "15321", "link": "/find?type=1&query=chrysalis", "word": "chrysalis"}, {"id": "15322", "link": "/find?type=1&query=chrysalises", "word": "chrysalises"}], "data": {}}, "en_en": {"suggests": [{"id": "4931", "link": "/find?type=3&query=chrysalis", "word": "chrysalis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4931",
+                "link": "/find?type=3&query=chrysalis",
+                "word": "chrysalis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15320",
+                "link": "/find?type=1&query=chrysalides",
+                "word": "chrysalides"
+            },
+            {
+                "id": "15321",
+                "link": "/find?type=1&query=chrysalis",
+                "word": "chrysalis"
+            },
+            {
+                "id": "15322",
+                "link": "/find?type=1&query=chrysalises",
+                "word": "chrysalises"
+            }
+        ]
+    }
+}

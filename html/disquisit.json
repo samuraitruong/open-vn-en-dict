@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "26416", "link": "/find?type=1&query=disquisition", "word": "disquisition"}, {"id": "26417", "link": "/find?type=1&query=disquisitional", "word": "disquisitional"}], "data": {}}, "en_en": {"suggests": [{"id": "8314", "link": "/find?type=3&query=disquisition", "word": "disquisition"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8314",
+                "link": "/find?type=3&query=disquisition",
+                "word": "disquisition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26416",
+                "link": "/find?type=1&query=disquisition",
+                "word": "disquisition"
+            },
+            {
+                "id": "26417",
+                "link": "/find?type=1&query=disquisitional",
+                "word": "disquisitional"
+            }
+        ]
+    }
+}

@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "30191", "link": "/find?type=1&query=emplacement", "word": "emplacement"}], "data": {"word": "emplace", "id": "30191", "pronounce": "/im'pleis/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(qu\u00e2n s\u1ef1) \u0111\u1eb7t (s\u00fang)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9460", "link": "/find?type=3&query=emplacement", "word": "emplacement"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9460",
+                "link": "/find?type=3&query=emplacement",
+                "word": "emplacement"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(qu\u00e2n s\u1ef1) \u0111\u1eb7t (s\u00fang)</div>",
+            "id": "30191",
+            "mean": [],
+            "pronounce": "/im'pleis/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "emplace"
+        },
+        "suggests": [
+            {
+                "id": "30191",
+                "link": "/find?type=1&query=emplacement",
+                "word": "emplacement"
+            }
+        ]
+    }
+}

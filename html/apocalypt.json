@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "4872", "link": "/find?type=1&query=apocalyptic", "word": "apocalyptic"}, {"id": "4873", "link": "/find?type=1&query=apocalyptical", "word": "apocalyptical"}, {"id": "4874", "link": "/find?type=1&query=apocalyptically", "word": "apocalyptically"}], "data": {}}, "en_en": {"suggests": [{"id": "1124", "link": "/find?type=3&query=apocalyptic", "word": "apocalyptic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1124",
+                "link": "/find?type=3&query=apocalyptic",
+                "word": "apocalyptic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4872",
+                "link": "/find?type=1&query=apocalyptic",
+                "word": "apocalyptic"
+            },
+            {
+                "id": "4873",
+                "link": "/find?type=1&query=apocalyptical",
+                "word": "apocalyptical"
+            },
+            {
+                "id": "4874",
+                "link": "/find?type=1&query=apocalyptically",
+                "word": "apocalyptically"
+            }
+        ]
+    }
+}

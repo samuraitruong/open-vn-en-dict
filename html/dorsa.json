@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "27179", "link": "/find?type=1&query=dorsal", "word": "dorsal"}, {"id": "27180", "link": "/find?type=1&query=dorsalis", "word": "dorsalis"}], "data": {}}, "en_en": {"suggests": [{"id": "8602", "link": "/find?type=3&query=dorsal+fin", "word": "dorsal fin"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8602",
+                "link": "/find?type=3&query=dorsal+fin",
+                "word": "dorsal fin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27179",
+                "link": "/find?type=1&query=dorsal",
+                "word": "dorsal"
+            },
+            {
+                "id": "27180",
+                "link": "/find?type=1&query=dorsalis",
+                "word": "dorsalis"
+            }
+        ]
+    }
+}

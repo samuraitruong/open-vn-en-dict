@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "27065", "link": "/find?type=1&query=dominical", "word": "dominical"}, {"id": "27066", "link": "/find?type=1&query=Dominican", "word": "Dominican"}], "data": {}}, "en_en": {"suggests": [{"id": "8539", "link": "/find?type=3&query=Dominican", "word": "Dominican"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8539",
+                "link": "/find?type=3&query=Dominican",
+                "word": "Dominican"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27065",
+                "link": "/find?type=1&query=dominical",
+                "word": "dominical"
+            },
+            {
+                "id": "27066",
+                "link": "/find?type=1&query=Dominican",
+                "word": "Dominican"
+            }
+        ]
+    }
+}

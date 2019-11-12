@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [], "data": {"word": "belgian", "id": "8832", "pronounce": "/'beld\u02a4n/", "type": "T\u00ednh t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) B\u1ec9</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi B\u1ec9</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2390", "link": "/find?type=3&query=Belgian+endive", "word": "Belgian endive"}, {"id": "2390", "link": "/find?type=3&query=Belgian+waffle", "word": "Belgian waffle"}], "data": {"word": "Belgian", "id": "2390", "pronounce": "/\u02c8b\u025bl\u02a4\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gians</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person born, raised, or living in Belgium</div>\n    \n    <div class=\"green margin25 m-top15\">a person of Belgian descent</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gians</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person born, raised, or living in Belgium</div>\n    \n    <div class=\"green margin25 m-top15\">a person of Belgian descent</div>",
+            "id": "2390",
+            "mean": [],
+            "pronounce": "/\u02c8b\u025bl\u02a4\u0259n/",
+            "type": "noun",
+            "word": "Belgian"
+        },
+        "suggests": [
+            {
+                "id": "2390",
+                "link": "/find?type=3&query=Belgian+endive",
+                "word": "Belgian endive"
+            },
+            {
+                "id": "2390",
+                "link": "/find?type=3&query=Belgian+waffle",
+                "word": "Belgian waffle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) B\u1ec9</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi B\u1ec9</div>",
+            "id": "8832",
+            "mean": [],
+            "pronounce": "/'beld\u02a4n/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "belgian"
+        },
+        "suggests": []
+    }
+}

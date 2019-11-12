@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "287", "link": "/find?type=1&query=abridge", "word": "abridge"}, {"id": "288", "link": "/find?type=1&query=abridgement%2Cabridgment", "word": "abridgement,abridgment"}, {"id": "289", "link": "/find?type=1&query=abridger", "word": "abridger"}], "data": {}}, "en_en": {"suggests": [{"id": "93", "link": "/find?type=3&query=abridge", "word": "abridge"}], "data": {}}, "synonyms": {"suggests": [{"id": "29", "link": "/find?type=4&query=abridge", "word": "abridge"}, {"id": "30", "link": "/find?type=4&query=abridgement", "word": "abridgement"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "93",
+                "link": "/find?type=3&query=abridge",
+                "word": "abridge"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "287",
+                "link": "/find?type=1&query=abridge",
+                "word": "abridge"
+            },
+            {
+                "id": "288",
+                "link": "/find?type=1&query=abridgement%2Cabridgment",
+                "word": "abridgement,abridgment"
+            },
+            {
+                "id": "289",
+                "link": "/find?type=1&query=abridger",
+                "word": "abridger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29",
+                "link": "/find?type=4&query=abridge",
+                "word": "abridge"
+            },
+            {
+                "id": "30",
+                "link": "/find?type=4&query=abridgement",
+                "word": "abridgement"
+            }
+        ]
+    }
+}

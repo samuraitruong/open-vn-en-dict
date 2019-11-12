@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "9372", "link": "/find?type=1&query=biodata", "word": "biodata"}, {"id": "9373", "link": "/find?type=1&query=biodegradable", "word": "biodegradable"}], "data": {}}, "en_en": {"suggests": [{"id": "2632", "link": "/find?type=3&query=biodegradable", "word": "biodegradable"}, {"id": "2633", "link": "/find?type=3&query=biodiversity", "word": "biodiversity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2632",
+                "link": "/find?type=3&query=biodegradable",
+                "word": "biodegradable"
+            },
+            {
+                "id": "2633",
+                "link": "/find?type=3&query=biodiversity",
+                "word": "biodiversity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9372",
+                "link": "/find?type=1&query=biodata",
+                "word": "biodata"
+            },
+            {
+                "id": "9373",
+                "link": "/find?type=1&query=biodegradable",
+                "word": "biodegradable"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "6637", "link": "/find?type=1&query=augend", "word": "augend"}, {"id": "6638", "link": "/find?type=1&query=augend+digit", "word": "augend digit"}, {"id": "6639", "link": "/find?type=1&query=auger", "word": "auger"}], "data": {}}, "en_en": {"suggests": [{"id": "1647", "link": "/find?type=3&query=auger", "word": "auger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1647",
+                "link": "/find?type=3&query=auger",
+                "word": "auger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6637",
+                "link": "/find?type=1&query=augend",
+                "word": "augend"
+            },
+            {
+                "id": "6638",
+                "link": "/find?type=1&query=augend+digit",
+                "word": "augend digit"
+            },
+            {
+                "id": "6639",
+                "link": "/find?type=1&query=auger",
+                "word": "auger"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "gizz", "enViData": {"suggests": [{"id": "40053", "link": "/find?type=1&query=gizzard", "word": "gizzard"}, {"id": "40054", "link": "/find?type=1&query=gizzard-shad", "word": "gizzard-shad"}]}, "mUrl": "/find?type=1&query=gizz", "enEnData": {"suggests": [{"id": "12109", "link": "/find?type=3&query=gizzard", "word": "gizzard"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12109",
+                "link": "/find?type=3&query=gizzard",
+                "word": "gizzard"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40053",
+                "link": "/find?type=1&query=gizzard",
+                "word": "gizzard"
+            },
+            {
+                "id": "40054",
+                "link": "/find?type=1&query=gizzard-shad",
+                "word": "gizzard-shad"
+            }
+        ]
+    }
+}

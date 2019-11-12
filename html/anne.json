@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "3983", "link": "/find?type=1&query=anneal", "word": "anneal"}, {"id": "3984", "link": "/find?type=1&query=annectent", "word": "annectent"}, {"id": "3986", "link": "/find?type=1&query=annelid", "word": "annelid"}, {"id": "3987", "link": "/find?type=1&query=annelida", "word": "annelida"}, {"id": "3988", "link": "/find?type=1&query=annelidan", "word": "annelidan"}, {"id": "3989", "link": "/find?type=1&query=annellation", "word": "annellation"}, {"id": "3990", "link": "/find?type=1&query=annellophore", "word": "annellophore"}, {"id": "3991", "link": "/find?type=1&query=annellospore", "word": "annellospore"}, {"id": "3992", "link": "/find?type=1&query=annex", "word": "annex"}], "data": {}}, "en_en": {"suggests": [{"id": "976", "link": "/find?type=3&query=anneal", "word": "anneal"}, {"id": "977", "link": "/find?type=3&query=annex", "word": "annex"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "976",
+                "link": "/find?type=3&query=anneal",
+                "word": "anneal"
+            },
+            {
+                "id": "977",
+                "link": "/find?type=3&query=annex",
+                "word": "annex"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3983",
+                "link": "/find?type=1&query=anneal",
+                "word": "anneal"
+            },
+            {
+                "id": "3984",
+                "link": "/find?type=1&query=annectent",
+                "word": "annectent"
+            },
+            {
+                "id": "3986",
+                "link": "/find?type=1&query=annelid",
+                "word": "annelid"
+            },
+            {
+                "id": "3987",
+                "link": "/find?type=1&query=annelida",
+                "word": "annelida"
+            },
+            {
+                "id": "3988",
+                "link": "/find?type=1&query=annelidan",
+                "word": "annelidan"
+            },
+            {
+                "id": "3989",
+                "link": "/find?type=1&query=annellation",
+                "word": "annellation"
+            },
+            {
+                "id": "3990",
+                "link": "/find?type=1&query=annellophore",
+                "word": "annellophore"
+            },
+            {
+                "id": "3991",
+                "link": "/find?type=1&query=annellospore",
+                "word": "annellospore"
+            },
+            {
+                "id": "3992",
+                "link": "/find?type=1&query=annex",
+                "word": "annex"
+            }
+        ]
+    }
+}

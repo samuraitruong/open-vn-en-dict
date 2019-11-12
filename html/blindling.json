@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "9890", "link": "/find?type=1&query=blindl-man%27s-buff", "word": "blindl-man's-buff"}, {"id": "9891", "link": "/find?type=1&query=blindly", "word": "blindly"}], "data": {}}, "en_en": {"suggests": [{"id": "2827", "link": "/find?type=3&query=blindly", "word": "blindly"}], "data": {}}, "synonyms": {"suggests": [{"id": "580", "link": "/find?type=4&query=blindly", "word": "blindly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2827",
+                "link": "/find?type=3&query=blindly",
+                "word": "blindly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9890",
+                "link": "/find?type=1&query=blindl-man%27s-buff",
+                "word": "blindl-man's-buff"
+            },
+            {
+                "id": "9891",
+                "link": "/find?type=1&query=blindly",
+                "word": "blindly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "580",
+                "link": "/find?type=4&query=blindly",
+                "word": "blindly"
+            }
+        ]
+    }
+}

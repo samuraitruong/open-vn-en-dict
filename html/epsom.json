@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "31491", "link": "/find?type=1&query=Epsom+salts", "word": "Epsom salts"}], "data": {}}, "en_en": {"suggests": [{"id": "9691", "link": "/find?type=3&query=Epsom+salt", "word": "Epsom salt"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9691",
+                "link": "/find?type=3&query=Epsom+salt",
+                "word": "Epsom salt"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31491",
+                "link": "/find?type=1&query=Epsom+salts",
+                "word": "Epsom salts"
+            }
+        ]
+    }
+}

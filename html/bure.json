@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "11865", "link": "/find?type=1&query=bureau", "word": "bureau"}, {"id": "11866", "link": "/find?type=1&query=bureaucracy", "word": "bureaucracy"}, {"id": "11867", "link": "/find?type=1&query=Bureaucracy%2C+economic+theory+of", "word": "Bureaucracy, economic theory of"}, {"id": "11868", "link": "/find?type=1&query=bureaucrat", "word": "bureaucrat"}, {"id": "11869", "link": "/find?type=1&query=bureaucratic", "word": "bureaucratic"}, {"id": "11870", "link": "/find?type=1&query=bureaucratically", "word": "bureaucratically"}, {"id": "11871", "link": "/find?type=1&query=bureaucratism", "word": "bureaucratism"}, {"id": "11872", "link": "/find?type=1&query=bureaucratist", "word": "bureaucratist"}, {"id": "11873", "link": "/find?type=1&query=bureaucratize", "word": "bureaucratize"}, {"id": "11874", "link": "/find?type=1&query=bureautics", "word": "bureautics"}], "data": {}}, "en_en": {"suggests": [{"id": "3692", "link": "/find?type=3&query=bureau", "word": "bureau"}, {"id": "3693", "link": "/find?type=3&query=bureaucracy", "word": "bureaucracy"}, {"id": "3694", "link": "/find?type=3&query=bureaucrat", "word": "bureaucrat"}, {"id": "3695", "link": "/find?type=3&query=bureaucratic", "word": "bureaucratic"}], "data": {}}, "synonyms": {"suggests": [{"id": "774", "link": "/find?type=4&query=bureau", "word": "bureau"}, {"id": "775", "link": "/find?type=4&query=bureaucracy", "word": "bureaucracy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3692",
+                "link": "/find?type=3&query=bureau",
+                "word": "bureau"
+            },
+            {
+                "id": "3693",
+                "link": "/find?type=3&query=bureaucracy",
+                "word": "bureaucracy"
+            },
+            {
+                "id": "3694",
+                "link": "/find?type=3&query=bureaucrat",
+                "word": "bureaucrat"
+            },
+            {
+                "id": "3695",
+                "link": "/find?type=3&query=bureaucratic",
+                "word": "bureaucratic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11865",
+                "link": "/find?type=1&query=bureau",
+                "word": "bureau"
+            },
+            {
+                "id": "11866",
+                "link": "/find?type=1&query=bureaucracy",
+                "word": "bureaucracy"
+            },
+            {
+                "id": "11867",
+                "link": "/find?type=1&query=Bureaucracy%2C+economic+theory+of",
+                "word": "Bureaucracy, economic theory of"
+            },
+            {
+                "id": "11868",
+                "link": "/find?type=1&query=bureaucrat",
+                "word": "bureaucrat"
+            },
+            {
+                "id": "11869",
+                "link": "/find?type=1&query=bureaucratic",
+                "word": "bureaucratic"
+            },
+            {
+                "id": "11870",
+                "link": "/find?type=1&query=bureaucratically",
+                "word": "bureaucratically"
+            },
+            {
+                "id": "11871",
+                "link": "/find?type=1&query=bureaucratism",
+                "word": "bureaucratism"
+            },
+            {
+                "id": "11872",
+                "link": "/find?type=1&query=bureaucratist",
+                "word": "bureaucratist"
+            },
+            {
+                "id": "11873",
+                "link": "/find?type=1&query=bureaucratize",
+                "word": "bureaucratize"
+            },
+            {
+                "id": "11874",
+                "link": "/find?type=1&query=bureautics",
+                "word": "bureautics"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "774",
+                "link": "/find?type=4&query=bureau",
+                "word": "bureau"
+            },
+            {
+                "id": "775",
+                "link": "/find?type=4&query=bureaucracy",
+                "word": "bureaucracy"
+            }
+        ]
+    }
+}

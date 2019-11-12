@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "1313", "link": "/find?type=1&query=adduce", "word": "adduce"}, {"id": "1314", "link": "/find?type=1&query=adduceable", "word": "adduceable"}, {"id": "1315", "link": "/find?type=1&query=adducent", "word": "adducent"}, {"id": "1316", "link": "/find?type=1&query=adducible", "word": "adducible"}, {"id": "1317", "link": "/find?type=1&query=adduct", "word": "adduct"}, {"id": "1318", "link": "/find?type=1&query=adduction", "word": "adduction"}, {"id": "1319", "link": "/find?type=1&query=adductive", "word": "adductive"}, {"id": "1320", "link": "/find?type=1&query=adductor", "word": "adductor"}, {"id": "1321", "link": "/find?type=1&query=addutor", "word": "addutor"}], "data": {}}, "en_en": {"suggests": [{"id": "308", "link": "/find?type=3&query=adduce", "word": "adduce"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "308",
+                "link": "/find?type=3&query=adduce",
+                "word": "adduce"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1313",
+                "link": "/find?type=1&query=adduce",
+                "word": "adduce"
+            },
+            {
+                "id": "1314",
+                "link": "/find?type=1&query=adduceable",
+                "word": "adduceable"
+            },
+            {
+                "id": "1315",
+                "link": "/find?type=1&query=adducent",
+                "word": "adducent"
+            },
+            {
+                "id": "1316",
+                "link": "/find?type=1&query=adducible",
+                "word": "adducible"
+            },
+            {
+                "id": "1317",
+                "link": "/find?type=1&query=adduct",
+                "word": "adduct"
+            },
+            {
+                "id": "1318",
+                "link": "/find?type=1&query=adduction",
+                "word": "adduction"
+            },
+            {
+                "id": "1319",
+                "link": "/find?type=1&query=adductive",
+                "word": "adductive"
+            },
+            {
+                "id": "1320",
+                "link": "/find?type=1&query=adductor",
+                "word": "adductor"
+            },
+            {
+                "id": "1321",
+                "link": "/find?type=1&query=addutor",
+                "word": "addutor"
+            }
+        ]
+    }
+}

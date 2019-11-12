@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "29095", "link": "/find?type=1&query=egyptian", "word": "egyptian"}, {"id": "29096", "link": "/find?type=1&query=egyptianize", "word": "egyptianize"}, {"id": "29097", "link": "/find?type=1&query=egyptologer", "word": "egyptologer"}, {"id": "29098", "link": "/find?type=1&query=egyptologist", "word": "egyptologist"}, {"id": "29099", "link": "/find?type=1&query=egyptology", "word": "egyptology"}], "data": {}}, "en_en": {"suggests": [{"id": "9268", "link": "/find?type=3&query=Egyptian", "word": "Egyptian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9268",
+                "link": "/find?type=3&query=Egyptian",
+                "word": "Egyptian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29095",
+                "link": "/find?type=1&query=egyptian",
+                "word": "egyptian"
+            },
+            {
+                "id": "29096",
+                "link": "/find?type=1&query=egyptianize",
+                "word": "egyptianize"
+            },
+            {
+                "id": "29097",
+                "link": "/find?type=1&query=egyptologer",
+                "word": "egyptologer"
+            },
+            {
+                "id": "29098",
+                "link": "/find?type=1&query=egyptologist",
+                "word": "egyptologist"
+            },
+            {
+                "id": "29099",
+                "link": "/find?type=1&query=egyptology",
+                "word": "egyptology"
+            }
+        ]
+    }
+}

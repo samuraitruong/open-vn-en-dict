@@ -1,1 +1,48 @@
-{"en_vn": {"suggests": [{"id": "14042", "link": "/find?type=1&query=centimeter", "word": "centimeter"}, {"id": "14042", "link": "/find?type=1&query=centimetre", "word": "centimetre"}, {"id": "14042", "link": "/find?type=1&query=centimetre-gram-second", "word": "centimetre-gram-second"}, {"id": "14042", "link": "/find?type=1&query=centimetric", "word": "centimetric"}], "data": {"word": "centime", "id": "14042", "pronounce": "/'s\u0252nti:m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">xen-tim (m\u1ed9t ph\u1ea7n tr\u0103m fr\u0103ng c\u1ee7a Ph\u00e1p)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9b71bdd67c0df99b5729326ebdfaa0e7/16e5de67c70/C/centime.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cf1a4c0adcde150c488e41746122270f/16e5de68214/C/centime.mp3"}}}, "en_en": {"suggests": [{"id": "4439", "link": "/find?type=3&query=centimeter", "word": "centimeter"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4439",
+                "link": "/find?type=3&query=centimeter",
+                "word": "centimeter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">xen-tim (m\u1ed9t ph\u1ea7n tr\u0103m fr\u0103ng c\u1ee7a Ph\u00e1p)</div>",
+            "id": "14042",
+            "mean": [],
+            "pronounce": "/'s\u0252nti:m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1898ca4ad3d386ef8888cade0ffeb281/16e5ec73f85/C/centime.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a9c2596cace8c0f8c355a0bc8b5d8a57/16e5ec73a52/C/centime.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "centime"
+        },
+        "suggests": [
+            {
+                "id": "14042",
+                "link": "/find?type=1&query=centimeter",
+                "word": "centimeter"
+            },
+            {
+                "id": "14042",
+                "link": "/find?type=1&query=centimetre",
+                "word": "centimetre"
+            },
+            {
+                "id": "14042",
+                "link": "/find?type=1&query=centimetre-gram-second",
+                "word": "centimetre-gram-second"
+            },
+            {
+                "id": "14042",
+                "link": "/find?type=1&query=centimetric",
+                "word": "centimetric"
+            }
+        ]
+    }
+}

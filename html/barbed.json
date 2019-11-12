@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "8105", "link": "/find?type=1&query=barbed+wire", "word": "barbed wire"}, {"id": "8105", "link": "/find?type=1&query=barbedness", "word": "barbedness"}], "data": {"word": "barbed", "id": "8105", "pronounce": "/'b\u0251:bd/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 ng\u1ea1nh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a barbed hook</div>\n    \n    <div class=\"margin25\">c\u00e1i m\u00f3c c\u00f3 ng\u1ea1nh</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">barbed comments</div>\n    \n    <div class=\"margin25\">nh\u1eefng l\u1eddi b\u00ecnh ph\u1ea9m xoi m\u00f3i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9a6a07645ac352213709749b9c8ee62d/16e5dd14f5b/B/barbed.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ba9a2ad61c900f584e1ada4e9316517c/16e5dd15554/B/barbed.mp3"}}}, "en_en": {"suggests": [{"id": "2034", "link": "/find?type=3&query=barbed+wire", "word": "barbed wire"}], "data": {"word": "barbed", "id": "2034", "pronounce": "/\u02c8b\u0251\u025abd/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">having a sharp point that sticks out and backward from a larger point :having a barb</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a barbed fishhook</div>\n    \n    <div class=\"green margin25 m-top15\">expressing criticism in an unkind and often clever way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The candidates exchanged barbed comments during the debate.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "434", "link": "/find?type=4&query=barbarian", "word": "barbarian"}, {"id": "435", "link": "/find?type=4&query=barbarity", "word": "barbarity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">having a sharp point that sticks out and backward from a larger point :having a barb</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a barbed fishhook</div>\n    \n    <div class=\"green margin25 m-top15\">expressing criticism in an unkind and often clever way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The candidates exchanged barbed comments during the debate.</div>",
+            "id": "2034",
+            "mean": [],
+            "pronounce": "/\u02c8b\u0251\u025abd/",
+            "type": "adjective",
+            "word": "barbed"
+        },
+        "suggests": [
+            {
+                "id": "2034",
+                "link": "/find?type=3&query=barbed+wire",
+                "word": "barbed wire"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 ng\u1ea1nh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a barbed hook</div>\n    \n    <div class=\"margin25\">c\u00e1i m\u00f3c c\u00f3 ng\u1ea1nh</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">barbed comments</div>\n    \n    <div class=\"margin25\">nh\u1eefng l\u1eddi b\u00ecnh ph\u1ea9m xoi m\u00f3i</div>",
+            "id": "8105",
+            "mean": [],
+            "pronounce": "/'b\u0251:bd/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/756beb4a3f7559d686b1bf37b3d7b83d/16e5eb4236a/B/barbed.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8132b0896b4a0334a903f8a44b07376a/16e5eb41deb/B/barbed.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "barbed"
+        },
+        "suggests": [
+            {
+                "id": "8105",
+                "link": "/find?type=1&query=barbed+wire",
+                "word": "barbed wire"
+            },
+            {
+                "id": "8105",
+                "link": "/find?type=1&query=barbedness",
+                "word": "barbedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "434",
+                "link": "/find?type=4&query=barbarian",
+                "word": "barbarian"
+            },
+            {
+                "id": "435",
+                "link": "/find?type=4&query=barbarity",
+                "word": "barbarity"
+            }
+        ]
+    }
+}

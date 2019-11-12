@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "11858", "link": "/find?type=1&query=burden", "word": "burden"}, {"id": "11859", "link": "/find?type=1&query=burden+of+proof", "word": "burden of proof"}, {"id": "11860", "link": "/find?type=1&query=burdensome", "word": "burdensome"}, {"id": "11861", "link": "/find?type=1&query=burdensomely", "word": "burdensomely"}, {"id": "11862", "link": "/find?type=1&query=burdensomeness", "word": "burdensomeness"}, {"id": "11863", "link": "/find?type=1&query=burdock", "word": "burdock"}, {"id": "11864", "link": "/find?type=1&query=burdon", "word": "burdon"}], "data": {}}, "en_en": {"suggests": [{"id": "3690", "link": "/find?type=3&query=burden", "word": "burden"}, {"id": "3691", "link": "/find?type=3&query=burdensome", "word": "burdensome"}], "data": {}}, "synonyms": {"suggests": [{"id": "772", "link": "/find?type=4&query=burden", "word": "burden"}, {"id": "773", "link": "/find?type=4&query=burdensome", "word": "burdensome"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3690",
+                "link": "/find?type=3&query=burden",
+                "word": "burden"
+            },
+            {
+                "id": "3691",
+                "link": "/find?type=3&query=burdensome",
+                "word": "burdensome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11858",
+                "link": "/find?type=1&query=burden",
+                "word": "burden"
+            },
+            {
+                "id": "11859",
+                "link": "/find?type=1&query=burden+of+proof",
+                "word": "burden of proof"
+            },
+            {
+                "id": "11860",
+                "link": "/find?type=1&query=burdensome",
+                "word": "burdensome"
+            },
+            {
+                "id": "11861",
+                "link": "/find?type=1&query=burdensomely",
+                "word": "burdensomely"
+            },
+            {
+                "id": "11862",
+                "link": "/find?type=1&query=burdensomeness",
+                "word": "burdensomeness"
+            },
+            {
+                "id": "11863",
+                "link": "/find?type=1&query=burdock",
+                "word": "burdock"
+            },
+            {
+                "id": "11864",
+                "link": "/find?type=1&query=burdon",
+                "word": "burdon"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "772",
+                "link": "/find?type=4&query=burden",
+                "word": "burden"
+            },
+            {
+                "id": "773",
+                "link": "/find?type=4&query=burdensome",
+                "word": "burdensome"
+            }
+        ]
+    }
+}

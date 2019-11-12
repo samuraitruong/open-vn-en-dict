@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "1997", "link": "/find?type=1&query=aggrandize%2Caggrandise", "word": "aggrandize,aggrandise"}, {"id": "1998", "link": "/find?type=1&query=aggrandizement%2C+aggrandisement", "word": "aggrandizement, aggrandisement"}, {"id": "1999", "link": "/find?type=1&query=aggrandizer", "word": "aggrandizer"}], "data": {}}, "en_en": {"suggests": [{"id": "507", "link": "/find?type=3&query=aggrandizement", "word": "aggrandizement"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "507",
+                "link": "/find?type=3&query=aggrandizement",
+                "word": "aggrandizement"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1997",
+                "link": "/find?type=1&query=aggrandize%2Caggrandise",
+                "word": "aggrandize,aggrandise"
+            },
+            {
+                "id": "1998",
+                "link": "/find?type=1&query=aggrandizement%2C+aggrandisement",
+                "word": "aggrandizement, aggrandisement"
+            },
+            {
+                "id": "1999",
+                "link": "/find?type=1&query=aggrandizer",
+                "word": "aggrandizer"
+            }
+        ]
+    }
+}

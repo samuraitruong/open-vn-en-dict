@@ -1,1 +1,34 @@
-{"error": 0, "query": "forbearing", "enViData": {"suggests": [], "best": {"id": "36984", "details": "\n<div id=\"find_word_36984\" class=\"world word_en\" rel=\"forbearing\">\n    <h2 class=\"fl\">forbearing <span class=\"color-black\">/f\u0254:'be\u0259ri\u0273/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"36984\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"36984\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ki\u00ean nh\u1eabn, nh\u1eabn n\u1ea1i</div>\n    \n</div>\n", "link": "/find?type=1&query=forbearing", "word": "forbearing"}}, "mUrl": "/find?type=1&query=forbearing", "enEnData": {"suggests": [{"id": "11147", "link": "/find?type=3&query=forbearance", "word": "forbearance"}], "best": {"id": "11147", "details": "\n<div id=\"find_word_11147\" class=\"world word_en\" rel=\"forbear\">\n    <h2 class=\"fl\">forbear <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11147\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11147\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/fo\u025a\u02c8be\u025a/  -bears; -bore /-\u02c8bo\u025a/ ; -bearing</div>\n    \n    <div class=\"green margin25 m-top15\">formal :to choose not to do (something that you could do) :to avoid doing or saying (something) [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He carefully forbore any mention of her name for fear of upsetting them.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We decided to forbear provoking him any further. [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We decided to forbear from provoking him any further.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He forebore to mention her name.</div>\n    \n    <div class=\"\">variant spelling of forebear</div>\n    \n</div>\n", "link": "/find?type=3&query=forbear", "word": "forbear"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/fo\u025a\u02c8be\u025a/  -bears; -bore /-\u02c8bo\u025a/ ; -bearing</div>\n    \n    <div class=\"green margin25 m-top15\">formal :to choose not to do (something that you could do) :to avoid doing or saying (something) [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He carefully forbore any mention of her name for fear of upsetting them.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We decided to forbear provoking him any further. [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We decided to forbear from provoking him any further.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He forebore to mention her name.</div>\n    \n    <div class=\"\">variant spelling of forebear</div>",
+            "id": "11147",
+            "mean": [],
+            "pronounce": "",
+            "type": "verb",
+            "word": "forbear"
+        },
+        "suggests": [
+            {
+                "id": "11147",
+                "link": "/find?type=3&query=forbearance",
+                "word": "forbearance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ki\u00ean nh\u1eabn, nh\u1eabn n\u1ea1i</div>",
+            "id": "36984",
+            "mean": [],
+            "pronounce": "/f\u0254:'be\u0259ri\u0273/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0b4f910039c40d6275185fbe14ca01b3/16e607bcafc/F/forbearing.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0287b2c09c3259773d16d95905336d6a/16e607bc30d/F/forbearing.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "forbearing"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "1246", "link": "/find?type=1&query=addend+digit", "word": "addend digit"}, {"id": "1246", "link": "/find?type=1&query=addend+register", "word": "addend register"}, {"id": "1246", "link": "/find?type=1&query=addenda", "word": "addenda"}, {"id": "1246", "link": "/find?type=1&query=addendum", "word": "addendum"}], "data": {"word": "addend", "id": "1246", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(k\u1ef9 thu\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 h\u1ea1ng (c\u1ee7a t\u1ed5ng)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "294", "link": "/find?type=3&query=addendum", "word": "addendum"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "294",
+                "link": "/find?type=3&query=addendum",
+                "word": "addendum"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(k\u1ef9 thu\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 h\u1ea1ng (c\u1ee7a t\u1ed5ng)</div>",
+            "id": "1246",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "addend"
+        },
+        "suggests": [
+            {
+                "id": "1246",
+                "link": "/find?type=1&query=addend+digit",
+                "word": "addend digit"
+            },
+            {
+                "id": "1246",
+                "link": "/find?type=1&query=addend+register",
+                "word": "addend register"
+            },
+            {
+                "id": "1246",
+                "link": "/find?type=1&query=addenda",
+                "word": "addenda"
+            },
+            {
+                "id": "1246",
+                "link": "/find?type=1&query=addendum",
+                "word": "addendum"
+            }
+        ]
+    }
+}

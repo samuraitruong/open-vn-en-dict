@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "35961", "link": "/find?type=1&query=flange", "word": "flange"}, {"id": "35962", "link": "/find?type=1&query=flange-joint", "word": "flange-joint"}, {"id": "35963", "link": "/find?type=1&query=flange-machine", "word": "flange-machine"}, {"id": "35964", "link": "/find?type=1&query=flange-mounted", "word": "flange-mounted"}, {"id": "35965", "link": "/find?type=1&query=flanged", "word": "flanged"}, {"id": "35966", "link": "/find?type=1&query=flangeless", "word": "flangeless"}, {"id": "35967", "link": "/find?type=1&query=flanger", "word": "flanger"}], "data": {}}, "en_en": {"suggests": [{"id": "10833", "link": "/find?type=3&query=flange", "word": "flange"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10833",
+                "link": "/find?type=3&query=flange",
+                "word": "flange"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35961",
+                "link": "/find?type=1&query=flange",
+                "word": "flange"
+            },
+            {
+                "id": "35962",
+                "link": "/find?type=1&query=flange-joint",
+                "word": "flange-joint"
+            },
+            {
+                "id": "35963",
+                "link": "/find?type=1&query=flange-machine",
+                "word": "flange-machine"
+            },
+            {
+                "id": "35964",
+                "link": "/find?type=1&query=flange-mounted",
+                "word": "flange-mounted"
+            },
+            {
+                "id": "35965",
+                "link": "/find?type=1&query=flanged",
+                "word": "flanged"
+            },
+            {
+                "id": "35966",
+                "link": "/find?type=1&query=flangeless",
+                "word": "flangeless"
+            },
+            {
+                "id": "35967",
+                "link": "/find?type=1&query=flanger",
+                "word": "flanger"
+            }
+        ]
+    }
+}

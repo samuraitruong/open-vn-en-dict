@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "34488", "link": "/find?type=1&query=featherweight", "word": "featherweight"}], "data": {}}, "en_en": {"suggests": [{"id": "10409", "link": "/find?type=3&query=featherweight", "word": "featherweight"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10409",
+                "link": "/find?type=3&query=featherweight",
+                "word": "featherweight"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34488",
+                "link": "/find?type=1&query=featherweight",
+                "word": "featherweight"
+            }
+        ]
+    }
+}

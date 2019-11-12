@@ -1,1 +1,43 @@
-{"en_vn": {"suggests": [{"id": "12830", "link": "/find?type=1&query=cantaloup%2C+cantaloupe", "word": "cantaloup, cantaloupe"}, {"id": "12830", "link": "/find?type=1&query=cantaloup%28e%29", "word": "cantaloup(e)"}, {"id": "12830", "link": "/find?type=1&query=cantaloupe", "word": "cantaloupe"}], "data": {"word": "cantaloup", "id": "12830", "pronounce": "/'k\u00e6nt\u0259lu:p/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) d\u01b0a \u0111\u1ecf</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7b1b3991228912d14d4471a7a0d64b0f/16e5de28415/C/cantaloup.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8f8489198ff2de83563acde34edd6fdd/16e5de289c8/C/cantaloup.mp3"}}}, "en_en": {"suggests": [{"id": "4031", "link": "/find?type=3&query=cantaloupe", "word": "cantaloupe"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4031",
+                "link": "/find?type=3&query=cantaloupe",
+                "word": "cantaloupe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) d\u01b0a \u0111\u1ecf</div>",
+            "id": "12830",
+            "mean": [],
+            "pronounce": "/'k\u00e6nt\u0259lu:p/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5984b451b254c2d2890c7e2ad43f97de/16e5ec390e3/C/cantaloup.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c444252cde85b8c9aa26ab1e8277be3b/16e5ec38bf3/C/cantaloup.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cantaloup"
+        },
+        "suggests": [
+            {
+                "id": "12830",
+                "link": "/find?type=1&query=cantaloup%2C+cantaloupe",
+                "word": "cantaloup, cantaloupe"
+            },
+            {
+                "id": "12830",
+                "link": "/find?type=1&query=cantaloup%28e%29",
+                "word": "cantaloup(e)"
+            },
+            {
+                "id": "12830",
+                "link": "/find?type=1&query=cantaloupe",
+                "word": "cantaloupe"
+            }
+        ]
+    }
+}

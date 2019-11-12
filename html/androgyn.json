@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "3704", "link": "/find?type=1&query=androgyne", "word": "androgyne"}, {"id": "3705", "link": "/find?type=1&query=androgynous", "word": "androgynous"}, {"id": "3706", "link": "/find?type=1&query=androgynously", "word": "androgynously"}, {"id": "3707", "link": "/find?type=1&query=androgyny", "word": "androgyny"}], "data": {}}, "en_en": {"suggests": [{"id": "921", "link": "/find?type=3&query=androgynous", "word": "androgynous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "921",
+                "link": "/find?type=3&query=androgynous",
+                "word": "androgynous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3704",
+                "link": "/find?type=1&query=androgyne",
+                "word": "androgyne"
+            },
+            {
+                "id": "3705",
+                "link": "/find?type=1&query=androgynous",
+                "word": "androgynous"
+            },
+            {
+                "id": "3706",
+                "link": "/find?type=1&query=androgynously",
+                "word": "androgynously"
+            },
+            {
+                "id": "3707",
+                "link": "/find?type=1&query=androgyny",
+                "word": "androgyny"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"error": 0, "query": "gruf", "enViData": {"suggests": [{"id": "41793", "link": "/find?type=1&query=gruff", "word": "gruff"}, {"id": "41794", "link": "/find?type=1&query=gruffish", "word": "gruffish"}, {"id": "41795", "link": "/find?type=1&query=gruffly", "word": "gruffly"}, {"id": "41796", "link": "/find?type=1&query=gruffness", "word": "gruffness"}, {"id": "41797", "link": "/find?type=1&query=gruffy", "word": "gruffy"}]}, "mUrl": "/find?type=1&query=gruf", "enEnData": {"suggests": [{"id": "12703", "link": "/find?type=3&query=gruff", "word": "gruff"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3134", "link": "/find?type=4&query=gruff", "word": "gruff"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12703",
+                "link": "/find?type=3&query=gruff",
+                "word": "gruff"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41793",
+                "link": "/find?type=1&query=gruff",
+                "word": "gruff"
+            },
+            {
+                "id": "41794",
+                "link": "/find?type=1&query=gruffish",
+                "word": "gruffish"
+            },
+            {
+                "id": "41795",
+                "link": "/find?type=1&query=gruffly",
+                "word": "gruffly"
+            },
+            {
+                "id": "41796",
+                "link": "/find?type=1&query=gruffness",
+                "word": "gruffness"
+            },
+            {
+                "id": "41797",
+                "link": "/find?type=1&query=gruffy",
+                "word": "gruffy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3134",
+                "link": "/find?type=4&query=gruff",
+                "word": "gruff"
+            }
+        ]
+    }
+}

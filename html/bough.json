@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "10695", "link": "/find?type=1&query=bough-pot", "word": "bough-pot"}, {"id": "10695", "link": "/find?type=1&query=bought", "word": "bought"}], "data": {"word": "bough", "id": "10695", "pronounce": "/ba\u028a/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e0nh to (c\u1ee7a c\u00e2y g\u1ed7)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/43ec8c61164ea7868dceb2c8643db791/16e5ddb2d7a/B/bough.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/70446b4bb3b5c82db78dc13eb733a55d/16e5ddb335a/B/bough.mp3"}}}, "en_en": {"suggests": [{"id": "3226", "link": "/find?type=3&query=bought", "word": "bought"}], "data": {"word": "bough", "id": "3226", "pronounce": "/\u02c8ba\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural boughs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a main branch of a tree</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural boughs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a main branch of a tree</div>",
+            "id": "3226",
+            "mean": [],
+            "pronounce": "/\u02c8ba\u028a/",
+            "type": "noun",
+            "word": "bough"
+        },
+        "suggests": [
+            {
+                "id": "3226",
+                "link": "/find?type=3&query=bought",
+                "word": "bought"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e0nh to (c\u1ee7a c\u00e2y g\u1ed7)</div>",
+            "id": "10695",
+            "mean": [],
+            "pronounce": "/ba\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/077e424a271e96aa28dde80ebe42029e/16e5ebcf721/B/bough.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a9cd3e259d03f9f55140be8018c9607d/16e5ebcf1e0/B/bough.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bough"
+        },
+        "suggests": [
+            {
+                "id": "10695",
+                "link": "/find?type=1&query=bough-pot",
+                "word": "bough-pot"
+            },
+            {
+                "id": "10695",
+                "link": "/find?type=1&query=bought",
+                "word": "bought"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "14973", "link": "/find?type=1&query=chintz", "word": "chintz"}, {"id": "14974", "link": "/find?type=1&query=chintzy", "word": "chintzy"}], "data": {}}, "en_en": {"suggests": [{"id": "4813", "link": "/find?type=3&query=chintz", "word": "chintz"}, {"id": "4814", "link": "/find?type=3&query=chintzy", "word": "chintzy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4813",
+                "link": "/find?type=3&query=chintz",
+                "word": "chintz"
+            },
+            {
+                "id": "4814",
+                "link": "/find?type=3&query=chintzy",
+                "word": "chintzy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14973",
+                "link": "/find?type=1&query=chintz",
+                "word": "chintz"
+            },
+            {
+                "id": "14974",
+                "link": "/find?type=1&query=chintzy",
+                "word": "chintzy"
+            }
+        ]
+    }
+}

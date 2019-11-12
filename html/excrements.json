@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "32787", "link": "/find?type=1&query=excremental", "word": "excremental"}, {"id": "32787", "link": "/find?type=1&query=excrementitious", "word": "excrementitious"}], "data": {"word": "excrement", "id": "32787", "pronounce": "/'ekskrim\u0259nt/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e2n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/80003cfee89e1221eabbad8f493dfa8c/16e5e1ca32a/E/excrement.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/844b52abfa4f6b932128e384e78f4911/16e5e1ca8ec/E/excrement.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "excrement", "id": "9951", "pronounce": "/\u02c8\u025bkskr\u0259m\u0259nt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :solid waste passed out of the body :feces</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :solid waste passed out of the body :feces</div>",
+            "id": "9951",
+            "mean": [],
+            "pronounce": "/\u02c8\u025bkskr\u0259m\u0259nt/",
+            "type": "noun",
+            "word": "excrement"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e2n</div>",
+            "id": "32787",
+            "mean": [],
+            "pronounce": "/'ekskrim\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/031e3bfc9100a13b79001c0f639e1f10/16e5feac841/E/excrement.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8ac69912d07bda137fc0703de2e3a2a3/16e5feabff6/E/excrement.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "excrement"
+        },
+        "suggests": [
+            {
+                "id": "32787",
+                "link": "/find?type=1&query=excremental",
+                "word": "excremental"
+            },
+            {
+                "id": "32787",
+                "link": "/find?type=1&query=excrementitious",
+                "word": "excrementitious"
+            }
+        ]
+    }
+}

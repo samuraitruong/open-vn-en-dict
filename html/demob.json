@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "23898", "link": "/find?type=1&query=demobee", "word": "demobee"}, {"id": "23898", "link": "/find?type=1&query=demobilisation", "word": "demobilisation"}, {"id": "23898", "link": "/find?type=1&query=demobilise", "word": "demobilise"}, {"id": "23898", "link": "/find?type=1&query=demobilization", "word": "demobilization"}, {"id": "23898", "link": "/find?type=1&query=demobilize", "word": "demobilize"}], "data": {"word": "demob", "id": "23898", "pronounce": "/,di:'m\u0254b/", "type": "\u0110\u1ed9ng t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-bb-)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ea3i ng\u0169; cho ph\u1ee5c vi\u00ean</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 gi\u1ea3i ng\u0169</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/46b1ff6e86a8ccad9b03f85084b10329/16e5e02e83e/D/demob.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9d37ebe981fea48adebabcdc883eb065/16e5e02ede6/D/demob.mp3"}}}, "en_en": {"suggests": [{"id": "7609", "link": "/find?type=3&query=demobilize", "word": "demobilize"}], "data": {"word": "demob", "id": "7609", "pronounce": "/di\u02c8m\u0251b/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-mobs; -mobbed; -mobbing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] chiefly Brit :demobilize</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-mobs; -mobbed; -mobbing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] chiefly Brit :demobilize</div>",
+            "id": "7609",
+            "mean": [],
+            "pronounce": "/di\u02c8m\u0251b/",
+            "type": "verb",
+            "word": "demob"
+        },
+        "suggests": [
+            {
+                "id": "7609",
+                "link": "/find?type=3&query=demobilize",
+                "word": "demobilize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-bb-)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ea3i ng\u0169; cho ph\u1ee5c vi\u00ean</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 gi\u1ea3i ng\u0169</div>",
+            "id": "23898",
+            "mean": [],
+            "pronounce": "/,di:'m\u0254b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8ac36f43cf2008bbe21fdb1b7210768c/16e5eeaff25/D/demob.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cab6287bd8c8c1bd40048d619f455818/16e5eeaf624/D/demob.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb Danh t\u1eeb",
+            "word": "demob"
+        },
+        "suggests": [
+            {
+                "id": "23898",
+                "link": "/find?type=1&query=demobee",
+                "word": "demobee"
+            },
+            {
+                "id": "23898",
+                "link": "/find?type=1&query=demobilisation",
+                "word": "demobilisation"
+            },
+            {
+                "id": "23898",
+                "link": "/find?type=1&query=demobilise",
+                "word": "demobilise"
+            },
+            {
+                "id": "23898",
+                "link": "/find?type=1&query=demobilization",
+                "word": "demobilization"
+            },
+            {
+                "id": "23898",
+                "link": "/find?type=1&query=demobilize",
+                "word": "demobilize"
+            }
+        ]
+    }
+}

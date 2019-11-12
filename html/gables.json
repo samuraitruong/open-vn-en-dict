@@ -1,1 +1,39 @@
-{"error": 0, "query": "gables", "enViData": {"suggests": [{"id": "38684", "link": "/find?type=1&query=gabled", "word": "gabled"}, {"id": "38684", "link": "/find?type=1&query=gablet", "word": "gablet"}], "best": {"id": "38684", "details": "\n<div id=\"find_word_38684\" class=\"world word_en\" rel=\"gable\">\n    <h2 class=\"fl\">gable <span class=\"color-black\">/'geibl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38684\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38684\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0110\u1ea7u h\u1ed3i (nh\u00e0)</div>\n    \n</div>\n", "link": "/find?type=1&query=gable", "word": "gable"}}, "mUrl": "/find?type=1&query=gables", "enEnData": {"suggests": [], "best": {"id": "11715", "details": "\n<div id=\"find_word_11715\" class=\"world word_en\" rel=\"gable\">\n    <h2 class=\"fl\">gable <span class=\"color-black\">/\u02c8ge\u026ab\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11715\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11715\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural gables</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a section of a building's outside wall that is shaped like a triangle and that is formed by two sections of the roof sloping down - see picture at house</div>\n    \n</div>\n", "link": "/find?type=3&query=gable", "word": "gable"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural gables</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a section of a building's outside wall that is shaped like a triangle and that is formed by two sections of the roof sloping down - see picture at house</div>",
+            "id": "11715",
+            "mean": [],
+            "pronounce": "/\u02c8ge\u026ab\u0259l/",
+            "type": "noun",
+            "word": "gable"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0110\u1ea7u h\u1ed3i (nh\u00e0)</div>",
+            "id": "38684",
+            "mean": [],
+            "pronounce": "/'geibl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cd000e51d61e9715319f9fe6c015895f/16e60ba9afa/G/gable.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a9bee719b69ceecae65d21640d19d011/16e60ba92de/G/gable.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gable"
+        },
+        "suggests": [
+            {
+                "id": "38684",
+                "link": "/find?type=1&query=gabled",
+                "word": "gabled"
+            },
+            {
+                "id": "38684",
+                "link": "/find?type=1&query=gablet",
+                "word": "gablet"
+            }
+        ]
+    }
+}

@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "13521", "link": "/find?type=1&query=castanets", "word": "castanets"}], "data": {"word": "castanet", "id": "13521", "pronounce": "/k\u00e6st\u0259'n\u0259t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb l\u00f3ng) ((th\u01b0\u1eddng) s\u1ed1 nhi\u1ec1u) (\u00e2m nh\u1ea1c) catanhet</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4247", "link": "/find?type=3&query=castanets", "word": "castanets"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4247",
+                "link": "/find?type=3&query=castanets",
+                "word": "castanets"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb l\u00f3ng) ((th\u01b0\u1eddng) s\u1ed1 nhi\u1ec1u) (\u00e2m nh\u1ea1c) catanhet</div>",
+            "id": "13521",
+            "mean": [],
+            "pronounce": "/k\u00e6st\u0259'n\u0259t/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "castanet"
+        },
+        "suggests": [
+            {
+                "id": "13521",
+                "link": "/find?type=1&query=castanets",
+                "word": "castanets"
+            }
+        ]
+    }
+}

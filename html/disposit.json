@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "26388", "link": "/find?type=1&query=disposition", "word": "disposition"}], "data": {}}, "en_en": {"suggests": [{"id": "8302", "link": "/find?type=3&query=disposition", "word": "disposition"}], "data": {}}, "synonyms": {"suggests": [{"id": "1796", "link": "/find?type=4&query=disposition", "word": "disposition"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8302",
+                "link": "/find?type=3&query=disposition",
+                "word": "disposition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26388",
+                "link": "/find?type=1&query=disposition",
+                "word": "disposition"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1796",
+                "link": "/find?type=4&query=disposition",
+                "word": "disposition"
+            }
+        ]
+    }
+}

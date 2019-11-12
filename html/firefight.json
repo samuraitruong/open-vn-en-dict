@@ -1,1 +1,29 @@
-{"en_vn": {"suggests": [{"id": "35595", "link": "/find?type=1&query=firefighting", "word": "firefighting"}], "data": {}}, "en_en": {"suggests": [{"id": "10698", "link": "/find?type=3&query=firefighter", "word": "firefighter"}], "data": {"word": "firefight", "id": "10698", "pronounce": "/\u02c8faj\u025a\u02ccfa\u026at/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fights</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a battle in which people shoot guns</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a firefight between police and bank robbers especially;  :a usually short and fast gunfight between opposing military units</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fights</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a battle in which people shoot guns</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a firefight between police and bank robbers especially;  :a usually short and fast gunfight between opposing military units</div>",
+            "id": "10698",
+            "mean": [],
+            "pronounce": "/\u02c8faj\u025a\u02ccfa\u026at/",
+            "type": "noun",
+            "word": "firefight"
+        },
+        "suggests": [
+            {
+                "id": "10698",
+                "link": "/find?type=3&query=firefighter",
+                "word": "firefighter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35595",
+                "link": "/find?type=1&query=firefighting",
+                "word": "firefighting"
+            }
+        ]
+    }
+}

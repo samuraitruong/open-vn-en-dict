@@ -1,1 +1,22 @@
-{"error": 0, "query": "gamekeeping", "enViData": {"suggests": [{"id": "38902", "link": "/find?type=1&query=gamekeeper", "word": "gamekeeper"}]}, "mUrl": "/find?type=1&query=gamekeeping", "enEnData": {"suggests": [{"id": "11775", "link": "/find?type=3&query=gamekeeper", "word": "gamekeeper"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11775",
+                "link": "/find?type=3&query=gamekeeper",
+                "word": "gamekeeper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38902",
+                "link": "/find?type=1&query=gamekeeper",
+                "word": "gamekeeper"
+            }
+        ]
+    }
+}

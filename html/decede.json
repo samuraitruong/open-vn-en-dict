@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "23044", "link": "/find?type=1&query=decedent", "word": "decedent"}], "data": {}}, "en_en": {"suggests": [{"id": "7380", "link": "/find?type=3&query=decedent", "word": "decedent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7380",
+                "link": "/find?type=3&query=decedent",
+                "word": "decedent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23044",
+                "link": "/find?type=1&query=decedent",
+                "word": "decedent"
+            }
+        ]
+    }
+}

@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "3011", "link": "/find?type=1&query=amateur", "word": "amateur"}, {"id": "3012", "link": "/find?type=1&query=amateur+radio+communication", "word": "amateur radio communication"}, {"id": "3013", "link": "/find?type=1&query=amateur+station", "word": "amateur station"}, {"id": "3014", "link": "/find?type=1&query=amateurish", "word": "amateurish"}, {"id": "3015", "link": "/find?type=1&query=amateurishly", "word": "amateurishly"}, {"id": "3016", "link": "/find?type=1&query=amateurishness", "word": "amateurishness"}, {"id": "3017", "link": "/find?type=1&query=amateurism", "word": "amateurism"}], "data": {}}, "en_en": {"suggests": [{"id": "787", "link": "/find?type=3&query=amateur", "word": "amateur"}, {"id": "788", "link": "/find?type=3&query=amateur+dramatics", "word": "amateur dramatics"}, {"id": "789", "link": "/find?type=3&query=amateurish", "word": "amateurish"}], "data": {}}, "synonyms": {"suggests": [{"id": "219", "link": "/find?type=4&query=amateur", "word": "amateur"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "787",
+                "link": "/find?type=3&query=amateur",
+                "word": "amateur"
+            },
+            {
+                "id": "788",
+                "link": "/find?type=3&query=amateur+dramatics",
+                "word": "amateur dramatics"
+            },
+            {
+                "id": "789",
+                "link": "/find?type=3&query=amateurish",
+                "word": "amateurish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3011",
+                "link": "/find?type=1&query=amateur",
+                "word": "amateur"
+            },
+            {
+                "id": "3012",
+                "link": "/find?type=1&query=amateur+radio+communication",
+                "word": "amateur radio communication"
+            },
+            {
+                "id": "3013",
+                "link": "/find?type=1&query=amateur+station",
+                "word": "amateur station"
+            },
+            {
+                "id": "3014",
+                "link": "/find?type=1&query=amateurish",
+                "word": "amateurish"
+            },
+            {
+                "id": "3015",
+                "link": "/find?type=1&query=amateurishly",
+                "word": "amateurishly"
+            },
+            {
+                "id": "3016",
+                "link": "/find?type=1&query=amateurishness",
+                "word": "amateurishness"
+            },
+            {
+                "id": "3017",
+                "link": "/find?type=1&query=amateurism",
+                "word": "amateurism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "219",
+                "link": "/find?type=4&query=amateur",
+                "word": "amateur"
+            }
+        ]
+    }
+}

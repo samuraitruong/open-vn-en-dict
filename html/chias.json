@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "14817", "link": "/find?type=1&query=chiasma", "word": "chiasma"}, {"id": "14818", "link": "/find?type=1&query=chiasmal", "word": "chiasmal"}, {"id": "14819", "link": "/find?type=1&query=chiasmata", "word": "chiasmata"}, {"id": "14820", "link": "/find?type=1&query=chiasmatic", "word": "chiasmatic"}, {"id": "14821", "link": "/find?type=1&query=chiasmatypy", "word": "chiasmatypy"}, {"id": "14822", "link": "/find?type=1&query=chiasmic", "word": "chiasmic"}, {"id": "14823", "link": "/find?type=1&query=chiasmus", "word": "chiasmus"}], "data": {}}, "en_en": {"suggests": [{"id": "4734", "link": "/find?type=3&query=Chianti", "word": "Chianti"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4734",
+                "link": "/find?type=3&query=Chianti",
+                "word": "Chianti"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14817",
+                "link": "/find?type=1&query=chiasma",
+                "word": "chiasma"
+            },
+            {
+                "id": "14818",
+                "link": "/find?type=1&query=chiasmal",
+                "word": "chiasmal"
+            },
+            {
+                "id": "14819",
+                "link": "/find?type=1&query=chiasmata",
+                "word": "chiasmata"
+            },
+            {
+                "id": "14820",
+                "link": "/find?type=1&query=chiasmatic",
+                "word": "chiasmatic"
+            },
+            {
+                "id": "14821",
+                "link": "/find?type=1&query=chiasmatypy",
+                "word": "chiasmatypy"
+            },
+            {
+                "id": "14822",
+                "link": "/find?type=1&query=chiasmic",
+                "word": "chiasmic"
+            },
+            {
+                "id": "14823",
+                "link": "/find?type=1&query=chiasmus",
+                "word": "chiasmus"
+            }
+        ]
+    }
+}

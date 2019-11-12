@@ -1,1 +1,22 @@
-{"error": 0, "query": "hectar", "enViData": {"suggests": [{"id": "43327", "link": "/find?type=1&query=hectare", "word": "hectare"}]}, "mUrl": "/find?type=1&query=hectar", "enEnData": {"suggests": [{"id": "13346", "link": "/find?type=3&query=hectare", "word": "hectare"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13346",
+                "link": "/find?type=3&query=hectare",
+                "word": "hectare"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43327",
+                "link": "/find?type=1&query=hectare",
+                "word": "hectare"
+            }
+        ]
+    }
+}

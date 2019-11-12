@@ -1,1 +1,27 @@
-{"error": 0, "query": "godded", "enViData": {"suggests": [{"id": "40549", "link": "/find?type=1&query=goddess", "word": "goddess"}, {"id": "40550", "link": "/find?type=1&query=goddessship", "word": "goddessship"}]}, "mUrl": "/find?type=1&query=godded", "enEnData": {"suggests": [{"id": "12244", "link": "/find?type=3&query=goddess", "word": "goddess"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12244",
+                "link": "/find?type=3&query=goddess",
+                "word": "goddess"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40549",
+                "link": "/find?type=1&query=goddess",
+                "word": "goddess"
+            },
+            {
+                "id": "40550",
+                "link": "/find?type=1&query=goddessship",
+                "word": "goddessship"
+            }
+        ]
+    }
+}

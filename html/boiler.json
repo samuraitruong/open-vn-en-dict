@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "10309", "link": "/find?type=1&query=boiler+suit", "word": "boiler suit"}, {"id": "10309", "link": "/find?type=1&query=boiler-house", "word": "boiler-house"}, {"id": "10309", "link": "/find?type=1&query=boiler-tube", "word": "boiler-tube"}, {"id": "10309", "link": "/find?type=1&query=boilerplate", "word": "boilerplate"}], "data": {"word": "boiler", "id": "10309", "pronounce": "/b\u0254il\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ed3i h\u01a1i, s\u00fap-de</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f9ng n\u01b0\u1edbc s\u00f4i (trong h\u1ec7 th\u1ed1ng s\u01b0\u1edfi \u1ea5m b\u1eb1ng h\u01a1i)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f9ng n\u1ea5u \u0111\u1ed3 gi\u1eb7t (\u1edf ti\u1ec7m gi\u1eb7t)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/174bae40d1f25bab7f96b79bb0d88ec5/16e5dd9cca3/B/boiler.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/14086cf34d23747cd7cdd50db49eadbb/16e5dd9d2e5/B/boiler.mp3"}}}, "en_en": {"suggests": [{"id": "3034", "link": "/find?type=3&query=boiler+room", "word": "boiler room"}, {"id": "3034", "link": "/find?type=3&query=boilerplate", "word": "boilerplate"}, {"id": "3034", "link": "/find?type=3&query=boilersuit", "word": "boilersuit"}], "data": {"word": "boiler", "id": "3034", "pronounce": "/\u02c8bo\u026al\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a large container in which water is heated to produce steam in an engine - see also double boiler</div>\n    \n    <div class=\"green margin25 m-top15\">chiefly Brit :furnace b</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a large container in which water is heated to produce steam in an engine - see also double boiler</div>\n    \n    <div class=\"green margin25 m-top15\">chiefly Brit :furnace b</div>",
+            "id": "3034",
+            "mean": [],
+            "pronounce": "/\u02c8bo\u026al\u025a/",
+            "type": "noun",
+            "word": "boiler"
+        },
+        "suggests": [
+            {
+                "id": "3034",
+                "link": "/find?type=3&query=boiler+room",
+                "word": "boiler room"
+            },
+            {
+                "id": "3034",
+                "link": "/find?type=3&query=boilerplate",
+                "word": "boilerplate"
+            },
+            {
+                "id": "3034",
+                "link": "/find?type=3&query=boilersuit",
+                "word": "boilersuit"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ed3i h\u01a1i, s\u00fap-de</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f9ng n\u01b0\u1edbc s\u00f4i (trong h\u1ec7 th\u1ed1ng s\u01b0\u1edfi \u1ea5m b\u1eb1ng h\u01a1i)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f9ng n\u1ea5u \u0111\u1ed3 gi\u1eb7t (\u1edf ti\u1ec7m gi\u1eb7t)</div>",
+            "id": "10309",
+            "mean": [],
+            "pronounce": "/b\u0254il\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4082c84b17db9c0d1933d790d168ced0/16e5ebbae0b/B/boiler.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1b5f9f0422a0efad381ad6e8a3171274/16e5ebba8e5/B/boiler.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "boiler"
+        },
+        "suggests": [
+            {
+                "id": "10309",
+                "link": "/find?type=1&query=boiler+suit",
+                "word": "boiler suit"
+            },
+            {
+                "id": "10309",
+                "link": "/find?type=1&query=boiler-house",
+                "word": "boiler-house"
+            },
+            {
+                "id": "10309",
+                "link": "/find?type=1&query=boiler-tube",
+                "word": "boiler-tube"
+            },
+            {
+                "id": "10309",
+                "link": "/find?type=1&query=boilerplate",
+                "word": "boilerplate"
+            }
+        ]
+    }
+}

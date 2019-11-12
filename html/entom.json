@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "30998", "link": "/find?type=1&query=entomb", "word": "entomb"}, {"id": "30999", "link": "/find?type=1&query=entombment", "word": "entombment"}, {"id": "31000", "link": "/find?type=1&query=entomic", "word": "entomic"}, {"id": "31001", "link": "/find?type=1&query=entomochoric", "word": "entomochoric"}, {"id": "31002", "link": "/find?type=1&query=entomochory", "word": "entomochory"}, {"id": "31003", "link": "/find?type=1&query=entomofauna", "word": "entomofauna"}, {"id": "31004", "link": "/find?type=1&query=entomogamous", "word": "entomogamous"}, {"id": "31005", "link": "/find?type=1&query=entomogamy", "word": "entomogamy"}, {"id": "31006", "link": "/find?type=1&query=entomologic", "word": "entomologic"}, {"id": "31007", "link": "/find?type=1&query=entomological", "word": "entomological"}], "data": {}}, "en_en": {"suggests": [{"id": "9629", "link": "/find?type=3&query=entomb", "word": "entomb"}, {"id": "9630", "link": "/find?type=3&query=entomology", "word": "entomology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9629",
+                "link": "/find?type=3&query=entomb",
+                "word": "entomb"
+            },
+            {
+                "id": "9630",
+                "link": "/find?type=3&query=entomology",
+                "word": "entomology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30998",
+                "link": "/find?type=1&query=entomb",
+                "word": "entomb"
+            },
+            {
+                "id": "30999",
+                "link": "/find?type=1&query=entombment",
+                "word": "entombment"
+            },
+            {
+                "id": "31000",
+                "link": "/find?type=1&query=entomic",
+                "word": "entomic"
+            },
+            {
+                "id": "31001",
+                "link": "/find?type=1&query=entomochoric",
+                "word": "entomochoric"
+            },
+            {
+                "id": "31002",
+                "link": "/find?type=1&query=entomochory",
+                "word": "entomochory"
+            },
+            {
+                "id": "31003",
+                "link": "/find?type=1&query=entomofauna",
+                "word": "entomofauna"
+            },
+            {
+                "id": "31004",
+                "link": "/find?type=1&query=entomogamous",
+                "word": "entomogamous"
+            },
+            {
+                "id": "31005",
+                "link": "/find?type=1&query=entomogamy",
+                "word": "entomogamy"
+            },
+            {
+                "id": "31006",
+                "link": "/find?type=1&query=entomologic",
+                "word": "entomologic"
+            },
+            {
+                "id": "31007",
+                "link": "/find?type=1&query=entomological",
+                "word": "entomological"
+            }
+        ]
+    }
+}

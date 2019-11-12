@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8171", "link": "/find?type=1&query=barite", "word": "barite"}, {"id": "8172", "link": "/find?type=1&query=baritone", "word": "baritone"}], "data": {}}, "en_en": {"suggests": [{"id": "2064", "link": "/find?type=3&query=baritone", "word": "baritone"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2064",
+                "link": "/find?type=3&query=baritone",
+                "word": "baritone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8171",
+                "link": "/find?type=1&query=barite",
+                "word": "barite"
+            },
+            {
+                "id": "8172",
+                "link": "/find?type=1&query=baritone",
+                "word": "baritone"
+            }
+        ]
+    }
+}

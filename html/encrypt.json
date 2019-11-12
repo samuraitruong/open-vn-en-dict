@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [{"id": "30398", "link": "/find?type=1&query=encryptation", "word": "encryptation"}, {"id": "30398", "link": "/find?type=1&query=encrypted+file", "word": "encrypted file"}, {"id": "30398", "link": "/find?type=1&query=encryption", "word": "encryption"}, {"id": "30398", "link": "/find?type=1&query=encryption+key", "word": "encryption key"}], "data": {"word": "encrypt", "id": "30398", "pronounce": "", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ebft l\u1ea1i th\u00e0nh m\u1eadt m\u00e3</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4e7e76585c3d88e1ca4c0444f761d359/16e5e15a19d/E/encrypt.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0e983a966f642a97e30ffb81865a289e/16e5e15a774/E/encrypt.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "encrypt", "id": "9516", "pronounce": "/\u026an\u02c8kr\u026apt/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-crypts; -crypted; -crypting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to change (information) from one form to another especially to hide its meaning</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The software will encrypt the message before it is sent.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The passwords are encrypted.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-crypts; -crypted; -crypting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to change (information) from one form to another especially to hide its meaning</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The software will encrypt the message before it is sent.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The passwords are encrypted.</div>",
+            "id": "9516",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8kr\u026apt/",
+            "type": "verb",
+            "word": "encrypt"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ebft l\u1ea1i th\u00e0nh m\u1eadt m\u00e3</div>",
+            "id": "30398",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f75efe3a6af05be1c6f3cc548f4706ce/16e5f38265c/E/encrypt.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b4ac4184453a805931bef8bee103162c/16e5f381d1a/E/encrypt.mp3"
+            },
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "encrypt"
+        },
+        "suggests": [
+            {
+                "id": "30398",
+                "link": "/find?type=1&query=encryptation",
+                "word": "encryptation"
+            },
+            {
+                "id": "30398",
+                "link": "/find?type=1&query=encrypted+file",
+                "word": "encrypted file"
+            },
+            {
+                "id": "30398",
+                "link": "/find?type=1&query=encryption",
+                "word": "encryption"
+            },
+            {
+                "id": "30398",
+                "link": "/find?type=1&query=encryption+key",
+                "word": "encryption key"
+            }
+        ]
+    }
+}

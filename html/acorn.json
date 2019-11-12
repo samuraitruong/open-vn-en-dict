@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "957", "link": "/find?type=1&query=acorn+tube", "word": "acorn tube"}, {"id": "957", "link": "/find?type=1&query=acorn-shaped", "word": "acorn-shaped"}], "data": {"word": "acorn", "id": "957", "pronounce": "/'eik\u0254:n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 \u0111\u1ea5u</div>\n    \n    <div class=\"bold dot-blue m-top15\">big oaks from litter acorns grow</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=oak\">oak</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/08239d9eba91374eee1b7471a09cbde9/16e5db69bb1/A/acorn.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ca83e0c1d4cfd3f2d2c8fc48fd4a8941/16e5db6a18b/A/acorn.mp3"}}}, "en_en": {"suggests": [{"id": "227", "link": "/find?type=3&query=acorn+squash", "word": "acorn squash"}], "data": {"word": "acorn", "id": "227", "pronounce": "/\u02c8e\u026a\u02ccko\u025an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural acorns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the nut of the oak tree</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural acorns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the nut of the oak tree</div>",
+            "id": "227",
+            "mean": [],
+            "pronounce": "/\u02c8e\u026a\u02ccko\u025an/",
+            "type": "noun",
+            "word": "acorn"
+        },
+        "suggests": [
+            {
+                "id": "227",
+                "link": "/find?type=3&query=acorn+squash",
+                "word": "acorn squash"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 \u0111\u1ea5u</div>\n    \n    <div class=\"bold dot-blue m-top15\">big oaks from litter acorns grow</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=oak\">oak</a></span></div>",
+            "id": "957",
+            "mean": [],
+            "pronounce": "/'eik\u0254:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/347f044bf374e04b8712b4bdfe0ee951/16e5ea040dd/A/acorn.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/72132e620eca79190713cf888afcb972/16e5ea03bce/A/acorn.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "acorn"
+        },
+        "suggests": [
+            {
+                "id": "957",
+                "link": "/find?type=1&query=acorn+tube",
+                "word": "acorn tube"
+            },
+            {
+                "id": "957",
+                "link": "/find?type=1&query=acorn-shaped",
+                "word": "acorn-shaped"
+            }
+        ]
+    }
+}

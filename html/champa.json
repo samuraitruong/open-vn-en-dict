@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14360", "link": "/find?type=1&query=champagne", "word": "champagne"}, {"id": "14361", "link": "/find?type=1&query=champaign", "word": "champaign"}], "data": {}}, "en_en": {"suggests": [{"id": "4544", "link": "/find?type=3&query=champagne", "word": "champagne"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4544",
+                "link": "/find?type=3&query=champagne",
+                "word": "champagne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14360",
+                "link": "/find?type=1&query=champagne",
+                "word": "champagne"
+            },
+            {
+                "id": "14361",
+                "link": "/find?type=1&query=champaign",
+                "word": "champaign"
+            }
+        ]
+    }
+}

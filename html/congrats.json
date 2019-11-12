@@ -1,1 +1,53 @@
-{"en_vn": {"suggests": [{"id": "18616", "link": "/find?type=1&query=congratulate", "word": "congratulate"}, {"id": "18617", "link": "/find?type=1&query=congratulation", "word": "congratulation"}, {"id": "18618", "link": "/find?type=1&query=congratulator", "word": "congratulator"}, {"id": "18619", "link": "/find?type=1&query=congratulatory", "word": "congratulatory"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "congrats", "id": "5940", "pronounce": "/k\u0259n\u02c8gr\u00e6ts/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] informal :congratulations</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Congrats on your promotion!</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1189", "link": "/find?type=4&query=congratulate", "word": "congratulate"}, {"id": "1190", "link": "/find?type=4&query=congratulations", "word": "congratulations"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] informal :congratulations</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Congrats on your promotion!</div>",
+            "id": "5940",
+            "mean": [],
+            "pronounce": "/k\u0259n\u02c8gr\u00e6ts/",
+            "type": "noun",
+            "word": "congrats"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18616",
+                "link": "/find?type=1&query=congratulate",
+                "word": "congratulate"
+            },
+            {
+                "id": "18617",
+                "link": "/find?type=1&query=congratulation",
+                "word": "congratulation"
+            },
+            {
+                "id": "18618",
+                "link": "/find?type=1&query=congratulator",
+                "word": "congratulator"
+            },
+            {
+                "id": "18619",
+                "link": "/find?type=1&query=congratulatory",
+                "word": "congratulatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1189",
+                "link": "/find?type=4&query=congratulate",
+                "word": "congratulate"
+            },
+            {
+                "id": "1190",
+                "link": "/find?type=4&query=congratulations",
+                "word": "congratulations"
+            }
+        ]
+    }
+}

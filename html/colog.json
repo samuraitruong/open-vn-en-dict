@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "17073", "link": "/find?type=1&query=cologarithm", "word": "cologarithm"}, {"id": "17074", "link": "/find?type=1&query=cologne", "word": "cologne"}], "data": {}}, "en_en": {"suggests": [{"id": "5521", "link": "/find?type=3&query=cologne", "word": "cologne"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5521",
+                "link": "/find?type=3&query=cologne",
+                "word": "cologne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17073",
+                "link": "/find?type=1&query=cologarithm",
+                "word": "cologarithm"
+            },
+            {
+                "id": "17074",
+                "link": "/find?type=1&query=cologne",
+                "word": "cologne"
+            }
+        ]
+    }
+}

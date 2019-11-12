@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "7868", "link": "/find?type=1&query=ballad-monger", "word": "ballad-monger"}, {"id": "7868", "link": "/find?type=1&query=ballade", "word": "ballade"}, {"id": "7868", "link": "/find?type=1&query=balladic", "word": "balladic"}], "data": {"word": "ballad", "id": "7868", "pronounce": "/'b\u00e6l\u0259d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00fac balat</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5f168b63c8bb528edfe34781e944796c/16e5dd065e2/B/ballad.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6801973954272f2802fff5a1676a791c/16e5dd06bc2/B/ballad.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "ballad", "id": "1929", "pronounce": "/\u02c8b\u00e6l\u0259d/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lads</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a slow popular song that is typically about love</div>\n    \n    <div class=\"green margin25 m-top15\">a kind of poem or song that tells a story (such as a story about a famous person from history)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a ballad about King Arthur</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lads</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a slow popular song that is typically about love</div>\n    \n    <div class=\"green margin25 m-top15\">a kind of poem or song that tells a story (such as a story about a famous person from history)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a ballad about King Arthur</div>",
+            "id": "1929",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6l\u0259d/",
+            "type": "noun",
+            "word": "ballad"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00fac balat</div>",
+            "id": "7868",
+            "mean": [],
+            "pronounce": "/'b\u00e6l\u0259d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4e43a292cc2a651c50a4a64d5e8cdd5e/16e5eb35bb1/B/ballad.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2bc493b60a8dfaa56d773de95242ca2b/16e5eb35638/B/ballad.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ballad"
+        },
+        "suggests": [
+            {
+                "id": "7868",
+                "link": "/find?type=1&query=ballad-monger",
+                "word": "ballad-monger"
+            },
+            {
+                "id": "7868",
+                "link": "/find?type=1&query=ballade",
+                "word": "ballade"
+            },
+            {
+                "id": "7868",
+                "link": "/find?type=1&query=balladic",
+                "word": "balladic"
+            }
+        ]
+    }
+}

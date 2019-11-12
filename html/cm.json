@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "16374", "link": "/find?type=1&query=Cmdr", "word": "Cmdr"}, {"id": "16374", "link": "/find?type=1&query=Cmdre", "word": "Cmdre"}, {"id": "16374", "link": "/find?type=1&query=cmos", "word": "cmos"}, {"id": "16374", "link": "/find?type=1&query=CMOS+%28complementary+metal-oxid-semiconductor%29", "word": "CMOS (complementary metal-oxid-semiconductor)"}], "data": {"word": "cm", "id": "16374", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a centimetre) (s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c cms)</div>\n    \n    <div class=\"green margin25 m-top15\">xentimet</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5303", "link": "/find?type=3&query=Cmdr.", "word": "Cmdr."}], "data": {"word": "cm", "id": "5303", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">centimeter</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">centimeter</div>",
+            "id": "5303",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "cm"
+        },
+        "suggests": [
+            {
+                "id": "5303",
+                "link": "/find?type=3&query=Cmdr.",
+                "word": "Cmdr."
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a centimetre) (s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c cms)</div>\n    \n    <div class=\"green margin25 m-top15\">xentimet</div>",
+            "id": "16374",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cm"
+        },
+        "suggests": [
+            {
+                "id": "16374",
+                "link": "/find?type=1&query=Cmdr",
+                "word": "Cmdr"
+            },
+            {
+                "id": "16374",
+                "link": "/find?type=1&query=Cmdre",
+                "word": "Cmdre"
+            },
+            {
+                "id": "16374",
+                "link": "/find?type=1&query=cmos",
+                "word": "cmos"
+            },
+            {
+                "id": "16374",
+                "link": "/find?type=1&query=CMOS+%28complementary+metal-oxid-semiconductor%29",
+                "word": "CMOS (complementary metal-oxid-semiconductor)"
+            }
+        ]
+    }
+}

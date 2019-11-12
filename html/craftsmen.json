@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "20723", "link": "/find?type=1&query=craftsmanlike", "word": "craftsmanlike"}, {"id": "20723", "link": "/find?type=1&query=craftsmanly", "word": "craftsmanly"}, {"id": "20723", "link": "/find?type=1&query=craftsmanship", "word": "craftsmanship"}], "data": {"word": "craftsman", "id": "20723", "pronounce": "/'kr\u0251:ftsm\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u craftsmen)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 th\u1ee7 c\u00f4ng</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111i\u00eau luy\u1ec7n, ng\u01b0\u1eddi l\u00e0nh ngh\u1ec1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8559164e169e0ac4145ed40b4e235be4/16e5dfa3231/C/craftsman.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/420bf6f32efa992137138d6e3cad5cef/16e5dfa37f8/C/craftsman.mp3"}}}, "en_en": {"suggests": [{"id": "6623", "link": "/find?type=3&query=craftsmanship", "word": "craftsmanship"}], "data": {"word": "craftsman", "id": "6623", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8kr\u00e6ftsm\u0259n, Brit \u02c8kr\u0251\u02d0ftsm\u0259n/ , pl -men /-m\u0259n/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person (especially a man) who makes beautiful objects by hand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Skilled craftsmen carved the enormous mantel.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He is a master craftsman who works with marble.</div>\n    \n    <div class=\"green margin25 m-top15\">a person (especially a man) who is very skilled at doing something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">As a writer/photographer/musician, he has developed into a true craftsman.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8kr\u00e6ftsm\u0259n, Brit \u02c8kr\u0251\u02d0ftsm\u0259n/ , pl -men /-m\u0259n/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person (especially a man) who makes beautiful objects by hand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Skilled craftsmen carved the enormous mantel.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He is a master craftsman who works with marble.</div>\n    \n    <div class=\"green margin25 m-top15\">a person (especially a man) who is very skilled at doing something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">As a writer/photographer/musician, he has developed into a true craftsman.</div>",
+            "id": "6623",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "craftsman"
+        },
+        "suggests": [
+            {
+                "id": "6623",
+                "link": "/find?type=3&query=craftsmanship",
+                "word": "craftsmanship"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u craftsmen)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 th\u1ee7 c\u00f4ng</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111i\u00eau luy\u1ec7n, ng\u01b0\u1eddi l\u00e0nh ngh\u1ec1</div>",
+            "id": "20723",
+            "mean": [],
+            "pronounce": "/'kr\u0251:ftsm\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6d86a90fe9f043013b01a66173af8326/16e5edf0aec/C/craftsman.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/05534c3f6c523ead44ce3fc9c07913d1/16e5edf01da/C/craftsman.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "craftsman"
+        },
+        "suggests": [
+            {
+                "id": "20723",
+                "link": "/find?type=1&query=craftsmanlike",
+                "word": "craftsmanlike"
+            },
+            {
+                "id": "20723",
+                "link": "/find?type=1&query=craftsmanly",
+                "word": "craftsmanly"
+            },
+            {
+                "id": "20723",
+                "link": "/find?type=1&query=craftsmanship",
+                "word": "craftsmanship"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "13569", "link": "/find?type=1&query=casus+belli", "word": "casus belli"}], "data": {}}, "en_en": {"suggests": [{"id": "4260", "link": "/find?type=3&query=casual", "word": "casual"}, {"id": "4261", "link": "/find?type=3&query=casualty", "word": "casualty"}], "data": {}}, "synonyms": {"suggests": [{"id": "890", "link": "/find?type=4&query=casual", "word": "casual"}, {"id": "891", "link": "/find?type=4&query=casualty", "word": "casualty"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4260",
+                "link": "/find?type=3&query=casual",
+                "word": "casual"
+            },
+            {
+                "id": "4261",
+                "link": "/find?type=3&query=casualty",
+                "word": "casualty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13569",
+                "link": "/find?type=1&query=casus+belli",
+                "word": "casus belli"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "890",
+                "link": "/find?type=4&query=casual",
+                "word": "casual"
+            },
+            {
+                "id": "891",
+                "link": "/find?type=4&query=casualty",
+                "word": "casualty"
+            }
+        ]
+    }
+}

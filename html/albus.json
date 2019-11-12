@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "2375", "link": "/find?type=1&query=albuginia", "word": "albuginia"}, {"id": "2376", "link": "/find?type=1&query=albugo", "word": "albugo"}, {"id": "2377", "link": "/find?type=1&query=album", "word": "album"}, {"id": "2378", "link": "/find?type=1&query=albumen", "word": "albumen"}, {"id": "2379", "link": "/find?type=1&query=albumenize", "word": "albumenize"}, {"id": "2380", "link": "/find?type=1&query=albumin", "word": "albumin"}, {"id": "2381", "link": "/find?type=1&query=albuminoid", "word": "albuminoid"}, {"id": "2382", "link": "/find?type=1&query=albuminous", "word": "albuminous"}, {"id": "2383", "link": "/find?type=1&query=albuminuria", "word": "albuminuria"}, {"id": "2384", "link": "/find?type=1&query=albuminuric", "word": "albuminuric"}], "data": {}}, "en_en": {"suggests": [{"id": "632", "link": "/find?type=3&query=album", "word": "album"}, {"id": "633", "link": "/find?type=3&query=albumen", "word": "albumen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "632",
+                "link": "/find?type=3&query=album",
+                "word": "album"
+            },
+            {
+                "id": "633",
+                "link": "/find?type=3&query=albumen",
+                "word": "albumen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2375",
+                "link": "/find?type=1&query=albuginia",
+                "word": "albuginia"
+            },
+            {
+                "id": "2376",
+                "link": "/find?type=1&query=albugo",
+                "word": "albugo"
+            },
+            {
+                "id": "2377",
+                "link": "/find?type=1&query=album",
+                "word": "album"
+            },
+            {
+                "id": "2378",
+                "link": "/find?type=1&query=albumen",
+                "word": "albumen"
+            },
+            {
+                "id": "2379",
+                "link": "/find?type=1&query=albumenize",
+                "word": "albumenize"
+            },
+            {
+                "id": "2380",
+                "link": "/find?type=1&query=albumin",
+                "word": "albumin"
+            },
+            {
+                "id": "2381",
+                "link": "/find?type=1&query=albuminoid",
+                "word": "albuminoid"
+            },
+            {
+                "id": "2382",
+                "link": "/find?type=1&query=albuminous",
+                "word": "albuminous"
+            },
+            {
+                "id": "2383",
+                "link": "/find?type=1&query=albuminuria",
+                "word": "albuminuria"
+            },
+            {
+                "id": "2384",
+                "link": "/find?type=1&query=albuminuric",
+                "word": "albuminuric"
+            }
+        ]
+    }
+}

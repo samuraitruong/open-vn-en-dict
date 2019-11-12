@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "30072", "link": "/find?type=1&query=emerald", "word": "emerald"}], "data": {}}, "en_en": {"suggests": [{"id": "9419", "link": "/find?type=3&query=emerald", "word": "emerald"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9419",
+                "link": "/find?type=3&query=emerald",
+                "word": "emerald"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30072",
+                "link": "/find?type=1&query=emerald",
+                "word": "emerald"
+            }
+        ]
+    }
+}

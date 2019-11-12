@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "21412", "link": "/find?type=1&query=crustacean", "word": "crustacean"}, {"id": "21413", "link": "/find?type=1&query=crustaceous", "word": "crustaceous"}, {"id": "21414", "link": "/find?type=1&query=crustal", "word": "crustal"}], "data": {}}, "en_en": {"suggests": [{"id": "6905", "link": "/find?type=3&query=crustacean", "word": "crustacean"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6905",
+                "link": "/find?type=3&query=crustacean",
+                "word": "crustacean"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21412",
+                "link": "/find?type=1&query=crustacean",
+                "word": "crustacean"
+            },
+            {
+                "id": "21413",
+                "link": "/find?type=1&query=crustaceous",
+                "word": "crustaceous"
+            },
+            {
+                "id": "21414",
+                "link": "/find?type=1&query=crustal",
+                "word": "crustal"
+            }
+        ]
+    }
+}

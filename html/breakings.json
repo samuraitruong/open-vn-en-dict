@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "11096", "link": "/find?type=1&query=breaking+device", "word": "breaking device"}], "data": {"word": "breaking", "id": "11096", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) c\u1eaft, ng\u1eaft</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 v\u1ee1, s\u1ef1 \u0111\u1ee9t, s\u1ef1 r\u1eddi ra</div>\n    \n    <div class=\"green margin25 m-top15\">b. of waves s\u1ef1v\u1ee1 s\u00f3ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3374", "link": "/find?type=3&query=breaking+and+entering", "word": "breaking and entering"}, {"id": "3375", "link": "/find?type=3&query=breaking+point", "word": "breaking point"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3374",
+                "link": "/find?type=3&query=breaking+and+entering",
+                "word": "breaking and entering"
+            },
+            {
+                "id": "3375",
+                "link": "/find?type=3&query=breaking+point",
+                "word": "breaking point"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) c\u1eaft, ng\u1eaft</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 v\u1ee1, s\u1ef1 \u0111\u1ee9t, s\u1ef1 r\u1eddi ra</div>\n    \n    <div class=\"green margin25 m-top15\">b. of waves s\u1ef1v\u1ee1 s\u00f3ng</div>",
+            "id": "11096",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "breaking"
+        },
+        "suggests": [
+            {
+                "id": "11096",
+                "link": "/find?type=1&query=breaking+device",
+                "word": "breaking device"
+            }
+        ]
+    }
+}

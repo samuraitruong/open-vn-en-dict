@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "17847", "link": "/find?type=1&query=comptometer", "word": "comptometer"}, {"id": "17848", "link": "/find?type=1&query=comptroller", "word": "comptroller"}], "data": {}}, "en_en": {"suggests": [{"id": "5773", "link": "/find?type=3&query=comptroller", "word": "comptroller"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5773",
+                "link": "/find?type=3&query=comptroller",
+                "word": "comptroller"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17847",
+                "link": "/find?type=1&query=comptometer",
+                "word": "comptometer"
+            },
+            {
+                "id": "17848",
+                "link": "/find?type=1&query=comptroller",
+                "word": "comptroller"
+            }
+        ]
+    }
+}

@@ -1,1 +1,38 @@
-{"error": 0, "query": "genus", "enViData": {"suggests": [], "best": {"id": "39622", "details": "\n<div id=\"find_word_39622\" class=\"world word_en\" rel=\"genus\">\n    <h2 class=\"fl\">genus <span class=\"color-black\">/'d\u0292i:n\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"39622\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"39622\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u genera)</div>\n    \n    <div class=\"green margin25 m-top15\">(sinh v\u1eadt) chi</div>\n    \n    <div class=\"green margin25 m-top15\">(Kh\u1ea9u ng\u1eef) lo\u1ea1i</div>\n    \n</div>\n", "link": "/find?type=1&query=genus", "word": "genus"}}, "mUrl": "/find?type=1&query=genus", "enEnData": {"suggests": [], "best": {"id": "11988", "details": "\n<div id=\"find_word_11988\" class=\"world word_en\" rel=\"genus\">\n    <h2 class=\"fl\">genus <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11988\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11988\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8\u02a4i\u02d0n\u0259s/ , pl genera /\u02c8\u02a4\u025bn\u0259r\u0259/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] biology :a group of related animals or plants that includes several or many different species</div>\n    \n</div>\n", "link": "/find?type=3&query=genus", "word": "genus"}}, "ftype": "1", "synData": {"suggests": [{"id": "2966", "link": "/find?type=4&query=genuine", "word": "genuine"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8\u02a4i\u02d0n\u0259s/ , pl genera /\u02c8\u02a4\u025bn\u0259r\u0259/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] biology :a group of related animals or plants that includes several or many different species</div>",
+            "id": "11988",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "genus"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u genera)</div>\n    \n    <div class=\"green margin25 m-top15\">(sinh v\u1eadt) chi</div>\n    \n    <div class=\"green margin25 m-top15\">(Kh\u1ea9u ng\u1eef) lo\u1ea1i</div>",
+            "id": "39622",
+            "mean": [],
+            "pronounce": "/'d\u0292i:n\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/634b243c82b1e9ff248f68451903333e/16e60e10414/G/genus.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c1e22bbfd780d63646f10e574a387ff9/16e60e0fc1d/G/genus.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "genus"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2966",
+                "link": "/find?type=4&query=genuine",
+                "word": "genuine"
+            }
+        ]
+    }
+}

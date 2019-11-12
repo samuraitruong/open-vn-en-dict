@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [], "data": {"word": "decoded", "id": "23211", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e3 \u0111\u1ecdc \u0111\u01b0\u1ee3c m\u1eadt m\u00e3, \u0111\u01b0\u1ee3c gi\u1ea3i m\u00e3</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7417", "link": "/find?type=3&query=decoder", "word": "decoder"}], "data": {"word": "decode", "id": "7417", "pronounce": "/di\u02c8ko\u028ad/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-codes; -coded; -coding</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to change (secret messages, documents, etc.) from a set of letters, numbers, symbols, etc., you cannot understand into words you can understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The government agents finally decoded [=deciphered] the message. - compare code, encode</div>\n    \n    <div class=\"green margin25 m-top15\">to find or understand the true or hidden meaning of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Readers can easily decode the novel's imagery.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm trying to decode the expression on her face.</div>\n    \n    <div class=\"green margin25 m-top15\">technical :to change signals for a radio, television, etc., to a form that can be heard or seen correctly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The box decodes the digital signal for your CD player.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-codes; -coded; -coding</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to change (secret messages, documents, etc.) from a set of letters, numbers, symbols, etc., you cannot understand into words you can understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The government agents finally decoded [=deciphered] the message. - compare code, encode</div>\n    \n    <div class=\"green margin25 m-top15\">to find or understand the true or hidden meaning of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Readers can easily decode the novel's imagery.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm trying to decode the expression on her face.</div>\n    \n    <div class=\"green margin25 m-top15\">technical :to change signals for a radio, television, etc., to a form that can be heard or seen correctly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The box decodes the digital signal for your CD player.</div>",
+            "id": "7417",
+            "mean": [],
+            "pronounce": "/di\u02c8ko\u028ad/",
+            "type": "verb",
+            "word": "decode"
+        },
+        "suggests": [
+            {
+                "id": "7417",
+                "link": "/find?type=3&query=decoder",
+                "word": "decoder"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u0111\u00e3 \u0111\u1ecdc \u0111\u01b0\u1ee3c m\u1eadt m\u00e3, \u0111\u01b0\u1ee3c gi\u1ea3i m\u00e3</div>",
+            "id": "23211",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "decoded"
+        },
+        "suggests": []
+    }
+}

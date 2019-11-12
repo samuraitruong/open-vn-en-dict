@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "35440", "link": "/find?type=1&query=finicking", "word": "finicking"}, {"id": "35441", "link": "/find?type=1&query=finicky", "word": "finicky"}], "data": {}}, "en_en": {"suggests": [{"id": "10661", "link": "/find?type=3&query=finicky", "word": "finicky"}], "data": {}}, "synonyms": {"suggests": [{"id": "2630", "link": "/find?type=4&query=finicky", "word": "finicky"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10661",
+                "link": "/find?type=3&query=finicky",
+                "word": "finicky"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35440",
+                "link": "/find?type=1&query=finicking",
+                "word": "finicking"
+            },
+            {
+                "id": "35441",
+                "link": "/find?type=1&query=finicky",
+                "word": "finicky"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2630",
+                "link": "/find?type=4&query=finicky",
+                "word": "finicky"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"error": 0, "query": "gratuito", "enViData": {"suggests": [{"id": "41259", "link": "/find?type=1&query=gratuitous", "word": "gratuitous"}, {"id": "41260", "link": "/find?type=1&query=gratuitously", "word": "gratuitously"}, {"id": "41261", "link": "/find?type=1&query=gratuitousness", "word": "gratuitousness"}]}, "mUrl": "/find?type=1&query=gratuito", "enEnData": {"suggests": [{"id": "12520", "link": "/find?type=3&query=gratuitous", "word": "gratuitous"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3093", "link": "/find?type=4&query=gratuitous", "word": "gratuitous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12520",
+                "link": "/find?type=3&query=gratuitous",
+                "word": "gratuitous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41259",
+                "link": "/find?type=1&query=gratuitous",
+                "word": "gratuitous"
+            },
+            {
+                "id": "41260",
+                "link": "/find?type=1&query=gratuitously",
+                "word": "gratuitously"
+            },
+            {
+                "id": "41261",
+                "link": "/find?type=1&query=gratuitousness",
+                "word": "gratuitousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3093",
+                "link": "/find?type=4&query=gratuitous",
+                "word": "gratuitous"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "9707", "link": "/find?type=1&query=blacksmithing", "word": "blacksmithing"}], "data": {"word": "blacksmith", "id": "9707", "pronounce": "/'bl\u00e6ksmi\u03b8/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 r\u00e8n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/938e6c92e0a6e9d7ee76573d113b5b53/16e5dd7e53c/B/blacksmith.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9094a642b820ba12e8b458197cd2a6c6/16e5dd7eb6f/B/blacksmith.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "blacksmith", "id": "2755", "pronounce": "/\u02c8bl\u00e6k\u02ccsm\u026a\u0275/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -smiths</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who makes or repairs things made of iron (such as horseshoes)</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -smiths</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who makes or repairs things made of iron (such as horseshoes)</div>",
+            "id": "2755",
+            "mean": [],
+            "pronounce": "/\u02c8bl\u00e6k\u02ccsm\u026a\u0275/",
+            "type": "noun",
+            "word": "blacksmith"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 r\u00e8n</div>",
+            "id": "9707",
+            "mean": [],
+            "pronounce": "/'bl\u00e6ksmi\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/30188120dfccd8d509eb538f40a781e8/16e5eb9f7cb/B/blacksmith.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d819a1759a4e4ec6b5e6a6bca04648ab/16e5eb9f2ba/B/blacksmith.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "blacksmith"
+        },
+        "suggests": [
+            {
+                "id": "9707",
+                "link": "/find?type=1&query=blacksmithing",
+                "word": "blacksmithing"
+            }
+        ]
+    }
+}

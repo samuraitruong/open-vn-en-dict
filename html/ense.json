@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "30862", "link": "/find?type=1&query=enseal", "word": "enseal"}, {"id": "30863", "link": "/find?type=1&query=ensemble", "word": "ensemble"}, {"id": "30864", "link": "/find?type=1&query=ensepulcher", "word": "ensepulcher"}], "data": {}}, "en_en": {"suggests": [{"id": "9600", "link": "/find?type=3&query=ensemble", "word": "ensemble"}], "data": {}}, "synonyms": {"suggests": [{"id": "2183", "link": "/find?type=4&query=ensemble", "word": "ensemble"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9600",
+                "link": "/find?type=3&query=ensemble",
+                "word": "ensemble"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30862",
+                "link": "/find?type=1&query=enseal",
+                "word": "enseal"
+            },
+            {
+                "id": "30863",
+                "link": "/find?type=1&query=ensemble",
+                "word": "ensemble"
+            },
+            {
+                "id": "30864",
+                "link": "/find?type=1&query=ensepulcher",
+                "word": "ensepulcher"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2183",
+                "link": "/find?type=4&query=ensemble",
+                "word": "ensemble"
+            }
+        ]
+    }
+}

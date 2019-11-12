@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "11898", "link": "/find?type=1&query=burial", "word": "burial"}, {"id": "11899", "link": "/find?type=1&query=burial-ground", "word": "burial-ground"}, {"id": "11900", "link": "/find?type=1&query=burial-mound", "word": "burial-mound"}, {"id": "11901", "link": "/find?type=1&query=burial-service", "word": "burial-service"}, {"id": "11902", "link": "/find?type=1&query=buried", "word": "buried"}, {"id": "11903", "link": "/find?type=1&query=buried+cable", "word": "buried cable"}, {"id": "11904", "link": "/find?type=1&query=buried+layer", "word": "buried layer"}, {"id": "11905", "link": "/find?type=1&query=burier", "word": "burier"}, {"id": "11906", "link": "/find?type=1&query=burin", "word": "burin"}], "data": {}}, "en_en": {"suggests": [{"id": "3705", "link": "/find?type=3&query=burial", "word": "burial"}], "data": {}}, "synonyms": {"suggests": [{"id": "777", "link": "/find?type=4&query=burial", "word": "burial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3705",
+                "link": "/find?type=3&query=burial",
+                "word": "burial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11898",
+                "link": "/find?type=1&query=burial",
+                "word": "burial"
+            },
+            {
+                "id": "11899",
+                "link": "/find?type=1&query=burial-ground",
+                "word": "burial-ground"
+            },
+            {
+                "id": "11900",
+                "link": "/find?type=1&query=burial-mound",
+                "word": "burial-mound"
+            },
+            {
+                "id": "11901",
+                "link": "/find?type=1&query=burial-service",
+                "word": "burial-service"
+            },
+            {
+                "id": "11902",
+                "link": "/find?type=1&query=buried",
+                "word": "buried"
+            },
+            {
+                "id": "11903",
+                "link": "/find?type=1&query=buried+cable",
+                "word": "buried cable"
+            },
+            {
+                "id": "11904",
+                "link": "/find?type=1&query=buried+layer",
+                "word": "buried layer"
+            },
+            {
+                "id": "11905",
+                "link": "/find?type=1&query=burier",
+                "word": "burier"
+            },
+            {
+                "id": "11906",
+                "link": "/find?type=1&query=burin",
+                "word": "burin"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "777",
+                "link": "/find?type=4&query=burial",
+                "word": "burial"
+            }
+        ]
+    }
+}

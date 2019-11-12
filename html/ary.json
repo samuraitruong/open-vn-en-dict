@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "5847", "link": "/find?type=1&query=Aryan", "word": "Aryan"}, {"id": "5848", "link": "/find?type=1&query=arytenoid", "word": "arytenoid"}, {"id": "104564", "link": "/find?type=1&query=-ary", "word": "-ary"}], "data": {}}, "en_en": {"suggests": [{"id": "1404", "link": "/find?type=3&query=-ary", "word": "-ary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1404",
+                "link": "/find?type=3&query=-ary",
+                "word": "-ary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5847",
+                "link": "/find?type=1&query=Aryan",
+                "word": "Aryan"
+            },
+            {
+                "id": "5848",
+                "link": "/find?type=1&query=arytenoid",
+                "word": "arytenoid"
+            },
+            {
+                "id": "104564",
+                "link": "/find?type=1&query=-ary",
+                "word": "-ary"
+            }
+        ]
+    }
+}

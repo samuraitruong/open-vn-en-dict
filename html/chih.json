@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14878", "link": "/find?type=1&query=chihuahua", "word": "chihuahua"}], "data": {}}, "en_en": {"suggests": [{"id": "4765", "link": "/find?type=3&query=Chihuahua", "word": "Chihuahua"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4765",
+                "link": "/find?type=3&query=Chihuahua",
+                "word": "Chihuahua"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14878",
+                "link": "/find?type=1&query=chihuahua",
+                "word": "chihuahua"
+            }
+        ]
+    }
+}

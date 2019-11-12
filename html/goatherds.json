@@ -1,1 +1,28 @@
-{"error": 0, "query": "goatherds", "enViData": {"suggests": [], "best": {"id": "40518", "details": "\n<div id=\"find_word_40518\" class=\"world word_en\" rel=\"goatherd\">\n    <h2 class=\"fl\">goatherd <span class=\"color-black\">/'g\u0259\u028ath\u025c:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40518\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40518\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ch\u0103n d\u00ea</div>\n    \n</div>\n", "link": "/find?type=1&query=goatherd", "word": "goatherd"}}, "mUrl": "/find?type=1&query=goatherds", "enEnData": {"suggests": [], "best": {"id": "12228", "details": "\n<div id=\"find_word_12228\" class=\"world word_en\" rel=\"goatherd\">\n    <h2 class=\"fl\">goatherd <span class=\"color-black\">/\u02c8go\u028at\u02cch\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12228\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12228\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -herds</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who watches over a herd of goats</div>\n    \n</div>\n", "link": "/find?type=3&query=goatherd", "word": "goatherd"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -herds</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who watches over a herd of goats</div>",
+            "id": "12228",
+            "mean": [],
+            "pronounce": "/\u02c8go\u028at\u02cch\u025ad/",
+            "type": "noun",
+            "word": "goatherd"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ch\u0103n d\u00ea</div>",
+            "id": "40518",
+            "mean": [],
+            "pronounce": "/'g\u0259\u028ath\u025c:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/947d6f21ee34bed3b86f1930fd3643d1/16e610b7ed0/G/goatherd.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1123afd730a281afbdc2a21f65cdd011/16e610b76a2/G/goatherd.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "goatherd"
+        },
+        "suggests": []
+    }
+}

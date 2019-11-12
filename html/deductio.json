@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23341", "link": "/find?type=1&query=deduction", "word": "deduction"}], "data": {}}, "en_en": {"suggests": [{"id": "7449", "link": "/find?type=3&query=deduction", "word": "deduction"}], "data": {}}, "synonyms": {"suggests": [{"id": "1469", "link": "/find?type=4&query=deduction", "word": "deduction"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7449",
+                "link": "/find?type=3&query=deduction",
+                "word": "deduction"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23341",
+                "link": "/find?type=1&query=deduction",
+                "word": "deduction"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1469",
+                "link": "/find?type=4&query=deduction",
+                "word": "deduction"
+            }
+        ]
+    }
+}

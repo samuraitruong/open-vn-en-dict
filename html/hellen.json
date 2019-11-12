@@ -1,1 +1,42 @@
-{"error": 0, "query": "hellen", "enViData": {"suggests": [{"id": "43464", "link": "/find?type=1&query=Hellene", "word": "Hellene"}, {"id": "43465", "link": "/find?type=1&query=Hellenic", "word": "Hellenic"}, {"id": "43466", "link": "/find?type=1&query=hellenism", "word": "hellenism"}, {"id": "43467", "link": "/find?type=1&query=hellenist", "word": "hellenist"}, {"id": "43468", "link": "/find?type=1&query=Hellenistic", "word": "Hellenistic"}]}, "mUrl": "/find?type=1&query=hellen", "enEnData": {"suggests": [{"id": "13385", "link": "/find?type=3&query=Hellenic", "word": "Hellenic"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13385",
+                "link": "/find?type=3&query=Hellenic",
+                "word": "Hellenic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43464",
+                "link": "/find?type=1&query=Hellene",
+                "word": "Hellene"
+            },
+            {
+                "id": "43465",
+                "link": "/find?type=1&query=Hellenic",
+                "word": "Hellenic"
+            },
+            {
+                "id": "43466",
+                "link": "/find?type=1&query=hellenism",
+                "word": "hellenism"
+            },
+            {
+                "id": "43467",
+                "link": "/find?type=1&query=hellenist",
+                "word": "hellenist"
+            },
+            {
+                "id": "43468",
+                "link": "/find?type=1&query=Hellenistic",
+                "word": "Hellenistic"
+            }
+        ]
+    }
+}

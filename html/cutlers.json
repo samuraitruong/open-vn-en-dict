@@ -1,1 +1,38 @@
-{"en_vn": {"suggests": [{"id": "22011", "link": "/find?type=1&query=cutler+feed", "word": "cutler feed"}, {"id": "22011", "link": "/find?type=1&query=cutlery", "word": "cutlery"}], "data": {"word": "cutler", "id": "22011", "pronounce": "/'k\u028ctl\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u00e0m dao k\u00e9o</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi b\u00e1n dao k\u00e9o</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c7dd632c6a72b081fd4d6b2d6d7392d2/16e5dfdfb9a/C/cutler.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7f83a3da9b46b6a65280d128f5a13a23/16e5dfe0179/C/cutler.mp3"}}}, "en_en": {"suggests": [{"id": "7074", "link": "/find?type=3&query=cutlery", "word": "cutlery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7074",
+                "link": "/find?type=3&query=cutlery",
+                "word": "cutlery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u00e0m dao k\u00e9o</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi b\u00e1n dao k\u00e9o</div>",
+            "id": "22011",
+            "mean": [],
+            "pronounce": "/'k\u028ctl\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/02a070484690abcec55c16cd1a676126/16e5ee438b4/C/cutler.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d9a09ef33e90b79a66122ff4517f84eb/16e5ee42fbd/C/cutler.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cutler"
+        },
+        "suggests": [
+            {
+                "id": "22011",
+                "link": "/find?type=1&query=cutler+feed",
+                "word": "cutler feed"
+            },
+            {
+                "id": "22011",
+                "link": "/find?type=1&query=cutlery",
+                "word": "cutlery"
+            }
+        ]
+    }
+}

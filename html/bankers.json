@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "8031", "link": "/find?type=1&query=banker%27s+order", "word": "banker's order"}, {"id": "8031", "link": "/find?type=1&query=bankerly", "word": "bankerly"}], "data": {"word": "banker", "id": "8031", "pronounce": "/'b\u00e6\u014bk\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee7 ng\u00e2n h\u00e0ng</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ea7m c\u00e1i (ch\u01a1i c\u1edd b\u1ea1c)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1e1d3c4ff0a952b4ad3f872065b925ac/16e5dd104e3/B/banker.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/86ee21a708facb5295f4fc69bf994aa4/16e5dd10adc/B/banker.mp3"}}}, "en_en": {"suggests": [{"id": "2002", "link": "/find?type=3&query=banker%27s+card", "word": "banker's card"}], "data": {"word": "banker", "id": "2002", "pronounce": "/\u02c8b\u00e6\u014bk\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who owns a bank or who has an important job in a bank</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who owns a bank or who has an important job in a bank</div>",
+            "id": "2002",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6\u014bk\u025a/",
+            "type": "noun",
+            "word": "banker"
+        },
+        "suggests": [
+            {
+                "id": "2002",
+                "link": "/find?type=3&query=banker%27s+card",
+                "word": "banker's card"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee7 ng\u00e2n h\u00e0ng</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ea7m c\u00e1i (ch\u01a1i c\u1edd b\u1ea1c)</div>",
+            "id": "8031",
+            "mean": [],
+            "pronounce": "/'b\u00e6\u014bk\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4b29d5902f14ef2095fb789668943ede/16e5eb3e361/B/banker.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/33eda32679a365639afdb1a6ba8b49e2/16e5eb3db2a/B/banker.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "banker"
+        },
+        "suggests": [
+            {
+                "id": "8031",
+                "link": "/find?type=1&query=banker%27s+order",
+                "word": "banker's order"
+            },
+            {
+                "id": "8031",
+                "link": "/find?type=1&query=bankerly",
+                "word": "bankerly"
+            }
+        ]
+    }
+}

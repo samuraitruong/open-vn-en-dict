@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "3058", "link": "/find?type=1&query=ambiguity", "word": "ambiguity"}, {"id": "3059", "link": "/find?type=1&query=ambiguity+function", "word": "ambiguity function"}, {"id": "3060", "link": "/find?type=1&query=ambiguous", "word": "ambiguous"}, {"id": "3061", "link": "/find?type=1&query=ambiguous+definition", "word": "ambiguous definition"}, {"id": "3062", "link": "/find?type=1&query=ambiguously", "word": "ambiguously"}, {"id": "3063", "link": "/find?type=1&query=ambiguousness", "word": "ambiguousness"}], "data": {}}, "en_en": {"suggests": [{"id": "801", "link": "/find?type=3&query=ambiguity", "word": "ambiguity"}, {"id": "802", "link": "/find?type=3&query=ambiguous", "word": "ambiguous"}], "data": {}}, "synonyms": {"suggests": [{"id": "224", "link": "/find?type=4&query=ambiguity", "word": "ambiguity"}, {"id": "225", "link": "/find?type=4&query=ambiguous", "word": "ambiguous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "801",
+                "link": "/find?type=3&query=ambiguity",
+                "word": "ambiguity"
+            },
+            {
+                "id": "802",
+                "link": "/find?type=3&query=ambiguous",
+                "word": "ambiguous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3058",
+                "link": "/find?type=1&query=ambiguity",
+                "word": "ambiguity"
+            },
+            {
+                "id": "3059",
+                "link": "/find?type=1&query=ambiguity+function",
+                "word": "ambiguity function"
+            },
+            {
+                "id": "3060",
+                "link": "/find?type=1&query=ambiguous",
+                "word": "ambiguous"
+            },
+            {
+                "id": "3061",
+                "link": "/find?type=1&query=ambiguous+definition",
+                "word": "ambiguous definition"
+            },
+            {
+                "id": "3062",
+                "link": "/find?type=1&query=ambiguously",
+                "word": "ambiguously"
+            },
+            {
+                "id": "3063",
+                "link": "/find?type=1&query=ambiguousness",
+                "word": "ambiguousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "224",
+                "link": "/find?type=4&query=ambiguity",
+                "word": "ambiguity"
+            },
+            {
+                "id": "225",
+                "link": "/find?type=4&query=ambiguous",
+                "word": "ambiguous"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "10252", "link": "/find?type=1&query=boccie", "word": "boccie"}], "data": {}}, "en_en": {"suggests": [{"id": "3001", "link": "/find?type=3&query=boccie", "word": "boccie"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3001",
+                "link": "/find?type=3&query=boccie",
+                "word": "boccie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10252",
+                "link": "/find?type=1&query=boccie",
+                "word": "boccie"
+            }
+        ]
+    }
+}

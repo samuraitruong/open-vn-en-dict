@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "20155", "link": "/find?type=1&query=cosset", "word": "cosset"}], "data": {}}, "en_en": {"suggests": [{"id": "6399", "link": "/find?type=3&query=cosset", "word": "cosset"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6399",
+                "link": "/find?type=3&query=cosset",
+                "word": "cosset"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20155",
+                "link": "/find?type=1&query=cosset",
+                "word": "cosset"
+            }
+        ]
+    }
+}

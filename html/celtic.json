@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "13975", "link": "/find?type=1&query=celticism", "word": "celticism"}, {"id": "13975", "link": "/find?type=1&query=celticist", "word": "celticist"}], "data": {"word": "Celtic", "id": "13975", "pronounce": "/'keltik/", "type": "Danh t\u1eeb T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng Celt</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Celt</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/da70dd3e319671ca47b88e20bc64f3a9/16e5de64484/C/Celtic.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/3ba5bcd593744aa6e29cebfcb70efdeb/16e5de64a22/C/Celtic.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "Celtic", "id": "4410", "pronounce": "/\u02c8k\u025blt\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to the Celts or their languages</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Celtic music/history</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Celtic languages</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to the Celts or their languages</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Celtic music/history</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Celtic languages</div>",
+            "id": "4410",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025blt\u026ak/",
+            "type": "adjective",
+            "word": "Celtic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng Celt</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Celt</div>",
+            "id": "13975",
+            "mean": [],
+            "pronounce": "/'keltik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9fad23011974c88448a0ef62286b5699/16e5ec70b97/C/Celtic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f10fcd26db76015f6bd6be7a3d65dd29/16e5ec70658/C/Celtic.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "Celtic"
+        },
+        "suggests": [
+            {
+                "id": "13975",
+                "link": "/find?type=1&query=celticism",
+                "word": "celticism"
+            },
+            {
+                "id": "13975",
+                "link": "/find?type=1&query=celticist",
+                "word": "celticist"
+            }
+        ]
+    }
+}

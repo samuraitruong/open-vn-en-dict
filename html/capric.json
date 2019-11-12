@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "13007", "link": "/find?type=1&query=capriccio", "word": "capriccio"}, {"id": "13008", "link": "/find?type=1&query=caprice", "word": "caprice"}, {"id": "13009", "link": "/find?type=1&query=capricious", "word": "capricious"}, {"id": "13010", "link": "/find?type=1&query=capriciously", "word": "capriciously"}, {"id": "13011", "link": "/find?type=1&query=capriciousness", "word": "capriciousness"}, {"id": "13012", "link": "/find?type=1&query=capricorn", "word": "capricorn"}], "data": {}}, "en_en": {"suggests": [{"id": "4069", "link": "/find?type=3&query=caprice", "word": "caprice"}, {"id": "4070", "link": "/find?type=3&query=capricious", "word": "capricious"}, {"id": "4071", "link": "/find?type=3&query=Capricorn", "word": "Capricorn"}], "data": {}}, "synonyms": {"suggests": [{"id": "854", "link": "/find?type=4&query=capricious", "word": "capricious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4069",
+                "link": "/find?type=3&query=caprice",
+                "word": "caprice"
+            },
+            {
+                "id": "4070",
+                "link": "/find?type=3&query=capricious",
+                "word": "capricious"
+            },
+            {
+                "id": "4071",
+                "link": "/find?type=3&query=Capricorn",
+                "word": "Capricorn"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13007",
+                "link": "/find?type=1&query=capriccio",
+                "word": "capriccio"
+            },
+            {
+                "id": "13008",
+                "link": "/find?type=1&query=caprice",
+                "word": "caprice"
+            },
+            {
+                "id": "13009",
+                "link": "/find?type=1&query=capricious",
+                "word": "capricious"
+            },
+            {
+                "id": "13010",
+                "link": "/find?type=1&query=capriciously",
+                "word": "capriciously"
+            },
+            {
+                "id": "13011",
+                "link": "/find?type=1&query=capriciousness",
+                "word": "capriciousness"
+            },
+            {
+                "id": "13012",
+                "link": "/find?type=1&query=capricorn",
+                "word": "capricorn"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "854",
+                "link": "/find?type=4&query=capricious",
+                "word": "capricious"
+            }
+        ]
+    }
+}

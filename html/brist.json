@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "11304", "link": "/find?type=1&query=bristle", "word": "bristle"}, {"id": "11305", "link": "/find?type=1&query=bristletail", "word": "bristletail"}, {"id": "11306", "link": "/find?type=1&query=bristly", "word": "bristly"}, {"id": "11307", "link": "/find?type=1&query=bristol+board", "word": "bristol board"}], "data": {}}, "en_en": {"suggests": [{"id": "3457", "link": "/find?type=3&query=bristle", "word": "bristle"}], "data": {}}, "synonyms": {"suggests": [{"id": "721", "link": "/find?type=4&query=bristle", "word": "bristle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3457",
+                "link": "/find?type=3&query=bristle",
+                "word": "bristle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11304",
+                "link": "/find?type=1&query=bristle",
+                "word": "bristle"
+            },
+            {
+                "id": "11305",
+                "link": "/find?type=1&query=bristletail",
+                "word": "bristletail"
+            },
+            {
+                "id": "11306",
+                "link": "/find?type=1&query=bristly",
+                "word": "bristly"
+            },
+            {
+                "id": "11307",
+                "link": "/find?type=1&query=bristol+board",
+                "word": "bristol board"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "721",
+                "link": "/find?type=4&query=bristle",
+                "word": "bristle"
+            }
+        ]
+    }
+}

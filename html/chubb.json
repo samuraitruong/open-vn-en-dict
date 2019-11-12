@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "15329", "link": "/find?type=1&query=chubbily", "word": "chubbily"}, {"id": "15330", "link": "/find?type=1&query=chubbiness", "word": "chubbiness"}, {"id": "15331", "link": "/find?type=1&query=chubby", "word": "chubby"}], "data": {}}, "en_en": {"suggests": [{"id": "4933", "link": "/find?type=3&query=chubby", "word": "chubby"}], "data": {}}, "synonyms": {"suggests": [{"id": "1001", "link": "/find?type=4&query=chubby", "word": "chubby"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4933",
+                "link": "/find?type=3&query=chubby",
+                "word": "chubby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15329",
+                "link": "/find?type=1&query=chubbily",
+                "word": "chubbily"
+            },
+            {
+                "id": "15330",
+                "link": "/find?type=1&query=chubbiness",
+                "word": "chubbiness"
+            },
+            {
+                "id": "15331",
+                "link": "/find?type=1&query=chubby",
+                "word": "chubby"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1001",
+                "link": "/find?type=4&query=chubby",
+                "word": "chubby"
+            }
+        ]
+    }
+}

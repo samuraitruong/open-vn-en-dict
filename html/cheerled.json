@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "14683", "link": "/find?type=1&query=cheerless", "word": "cheerless"}, {"id": "14684", "link": "/find?type=1&query=cheerlessly", "word": "cheerlessly"}, {"id": "14685", "link": "/find?type=1&query=cheerlessness", "word": "cheerlessness"}], "data": {}}, "en_en": {"suggests": [{"id": "4686", "link": "/find?type=3&query=cheerleader", "word": "cheerleader"}, {"id": "4687", "link": "/find?type=3&query=cheerless", "word": "cheerless"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4686",
+                "link": "/find?type=3&query=cheerleader",
+                "word": "cheerleader"
+            },
+            {
+                "id": "4687",
+                "link": "/find?type=3&query=cheerless",
+                "word": "cheerless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14683",
+                "link": "/find?type=1&query=cheerless",
+                "word": "cheerless"
+            },
+            {
+                "id": "14684",
+                "link": "/find?type=1&query=cheerlessly",
+                "word": "cheerlessly"
+            },
+            {
+                "id": "14685",
+                "link": "/find?type=1&query=cheerlessness",
+                "word": "cheerlessness"
+            }
+        ]
+    }
+}

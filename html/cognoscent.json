@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "16830", "link": "/find?type=1&query=cognoscente", "word": "cognoscente"}], "data": {}}, "en_en": {"suggests": [{"id": "5433", "link": "/find?type=3&query=cognoscenti", "word": "cognoscenti"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5433",
+                "link": "/find?type=3&query=cognoscenti",
+                "word": "cognoscenti"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16830",
+                "link": "/find?type=1&query=cognoscente",
+                "word": "cognoscente"
+            }
+        ]
+    }
+}

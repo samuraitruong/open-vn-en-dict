@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27388", "link": "/find?type=1&query=dowager", "word": "dowager"}], "data": {}}, "en_en": {"suggests": [{"id": "8689", "link": "/find?type=3&query=dowager", "word": "dowager"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8689",
+                "link": "/find?type=3&query=dowager",
+                "word": "dowager"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27388",
+                "link": "/find?type=1&query=dowager",
+                "word": "dowager"
+            }
+        ]
+    }
+}

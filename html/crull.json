@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21375", "link": "/find?type=1&query=cruller", "word": "cruller"}], "data": {}}, "en_en": {"suggests": [{"id": "6889", "link": "/find?type=3&query=cruller", "word": "cruller"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6889",
+                "link": "/find?type=3&query=cruller",
+                "word": "cruller"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21375",
+                "link": "/find?type=1&query=cruller",
+                "word": "cruller"
+            }
+        ]
+    }
+}

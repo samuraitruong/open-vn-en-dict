@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "11294", "link": "/find?type=1&query=brioche", "word": "brioche"}, {"id": "11294", "link": "/find?type=1&query=briony", "word": "briony"}], "data": {"word": "brio", "id": "11294", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 s\u00f4i n\u1ed5i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/e1d8935e1ee807f00db99b544e39d55b/16e5ddd23bb/B/brio.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0ee147bb3d5520d1de92c829910fac2c/16e5ddd297d/B/brio.mp3"}}}, "en_en": {"suggests": [{"id": "3453", "link": "/find?type=3&query=brioche", "word": "brioche"}], "data": {"word": "brio", "id": "3453", "pronounce": "/\u02c8bri\u02d0jo\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :great energy and confidence</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She sings with brio.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :great energy and confidence</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She sings with brio.</div>",
+            "id": "3453",
+            "mean": [],
+            "pronounce": "/\u02c8bri\u02d0jo\u028a/",
+            "type": "noun",
+            "word": "brio"
+        },
+        "suggests": [
+            {
+                "id": "3453",
+                "link": "/find?type=3&query=brioche",
+                "word": "brioche"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 s\u00f4i n\u1ed5i</div>",
+            "id": "11294",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ae25fa0698924f90af11e3668342a5d7/16e5ebebae3/B/brio.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/279d102366e661452a62ffbd7d700351/16e5ebeb59d/B/brio.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "brio"
+        },
+        "suggests": [
+            {
+                "id": "11294",
+                "link": "/find?type=1&query=brioche",
+                "word": "brioche"
+            },
+            {
+                "id": "11294",
+                "link": "/find?type=1&query=briony",
+                "word": "briony"
+            }
+        ]
+    }
+}

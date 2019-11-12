@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "20480", "link": "/find?type=1&query=courier", "word": "courier"}], "data": {}}, "en_en": {"suggests": [{"id": "6517", "link": "/find?type=3&query=courier", "word": "courier"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6517",
+                "link": "/find?type=3&query=courier",
+                "word": "courier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20480",
+                "link": "/find?type=1&query=courier",
+                "word": "courier"
+            }
+        ]
+    }
+}

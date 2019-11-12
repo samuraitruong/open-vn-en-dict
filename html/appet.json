@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "5039", "link": "/find?type=1&query=appetence", "word": "appetence"}, {"id": "5040", "link": "/find?type=1&query=appetency", "word": "appetency"}, {"id": "5041", "link": "/find?type=1&query=appetite", "word": "appetite"}, {"id": "5042", "link": "/find?type=1&query=appetitive", "word": "appetitive"}, {"id": "5043", "link": "/find?type=1&query=appetizer%2C+appetiser", "word": "appetizer, appetiser"}, {"id": "5044", "link": "/find?type=1&query=appetizing%2C+appetising", "word": "appetizing, appetising"}, {"id": "5045", "link": "/find?type=1&query=appetizingly%2C+appetisingly", "word": "appetizingly, appetisingly"}], "data": {}}, "en_en": {"suggests": [{"id": "1164", "link": "/find?type=3&query=appetite", "word": "appetite"}, {"id": "1165", "link": "/find?type=3&query=appetizer", "word": "appetizer"}, {"id": "1166", "link": "/find?type=3&query=appetizing", "word": "appetizing"}], "data": {}}, "synonyms": {"suggests": [{"id": "286", "link": "/find?type=4&query=appetite", "word": "appetite"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1164",
+                "link": "/find?type=3&query=appetite",
+                "word": "appetite"
+            },
+            {
+                "id": "1165",
+                "link": "/find?type=3&query=appetizer",
+                "word": "appetizer"
+            },
+            {
+                "id": "1166",
+                "link": "/find?type=3&query=appetizing",
+                "word": "appetizing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5039",
+                "link": "/find?type=1&query=appetence",
+                "word": "appetence"
+            },
+            {
+                "id": "5040",
+                "link": "/find?type=1&query=appetency",
+                "word": "appetency"
+            },
+            {
+                "id": "5041",
+                "link": "/find?type=1&query=appetite",
+                "word": "appetite"
+            },
+            {
+                "id": "5042",
+                "link": "/find?type=1&query=appetitive",
+                "word": "appetitive"
+            },
+            {
+                "id": "5043",
+                "link": "/find?type=1&query=appetizer%2C+appetiser",
+                "word": "appetizer, appetiser"
+            },
+            {
+                "id": "5044",
+                "link": "/find?type=1&query=appetizing%2C+appetising",
+                "word": "appetizing, appetising"
+            },
+            {
+                "id": "5045",
+                "link": "/find?type=1&query=appetizingly%2C+appetisingly",
+                "word": "appetizingly, appetisingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "286",
+                "link": "/find?type=4&query=appetite",
+                "word": "appetite"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "21420", "link": "/find?type=1&query=crutch", "word": "crutch"}, {"id": "21421", "link": "/find?type=1&query=crutched", "word": "crutched"}], "data": {}}, "en_en": {"suggests": [{"id": "6908", "link": "/find?type=3&query=crutch", "word": "crutch"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6908",
+                "link": "/find?type=3&query=crutch",
+                "word": "crutch"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21420",
+                "link": "/find?type=1&query=crutch",
+                "word": "crutch"
+            },
+            {
+                "id": "21421",
+                "link": "/find?type=1&query=crutched",
+                "word": "crutched"
+            }
+        ]
+    }
+}

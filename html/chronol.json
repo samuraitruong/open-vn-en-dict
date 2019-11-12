@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "15307", "link": "/find?type=1&query=chronologic", "word": "chronologic"}, {"id": "15308", "link": "/find?type=1&query=chronological", "word": "chronological"}, {"id": "15309", "link": "/find?type=1&query=chronologically", "word": "chronologically"}, {"id": "15310", "link": "/find?type=1&query=chronologist", "word": "chronologist"}, {"id": "15311", "link": "/find?type=1&query=chronology", "word": "chronology"}], "data": {}}, "en_en": {"suggests": [{"id": "4928", "link": "/find?type=3&query=chronological", "word": "chronological"}, {"id": "4929", "link": "/find?type=3&query=chronology", "word": "chronology"}], "data": {}}, "synonyms": {"suggests": [{"id": "1000", "link": "/find?type=4&query=chronology", "word": "chronology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4928",
+                "link": "/find?type=3&query=chronological",
+                "word": "chronological"
+            },
+            {
+                "id": "4929",
+                "link": "/find?type=3&query=chronology",
+                "word": "chronology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15307",
+                "link": "/find?type=1&query=chronologic",
+                "word": "chronologic"
+            },
+            {
+                "id": "15308",
+                "link": "/find?type=1&query=chronological",
+                "word": "chronological"
+            },
+            {
+                "id": "15309",
+                "link": "/find?type=1&query=chronologically",
+                "word": "chronologically"
+            },
+            {
+                "id": "15310",
+                "link": "/find?type=1&query=chronologist",
+                "word": "chronologist"
+            },
+            {
+                "id": "15311",
+                "link": "/find?type=1&query=chronology",
+                "word": "chronology"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1000",
+                "link": "/find?type=4&query=chronology",
+                "word": "chronology"
+            }
+        ]
+    }
+}

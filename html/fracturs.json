@@ -1,1 +1,37 @@
-{"error": 0, "query": "fracturs", "enViData": {"suggests": [{"id": "37619", "link": "/find?type=1&query=fracture", "word": "fracture"}]}, "mUrl": "/find?type=1&query=fracturs", "enEnData": {"suggests": [{"id": "11349", "link": "/find?type=3&query=fracture", "word": "fracture"}, {"id": "11350", "link": "/find?type=3&query=fractured", "word": "fractured"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2821", "link": "/find?type=4&query=fracture", "word": "fracture"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11349",
+                "link": "/find?type=3&query=fracture",
+                "word": "fracture"
+            },
+            {
+                "id": "11350",
+                "link": "/find?type=3&query=fractured",
+                "word": "fractured"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37619",
+                "link": "/find?type=1&query=fracture",
+                "word": "fracture"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2821",
+                "link": "/find?type=4&query=fracture",
+                "word": "fracture"
+            }
+        ]
+    }
+}

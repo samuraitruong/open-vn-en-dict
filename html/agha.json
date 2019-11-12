@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2033", "link": "/find?type=1&query=aghast", "word": "aghast"}], "data": {}}, "en_en": {"suggests": [{"id": "517", "link": "/find?type=3&query=aghast", "word": "aghast"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "517",
+                "link": "/find?type=3&query=aghast",
+                "word": "aghast"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2033",
+                "link": "/find?type=1&query=aghast",
+                "word": "aghast"
+            }
+        ]
+    }
+}

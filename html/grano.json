@@ -1,1 +1,42 @@
-{"error": 0, "query": "grano", "enViData": {"suggests": [{"id": "41105", "link": "/find?type=1&query=granodiorite", "word": "granodiorite"}, {"id": "41106", "link": "/find?type=1&query=granolith", "word": "granolith"}, {"id": "41107", "link": "/find?type=1&query=granolithic", "word": "granolithic"}, {"id": "41108", "link": "/find?type=1&query=granoscaling", "word": "granoscaling"}, {"id": "41109", "link": "/find?type=1&query=granose", "word": "granose"}]}, "mUrl": "/find?type=1&query=grano", "enEnData": {"suggests": [{"id": "12485", "link": "/find?type=3&query=granola", "word": "granola"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12485",
+                "link": "/find?type=3&query=granola",
+                "word": "granola"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41105",
+                "link": "/find?type=1&query=granodiorite",
+                "word": "granodiorite"
+            },
+            {
+                "id": "41106",
+                "link": "/find?type=1&query=granolith",
+                "word": "granolith"
+            },
+            {
+                "id": "41107",
+                "link": "/find?type=1&query=granolithic",
+                "word": "granolithic"
+            },
+            {
+                "id": "41108",
+                "link": "/find?type=1&query=granoscaling",
+                "word": "granoscaling"
+            },
+            {
+                "id": "41109",
+                "link": "/find?type=1&query=granose",
+                "word": "granose"
+            }
+        ]
+    }
+}

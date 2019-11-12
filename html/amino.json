@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "3190", "link": "/find?type=1&query=amino-acid", "word": "amino-acid"}], "data": {}}, "en_en": {"suggests": [{"id": "838", "link": "/find?type=3&query=amino+acid", "word": "amino acid"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "838",
+                "link": "/find?type=3&query=amino+acid",
+                "word": "amino acid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3190",
+                "link": "/find?type=1&query=amino-acid",
+                "word": "amino-acid"
+            }
+        ]
+    }
+}

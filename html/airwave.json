@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2316", "link": "/find?type=1&query=airwaves", "word": "airwaves"}], "data": {}}, "en_en": {"suggests": [{"id": "609", "link": "/find?type=3&query=airwaves", "word": "airwaves"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "609",
+                "link": "/find?type=3&query=airwaves",
+                "word": "airwaves"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2316",
+                "link": "/find?type=1&query=airwaves",
+                "word": "airwaves"
+            }
+        ]
+    }
+}

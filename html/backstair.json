@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7632", "link": "/find?type=1&query=backstairs", "word": "backstairs"}], "data": {}}, "en_en": {"suggests": [{"id": "1839", "link": "/find?type=3&query=backstairs", "word": "backstairs"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1839",
+                "link": "/find?type=3&query=backstairs",
+                "word": "backstairs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7632",
+                "link": "/find?type=1&query=backstairs",
+                "word": "backstairs"
+            }
+        ]
+    }
+}

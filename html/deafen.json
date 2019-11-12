@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "22843", "link": "/find?type=1&query=deafener", "word": "deafener"}, {"id": "22843", "link": "/find?type=1&query=deafening", "word": "deafening"}, {"id": "22843", "link": "/find?type=1&query=deafeningly", "word": "deafeningly"}], "data": {"word": "deafen", "id": "22843", "pronounce": "/'defn/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m \u0111i\u1ebfc tai, l\u00e0m inh tai</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">we were deafened by the noise</div>\n    \n    <div class=\"margin25\">ch\u00fang t\u00f4i b\u1ecb ti\u1ebfng \u1ed3n \u1ea5y l\u00e0m inh tai</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m cho b\u1ecb \u0111i\u1ebfc</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the head injury deafened her for life</div>\n    \n    <div class=\"margin25\">ch\u1ea5n th\u01b0\u01a1ng \u1edf \u0111\u1ea7u l\u00e0m cho ch\u1ecb ta \u0111i\u1ebfc su\u1ed1t \u0111\u1eddi</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/96f0bbdea555635c265236c9ab29175b/16e5dff8fd7/D/deafen.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/98d06b260b5c784c5803382cf5789b57/16e5dff95b4/D/deafen.mp3"}}}, "en_en": {"suggests": [{"id": "7303", "link": "/find?type=3&query=deafening", "word": "deafening"}], "data": {"word": "deafen", "id": "7303", "pronounce": "/\u02c8d\u025bf\u0259n/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ens; -ened; -ening</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to make (someone) unable to hear</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We were deafened by the explosion.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-ens; -ened; -ening</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to make (someone) unable to hear</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We were deafened by the explosion.</div>",
+            "id": "7303",
+            "mean": [],
+            "pronounce": "/\u02c8d\u025bf\u0259n/",
+            "type": "verb",
+            "word": "deafen"
+        },
+        "suggests": [
+            {
+                "id": "7303",
+                "link": "/find?type=3&query=deafening",
+                "word": "deafening"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m \u0111i\u1ebfc tai, l\u00e0m inh tai</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">we were deafened by the noise</div>\n    \n    <div class=\"margin25\">ch\u00fang t\u00f4i b\u1ecb ti\u1ebfng \u1ed3n \u1ea5y l\u00e0m inh tai</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m cho b\u1ecb \u0111i\u1ebfc</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the head injury deafened her for life</div>\n    \n    <div class=\"margin25\">ch\u1ea5n th\u01b0\u01a1ng \u1edf \u0111\u1ea7u l\u00e0m cho ch\u1ecb ta \u0111i\u1ebfc su\u1ed1t \u0111\u1eddi</div>",
+            "id": "22843",
+            "mean": [],
+            "pronounce": "/'defn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c6b47cb77e302d1abadaca64187d5bd3/16e5ee65d7c/D/deafen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/620add4ac5537f49337383678d21d6c4/16e5ee654aa/D/deafen.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "deafen"
+        },
+        "suggests": [
+            {
+                "id": "22843",
+                "link": "/find?type=1&query=deafener",
+                "word": "deafener"
+            },
+            {
+                "id": "22843",
+                "link": "/find?type=1&query=deafening",
+                "word": "deafening"
+            },
+            {
+                "id": "22843",
+                "link": "/find?type=1&query=deafeningly",
+                "word": "deafeningly"
+            }
+        ]
+    }
+}

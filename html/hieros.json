@@ -1,1 +1,77 @@
-{"error": 0, "query": "hieros", "enViData": {"suggests": [{"id": "43923", "link": "/find?type=1&query=hierocracy", "word": "hierocracy"}, {"id": "43924", "link": "/find?type=1&query=hierodule", "word": "hierodule"}, {"id": "43925", "link": "/find?type=1&query=hierodulic", "word": "hierodulic"}, {"id": "43926", "link": "/find?type=1&query=hieroglyph", "word": "hieroglyph"}, {"id": "43927", "link": "/find?type=1&query=hieroglyphic", "word": "hieroglyphic"}, {"id": "43928", "link": "/find?type=1&query=hieroglyphics", "word": "hieroglyphics"}, {"id": "43929", "link": "/find?type=1&query=hierogram", "word": "hierogram"}, {"id": "43930", "link": "/find?type=1&query=hierograph", "word": "hierograph"}, {"id": "43931", "link": "/find?type=1&query=hierolatry", "word": "hierolatry"}, {"id": "43932", "link": "/find?type=1&query=hierophant", "word": "hierophant"}]}, "mUrl": "/find?type=1&query=hieros", "enEnData": {"suggests": [{"id": "13520", "link": "/find?type=3&query=hieroglyph", "word": "hieroglyph"}, {"id": "13521", "link": "/find?type=3&query=hieroglyphic", "word": "hieroglyphic"}, {"id": "13522", "link": "/find?type=3&query=hieroglyphics", "word": "hieroglyphics"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13520",
+                "link": "/find?type=3&query=hieroglyph",
+                "word": "hieroglyph"
+            },
+            {
+                "id": "13521",
+                "link": "/find?type=3&query=hieroglyphic",
+                "word": "hieroglyphic"
+            },
+            {
+                "id": "13522",
+                "link": "/find?type=3&query=hieroglyphics",
+                "word": "hieroglyphics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43923",
+                "link": "/find?type=1&query=hierocracy",
+                "word": "hierocracy"
+            },
+            {
+                "id": "43924",
+                "link": "/find?type=1&query=hierodule",
+                "word": "hierodule"
+            },
+            {
+                "id": "43925",
+                "link": "/find?type=1&query=hierodulic",
+                "word": "hierodulic"
+            },
+            {
+                "id": "43926",
+                "link": "/find?type=1&query=hieroglyph",
+                "word": "hieroglyph"
+            },
+            {
+                "id": "43927",
+                "link": "/find?type=1&query=hieroglyphic",
+                "word": "hieroglyphic"
+            },
+            {
+                "id": "43928",
+                "link": "/find?type=1&query=hieroglyphics",
+                "word": "hieroglyphics"
+            },
+            {
+                "id": "43929",
+                "link": "/find?type=1&query=hierogram",
+                "word": "hierogram"
+            },
+            {
+                "id": "43930",
+                "link": "/find?type=1&query=hierograph",
+                "word": "hierograph"
+            },
+            {
+                "id": "43931",
+                "link": "/find?type=1&query=hierolatry",
+                "word": "hierolatry"
+            },
+            {
+                "id": "43932",
+                "link": "/find?type=1&query=hierophant",
+                "word": "hierophant"
+            }
+        ]
+    }
+}

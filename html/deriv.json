@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "24323", "link": "/find?type=1&query=derivable", "word": "derivable"}, {"id": "24324", "link": "/find?type=1&query=derivate", "word": "derivate"}, {"id": "24325", "link": "/find?type=1&query=derivation", "word": "derivation"}, {"id": "24326", "link": "/find?type=1&query=derivational", "word": "derivational"}, {"id": "24327", "link": "/find?type=1&query=derivationist", "word": "derivationist"}, {"id": "24328", "link": "/find?type=1&query=derivative", "word": "derivative"}, {"id": "24329", "link": "/find?type=1&query=derivatively", "word": "derivatively"}, {"id": "24330", "link": "/find?type=1&query=derivativeness", "word": "derivativeness"}, {"id": "24331", "link": "/find?type=1&query=derive", "word": "derive"}, {"id": "24332", "link": "/find?type=1&query=Derived+demand", "word": "Derived demand"}], "data": {}}, "en_en": {"suggests": [{"id": "7731", "link": "/find?type=3&query=derivation", "word": "derivation"}, {"id": "7732", "link": "/find?type=3&query=derivative", "word": "derivative"}, {"id": "7733", "link": "/find?type=3&query=derive", "word": "derive"}], "data": {}}, "synonyms": {"suggests": [{"id": "1560", "link": "/find?type=4&query=derivation", "word": "derivation"}, {"id": "1561", "link": "/find?type=4&query=derivative", "word": "derivative"}, {"id": "1562", "link": "/find?type=4&query=derive", "word": "derive"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7731",
+                "link": "/find?type=3&query=derivation",
+                "word": "derivation"
+            },
+            {
+                "id": "7732",
+                "link": "/find?type=3&query=derivative",
+                "word": "derivative"
+            },
+            {
+                "id": "7733",
+                "link": "/find?type=3&query=derive",
+                "word": "derive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24323",
+                "link": "/find?type=1&query=derivable",
+                "word": "derivable"
+            },
+            {
+                "id": "24324",
+                "link": "/find?type=1&query=derivate",
+                "word": "derivate"
+            },
+            {
+                "id": "24325",
+                "link": "/find?type=1&query=derivation",
+                "word": "derivation"
+            },
+            {
+                "id": "24326",
+                "link": "/find?type=1&query=derivational",
+                "word": "derivational"
+            },
+            {
+                "id": "24327",
+                "link": "/find?type=1&query=derivationist",
+                "word": "derivationist"
+            },
+            {
+                "id": "24328",
+                "link": "/find?type=1&query=derivative",
+                "word": "derivative"
+            },
+            {
+                "id": "24329",
+                "link": "/find?type=1&query=derivatively",
+                "word": "derivatively"
+            },
+            {
+                "id": "24330",
+                "link": "/find?type=1&query=derivativeness",
+                "word": "derivativeness"
+            },
+            {
+                "id": "24331",
+                "link": "/find?type=1&query=derive",
+                "word": "derive"
+            },
+            {
+                "id": "24332",
+                "link": "/find?type=1&query=Derived+demand",
+                "word": "Derived demand"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1560",
+                "link": "/find?type=4&query=derivation",
+                "word": "derivation"
+            },
+            {
+                "id": "1561",
+                "link": "/find?type=4&query=derivative",
+                "word": "derivative"
+            },
+            {
+                "id": "1562",
+                "link": "/find?type=4&query=derive",
+                "word": "derive"
+            }
+        ]
+    }
+}

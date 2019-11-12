@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "16177", "link": "/find?type=1&query=clodhopper", "word": "clodhopper"}], "data": {}}, "en_en": {"suggests": [{"id": "5219", "link": "/find?type=3&query=clodhopper", "word": "clodhopper"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5219",
+                "link": "/find?type=3&query=clodhopper",
+                "word": "clodhopper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16177",
+                "link": "/find?type=1&query=clodhopper",
+                "word": "clodhopper"
+            }
+        ]
+    }
+}

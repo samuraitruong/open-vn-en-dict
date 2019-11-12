@@ -1,1 +1,34 @@
-{"error": 0, "query": "glaucoma", "enViData": {"suggests": [{"id": "40168", "link": "/find?type=1&query=glaucomatous", "word": "glaucomatous"}], "best": {"id": "40168", "details": "\n<div id=\"find_word_40168\" class=\"world word_en\" rel=\"glaucoma\">\n    <h2 class=\"fl\">glaucoma <span class=\"color-black\">/gl\u0254:'k\u0259\u028am\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40168\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40168\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh t\u0103ng nh\u00e3n \u00e1p, b\u1ec7nh glocom</div>\n    \n</div>\n", "link": "/find?type=1&query=glaucoma", "word": "glaucoma"}}, "mUrl": "/find?type=1&query=glaucoma", "enEnData": {"suggests": [], "best": {"id": "12136", "details": "\n<div id=\"find_word_12136\" class=\"world word_en\" rel=\"glaucoma\">\n    <h2 class=\"fl\">glaucoma <span class=\"color-black\">/gla\u028a\u02c8ko\u028am\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\">/gl\u0251\u02c8ko\u028am\u0259/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12136\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12136\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a disease in which pressure inside the eye causes gradual loss of vision</div>\n    \n</div>\n", "link": "/find?type=3&query=glaucoma", "word": "glaucoma"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a disease in which pressure inside the eye causes gradual loss of vision</div>",
+            "id": "12136",
+            "mean": [],
+            "pronounce": "/gla\u028a\u02c8ko\u028am\u0259/",
+            "type": "noun",
+            "word": "glaucoma"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh t\u0103ng nh\u00e3n \u00e1p, b\u1ec7nh glocom</div>",
+            "id": "40168",
+            "mean": [],
+            "pronounce": "/gl\u0254:'k\u0259\u028am\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1747e5703a368b28cbcad46d6e2138b5/16e60fc5bb9/G/glaucoma.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/56091f8830ac0fb80fab5546cfce6ff5/16e60fc5318/G/glaucoma.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "glaucoma"
+        },
+        "suggests": [
+            {
+                "id": "40168",
+                "link": "/find?type=1&query=glaucomatous",
+                "word": "glaucomatous"
+            }
+        ]
+    }
+}

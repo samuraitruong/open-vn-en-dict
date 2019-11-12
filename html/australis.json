@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "6734", "link": "/find?type=1&query=Australia", "word": "Australia"}, {"id": "6735", "link": "/find?type=1&query=Australian", "word": "Australian"}, {"id": "6736", "link": "/find?type=1&query=Australian+Rules", "word": "Australian Rules"}], "data": {}}, "en_en": {"suggests": [{"id": "1667", "link": "/find?type=3&query=Australian", "word": "Australian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1667",
+                "link": "/find?type=3&query=Australian",
+                "word": "Australian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6734",
+                "link": "/find?type=1&query=Australia",
+                "word": "Australia"
+            },
+            {
+                "id": "6735",
+                "link": "/find?type=1&query=Australian",
+                "word": "Australian"
+            },
+            {
+                "id": "6736",
+                "link": "/find?type=1&query=Australian+Rules",
+                "word": "Australian Rules"
+            }
+        ]
+    }
+}

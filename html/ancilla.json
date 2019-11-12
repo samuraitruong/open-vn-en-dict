@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "3661", "link": "/find?type=1&query=ancillary", "word": "ancillary"}], "data": {}}, "en_en": {"suggests": [{"id": "916", "link": "/find?type=3&query=ancillary", "word": "ancillary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "916",
+                "link": "/find?type=3&query=ancillary",
+                "word": "ancillary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3661",
+                "link": "/find?type=1&query=ancillary",
+                "word": "ancillary"
+            }
+        ]
+    }
+}

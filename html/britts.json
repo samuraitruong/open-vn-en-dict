@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "11320", "link": "/find?type=1&query=Brittle", "word": "Brittle"}, {"id": "11321", "link": "/find?type=1&query=brittle+program", "word": "brittle program"}, {"id": "11322", "link": "/find?type=1&query=brittlely", "word": "brittlely"}, {"id": "11323", "link": "/find?type=1&query=brittleness", "word": "brittleness"}], "data": {}}, "en_en": {"suggests": [{"id": "3465", "link": "/find?type=3&query=brittle", "word": "brittle"}], "data": {}}, "synonyms": {"suggests": [{"id": "722", "link": "/find?type=4&query=brittle", "word": "brittle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3465",
+                "link": "/find?type=3&query=brittle",
+                "word": "brittle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11320",
+                "link": "/find?type=1&query=Brittle",
+                "word": "Brittle"
+            },
+            {
+                "id": "11321",
+                "link": "/find?type=1&query=brittle+program",
+                "word": "brittle program"
+            },
+            {
+                "id": "11322",
+                "link": "/find?type=1&query=brittlely",
+                "word": "brittlely"
+            },
+            {
+                "id": "11323",
+                "link": "/find?type=1&query=brittleness",
+                "word": "brittleness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "722",
+                "link": "/find?type=4&query=brittle",
+                "word": "brittle"
+            }
+        ]
+    }
+}

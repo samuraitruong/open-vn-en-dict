@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "3204", "link": "/find?type=1&query=ammoniac", "word": "ammoniac"}, {"id": "3204", "link": "/find?type=1&query=ammoniacal", "word": "ammoniacal"}], "data": {"word": "ammonia", "id": "3204", "pronounce": "/\u0259'm\u0259\u028ani\u0259/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">ammoniac</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/3aa550809f5ddaa09b0fff538e607055/16e5dc2288c/A/ammonia.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/593b51bf229ba16d61043d281d0bc413/16e5dc22e5d/A/ammonia.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "ammonia", "id": "843", "pronounce": "/\u0259\u02c8mo\u028anj\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a colorless gas or liquid that has a strong smell and taste and that is used especially in cleaning products</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a colorless gas or liquid that has a strong smell and taste and that is used especially in cleaning products</div>",
+            "id": "843",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8mo\u028anj\u0259/",
+            "type": "noun",
+            "word": "ammonia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">ammoniac</div>",
+            "id": "3204",
+            "mean": [],
+            "pronounce": "/\u0259'm\u0259\u028ani\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d912561095b4beb27a56bb5b827898c0/16e5ea675fe/A/ammonia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cbbedf8882e95fe6525835a85351ea69/16e5ea670e0/A/ammonia.mp3"
+            },
+            "type": "",
+            "word": "ammonia"
+        },
+        "suggests": [
+            {
+                "id": "3204",
+                "link": "/find?type=1&query=ammoniac",
+                "word": "ammoniac"
+            },
+            {
+                "id": "3204",
+                "link": "/find?type=1&query=ammoniacal",
+                "word": "ammoniacal"
+            }
+        ]
+    }
+}

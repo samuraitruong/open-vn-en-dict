@@ -1,1 +1,27 @@
-{"error": 0, "query": "halas", "enViData": {"suggests": [{"id": "42418", "link": "/find?type=1&query=halal", "word": "halal"}, {"id": "42419", "link": "/find?type=1&query=halation", "word": "halation"}]}, "mUrl": "/find?type=1&query=halas", "enEnData": {"suggests": [{"id": "12898", "link": "/find?type=3&query=halal", "word": "halal"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12898",
+                "link": "/find?type=3&query=halal",
+                "word": "halal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42418",
+                "link": "/find?type=1&query=halal",
+                "word": "halal"
+            },
+            {
+                "id": "42419",
+                "link": "/find?type=1&query=halation",
+                "word": "halation"
+            }
+        ]
+    }
+}

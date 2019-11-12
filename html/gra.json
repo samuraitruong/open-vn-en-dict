@@ -1,1 +1,167 @@
-{"error": 0, "query": "gra", "enViData": {"suggests": [{"id": "40908", "link": "/find?type=1&query=grab", "word": "grab"}, {"id": "40909", "link": "/find?type=1&query=grab-all", "word": "grab-all"}, {"id": "40910", "link": "/find?type=1&query=grabber", "word": "grabber"}, {"id": "40911", "link": "/find?type=1&query=grabble", "word": "grabble"}, {"id": "40912", "link": "/find?type=1&query=grabbly", "word": "grabbly"}, {"id": "40913", "link": "/find?type=1&query=graben", "word": "graben"}, {"id": "40914", "link": "/find?type=1&query=grace", "word": "grace"}, {"id": "40915", "link": "/find?type=1&query=grace-cup", "word": "grace-cup"}, {"id": "40916", "link": "/find?type=1&query=grace-note", "word": "grace-note"}, {"id": "40917", "link": "/find?type=1&query=graceful", "word": "graceful"}]}, "mUrl": "/find?type=1&query=gra", "enEnData": {"suggests": [{"id": "12407", "link": "/find?type=3&query=grab", "word": "grab"}, {"id": "12408", "link": "/find?type=3&query=grab+bag", "word": "grab bag"}, {"id": "12409", "link": "/find?type=3&query=grabby", "word": "grabby"}, {"id": "12410", "link": "/find?type=3&query=grace", "word": "grace"}, {"id": "12411", "link": "/find?type=3&query=grace+period", "word": "grace period"}, {"id": "12412", "link": "/find?type=3&query=graceful", "word": "graceful"}, {"id": "12413", "link": "/find?type=3&query=graceless", "word": "graceless"}, {"id": "12414", "link": "/find?type=3&query=gracious", "word": "gracious"}, {"id": "12415", "link": "/find?type=3&query=grackle", "word": "grackle"}, {"id": "12416", "link": "/find?type=3&query=grad", "word": "grad"}]}, "viEnData": {"suggests": [{"id": "14305", "link": "/find?type=2&query=gram", "word": "gram"}, {"id": "14306", "link": "/find?type=2&query=gra-n%C3%ADt", "word": "gra-n\u00edt"}, {"id": "14307", "link": "/find?type=2&query=gra-ph%C3%ADt", "word": "gra-ph\u00edt"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3066", "link": "/find?type=4&query=grab", "word": "grab"}, {"id": "3067", "link": "/find?type=4&query=grace", "word": "grace"}, {"id": "3068", "link": "/find?type=4&query=graceful", "word": "graceful"}, {"id": "3069", "link": "/find?type=4&query=gracious", "word": "gracious"}, {"id": "3070", "link": "/find?type=4&query=grade", "word": "grade"}, {"id": "3071", "link": "/find?type=4&query=gradual", "word": "gradual"}, {"id": "3072", "link": "/find?type=4&query=gradually", "word": "gradually"}, {"id": "3073", "link": "/find?type=4&query=graduate", "word": "graduate"}, {"id": "3074", "link": "/find?type=4&query=graft", "word": "graft"}, {"id": "3075", "link": "/find?type=4&query=grain", "word": "grain"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12407",
+                "link": "/find?type=3&query=grab",
+                "word": "grab"
+            },
+            {
+                "id": "12408",
+                "link": "/find?type=3&query=grab+bag",
+                "word": "grab bag"
+            },
+            {
+                "id": "12409",
+                "link": "/find?type=3&query=grabby",
+                "word": "grabby"
+            },
+            {
+                "id": "12410",
+                "link": "/find?type=3&query=grace",
+                "word": "grace"
+            },
+            {
+                "id": "12411",
+                "link": "/find?type=3&query=grace+period",
+                "word": "grace period"
+            },
+            {
+                "id": "12412",
+                "link": "/find?type=3&query=graceful",
+                "word": "graceful"
+            },
+            {
+                "id": "12413",
+                "link": "/find?type=3&query=graceless",
+                "word": "graceless"
+            },
+            {
+                "id": "12414",
+                "link": "/find?type=3&query=gracious",
+                "word": "gracious"
+            },
+            {
+                "id": "12415",
+                "link": "/find?type=3&query=grackle",
+                "word": "grackle"
+            },
+            {
+                "id": "12416",
+                "link": "/find?type=3&query=grad",
+                "word": "grad"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40908",
+                "link": "/find?type=1&query=grab",
+                "word": "grab"
+            },
+            {
+                "id": "40909",
+                "link": "/find?type=1&query=grab-all",
+                "word": "grab-all"
+            },
+            {
+                "id": "40910",
+                "link": "/find?type=1&query=grabber",
+                "word": "grabber"
+            },
+            {
+                "id": "40911",
+                "link": "/find?type=1&query=grabble",
+                "word": "grabble"
+            },
+            {
+                "id": "40912",
+                "link": "/find?type=1&query=grabbly",
+                "word": "grabbly"
+            },
+            {
+                "id": "40913",
+                "link": "/find?type=1&query=graben",
+                "word": "graben"
+            },
+            {
+                "id": "40914",
+                "link": "/find?type=1&query=grace",
+                "word": "grace"
+            },
+            {
+                "id": "40915",
+                "link": "/find?type=1&query=grace-cup",
+                "word": "grace-cup"
+            },
+            {
+                "id": "40916",
+                "link": "/find?type=1&query=grace-note",
+                "word": "grace-note"
+            },
+            {
+                "id": "40917",
+                "link": "/find?type=1&query=graceful",
+                "word": "graceful"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3066",
+                "link": "/find?type=4&query=grab",
+                "word": "grab"
+            },
+            {
+                "id": "3067",
+                "link": "/find?type=4&query=grace",
+                "word": "grace"
+            },
+            {
+                "id": "3068",
+                "link": "/find?type=4&query=graceful",
+                "word": "graceful"
+            },
+            {
+                "id": "3069",
+                "link": "/find?type=4&query=gracious",
+                "word": "gracious"
+            },
+            {
+                "id": "3070",
+                "link": "/find?type=4&query=grade",
+                "word": "grade"
+            },
+            {
+                "id": "3071",
+                "link": "/find?type=4&query=gradual",
+                "word": "gradual"
+            },
+            {
+                "id": "3072",
+                "link": "/find?type=4&query=gradually",
+                "word": "gradually"
+            },
+            {
+                "id": "3073",
+                "link": "/find?type=4&query=graduate",
+                "word": "graduate"
+            },
+            {
+                "id": "3074",
+                "link": "/find?type=4&query=graft",
+                "word": "graft"
+            },
+            {
+                "id": "3075",
+                "link": "/find?type=4&query=grain",
+                "word": "grain"
+            }
+        ]
+    }
+}

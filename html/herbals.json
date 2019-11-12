@@ -1,1 +1,40 @@
-{"error": 0, "query": "herbals", "enViData": {"suggests": [{"id": "43626", "link": "/find?type=1&query=herbalist", "word": "herbalist"}], "best": {"id": "43626", "details": "\n<div id=\"find_word_43626\" class=\"world word_en\" rel=\"herbal\">\n    <h2 class=\"fl\">herbal <span class=\"color-black\">/'h\u025c:bl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43626\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43626\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u00e2y th\u00e2n th\u1ea3o, [thu\u1ed9c] c\u1ecf</div>\n    \n</div>\n", "link": "/find?type=1&query=herbal", "word": "herbal"}}, "mUrl": "/find?type=1&query=herbals", "enEnData": {"suggests": [{"id": "13440", "link": "/find?type=3&query=herbalist", "word": "herbalist"}], "best": {"id": "13440", "details": "\n<div id=\"find_word_13440\" class=\"world word_en\" rel=\"herbal\">\n    <h2 class=\"fl\">herbal <span class=\"color-black\">/\u02c8\u025ab\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8h\u0259\u02d0b\u0259l/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13440\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13440\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">made of or relating to herbs</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">herbal tea/supplements</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a doctor who practices herbal medicine [=the use of herbs to treat illness]</div>\n    \n</div>\n", "link": "/find?type=3&query=herbal", "word": "herbal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">made of or relating to herbs</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">herbal tea/supplements</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a doctor who practices herbal medicine [=the use of herbs to treat illness]</div>",
+            "id": "13440",
+            "mean": [],
+            "pronounce": "/\u02c8\u025ab\u0259l/",
+            "type": "adjective",
+            "word": "herbal"
+        },
+        "suggests": [
+            {
+                "id": "13440",
+                "link": "/find?type=3&query=herbalist",
+                "word": "herbalist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u00e2y th\u00e2n th\u1ea3o, [thu\u1ed9c] c\u1ecf</div>",
+            "id": "43626",
+            "mean": [],
+            "pronounce": "/'h\u025c:bl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7e76967e360544cfad6fde014250d377/16e618e3079/H/herbal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/384a2e9526796a6e07ff3b31f2d3abf0/16e618e2889/H/herbal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "herbal"
+        },
+        "suggests": [
+            {
+                "id": "43626",
+                "link": "/find?type=1&query=herbalist",
+                "word": "herbalist"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "14501", "link": "/find?type=1&query=charioteer", "word": "charioteer"}], "data": {"word": "chariot", "id": "14501", "pronounce": "/'t\u222b\u00e6rist/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u1ed5) xe ng\u1ef1a hai b\u00e1nh (\u0111\u1ec3 \u0111\u00e1nh tr\u1eadn hay ch\u1ea1y \u0111ua)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/233e55029005d2f56ff8a8f549d0c534/16e5de81d2c/C/chariot.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/fa6adbf8cddaf5b270c3882040980fc2/16e5de822ea/C/chariot.mp3"}}}, "en_en": {"suggests": [{"id": "4609", "link": "/find?type=3&query=charioteer", "word": "charioteer"}], "data": {"word": "chariot", "id": "4609", "pronounce": "/\u02c8\u02a7erij\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ots</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a carriage with two wheels that was pulled by horses and was raced and used in battle in ancient times</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a chariot race</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ots</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a carriage with two wheels that was pulled by horses and was raced and used in battle in ancient times</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a chariot race</div>",
+            "id": "4609",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7erij\u0259t/",
+            "type": "noun",
+            "word": "chariot"
+        },
+        "suggests": [
+            {
+                "id": "4609",
+                "link": "/find?type=3&query=charioteer",
+                "word": "charioteer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u1ed5) xe ng\u1ef1a hai b\u00e1nh (\u0111\u1ec3 \u0111\u00e1nh tr\u1eadn hay ch\u1ea1y \u0111ua)</div>",
+            "id": "14501",
+            "mean": [],
+            "pronounce": "/'t\u222b\u00e6rist/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e0d31a42506b1d27e5c0c0b8c4ed88c4/16e5ec8bd3b/C/chariot.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0617cebb3e06c82c59ad16e220821cb3/16e5ec8b81a/C/chariot.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "chariot"
+        },
+        "suggests": [
+            {
+                "id": "14501",
+                "link": "/find?type=1&query=charioteer",
+                "word": "charioteer"
+            }
+        ]
+    }
+}

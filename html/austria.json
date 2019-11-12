@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "6739", "link": "/find?type=1&query=austrian", "word": "austrian"}, {"id": "6740", "link": "/find?type=1&query=Austrian+school", "word": "Austrian school"}], "data": {}}, "en_en": {"suggests": [{"id": "1668", "link": "/find?type=3&query=Austrian", "word": "Austrian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1668",
+                "link": "/find?type=3&query=Austrian",
+                "word": "Austrian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6739",
+                "link": "/find?type=1&query=austrian",
+                "word": "austrian"
+            },
+            {
+                "id": "6740",
+                "link": "/find?type=1&query=Austrian+school",
+                "word": "Austrian school"
+            }
+        ]
+    }
+}

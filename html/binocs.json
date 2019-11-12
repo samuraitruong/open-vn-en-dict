@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "9358", "link": "/find?type=1&query=binocular", "word": "binocular"}, {"id": "9359", "link": "/find?type=1&query=binocular+vision", "word": "binocular vision"}, {"id": "9360", "link": "/find?type=1&query=binoculars", "word": "binoculars"}], "data": {}}, "en_en": {"suggests": [{"id": "2627", "link": "/find?type=3&query=binocular", "word": "binocular"}, {"id": "2628", "link": "/find?type=3&query=binoculars", "word": "binoculars"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2627",
+                "link": "/find?type=3&query=binocular",
+                "word": "binocular"
+            },
+            {
+                "id": "2628",
+                "link": "/find?type=3&query=binoculars",
+                "word": "binoculars"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9358",
+                "link": "/find?type=1&query=binocular",
+                "word": "binocular"
+            },
+            {
+                "id": "9359",
+                "link": "/find?type=1&query=binocular+vision",
+                "word": "binocular vision"
+            },
+            {
+                "id": "9360",
+                "link": "/find?type=1&query=binoculars",
+                "word": "binoculars"
+            }
+        ]
+    }
+}

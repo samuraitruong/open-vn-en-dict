@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "18795", "link": "/find?type=1&query=conscientious", "word": "conscientious"}, {"id": "18796", "link": "/find?type=1&query=conscientious+objector", "word": "conscientious objector"}, {"id": "18797", "link": "/find?type=1&query=conscientiously", "word": "conscientiously"}, {"id": "18798", "link": "/find?type=1&query=conscientiousness", "word": "conscientiousness"}], "data": {}}, "en_en": {"suggests": [{"id": "5985", "link": "/find?type=3&query=conscientious", "word": "conscientious"}, {"id": "5986", "link": "/find?type=3&query=conscientious+objector", "word": "conscientious objector"}], "data": {}}, "synonyms": {"suggests": [{"id": "1196", "link": "/find?type=4&query=conscientious", "word": "conscientious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5985",
+                "link": "/find?type=3&query=conscientious",
+                "word": "conscientious"
+            },
+            {
+                "id": "5986",
+                "link": "/find?type=3&query=conscientious+objector",
+                "word": "conscientious objector"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18795",
+                "link": "/find?type=1&query=conscientious",
+                "word": "conscientious"
+            },
+            {
+                "id": "18796",
+                "link": "/find?type=1&query=conscientious+objector",
+                "word": "conscientious objector"
+            },
+            {
+                "id": "18797",
+                "link": "/find?type=1&query=conscientiously",
+                "word": "conscientiously"
+            },
+            {
+                "id": "18798",
+                "link": "/find?type=1&query=conscientiousness",
+                "word": "conscientiousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1196",
+                "link": "/find?type=4&query=conscientious",
+                "word": "conscientious"
+            }
+        ]
+    }
+}

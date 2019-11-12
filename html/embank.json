@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "29936", "link": "/find?type=1&query=embankment", "word": "embankment"}], "data": {"word": "embank", "id": "29936", "pronounce": "/em'b\u00e6\u0273k/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1eafn (s\u00f4ng... b\u1eb1ng \u0111\u00e1...); \u0111\u1eafp cao (\u0111\u01b0\u1eddng)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9392", "link": "/find?type=3&query=embankment", "word": "embankment"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9392",
+                "link": "/find?type=3&query=embankment",
+                "word": "embankment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1eafn (s\u00f4ng... b\u1eb1ng \u0111\u00e1...); \u0111\u1eafp cao (\u0111\u01b0\u1eddng)</div>",
+            "id": "29936",
+            "mean": [],
+            "pronounce": "/em'b\u00e6\u0273k/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "embank"
+        },
+        "suggests": [
+            {
+                "id": "29936",
+                "link": "/find?type=1&query=embankment",
+                "word": "embankment"
+            }
+        ]
+    }
+}

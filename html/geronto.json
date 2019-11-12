@@ -1,1 +1,42 @@
-{"error": 0, "query": "geronto", "enViData": {"suggests": [{"id": "39791", "link": "/find?type=1&query=gerontocracy", "word": "gerontocracy"}, {"id": "39792", "link": "/find?type=1&query=gerontocrat", "word": "gerontocrat"}, {"id": "39793", "link": "/find?type=1&query=gerontologic", "word": "gerontologic"}, {"id": "39794", "link": "/find?type=1&query=gerontologist", "word": "gerontologist"}, {"id": "39795", "link": "/find?type=1&query=gerontology", "word": "gerontology"}]}, "mUrl": "/find?type=1&query=geronto", "enEnData": {"suggests": [{"id": "12011", "link": "/find?type=3&query=gerontology", "word": "gerontology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12011",
+                "link": "/find?type=3&query=gerontology",
+                "word": "gerontology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39791",
+                "link": "/find?type=1&query=gerontocracy",
+                "word": "gerontocracy"
+            },
+            {
+                "id": "39792",
+                "link": "/find?type=1&query=gerontocrat",
+                "word": "gerontocrat"
+            },
+            {
+                "id": "39793",
+                "link": "/find?type=1&query=gerontologic",
+                "word": "gerontologic"
+            },
+            {
+                "id": "39794",
+                "link": "/find?type=1&query=gerontologist",
+                "word": "gerontologist"
+            },
+            {
+                "id": "39795",
+                "link": "/find?type=1&query=gerontology",
+                "word": "gerontology"
+            }
+        ]
+    }
+}

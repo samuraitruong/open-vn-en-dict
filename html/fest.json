@@ -1,1 +1,107 @@
-{"en_vn": {"suggests": [{"id": "34877", "link": "/find?type=1&query=festal", "word": "festal"}, {"id": "34878", "link": "/find?type=1&query=fester", "word": "fester"}, {"id": "34879", "link": "/find?type=1&query=festinate", "word": "festinate"}, {"id": "34880", "link": "/find?type=1&query=festination", "word": "festination"}, {"id": "34881", "link": "/find?type=1&query=festival", "word": "festival"}, {"id": "34882", "link": "/find?type=1&query=festive", "word": "festive"}, {"id": "34883", "link": "/find?type=1&query=festivity", "word": "festivity"}, {"id": "34884", "link": "/find?type=1&query=festoon", "word": "festoon"}, {"id": "34885", "link": "/find?type=1&query=festoonery", "word": "festoonery"}, {"id": "34886", "link": "/find?type=1&query=festschrift", "word": "festschrift"}], "data": {}}, "en_en": {"suggests": [{"id": "10498", "link": "/find?type=3&query=fester", "word": "fester"}, {"id": "10499", "link": "/find?type=3&query=festival", "word": "festival"}, {"id": "10500", "link": "/find?type=3&query=festive", "word": "festive"}, {"id": "10501", "link": "/find?type=3&query=festivity", "word": "festivity"}, {"id": "10502", "link": "/find?type=3&query=festoon", "word": "festoon"}], "data": {}}, "synonyms": {"suggests": [{"id": "2581", "link": "/find?type=4&query=fester", "word": "fester"}, {"id": "2582", "link": "/find?type=4&query=festival", "word": "festival"}, {"id": "2583", "link": "/find?type=4&query=festivity", "word": "festivity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10498",
+                "link": "/find?type=3&query=fester",
+                "word": "fester"
+            },
+            {
+                "id": "10499",
+                "link": "/find?type=3&query=festival",
+                "word": "festival"
+            },
+            {
+                "id": "10500",
+                "link": "/find?type=3&query=festive",
+                "word": "festive"
+            },
+            {
+                "id": "10501",
+                "link": "/find?type=3&query=festivity",
+                "word": "festivity"
+            },
+            {
+                "id": "10502",
+                "link": "/find?type=3&query=festoon",
+                "word": "festoon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34877",
+                "link": "/find?type=1&query=festal",
+                "word": "festal"
+            },
+            {
+                "id": "34878",
+                "link": "/find?type=1&query=fester",
+                "word": "fester"
+            },
+            {
+                "id": "34879",
+                "link": "/find?type=1&query=festinate",
+                "word": "festinate"
+            },
+            {
+                "id": "34880",
+                "link": "/find?type=1&query=festination",
+                "word": "festination"
+            },
+            {
+                "id": "34881",
+                "link": "/find?type=1&query=festival",
+                "word": "festival"
+            },
+            {
+                "id": "34882",
+                "link": "/find?type=1&query=festive",
+                "word": "festive"
+            },
+            {
+                "id": "34883",
+                "link": "/find?type=1&query=festivity",
+                "word": "festivity"
+            },
+            {
+                "id": "34884",
+                "link": "/find?type=1&query=festoon",
+                "word": "festoon"
+            },
+            {
+                "id": "34885",
+                "link": "/find?type=1&query=festoonery",
+                "word": "festoonery"
+            },
+            {
+                "id": "34886",
+                "link": "/find?type=1&query=festschrift",
+                "word": "festschrift"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2581",
+                "link": "/find?type=4&query=fester",
+                "word": "fester"
+            },
+            {
+                "id": "2582",
+                "link": "/find?type=4&query=festival",
+                "word": "festival"
+            },
+            {
+                "id": "2583",
+                "link": "/find?type=4&query=festivity",
+                "word": "festivity"
+            }
+        ]
+    }
+}

@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "30836", "link": "/find?type=1&query=enrapture", "word": "enrapture"}, {"id": "30836", "link": "/find?type=1&query=enrapturement", "word": "enrapturement"}], "data": {"word": "enrapt", "id": "30836", "pronounce": "", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eebng qu\u00fdnh; m\u00ea th\u00edch</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9596", "link": "/find?type=3&query=enrapture", "word": "enrapture"}], "data": {}}, "synonyms": {"suggests": [{"id": "2180", "link": "/find?type=4&query=enrapture", "word": "enrapture"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9596",
+                "link": "/find?type=3&query=enrapture",
+                "word": "enrapture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eebng qu\u00fdnh; m\u00ea th\u00edch</div>",
+            "id": "30836",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "enrapt"
+        },
+        "suggests": [
+            {
+                "id": "30836",
+                "link": "/find?type=1&query=enrapture",
+                "word": "enrapture"
+            },
+            {
+                "id": "30836",
+                "link": "/find?type=1&query=enrapturement",
+                "word": "enrapturement"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2180",
+                "link": "/find?type=4&query=enrapture",
+                "word": "enrapture"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "6104", "link": "/find?type=1&query=assignation", "word": "assignation"}, {"id": "6105", "link": "/find?type=1&query=assignational", "word": "assignational"}], "data": {}}, "en_en": {"suggests": [{"id": "1483", "link": "/find?type=3&query=assignation", "word": "assignation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1483",
+                "link": "/find?type=3&query=assignation",
+                "word": "assignation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6104",
+                "link": "/find?type=1&query=assignation",
+                "word": "assignation"
+            },
+            {
+                "id": "6105",
+                "link": "/find?type=1&query=assignational",
+                "word": "assignational"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "10797", "link": "/find?type=1&query=bowser", "word": "bowser"}], "data": {}}, "en_en": {"suggests": [{"id": "3267", "link": "/find?type=3&query=bowstring", "word": "bowstring"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3267",
+                "link": "/find?type=3&query=bowstring",
+                "word": "bowstring"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10797",
+                "link": "/find?type=1&query=bowser",
+                "word": "bowser"
+            }
+        ]
+    }
+}

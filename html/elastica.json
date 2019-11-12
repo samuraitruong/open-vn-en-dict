@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "29190", "link": "/find?type=1&query=elastically", "word": "elastically"}, {"id": "29191", "link": "/find?type=1&query=elasticate", "word": "elasticate"}, {"id": "29192", "link": "/find?type=1&query=elasticated", "word": "elasticated"}], "data": {}}, "en_en": {"suggests": [{"id": "9291", "link": "/find?type=3&query=elasticated", "word": "elasticated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9291",
+                "link": "/find?type=3&query=elasticated",
+                "word": "elasticated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29190",
+                "link": "/find?type=1&query=elastically",
+                "word": "elastically"
+            },
+            {
+                "id": "29191",
+                "link": "/find?type=1&query=elasticate",
+                "word": "elasticate"
+            },
+            {
+                "id": "29192",
+                "link": "/find?type=1&query=elasticated",
+                "word": "elasticated"
+            }
+        ]
+    }
+}

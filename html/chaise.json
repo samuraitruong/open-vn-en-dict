@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "14310", "link": "/find?type=1&query=chaise+longue", "word": "chaise longue"}], "data": {"word": "chaise", "id": "14310", "pronounce": "/\u0283eiz/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">danh t\u1eeb (t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4526", "link": "/find?type=3&query=chaise+longue", "word": "chaise longue"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4526",
+                "link": "/find?type=3&query=chaise+longue",
+                "word": "chaise longue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">danh t\u1eeb (t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5)</div>",
+            "id": "14310",
+            "mean": [],
+            "pronounce": "/\u0283eiz/",
+            "speak": {},
+            "type": "",
+            "word": "chaise"
+        },
+        "suggests": [
+            {
+                "id": "14310",
+                "link": "/find?type=1&query=chaise+longue",
+                "word": "chaise longue"
+            }
+        ]
+    }
+}

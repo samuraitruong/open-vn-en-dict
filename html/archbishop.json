@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "5369", "link": "/find?type=1&query=archbishopric", "word": "archbishopric"}], "data": {"word": "archbishop", "id": "5369", "pronounce": "/,\u0251:t\u222b'bi\u222b\u0259p/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed5ng gi\u00e1m m\u1ee5c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8611330096a3dbcdd7005847b891793f/16e5dc91d04/A/archbishop.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/962b40250be90726705fe73c2f14fa71/16e5dc922e2/A/archbishop.mp3"}}}, "en_en": {"suggests": [{"id": "1265", "link": "/find?type=3&query=archbishopric", "word": "archbishopric"}], "data": {"word": "archbishop", "id": "1265", "pronounce": "/\u0251\u025a\u02a7\u02c8b\u026a\u0283\u0259p/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ops</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the bishop of highest rank in a particular area</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ops</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the bishop of highest rank in a particular area</div>",
+            "id": "1265",
+            "mean": [],
+            "pronounce": "/\u0251\u025a\u02a7\u02c8b\u026a\u0283\u0259p/",
+            "type": "noun",
+            "word": "archbishop"
+        },
+        "suggests": [
+            {
+                "id": "1265",
+                "link": "/find?type=3&query=archbishopric",
+                "word": "archbishopric"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed5ng gi\u00e1m m\u1ee5c</div>",
+            "id": "5369",
+            "mean": [],
+            "pronounce": "/,\u0251:t\u222b'bi\u222b\u0259p/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3a60a63cc738c76f0ac7db5b59db7445/16e5eac7671/A/archbishop.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9cdffea63ba93d27797a7058ccff1b0f/16e5eac7048/A/archbishop.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "archbishop"
+        },
+        "suggests": [
+            {
+                "id": "5369",
+                "link": "/find?type=1&query=archbishopric",
+                "word": "archbishopric"
+            }
+        ]
+    }
+}

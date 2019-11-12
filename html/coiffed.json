@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "16864", "link": "/find?type=1&query=coiffeur", "word": "coiffeur"}, {"id": "16865", "link": "/find?type=1&query=coiffeuse", "word": "coiffeuse"}], "data": {}}, "en_en": {"suggests": [{"id": "5442", "link": "/find?type=3&query=coiffure", "word": "coiffure"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5442",
+                "link": "/find?type=3&query=coiffure",
+                "word": "coiffure"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16864",
+                "link": "/find?type=1&query=coiffeur",
+                "word": "coiffeur"
+            },
+            {
+                "id": "16865",
+                "link": "/find?type=1&query=coiffeuse",
+                "word": "coiffeuse"
+            }
+        ]
+    }
+}

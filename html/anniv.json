@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "4008", "link": "/find?type=1&query=anniversary", "word": "anniversary"}], "data": {}}, "en_en": {"suggests": [{"id": "979", "link": "/find?type=3&query=anniversary", "word": "anniversary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "979",
+                "link": "/find?type=3&query=anniversary",
+                "word": "anniversary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4008",
+                "link": "/find?type=1&query=anniversary",
+                "word": "anniversary"
+            }
+        ]
+    }
+}

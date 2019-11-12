@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "29833", "link": "/find?type=1&query=ellipses", "word": "ellipses"}], "data": {"word": "ellipse", "id": "29833", "pronounce": "/i'lips/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(to\u00e1n h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh elip</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/16724bce737a182e76a351038bc3553e/16e5e13bab1/E/ellipse.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6dba71b0ad3e8587c763194ba4de7209/16e5e13c080/E/ellipse.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "ellipse", "id": "9369", "pronounce": "/\u026a\u02c8l\u026aps/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lipses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a shape that resembles a flattened circle :oval</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lipses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a shape that resembles a flattened circle :oval</div>",
+            "id": "9369",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8l\u026aps/",
+            "type": "noun",
+            "word": "ellipse"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(to\u00e1n h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh elip</div>",
+            "id": "29833",
+            "mean": [],
+            "pronounce": "/i'lips/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3bee24235cc6efd8015dd89b62d1af0d/16e5f04992d/E/ellipse.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d305c6b92493cfd43550c36daa8f0c28/16e5f047ca2/E/ellipse.mp3"
+            },
+            "type": "",
+            "word": "ellipse"
+        },
+        "suggests": [
+            {
+                "id": "29833",
+                "link": "/find?type=1&query=ellipses",
+                "word": "ellipses"
+            }
+        ]
+    }
+}

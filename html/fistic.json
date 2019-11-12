@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "35777", "link": "/find?type=1&query=fistical", "word": "fistical"}, {"id": "35777", "link": "/find?type=1&query=fisticuffer", "word": "fisticuffer"}, {"id": "35777", "link": "/find?type=1&query=fisticuffs", "word": "fisticuffs"}], "data": {"word": "fistic", "id": "35777", "pronounce": "/'fistik/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">t\u00ednh t\u1eeb-(\u0111\u00f9a c\u1ee3t) \u0111\u1ea5m \u0111\u00e1</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10775", "link": "/find?type=3&query=fisticuffs", "word": "fisticuffs"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10775",
+                "link": "/find?type=3&query=fisticuffs",
+                "word": "fisticuffs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">t\u00ednh t\u1eeb-(\u0111\u00f9a c\u1ee3t) \u0111\u1ea5m \u0111\u00e1</div>",
+            "id": "35777",
+            "mean": [],
+            "pronounce": "/'fistik/",
+            "speak": {},
+            "type": "",
+            "word": "fistic"
+        },
+        "suggests": [
+            {
+                "id": "35777",
+                "link": "/find?type=1&query=fistical",
+                "word": "fistical"
+            },
+            {
+                "id": "35777",
+                "link": "/find?type=1&query=fisticuffer",
+                "word": "fisticuffer"
+            },
+            {
+                "id": "35777",
+                "link": "/find?type=1&query=fisticuffs",
+                "word": "fisticuffs"
+            }
+        ]
+    }
+}

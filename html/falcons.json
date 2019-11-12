@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "33973", "link": "/find?type=1&query=falconer", "word": "falconer"}, {"id": "33973", "link": "/find?type=1&query=falconet", "word": "falconet"}, {"id": "33973", "link": "/find?type=1&query=falconine", "word": "falconine"}, {"id": "33973", "link": "/find?type=1&query=falconry", "word": "falconry"}], "data": {"word": "falcon", "id": "33973", "pronounce": "/'f\u0254:lk\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">chim c\u1eaft</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/79ba36e74164ab5d35367f614ffc27f2/16e5e1f9582/F/falcon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e35c470ffe2e6c102294b17548eba2b7/16e5e1f9b75/F/falcon.mp3"}}}, "en_en": {"suggests": [{"id": "10239", "link": "/find?type=3&query=falconer", "word": "falconer"}, {"id": "10239", "link": "/find?type=3&query=falconry", "word": "falconry"}], "data": {"word": "falcon", "id": "10239", "pronounce": "/\u02c8f\u00e6lk\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of hawk that can fly very fast and is sometimes trained to hunt</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of hawk that can fly very fast and is sometimes trained to hunt</div>",
+            "id": "10239",
+            "mean": [],
+            "pronounce": "/\u02c8f\u00e6lk\u0259n/",
+            "type": "noun",
+            "word": "falcon"
+        },
+        "suggests": [
+            {
+                "id": "10239",
+                "link": "/find?type=3&query=falconer",
+                "word": "falconer"
+            },
+            {
+                "id": "10239",
+                "link": "/find?type=3&query=falconry",
+                "word": "falconry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">chim c\u1eaft</div>",
+            "id": "33973",
+            "mean": [],
+            "pronounce": "/'f\u0254:lk\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5b073ad29cf6061c32235e09f8bed4bb/16e601516a7/F/falcon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/654709a8b8c44570441d4159a7fd3cbe/16e60150e6a/F/falcon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "falcon"
+        },
+        "suggests": [
+            {
+                "id": "33973",
+                "link": "/find?type=1&query=falconer",
+                "word": "falconer"
+            },
+            {
+                "id": "33973",
+                "link": "/find?type=1&query=falconet",
+                "word": "falconet"
+            },
+            {
+                "id": "33973",
+                "link": "/find?type=1&query=falconine",
+                "word": "falconine"
+            },
+            {
+                "id": "33973",
+                "link": "/find?type=1&query=falconry",
+                "word": "falconry"
+            }
+        ]
+    }
+}

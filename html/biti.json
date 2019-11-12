@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "9556", "link": "/find?type=1&query=bitiminize", "word": "bitiminize"}, {"id": "9557", "link": "/find?type=1&query=biting", "word": "biting"}, {"id": "9558", "link": "/find?type=1&query=bitingly", "word": "bitingly"}], "data": {}}, "en_en": {"suggests": [{"id": "2703", "link": "/find?type=3&query=biting", "word": "biting"}], "data": {}}, "synonyms": {"suggests": [{"id": "550", "link": "/find?type=4&query=biting", "word": "biting"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2703",
+                "link": "/find?type=3&query=biting",
+                "word": "biting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9556",
+                "link": "/find?type=1&query=bitiminize",
+                "word": "bitiminize"
+            },
+            {
+                "id": "9557",
+                "link": "/find?type=1&query=biting",
+                "word": "biting"
+            },
+            {
+                "id": "9558",
+                "link": "/find?type=1&query=bitingly",
+                "word": "bitingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "550",
+                "link": "/find?type=4&query=biting",
+                "word": "biting"
+            }
+        ]
+    }
+}

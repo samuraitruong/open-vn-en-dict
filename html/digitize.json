@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "25397", "link": "/find?type=1&query=digitized+sample", "word": "digitized sample"}, {"id": "25397", "link": "/find?type=1&query=digitizer", "word": "digitizer"}], "data": {"word": "digitize", "id": "25397", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 ho\u00e1, r\u1eddi r\u1ea1c ho\u00e1, l\u01b0\u1ee3ng t\u1eed ho\u00e1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5553ce48ce7abe64f144187f36e07296/16e5e079379/D/digitize.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5b021106af43c1660d06c3338e6088b3/16e5e079939/D/digitize.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "digitize", "id": "7987", "pronounce": "/\u02c8d\u026a\u02a4\u0259\u02ccta\u026az/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">also Brit digitise   -tizes; -tized; -tizing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to change (information or pictures) to digital form</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The record company digitized the songs and made them available on the Internet.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">also Brit digitise   -tizes; -tized; -tizing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to change (information or pictures) to digital form</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The record company digitized the songs and made them available on the Internet.</div>",
+            "id": "7987",
+            "mean": [],
+            "pronounce": "/\u02c8d\u026a\u02a4\u0259\u02ccta\u026az/",
+            "type": "verb",
+            "word": "digitize"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">s\u1ed1 ho\u00e1, r\u1eddi r\u1ea1c ho\u00e1, l\u01b0\u1ee3ng t\u1eed ho\u00e1</div>",
+            "id": "25397",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ae6d85eb2fa8319254ae91c23e83fdad/16e5ef1802f/D/digitize.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5b29dab1ed1743c340f41ade454b3ae7/16e5ef175cd/D/digitize.mp3"
+            },
+            "type": "",
+            "word": "digitize"
+        },
+        "suggests": [
+            {
+                "id": "25397",
+                "link": "/find?type=1&query=digitized+sample",
+                "word": "digitized sample"
+            },
+            {
+                "id": "25397",
+                "link": "/find?type=1&query=digitizer",
+                "word": "digitizer"
+            }
+        ]
+    }
+}

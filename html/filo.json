@@ -1,1 +1,28 @@
-{"en_vn": {"suggests": [{"id": "35299", "link": "/find?type=1&query=filoplume", "word": "filoplume"}, {"id": "35300", "link": "/find?type=1&query=filoselle", "word": "filoselle"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "filo", "id": "10622", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">variant spelling of phyllo</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">variant spelling of phyllo</div>",
+            "id": "10622",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "filo"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35299",
+                "link": "/find?type=1&query=filoplume",
+                "word": "filoplume"
+            },
+            {
+                "id": "35300",
+                "link": "/find?type=1&query=filoselle",
+                "word": "filoselle"
+            }
+        ]
+    }
+}

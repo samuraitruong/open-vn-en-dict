@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "19279", "link": "/find?type=1&query=contractual", "word": "contractual"}, {"id": "19280", "link": "/find?type=1&query=contractually", "word": "contractually"}, {"id": "19281", "link": "/find?type=1&query=contracture", "word": "contracture"}], "data": {}}, "en_en": {"suggests": [{"id": "6143", "link": "/find?type=3&query=contractual", "word": "contractual"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6143",
+                "link": "/find?type=3&query=contractual",
+                "word": "contractual"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19279",
+                "link": "/find?type=1&query=contractual",
+                "word": "contractual"
+            },
+            {
+                "id": "19280",
+                "link": "/find?type=1&query=contractually",
+                "word": "contractually"
+            },
+            {
+                "id": "19281",
+                "link": "/find?type=1&query=contracture",
+                "word": "contracture"
+            }
+        ]
+    }
+}

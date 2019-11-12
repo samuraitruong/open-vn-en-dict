@@ -1,1 +1,22 @@
-{"error": 0, "query": "guld", "enViData": {"suggests": [{"id": "41971", "link": "/find?type=1&query=gulden", "word": "gulden"}]}, "mUrl": "/find?type=1&query=guld", "enEnData": {"suggests": [{"id": "12769", "link": "/find?type=3&query=gulden", "word": "gulden"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12769",
+                "link": "/find?type=3&query=gulden",
+                "word": "gulden"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41971",
+                "link": "/find?type=1&query=gulden",
+                "word": "gulden"
+            }
+        ]
+    }
+}

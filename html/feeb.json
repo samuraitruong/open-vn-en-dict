@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "34547", "link": "/find?type=1&query=feeble", "word": "feeble"}, {"id": "34548", "link": "/find?type=1&query=feeble-minded", "word": "feeble-minded"}, {"id": "34549", "link": "/find?type=1&query=feebleness", "word": "feebleness"}, {"id": "34550", "link": "/find?type=1&query=feeblish", "word": "feeblish"}, {"id": "34551", "link": "/find?type=1&query=feebly", "word": "feebly"}], "data": {}}, "en_en": {"suggests": [{"id": "10429", "link": "/find?type=3&query=feeble", "word": "feeble"}, {"id": "10430", "link": "/find?type=3&query=feebleminded", "word": "feebleminded"}], "data": {}}, "synonyms": {"suggests": [{"id": "2561", "link": "/find?type=4&query=feeble", "word": "feeble"}, {"id": "2562", "link": "/find?type=4&query=feeble-minded", "word": "feeble-minded"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10429",
+                "link": "/find?type=3&query=feeble",
+                "word": "feeble"
+            },
+            {
+                "id": "10430",
+                "link": "/find?type=3&query=feebleminded",
+                "word": "feebleminded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34547",
+                "link": "/find?type=1&query=feeble",
+                "word": "feeble"
+            },
+            {
+                "id": "34548",
+                "link": "/find?type=1&query=feeble-minded",
+                "word": "feeble-minded"
+            },
+            {
+                "id": "34549",
+                "link": "/find?type=1&query=feebleness",
+                "word": "feebleness"
+            },
+            {
+                "id": "34550",
+                "link": "/find?type=1&query=feeblish",
+                "word": "feeblish"
+            },
+            {
+                "id": "34551",
+                "link": "/find?type=1&query=feebly",
+                "word": "feebly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2561",
+                "link": "/find?type=4&query=feeble",
+                "word": "feeble"
+            },
+            {
+                "id": "2562",
+                "link": "/find?type=4&query=feeble-minded",
+                "word": "feeble-minded"
+            }
+        ]
+    }
+}

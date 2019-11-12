@@ -1,1 +1,22 @@
-{"error": 0, "query": "haddo", "enViData": {"suggests": [{"id": "42284", "link": "/find?type=1&query=haddock", "word": "haddock"}]}, "mUrl": "/find?type=1&query=haddo", "enEnData": {"suggests": [{"id": "12862", "link": "/find?type=3&query=haddock", "word": "haddock"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12862",
+                "link": "/find?type=3&query=haddock",
+                "word": "haddock"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42284",
+                "link": "/find?type=1&query=haddock",
+                "word": "haddock"
+            }
+        ]
+    }
+}

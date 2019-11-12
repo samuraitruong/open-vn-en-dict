@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "6300", "link": "/find?type=1&query=Asymmetric+infornation", "word": "Asymmetric infornation"}, {"id": "6300", "link": "/find?type=1&query=asymmetrical", "word": "asymmetrical"}, {"id": "6300", "link": "/find?type=1&query=asymmetrically", "word": "asymmetrically"}], "data": {"word": "asymmetric", "id": "6300", "pronounce": "/,eisi'metrik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c asymmetrical)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng \u0111\u1ed1i x\u1ee9ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1540", "link": "/find?type=3&query=asymmetrical", "word": "asymmetrical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1540",
+                "link": "/find?type=3&query=asymmetrical",
+                "word": "asymmetrical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c asymmetrical)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng \u0111\u1ed1i x\u1ee9ng</div>",
+            "id": "6300",
+            "mean": [],
+            "pronounce": "/,eisi'metrik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "asymmetric"
+        },
+        "suggests": [
+            {
+                "id": "6300",
+                "link": "/find?type=1&query=Asymmetric+infornation",
+                "word": "Asymmetric infornation"
+            },
+            {
+                "id": "6300",
+                "link": "/find?type=1&query=asymmetrical",
+                "word": "asymmetrical"
+            },
+            {
+                "id": "6300",
+                "link": "/find?type=1&query=asymmetrically",
+                "word": "asymmetrically"
+            }
+        ]
+    }
+}

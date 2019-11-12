@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "26779", "link": "/find?type=1&query=Dixie", "word": "Dixie"}, {"id": "26780", "link": "/find?type=1&query=dixie+land", "word": "dixie land"}, {"id": "26781", "link": "/find?type=1&query=Dixieland", "word": "Dixieland"}, {"id": "26782", "link": "/find?type=1&query=dixies+land", "word": "dixies land"}, {"id": "26783", "link": "/find?type=1&query=dixy", "word": "dixy"}], "data": {}}, "en_en": {"suggests": [{"id": "8430", "link": "/find?type=3&query=Dixieland", "word": "Dixieland"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8430",
+                "link": "/find?type=3&query=Dixieland",
+                "word": "Dixieland"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26779",
+                "link": "/find?type=1&query=Dixie",
+                "word": "Dixie"
+            },
+            {
+                "id": "26780",
+                "link": "/find?type=1&query=dixie+land",
+                "word": "dixie land"
+            },
+            {
+                "id": "26781",
+                "link": "/find?type=1&query=Dixieland",
+                "word": "Dixieland"
+            },
+            {
+                "id": "26782",
+                "link": "/find?type=1&query=dixies+land",
+                "word": "dixies land"
+            },
+            {
+                "id": "26783",
+                "link": "/find?type=1&query=dixy",
+                "word": "dixy"
+            }
+        ]
+    }
+}

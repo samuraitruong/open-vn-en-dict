@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "13882", "link": "/find?type=1&query=cayenne", "word": "cayenne"}, {"id": "13882", "link": "/find?type=1&query=cayman", "word": "cayman"}, {"id": "13882", "link": "/find?type=1&query=cayman%2C+caiman", "word": "cayman, caiman"}, {"id": "13882", "link": "/find?type=1&query=cayuse", "word": "cayuse"}], "data": {"word": "cay", "id": "13882", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea3o th\u1ea5p nh\u1ecf</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/02548ed44384ce663e128f5c57837b00/16e5de0bc12/C/cay.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b386d821831bf92274f89fc6d2f4833c/16e5de0c1e4/C/cay.mp3"}}}, "en_en": {"suggests": [{"id": "4368", "link": "/find?type=3&query=cayenne+pepper", "word": "cayenne pepper"}], "data": {"word": "cay", "id": "4368", "pronounce": "/\u02c8ki\u02d0/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cays</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a low island made of sand or coral</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cays</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a low island made of sand or coral</div>",
+            "id": "4368",
+            "mean": [],
+            "pronounce": "/\u02c8ki\u02d0/",
+            "type": "noun",
+            "word": "cay"
+        },
+        "suggests": [
+            {
+                "id": "4368",
+                "link": "/find?type=3&query=cayenne+pepper",
+                "word": "cayenne pepper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea3o th\u1ea5p nh\u1ecf</div>",
+            "id": "13882",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c7c6c67e787289e13e02d38ef0487b50/16e5ec1ef97/C/cay.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/92415472fd42e3df13abee5fd9de9277/16e5ec1e963/C/cay.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cay"
+        },
+        "suggests": [
+            {
+                "id": "13882",
+                "link": "/find?type=1&query=cayenne",
+                "word": "cayenne"
+            },
+            {
+                "id": "13882",
+                "link": "/find?type=1&query=cayman",
+                "word": "cayman"
+            },
+            {
+                "id": "13882",
+                "link": "/find?type=1&query=cayman%2C+caiman",
+                "word": "cayman, caiman"
+            },
+            {
+                "id": "13882",
+                "link": "/find?type=1&query=cayuse",
+                "word": "cayuse"
+            }
+        ]
+    }
+}

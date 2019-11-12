@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "26958", "link": "/find?type=1&query=doggone", "word": "doggone"}], "data": {"word": "doggo", "id": "26958", "pronounce": "/'d\u0252g\u0259\u028a/", "type": "Ph\u00f3 t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">lie doggo</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=lie\">lie</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8491", "link": "/find?type=3&query=doggone", "word": "doggone"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8491",
+                "link": "/find?type=3&query=doggone",
+                "word": "doggone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">lie doggo</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=lie\">lie</a></span></div>",
+            "id": "26958",
+            "mean": [],
+            "pronounce": "/'d\u0252g\u0259\u028a/",
+            "speak": {},
+            "type": "Ph\u00f3 t\u1eeb",
+            "word": "doggo"
+        },
+        "suggests": [
+            {
+                "id": "26958",
+                "link": "/find?type=1&query=doggone",
+                "word": "doggone"
+            }
+        ]
+    }
+}

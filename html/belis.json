@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "8841", "link": "/find?type=1&query=Belisha+beacon", "word": "Belisha beacon"}], "data": {}}, "en_en": {"suggests": [{"id": "2393", "link": "/find?type=3&query=belie", "word": "belie"}, {"id": "2394", "link": "/find?type=3&query=belief", "word": "belief"}, {"id": "2395", "link": "/find?type=3&query=believe", "word": "believe"}, {"id": "2396", "link": "/find?type=3&query=belittle", "word": "belittle"}], "data": {}}, "synonyms": {"suggests": [{"id": "489", "link": "/find?type=4&query=belief", "word": "belief"}, {"id": "490", "link": "/find?type=4&query=believe", "word": "believe"}, {"id": "491", "link": "/find?type=4&query=belittle", "word": "belittle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2393",
+                "link": "/find?type=3&query=belie",
+                "word": "belie"
+            },
+            {
+                "id": "2394",
+                "link": "/find?type=3&query=belief",
+                "word": "belief"
+            },
+            {
+                "id": "2395",
+                "link": "/find?type=3&query=believe",
+                "word": "believe"
+            },
+            {
+                "id": "2396",
+                "link": "/find?type=3&query=belittle",
+                "word": "belittle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8841",
+                "link": "/find?type=1&query=Belisha+beacon",
+                "word": "Belisha beacon"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "489",
+                "link": "/find?type=4&query=belief",
+                "word": "belief"
+            },
+            {
+                "id": "490",
+                "link": "/find?type=4&query=believe",
+                "word": "believe"
+            },
+            {
+                "id": "491",
+                "link": "/find?type=4&query=belittle",
+                "word": "belittle"
+            }
+        ]
+    }
+}

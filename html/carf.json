@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "13226", "link": "/find?type=1&query=carfare", "word": "carfare"}, {"id": "13227", "link": "/find?type=1&query=carfax", "word": "carfax"}, {"id": "13228", "link": "/find?type=1&query=carful", "word": "carful"}], "data": {}}, "en_en": {"suggests": [{"id": "4151", "link": "/find?type=3&query=carfare", "word": "carfare"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4151",
+                "link": "/find?type=3&query=carfare",
+                "word": "carfare"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13226",
+                "link": "/find?type=1&query=carfare",
+                "word": "carfare"
+            },
+            {
+                "id": "13227",
+                "link": "/find?type=1&query=carfax",
+                "word": "carfax"
+            },
+            {
+                "id": "13228",
+                "link": "/find?type=1&query=carful",
+                "word": "carful"
+            }
+        ]
+    }
+}

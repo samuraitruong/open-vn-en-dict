@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "19111", "link": "/find?type=1&query=contemn", "word": "contemn"}, {"id": "19111", "link": "/find?type=1&query=contemner", "word": "contemner"}, {"id": "19111", "link": "/find?type=1&query=contemplate", "word": "contemplate"}, {"id": "19111", "link": "/find?type=1&query=contemplation", "word": "contemplation"}, {"id": "19111", "link": "/find?type=1&query=contemplative", "word": "contemplative"}, {"id": "19111", "link": "/find?type=1&query=contemplatively", "word": "contemplatively"}, {"id": "19111", "link": "/find?type=1&query=contemplativeness", "word": "contemplativeness"}, {"id": "19111", "link": "/find?type=1&query=contemplator", "word": "contemplator"}, {"id": "19111", "link": "/find?type=1&query=contemporameously", "word": "contemporameously"}], "data": {"word": "conte", "id": "19111", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chuy\u1ec7n ng\u1eafn; chuy\u1ec7n k\u1ec3</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6109", "link": "/find?type=3&query=contest", "word": "contest"}, {"id": "6110", "link": "/find?type=3&query=contestant", "word": "contestant"}], "data": {}}, "synonyms": {"suggests": [{"id": "1230", "link": "/find?type=4&query=contest", "word": "contest"}, {"id": "1231", "link": "/find?type=4&query=contestant", "word": "contestant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6109",
+                "link": "/find?type=3&query=contest",
+                "word": "contest"
+            },
+            {
+                "id": "6110",
+                "link": "/find?type=3&query=contestant",
+                "word": "contestant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chuy\u1ec7n ng\u1eafn; chuy\u1ec7n k\u1ec3</div>",
+            "id": "19111",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "conte"
+        },
+        "suggests": [
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemn",
+                "word": "contemn"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemner",
+                "word": "contemner"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemplate",
+                "word": "contemplate"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemplation",
+                "word": "contemplation"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemplative",
+                "word": "contemplative"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemplatively",
+                "word": "contemplatively"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemplativeness",
+                "word": "contemplativeness"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemplator",
+                "word": "contemplator"
+            },
+            {
+                "id": "19111",
+                "link": "/find?type=1&query=contemporameously",
+                "word": "contemporameously"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1230",
+                "link": "/find?type=4&query=contest",
+                "word": "contest"
+            },
+            {
+                "id": "1231",
+                "link": "/find?type=4&query=contestant",
+                "word": "contestant"
+            }
+        ]
+    }
+}

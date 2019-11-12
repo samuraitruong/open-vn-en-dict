@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "12239", "link": "/find?type=1&query=cacao", "word": "cacao"}, {"id": "12240", "link": "/find?type=1&query=cacao-tree", "word": "cacao-tree"}], "data": {}}, "en_en": {"suggests": [{"id": "3848", "link": "/find?type=3&query=cacao", "word": "cacao"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3848",
+                "link": "/find?type=3&query=cacao",
+                "word": "cacao"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12239",
+                "link": "/find?type=1&query=cacao",
+                "word": "cacao"
+            },
+            {
+                "id": "12240",
+                "link": "/find?type=1&query=cacao-tree",
+                "word": "cacao-tree"
+            }
+        ]
+    }
+}

@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "9602", "link": "/find?type=1&query=bizarre", "word": "bizarre"}, {"id": "9602", "link": "/find?type=1&query=bizarrely", "word": "bizarrely"}, {"id": "9602", "link": "/find?type=1&query=bizarreness", "word": "bizarreness"}, {"id": "9602", "link": "/find?type=1&query=bizonal", "word": "bizonal"}], "data": {"word": "biz", "id": "9602", "pronounce": "/biz/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) (nh\u01b0) business</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/bdfd0111791bb53036e2b7376d29c20a/16e5dd7ad8b/B/biz.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5fe5bb3fc256544fcf9af2e9bf730209/16e5dd7b370/B/biz.mp3"}}}, "en_en": {"suggests": [{"id": "2712", "link": "/find?type=3&query=bizarre", "word": "bizarre"}], "data": {"word": "biz", "id": "2712", "pronounce": "/\u02c8b\u026az/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] informal :business</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the music biz</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She left the farm for a career in show biz. [=show business]</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "553", "link": "/find?type=4&query=bizarre", "word": "bizarre"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] informal :business</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the music biz</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She left the farm for a career in show biz. [=show business]</div>",
+            "id": "2712",
+            "mean": [],
+            "pronounce": "/\u02c8b\u026az/",
+            "type": "noun",
+            "word": "biz"
+        },
+        "suggests": [
+            {
+                "id": "2712",
+                "link": "/find?type=3&query=bizarre",
+                "word": "bizarre"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) (nh\u01b0) business</div>",
+            "id": "9602",
+            "mean": [],
+            "pronounce": "/biz/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b91cbbf7e7549840ef7ee4112e0445f8/16e5eb9c5b7/B/biz.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/27d6d3eff1324fa235812d8e1c033905/16e5eb9c096/B/biz.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "biz"
+        },
+        "suggests": [
+            {
+                "id": "9602",
+                "link": "/find?type=1&query=bizarre",
+                "word": "bizarre"
+            },
+            {
+                "id": "9602",
+                "link": "/find?type=1&query=bizarrely",
+                "word": "bizarrely"
+            },
+            {
+                "id": "9602",
+                "link": "/find?type=1&query=bizarreness",
+                "word": "bizarreness"
+            },
+            {
+                "id": "9602",
+                "link": "/find?type=1&query=bizonal",
+                "word": "bizonal"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "553",
+                "link": "/find?type=4&query=bizarre",
+                "word": "bizarre"
+            }
+        ]
+    }
+}

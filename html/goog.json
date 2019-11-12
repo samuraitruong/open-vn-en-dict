@@ -1,1 +1,22 @@
-{"error": 0, "query": "goog", "enViData": {"suggests": [{"id": "40771", "link": "/find?type=1&query=googly", "word": "googly"}]}, "mUrl": "/find?type=1&query=goog", "enEnData": {"suggests": [{"id": "12352", "link": "/find?type=3&query=googly-eyed", "word": "googly-eyed"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12352",
+                "link": "/find?type=3&query=googly-eyed",
+                "word": "googly-eyed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40771",
+                "link": "/find?type=1&query=googly",
+                "word": "googly"
+            }
+        ]
+    }
+}

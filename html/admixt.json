@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "1480", "link": "/find?type=1&query=admixture", "word": "admixture"}], "data": {}}, "en_en": {"suggests": [{"id": "347", "link": "/find?type=3&query=admixture", "word": "admixture"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "347",
+                "link": "/find?type=3&query=admixture",
+                "word": "admixture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1480",
+                "link": "/find?type=1&query=admixture",
+                "word": "admixture"
+            }
+        ]
+    }
+}

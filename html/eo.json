@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "31165", "link": "/find?type=1&query=eocene", "word": "eocene"}, {"id": "31166", "link": "/find?type=1&query=eoclimax", "word": "eoclimax"}, {"id": "31167", "link": "/find?type=1&query=eof", "word": "eof"}, {"id": "31168", "link": "/find?type=1&query=eol", "word": "eol"}, {"id": "31169", "link": "/find?type=1&query=eolation", "word": "eolation"}, {"id": "31170", "link": "/find?type=1&query=eolian", "word": "eolian"}, {"id": "31171", "link": "/find?type=1&query=eolith", "word": "eolith"}, {"id": "31172", "link": "/find?type=1&query=eolithic", "word": "eolithic"}, {"id": "31173", "link": "/find?type=1&query=eon", "word": "eon"}, {"id": "31174", "link": "/find?type=1&query=eonian", "word": "eonian"}], "data": {}}, "en_en": {"suggests": [{"id": "9661", "link": "/find?type=3&query=eon", "word": "eon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9661",
+                "link": "/find?type=3&query=eon",
+                "word": "eon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31165",
+                "link": "/find?type=1&query=eocene",
+                "word": "eocene"
+            },
+            {
+                "id": "31166",
+                "link": "/find?type=1&query=eoclimax",
+                "word": "eoclimax"
+            },
+            {
+                "id": "31167",
+                "link": "/find?type=1&query=eof",
+                "word": "eof"
+            },
+            {
+                "id": "31168",
+                "link": "/find?type=1&query=eol",
+                "word": "eol"
+            },
+            {
+                "id": "31169",
+                "link": "/find?type=1&query=eolation",
+                "word": "eolation"
+            },
+            {
+                "id": "31170",
+                "link": "/find?type=1&query=eolian",
+                "word": "eolian"
+            },
+            {
+                "id": "31171",
+                "link": "/find?type=1&query=eolith",
+                "word": "eolith"
+            },
+            {
+                "id": "31172",
+                "link": "/find?type=1&query=eolithic",
+                "word": "eolithic"
+            },
+            {
+                "id": "31173",
+                "link": "/find?type=1&query=eon",
+                "word": "eon"
+            },
+            {
+                "id": "31174",
+                "link": "/find?type=1&query=eonian",
+                "word": "eonian"
+            }
+        ]
+    }
+}

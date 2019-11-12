@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "36214", "link": "/find?type=1&query=flicflac", "word": "flicflac"}, {"id": "36214", "link": "/find?type=1&query=flick", "word": "flick"}, {"id": "36214", "link": "/find?type=1&query=flick-knife", "word": "flick-knife"}, {"id": "36214", "link": "/find?type=1&query=flicker", "word": "flicker"}, {"id": "36214", "link": "/find?type=1&query=flicker-mouse", "word": "flicker-mouse"}, {"id": "36214", "link": "/find?type=1&query=flickering", "word": "flickering"}], "data": {"word": "flic", "id": "36214", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3nh s\u00e1t Pa-ri</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10902", "link": "/find?type=3&query=flick", "word": "flick"}, {"id": "10903", "link": "/find?type=3&query=flicker", "word": "flicker"}, {"id": "10904", "link": "/find?type=3&query=flick-knife", "word": "flick-knife"}], "data": {}}, "synonyms": {"suggests": [{"id": "2688", "link": "/find?type=4&query=flicker", "word": "flicker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10902",
+                "link": "/find?type=3&query=flick",
+                "word": "flick"
+            },
+            {
+                "id": "10903",
+                "link": "/find?type=3&query=flicker",
+                "word": "flicker"
+            },
+            {
+                "id": "10904",
+                "link": "/find?type=3&query=flick-knife",
+                "word": "flick-knife"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3nh s\u00e1t Pa-ri</div>",
+            "id": "36214",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "flic"
+        },
+        "suggests": [
+            {
+                "id": "36214",
+                "link": "/find?type=1&query=flicflac",
+                "word": "flicflac"
+            },
+            {
+                "id": "36214",
+                "link": "/find?type=1&query=flick",
+                "word": "flick"
+            },
+            {
+                "id": "36214",
+                "link": "/find?type=1&query=flick-knife",
+                "word": "flick-knife"
+            },
+            {
+                "id": "36214",
+                "link": "/find?type=1&query=flicker",
+                "word": "flicker"
+            },
+            {
+                "id": "36214",
+                "link": "/find?type=1&query=flicker-mouse",
+                "word": "flicker-mouse"
+            },
+            {
+                "id": "36214",
+                "link": "/find?type=1&query=flickering",
+                "word": "flickering"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2688",
+                "link": "/find?type=4&query=flicker",
+                "word": "flicker"
+            }
+        ]
+    }
+}

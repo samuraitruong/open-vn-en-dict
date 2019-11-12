@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "29400", "link": "/find?type=1&query=electromagnet+winding", "word": "electromagnet winding"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic", "word": "electromagnetic"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+coupling", "word": "electromagnetic coupling"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+deflection", "word": "electromagnetic deflection"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+delay+line", "word": "electromagnetic delay line"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+energy", "word": "electromagnetic energy"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+field", "word": "electromagnetic field"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+force", "word": "electromagnetic force"}, {"id": "29400", "link": "/find?type=1&query=electromagnetic+generator", "word": "electromagnetic generator"}], "data": {"word": "electromagnet", "id": "29400", "pronounce": "/i,lektr\u0259\u028a'm\u00e6gnit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(v\u1eadt l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">nam ch\u00e2m \u0111i\u1ec7n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b28c11ab70440d6d0ff8f10e04495732/16e5e133834/E/electromagnet.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/77628bb2b38d694d3af5c5cd0f0bdec9/16e5e133ddc/E/electromagnet.mp3"}}}, "en_en": {"suggests": [{"id": "9333", "link": "/find?type=3&query=electromagnetism", "word": "electromagnetism"}], "data": {"word": "electromagnet", "id": "9333", "pronounce": "/\u026a\u02ccl\u025bktro\u028a\u02c8m\u00e6gn\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a piece of metal that becomes magnetic when an electric current is passed through or near it</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a piece of metal that becomes magnetic when an electric current is passed through or near it</div>",
+            "id": "9333",
+            "mean": [],
+            "pronounce": "/\u026a\u02ccl\u025bktro\u028a\u02c8m\u00e6gn\u0259t/",
+            "type": "noun",
+            "word": "electromagnet"
+        },
+        "suggests": [
+            {
+                "id": "9333",
+                "link": "/find?type=3&query=electromagnetism",
+                "word": "electromagnetism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(v\u1eadt l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">nam ch\u00e2m \u0111i\u1ec7n</div>",
+            "id": "29400",
+            "mean": [],
+            "pronounce": "/i,lektr\u0259\u028a'm\u00e6gnit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/db10c12abec437369572ddcc4072f0f5/16e5f0394cf/E/electromagnet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c350e7a0a7217ee18360eb58732b92fa/16e5f038b32/E/electromagnet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "electromagnet"
+        },
+        "suggests": [
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnet+winding",
+                "word": "electromagnet winding"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic",
+                "word": "electromagnetic"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+coupling",
+                "word": "electromagnetic coupling"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+deflection",
+                "word": "electromagnetic deflection"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+delay+line",
+                "word": "electromagnetic delay line"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+energy",
+                "word": "electromagnetic energy"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+field",
+                "word": "electromagnetic field"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+force",
+                "word": "electromagnetic force"
+            },
+            {
+                "id": "29400",
+                "link": "/find?type=1&query=electromagnetic+generator",
+                "word": "electromagnetic generator"
+            }
+        ]
+    }
+}

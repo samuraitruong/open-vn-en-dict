@@ -1,1 +1,34 @@
-{"error": 0, "query": "fugue", "enViData": {"suggests": [{"id": "38293", "link": "/find?type=1&query=fugued", "word": "fugued"}], "best": {"id": "38293", "details": "\n<div id=\"find_word_38293\" class=\"world word_en\" rel=\"fugue\">\n    <h2 class=\"fl\">fugue <span class=\"color-black\">/fju:g/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38293\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38293\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u00e2m nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea3n fuga</div>\n    \n</div>\n", "link": "/find?type=1&query=fugue", "word": "fugue"}}, "mUrl": "/find?type=1&query=fugue", "enEnData": {"suggests": [], "best": {"id": "11585", "details": "\n<div id=\"find_word_11585\" class=\"world word_en\" rel=\"fugue\">\n    <h2 class=\"fl\">fugue <span class=\"color-black\">/\u02c8fju\u02d0g/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11585\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11585\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural fugues</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a piece of music in which tunes are repeated in complex patterns</div>\n    \n</div>\n", "link": "/find?type=3&query=fugue", "word": "fugue"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural fugues</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a piece of music in which tunes are repeated in complex patterns</div>",
+            "id": "11585",
+            "mean": [],
+            "pronounce": "/\u02c8fju\u02d0g/",
+            "type": "noun",
+            "word": "fugue"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u00e2m nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea3n fuga</div>",
+            "id": "38293",
+            "mean": [],
+            "pronounce": "/fju:g/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cb6ad7c87edfdf50843993555770473e/16e60ad0863/F/fugue.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/df32e11fc5bebee2ddb1246ed9e238ed/16e60acffef/F/fugue.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "fugue"
+        },
+        "suggests": [
+            {
+                "id": "38293",
+                "link": "/find?type=1&query=fugued",
+                "word": "fugued"
+            }
+        ]
+    }
+}

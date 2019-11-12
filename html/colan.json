@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "16905", "link": "/find?type=1&query=colander", "word": "colander"}], "data": {}}, "en_en": {"suggests": [{"id": "5458", "link": "/find?type=3&query=colander", "word": "colander"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5458",
+                "link": "/find?type=3&query=colander",
+                "word": "colander"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16905",
+                "link": "/find?type=1&query=colander",
+                "word": "colander"
+            }
+        ]
+    }
+}

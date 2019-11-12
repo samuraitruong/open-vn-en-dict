@@ -1,1 +1,38 @@
-{"error": 0, "query": "goggles", "enViData": {"suggests": [], "best": {"id": "40576", "details": "\n<div id=\"find_word_40576\" class=\"world word_en\" rel=\"goggles\">\n    <h2 class=\"fl\">goggles <span class=\"color-black\">/'g\u0254glz/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40576\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40576\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">k\u00ednh b\u1ea3o v\u1ec7 m\u1eaft (khi \u0111i m\u00f4t\u00f4, khi h\u00e0n kim lo\u1ea1i\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=goggles", "word": "goggles"}}, "mUrl": "/find?type=1&query=goggles", "enEnData": {"suggests": [], "best": {"id": "12264", "details": "\n<div id=\"find_word_12264\" class=\"world word_en\" rel=\"goggles\">\n    <h2 class=\"fl\">goggles <span class=\"color-black\">/\u02c8g\u0251\u02d0gn\u0329z/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12264\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12264\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :special eyeglasses that fit close to your face and that are worn to protect your eyes</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">swimming/ski goggles</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">safety goggles</div>\n    \n</div>\n", "link": "/find?type=3&query=goggles", "word": "goggles"}}, "ftype": "1", "synData": {"suggests": [{"id": "3046", "link": "/find?type=4&query=goggle-eyed", "word": "goggle-eyed"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[plural] :special eyeglasses that fit close to your face and that are worn to protect your eyes</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">swimming/ski goggles</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">safety goggles</div>",
+            "id": "12264",
+            "mean": [],
+            "pronounce": "/\u02c8g\u0251\u02d0gn\u0329z/",
+            "type": "noun",
+            "word": "goggles"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">k\u00ednh b\u1ea3o v\u1ec7 m\u1eaft (khi \u0111i m\u00f4t\u00f4, khi h\u00e0n kim lo\u1ea1i\u2026)</div>",
+            "id": "40576",
+            "mean": [],
+            "pronounce": "/'g\u0254glz/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7ccfcd46e430bf7ab28fda5082ecc9dd/16e610ee3d3/G/goggles.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bbd4f9cafd8c3a4e6a0af97ae97b7109/16e610edb85/G/goggles.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "goggles"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3046",
+                "link": "/find?type=4&query=goggle-eyed",
+                "word": "goggle-eyed"
+            }
+        ]
+    }
+}

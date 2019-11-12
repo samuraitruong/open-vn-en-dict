@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [], "data": {"word": "dressmaking", "id": "27685", "pronounce": "/'dresmeiki\u03b7/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ec7c may qu\u1ea7n \u00e1o n\u1eef</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8842", "link": "/find?type=3&query=dressmaker", "word": "dressmaker"}], "data": {}}, "synonyms": {"suggests": [{"id": "1939", "link": "/find?type=4&query=dressmaker", "word": "dressmaker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8842",
+                "link": "/find?type=3&query=dressmaker",
+                "word": "dressmaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ec7c may qu\u1ea7n \u00e1o n\u1eef</div>",
+            "id": "27685",
+            "mean": [],
+            "pronounce": "/'dresmeiki\u03b7/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "dressmaking"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1939",
+                "link": "/find?type=4&query=dressmaker",
+                "word": "dressmaker"
+            }
+        ]
+    }
+}

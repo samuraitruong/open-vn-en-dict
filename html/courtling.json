@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "20513", "link": "/find?type=1&query=courtliness", "word": "courtliness"}, {"id": "20514", "link": "/find?type=1&query=courtly", "word": "courtly"}], "data": {}}, "en_en": {"suggests": [{"id": "6532", "link": "/find?type=3&query=courtly", "word": "courtly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6532",
+                "link": "/find?type=3&query=courtly",
+                "word": "courtly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20513",
+                "link": "/find?type=1&query=courtliness",
+                "word": "courtliness"
+            },
+            {
+                "id": "20514",
+                "link": "/find?type=1&query=courtly",
+                "word": "courtly"
+            }
+        ]
+    }
+}

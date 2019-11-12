@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "18201", "link": "/find?type=1&query=conceptual+model", "word": "conceptual model"}, {"id": "18201", "link": "/find?type=1&query=conceptualism", "word": "conceptualism"}, {"id": "18201", "link": "/find?type=1&query=conceptualist", "word": "conceptualist"}, {"id": "18201", "link": "/find?type=1&query=conceptualistic", "word": "conceptualistic"}, {"id": "18201", "link": "/find?type=1&query=conceptualistically", "word": "conceptualistically"}, {"id": "18201", "link": "/find?type=1&query=conceptually", "word": "conceptually"}], "data": {"word": "conceptual", "id": "18201", "pronounce": "/k\u0259n'sept\u222b\u028a\u0259l/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c kh\u00e1i ni\u1ec7m]; [d\u1ef1a tr\u00ean] kh\u00e1i ni\u1ec7m</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/706929f9b988e2fc50a90809251d7d75/16e5df3332c/C/conceptual.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6c95861d6d86305cda3399e98aec8735/16e5df338d8/C/conceptual.mp3"}}}, "en_en": {"suggests": [{"id": "5807", "link": "/find?type=3&query=conceptualize", "word": "conceptualize"}], "data": {"word": "conceptual", "id": "5807", "pronounce": "/k\u0259n\u02c8s\u025bp\u02a7\u0259w\u0259l/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">based on or relating to ideas or concepts</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a conceptual framework/model</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The plans have both conceptual and practical difficulties.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">conceptual art [=art that expresses an idea]</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">based on or relating to ideas or concepts</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a conceptual framework/model</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The plans have both conceptual and practical difficulties.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">conceptual art [=art that expresses an idea]</div>",
+            "id": "5807",
+            "mean": [],
+            "pronounce": "/k\u0259n\u02c8s\u025bp\u02a7\u0259w\u0259l/",
+            "type": "adjective",
+            "word": "conceptual"
+        },
+        "suggests": [
+            {
+                "id": "5807",
+                "link": "/find?type=3&query=conceptualize",
+                "word": "conceptualize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c kh\u00e1i ni\u1ec7m]; [d\u1ef1a tr\u00ean] kh\u00e1i ni\u1ec7m</div>",
+            "id": "18201",
+            "mean": [],
+            "pronounce": "/k\u0259n'sept\u222b\u028a\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cfe84c48d6cc654a6213a5470e736115/16e5ed558ba/C/conceptual.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a45bffc4b13d2580ab6840e05349e1f2/16e5ed54f36/C/conceptual.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "conceptual"
+        },
+        "suggests": [
+            {
+                "id": "18201",
+                "link": "/find?type=1&query=conceptual+model",
+                "word": "conceptual model"
+            },
+            {
+                "id": "18201",
+                "link": "/find?type=1&query=conceptualism",
+                "word": "conceptualism"
+            },
+            {
+                "id": "18201",
+                "link": "/find?type=1&query=conceptualist",
+                "word": "conceptualist"
+            },
+            {
+                "id": "18201",
+                "link": "/find?type=1&query=conceptualistic",
+                "word": "conceptualistic"
+            },
+            {
+                "id": "18201",
+                "link": "/find?type=1&query=conceptualistically",
+                "word": "conceptualistically"
+            },
+            {
+                "id": "18201",
+                "link": "/find?type=1&query=conceptually",
+                "word": "conceptually"
+            }
+        ]
+    }
+}

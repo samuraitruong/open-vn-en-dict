@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "3219", "link": "/find?type=1&query=amniocentesis", "word": "amniocentesis"}, {"id": "3220", "link": "/find?type=1&query=amnion", "word": "amnion"}, {"id": "3221", "link": "/find?type=1&query=amnionic", "word": "amnionic"}, {"id": "3222", "link": "/find?type=1&query=amniote", "word": "amniote"}, {"id": "3223", "link": "/find?type=1&query=amniotic", "word": "amniotic"}], "data": {}}, "en_en": {"suggests": [{"id": "847", "link": "/find?type=3&query=amniocentesis", "word": "amniocentesis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "847",
+                "link": "/find?type=3&query=amniocentesis",
+                "word": "amniocentesis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3219",
+                "link": "/find?type=1&query=amniocentesis",
+                "word": "amniocentesis"
+            },
+            {
+                "id": "3220",
+                "link": "/find?type=1&query=amnion",
+                "word": "amnion"
+            },
+            {
+                "id": "3221",
+                "link": "/find?type=1&query=amnionic",
+                "word": "amnionic"
+            },
+            {
+                "id": "3222",
+                "link": "/find?type=1&query=amniote",
+                "word": "amniote"
+            },
+            {
+                "id": "3223",
+                "link": "/find?type=1&query=amniotic",
+                "word": "amniotic"
+            }
+        ]
+    }
+}

@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "43", "link": "/find?type=1&query=abac%2C+abacus", "word": "abac, abacus"}, {"id": "44", "link": "/find?type=1&query=abaca", "word": "abaca"}, {"id": "45", "link": "/find?type=1&query=abaci", "word": "abaci"}, {"id": "46", "link": "/find?type=1&query=abacist", "word": "abacist"}, {"id": "47", "link": "/find?type=1&query=aback", "word": "aback"}, {"id": "48", "link": "/find?type=1&query=abacterial", "word": "abacterial"}, {"id": "49", "link": "/find?type=1&query=abaction", "word": "abaction"}, {"id": "50", "link": "/find?type=1&query=abactus", "word": "abactus"}, {"id": "51", "link": "/find?type=1&query=abacus", "word": "abacus"}], "data": {}}, "en_en": {"suggests": [{"id": "25", "link": "/find?type=3&query=aback", "word": "aback"}, {"id": "26", "link": "/find?type=3&query=abacus", "word": "abacus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25",
+                "link": "/find?type=3&query=aback",
+                "word": "aback"
+            },
+            {
+                "id": "26",
+                "link": "/find?type=3&query=abacus",
+                "word": "abacus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43",
+                "link": "/find?type=1&query=abac%2C+abacus",
+                "word": "abac, abacus"
+            },
+            {
+                "id": "44",
+                "link": "/find?type=1&query=abaca",
+                "word": "abaca"
+            },
+            {
+                "id": "45",
+                "link": "/find?type=1&query=abaci",
+                "word": "abaci"
+            },
+            {
+                "id": "46",
+                "link": "/find?type=1&query=abacist",
+                "word": "abacist"
+            },
+            {
+                "id": "47",
+                "link": "/find?type=1&query=aback",
+                "word": "aback"
+            },
+            {
+                "id": "48",
+                "link": "/find?type=1&query=abacterial",
+                "word": "abacterial"
+            },
+            {
+                "id": "49",
+                "link": "/find?type=1&query=abaction",
+                "word": "abaction"
+            },
+            {
+                "id": "50",
+                "link": "/find?type=1&query=abactus",
+                "word": "abactus"
+            },
+            {
+                "id": "51",
+                "link": "/find?type=1&query=abacus",
+                "word": "abacus"
+            }
+        ]
+    }
+}

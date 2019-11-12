@@ -1,1 +1,37 @@
-{"error": 0, "query": "funic", "enViData": {"suggests": [{"id": "38493", "link": "/find?type=1&query=funicle", "word": "funicle"}, {"id": "38494", "link": "/find?type=1&query=funicular", "word": "funicular"}, {"id": "38495", "link": "/find?type=1&query=funiculi", "word": "funiculi"}, {"id": "38496", "link": "/find?type=1&query=funiculus", "word": "funiculus"}]}, "mUrl": "/find?type=1&query=funic", "enEnData": {"suggests": [{"id": "11648", "link": "/find?type=3&query=funicular", "word": "funicular"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11648",
+                "link": "/find?type=3&query=funicular",
+                "word": "funicular"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38493",
+                "link": "/find?type=1&query=funicle",
+                "word": "funicle"
+            },
+            {
+                "id": "38494",
+                "link": "/find?type=1&query=funicular",
+                "word": "funicular"
+            },
+            {
+                "id": "38495",
+                "link": "/find?type=1&query=funiculi",
+                "word": "funiculi"
+            },
+            {
+                "id": "38496",
+                "link": "/find?type=1&query=funiculus",
+                "word": "funiculus"
+            }
+        ]
+    }
+}

@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "6202", "link": "/find?type=1&query=asteria", "word": "asteria"}, {"id": "6202", "link": "/find?type=1&query=asteriatid", "word": "asteriatid"}, {"id": "6202", "link": "/find?type=1&query=asterik", "word": "asterik"}, {"id": "6202", "link": "/find?type=1&query=asterisk", "word": "asterisk"}, {"id": "6202", "link": "/find?type=1&query=asterism", "word": "asterism"}, {"id": "6202", "link": "/find?type=1&query=asterismal", "word": "asterismal"}, {"id": "6202", "link": "/find?type=1&query=astern", "word": "astern"}, {"id": "6202", "link": "/find?type=1&query=astern+of", "word": "astern of"}, {"id": "6202", "link": "/find?type=1&query=asternal", "word": "asternal"}], "data": {"word": "aster", "id": "6202", "pronounce": "/'\u00e6st\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y c\u00fac sao</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1511", "link": "/find?type=3&query=asterisk", "word": "asterisk"}, {"id": "1511", "link": "/find?type=3&query=astern", "word": "astern"}, {"id": "1511", "link": "/find?type=3&query=asteroid", "word": "asteroid"}], "data": {"word": "aster", "id": "1511", "pronounce": "/\u02c8\u00e6st\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of plant that is grown in gardens for its colorful flowers</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of plant that is grown in gardens for its colorful flowers</div>",
+            "id": "1511",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6st\u025a/",
+            "type": "noun",
+            "word": "aster"
+        },
+        "suggests": [
+            {
+                "id": "1511",
+                "link": "/find?type=3&query=asterisk",
+                "word": "asterisk"
+            },
+            {
+                "id": "1511",
+                "link": "/find?type=3&query=astern",
+                "word": "astern"
+            },
+            {
+                "id": "1511",
+                "link": "/find?type=3&query=asteroid",
+                "word": "asteroid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y c\u00fac sao</div>",
+            "id": "6202",
+            "mean": [],
+            "pronounce": "/'\u00e6st\u0259[r]/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "aster"
+        },
+        "suggests": [
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asteria",
+                "word": "asteria"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asteriatid",
+                "word": "asteriatid"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asterik",
+                "word": "asterik"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asterisk",
+                "word": "asterisk"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asterism",
+                "word": "asterism"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asterismal",
+                "word": "asterismal"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=astern",
+                "word": "astern"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=astern+of",
+                "word": "astern of"
+            },
+            {
+                "id": "6202",
+                "link": "/find?type=1&query=asternal",
+                "word": "asternal"
+            }
+        ]
+    }
+}

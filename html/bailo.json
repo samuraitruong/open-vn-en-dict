@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "7776", "link": "/find?type=1&query=bailor", "word": "bailor"}, {"id": "7777", "link": "/find?type=1&query=bailout", "word": "bailout"}], "data": {}}, "en_en": {"suggests": [{"id": "1889", "link": "/find?type=3&query=bailout", "word": "bailout"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1889",
+                "link": "/find?type=3&query=bailout",
+                "word": "bailout"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7776",
+                "link": "/find?type=1&query=bailor",
+                "word": "bailor"
+            },
+            {
+                "id": "7777",
+                "link": "/find?type=1&query=bailout",
+                "word": "bailout"
+            }
+        ]
+    }
+}

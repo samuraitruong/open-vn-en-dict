@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "32208", "link": "/find?type=1&query=eucharist", "word": "eucharist"}, {"id": "32208", "link": "/find?type=1&query=eucharistic", "word": "eucharistic"}, {"id": "32208", "link": "/find?type=1&query=eucharistical", "word": "eucharistical"}], "data": {"word": "eucharis", "id": "32208", "pronounce": "/'ju:k\u0259ris/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) c\u00e2y ng\u1ecdc tr\u00e2m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9831", "link": "/find?type=3&query=Eucharist", "word": "Eucharist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9831",
+                "link": "/find?type=3&query=Eucharist",
+                "word": "Eucharist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) c\u00e2y ng\u1ecdc tr\u00e2m</div>",
+            "id": "32208",
+            "mean": [],
+            "pronounce": "/'ju:k\u0259ris/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "eucharis"
+        },
+        "suggests": [
+            {
+                "id": "32208",
+                "link": "/find?type=1&query=eucharist",
+                "word": "eucharist"
+            },
+            {
+                "id": "32208",
+                "link": "/find?type=1&query=eucharistic",
+                "word": "eucharistic"
+            },
+            {
+                "id": "32208",
+                "link": "/find?type=1&query=eucharistical",
+                "word": "eucharistical"
+            }
+        ]
+    }
+}

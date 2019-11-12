@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "14373", "link": "/find?type=1&query=chancery", "word": "chancery"}], "data": {"word": "chancer", "id": "14373", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u01a1 h\u1ed9i; ng\u01b0\u1eddi kh\u00f4ng c\u00f3 nguy\u00ean t\u1eafc \u0111\u1ea1o \u0111\u1ee9c</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4553", "link": "/find?type=3&query=chancery", "word": "chancery"}], "data": {"word": "chancer", "id": "4553", "pronounce": "/\u02c8\u02a7\u00e6ns\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit informal + disapproving :someone who takes chances and often does improper things to get an advantage over other people</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit informal + disapproving :someone who takes chances and often does improper things to get an advantage over other people</div>",
+            "id": "4553",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7\u00e6ns\u025a/",
+            "type": "noun",
+            "word": "chancer"
+        },
+        "suggests": [
+            {
+                "id": "4553",
+                "link": "/find?type=3&query=chancery",
+                "word": "chancery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u01a1 h\u1ed9i; ng\u01b0\u1eddi kh\u00f4ng c\u00f3 nguy\u00ean t\u1eafc \u0111\u1ea1o \u0111\u1ee9c</div>",
+            "id": "14373",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "chancer"
+        },
+        "suggests": [
+            {
+                "id": "14373",
+                "link": "/find?type=1&query=chancery",
+                "word": "chancery"
+            }
+        ]
+    }
+}

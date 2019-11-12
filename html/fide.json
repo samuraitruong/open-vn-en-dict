@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "35059", "link": "/find?type=1&query=fideism", "word": "fideism"}, {"id": "35060", "link": "/find?type=1&query=fideist", "word": "fideist"}, {"id": "35061", "link": "/find?type=1&query=fidelity", "word": "fidelity"}], "data": {}}, "en_en": {"suggests": [{"id": "10546", "link": "/find?type=3&query=fidelity", "word": "fidelity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10546",
+                "link": "/find?type=3&query=fidelity",
+                "word": "fidelity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35059",
+                "link": "/find?type=1&query=fideism",
+                "word": "fideism"
+            },
+            {
+                "id": "35060",
+                "link": "/find?type=1&query=fideist",
+                "word": "fideist"
+            },
+            {
+                "id": "35061",
+                "link": "/find?type=1&query=fidelity",
+                "word": "fidelity"
+            }
+        ]
+    }
+}

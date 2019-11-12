@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "9517", "link": "/find?type=1&query=bisexual", "word": "bisexual"}, {"id": "9518", "link": "/find?type=1&query=bisexuality", "word": "bisexuality"}, {"id": "9519", "link": "/find?type=1&query=bisexually", "word": "bisexually"}], "data": {}}, "en_en": {"suggests": [{"id": "2690", "link": "/find?type=3&query=bisexual", "word": "bisexual"}], "data": {}}, "synonyms": {"suggests": [{"id": "546", "link": "/find?type=4&query=bisexual", "word": "bisexual"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2690",
+                "link": "/find?type=3&query=bisexual",
+                "word": "bisexual"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9517",
+                "link": "/find?type=1&query=bisexual",
+                "word": "bisexual"
+            },
+            {
+                "id": "9518",
+                "link": "/find?type=1&query=bisexuality",
+                "word": "bisexuality"
+            },
+            {
+                "id": "9519",
+                "link": "/find?type=1&query=bisexually",
+                "word": "bisexually"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "546",
+                "link": "/find?type=4&query=bisexual",
+                "word": "bisexual"
+            }
+        ]
+    }
+}

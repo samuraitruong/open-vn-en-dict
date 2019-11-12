@@ -1,1 +1,28 @@
-{"error": 0, "query": "hellenic", "enViData": {"suggests": [], "best": {"id": "43465", "details": "\n<div id=\"find_word_43465\" class=\"world word_en\" rel=\"Hellenic\">\n    <h2 class=\"fl\">Hellenic <span class=\"color-black\">/'heli:nik/ /he'lenik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43465\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43465\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Hy L\u1ea1p</div>\n    \n</div>\n", "link": "/find?type=1&query=Hellenic", "word": "Hellenic"}}, "mUrl": "/find?type=1&query=hellenic", "enEnData": {"suggests": [], "best": {"id": "13385", "details": "\n<div id=\"find_word_13385\" class=\"world word_en\" rel=\"Hellenic\">\n    <h2 class=\"fl\">Hellenic <span class=\"color-black\">/h\u025b\u02c8l\u025bn\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13385\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13385\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to ancient Greek culture</div>\n    \n</div>\n", "link": "/find?type=3&query=Hellenic", "word": "Hellenic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to ancient Greek culture</div>",
+            "id": "13385",
+            "mean": [],
+            "pronounce": "/h\u025b\u02c8l\u025bn\u026ak/",
+            "type": "adjective",
+            "word": "Hellenic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Hy L\u1ea1p</div>",
+            "id": "43465",
+            "mean": [],
+            "pronounce": "/'heli:nik/ /he'lenik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/feb76df2e563907dcd04f7c5fcf37e1d/16e6182d5fc/H/Hellenic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e42d8c0248d1d6838c6d486d47b61707/16e6182ce1a/H/Hellenic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "Hellenic"
+        },
+        "suggests": []
+    }
+}

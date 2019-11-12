@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "13849", "link": "/find?type=1&query=cavalryman", "word": "cavalryman"}], "data": {"word": "cavalry", "id": "13849", "pronounce": "/'k\u00e6vlri/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ef5 binh</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/40ec293b8db9f254f2895247a8d140a4/16e5de5cad7/C/cavalry.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8249991047ec0a2daee246929591b93a/16e5de5d0b6/C/cavalry.mp3"}}}, "en_en": {"suggests": [{"id": "4352", "link": "/find?type=3&query=cavalryman", "word": "cavalryman"}], "data": {"word": "cavalry", "id": "4352", "pronounce": "/\u02c8k\u00e6v\u0259lri/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">the part of an army that in the past had soldiers who rode horses and that now has soldiers who ride in vehicles or helicopters [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cavalry is used to perform reconnaissance. [plural]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The cavalry were brought in to support the mission. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cavalry forces/officers/troops - compare infantry</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">the part of an army that in the past had soldiers who rode horses and that now has soldiers who ride in vehicles or helicopters [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cavalry is used to perform reconnaissance. [plural]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The cavalry were brought in to support the mission. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cavalry forces/officers/troops - compare infantry</div>",
+            "id": "4352",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6v\u0259lri/",
+            "type": "noun",
+            "word": "cavalry"
+        },
+        "suggests": [
+            {
+                "id": "4352",
+                "link": "/find?type=3&query=cavalryman",
+                "word": "cavalryman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ef5 binh</div>",
+            "id": "13849",
+            "mean": [],
+            "pronounce": "/'k\u00e6vlri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/470348bc88d48c4919c53f490a05fe38/16e5ec69d25/C/cavalry.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/799dbb47170867586aad71429afaeffa/16e5ec696eb/C/cavalry.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cavalry"
+        },
+        "suggests": [
+            {
+                "id": "13849",
+                "link": "/find?type=1&query=cavalryman",
+                "word": "cavalryman"
+            }
+        ]
+    }
+}

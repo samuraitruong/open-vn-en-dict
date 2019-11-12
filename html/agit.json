@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "2044", "link": "/find?type=1&query=agitate", "word": "agitate"}, {"id": "2045", "link": "/find?type=1&query=agitated", "word": "agitated"}, {"id": "2046", "link": "/find?type=1&query=agitatedly", "word": "agitatedly"}, {"id": "2047", "link": "/find?type=1&query=agitation", "word": "agitation"}, {"id": "2048", "link": "/find?type=1&query=agitational", "word": "agitational"}, {"id": "2049", "link": "/find?type=1&query=agitative", "word": "agitative"}, {"id": "2050", "link": "/find?type=1&query=agitator", "word": "agitator"}, {"id": "2051", "link": "/find?type=1&query=agitprop", "word": "agitprop"}], "data": {}}, "en_en": {"suggests": [{"id": "520", "link": "/find?type=3&query=agitate", "word": "agitate"}, {"id": "521", "link": "/find?type=3&query=agitator", "word": "agitator"}], "data": {}}, "synonyms": {"suggests": [{"id": "164", "link": "/find?type=4&query=agitate", "word": "agitate"}, {"id": "165", "link": "/find?type=4&query=agitated", "word": "agitated"}, {"id": "166", "link": "/find?type=4&query=agitation", "word": "agitation"}, {"id": "167", "link": "/find?type=4&query=agitator", "word": "agitator"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "520",
+                "link": "/find?type=3&query=agitate",
+                "word": "agitate"
+            },
+            {
+                "id": "521",
+                "link": "/find?type=3&query=agitator",
+                "word": "agitator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2044",
+                "link": "/find?type=1&query=agitate",
+                "word": "agitate"
+            },
+            {
+                "id": "2045",
+                "link": "/find?type=1&query=agitated",
+                "word": "agitated"
+            },
+            {
+                "id": "2046",
+                "link": "/find?type=1&query=agitatedly",
+                "word": "agitatedly"
+            },
+            {
+                "id": "2047",
+                "link": "/find?type=1&query=agitation",
+                "word": "agitation"
+            },
+            {
+                "id": "2048",
+                "link": "/find?type=1&query=agitational",
+                "word": "agitational"
+            },
+            {
+                "id": "2049",
+                "link": "/find?type=1&query=agitative",
+                "word": "agitative"
+            },
+            {
+                "id": "2050",
+                "link": "/find?type=1&query=agitator",
+                "word": "agitator"
+            },
+            {
+                "id": "2051",
+                "link": "/find?type=1&query=agitprop",
+                "word": "agitprop"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "164",
+                "link": "/find?type=4&query=agitate",
+                "word": "agitate"
+            },
+            {
+                "id": "165",
+                "link": "/find?type=4&query=agitated",
+                "word": "agitated"
+            },
+            {
+                "id": "166",
+                "link": "/find?type=4&query=agitation",
+                "word": "agitation"
+            },
+            {
+                "id": "167",
+                "link": "/find?type=4&query=agitator",
+                "word": "agitator"
+            }
+        ]
+    }
+}

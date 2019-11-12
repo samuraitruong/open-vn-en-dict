@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "32827", "link": "/find?type=1&query=excusable", "word": "excusable"}, {"id": "32828", "link": "/find?type=1&query=excusableness", "word": "excusableness"}, {"id": "32829", "link": "/find?type=1&query=excusably", "word": "excusably"}, {"id": "32830", "link": "/find?type=1&query=excusatory", "word": "excusatory"}, {"id": "32831", "link": "/find?type=1&query=excuse", "word": "excuse"}, {"id": "32832", "link": "/find?type=1&query=excuser", "word": "excuser"}], "data": {}}, "en_en": {"suggests": [{"id": "9958", "link": "/find?type=3&query=excuse", "word": "excuse"}], "data": {}}, "synonyms": {"suggests": [{"id": "2344", "link": "/find?type=4&query=excuse", "word": "excuse"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9958",
+                "link": "/find?type=3&query=excuse",
+                "word": "excuse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32827",
+                "link": "/find?type=1&query=excusable",
+                "word": "excusable"
+            },
+            {
+                "id": "32828",
+                "link": "/find?type=1&query=excusableness",
+                "word": "excusableness"
+            },
+            {
+                "id": "32829",
+                "link": "/find?type=1&query=excusably",
+                "word": "excusably"
+            },
+            {
+                "id": "32830",
+                "link": "/find?type=1&query=excusatory",
+                "word": "excusatory"
+            },
+            {
+                "id": "32831",
+                "link": "/find?type=1&query=excuse",
+                "word": "excuse"
+            },
+            {
+                "id": "32832",
+                "link": "/find?type=1&query=excuser",
+                "word": "excuser"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2344",
+                "link": "/find?type=4&query=excuse",
+                "word": "excuse"
+            }
+        ]
+    }
+}

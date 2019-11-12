@@ -1,1 +1,45 @@
-{"error": 0, "query": "forestal", "enViData": {"suggests": [{"id": "37164", "link": "/find?type=1&query=forestall", "word": "forestall"}, {"id": "37164", "link": "/find?type=1&query=forestalling", "word": "forestalling"}], "best": {"id": "37164", "details": "\n<div id=\"find_word_37164\" class=\"world word_en\" rel=\"forestal\">\n    <h2 class=\"fl\">forestal <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"37164\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"37164\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thu\u1ed9c r\u1eebng; li\u00ean quan \u0111\u1ebfn r\u1eebng</div>\n    \n</div>\n", "link": "/find?type=1&query=forestal", "word": "forestal"}}, "mUrl": "/find?type=1&query=forestal", "enEnData": {"suggests": [{"id": "11209", "link": "/find?type=3&query=forestall", "word": "forestall"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2778", "link": "/find?type=4&query=forestall", "word": "forestall"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11209",
+                "link": "/find?type=3&query=forestall",
+                "word": "forestall"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thu\u1ed9c r\u1eebng; li\u00ean quan \u0111\u1ebfn r\u1eebng</div>",
+            "id": "37164",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "forestal"
+        },
+        "suggests": [
+            {
+                "id": "37164",
+                "link": "/find?type=1&query=forestall",
+                "word": "forestall"
+            },
+            {
+                "id": "37164",
+                "link": "/find?type=1&query=forestalling",
+                "word": "forestalling"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2778",
+                "link": "/find?type=4&query=forestall",
+                "word": "forestall"
+            }
+        ]
+    }
+}

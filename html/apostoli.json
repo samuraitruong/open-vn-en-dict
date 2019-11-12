@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "4964", "link": "/find?type=1&query=apostolic", "word": "apostolic"}, {"id": "4965", "link": "/find?type=1&query=apostolic+succession", "word": "apostolic succession"}, {"id": "4966", "link": "/find?type=1&query=apostolical", "word": "apostolical"}, {"id": "4967", "link": "/find?type=1&query=apostolicity", "word": "apostolicity"}], "data": {}}, "en_en": {"suggests": [{"id": "1136", "link": "/find?type=3&query=apostolic", "word": "apostolic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1136",
+                "link": "/find?type=3&query=apostolic",
+                "word": "apostolic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4964",
+                "link": "/find?type=1&query=apostolic",
+                "word": "apostolic"
+            },
+            {
+                "id": "4965",
+                "link": "/find?type=1&query=apostolic+succession",
+                "word": "apostolic succession"
+            },
+            {
+                "id": "4966",
+                "link": "/find?type=1&query=apostolical",
+                "word": "apostolical"
+            },
+            {
+                "id": "4967",
+                "link": "/find?type=1&query=apostolicity",
+                "word": "apostolicity"
+            }
+        ]
+    }
+}

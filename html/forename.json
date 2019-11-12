@@ -1,1 +1,34 @@
-{"error": 0, "query": "forename", "enViData": {"suggests": [{"id": "37122", "link": "/find?type=1&query=forenamed", "word": "forenamed"}], "best": {"id": "37122", "details": "\n<div id=\"find_word_37122\" class=\"world word_en\" rel=\"forename\">\n    <h2 class=\"fl\">forename <span class=\"color-black\">/'f\u0254:neim/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"37122\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"37122\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ean; t\u00ean th\u00e1nh</div>\n    \n</div>\n", "link": "/find?type=1&query=forename", "word": "forename"}}, "mUrl": "/find?type=1&query=forename", "enEnData": {"suggests": [], "best": {"id": "11196", "details": "\n<div id=\"find_word_11196\" class=\"world word_en\" rel=\"forename\">\n    <h2 class=\"fl\">forename <span class=\"color-black\">/\u02c8fo\u025a\u02ccne\u026am/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11196\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11196\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -names</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit formal :first name</div>\n    \n</div>\n", "link": "/find?type=3&query=forename", "word": "forename"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -names</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit formal :first name</div>",
+            "id": "11196",
+            "mean": [],
+            "pronounce": "/\u02c8fo\u025a\u02ccne\u026am/",
+            "type": "noun",
+            "word": "forename"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ean; t\u00ean th\u00e1nh</div>",
+            "id": "37122",
+            "mean": [],
+            "pronounce": "/'f\u0254:neim/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d2c74e4416f27007c19b28f593d03444/16e6081c495/F/forename.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/724d82d407536ae19537201a74c2564e/16e6081bca3/F/forename.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "forename"
+        },
+        "suggests": [
+            {
+                "id": "37122",
+                "link": "/find?type=1&query=forenamed",
+                "word": "forenamed"
+            }
+        ]
+    }
+}

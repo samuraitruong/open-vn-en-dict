@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "13501", "link": "/find?type=1&query=casserole", "word": "casserole"}, {"id": "13502", "link": "/find?type=1&query=cassette", "word": "cassette"}, {"id": "13503", "link": "/find?type=1&query=cassette+deck", "word": "cassette deck"}, {"id": "13504", "link": "/find?type=1&query=cassette+player", "word": "cassette player"}, {"id": "13505", "link": "/find?type=1&query=cassette+recorder", "word": "cassette recorder"}, {"id": "13506", "link": "/find?type=1&query=cassette+tape", "word": "cassette tape"}], "data": {}}, "en_en": {"suggests": [{"id": "4242", "link": "/find?type=3&query=casserole", "word": "casserole"}, {"id": "4243", "link": "/find?type=3&query=cassette", "word": "cassette"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4242",
+                "link": "/find?type=3&query=casserole",
+                "word": "casserole"
+            },
+            {
+                "id": "4243",
+                "link": "/find?type=3&query=cassette",
+                "word": "cassette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13501",
+                "link": "/find?type=1&query=casserole",
+                "word": "casserole"
+            },
+            {
+                "id": "13502",
+                "link": "/find?type=1&query=cassette",
+                "word": "cassette"
+            },
+            {
+                "id": "13503",
+                "link": "/find?type=1&query=cassette+deck",
+                "word": "cassette deck"
+            },
+            {
+                "id": "13504",
+                "link": "/find?type=1&query=cassette+player",
+                "word": "cassette player"
+            },
+            {
+                "id": "13505",
+                "link": "/find?type=1&query=cassette+recorder",
+                "word": "cassette recorder"
+            },
+            {
+                "id": "13506",
+                "link": "/find?type=1&query=cassette+tape",
+                "word": "cassette tape"
+            }
+        ]
+    }
+}

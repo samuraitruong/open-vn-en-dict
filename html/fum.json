@@ -1,1 +1,97 @@
-{"error": 0, "query": "fum", "enViData": {"suggests": [{"id": "38396", "link": "/find?type=1&query=fumade", "word": "fumade"}, {"id": "38397", "link": "/find?type=1&query=fumarole", "word": "fumarole"}, {"id": "38398", "link": "/find?type=1&query=fumble", "word": "fumble"}, {"id": "38399", "link": "/find?type=1&query=fumbler", "word": "fumbler"}, {"id": "38400", "link": "/find?type=1&query=fume", "word": "fume"}, {"id": "38401", "link": "/find?type=1&query=fume-off", "word": "fume-off"}, {"id": "38402", "link": "/find?type=1&query=fume-proof", "word": "fume-proof"}, {"id": "38403", "link": "/find?type=1&query=fume-resistant", "word": "fume-resistant"}, {"id": "38404", "link": "/find?type=1&query=fumed", "word": "fumed"}, {"id": "38405", "link": "/find?type=1&query=fumigant", "word": "fumigant"}]}, "mUrl": "/find?type=1&query=fum", "enEnData": {"suggests": [{"id": "11621", "link": "/find?type=3&query=fumble", "word": "fumble"}, {"id": "11622", "link": "/find?type=3&query=fume", "word": "fume"}, {"id": "11623", "link": "/find?type=3&query=fumigate", "word": "fumigate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2886", "link": "/find?type=4&query=fumble", "word": "fumble"}, {"id": "2887", "link": "/find?type=4&query=fume", "word": "fume"}, {"id": "2888", "link": "/find?type=4&query=fumigate", "word": "fumigate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11621",
+                "link": "/find?type=3&query=fumble",
+                "word": "fumble"
+            },
+            {
+                "id": "11622",
+                "link": "/find?type=3&query=fume",
+                "word": "fume"
+            },
+            {
+                "id": "11623",
+                "link": "/find?type=3&query=fumigate",
+                "word": "fumigate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38396",
+                "link": "/find?type=1&query=fumade",
+                "word": "fumade"
+            },
+            {
+                "id": "38397",
+                "link": "/find?type=1&query=fumarole",
+                "word": "fumarole"
+            },
+            {
+                "id": "38398",
+                "link": "/find?type=1&query=fumble",
+                "word": "fumble"
+            },
+            {
+                "id": "38399",
+                "link": "/find?type=1&query=fumbler",
+                "word": "fumbler"
+            },
+            {
+                "id": "38400",
+                "link": "/find?type=1&query=fume",
+                "word": "fume"
+            },
+            {
+                "id": "38401",
+                "link": "/find?type=1&query=fume-off",
+                "word": "fume-off"
+            },
+            {
+                "id": "38402",
+                "link": "/find?type=1&query=fume-proof",
+                "word": "fume-proof"
+            },
+            {
+                "id": "38403",
+                "link": "/find?type=1&query=fume-resistant",
+                "word": "fume-resistant"
+            },
+            {
+                "id": "38404",
+                "link": "/find?type=1&query=fumed",
+                "word": "fumed"
+            },
+            {
+                "id": "38405",
+                "link": "/find?type=1&query=fumigant",
+                "word": "fumigant"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2886",
+                "link": "/find?type=4&query=fumble",
+                "word": "fumble"
+            },
+            {
+                "id": "2887",
+                "link": "/find?type=4&query=fume",
+                "word": "fume"
+            },
+            {
+                "id": "2888",
+                "link": "/find?type=4&query=fumigate",
+                "word": "fumigate"
+            }
+        ]
+    }
+}

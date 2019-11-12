@@ -1,1 +1,39 @@
-{"error": 0, "query": "guileless", "enViData": {"suggests": [{"id": "41938", "link": "/find?type=1&query=guilelessly", "word": "guilelessly"}, {"id": "41938", "link": "/find?type=1&query=guilelessness", "word": "guilelessness"}], "best": {"id": "41938", "details": "\n<div id=\"find_word_41938\" class=\"world word_en\" rel=\"guileless\">\n    <h2 class=\"fl\">guileless <span class=\"color-black\">/'gaillis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41938\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41938\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e2n th\u1eadt</div>\n    \n</div>\n", "link": "/find?type=1&query=guileless", "word": "guileless"}}, "mUrl": "/find?type=1&query=guileless", "enEnData": {"suggests": [], "best": {"id": "12757", "details": "\n<div id=\"find_word_12757\" class=\"world word_en\" rel=\"guileless\">\n    <h2 class=\"fl\">guileless <span class=\"color-black\">/\u02c8gaj\u0259ll\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12757\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12757\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :very innocent :naive</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a guileless person/smile</div>\n    \n</div>\n", "link": "/find?type=3&query=guileless", "word": "guileless"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :very innocent :naive</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a guileless person/smile</div>",
+            "id": "12757",
+            "mean": [],
+            "pronounce": "/\u02c8gaj\u0259ll\u0259s/",
+            "type": "adjective",
+            "word": "guileless"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e2n th\u1eadt</div>",
+            "id": "41938",
+            "mean": [],
+            "pronounce": "/'gaillis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/88353af120345638e9156ed2ea2651b1/16e614120d2/G/guileless.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7c45cc2d7e05666d8c76fc86639ff486/16e6141188a/G/guileless.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "guileless"
+        },
+        "suggests": [
+            {
+                "id": "41938",
+                "link": "/find?type=1&query=guilelessly",
+                "word": "guilelessly"
+            },
+            {
+                "id": "41938",
+                "link": "/find?type=1&query=guilelessness",
+                "word": "guilelessness"
+            }
+        ]
+    }
+}

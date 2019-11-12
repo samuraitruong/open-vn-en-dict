@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "32651", "link": "/find?type=1&query=excellence", "word": "excellence"}, {"id": "32652", "link": "/find?type=1&query=Excellency", "word": "Excellency"}, {"id": "32653", "link": "/find?type=1&query=excellent", "word": "excellent"}, {"id": "32654", "link": "/find?type=1&query=excellently", "word": "excellently"}], "data": {}}, "en_en": {"suggests": [{"id": "9921", "link": "/find?type=3&query=excellence", "word": "excellence"}, {"id": "9922", "link": "/find?type=3&query=Excellency", "word": "Excellency"}, {"id": "9923", "link": "/find?type=3&query=excellent", "word": "excellent"}], "data": {}}, "synonyms": {"suggests": [{"id": "2322", "link": "/find?type=4&query=excellence", "word": "excellence"}, {"id": "2323", "link": "/find?type=4&query=excellent", "word": "excellent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9921",
+                "link": "/find?type=3&query=excellence",
+                "word": "excellence"
+            },
+            {
+                "id": "9922",
+                "link": "/find?type=3&query=Excellency",
+                "word": "Excellency"
+            },
+            {
+                "id": "9923",
+                "link": "/find?type=3&query=excellent",
+                "word": "excellent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32651",
+                "link": "/find?type=1&query=excellence",
+                "word": "excellence"
+            },
+            {
+                "id": "32652",
+                "link": "/find?type=1&query=Excellency",
+                "word": "Excellency"
+            },
+            {
+                "id": "32653",
+                "link": "/find?type=1&query=excellent",
+                "word": "excellent"
+            },
+            {
+                "id": "32654",
+                "link": "/find?type=1&query=excellently",
+                "word": "excellently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2322",
+                "link": "/find?type=4&query=excellence",
+                "word": "excellence"
+            },
+            {
+                "id": "2323",
+                "link": "/find?type=4&query=excellent",
+                "word": "excellent"
+            }
+        ]
+    }
+}

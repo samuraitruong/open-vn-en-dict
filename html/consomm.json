@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "18902", "link": "/find?type=1&query=consomm%C3%A9", "word": "consomm\u00e9"}], "data": {}}, "en_en": {"suggests": [{"id": "6026", "link": "/find?type=3&query=consomme", "word": "consomme"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6026",
+                "link": "/find?type=3&query=consomme",
+                "word": "consomme"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18902",
+                "link": "/find?type=1&query=consomm%C3%A9",
+                "word": "consomm\u00e9"
+            }
+        ]
+    }
+}

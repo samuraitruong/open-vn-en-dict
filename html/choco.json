@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "15069", "link": "/find?type=1&query=chocolate", "word": "chocolate"}, {"id": "15070", "link": "/find?type=1&query=chocolate-box", "word": "chocolate-box"}, {"id": "15071", "link": "/find?type=1&query=chocolate-soldier", "word": "chocolate-soldier"}], "data": {}}, "en_en": {"suggests": [{"id": "4850", "link": "/find?type=3&query=chocoholic", "word": "chocoholic"}, {"id": "4851", "link": "/find?type=3&query=chocolate", "word": "chocolate"}, {"id": "4852", "link": "/find?type=3&query=chocolate-box", "word": "chocolate-box"}, {"id": "4853", "link": "/find?type=3&query=chocolatier", "word": "chocolatier"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4850",
+                "link": "/find?type=3&query=chocoholic",
+                "word": "chocoholic"
+            },
+            {
+                "id": "4851",
+                "link": "/find?type=3&query=chocolate",
+                "word": "chocolate"
+            },
+            {
+                "id": "4852",
+                "link": "/find?type=3&query=chocolate-box",
+                "word": "chocolate-box"
+            },
+            {
+                "id": "4853",
+                "link": "/find?type=3&query=chocolatier",
+                "word": "chocolatier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15069",
+                "link": "/find?type=1&query=chocolate",
+                "word": "chocolate"
+            },
+            {
+                "id": "15070",
+                "link": "/find?type=1&query=chocolate-box",
+                "word": "chocolate-box"
+            },
+            {
+                "id": "15071",
+                "link": "/find?type=1&query=chocolate-soldier",
+                "word": "chocolate-soldier"
+            }
+        ]
+    }
+}

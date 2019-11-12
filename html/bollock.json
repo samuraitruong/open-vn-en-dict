@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "10342", "link": "/find?type=1&query=bollocking", "word": "bollocking"}, {"id": "10343", "link": "/find?type=1&query=bollocks", "word": "bollocks"}], "data": {}}, "en_en": {"suggests": [{"id": "3050", "link": "/find?type=3&query=bollocks", "word": "bollocks"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3050",
+                "link": "/find?type=3&query=bollocks",
+                "word": "bollocks"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10342",
+                "link": "/find?type=1&query=bollocking",
+                "word": "bollocking"
+            },
+            {
+                "id": "10343",
+                "link": "/find?type=1&query=bollocks",
+                "word": "bollocks"
+            }
+        ]
+    }
+}

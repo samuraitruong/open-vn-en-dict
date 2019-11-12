@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "997", "link": "/find?type=1&query=acquisition", "word": "acquisition"}, {"id": "998", "link": "/find?type=1&query=acquisitive", "word": "acquisitive"}, {"id": "999", "link": "/find?type=1&query=acquisitively", "word": "acquisitively"}, {"id": "1000", "link": "/find?type=1&query=acquisitiveness", "word": "acquisitiveness"}, {"id": "1001", "link": "/find?type=1&query=acquisitor", "word": "acquisitor"}], "data": {}}, "en_en": {"suggests": [{"id": "238", "link": "/find?type=3&query=acquisition", "word": "acquisition"}, {"id": "239", "link": "/find?type=3&query=acquisitive", "word": "acquisitive"}], "data": {}}, "synonyms": {"suggests": [{"id": "90", "link": "/find?type=4&query=acquisition", "word": "acquisition"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "238",
+                "link": "/find?type=3&query=acquisition",
+                "word": "acquisition"
+            },
+            {
+                "id": "239",
+                "link": "/find?type=3&query=acquisitive",
+                "word": "acquisitive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "997",
+                "link": "/find?type=1&query=acquisition",
+                "word": "acquisition"
+            },
+            {
+                "id": "998",
+                "link": "/find?type=1&query=acquisitive",
+                "word": "acquisitive"
+            },
+            {
+                "id": "999",
+                "link": "/find?type=1&query=acquisitively",
+                "word": "acquisitively"
+            },
+            {
+                "id": "1000",
+                "link": "/find?type=1&query=acquisitiveness",
+                "word": "acquisitiveness"
+            },
+            {
+                "id": "1001",
+                "link": "/find?type=1&query=acquisitor",
+                "word": "acquisitor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "90",
+                "link": "/find?type=4&query=acquisition",
+                "word": "acquisition"
+            }
+        ]
+    }
+}

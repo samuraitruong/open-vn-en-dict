@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "20827", "link": "/find?type=1&query=crayfish", "word": "crayfish"}, {"id": "20828", "link": "/find?type=1&query=crayon", "word": "crayon"}, {"id": "20829", "link": "/find?type=1&query=crayonist", "word": "crayonist"}], "data": {}}, "en_en": {"suggests": [{"id": "6670", "link": "/find?type=3&query=crayfish", "word": "crayfish"}, {"id": "6671", "link": "/find?type=3&query=crayon", "word": "crayon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6670",
+                "link": "/find?type=3&query=crayfish",
+                "word": "crayfish"
+            },
+            {
+                "id": "6671",
+                "link": "/find?type=3&query=crayon",
+                "word": "crayon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20827",
+                "link": "/find?type=1&query=crayfish",
+                "word": "crayfish"
+            },
+            {
+                "id": "20828",
+                "link": "/find?type=1&query=crayon",
+                "word": "crayon"
+            },
+            {
+                "id": "20829",
+                "link": "/find?type=1&query=crayonist",
+                "word": "crayonist"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "15882", "link": "/find?type=1&query=classism", "word": "classism"}], "data": {}}, "en_en": {"suggests": [{"id": "5106", "link": "/find?type=3&query=classism", "word": "classism"}], "data": {}}, "synonyms": {"suggests": [{"id": "1030", "link": "/find?type=4&query=classic", "word": "classic"}, {"id": "1031", "link": "/find?type=4&query=classical", "word": "classical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5106",
+                "link": "/find?type=3&query=classism",
+                "word": "classism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15882",
+                "link": "/find?type=1&query=classism",
+                "word": "classism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1030",
+                "link": "/find?type=4&query=classic",
+                "word": "classic"
+            },
+            {
+                "id": "1031",
+                "link": "/find?type=4&query=classical",
+                "word": "classical"
+            }
+        ]
+    }
+}

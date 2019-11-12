@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "18227", "link": "/find?type=1&query=concertina", "word": "concertina"}, {"id": "18228", "link": "/find?type=1&query=Concertina+method+of+tariff+reduction", "word": "Concertina method of tariff reduction"}, {"id": "18229", "link": "/find?type=1&query=concertino", "word": "concertino"}], "data": {}}, "en_en": {"suggests": [{"id": "5815", "link": "/find?type=3&query=concertina", "word": "concertina"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5815",
+                "link": "/find?type=3&query=concertina",
+                "word": "concertina"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18227",
+                "link": "/find?type=1&query=concertina",
+                "word": "concertina"
+            },
+            {
+                "id": "18228",
+                "link": "/find?type=1&query=Concertina+method+of+tariff+reduction",
+                "word": "Concertina method of tariff reduction"
+            },
+            {
+                "id": "18229",
+                "link": "/find?type=1&query=concertino",
+                "word": "concertino"
+            }
+        ]
+    }
+}

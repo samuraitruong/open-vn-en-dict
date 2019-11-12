@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "13728", "link": "/find?type=1&query=catheterization", "word": "catheterization"}, {"id": "13728", "link": "/find?type=1&query=catheterize", "word": "catheterize"}, {"id": "13728", "link": "/find?type=1&query=catheterize%2C+catheterise", "word": "catheterize, catheterise"}], "data": {"word": "catheter", "id": "13728", "pronounce": "/'k\u00e6\u03b8it\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) \u1ed1ng th\u00f4ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/781a5487c553bd59475ffa1731546171/16e5de55ccd/C/catheter.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7bb6de32340c3af78a9a8bfdd549929c/16e5de562ab/C/catheter.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "catheter", "id": "4303", "pronounce": "/\u02c8k\u00e6\u0275\u0259t\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a thin tube that is put into the body to remove or inject a liquid or to keep a passage open</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a thin tube that is put into the body to remove or inject a liquid or to keep a passage open</div>",
+            "id": "4303",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6\u0275\u0259t\u025a/",
+            "type": "noun",
+            "word": "catheter"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) \u1ed1ng th\u00f4ng</div>",
+            "id": "13728",
+            "mean": [],
+            "pronounce": "/'k\u00e6\u03b8it\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/546fa7f17098bba2011bf35bede71e6b/16e5ec6340a/C/catheter.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3e582527d7d9a51a95349ed625f2d531/16e5ec62e05/C/catheter.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "catheter"
+        },
+        "suggests": [
+            {
+                "id": "13728",
+                "link": "/find?type=1&query=catheterization",
+                "word": "catheterization"
+            },
+            {
+                "id": "13728",
+                "link": "/find?type=1&query=catheterize",
+                "word": "catheterize"
+            },
+            {
+                "id": "13728",
+                "link": "/find?type=1&query=catheterize%2C+catheterise",
+                "word": "catheterize, catheterise"
+            }
+        ]
+    }
+}

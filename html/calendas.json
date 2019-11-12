@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "12443", "link": "/find?type=1&query=calendal", "word": "calendal"}, {"id": "12444", "link": "/find?type=1&query=calendar", "word": "calendar"}, {"id": "12445", "link": "/find?type=1&query=calendar+month", "word": "calendar month"}, {"id": "12446", "link": "/find?type=1&query=calendar+year", "word": "calendar year"}], "data": {}}, "en_en": {"suggests": [{"id": "3894", "link": "/find?type=3&query=calendar", "word": "calendar"}, {"id": "3895", "link": "/find?type=3&query=calendar+year", "word": "calendar year"}], "data": {}}, "synonyms": {"suggests": [{"id": "824", "link": "/find?type=4&query=calendar", "word": "calendar"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3894",
+                "link": "/find?type=3&query=calendar",
+                "word": "calendar"
+            },
+            {
+                "id": "3895",
+                "link": "/find?type=3&query=calendar+year",
+                "word": "calendar year"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12443",
+                "link": "/find?type=1&query=calendal",
+                "word": "calendal"
+            },
+            {
+                "id": "12444",
+                "link": "/find?type=1&query=calendar",
+                "word": "calendar"
+            },
+            {
+                "id": "12445",
+                "link": "/find?type=1&query=calendar+month",
+                "word": "calendar month"
+            },
+            {
+                "id": "12446",
+                "link": "/find?type=1&query=calendar+year",
+                "word": "calendar year"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "824",
+                "link": "/find?type=4&query=calendar",
+                "word": "calendar"
+            }
+        ]
+    }
+}

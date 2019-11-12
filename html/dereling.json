@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "24309", "link": "/find?type=1&query=derelict", "word": "derelict"}, {"id": "24310", "link": "/find?type=1&query=dereliction", "word": "dereliction"}], "data": {}}, "en_en": {"suggests": [{"id": "7726", "link": "/find?type=3&query=derelict", "word": "derelict"}, {"id": "7727", "link": "/find?type=3&query=dereliction", "word": "dereliction"}], "data": {}}, "synonyms": {"suggests": [{"id": "1556", "link": "/find?type=4&query=derelict", "word": "derelict"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7726",
+                "link": "/find?type=3&query=derelict",
+                "word": "derelict"
+            },
+            {
+                "id": "7727",
+                "link": "/find?type=3&query=dereliction",
+                "word": "dereliction"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24309",
+                "link": "/find?type=1&query=derelict",
+                "word": "derelict"
+            },
+            {
+                "id": "24310",
+                "link": "/find?type=1&query=dereliction",
+                "word": "dereliction"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1556",
+                "link": "/find?type=4&query=derelict",
+                "word": "derelict"
+            }
+        ]
+    }
+}

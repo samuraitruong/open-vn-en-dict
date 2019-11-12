@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "17582", "link": "/find?type=1&query=compartmentalization", "word": "compartmentalization"}, {"id": "17582", "link": "/find?type=1&query=compartmentalize%2C+compartmentalise", "word": "compartmentalize, compartmentalise"}], "data": {"word": "compartmental", "id": "17582", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=compartment\">compartment</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5702", "link": "/find?type=3&query=compartmentalize", "word": "compartmentalize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5702",
+                "link": "/find?type=3&query=compartmentalize",
+                "word": "compartmentalize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=compartment\">compartment</a></span></div>",
+            "id": "17582",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "compartmental"
+        },
+        "suggests": [
+            {
+                "id": "17582",
+                "link": "/find?type=1&query=compartmentalization",
+                "word": "compartmentalization"
+            },
+            {
+                "id": "17582",
+                "link": "/find?type=1&query=compartmentalize%2C+compartmentalise",
+                "word": "compartmentalize, compartmentalise"
+            }
+        ]
+    }
+}

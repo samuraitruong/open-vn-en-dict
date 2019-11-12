@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "13385", "link": "/find?type=1&query=cartesian", "word": "cartesian"}, {"id": "13386", "link": "/find?type=1&query=cartesian+chart", "word": "cartesian chart"}, {"id": "13387", "link": "/find?type=1&query=cartesian+coordinate+system", "word": "cartesian coordinate system"}, {"id": "13388", "link": "/find?type=1&query=cartesianism", "word": "cartesianism"}, {"id": "13389", "link": "/find?type=1&query=cartessian", "word": "cartessian"}], "data": {}}, "en_en": {"suggests": [{"id": "4199", "link": "/find?type=3&query=carte+blanche", "word": "carte blanche"}, {"id": "4200", "link": "/find?type=3&query=cartel", "word": "cartel"}], "data": {}}, "synonyms": {"suggests": [{"id": "880", "link": "/find?type=4&query=carte+blanche", "word": "carte blanche"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4199",
+                "link": "/find?type=3&query=carte+blanche",
+                "word": "carte blanche"
+            },
+            {
+                "id": "4200",
+                "link": "/find?type=3&query=cartel",
+                "word": "cartel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13385",
+                "link": "/find?type=1&query=cartesian",
+                "word": "cartesian"
+            },
+            {
+                "id": "13386",
+                "link": "/find?type=1&query=cartesian+chart",
+                "word": "cartesian chart"
+            },
+            {
+                "id": "13387",
+                "link": "/find?type=1&query=cartesian+coordinate+system",
+                "word": "cartesian coordinate system"
+            },
+            {
+                "id": "13388",
+                "link": "/find?type=1&query=cartesianism",
+                "word": "cartesianism"
+            },
+            {
+                "id": "13389",
+                "link": "/find?type=1&query=cartessian",
+                "word": "cartessian"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "880",
+                "link": "/find?type=4&query=carte+blanche",
+                "word": "carte blanche"
+            }
+        ]
+    }
+}

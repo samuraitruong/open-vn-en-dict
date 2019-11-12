@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "3841", "link": "/find?type=1&query=Anglophile", "word": "Anglophile"}, {"id": "3842", "link": "/find?type=1&query=Anglophilia", "word": "Anglophilia"}], "data": {}}, "en_en": {"suggests": [{"id": "949", "link": "/find?type=3&query=Anglophile", "word": "Anglophile"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "949",
+                "link": "/find?type=3&query=Anglophile",
+                "word": "Anglophile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3841",
+                "link": "/find?type=1&query=Anglophile",
+                "word": "Anglophile"
+            },
+            {
+                "id": "3842",
+                "link": "/find?type=1&query=Anglophilia",
+                "word": "Anglophilia"
+            }
+        ]
+    }
+}

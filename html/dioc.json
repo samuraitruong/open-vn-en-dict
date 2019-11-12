@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "25560", "link": "/find?type=1&query=diocesan", "word": "diocesan"}, {"id": "25561", "link": "/find?type=1&query=diocese", "word": "diocese"}], "data": {}}, "en_en": {"suggests": [{"id": "8043", "link": "/find?type=3&query=diocese", "word": "diocese"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8043",
+                "link": "/find?type=3&query=diocese",
+                "word": "diocese"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25560",
+                "link": "/find?type=1&query=diocesan",
+                "word": "diocesan"
+            },
+            {
+                "id": "25561",
+                "link": "/find?type=1&query=diocese",
+                "word": "diocese"
+            }
+        ]
+    }
+}

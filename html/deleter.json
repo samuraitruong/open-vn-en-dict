@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23702", "link": "/find?type=1&query=deleterious", "word": "deleterious"}, {"id": "23703", "link": "/find?type=1&query=deleteriously", "word": "deleteriously"}, {"id": "23704", "link": "/find?type=1&query=deleteriousness", "word": "deleteriousness"}], "data": {}}, "en_en": {"suggests": [{"id": "7554", "link": "/find?type=3&query=deleterious", "word": "deleterious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7554",
+                "link": "/find?type=3&query=deleterious",
+                "word": "deleterious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23702",
+                "link": "/find?type=1&query=deleterious",
+                "word": "deleterious"
+            },
+            {
+                "id": "23703",
+                "link": "/find?type=1&query=deleteriously",
+                "word": "deleteriously"
+            },
+            {
+                "id": "23704",
+                "link": "/find?type=1&query=deleteriousness",
+                "word": "deleteriousness"
+            }
+        ]
+    }
+}

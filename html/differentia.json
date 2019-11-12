@@ -1,1 +1,85 @@
-{"en_vn": {"suggests": [{"id": "25238", "link": "/find?type=1&query=differentiae", "word": "differentiae"}, {"id": "25238", "link": "/find?type=1&query=differential", "word": "differential"}, {"id": "25238", "link": "/find?type=1&query=differential+amplifier", "word": "differential amplifier"}, {"id": "25238", "link": "/find?type=1&query=differential+calculus", "word": "differential calculus"}, {"id": "25238", "link": "/find?type=1&query=differential+circuit", "word": "differential circuit"}, {"id": "25238", "link": "/find?type=1&query=differential+coil", "word": "differential coil"}, {"id": "25238", "link": "/find?type=1&query=differential+discriminator", "word": "differential discriminator"}, {"id": "25238", "link": "/find?type=1&query=differential+duplex+system", "word": "differential duplex system"}, {"id": "25238", "link": "/find?type=1&query=differential+encoding", "word": "differential encoding"}], "data": {"word": "differentia", "id": "25238", "pronounce": "/dif\u0259'ren\u0283i\u0259/", "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u differentiae", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u differentiae</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea5u hi\u1ec7u ph\u00e2n bi\u1ec7t \u0111\u1eb7c tr\u01b0ng (c\u00e1c gi\u1ed1ng...)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7971", "link": "/find?type=3&query=differential", "word": "differential"}, {"id": "7972", "link": "/find?type=3&query=differentiate", "word": "differentiate"}], "data": {}}, "synonyms": {"suggests": [{"id": "1662", "link": "/find?type=4&query=differentiate", "word": "differentiate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7971",
+                "link": "/find?type=3&query=differential",
+                "word": "differential"
+            },
+            {
+                "id": "7972",
+                "link": "/find?type=3&query=differentiate",
+                "word": "differentiate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u differentiae</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea5u hi\u1ec7u ph\u00e2n bi\u1ec7t \u0111\u1eb7c tr\u01b0ng (c\u00e1c gi\u1ed1ng...)</div>",
+            "id": "25238",
+            "mean": [],
+            "pronounce": "/dif\u0259'ren\u0283i\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u differentiae",
+            "word": "differentia"
+        },
+        "suggests": [
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differentiae",
+                "word": "differentiae"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential",
+                "word": "differential"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+amplifier",
+                "word": "differential amplifier"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+calculus",
+                "word": "differential calculus"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+circuit",
+                "word": "differential circuit"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+coil",
+                "word": "differential coil"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+discriminator",
+                "word": "differential discriminator"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+duplex+system",
+                "word": "differential duplex system"
+            },
+            {
+                "id": "25238",
+                "link": "/find?type=1&query=differential+encoding",
+                "word": "differential encoding"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1662",
+                "link": "/find?type=4&query=differentiate",
+                "word": "differentiate"
+            }
+        ]
+    }
+}

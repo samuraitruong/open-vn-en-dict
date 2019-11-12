@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "29839", "link": "/find?type=1&query=elliptic+aperture", "word": "elliptic aperture"}, {"id": "29839", "link": "/find?type=1&query=elliptic+filter", "word": "elliptic filter"}, {"id": "29839", "link": "/find?type=1&query=elliptic%28al%29", "word": "elliptic(al)"}, {"id": "29839", "link": "/find?type=1&query=elliptical", "word": "elliptical"}, {"id": "29839", "link": "/find?type=1&query=elliptical+waveguide", "word": "elliptical waveguide"}, {"id": "29839", "link": "/find?type=1&query=elliptically", "word": "elliptically"}, {"id": "29839", "link": "/find?type=1&query=elliptically+polarized+light", "word": "elliptically polarized light"}, {"id": "29839", "link": "/find?type=1&query=elliptically+polarized+wave", "word": "elliptically polarized wave"}, {"id": "29839", "link": "/find?type=1&query=ellipticty", "word": "ellipticty"}], "data": {"word": "elliptic", "id": "29839", "pronounce": "/i'liptik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) Eliptic</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9371", "link": "/find?type=3&query=elliptical", "word": "elliptical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9371",
+                "link": "/find?type=3&query=elliptical",
+                "word": "elliptical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) Eliptic</div>",
+            "id": "29839",
+            "mean": [],
+            "pronounce": "/i'liptik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "elliptic"
+        },
+        "suggests": [
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptic+aperture",
+                "word": "elliptic aperture"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptic+filter",
+                "word": "elliptic filter"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptic%28al%29",
+                "word": "elliptic(al)"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptical",
+                "word": "elliptical"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptical+waveguide",
+                "word": "elliptical waveguide"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptically",
+                "word": "elliptically"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptically+polarized+light",
+                "word": "elliptically polarized light"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=elliptically+polarized+wave",
+                "word": "elliptically polarized wave"
+            },
+            {
+                "id": "29839",
+                "link": "/find?type=1&query=ellipticty",
+                "word": "ellipticty"
+            }
+        ]
+    }
+}

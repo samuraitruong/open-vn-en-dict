@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "4824", "link": "/find?type=1&query=aphrodisiac", "word": "aphrodisiac"}, {"id": "4825", "link": "/find?type=1&query=aphrodisiacal", "word": "aphrodisiacal"}], "data": {}}, "en_en": {"suggests": [{"id": "1119", "link": "/find?type=3&query=aphrodisiac", "word": "aphrodisiac"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1119",
+                "link": "/find?type=3&query=aphrodisiac",
+                "word": "aphrodisiac"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4824",
+                "link": "/find?type=1&query=aphrodisiac",
+                "word": "aphrodisiac"
+            },
+            {
+                "id": "4825",
+                "link": "/find?type=1&query=aphrodisiacal",
+                "word": "aphrodisiacal"
+            }
+        ]
+    }
+}

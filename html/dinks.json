@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "25538", "link": "/find?type=1&query=dinkum", "word": "dinkum"}, {"id": "25539", "link": "/find?type=1&query=dinky", "word": "dinky"}], "data": {}}, "en_en": {"suggests": [{"id": "8034", "link": "/find?type=3&query=dinky", "word": "dinky"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8034",
+                "link": "/find?type=3&query=dinky",
+                "word": "dinky"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25538",
+                "link": "/find?type=1&query=dinkum",
+                "word": "dinkum"
+            },
+            {
+                "id": "25539",
+                "link": "/find?type=1&query=dinky",
+                "word": "dinky"
+            }
+        ]
+    }
+}

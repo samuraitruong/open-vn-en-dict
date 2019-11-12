@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3473", "link": "/find?type=1&query=analgesia", "word": "analgesia"}, {"id": "3474", "link": "/find?type=1&query=analgesic", "word": "analgesic"}], "data": {}}, "en_en": {"suggests": [{"id": "888", "link": "/find?type=3&query=analgesia", "word": "analgesia"}, {"id": "889", "link": "/find?type=3&query=analgesic", "word": "analgesic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "888",
+                "link": "/find?type=3&query=analgesia",
+                "word": "analgesia"
+            },
+            {
+                "id": "889",
+                "link": "/find?type=3&query=analgesic",
+                "word": "analgesic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3473",
+                "link": "/find?type=1&query=analgesia",
+                "word": "analgesia"
+            },
+            {
+                "id": "3474",
+                "link": "/find?type=1&query=analgesic",
+                "word": "analgesic"
+            }
+        ]
+    }
+}

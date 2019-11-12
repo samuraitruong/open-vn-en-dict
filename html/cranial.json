@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "20756", "link": "/find?type=1&query=cranially", "word": "cranially"}], "data": {"word": "cranial", "id": "20756", "pronounce": "/'kreini\u0259l/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] s\u1ecd</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "cranial", "id": "6638", "pronounce": "/\u02c8kre\u026anij\u0259l/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">medical :of or relating to the bones of the head that cover the brain :of or relating to the skull or cranium</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cranial capacity/injuries</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">medical :of or relating to the bones of the head that cover the brain :of or relating to the skull or cranium</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cranial capacity/injuries</div>",
+            "id": "6638",
+            "mean": [],
+            "pronounce": "/\u02c8kre\u026anij\u0259l/",
+            "type": "adjective",
+            "word": "cranial"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] s\u1ecd</div>",
+            "id": "20756",
+            "mean": [],
+            "pronounce": "/'kreini\u0259l/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "cranial"
+        },
+        "suggests": [
+            {
+                "id": "20756",
+                "link": "/find?type=1&query=cranially",
+                "word": "cranially"
+            }
+        ]
+    }
+}

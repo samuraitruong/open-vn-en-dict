@@ -1,1 +1,22 @@
-{"error": 0, "query": "grubbed", "enViData": {"suggests": [{"id": "41779", "link": "/find?type=1&query=grubber", "word": "grubber"}]}, "mUrl": "/find?type=1&query=grubbed", "enEnData": {"suggests": [{"id": "12697", "link": "/find?type=3&query=grubby", "word": "grubby"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12697",
+                "link": "/find?type=3&query=grubby",
+                "word": "grubby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41779",
+                "link": "/find?type=1&query=grubber",
+                "word": "grubber"
+            }
+        ]
+    }
+}

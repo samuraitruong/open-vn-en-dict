@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "33416", "link": "/find?type=1&query=external", "word": "external"}, {"id": "33417", "link": "/find?type=1&query=external+%28device%29+address", "word": "external (device) address"}, {"id": "33418", "link": "/find?type=1&query=External+balace", "word": "External balace"}, {"id": "33419", "link": "/find?type=1&query=External+balance", "word": "External balance"}, {"id": "33420", "link": "/find?type=1&query=external+cavity+klystron", "word": "external cavity klystron"}, {"id": "33421", "link": "/find?type=1&query=external+circuit", "word": "external circuit"}, {"id": "33422", "link": "/find?type=1&query=external+command", "word": "external command"}, {"id": "33423", "link": "/find?type=1&query=external+current", "word": "external current"}, {"id": "33424", "link": "/find?type=1&query=external+database", "word": "external database"}, {"id": "33425", "link": "/find?type=1&query=external+declaration", "word": "external declaration"}], "data": {}}, "en_en": {"suggests": [{"id": "10083", "link": "/find?type=3&query=external", "word": "external"}, {"id": "10084", "link": "/find?type=3&query=externals", "word": "externals"}], "data": {}}, "synonyms": {"suggests": [{"id": "2425", "link": "/find?type=4&query=external", "word": "external"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10083",
+                "link": "/find?type=3&query=external",
+                "word": "external"
+            },
+            {
+                "id": "10084",
+                "link": "/find?type=3&query=externals",
+                "word": "externals"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33416",
+                "link": "/find?type=1&query=external",
+                "word": "external"
+            },
+            {
+                "id": "33417",
+                "link": "/find?type=1&query=external+%28device%29+address",
+                "word": "external (device) address"
+            },
+            {
+                "id": "33418",
+                "link": "/find?type=1&query=External+balace",
+                "word": "External balace"
+            },
+            {
+                "id": "33419",
+                "link": "/find?type=1&query=External+balance",
+                "word": "External balance"
+            },
+            {
+                "id": "33420",
+                "link": "/find?type=1&query=external+cavity+klystron",
+                "word": "external cavity klystron"
+            },
+            {
+                "id": "33421",
+                "link": "/find?type=1&query=external+circuit",
+                "word": "external circuit"
+            },
+            {
+                "id": "33422",
+                "link": "/find?type=1&query=external+command",
+                "word": "external command"
+            },
+            {
+                "id": "33423",
+                "link": "/find?type=1&query=external+current",
+                "word": "external current"
+            },
+            {
+                "id": "33424",
+                "link": "/find?type=1&query=external+database",
+                "word": "external database"
+            },
+            {
+                "id": "33425",
+                "link": "/find?type=1&query=external+declaration",
+                "word": "external declaration"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2425",
+                "link": "/find?type=4&query=external",
+                "word": "external"
+            }
+        ]
+    }
+}

@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "5511", "link": "/find?type=1&query=argol", "word": "argol"}, {"id": "5512", "link": "/find?type=1&query=argon", "word": "argon"}, {"id": "5513", "link": "/find?type=1&query=argon+laser", "word": "argon laser"}, {"id": "5514", "link": "/find?type=1&query=argon+rectifier", "word": "argon rectifier"}, {"id": "5515", "link": "/find?type=1&query=argonaut", "word": "argonaut"}, {"id": "5516", "link": "/find?type=1&query=argosy", "word": "argosy"}, {"id": "5517", "link": "/find?type=1&query=argot", "word": "argot"}], "data": {}}, "en_en": {"suggests": [{"id": "1295", "link": "/find?type=3&query=argon", "word": "argon"}, {"id": "1296", "link": "/find?type=3&query=argot", "word": "argot"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1295",
+                "link": "/find?type=3&query=argon",
+                "word": "argon"
+            },
+            {
+                "id": "1296",
+                "link": "/find?type=3&query=argot",
+                "word": "argot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5511",
+                "link": "/find?type=1&query=argol",
+                "word": "argol"
+            },
+            {
+                "id": "5512",
+                "link": "/find?type=1&query=argon",
+                "word": "argon"
+            },
+            {
+                "id": "5513",
+                "link": "/find?type=1&query=argon+laser",
+                "word": "argon laser"
+            },
+            {
+                "id": "5514",
+                "link": "/find?type=1&query=argon+rectifier",
+                "word": "argon rectifier"
+            },
+            {
+                "id": "5515",
+                "link": "/find?type=1&query=argonaut",
+                "word": "argonaut"
+            },
+            {
+                "id": "5516",
+                "link": "/find?type=1&query=argosy",
+                "word": "argosy"
+            },
+            {
+                "id": "5517",
+                "link": "/find?type=1&query=argot",
+                "word": "argot"
+            }
+        ]
+    }
+}

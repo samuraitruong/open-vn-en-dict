@@ -1,1 +1,28 @@
-{"error": 0, "query": "guilders", "enViData": {"suggests": [], "best": {"id": "41932", "details": "\n<div id=\"find_word_41932\" class=\"world word_en\" rel=\"guilder\">\n    <h2 class=\"fl\">guilder <span class=\"color-black\">/'gild\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41932\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41932\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng gulden)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3ng gun-\u0111\u01a1 (ti\u1ec1n H\u00e0 Lan)</div>\n    \n</div>\n", "link": "/find?type=1&query=guilder", "word": "guilder"}}, "mUrl": "/find?type=1&query=guilders", "enEnData": {"suggests": [], "best": {"id": "12755", "details": "\n<div id=\"find_word_12755\" class=\"world word_en\" rel=\"guilder\">\n    <h2 class=\"fl\">guilder <span class=\"color-black\">/\u02c8g\u026ald\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12755\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12755\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ders</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a basic unit of money that was formerly used in the Netherlands also;  :a coin or bill representing one guilder - called also gulden</div>\n    \n</div>\n", "link": "/find?type=3&query=guilder", "word": "guilder"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ders</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a basic unit of money that was formerly used in the Netherlands also;  :a coin or bill representing one guilder - called also gulden</div>",
+            "id": "12755",
+            "mean": [],
+            "pronounce": "/\u02c8g\u026ald\u025a/",
+            "type": "noun",
+            "word": "guilder"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng gulden)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3ng gun-\u0111\u01a1 (ti\u1ec1n H\u00e0 Lan)</div>",
+            "id": "41932",
+            "mean": [],
+            "pronounce": "/'gild\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d7ccbddc011a723943c4397ced81c8cb/16e6140cdf6/G/guilder.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6763cc67016c55cd43077d21a25503b7/16e6140c4b3/G/guilder.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "guilder"
+        },
+        "suggests": []
+    }
+}

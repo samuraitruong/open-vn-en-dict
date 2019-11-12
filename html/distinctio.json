@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "26559", "link": "/find?type=1&query=distinction", "word": "distinction"}], "data": {}}, "en_en": {"suggests": [{"id": "8355", "link": "/find?type=3&query=distinction", "word": "distinction"}], "data": {}}, "synonyms": {"suggests": [{"id": "1831", "link": "/find?type=4&query=distinction", "word": "distinction"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8355",
+                "link": "/find?type=3&query=distinction",
+                "word": "distinction"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26559",
+                "link": "/find?type=1&query=distinction",
+                "word": "distinction"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1831",
+                "link": "/find?type=4&query=distinction",
+                "word": "distinction"
+            }
+        ]
+    }
+}

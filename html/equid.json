@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "31549", "link": "/find?type=1&query=equidae", "word": "equidae"}, {"id": "31550", "link": "/find?type=1&query=equidistance", "word": "equidistance"}, {"id": "31551", "link": "/find?type=1&query=equidistant", "word": "equidistant"}, {"id": "31552", "link": "/find?type=1&query=equidistantly", "word": "equidistantly"}], "data": {}}, "en_en": {"suggests": [{"id": "9705", "link": "/find?type=3&query=equidistant", "word": "equidistant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9705",
+                "link": "/find?type=3&query=equidistant",
+                "word": "equidistant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31549",
+                "link": "/find?type=1&query=equidae",
+                "word": "equidae"
+            },
+            {
+                "id": "31550",
+                "link": "/find?type=1&query=equidistance",
+                "word": "equidistance"
+            },
+            {
+                "id": "31551",
+                "link": "/find?type=1&query=equidistant",
+                "word": "equidistant"
+            },
+            {
+                "id": "31552",
+                "link": "/find?type=1&query=equidistantly",
+                "word": "equidistantly"
+            }
+        ]
+    }
+}

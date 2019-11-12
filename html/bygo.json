@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "12144", "link": "/find?type=1&query=bygone", "word": "bygone"}, {"id": "12145", "link": "/find?type=1&query=bygones", "word": "bygones"}], "data": {}}, "en_en": {"suggests": [{"id": "3811", "link": "/find?type=3&query=bygone", "word": "bygone"}, {"id": "3812", "link": "/find?type=3&query=bygones", "word": "bygones"}], "data": {}}, "synonyms": {"suggests": [{"id": "798", "link": "/find?type=4&query=bygone", "word": "bygone"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3811",
+                "link": "/find?type=3&query=bygone",
+                "word": "bygone"
+            },
+            {
+                "id": "3812",
+                "link": "/find?type=3&query=bygones",
+                "word": "bygones"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12144",
+                "link": "/find?type=1&query=bygone",
+                "word": "bygone"
+            },
+            {
+                "id": "12145",
+                "link": "/find?type=1&query=bygones",
+                "word": "bygones"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "798",
+                "link": "/find?type=4&query=bygone",
+                "word": "bygone"
+            }
+        ]
+    }
+}

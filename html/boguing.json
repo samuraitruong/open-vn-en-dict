@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "10300", "link": "/find?type=1&query=bogus", "word": "bogus"}], "data": {}}, "en_en": {"suggests": [{"id": "3030", "link": "/find?type=3&query=bogus", "word": "bogus"}], "data": {}}, "synonyms": {"suggests": [{"id": "607", "link": "/find?type=4&query=bogus", "word": "bogus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3030",
+                "link": "/find?type=3&query=bogus",
+                "word": "bogus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10300",
+                "link": "/find?type=1&query=bogus",
+                "word": "bogus"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "607",
+                "link": "/find?type=4&query=bogus",
+                "word": "bogus"
+            }
+        ]
+    }
+}

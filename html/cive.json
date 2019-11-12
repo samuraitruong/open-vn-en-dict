@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15702", "link": "/find?type=1&query=civet", "word": "civet"}], "data": {}}, "en_en": {"suggests": [{"id": "5036", "link": "/find?type=3&query=civet", "word": "civet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5036",
+                "link": "/find?type=3&query=civet",
+                "word": "civet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15702",
+                "link": "/find?type=1&query=civet",
+                "word": "civet"
+            }
+        ]
+    }
+}

@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [{"id": "3053", "link": "/find?type=1&query=ambient+condition", "word": "ambient condition"}, {"id": "3053", "link": "/find?type=1&query=ambient+light", "word": "ambient light"}, {"id": "3053", "link": "/find?type=1&query=ambient+noise", "word": "ambient noise"}, {"id": "3053", "link": "/find?type=1&query=ambient+temperature", "word": "ambient temperature"}], "data": {"word": "ambient", "id": "3053", "pronounce": "/'\u00e6mbi\u0259nt/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bao quanh, xung quanh (kh\u00f4ng kh\u00ed)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/eea53bafdf9a17484599b38baba528b4/16e5dc18566/A/ambient.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e18acfd65aa96eb75ab5174aac5bfc1d/16e5dc18b17/A/ambient.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "ambient", "id": "800", "pronounce": "/\u02c8\u00e6mbij\u0259nt/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :surrounding on all sides</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Keep the chemicals at an ambient temperature of 70F.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the ambient air quality</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the bright ambient light of the room</div>\n    \n    <div class=\"green margin25 m-top15\">of electronic music :quiet and relaxing with melodies that repeat many times</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">People shopped as ambient music played in the background.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ambient instrumental music</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :surrounding on all sides</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Keep the chemicals at an ambient temperature of 70F.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the ambient air quality</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the bright ambient light of the room</div>\n    \n    <div class=\"green margin25 m-top15\">of electronic music :quiet and relaxing with melodies that repeat many times</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">People shopped as ambient music played in the background.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ambient instrumental music</div>",
+            "id": "800",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6mbij\u0259nt/",
+            "type": "adjective",
+            "word": "ambient"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bao quanh, xung quanh (kh\u00f4ng kh\u00ed)</div>",
+            "id": "3053",
+            "mean": [],
+            "pronounce": "/'\u00e6mbi\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e4c3a4d7ae7706cea03e2e8248fc0d75/16e5ea5e80f/A/ambient.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0ecfe382e868d4f23b23d0dfd56fb0b5/16e5ea5e2c7/A/ambient.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "ambient"
+        },
+        "suggests": [
+            {
+                "id": "3053",
+                "link": "/find?type=1&query=ambient+condition",
+                "word": "ambient condition"
+            },
+            {
+                "id": "3053",
+                "link": "/find?type=1&query=ambient+light",
+                "word": "ambient light"
+            },
+            {
+                "id": "3053",
+                "link": "/find?type=1&query=ambient+noise",
+                "word": "ambient noise"
+            },
+            {
+                "id": "3053",
+                "link": "/find?type=1&query=ambient+temperature",
+                "word": "ambient temperature"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "25322", "link": "/find?type=1&query=digger", "word": "digger"}], "data": {}}, "en_en": {"suggests": [{"id": "7982", "link": "/find?type=3&query=digger", "word": "digger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7982",
+                "link": "/find?type=3&query=digger",
+                "word": "digger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25322",
+                "link": "/find?type=1&query=digger",
+                "word": "digger"
+            }
+        ]
+    }
+}

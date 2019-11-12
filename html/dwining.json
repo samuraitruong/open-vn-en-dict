@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "28245", "link": "/find?type=1&query=dwindle", "word": "dwindle"}], "data": {}}, "en_en": {"suggests": [{"id": "9076", "link": "/find?type=3&query=dwindle", "word": "dwindle"}], "data": {}}, "synonyms": {"suggests": [{"id": "1987", "link": "/find?type=4&query=dwindle", "word": "dwindle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9076",
+                "link": "/find?type=3&query=dwindle",
+                "word": "dwindle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28245",
+                "link": "/find?type=1&query=dwindle",
+                "word": "dwindle"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1987",
+                "link": "/find?type=4&query=dwindle",
+                "word": "dwindle"
+            }
+        ]
+    }
+}

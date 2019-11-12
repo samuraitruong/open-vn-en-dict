@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "12525", "link": "/find?type=1&query=callosity", "word": "callosity"}, {"id": "12526", "link": "/find?type=1&query=callous", "word": "callous"}, {"id": "12527", "link": "/find?type=1&query=calloused", "word": "calloused"}, {"id": "12528", "link": "/find?type=1&query=callously", "word": "callously"}, {"id": "12529", "link": "/find?type=1&query=callousness", "word": "callousness"}, {"id": "12530", "link": "/find?type=1&query=callout", "word": "callout"}, {"id": "12531", "link": "/find?type=1&query=callow", "word": "callow"}, {"id": "12532", "link": "/find?type=1&query=callowness", "word": "callowness"}], "data": {}}, "en_en": {"suggests": [{"id": "3921", "link": "/find?type=3&query=callous", "word": "callous"}, {"id": "3922", "link": "/find?type=3&query=calloused", "word": "calloused"}, {"id": "3923", "link": "/find?type=3&query=callow", "word": "callow"}], "data": {}}, "synonyms": {"suggests": [{"id": "829", "link": "/find?type=4&query=callous", "word": "callous"}, {"id": "830", "link": "/find?type=4&query=callow", "word": "callow"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3921",
+                "link": "/find?type=3&query=callous",
+                "word": "callous"
+            },
+            {
+                "id": "3922",
+                "link": "/find?type=3&query=calloused",
+                "word": "calloused"
+            },
+            {
+                "id": "3923",
+                "link": "/find?type=3&query=callow",
+                "word": "callow"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12525",
+                "link": "/find?type=1&query=callosity",
+                "word": "callosity"
+            },
+            {
+                "id": "12526",
+                "link": "/find?type=1&query=callous",
+                "word": "callous"
+            },
+            {
+                "id": "12527",
+                "link": "/find?type=1&query=calloused",
+                "word": "calloused"
+            },
+            {
+                "id": "12528",
+                "link": "/find?type=1&query=callously",
+                "word": "callously"
+            },
+            {
+                "id": "12529",
+                "link": "/find?type=1&query=callousness",
+                "word": "callousness"
+            },
+            {
+                "id": "12530",
+                "link": "/find?type=1&query=callout",
+                "word": "callout"
+            },
+            {
+                "id": "12531",
+                "link": "/find?type=1&query=callow",
+                "word": "callow"
+            },
+            {
+                "id": "12532",
+                "link": "/find?type=1&query=callowness",
+                "word": "callowness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "829",
+                "link": "/find?type=4&query=callous",
+                "word": "callous"
+            },
+            {
+                "id": "830",
+                "link": "/find?type=4&query=callow",
+                "word": "callow"
+            }
+        ]
+    }
+}

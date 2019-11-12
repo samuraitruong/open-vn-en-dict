@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "30650", "link": "/find?type=1&query=enfant+terrible", "word": "enfant terrible"}], "data": {}}, "en_en": {"suggests": [{"id": "9548", "link": "/find?type=3&query=enfant+terrible", "word": "enfant terrible"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9548",
+                "link": "/find?type=3&query=enfant+terrible",
+                "word": "enfant terrible"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30650",
+                "link": "/find?type=1&query=enfant+terrible",
+                "word": "enfant terrible"
+            }
+        ]
+    }
+}

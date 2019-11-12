@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "28589", "link": "/find?type=1&query=ecclesiast", "word": "ecclesiast"}, {"id": "28589", "link": "/find?type=1&query=ecclesiastic", "word": "ecclesiastic"}, {"id": "28589", "link": "/find?type=1&query=ecclesiastical", "word": "ecclesiastical"}, {"id": "28589", "link": "/find?type=1&query=ecclesiastically", "word": "ecclesiastically"}, {"id": "28589", "link": "/find?type=1&query=ecclesiasticism", "word": "ecclesiasticism"}, {"id": "28589", "link": "/find?type=1&query=ecclesiasticus", "word": "ecclesiasticus"}], "data": {"word": "ecclesia", "id": "28589", "pronounce": "/i'kli:zj\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea1i h\u1ed9i qu\u1ed1c d\u00e2n (c\u1ed5 Hy-l\u1ea1p)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9172", "link": "/find?type=3&query=ecclesiastic", "word": "ecclesiastic"}, {"id": "9173", "link": "/find?type=3&query=ecclesiastical", "word": "ecclesiastical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9172",
+                "link": "/find?type=3&query=ecclesiastic",
+                "word": "ecclesiastic"
+            },
+            {
+                "id": "9173",
+                "link": "/find?type=3&query=ecclesiastical",
+                "word": "ecclesiastical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea1i h\u1ed9i qu\u1ed1c d\u00e2n (c\u1ed5 Hy-l\u1ea1p)</div>",
+            "id": "28589",
+            "mean": [],
+            "pronounce": "/i'kli:zj\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "ecclesia"
+        },
+        "suggests": [
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesiast",
+                "word": "ecclesiast"
+            },
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesiastic",
+                "word": "ecclesiastic"
+            },
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesiastical",
+                "word": "ecclesiastical"
+            },
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesiastically",
+                "word": "ecclesiastically"
+            },
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesiasticism",
+                "word": "ecclesiasticism"
+            },
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesiasticus",
+                "word": "ecclesiasticus"
+            }
+        ]
+    }
+}

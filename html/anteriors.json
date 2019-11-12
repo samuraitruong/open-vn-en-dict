@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "4214", "link": "/find?type=1&query=anteriority", "word": "anteriority"}, {"id": "4214", "link": "/find?type=1&query=anteriorly", "word": "anteriorly"}], "data": {"word": "anterior", "id": "4214", "pronounce": "/\u00e6n'ti\u0259ri\u0259[r]/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">tr\u01b0\u1edbc (v\u1ec1 v\u1ecb tr\u00ed ho\u1eb7c th\u1eddi gian)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/14165c5217ab8fc5dfa2dd26672f69f8/16e5dc55caf/A/anterior.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/99770de4f6a8c841c250f7ae7423e530/16e5dc56307/A/anterior.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "anterior", "id": "1029", "pronounce": "/\u00e6n\u02c8tirij\u025a/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :near or toward the front of something (such as the body)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the anterior part of the brain - opposite posterior</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :near or toward the front of something (such as the body)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the anterior part of the brain - opposite posterior</div>",
+            "id": "1029",
+            "mean": [],
+            "pronounce": "/\u00e6n\u02c8tirij\u025a/",
+            "type": "adjective",
+            "word": "anterior"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">tr\u01b0\u1edbc (v\u1ec1 v\u1ecb tr\u00ed ho\u1eb7c th\u1eddi gian)</div>",
+            "id": "4214",
+            "mean": [],
+            "pronounce": "/\u00e6n'ti\u0259ri\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/95bc5360e7f59dd0a2936749e7237d19/16e5ea9182f/A/anterior.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/287691219c62c2f0f55771fc739e1806/16e5ea912c1/A/anterior.mp3"
+            },
+            "type": "",
+            "word": "anterior"
+        },
+        "suggests": [
+            {
+                "id": "4214",
+                "link": "/find?type=1&query=anteriority",
+                "word": "anteriority"
+            },
+            {
+                "id": "4214",
+                "link": "/find?type=1&query=anteriorly",
+                "word": "anteriorly"
+            }
+        ]
+    }
+}

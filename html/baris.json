@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "8168", "link": "/find?type=1&query=bariated+cathode", "word": "bariated cathode"}, {"id": "8169", "link": "/find?type=1&query=baric", "word": "baric"}, {"id": "8170", "link": "/find?type=1&query=barie", "word": "barie"}, {"id": "8171", "link": "/find?type=1&query=barite", "word": "barite"}, {"id": "8172", "link": "/find?type=1&query=baritone", "word": "baritone"}, {"id": "8173", "link": "/find?type=1&query=barium", "word": "barium"}, {"id": "8174", "link": "/find?type=1&query=barium+meal", "word": "barium meal"}], "data": {}}, "en_en": {"suggests": [{"id": "2063", "link": "/find?type=3&query=barista", "word": "barista"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2063",
+                "link": "/find?type=3&query=barista",
+                "word": "barista"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8168",
+                "link": "/find?type=1&query=bariated+cathode",
+                "word": "bariated cathode"
+            },
+            {
+                "id": "8169",
+                "link": "/find?type=1&query=baric",
+                "word": "baric"
+            },
+            {
+                "id": "8170",
+                "link": "/find?type=1&query=barie",
+                "word": "barie"
+            },
+            {
+                "id": "8171",
+                "link": "/find?type=1&query=barite",
+                "word": "barite"
+            },
+            {
+                "id": "8172",
+                "link": "/find?type=1&query=baritone",
+                "word": "baritone"
+            },
+            {
+                "id": "8173",
+                "link": "/find?type=1&query=barium",
+                "word": "barium"
+            },
+            {
+                "id": "8174",
+                "link": "/find?type=1&query=barium+meal",
+                "word": "barium meal"
+            }
+        ]
+    }
+}

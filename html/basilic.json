@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "8346", "link": "/find?type=1&query=basilica", "word": "basilica"}, {"id": "8346", "link": "/find?type=1&query=basilican", "word": "basilican"}], "data": {"word": "basilic", "id": "8346", "pronounce": "/b\u0259'silik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) basilic vein t\u0129nh m\u1ea1ch n\u1ec1n trong c\u00e1nh tay</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2138", "link": "/find?type=3&query=basilica", "word": "basilica"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2138",
+                "link": "/find?type=3&query=basilica",
+                "word": "basilica"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) basilic vein t\u0129nh m\u1ea1ch n\u1ec1n trong c\u00e1nh tay</div>",
+            "id": "8346",
+            "mean": [],
+            "pronounce": "/b\u0259'silik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "basilic"
+        },
+        "suggests": [
+            {
+                "id": "8346",
+                "link": "/find?type=1&query=basilica",
+                "word": "basilica"
+            },
+            {
+                "id": "8346",
+                "link": "/find?type=1&query=basilican",
+                "word": "basilican"
+            }
+        ]
+    }
+}

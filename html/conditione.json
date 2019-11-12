@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "18370", "link": "/find?type=1&query=conditioned", "word": "conditioned"}, {"id": "18371", "link": "/find?type=1&query=conditioned+reflex", "word": "conditioned reflex"}, {"id": "18372", "link": "/find?type=1&query=conditioner", "word": "conditioner"}], "data": {}}, "en_en": {"suggests": [{"id": "5858", "link": "/find?type=3&query=conditioner", "word": "conditioner"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5858",
+                "link": "/find?type=3&query=conditioner",
+                "word": "conditioner"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18370",
+                "link": "/find?type=1&query=conditioned",
+                "word": "conditioned"
+            },
+            {
+                "id": "18371",
+                "link": "/find?type=1&query=conditioned+reflex",
+                "word": "conditioned reflex"
+            },
+            {
+                "id": "18372",
+                "link": "/find?type=1&query=conditioner",
+                "word": "conditioner"
+            }
+        ]
+    }
+}

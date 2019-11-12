@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "14828", "link": "/find?type=1&query=Chicago+School", "word": "Chicago School"}, {"id": "14829", "link": "/find?type=1&query=chicane", "word": "chicane"}, {"id": "14830", "link": "/find?type=1&query=chicaner", "word": "chicaner"}, {"id": "14831", "link": "/find?type=1&query=chicanery", "word": "chicanery"}], "data": {}}, "en_en": {"suggests": [{"id": "4736", "link": "/find?type=3&query=Chicana", "word": "Chicana"}, {"id": "4737", "link": "/find?type=3&query=chicanery", "word": "chicanery"}, {"id": "4738", "link": "/find?type=3&query=Chicano", "word": "Chicano"}], "data": {}}, "synonyms": {"suggests": [{"id": "976", "link": "/find?type=4&query=chicanery", "word": "chicanery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4736",
+                "link": "/find?type=3&query=Chicana",
+                "word": "Chicana"
+            },
+            {
+                "id": "4737",
+                "link": "/find?type=3&query=chicanery",
+                "word": "chicanery"
+            },
+            {
+                "id": "4738",
+                "link": "/find?type=3&query=Chicano",
+                "word": "Chicano"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14828",
+                "link": "/find?type=1&query=Chicago+School",
+                "word": "Chicago School"
+            },
+            {
+                "id": "14829",
+                "link": "/find?type=1&query=chicane",
+                "word": "chicane"
+            },
+            {
+                "id": "14830",
+                "link": "/find?type=1&query=chicaner",
+                "word": "chicaner"
+            },
+            {
+                "id": "14831",
+                "link": "/find?type=1&query=chicanery",
+                "word": "chicanery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "976",
+                "link": "/find?type=4&query=chicanery",
+                "word": "chicanery"
+            }
+        ]
+    }
+}

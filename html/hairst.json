@@ -1,1 +1,27 @@
-{"error": 0, "query": "hairst", "enViData": {"suggests": [{"id": "42406", "link": "/find?type=1&query=hairstreak", "word": "hairstreak"}]}, "mUrl": "/find?type=1&query=hairst", "enEnData": {"suggests": [{"id": "12892", "link": "/find?type=3&query=hairstyle", "word": "hairstyle"}, {"id": "12893", "link": "/find?type=3&query=hairstyling", "word": "hairstyling"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12892",
+                "link": "/find?type=3&query=hairstyle",
+                "word": "hairstyle"
+            },
+            {
+                "id": "12893",
+                "link": "/find?type=3&query=hairstyling",
+                "word": "hairstyling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42406",
+                "link": "/find?type=1&query=hairstreak",
+                "word": "hairstreak"
+            }
+        ]
+    }
+}

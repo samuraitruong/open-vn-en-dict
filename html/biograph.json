@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "9382", "link": "/find?type=1&query=biographer", "word": "biographer"}, {"id": "9383", "link": "/find?type=1&query=biographic", "word": "biographic"}, {"id": "9384", "link": "/find?type=1&query=biographic%5Bal%5D", "word": "biographic[al]"}, {"id": "9385", "link": "/find?type=1&query=biographical", "word": "biographical"}, {"id": "9386", "link": "/find?type=1&query=biographically", "word": "biographically"}, {"id": "9387", "link": "/find?type=1&query=biography", "word": "biography"}], "data": {}}, "en_en": {"suggests": [{"id": "2635", "link": "/find?type=3&query=biographical", "word": "biographical"}, {"id": "2636", "link": "/find?type=3&query=biography", "word": "biography"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2635",
+                "link": "/find?type=3&query=biographical",
+                "word": "biographical"
+            },
+            {
+                "id": "2636",
+                "link": "/find?type=3&query=biography",
+                "word": "biography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9382",
+                "link": "/find?type=1&query=biographer",
+                "word": "biographer"
+            },
+            {
+                "id": "9383",
+                "link": "/find?type=1&query=biographic",
+                "word": "biographic"
+            },
+            {
+                "id": "9384",
+                "link": "/find?type=1&query=biographic%5Bal%5D",
+                "word": "biographic[al]"
+            },
+            {
+                "id": "9385",
+                "link": "/find?type=1&query=biographical",
+                "word": "biographical"
+            },
+            {
+                "id": "9386",
+                "link": "/find?type=1&query=biographically",
+                "word": "biographically"
+            },
+            {
+                "id": "9387",
+                "link": "/find?type=1&query=biography",
+                "word": "biography"
+            }
+        ]
+    }
+}

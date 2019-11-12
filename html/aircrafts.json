@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "2277", "link": "/find?type=1&query=aircraft-carrier", "word": "aircraft-carrier"}, {"id": "2277", "link": "/find?type=1&query=aircraftman", "word": "aircraftman"}, {"id": "2277", "link": "/find?type=1&query=aircraftwoman", "word": "aircraftwoman"}, {"id": "2277", "link": "/find?type=1&query=aircraftwomen", "word": "aircraftwomen"}], "data": {"word": "aircraft", "id": "2277", "pronounce": "/'e\u0259kr\u0251:ft/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u k\u0111\u1ed5i)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y bay</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a7a1d8c89c1b7067cc666142e68d6001/16e5dbef312/A/aircraft.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9b91bcdd94b6f9b3f21fec88d6b89b60/16e5dbef8a6/A/aircraft.mp3"}}}, "en_en": {"suggests": [{"id": "584", "link": "/find?type=3&query=aircraft+carrier", "word": "aircraft carrier"}], "data": {"word": "aircraft", "id": "584", "pronounce": "/\u02c8e\u025a\u02cckr\u00e6ft/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural aircraft</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a machine (such as an airplane or a helicopter) that flies through the air</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a new military aircraft</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a company that manufactures aircraft - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an aircraft engine</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">aircraft parts</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural aircraft</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a machine (such as an airplane or a helicopter) that flies through the air</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a new military aircraft</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a company that manufactures aircraft - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an aircraft engine</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">aircraft parts</div>",
+            "id": "584",
+            "mean": [],
+            "pronounce": "/\u02c8e\u025a\u02cckr\u00e6ft/",
+            "type": "noun",
+            "word": "aircraft"
+        },
+        "suggests": [
+            {
+                "id": "584",
+                "link": "/find?type=3&query=aircraft+carrier",
+                "word": "aircraft carrier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u k\u0111\u1ed5i)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y bay</div>",
+            "id": "2277",
+            "mean": [],
+            "pronounce": "/'e\u0259kr\u0251:ft/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ab3b48e2ca8fc7045ed1298276aba495/16e5ea3a1dc/A/aircraft.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c8e7196a6430c996a35067e942b0a235/16e5ea39ccd/A/aircraft.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "aircraft"
+        },
+        "suggests": [
+            {
+                "id": "2277",
+                "link": "/find?type=1&query=aircraft-carrier",
+                "word": "aircraft-carrier"
+            },
+            {
+                "id": "2277",
+                "link": "/find?type=1&query=aircraftman",
+                "word": "aircraftman"
+            },
+            {
+                "id": "2277",
+                "link": "/find?type=1&query=aircraftwoman",
+                "word": "aircraftwoman"
+            },
+            {
+                "id": "2277",
+                "link": "/find?type=1&query=aircraftwomen",
+                "word": "aircraftwomen"
+            }
+        ]
+    }
+}

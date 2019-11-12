@@ -1,1 +1,44 @@
-{"error": 0, "query": "garret", "enViData": {"suggests": [{"id": "39070", "link": "/find?type=1&query=garret-master", "word": "garret-master"}, {"id": "39070", "link": "/find?type=1&query=garreteer", "word": "garreteer"}, {"id": "39070", "link": "/find?type=1&query=garreting", "word": "garreting"}], "best": {"id": "39070", "details": "\n<div id=\"find_word_39070\" class=\"world word_en\" rel=\"garret\">\n    <h2 class=\"fl\">garret <span class=\"color-black\">/'g\u00e6r\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"39070\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"39070\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e1c x\u00e9p s\u00e1t m\u00e1i</div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb l\u00f3ng) c\u00e1i \u0111\u1ea7u</div>\n    \n</div>\n", "link": "/find?type=1&query=garret", "word": "garret"}}, "mUrl": "/find?type=1&query=garret", "enEnData": {"suggests": [], "best": {"id": "11840", "details": "\n<div id=\"find_word_11840\" class=\"world word_en\" rel=\"garret\">\n    <h2 class=\"fl\">garret <span class=\"color-black\">/\u02c8ger\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11840\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11840\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a usually small and unpleasant room or space area just below the roof of a building</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an artist's garret [=a garret where a struggling artist lives in poverty]</div>\n    \n</div>\n", "link": "/find?type=3&query=garret", "word": "garret"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a usually small and unpleasant room or space area just below the roof of a building</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an artist's garret [=a garret where a struggling artist lives in poverty]</div>",
+            "id": "11840",
+            "mean": [],
+            "pronounce": "/\u02c8ger\u0259t/",
+            "type": "noun",
+            "word": "garret"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e1c x\u00e9p s\u00e1t m\u00e1i</div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb l\u00f3ng) c\u00e1i \u0111\u1ea7u</div>",
+            "id": "39070",
+            "mean": [],
+            "pronounce": "/'g\u00e6r\u0259t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5c062922dec0209d81cf295cd1e9db85/16e60cd6acd/G/garret.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d4a5976701ad8c4ecbc650b2e5f82e37/16e60cd62b6/G/garret.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "garret"
+        },
+        "suggests": [
+            {
+                "id": "39070",
+                "link": "/find?type=1&query=garret-master",
+                "word": "garret-master"
+            },
+            {
+                "id": "39070",
+                "link": "/find?type=1&query=garreteer",
+                "word": "garreteer"
+            },
+            {
+                "id": "39070",
+                "link": "/find?type=1&query=garreting",
+                "word": "garreting"
+            }
+        ]
+    }
+}

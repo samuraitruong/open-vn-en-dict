@@ -1,1 +1,85 @@
-{"error": 0, "query": "frow", "enViData": {"suggests": [{"id": "38180", "link": "/find?type=1&query=froward", "word": "froward"}, {"id": "38180", "link": "/find?type=1&query=frowardness", "word": "frowardness"}, {"id": "38180", "link": "/find?type=1&query=frown", "word": "frown"}, {"id": "38180", "link": "/find?type=1&query=frowningly", "word": "frowningly"}, {"id": "38180", "link": "/find?type=1&query=frowst", "word": "frowst"}, {"id": "38180", "link": "/find?type=1&query=frowsty", "word": "frowsty"}, {"id": "38180", "link": "/find?type=1&query=frowsy", "word": "frowsy"}, {"id": "38180", "link": "/find?type=1&query=frowziness", "word": "frowziness"}, {"id": "38180", "link": "/find?type=1&query=frowzy", "word": "frowzy"}], "best": {"id": "38180", "details": "\n<div id=\"find_word_38180\" class=\"world word_en\" rel=\"frow\">\n    <h2 class=\"fl\">frow <span class=\"color-black\">/frau/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38180\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38180\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111\u00e0n b\u00e0 H\u00e0-Lan</div>\n    \n    <div class=\"green margin25 m-top15\">(nh\u01b0) froe</div>\n    \n</div>\n", "link": "/find?type=1&query=frow", "word": "frow"}}, "mUrl": "/find?type=1&query=frow", "enEnData": {"suggests": [{"id": "11544", "link": "/find?type=3&query=frown", "word": "frown"}, {"id": "11545", "link": "/find?type=3&query=frowsy", "word": "frowsy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2874", "link": "/find?type=4&query=frown", "word": "frown"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11544",
+                "link": "/find?type=3&query=frown",
+                "word": "frown"
+            },
+            {
+                "id": "11545",
+                "link": "/find?type=3&query=frowsy",
+                "word": "frowsy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111\u00e0n b\u00e0 H\u00e0-Lan</div>\n    \n    <div class=\"green margin25 m-top15\">(nh\u01b0) froe</div>",
+            "id": "38180",
+            "mean": [],
+            "pronounce": "/frau/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "frow"
+        },
+        "suggests": [
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=froward",
+                "word": "froward"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowardness",
+                "word": "frowardness"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frown",
+                "word": "frown"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowningly",
+                "word": "frowningly"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowst",
+                "word": "frowst"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowsty",
+                "word": "frowsty"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowsy",
+                "word": "frowsy"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowziness",
+                "word": "frowziness"
+            },
+            {
+                "id": "38180",
+                "link": "/find?type=1&query=frowzy",
+                "word": "frowzy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2874",
+                "link": "/find?type=4&query=frown",
+                "word": "frown"
+            }
+        ]
+    }
+}

@@ -1,1 +1,41 @@
-{"en_vn": {"suggests": [{"id": "20755", "link": "/find?type=1&query=cranial", "word": "cranial"}, {"id": "20755", "link": "/find?type=1&query=cranially", "word": "cranially"}, {"id": "20755", "link": "/find?type=1&query=craniate", "word": "craniate"}], "data": {"word": "crania", "id": "20755", "pronounce": "/'kreini\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u c\u1ee7a cranium</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=cranium\">cranium</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "cranium", "id": "6639", "pronounce": "", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8kre\u026anij\u0259m/ , pl -niums or -nia /-nij\u0259/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :skull</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8kre\u026anij\u0259m/ , pl -niums or -nia /-nij\u0259/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :skull</div>",
+            "id": "6639",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "cranium"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u c\u1ee7a cranium</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=cranium\">cranium</a></span></div>",
+            "id": "20755",
+            "mean": [],
+            "pronounce": "/'kreini\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "crania"
+        },
+        "suggests": [
+            {
+                "id": "20755",
+                "link": "/find?type=1&query=cranial",
+                "word": "cranial"
+            },
+            {
+                "id": "20755",
+                "link": "/find?type=1&query=cranially",
+                "word": "cranially"
+            },
+            {
+                "id": "20755",
+                "link": "/find?type=1&query=craniate",
+                "word": "craniate"
+            }
+        ]
+    }
+}

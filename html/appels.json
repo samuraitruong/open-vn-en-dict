@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "5017", "link": "/find?type=1&query=appellant", "word": "appellant"}, {"id": "5018", "link": "/find?type=1&query=appellate", "word": "appellate"}, {"id": "5019", "link": "/find?type=1&query=appellation", "word": "appellation"}, {"id": "5020", "link": "/find?type=1&query=appellative", "word": "appellative"}, {"id": "5021", "link": "/find?type=1&query=appellatively", "word": "appellatively"}, {"id": "5022", "link": "/find?type=1&query=appellee", "word": "appellee"}], "data": {}}, "en_en": {"suggests": [{"id": "1155", "link": "/find?type=3&query=appellant", "word": "appellant"}, {"id": "1156", "link": "/find?type=3&query=appellate", "word": "appellate"}, {"id": "1157", "link": "/find?type=3&query=appellation", "word": "appellation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1155",
+                "link": "/find?type=3&query=appellant",
+                "word": "appellant"
+            },
+            {
+                "id": "1156",
+                "link": "/find?type=3&query=appellate",
+                "word": "appellate"
+            },
+            {
+                "id": "1157",
+                "link": "/find?type=3&query=appellation",
+                "word": "appellation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5017",
+                "link": "/find?type=1&query=appellant",
+                "word": "appellant"
+            },
+            {
+                "id": "5018",
+                "link": "/find?type=1&query=appellate",
+                "word": "appellate"
+            },
+            {
+                "id": "5019",
+                "link": "/find?type=1&query=appellation",
+                "word": "appellation"
+            },
+            {
+                "id": "5020",
+                "link": "/find?type=1&query=appellative",
+                "word": "appellative"
+            },
+            {
+                "id": "5021",
+                "link": "/find?type=1&query=appellatively",
+                "word": "appellatively"
+            },
+            {
+                "id": "5022",
+                "link": "/find?type=1&query=appellee",
+                "word": "appellee"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "5479", "link": "/find?type=1&query=aren%27t", "word": "aren't"}, {"id": "5480", "link": "/find?type=1&query=arena", "word": "arena"}, {"id": "5481", "link": "/find?type=1&query=arenaceous", "word": "arenaceous"}, {"id": "5482", "link": "/find?type=1&query=arenicolous", "word": "arenicolous"}, {"id": "5483", "link": "/find?type=1&query=arenit", "word": "arenit"}], "data": {}}, "en_en": {"suggests": [{"id": "1292", "link": "/find?type=3&query=arena", "word": "arena"}, {"id": "1293", "link": "/find?type=3&query=arena+football", "word": "arena football"}, {"id": "1294", "link": "/find?type=3&query=aren%27t", "word": "aren't"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1292",
+                "link": "/find?type=3&query=arena",
+                "word": "arena"
+            },
+            {
+                "id": "1293",
+                "link": "/find?type=3&query=arena+football",
+                "word": "arena football"
+            },
+            {
+                "id": "1294",
+                "link": "/find?type=3&query=aren%27t",
+                "word": "aren't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5479",
+                "link": "/find?type=1&query=aren%27t",
+                "word": "aren't"
+            },
+            {
+                "id": "5480",
+                "link": "/find?type=1&query=arena",
+                "word": "arena"
+            },
+            {
+                "id": "5481",
+                "link": "/find?type=1&query=arenaceous",
+                "word": "arenaceous"
+            },
+            {
+                "id": "5482",
+                "link": "/find?type=1&query=arenicolous",
+                "word": "arenicolous"
+            },
+            {
+                "id": "5483",
+                "link": "/find?type=1&query=arenit",
+                "word": "arenit"
+            }
+        ]
+    }
+}

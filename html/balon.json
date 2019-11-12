@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7918", "link": "/find?type=1&query=baloney", "word": "baloney"}], "data": {}}, "en_en": {"suggests": [{"id": "1953", "link": "/find?type=3&query=baloney", "word": "baloney"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1953",
+                "link": "/find?type=3&query=baloney",
+                "word": "baloney"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7918",
+                "link": "/find?type=1&query=baloney",
+                "word": "baloney"
+            }
+        ]
+    }
+}

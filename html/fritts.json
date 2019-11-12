@@ -1,1 +1,32 @@
-{"error": 0, "query": "fritts", "enViData": {"suggests": [{"id": "38068", "link": "/find?type=1&query=fritter", "word": "fritter"}]}, "mUrl": "/find?type=1&query=fritts", "enEnData": {"suggests": [{"id": "11503", "link": "/find?type=3&query=fritter", "word": "fritter"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2867", "link": "/find?type=4&query=fritter", "word": "fritter"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11503",
+                "link": "/find?type=3&query=fritter",
+                "word": "fritter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38068",
+                "link": "/find?type=1&query=fritter",
+                "word": "fritter"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2867",
+                "link": "/find?type=4&query=fritter",
+                "word": "fritter"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "garring", "enViData": {"suggests": [{"id": "39070", "link": "/find?type=1&query=garret", "word": "garret"}, {"id": "39071", "link": "/find?type=1&query=garret-master", "word": "garret-master"}, {"id": "39072", "link": "/find?type=1&query=garreteer", "word": "garreteer"}, {"id": "39073", "link": "/find?type=1&query=garreting", "word": "garreting"}]}, "mUrl": "/find?type=1&query=garring", "enEnData": {"suggests": [{"id": "11840", "link": "/find?type=3&query=garret", "word": "garret"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11840",
+                "link": "/find?type=3&query=garret",
+                "word": "garret"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39070",
+                "link": "/find?type=1&query=garret",
+                "word": "garret"
+            },
+            {
+                "id": "39071",
+                "link": "/find?type=1&query=garret-master",
+                "word": "garret-master"
+            },
+            {
+                "id": "39072",
+                "link": "/find?type=1&query=garreteer",
+                "word": "garreteer"
+            },
+            {
+                "id": "39073",
+                "link": "/find?type=1&query=garreting",
+                "word": "garreting"
+            }
+        ]
+    }
+}

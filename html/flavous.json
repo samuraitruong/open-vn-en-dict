@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "36088", "link": "/find?type=1&query=flavour", "word": "flavour"}, {"id": "36089", "link": "/find?type=1&query=flavoured", "word": "flavoured"}, {"id": "36090", "link": "/find?type=1&query=flavouring", "word": "flavouring"}, {"id": "36091", "link": "/find?type=1&query=flavourless", "word": "flavourless"}, {"id": "36092", "link": "/find?type=1&query=flavoursome", "word": "flavoursome"}, {"id": "104622", "link": "/find?type=1&query=-flavoured", "word": "-flavoured"}], "data": {}}, "synonyms": {"suggests": [{"id": "2675", "link": "/find?type=4&query=flavour", "word": "flavour"}], "data": {}}}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36088",
+                "link": "/find?type=1&query=flavour",
+                "word": "flavour"
+            },
+            {
+                "id": "36089",
+                "link": "/find?type=1&query=flavoured",
+                "word": "flavoured"
+            },
+            {
+                "id": "36090",
+                "link": "/find?type=1&query=flavouring",
+                "word": "flavouring"
+            },
+            {
+                "id": "36091",
+                "link": "/find?type=1&query=flavourless",
+                "word": "flavourless"
+            },
+            {
+                "id": "36092",
+                "link": "/find?type=1&query=flavoursome",
+                "word": "flavoursome"
+            },
+            {
+                "id": "104622",
+                "link": "/find?type=1&query=-flavoured",
+                "word": "-flavoured"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2675",
+                "link": "/find?type=4&query=flavour",
+                "word": "flavour"
+            }
+        ]
+    }
+}

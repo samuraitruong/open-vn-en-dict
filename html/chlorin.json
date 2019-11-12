@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "15047", "link": "/find?type=1&query=chlorinate", "word": "chlorinate"}, {"id": "15048", "link": "/find?type=1&query=chlorination", "word": "chlorination"}, {"id": "15049", "link": "/find?type=1&query=chlorinator", "word": "chlorinator"}, {"id": "15050", "link": "/find?type=1&query=chlorine", "word": "chlorine"}], "data": {}}, "en_en": {"suggests": [{"id": "4842", "link": "/find?type=3&query=chlorinate", "word": "chlorinate"}, {"id": "4843", "link": "/find?type=3&query=chlorine", "word": "chlorine"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4842",
+                "link": "/find?type=3&query=chlorinate",
+                "word": "chlorinate"
+            },
+            {
+                "id": "4843",
+                "link": "/find?type=3&query=chlorine",
+                "word": "chlorine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15047",
+                "link": "/find?type=1&query=chlorinate",
+                "word": "chlorinate"
+            },
+            {
+                "id": "15048",
+                "link": "/find?type=1&query=chlorination",
+                "word": "chlorination"
+            },
+            {
+                "id": "15049",
+                "link": "/find?type=1&query=chlorinator",
+                "word": "chlorinator"
+            },
+            {
+                "id": "15050",
+                "link": "/find?type=1&query=chlorine",
+                "word": "chlorine"
+            }
+        ]
+    }
+}

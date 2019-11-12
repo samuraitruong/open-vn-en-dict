@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "22275", "link": "/find?type=1&query=daguerreotyper", "word": "daguerreotyper"}], "data": {"word": "daguerreotype", "id": "22275", "pronounce": "/d\u0259'ger\u0259taip/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e9p ch\u1ee5p h\u00ecnh \u0111aghe</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh ch\u1ee5p \u0111aghe</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "daguerreotype", "id": "7145", "pronounce": "/d\u0259\u02c8gero\u028a\u02ccta\u026ap/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -types</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an old type of photograph that was made on a piece of silver or a piece of copper covered in silver</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -types</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an old type of photograph that was made on a piece of silver or a piece of copper covered in silver</div>",
+            "id": "7145",
+            "mean": [],
+            "pronounce": "/d\u0259\u02c8gero\u028a\u02ccta\u026ap/",
+            "type": "noun",
+            "word": "daguerreotype"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00e9p ch\u1ee5p h\u00ecnh \u0111aghe</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh ch\u1ee5p \u0111aghe</div>",
+            "id": "22275",
+            "mean": [],
+            "pronounce": "/d\u0259'ger\u0259taip/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "daguerreotype"
+        },
+        "suggests": [
+            {
+                "id": "22275",
+                "link": "/find?type=1&query=daguerreotyper",
+                "word": "daguerreotyper"
+            }
+        ]
+    }
+}

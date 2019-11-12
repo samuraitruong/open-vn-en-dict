@@ -1,1 +1,74 @@
-{"en_vn": {"suggests": [], "data": {"word": "educe", "id": "28882", "pronounce": "/i:'dju:s/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u00fat ra ((ngh\u0129a \u0111en) &amp; (ngh\u0129a b\u00f3ng))</div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) chi\u1ebft ra</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9216", "link": "/find?type=3&query=educate", "word": "educate"}, {"id": "9217", "link": "/find?type=3&query=educated", "word": "educated"}, {"id": "9218", "link": "/find?type=3&query=education", "word": "education"}, {"id": "9219", "link": "/find?type=3&query=educational", "word": "educational"}, {"id": "9220", "link": "/find?type=3&query=educationist", "word": "educationist"}, {"id": "9221", "link": "/find?type=3&query=educator", "word": "educator"}], "data": {}}, "synonyms": {"suggests": [{"id": "2029", "link": "/find?type=4&query=educate", "word": "educate"}, {"id": "2030", "link": "/find?type=4&query=educated", "word": "educated"}, {"id": "2031", "link": "/find?type=4&query=education", "word": "education"}, {"id": "2032", "link": "/find?type=4&query=educational", "word": "educational"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9216",
+                "link": "/find?type=3&query=educate",
+                "word": "educate"
+            },
+            {
+                "id": "9217",
+                "link": "/find?type=3&query=educated",
+                "word": "educated"
+            },
+            {
+                "id": "9218",
+                "link": "/find?type=3&query=education",
+                "word": "education"
+            },
+            {
+                "id": "9219",
+                "link": "/find?type=3&query=educational",
+                "word": "educational"
+            },
+            {
+                "id": "9220",
+                "link": "/find?type=3&query=educationist",
+                "word": "educationist"
+            },
+            {
+                "id": "9221",
+                "link": "/find?type=3&query=educator",
+                "word": "educator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u00fat ra ((ngh\u0129a \u0111en) &amp; (ngh\u0129a b\u00f3ng))</div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) chi\u1ebft ra</div>",
+            "id": "28882",
+            "mean": [],
+            "pronounce": "/i:'dju:s/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "educe"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2029",
+                "link": "/find?type=4&query=educate",
+                "word": "educate"
+            },
+            {
+                "id": "2030",
+                "link": "/find?type=4&query=educated",
+                "word": "educated"
+            },
+            {
+                "id": "2031",
+                "link": "/find?type=4&query=education",
+                "word": "education"
+            },
+            {
+                "id": "2032",
+                "link": "/find?type=4&query=educational",
+                "word": "educational"
+            }
+        ]
+    }
+}

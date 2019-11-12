@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "10911", "link": "/find?type=1&query=Braille", "word": "Braille"}, {"id": "10911", "link": "/find?type=1&query=braillewriter", "word": "braillewriter"}], "data": {"word": "brail", "id": "10911", "pronounce": "/breil/", "type": "Danh t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) d\u00e2y cu\u1ed9n bu\u1ed3m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) cu\u1ed9n (bu\u1ed3m)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "braille", "id": "3305", "pronounce": "/\u02c8bre\u026al/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or Braille</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a system of writing for blind people in which letters are represented by raised dots</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a book made available in braille - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a braille book</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or Braille</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a system of writing for blind people in which letters are represented by raised dots</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a book made available in braille - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a braille book</div>",
+            "id": "3305",
+            "mean": [],
+            "pronounce": "/\u02c8bre\u026al/",
+            "type": "noun",
+            "word": "braille"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) d\u00e2y cu\u1ed9n bu\u1ed3m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00e0ng h\u1ea3i) cu\u1ed9n (bu\u1ed3m)</div>",
+            "id": "10911",
+            "mean": [],
+            "pronounce": "/breil/",
+            "speak": {},
+            "type": "Danh t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "brail"
+        },
+        "suggests": [
+            {
+                "id": "10911",
+                "link": "/find?type=1&query=Braille",
+                "word": "Braille"
+            },
+            {
+                "id": "10911",
+                "link": "/find?type=1&query=braillewriter",
+                "word": "braillewriter"
+            }
+        ]
+    }
+}

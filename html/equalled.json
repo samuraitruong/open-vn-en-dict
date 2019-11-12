@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "31520", "link": "/find?type=1&query=equally", "word": "equally"}], "data": {}}, "en_en": {"suggests": [{"id": "9698", "link": "/find?type=3&query=equally", "word": "equally"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9698",
+                "link": "/find?type=3&query=equally",
+                "word": "equally"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31520",
+                "link": "/find?type=1&query=equally",
+                "word": "equally"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "5300", "link": "/find?type=1&query=arboreal", "word": "arboreal"}, {"id": "5301", "link": "/find?type=1&query=arboreally", "word": "arboreally"}], "data": {}}, "en_en": {"suggests": [{"id": "1253", "link": "/find?type=3&query=arboreal", "word": "arboreal"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1253",
+                "link": "/find?type=3&query=arboreal",
+                "word": "arboreal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5300",
+                "link": "/find?type=1&query=arboreal",
+                "word": "arboreal"
+            },
+            {
+                "id": "5301",
+                "link": "/find?type=1&query=arboreally",
+                "word": "arboreally"
+            }
+        ]
+    }
+}

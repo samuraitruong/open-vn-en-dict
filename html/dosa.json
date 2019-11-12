@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27196", "link": "/find?type=1&query=dosage", "word": "dosage"}], "data": {}}, "en_en": {"suggests": [{"id": "8604", "link": "/find?type=3&query=dosage", "word": "dosage"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8604",
+                "link": "/find?type=3&query=dosage",
+                "word": "dosage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27196",
+                "link": "/find?type=1&query=dosage",
+                "word": "dosage"
+            }
+        ]
+    }
+}

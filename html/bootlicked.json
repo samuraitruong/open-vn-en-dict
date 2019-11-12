@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "10551", "link": "/find?type=1&query=bootlicker", "word": "bootlicker"}], "data": {"word": "bootlick", "id": "10551", "pronounce": "/'bu:tlik/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">li\u1ebfm g\u00f3t, b\u1ee3 \u0111\u1ee1 (ai)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3163", "link": "/find?type=3&query=bootlicker", "word": "bootlicker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3163",
+                "link": "/find?type=3&query=bootlicker",
+                "word": "bootlicker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">li\u1ebfm g\u00f3t, b\u1ee3 \u0111\u1ee1 (ai)</div>",
+            "id": "10551",
+            "mean": [],
+            "pronounce": "/'bu:tlik/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "bootlick"
+        },
+        "suggests": [
+            {
+                "id": "10551",
+                "link": "/find?type=1&query=bootlicker",
+                "word": "bootlicker"
+            }
+        ]
+    }
+}

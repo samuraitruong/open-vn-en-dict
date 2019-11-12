@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "29754", "link": "/find?type=1&query=element", "word": "element"}, {"id": "29755", "link": "/find?type=1&query=elemental", "word": "elemental"}, {"id": "29756", "link": "/find?type=1&query=elementally", "word": "elementally"}, {"id": "29757", "link": "/find?type=1&query=elementarily", "word": "elementarily"}, {"id": "29758", "link": "/find?type=1&query=elementariness", "word": "elementariness"}, {"id": "29759", "link": "/find?type=1&query=elementary", "word": "elementary"}, {"id": "29760", "link": "/find?type=1&query=elementary+particle", "word": "elementary particle"}, {"id": "29761", "link": "/find?type=1&query=elementwise", "word": "elementwise"}], "data": {}}, "en_en": {"suggests": [{"id": "9344", "link": "/find?type=3&query=element", "word": "element"}, {"id": "9345", "link": "/find?type=3&query=elemental", "word": "elemental"}, {"id": "9346", "link": "/find?type=3&query=elementary", "word": "elementary"}, {"id": "9347", "link": "/find?type=3&query=elementary+particle", "word": "elementary particle"}, {"id": "9348", "link": "/find?type=3&query=elementary+school", "word": "elementary school"}], "data": {}}, "synonyms": {"suggests": [{"id": "2068", "link": "/find?type=4&query=element", "word": "element"}, {"id": "2069", "link": "/find?type=4&query=elemental", "word": "elemental"}, {"id": "2070", "link": "/find?type=4&query=elementary", "word": "elementary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9344",
+                "link": "/find?type=3&query=element",
+                "word": "element"
+            },
+            {
+                "id": "9345",
+                "link": "/find?type=3&query=elemental",
+                "word": "elemental"
+            },
+            {
+                "id": "9346",
+                "link": "/find?type=3&query=elementary",
+                "word": "elementary"
+            },
+            {
+                "id": "9347",
+                "link": "/find?type=3&query=elementary+particle",
+                "word": "elementary particle"
+            },
+            {
+                "id": "9348",
+                "link": "/find?type=3&query=elementary+school",
+                "word": "elementary school"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29754",
+                "link": "/find?type=1&query=element",
+                "word": "element"
+            },
+            {
+                "id": "29755",
+                "link": "/find?type=1&query=elemental",
+                "word": "elemental"
+            },
+            {
+                "id": "29756",
+                "link": "/find?type=1&query=elementally",
+                "word": "elementally"
+            },
+            {
+                "id": "29757",
+                "link": "/find?type=1&query=elementarily",
+                "word": "elementarily"
+            },
+            {
+                "id": "29758",
+                "link": "/find?type=1&query=elementariness",
+                "word": "elementariness"
+            },
+            {
+                "id": "29759",
+                "link": "/find?type=1&query=elementary",
+                "word": "elementary"
+            },
+            {
+                "id": "29760",
+                "link": "/find?type=1&query=elementary+particle",
+                "word": "elementary particle"
+            },
+            {
+                "id": "29761",
+                "link": "/find?type=1&query=elementwise",
+                "word": "elementwise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2068",
+                "link": "/find?type=4&query=element",
+                "word": "element"
+            },
+            {
+                "id": "2069",
+                "link": "/find?type=4&query=elemental",
+                "word": "elemental"
+            },
+            {
+                "id": "2070",
+                "link": "/find?type=4&query=elementary",
+                "word": "elementary"
+            }
+        ]
+    }
+}

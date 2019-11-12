@@ -1,1 +1,105 @@
-{"error": 0, "query": "herm", "enViData": {"suggests": [{"id": "43687", "link": "/find?type=1&query=herma", "word": "herma"}, {"id": "43687", "link": "/find?type=1&query=hermaphrodism", "word": "hermaphrodism"}, {"id": "43687", "link": "/find?type=1&query=hermaphrodite", "word": "hermaphrodite"}, {"id": "43687", "link": "/find?type=1&query=hermaphroditic", "word": "hermaphroditic"}, {"id": "43687", "link": "/find?type=1&query=hermaphroditical", "word": "hermaphroditical"}, {"id": "43687", "link": "/find?type=1&query=hermaphroditism", "word": "hermaphroditism"}, {"id": "43687", "link": "/find?type=1&query=hermeneutics", "word": "hermeneutics"}, {"id": "43687", "link": "/find?type=1&query=hermes", "word": "hermes"}, {"id": "43687", "link": "/find?type=1&query=hermetic", "word": "hermetic"}], "best": {"id": "43687", "details": "\n<div id=\"find_word_43687\" class=\"world word_en\" rel=\"herm\">\n    <h2 class=\"fl\">herm <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43687\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43687\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ee5 \u0111\u00e1 h\u00ecnh vu\u00f4ng tr\u00ean c\u00f3 t\u01b0\u1ee3ng b\u00e1n th\u00e2n ho\u1eb7c \u0111\u1ea7u c\u1ee7a th\u1ea7n Hec m\u00e9t</div>\n    \n</div>\n", "link": "/find?type=1&query=herm", "word": "herm"}}, "mUrl": "/find?type=1&query=herm", "enEnData": {"suggests": [{"id": "13463", "link": "/find?type=3&query=hermaphrodite", "word": "hermaphrodite"}, {"id": "13464", "link": "/find?type=3&query=hermetic", "word": "hermetic"}, {"id": "13465", "link": "/find?type=3&query=hermit", "word": "hermit"}, {"id": "13466", "link": "/find?type=3&query=hermit+crab", "word": "hermit crab"}, {"id": "13467", "link": "/find?type=3&query=hermitage", "word": "hermitage"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3291", "link": "/find?type=4&query=hermetic", "word": "hermetic"}, {"id": "3292", "link": "/find?type=4&query=hermit", "word": "hermit"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13463",
+                "link": "/find?type=3&query=hermaphrodite",
+                "word": "hermaphrodite"
+            },
+            {
+                "id": "13464",
+                "link": "/find?type=3&query=hermetic",
+                "word": "hermetic"
+            },
+            {
+                "id": "13465",
+                "link": "/find?type=3&query=hermit",
+                "word": "hermit"
+            },
+            {
+                "id": "13466",
+                "link": "/find?type=3&query=hermit+crab",
+                "word": "hermit crab"
+            },
+            {
+                "id": "13467",
+                "link": "/find?type=3&query=hermitage",
+                "word": "hermitage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ee5 \u0111\u00e1 h\u00ecnh vu\u00f4ng tr\u00ean c\u00f3 t\u01b0\u1ee3ng b\u00e1n th\u00e2n ho\u1eb7c \u0111\u1ea7u c\u1ee7a th\u1ea7n Hec m\u00e9t</div>",
+            "id": "43687",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "herm"
+        },
+        "suggests": [
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=herma",
+                "word": "herma"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermaphrodism",
+                "word": "hermaphrodism"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermaphrodite",
+                "word": "hermaphrodite"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermaphroditic",
+                "word": "hermaphroditic"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermaphroditical",
+                "word": "hermaphroditical"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermaphroditism",
+                "word": "hermaphroditism"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermeneutics",
+                "word": "hermeneutics"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermes",
+                "word": "hermes"
+            },
+            {
+                "id": "43687",
+                "link": "/find?type=1&query=hermetic",
+                "word": "hermetic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3291",
+                "link": "/find?type=4&query=hermetic",
+                "word": "hermetic"
+            },
+            {
+                "id": "3292",
+                "link": "/find?type=4&query=hermit",
+                "word": "hermit"
+            }
+        ]
+    }
+}

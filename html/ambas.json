@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "3035", "link": "/find?type=1&query=ambassador", "word": "ambassador"}, {"id": "3036", "link": "/find?type=1&query=ambassador-at-large", "word": "ambassador-at-large"}, {"id": "3037", "link": "/find?type=1&query=ambassadorial", "word": "ambassadorial"}, {"id": "3038", "link": "/find?type=1&query=ambassadorship", "word": "ambassadorship"}, {"id": "3039", "link": "/find?type=1&query=ambassadress", "word": "ambassadress"}], "data": {}}, "en_en": {"suggests": [{"id": "796", "link": "/find?type=3&query=ambassador", "word": "ambassador"}], "data": {}}, "synonyms": {"suggests": [{"id": "223", "link": "/find?type=4&query=ambassador", "word": "ambassador"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "796",
+                "link": "/find?type=3&query=ambassador",
+                "word": "ambassador"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3035",
+                "link": "/find?type=1&query=ambassador",
+                "word": "ambassador"
+            },
+            {
+                "id": "3036",
+                "link": "/find?type=1&query=ambassador-at-large",
+                "word": "ambassador-at-large"
+            },
+            {
+                "id": "3037",
+                "link": "/find?type=1&query=ambassadorial",
+                "word": "ambassadorial"
+            },
+            {
+                "id": "3038",
+                "link": "/find?type=1&query=ambassadorship",
+                "word": "ambassadorship"
+            },
+            {
+                "id": "3039",
+                "link": "/find?type=1&query=ambassadress",
+                "word": "ambassadress"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "223",
+                "link": "/find?type=4&query=ambassador",
+                "word": "ambassador"
+            }
+        ]
+    }
+}

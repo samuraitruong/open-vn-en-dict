@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "13296", "link": "/find?type=1&query=carpenter-ant", "word": "carpenter-ant"}, {"id": "13296", "link": "/find?type=1&query=carpenter-bee", "word": "carpenter-bee"}, {"id": "13296", "link": "/find?type=1&query=carpenter-scene", "word": "carpenter-scene"}], "data": {"word": "carpenter", "id": "13296", "pronounce": "/'k\u0251:p\u0259nt\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 m\u1ed9c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/edd069c19658b2782dd46324842a5247/16e5de423f6/C/carpenter.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9ee0a6e50656a080fac77d187344c09b/16e5de429c4/C/carpenter.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "carpenter", "id": "4173", "pronounce": "/\u02c8k\u0251\u025ap\u0259nt\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to make or fix wooden objects or wooden parts of buildings</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to make or fix wooden objects or wooden parts of buildings</div>",
+            "id": "4173",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u025ap\u0259nt\u025a/",
+            "type": "noun",
+            "word": "carpenter"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 m\u1ed9c</div>",
+            "id": "13296",
+            "mean": [],
+            "pronounce": "/'k\u0251:p\u0259nt\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/de24783f78aadecebdf389bfa5292d80/16e5ec51576/C/carpenter.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ee92cf9cc7e9c5679ff26e019f00a63b/16e5ec51056/C/carpenter.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "carpenter"
+        },
+        "suggests": [
+            {
+                "id": "13296",
+                "link": "/find?type=1&query=carpenter-ant",
+                "word": "carpenter-ant"
+            },
+            {
+                "id": "13296",
+                "link": "/find?type=1&query=carpenter-bee",
+                "word": "carpenter-bee"
+            },
+            {
+                "id": "13296",
+                "link": "/find?type=1&query=carpenter-scene",
+                "word": "carpenter-scene"
+            }
+        ]
+    }
+}

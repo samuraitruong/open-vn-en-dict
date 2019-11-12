@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "17256", "link": "/find?type=1&query=cometary", "word": "cometary"}, {"id": "17256", "link": "/find?type=1&query=cometic", "word": "cometic"}, {"id": "17256", "link": "/find?type=1&query=cometical", "word": "cometical"}], "data": {"word": "comet", "id": "17256", "pronounce": "/'k\u0252mit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(thi\u00ean v\u0103n)</div>\n    \n    <div class=\"green margin25 m-top15\">sao ch\u1ed5i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/e48e9a9ca5f27275d717d1edd87ee098/16e5df184d9/C/comet.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/dffff0eb5ee708fa31d95cd20791523a/16e5df18a8f/C/comet.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "comet", "id": "5591", "pronounce": "/\u02c8k\u0251\u02d0m\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an object in outer space that develops a long, bright tail when it passes near the sun</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an object in outer space that develops a long, bright tail when it passes near the sun</div>",
+            "id": "5591",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0m\u0259t/",
+            "type": "noun",
+            "word": "comet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(thi\u00ean v\u0103n)</div>\n    \n    <div class=\"green margin25 m-top15\">sao ch\u1ed5i</div>",
+            "id": "17256",
+            "mean": [],
+            "pronounce": "/'k\u0252mit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ad84dd8f38e5f15bcd0c7e72ddb757e1/16e5ed2c9b0/C/comet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6cc7a96bf8983fb9a7c86113f6c37cfb/16e5ed2c0da/C/comet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "comet"
+        },
+        "suggests": [
+            {
+                "id": "17256",
+                "link": "/find?type=1&query=cometary",
+                "word": "cometary"
+            },
+            {
+                "id": "17256",
+                "link": "/find?type=1&query=cometic",
+                "word": "cometic"
+            },
+            {
+                "id": "17256",
+                "link": "/find?type=1&query=cometical",
+                "word": "cometical"
+            }
+        ]
+    }
+}

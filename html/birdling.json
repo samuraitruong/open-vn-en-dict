@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "9482", "link": "/find?type=1&query=birdlime", "word": "birdlime"}], "data": {}}, "en_en": {"suggests": [{"id": "2668", "link": "/find?type=3&query=birdlife", "word": "birdlife"}, {"id": "2669", "link": "/find?type=3&query=birdlike", "word": "birdlike"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2668",
+                "link": "/find?type=3&query=birdlife",
+                "word": "birdlife"
+            },
+            {
+                "id": "2669",
+                "link": "/find?type=3&query=birdlike",
+                "word": "birdlike"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9482",
+                "link": "/find?type=1&query=birdlime",
+                "word": "birdlime"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "15656", "link": "/find?type=1&query=cissoid", "word": "cissoid"}, {"id": "15657", "link": "/find?type=1&query=cissy", "word": "cissy"}], "data": {}}, "en_en": {"suggests": [{"id": "5011", "link": "/find?type=3&query=cissy", "word": "cissy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5011",
+                "link": "/find?type=3&query=cissy",
+                "word": "cissy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15656",
+                "link": "/find?type=1&query=cissoid",
+                "word": "cissoid"
+            },
+            {
+                "id": "15657",
+                "link": "/find?type=1&query=cissy",
+                "word": "cissy"
+            }
+        ]
+    }
+}

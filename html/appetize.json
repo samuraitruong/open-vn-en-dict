@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "5043", "link": "/find?type=1&query=appetizer%2C+appetiser", "word": "appetizer, appetiser"}], "data": {}}, "en_en": {"suggests": [{"id": "1165", "link": "/find?type=3&query=appetizer", "word": "appetizer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1165",
+                "link": "/find?type=3&query=appetizer",
+                "word": "appetizer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5043",
+                "link": "/find?type=1&query=appetizer%2C+appetiser",
+                "word": "appetizer, appetiser"
+            }
+        ]
+    }
+}

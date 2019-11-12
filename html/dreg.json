@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "27653", "link": "/find?type=1&query=dreggy", "word": "dreggy"}, {"id": "27653", "link": "/find?type=1&query=dregion", "word": "dregion"}, {"id": "27653", "link": "/find?type=1&query=dregs", "word": "dregs"}], "data": {"word": "dreg", "id": "27653", "pronounce": "/dreg/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">((th\u01b0\u1eddng) s\u1ed1 nhi\u1ec1u) c\u1eb7n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to drink (drain) to the dregs</div>\n    \n    <div class=\"margin25\">u\u1ed1ng c\u1ea1n</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i b\u1ecf \u0111i</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ed c\u00f2n l\u1ea1i, ch\u00fat x\u00edu c\u00f2n l\u1ea1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">not a dreg</div>\n    \n    <div class=\"margin25\">kh\u00f4ng c\u00f2n t\u00ed g\u00ec</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8825", "link": "/find?type=3&query=dregs", "word": "dregs"}], "data": {}}, "synonyms": {"suggests": [{"id": "1936", "link": "/find?type=4&query=dregs", "word": "dregs"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8825",
+                "link": "/find?type=3&query=dregs",
+                "word": "dregs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">((th\u01b0\u1eddng) s\u1ed1 nhi\u1ec1u) c\u1eb7n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to drink (drain) to the dregs</div>\n    \n    <div class=\"margin25\">u\u1ed1ng c\u1ea1n</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i b\u1ecf \u0111i</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ed c\u00f2n l\u1ea1i, ch\u00fat x\u00edu c\u00f2n l\u1ea1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">not a dreg</div>\n    \n    <div class=\"margin25\">kh\u00f4ng c\u00f2n t\u00ed g\u00ec</div>",
+            "id": "27653",
+            "mean": [],
+            "pronounce": "/dreg/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "dreg"
+        },
+        "suggests": [
+            {
+                "id": "27653",
+                "link": "/find?type=1&query=dreggy",
+                "word": "dreggy"
+            },
+            {
+                "id": "27653",
+                "link": "/find?type=1&query=dregion",
+                "word": "dregion"
+            },
+            {
+                "id": "27653",
+                "link": "/find?type=1&query=dregs",
+                "word": "dregs"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1936",
+                "link": "/find?type=4&query=dregs",
+                "word": "dregs"
+            }
+        ]
+    }
+}

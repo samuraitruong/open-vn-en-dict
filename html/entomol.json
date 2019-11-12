@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "31006", "link": "/find?type=1&query=entomologic", "word": "entomologic"}, {"id": "31007", "link": "/find?type=1&query=entomological", "word": "entomological"}, {"id": "31008", "link": "/find?type=1&query=entomologically", "word": "entomologically"}, {"id": "31009", "link": "/find?type=1&query=entomologist", "word": "entomologist"}, {"id": "31010", "link": "/find?type=1&query=entomologize", "word": "entomologize"}, {"id": "31011", "link": "/find?type=1&query=entomology", "word": "entomology"}], "data": {}}, "en_en": {"suggests": [{"id": "9630", "link": "/find?type=3&query=entomology", "word": "entomology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9630",
+                "link": "/find?type=3&query=entomology",
+                "word": "entomology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31006",
+                "link": "/find?type=1&query=entomologic",
+                "word": "entomologic"
+            },
+            {
+                "id": "31007",
+                "link": "/find?type=1&query=entomological",
+                "word": "entomological"
+            },
+            {
+                "id": "31008",
+                "link": "/find?type=1&query=entomologically",
+                "word": "entomologically"
+            },
+            {
+                "id": "31009",
+                "link": "/find?type=1&query=entomologist",
+                "word": "entomologist"
+            },
+            {
+                "id": "31010",
+                "link": "/find?type=1&query=entomologize",
+                "word": "entomologize"
+            },
+            {
+                "id": "31011",
+                "link": "/find?type=1&query=entomology",
+                "word": "entomology"
+            }
+        ]
+    }
+}

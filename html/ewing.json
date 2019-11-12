@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "32564", "link": "/find?type=1&query=ewe-cheese", "word": "ewe-cheese"}, {"id": "32564", "link": "/find?type=1&query=ewe-lamb", "word": "ewe-lamb"}, {"id": "32564", "link": "/find?type=1&query=ewe-necked", "word": "ewe-necked"}, {"id": "32564", "link": "/find?type=1&query=ewer", "word": "ewer"}], "data": {"word": "ewe", "id": "32564", "pronounce": "/ju:/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eebu c\u00e1i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/346b33daf1ef1c2bc46b99d46878cee1/16e5e1c18a0/E/ewe.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6e73af252614bf6ee442f57376175c5d/16e5e1c1e43/E/ewe.mp3"}}}, "en_en": {"suggests": [{"id": "9896", "link": "/find?type=3&query=ewer", "word": "ewer"}], "data": {"word": "ewe", "id": "9896", "pronounce": "/\u02c8ju\u02d0/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ewes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a female sheep - compare 1lamb, 1ram</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ewes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a female sheep - compare 1lamb, 1ram</div>",
+            "id": "9896",
+            "mean": [],
+            "pronounce": "/\u02c8ju\u02d0/",
+            "type": "noun",
+            "word": "ewe"
+        },
+        "suggests": [
+            {
+                "id": "9896",
+                "link": "/find?type=3&query=ewer",
+                "word": "ewer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eebu c\u00e1i</div>",
+            "id": "32564",
+            "mean": [],
+            "pronounce": "/ju:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e2365ab190d67315cd0b1d47967cc8be/16e5fe2b3b7/E/ewe.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/575ac2435a454bfcfc24e428c0aa37b6/16e5fe2ab5d/E/ewe.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ewe"
+        },
+        "suggests": [
+            {
+                "id": "32564",
+                "link": "/find?type=1&query=ewe-cheese",
+                "word": "ewe-cheese"
+            },
+            {
+                "id": "32564",
+                "link": "/find?type=1&query=ewe-lamb",
+                "word": "ewe-lamb"
+            },
+            {
+                "id": "32564",
+                "link": "/find?type=1&query=ewe-necked",
+                "word": "ewe-necked"
+            },
+            {
+                "id": "32564",
+                "link": "/find?type=1&query=ewer",
+                "word": "ewer"
+            }
+        ]
+    }
+}

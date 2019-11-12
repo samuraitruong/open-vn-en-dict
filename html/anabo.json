@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3410", "link": "/find?type=1&query=anabolic", "word": "anabolic"}, {"id": "3411", "link": "/find?type=1&query=anabolism", "word": "anabolism"}, {"id": "3412", "link": "/find?type=1&query=anabolite", "word": "anabolite"}], "data": {}}, "en_en": {"suggests": [{"id": "882", "link": "/find?type=3&query=anabolic+steroid", "word": "anabolic steroid"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "882",
+                "link": "/find?type=3&query=anabolic+steroid",
+                "word": "anabolic steroid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3410",
+                "link": "/find?type=1&query=anabolic",
+                "word": "anabolic"
+            },
+            {
+                "id": "3411",
+                "link": "/find?type=1&query=anabolism",
+                "word": "anabolism"
+            },
+            {
+                "id": "3412",
+                "link": "/find?type=1&query=anabolite",
+                "word": "anabolite"
+            }
+        ]
+    }
+}

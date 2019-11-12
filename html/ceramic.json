@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "14140", "link": "/find?type=1&query=ceramic+capacitor", "word": "ceramic capacitor"}, {"id": "14140", "link": "/find?type=1&query=ceramic+insulator", "word": "ceramic insulator"}, {"id": "14140", "link": "/find?type=1&query=ceramics", "word": "ceramics"}], "data": {"word": "ceramic", "id": "14140", "pronounce": "/si'ramik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c \u0111\u1ed3] g\u1ed1m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4461", "link": "/find?type=3&query=ceramics", "word": "ceramics"}], "data": {"word": "ceramic", "id": "4461", "pronounce": "/s\u0259\u02c8r\u00e6m\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">made of clay that has been heated to a very high temperature so that it becomes hard</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a ceramic bead/bowl</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ceramic tiles</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">made of clay that has been heated to a very high temperature so that it becomes hard</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a ceramic bead/bowl</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ceramic tiles</div>",
+            "id": "4461",
+            "mean": [],
+            "pronounce": "/s\u0259\u02c8r\u00e6m\u026ak/",
+            "type": "adjective",
+            "word": "ceramic"
+        },
+        "suggests": [
+            {
+                "id": "4461",
+                "link": "/find?type=3&query=ceramics",
+                "word": "ceramics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c \u0111\u1ed3] g\u1ed1m</div>",
+            "id": "14140",
+            "mean": [],
+            "pronounce": "/si'ramik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "ceramic"
+        },
+        "suggests": [
+            {
+                "id": "14140",
+                "link": "/find?type=1&query=ceramic+capacitor",
+                "word": "ceramic capacitor"
+            },
+            {
+                "id": "14140",
+                "link": "/find?type=1&query=ceramic+insulator",
+                "word": "ceramic insulator"
+            },
+            {
+                "id": "14140",
+                "link": "/find?type=1&query=ceramics",
+                "word": "ceramics"
+            }
+        ]
+    }
+}

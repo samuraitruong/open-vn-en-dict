@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "22259", "link": "/find?type=1&query=daemonic", "word": "daemonic"}], "data": {"word": "daemon", "id": "22259", "pronounce": "/'di:m\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea7n n\u1eeda ng\u01b0\u1eddi n\u1eeda th\u1ea7n (th\u1ea7n th\u1ecdai Hy L\u1ea1p)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3m h\u1ee9ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f7e99132da588859602c4ee3ae634dc0/16e5dfe422c/D/daemon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/144ddbade19113c0bb14b46f46cb01be/16e5dfe47f5/D/daemon.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "daemon", "id": "7139", "pronounce": "/\u02c8di\u02d0m\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a creature in ancient Greek stories that is more powerful than a person but not as powerful as a god</div>\n    \n    <div class=\"green margin25 m-top15\">demon</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">angels and daemons</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a creature in ancient Greek stories that is more powerful than a person but not as powerful as a god</div>\n    \n    <div class=\"green margin25 m-top15\">demon</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">angels and daemons</div>",
+            "id": "7139",
+            "mean": [],
+            "pronounce": "/\u02c8di\u02d0m\u0259n/",
+            "type": "noun",
+            "word": "daemon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea7n n\u1eeda ng\u01b0\u1eddi n\u1eeda th\u1ea7n (th\u1ea7n th\u1ecdai Hy L\u1ea1p)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3m h\u1ee9ng</div>",
+            "id": "22259",
+            "mean": [],
+            "pronounce": "/'di:m\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4ee73ebfa2998b533c195b758640b4cc/16e5ee49776/D/daemon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/95c290e9811910b1cfb6538906f3608c/16e5ee48d65/D/daemon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "daemon"
+        },
+        "suggests": [
+            {
+                "id": "22259",
+                "link": "/find?type=1&query=daemonic",
+                "word": "daemonic"
+            }
+        ]
+    }
+}

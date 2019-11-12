@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "35293", "link": "/find?type=1&query=filmgoer", "word": "filmgoer"}], "data": {}}, "en_en": {"suggests": [{"id": "10618", "link": "/find?type=3&query=filmgoer", "word": "filmgoer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10618",
+                "link": "/find?type=3&query=filmgoer",
+                "word": "filmgoer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35293",
+                "link": "/find?type=1&query=filmgoer",
+                "word": "filmgoer"
+            }
+        ]
+    }
+}

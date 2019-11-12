@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "26260", "link": "/find?type=1&query=dismantle", "word": "dismantle"}, {"id": "26261", "link": "/find?type=1&query=dismantlement", "word": "dismantlement"}], "data": {}}, "en_en": {"suggests": [{"id": "8260", "link": "/find?type=3&query=dismantle", "word": "dismantle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8260",
+                "link": "/find?type=3&query=dismantle",
+                "word": "dismantle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26260",
+                "link": "/find?type=1&query=dismantle",
+                "word": "dismantle"
+            },
+            {
+                "id": "26261",
+                "link": "/find?type=1&query=dismantlement",
+                "word": "dismantlement"
+            }
+        ]
+    }
+}

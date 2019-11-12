@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "12761", "link": "/find?type=1&query=canker", "word": "canker"}, {"id": "12762", "link": "/find?type=1&query=canker-worm", "word": "canker-worm"}, {"id": "12763", "link": "/find?type=1&query=cankerous", "word": "cankerous"}], "data": {}}, "en_en": {"suggests": [{"id": "4006", "link": "/find?type=3&query=canker", "word": "canker"}, {"id": "4007", "link": "/find?type=3&query=canker+sore", "word": "canker sore"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4006",
+                "link": "/find?type=3&query=canker",
+                "word": "canker"
+            },
+            {
+                "id": "4007",
+                "link": "/find?type=3&query=canker+sore",
+                "word": "canker sore"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12761",
+                "link": "/find?type=1&query=canker",
+                "word": "canker"
+            },
+            {
+                "id": "12762",
+                "link": "/find?type=1&query=canker-worm",
+                "word": "canker-worm"
+            },
+            {
+                "id": "12763",
+                "link": "/find?type=1&query=cankerous",
+                "word": "cankerous"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "22011", "link": "/find?type=1&query=cutler", "word": "cutler"}, {"id": "22012", "link": "/find?type=1&query=cutler+feed", "word": "cutler feed"}, {"id": "22013", "link": "/find?type=1&query=cutlery", "word": "cutlery"}, {"id": "22014", "link": "/find?type=1&query=cutlet", "word": "cutlet"}], "data": {}}, "en_en": {"suggests": [{"id": "7074", "link": "/find?type=3&query=cutlery", "word": "cutlery"}, {"id": "7075", "link": "/find?type=3&query=cutlet", "word": "cutlet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7074",
+                "link": "/find?type=3&query=cutlery",
+                "word": "cutlery"
+            },
+            {
+                "id": "7075",
+                "link": "/find?type=3&query=cutlet",
+                "word": "cutlet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22011",
+                "link": "/find?type=1&query=cutler",
+                "word": "cutler"
+            },
+            {
+                "id": "22012",
+                "link": "/find?type=1&query=cutler+feed",
+                "word": "cutler feed"
+            },
+            {
+                "id": "22013",
+                "link": "/find?type=1&query=cutlery",
+                "word": "cutlery"
+            },
+            {
+                "id": "22014",
+                "link": "/find?type=1&query=cutlet",
+                "word": "cutlet"
+            }
+        ]
+    }
+}

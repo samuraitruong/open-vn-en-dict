@@ -1,1 +1,85 @@
-{"error": 0, "query": "frogs", "enViData": {"suggests": [{"id": "38086", "link": "/find?type=1&query=frog-fish", "word": "frog-fish"}, {"id": "38086", "link": "/find?type=1&query=frog-in-the-throat", "word": "frog-in-the-throat"}, {"id": "38086", "link": "/find?type=1&query=frog-march", "word": "frog-march"}, {"id": "38086", "link": "/find?type=1&query=frog-spawn", "word": "frog-spawn"}, {"id": "38086", "link": "/find?type=1&query=frog%27s-march", "word": "frog's-march"}, {"id": "38086", "link": "/find?type=1&query=frogbit", "word": "frogbit"}, {"id": "38086", "link": "/find?type=1&query=frogged", "word": "frogged"}, {"id": "38086", "link": "/find?type=1&query=froggery", "word": "froggery"}, {"id": "38086", "link": "/find?type=1&query=frogging", "word": "frogging"}], "best": {"id": "38086", "details": "\n<div id=\"find_word_38086\" class=\"world word_en\" rel=\"frog\">\n    <h2 class=\"fl\">frog <span class=\"color-black\">/fr\u0252g/</span>&nbsp;&nbsp;<span class=\"color-orange\">/fr\u0254:g/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38086\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38086\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) con \u1ebfch</div>\n    \n    <div class=\"green margin25 m-top15\">khuy khuy\u1ebft th\u00f9a</div>\n    \n    <div class=\"bold dot-blue m-top15\">frog</div>\n    \n    <div class=\"color-light-grey margin25\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"grey margin25 m-top15\">ng\u01b0\u1eddi Ph\u00e1p</div>\n    \n    <div class=\"bold dot-blue m-top15\">have a frog in one's throat</div>\n    \n    <div class=\"grey margin25 m-top15\">kh\u1ea3n ti\u1ebfng</div>\n    \n</div>\n", "link": "/find?type=1&query=frog", "word": "frog"}}, "mUrl": "/find?type=1&query=frogs", "enEnData": {"suggests": [{"id": "11511", "link": "/find?type=3&query=frogman", "word": "frogman"}, {"id": "11511", "link": "/find?type=3&query=frog-march", "word": "frog-march"}], "best": {"id": "11511", "details": "\n<div id=\"find_word_11511\" class=\"world word_en\" rel=\"frog\">\n    <h2 class=\"fl\">frog <span class=\"color-black\">/\u02c8fr\u0251\u02d0g/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11511\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11511\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural frogs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a small animal that spends much of the time in water and has smooth skin, webbed feet, and long back legs for jumping - compare toad</div>\n    \n    <div class=\"green margin25 m-top15\">Frog informal + offensive :a French person</div>\n    \n    <div class=\"green margin25 m-top15\">This sense is very offensive and should be avoided.</div>\n    \n    <div class=\"bold dot-blue m-top15\">a frog in your throat</div>\n    \n    <div class=\"grey margin25 m-top15\">If you have a frog in your throat, you are unable to speak normally because your throat is dry.</div>\n    \n</div>\n", "link": "/find?type=3&query=frog", "word": "frog"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural frogs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a small animal that spends much of the time in water and has smooth skin, webbed feet, and long back legs for jumping - compare toad</div>\n    \n    <div class=\"green margin25 m-top15\">Frog informal + offensive :a French person</div>\n    \n    <div class=\"green margin25 m-top15\">This sense is very offensive and should be avoided.</div>\n    \n    <div class=\"bold dot-blue m-top15\">a frog in your throat</div>\n    \n    <div class=\"grey margin25 m-top15\">If you have a frog in your throat, you are unable to speak normally because your throat is dry.</div>",
+            "id": "11511",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u0251\u02d0g/",
+            "type": "noun",
+            "word": "frog"
+        },
+        "suggests": [
+            {
+                "id": "11511",
+                "link": "/find?type=3&query=frogman",
+                "word": "frogman"
+            },
+            {
+                "id": "11511",
+                "link": "/find?type=3&query=frog-march",
+                "word": "frog-march"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) con \u1ebfch</div>\n    \n    <div class=\"green margin25 m-top15\">khuy khuy\u1ebft th\u00f9a</div>\n    \n    <div class=\"bold dot-blue m-top15\">frog</div>\n    \n    <div class=\"color-light-grey margin25\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"grey margin25 m-top15\">ng\u01b0\u1eddi Ph\u00e1p</div>\n    \n    <div class=\"bold dot-blue m-top15\">have a frog in one's throat</div>\n    \n    <div class=\"grey margin25 m-top15\">kh\u1ea3n ti\u1ebfng</div>",
+            "id": "38086",
+            "mean": [],
+            "pronounce": "/fr\u0252g/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c7a632e49981bbcf22bbcb44c05b195a/16e60a51d35/F/frog.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f15cf736d9aecc414c8b3652991ff30f/16e60a514ee/F/frog.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "frog"
+        },
+        "suggests": [
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frog-fish",
+                "word": "frog-fish"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frog-in-the-throat",
+                "word": "frog-in-the-throat"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frog-march",
+                "word": "frog-march"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frog-spawn",
+                "word": "frog-spawn"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frog%27s-march",
+                "word": "frog's-march"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frogbit",
+                "word": "frogbit"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frogged",
+                "word": "frogged"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=froggery",
+                "word": "froggery"
+            },
+            {
+                "id": "38086",
+                "link": "/find?type=1&query=frogging",
+                "word": "frogging"
+            }
+        ]
+    }
+}

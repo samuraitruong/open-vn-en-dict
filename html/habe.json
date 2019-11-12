@@ -1,1 +1,52 @@
-{"error": 0, "query": "habe", "enViData": {"suggests": [{"id": "42233", "link": "/find?type=1&query=habeas+corpus", "word": "habeas corpus"}, {"id": "42234", "link": "/find?type=1&query=haberdasher", "word": "haberdasher"}, {"id": "42235", "link": "/find?type=1&query=haberdashery", "word": "haberdashery"}, {"id": "42236", "link": "/find?type=1&query=habergeon", "word": "habergeon"}, {"id": "42237", "link": "/find?type=1&query=Haberler%2C+Gottfried", "word": "Haberler, Gottfried"}]}, "mUrl": "/find?type=1&query=habe", "enEnData": {"suggests": [{"id": "12843", "link": "/find?type=3&query=habeas+corpus", "word": "habeas corpus"}, {"id": "12844", "link": "/find?type=3&query=haberdasher", "word": "haberdasher"}, {"id": "12845", "link": "/find?type=3&query=haberdashery", "word": "haberdashery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12843",
+                "link": "/find?type=3&query=habeas+corpus",
+                "word": "habeas corpus"
+            },
+            {
+                "id": "12844",
+                "link": "/find?type=3&query=haberdasher",
+                "word": "haberdasher"
+            },
+            {
+                "id": "12845",
+                "link": "/find?type=3&query=haberdashery",
+                "word": "haberdashery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42233",
+                "link": "/find?type=1&query=habeas+corpus",
+                "word": "habeas corpus"
+            },
+            {
+                "id": "42234",
+                "link": "/find?type=1&query=haberdasher",
+                "word": "haberdasher"
+            },
+            {
+                "id": "42235",
+                "link": "/find?type=1&query=haberdashery",
+                "word": "haberdashery"
+            },
+            {
+                "id": "42236",
+                "link": "/find?type=1&query=habergeon",
+                "word": "habergeon"
+            },
+            {
+                "id": "42237",
+                "link": "/find?type=1&query=Haberler%2C+Gottfried",
+                "word": "Haberler, Gottfried"
+            }
+        ]
+    }
+}

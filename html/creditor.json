@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "20910", "link": "/find?type=1&query=Creditor+nation", "word": "Creditor nation"}, {"id": "20910", "link": "/find?type=1&query=Creditors", "word": "Creditors"}], "data": {"word": "creditor", "id": "20910", "pronounce": "/'kredit\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee7 n\u1ee3</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5ccd30e6eb289192db6b15f8b2c5c1d2/16e5dfaccea/C/creditor.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9e68ec0b739f5f338bb1877cd5286474/16e5dfad2e0/C/creditor.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "creditor", "id": "6714", "pronounce": "/\u02c8kr\u025bd\u0259t\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person, bank, or company that lends money to someone</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She owes thousands of dollars to creditors. - opposite debtor</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person, bank, or company that lends money to someone</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She owes thousands of dollars to creditors. - opposite debtor</div>",
+            "id": "6714",
+            "mean": [],
+            "pronounce": "/\u02c8kr\u025bd\u0259t\u025a/",
+            "type": "noun",
+            "word": "creditor"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee7 n\u1ee3</div>",
+            "id": "20910",
+            "mean": [],
+            "pronounce": "/'kredit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5f4cf94c8ce3b959f64170d83a411739/16e5edfdf72/C/creditor.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e3cfe57f476a9acb48eaa3e19cfe1d72/16e5edfd6ac/C/creditor.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "creditor"
+        },
+        "suggests": [
+            {
+                "id": "20910",
+                "link": "/find?type=1&query=Creditor+nation",
+                "word": "Creditor nation"
+            },
+            {
+                "id": "20910",
+                "link": "/find?type=1&query=Creditors",
+                "word": "Creditors"
+            }
+        ]
+    }
+}

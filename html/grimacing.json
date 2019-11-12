@@ -1,1 +1,34 @@
-{"error": 0, "query": "grimacing", "enViData": {"suggests": [{"id": "41524", "link": "/find?type=1&query=grimacer", "word": "grimacer"}], "best": {"id": "41524", "details": "\n<div id=\"find_word_41524\" class=\"world word_en\" rel=\"grimace\">\n    <h2 class=\"fl\">grimace <span class=\"color-black\">/gri'meis/</span>&nbsp;&nbsp;<span class=\"color-orange\">/'grim\u0259s/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41524\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41524\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 nh\u0103n m\u1eb7t, s\u1ef1 nh\u0103n nh\u00f3</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">make (give) a grimace of pain</div>\n    \n    <div class=\"margin25\">s\u1ef1 nh\u0103n nh\u00f3 v\u00ec \u0111au</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u0103n m\u1eb7t, nh\u0103n nh\u00f3</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">she grimaced with pain</div>\n    \n    <div class=\"margin25\">ch\u1ecb ta nh\u0103n nh\u00f3 v\u00ec \u0111au</div>\n    \n</div>\n", "link": "/find?type=1&query=grimace", "word": "grimace"}}, "mUrl": "/find?type=1&query=grimacing", "enEnData": {"suggests": [], "best": {"id": "12607", "details": "\n<div id=\"find_word_12607\" class=\"world word_en\" rel=\"grimace\">\n    <h2 class=\"fl\">grimace <span class=\"color-black\">/\u02c8gr\u026am\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12607\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12607\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -aces</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a facial expression in which your mouth and face are twisted in a way that shows disgust, disapproval, or pain</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The patient made/gave a painful grimace as the doctor examined his wound.</div>\n    \n</div>\n", "link": "/find?type=3&query=grimace", "word": "grimace"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -aces</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a facial expression in which your mouth and face are twisted in a way that shows disgust, disapproval, or pain</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The patient made/gave a painful grimace as the doctor examined his wound.</div>",
+            "id": "12607",
+            "mean": [],
+            "pronounce": "/\u02c8gr\u026am\u0259s/",
+            "type": "noun",
+            "word": "grimace"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 nh\u0103n m\u1eb7t, s\u1ef1 nh\u0103n nh\u00f3</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">make (give) a grimace of pain</div>\n    \n    <div class=\"margin25\">s\u1ef1 nh\u0103n nh\u00f3 v\u00ec \u0111au</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u0103n m\u1eb7t, nh\u0103n nh\u00f3</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">she grimaced with pain</div>\n    \n    <div class=\"margin25\">ch\u1ecb ta nh\u0103n nh\u00f3 v\u00ec \u0111au</div>",
+            "id": "41524",
+            "mean": [],
+            "pronounce": "/gri'meis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/349bafdb368d2b955e4708ff18ea8007/16e61302285/G/grimace.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/964df866ef9b4a94fdccdc05c9cb7d91/16e61301994/G/grimace.mp3"
+            },
+            "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "grimace"
+        },
+        "suggests": [
+            {
+                "id": "41524",
+                "link": "/find?type=1&query=grimacer",
+                "word": "grimacer"
+            }
+        ]
+    }
+}

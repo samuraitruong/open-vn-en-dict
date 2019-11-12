@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "32612", "link": "/find?type=1&query=exalted", "word": "exalted"}, {"id": "32613", "link": "/find?type=1&query=exalter", "word": "exalter"}], "data": {}}, "synonyms": {"suggests": [{"id": "2311", "link": "/find?type=4&query=exalted", "word": "exalted"}], "data": {}}}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32612",
+                "link": "/find?type=1&query=exalted",
+                "word": "exalted"
+            },
+            {
+                "id": "32613",
+                "link": "/find?type=1&query=exalter",
+                "word": "exalter"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2311",
+                "link": "/find?type=4&query=exalted",
+                "word": "exalted"
+            }
+        ]
+    }
+}

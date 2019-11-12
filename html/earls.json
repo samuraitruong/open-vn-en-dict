@@ -1,1 +1,100 @@
-{"en_vn": {"suggests": [{"id": "28408", "link": "/find?type=1&query=earldom", "word": "earldom"}, {"id": "28408", "link": "/find?type=1&query=earless", "word": "earless"}, {"id": "28408", "link": "/find?type=1&query=earliness", "word": "earliness"}, {"id": "28408", "link": "/find?type=1&query=earlobe", "word": "earlobe"}, {"id": "28408", "link": "/find?type=1&query=earlock", "word": "earlock"}, {"id": "28408", "link": "/find?type=1&query=early", "word": "early"}, {"id": "28408", "link": "/find?type=1&query=early+bird", "word": "early bird"}, {"id": "28408", "link": "/find?type=1&query=early+closing", "word": "early closing"}, {"id": "28408", "link": "/find?type=1&query=early+warning", "word": "early warning"}], "data": {"word": "earl", "id": "28408", "pronounce": "/\u0259:l/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c countess)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1 t\u01b0\u1edbc (\u1edf Anh)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7560e836ccfcd69c1d83b6096c55f4bf/16e5e10e3a9/E/earl.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f1a97e083d6ebcedcdb626f6bc4475ed/16e5e10e98d/E/earl.mp3"}}}, "en_en": {"suggests": [{"id": "9113", "link": "/find?type=3&query=earliest", "word": "earliest"}, {"id": "9113", "link": "/find?type=3&query=earlobe", "word": "earlobe"}, {"id": "9113", "link": "/find?type=3&query=early", "word": "early"}], "data": {"word": "earl", "id": "9113", "pronounce": "/\u02c8\u025al/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural earls</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a high-ranking member of the British nobility</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1996", "link": "/find?type=4&query=early", "word": "early"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural earls</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a high-ranking member of the British nobility</div>",
+            "id": "9113",
+            "mean": [],
+            "pronounce": "/\u02c8\u025al/",
+            "type": "noun",
+            "word": "earl"
+        },
+        "suggests": [
+            {
+                "id": "9113",
+                "link": "/find?type=3&query=earliest",
+                "word": "earliest"
+            },
+            {
+                "id": "9113",
+                "link": "/find?type=3&query=earlobe",
+                "word": "earlobe"
+            },
+            {
+                "id": "9113",
+                "link": "/find?type=3&query=early",
+                "word": "early"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c countess)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1 t\u01b0\u1edbc (\u1edf Anh)</div>",
+            "id": "28408",
+            "mean": [],
+            "pronounce": "/\u0259:l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/590b9c91479cd8d180a141218d0dfffe/16e5efee26f/E/earl.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3cf6669199bcd4f5240e76a0c26d2dae/16e5efebfb8/E/earl.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "earl"
+        },
+        "suggests": [
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=earldom",
+                "word": "earldom"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=earless",
+                "word": "earless"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=earliness",
+                "word": "earliness"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=earlobe",
+                "word": "earlobe"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=earlock",
+                "word": "earlock"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=early",
+                "word": "early"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=early+bird",
+                "word": "early bird"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=early+closing",
+                "word": "early closing"
+            },
+            {
+                "id": "28408",
+                "link": "/find?type=1&query=early+warning",
+                "word": "early warning"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1996",
+                "link": "/find?type=4&query=early",
+                "word": "early"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "15770", "link": "/find?type=1&query=clair-audience", "word": "clair-audience"}, {"id": "15771", "link": "/find?type=1&query=clairvoyant", "word": "clairvoyant"}], "data": {}}, "en_en": {"suggests": [{"id": "5067", "link": "/find?type=3&query=clairvoyance", "word": "clairvoyance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5067",
+                "link": "/find?type=3&query=clairvoyance",
+                "word": "clairvoyance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15770",
+                "link": "/find?type=1&query=clair-audience",
+                "word": "clair-audience"
+            },
+            {
+                "id": "15771",
+                "link": "/find?type=1&query=clairvoyant",
+                "word": "clairvoyant"
+            }
+        ]
+    }
+}

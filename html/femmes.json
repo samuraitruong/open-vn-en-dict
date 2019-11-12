@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "34683", "link": "/find?type=1&query=femme+de+chambre", "word": "femme de chambre"}, {"id": "34684", "link": "/find?type=1&query=femme+fatale", "word": "femme fatale"}], "data": {}}, "en_en": {"suggests": [{"id": "10468", "link": "/find?type=3&query=femme+fatale", "word": "femme fatale"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10468",
+                "link": "/find?type=3&query=femme+fatale",
+                "word": "femme fatale"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34683",
+                "link": "/find?type=1&query=femme+de+chambre",
+                "word": "femme de chambre"
+            },
+            {
+                "id": "34684",
+                "link": "/find?type=1&query=femme+fatale",
+                "word": "femme fatale"
+            }
+        ]
+    }
+}

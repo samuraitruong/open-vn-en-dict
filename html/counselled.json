@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "20293", "link": "/find?type=1&query=counselling", "word": "counselling"}, {"id": "20294", "link": "/find?type=1&query=counsellor", "word": "counsellor"}], "data": {}}, "synonyms": {"suggests": [{"id": "1283", "link": "/find?type=4&query=counsellor", "word": "counsellor"}], "data": {}}}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20293",
+                "link": "/find?type=1&query=counselling",
+                "word": "counselling"
+            },
+            {
+                "id": "20294",
+                "link": "/find?type=1&query=counsellor",
+                "word": "counsellor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1283",
+                "link": "/find?type=4&query=counsellor",
+                "word": "counsellor"
+            }
+        ]
+    }
+}

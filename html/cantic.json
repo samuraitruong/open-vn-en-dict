@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "12847", "link": "/find?type=1&query=canticle", "word": "canticle"}], "data": {}}, "en_en": {"suggests": [{"id": "4036", "link": "/find?type=3&query=canticle", "word": "canticle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4036",
+                "link": "/find?type=3&query=canticle",
+                "word": "canticle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12847",
+                "link": "/find?type=1&query=canticle",
+                "word": "canticle"
+            }
+        ]
+    }
+}

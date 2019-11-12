@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "31529", "link": "/find?type=1&query=equatorial", "word": "equatorial"}, {"id": "31529", "link": "/find?type=1&query=equatorially", "word": "equatorially"}], "data": {"word": "equator", "id": "31529", "pronounce": "/i'kweit\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ecba l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">x\u00edch \u0111\u1ea1o</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9b7f6268785751c30bcf7187c751d4c0/16e5e19205c/E/equator.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/dc6a0ad347db20dc3581cdc979aa05ca/16e5e192637/E/equator.mp3"}}}, "en_en": {"suggests": [{"id": "9702", "link": "/find?type=3&query=equatorial", "word": "equatorial"}], "data": {"word": "equator", "id": "9702", "pronounce": "/\u026a\u02c8kwe\u026at\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the equator</div>\n    \n    <div class=\"grey margin25 m-top15\">an imaginary circle around the middle of the Earth that is the same distance from the North Pole and the South Pole</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The city of Quito, Ecuador, lies very close to the equator.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Is it near the equator?</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the equator</div>\n    \n    <div class=\"grey margin25 m-top15\">an imaginary circle around the middle of the Earth that is the same distance from the North Pole and the South Pole</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The city of Quito, Ecuador, lies very close to the equator.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Is it near the equator?</div>",
+            "id": "9702",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8kwe\u026at\u025a/",
+            "type": "noun",
+            "word": "equator"
+        },
+        "suggests": [
+            {
+                "id": "9702",
+                "link": "/find?type=3&query=equatorial",
+                "word": "equatorial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ecba l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">x\u00edch \u0111\u1ea1o</div>",
+            "id": "31529",
+            "mean": [],
+            "pronounce": "/i'kweit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5be1fe524eb1a487d0718997cc0a242f/16e5fb9f1e4/E/equator.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d0ca46f91bc2d9a999c0bb5cc9fa488e/16e5fb9e9d9/E/equator.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "equator"
+        },
+        "suggests": [
+            {
+                "id": "31529",
+                "link": "/find?type=1&query=equatorial",
+                "word": "equatorial"
+            },
+            {
+                "id": "31529",
+                "link": "/find?type=1&query=equatorially",
+                "word": "equatorially"
+            }
+        ]
+    }
+}

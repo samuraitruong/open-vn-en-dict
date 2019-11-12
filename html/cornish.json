@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "19872", "link": "/find?type=1&query=Cornish+pasty", "word": "Cornish pasty"}], "data": {"word": "Cornish", "id": "19872", "pronounce": "/'k\u0254:ni\u222b/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Cornwall (\u1edf T\u00e2y Nam n\u01b0\u1edbc Anh)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6332", "link": "/find?type=3&query=Cornish+pasty", "word": "Cornish pasty"}], "data": {"word": "Cornish", "id": "6332", "pronounce": "/\u02c8ko\u025an\u026a\u0283/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to Cornwall or the people of Cornwall</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Cornish coast</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cornish miners</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cornish culture</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to Cornwall or the people of Cornwall</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Cornish coast</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cornish miners</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cornish culture</div>",
+            "id": "6332",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u025an\u026a\u0283/",
+            "type": "adjective",
+            "word": "Cornish"
+        },
+        "suggests": [
+            {
+                "id": "6332",
+                "link": "/find?type=3&query=Cornish+pasty",
+                "word": "Cornish pasty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] Cornwall (\u1edf T\u00e2y Nam n\u01b0\u1edbc Anh)</div>",
+            "id": "19872",
+            "mean": [],
+            "pronounce": "/'k\u0254:ni\u222b/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "Cornish"
+        },
+        "suggests": [
+            {
+                "id": "19872",
+                "link": "/find?type=1&query=Cornish+pasty",
+                "word": "Cornish pasty"
+            }
+        ]
+    }
+}

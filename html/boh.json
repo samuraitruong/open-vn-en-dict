@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "10302", "link": "/find?type=1&query=bohea", "word": "bohea"}, {"id": "10303", "link": "/find?type=1&query=bohemian", "word": "bohemian"}, {"id": "10304", "link": "/find?type=1&query=bohemianism", "word": "bohemianism"}, {"id": "10305", "link": "/find?type=1&query=Bohm-Bawerk%2C+Eugen+Von+%281851-1914%29", "word": "Bohm-Bawerk, Eugen Von (1851-1914)"}, {"id": "10306", "link": "/find?type=1&query=bohunk", "word": "bohunk"}], "data": {}}, "en_en": {"suggests": [{"id": "3031", "link": "/find?type=3&query=bohemian", "word": "bohemian"}], "data": {}}, "synonyms": {"suggests": [{"id": "608", "link": "/find?type=4&query=Bohemian", "word": "Bohemian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3031",
+                "link": "/find?type=3&query=bohemian",
+                "word": "bohemian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10302",
+                "link": "/find?type=1&query=bohea",
+                "word": "bohea"
+            },
+            {
+                "id": "10303",
+                "link": "/find?type=1&query=bohemian",
+                "word": "bohemian"
+            },
+            {
+                "id": "10304",
+                "link": "/find?type=1&query=bohemianism",
+                "word": "bohemianism"
+            },
+            {
+                "id": "10305",
+                "link": "/find?type=1&query=Bohm-Bawerk%2C+Eugen+Von+%281851-1914%29",
+                "word": "Bohm-Bawerk, Eugen Von (1851-1914)"
+            },
+            {
+                "id": "10306",
+                "link": "/find?type=1&query=bohunk",
+                "word": "bohunk"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "608",
+                "link": "/find?type=4&query=Bohemian",
+                "word": "Bohemian"
+            }
+        ]
+    }
+}

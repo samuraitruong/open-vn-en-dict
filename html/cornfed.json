@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "19862", "link": "/find?type=1&query=cornflakes", "word": "cornflakes"}, {"id": "19863", "link": "/find?type=1&query=cornflour", "word": "cornflour"}, {"id": "19864", "link": "/find?type=1&query=cornflower", "word": "cornflower"}], "data": {}}, "en_en": {"suggests": [{"id": "6328", "link": "/find?type=3&query=cornfield", "word": "cornfield"}, {"id": "6329", "link": "/find?type=3&query=cornflakes", "word": "cornflakes"}, {"id": "6330", "link": "/find?type=3&query=cornflower", "word": "cornflower"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6328",
+                "link": "/find?type=3&query=cornfield",
+                "word": "cornfield"
+            },
+            {
+                "id": "6329",
+                "link": "/find?type=3&query=cornflakes",
+                "word": "cornflakes"
+            },
+            {
+                "id": "6330",
+                "link": "/find?type=3&query=cornflower",
+                "word": "cornflower"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19862",
+                "link": "/find?type=1&query=cornflakes",
+                "word": "cornflakes"
+            },
+            {
+                "id": "19863",
+                "link": "/find?type=1&query=cornflour",
+                "word": "cornflour"
+            },
+            {
+                "id": "19864",
+                "link": "/find?type=1&query=cornflower",
+                "word": "cornflower"
+            }
+        ]
+    }
+}

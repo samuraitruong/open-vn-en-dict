@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8273", "link": "/find?type=1&query=bartender", "word": "bartender"}], "data": {}}, "en_en": {"suggests": [{"id": "2112", "link": "/find?type=3&query=bartender", "word": "bartender"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2112",
+                "link": "/find?type=3&query=bartender",
+                "word": "bartender"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8273",
+                "link": "/find?type=1&query=bartender",
+                "word": "bartender"
+            }
+        ]
+    }
+}

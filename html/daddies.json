@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "22253", "link": "/find?type=1&query=daddyish", "word": "daddyish"}], "data": {"word": "daddy", "id": "22253", "pronounce": "/d\u00e6di/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef) (ti\u1ebfng tr\u1ebb em) (nh\u01b0 dad)</div>\n    \n    <div class=\"green margin25 m-top15\">ba, cha, b\u1ed1</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=dad\">dad</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/babf82e36672fd60a13249a41e6dc9ff/16e5dfe3b5b/D/daddy.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/456d49fbf7548e8a20d5b7e9d947f616/16e5dfe411d/D/daddy.mp3"}}}, "en_en": {"suggests": [{"id": "7137", "link": "/find?type=3&query=daddy+longlegs", "word": "daddy longlegs"}], "data": {"word": "daddy", "id": "7137", "pronounce": "/\u02c8d\u00e6di/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :a person's father - used especially by young children</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Where's my daddy? - often used as a form of address</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Daddy, can you read me a story? - see also sugar daddy</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :a person's father - used especially by young children</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Where's my daddy? - often used as a form of address</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Daddy, can you read me a story? - see also sugar daddy</div>",
+            "id": "7137",
+            "mean": [],
+            "pronounce": "/\u02c8d\u00e6di/",
+            "type": "noun",
+            "word": "daddy"
+        },
+        "suggests": [
+            {
+                "id": "7137",
+                "link": "/find?type=3&query=daddy+longlegs",
+                "word": "daddy longlegs"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef) (ti\u1ebfng tr\u1ebb em) (nh\u01b0 dad)</div>\n    \n    <div class=\"green margin25 m-top15\">ba, cha, b\u1ed1</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=dad\">dad</a></span></div>",
+            "id": "22253",
+            "mean": [],
+            "pronounce": "/d\u00e6di/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/21930f054c5d56108f7c7eec98393b63/16e5ee48d0d/D/daddy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2bc4aafb33ee60f2ccfc38bff6241f72/16e5ee48439/D/daddy.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "daddy"
+        },
+        "suggests": [
+            {
+                "id": "22253",
+                "link": "/find?type=1&query=daddyish",
+                "word": "daddyish"
+            }
+        ]
+    }
+}

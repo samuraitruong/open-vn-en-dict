@@ -1,1 +1,74 @@
-{"en_vn": {"suggests": [{"id": "23373", "link": "/find?type=1&query=deer-forest", "word": "deer-forest"}, {"id": "23373", "link": "/find?type=1&query=deer-hound", "word": "deer-hound"}, {"id": "23373", "link": "/find?type=1&query=deer-lick", "word": "deer-lick"}, {"id": "23373", "link": "/find?type=1&query=deer-neck", "word": "deer-neck"}, {"id": "23373", "link": "/find?type=1&query=deer-park", "word": "deer-park"}, {"id": "23373", "link": "/find?type=1&query=deer-stalking", "word": "deer-stalking"}, {"id": "23373", "link": "/find?type=1&query=deerskin", "word": "deerskin"}, {"id": "23373", "link": "/find?type=1&query=deerstalker", "word": "deerstalker"}], "data": {"word": "deer", "id": "23373", "pronounce": "/di\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i)(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u01a1u; nai</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/0a5e47a454cc7c7ba1e0eec47f375300/16e5e012e71/D/deer.mp3"}}}, "en_en": {"suggests": [{"id": "7467", "link": "/find?type=3&query=deer+tick", "word": "deer tick"}], "data": {"word": "deer", "id": "7467", "pronounce": "/\u02c8di\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural deer</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large wild animal that has four long thin legs, brown fur, and antlers if male</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural deer</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large wild animal that has four long thin legs, brown fur, and antlers if male</div>",
+            "id": "7467",
+            "mean": [],
+            "pronounce": "/\u02c8di\u025a/",
+            "type": "noun",
+            "word": "deer"
+        },
+        "suggests": [
+            {
+                "id": "7467",
+                "link": "/find?type=3&query=deer+tick",
+                "word": "deer tick"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i)(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u01a1u; nai</div>",
+            "id": "23373",
+            "mean": [],
+            "pronounce": "/di\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6f8b223a03e1618dbe5b0b28e5724326/16e5ee4f823/D/deer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "deer"
+        },
+        "suggests": [
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deer-forest",
+                "word": "deer-forest"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deer-hound",
+                "word": "deer-hound"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deer-lick",
+                "word": "deer-lick"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deer-neck",
+                "word": "deer-neck"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deer-park",
+                "word": "deer-park"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deer-stalking",
+                "word": "deer-stalking"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deerskin",
+                "word": "deerskin"
+            },
+            {
+                "id": "23373",
+                "link": "/find?type=1&query=deerstalker",
+                "word": "deerstalker"
+            }
+        ]
+    }
+}

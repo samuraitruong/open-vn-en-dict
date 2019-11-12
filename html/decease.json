@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "23042", "link": "/find?type=1&query=deceased", "word": "deceased"}], "data": {"word": "decease", "id": "23042", "pronounce": "/di'si:s/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ch\u1ebft, s\u1ef1 qua \u0111\u1eddi</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4ba877d5bb5242ec98c1150214805549/16e5e002f7d/D/decease.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f094965e20132b42c2ceb392548e8e08/16e5e00353c/D/decease.mp3"}}}, "en_en": {"suggests": [{"id": "7378", "link": "/find?type=3&query=deceased", "word": "deceased"}], "data": {"word": "decease", "id": "7378", "pronounce": "/d\u026a\u02c8si\u02d0s/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :the death of a person</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He had many debts at the time of his decease.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] formal :the death of a person</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He had many debts at the time of his decease.</div>",
+            "id": "7378",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8si\u02d0s/",
+            "type": "noun",
+            "word": "decease"
+        },
+        "suggests": [
+            {
+                "id": "7378",
+                "link": "/find?type=3&query=deceased",
+                "word": "deceased"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ch\u1ebft, s\u1ef1 qua \u0111\u1eddi</div>",
+            "id": "23042",
+            "mean": [],
+            "pronounce": "/di'si:s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/89f3228ae05f552a831aa1e745b11427/16e5ee73f78/D/decease.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9694bb191c84e33508a469d1ffa93a2f/16e5ee7365e/D/decease.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "decease"
+        },
+        "suggests": [
+            {
+                "id": "23042",
+                "link": "/find?type=1&query=deceased",
+                "word": "deceased"
+            }
+        ]
+    }
+}

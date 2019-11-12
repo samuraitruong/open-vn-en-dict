@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "22492", "link": "/find?type=1&query=dastardliness", "word": "dastardliness"}, {"id": "22492", "link": "/find?type=1&query=dastardly", "word": "dastardly"}], "data": {"word": "dastard", "id": "22492", "pronounce": "/'d\u00e6st\u0259d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb h\u00e8n nh\u00e1t</div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb n\u00e9m \u0111\u00e1 gi\u1ea5u tay</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7227", "link": "/find?type=3&query=dastardly", "word": "dastardly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7227",
+                "link": "/find?type=3&query=dastardly",
+                "word": "dastardly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb h\u00e8n nh\u00e1t</div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb n\u00e9m \u0111\u00e1 gi\u1ea5u tay</div>",
+            "id": "22492",
+            "mean": [],
+            "pronounce": "/'d\u00e6st\u0259d/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "dastard"
+        },
+        "suggests": [
+            {
+                "id": "22492",
+                "link": "/find?type=1&query=dastardliness",
+                "word": "dastardliness"
+            },
+            {
+                "id": "22492",
+                "link": "/find?type=1&query=dastardly",
+                "word": "dastardly"
+            }
+        ]
+    }
+}

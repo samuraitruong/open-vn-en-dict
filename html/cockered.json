@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "16623", "link": "/find?type=1&query=cocker-spaniel", "word": "cocker-spaniel"}, {"id": "16623", "link": "/find?type=1&query=cockerel", "word": "cockerel"}], "data": {"word": "cocker", "id": "16623", "pronounce": "/'k\u0252k\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c cocker-spaniel)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ed1ng ch\u00f3 xpanh\u01a1n l\u00f4ng n\u00e2u v\u00e0ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5363", "link": "/find?type=3&query=cockerel", "word": "cockerel"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5363",
+                "link": "/find?type=3&query=cockerel",
+                "word": "cockerel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c cocker-spaniel)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ed1ng ch\u00f3 xpanh\u01a1n l\u00f4ng n\u00e2u v\u00e0ng</div>",
+            "id": "16623",
+            "mean": [],
+            "pronounce": "/'k\u0252k\u0259[r]/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "cocker"
+        },
+        "suggests": [
+            {
+                "id": "16623",
+                "link": "/find?type=1&query=cocker-spaniel",
+                "word": "cocker-spaniel"
+            },
+            {
+                "id": "16623",
+                "link": "/find?type=1&query=cockerel",
+                "word": "cockerel"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "26247", "link": "/find?type=1&query=dislike", "word": "dislike"}], "data": {}}, "en_en": {"suggests": [{"id": "8255", "link": "/find?type=3&query=dislike", "word": "dislike"}], "data": {}}, "synonyms": {"suggests": [{"id": "1771", "link": "/find?type=4&query=dislike", "word": "dislike"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8255",
+                "link": "/find?type=3&query=dislike",
+                "word": "dislike"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26247",
+                "link": "/find?type=1&query=dislike",
+                "word": "dislike"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1771",
+                "link": "/find?type=4&query=dislike",
+                "word": "dislike"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "13962", "link": "/find?type=1&query=Cellophane", "word": "Cellophane"}], "data": {"word": "cello", "id": "13962", "pronounce": "/'t\u0283el\u0259\u028a/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cellos)</div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) \u0111\u00e0n xel\u00f4</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/479496bd99700879aafe011d111e1d99/16e5de634e6/C/cello.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/138e01e4463cbae231b13f0af1417036/16e5de63ab5/C/cello.mp3"}}}, "en_en": {"suggests": [{"id": "4401", "link": "/find?type=3&query=cellophane", "word": "cellophane"}], "data": {"word": "cello", "id": "4401", "pronounce": "/\u02c8\u02a7\u025blo\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -los</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large musical instrument like a violin that is held between the player's knees while the player sits - see picture at stringed instrument</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -los</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large musical instrument like a violin that is held between the player's knees while the player sits - see picture at stringed instrument</div>",
+            "id": "4401",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7\u025blo\u028a/",
+            "type": "noun",
+            "word": "cello"
+        },
+        "suggests": [
+            {
+                "id": "4401",
+                "link": "/find?type=3&query=cellophane",
+                "word": "cellophane"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cellos)</div>\n    \n    <div class=\"green margin25 m-top15\">(\u00e2m nh\u1ea1c) \u0111\u00e0n xel\u00f4</div>",
+            "id": "13962",
+            "mean": [],
+            "pronounce": "/'t\u0283el\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bba1f0fed74a87e47cd62b0008cf1bbd/16e5ec6fd8a/C/cello.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/625372708377fbf28d82204c244eb41e/16e5ec6f83b/C/cello.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cello"
+        },
+        "suggests": [
+            {
+                "id": "13962",
+                "link": "/find?type=1&query=Cellophane",
+                "word": "Cellophane"
+            }
+        ]
+    }
+}

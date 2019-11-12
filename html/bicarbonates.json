@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "9156", "link": "/find?type=1&query=bicarbonate+of+soda", "word": "bicarbonate of soda"}], "data": {"word": "bicarbonate", "id": "9156", "pronounce": "/,bai'k\u0251:b\u0259n\u0259t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">cacbonat axit</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2526", "link": "/find?type=3&query=bicarbonate+of+soda", "word": "bicarbonate of soda"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2526",
+                "link": "/find?type=3&query=bicarbonate+of+soda",
+                "word": "bicarbonate of soda"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">cacbonat axit</div>",
+            "id": "9156",
+            "mean": [],
+            "pronounce": "/,bai'k\u0251:b\u0259n\u0259t/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bicarbonate"
+        },
+        "suggests": [
+            {
+                "id": "9156",
+                "link": "/find?type=1&query=bicarbonate+of+soda",
+                "word": "bicarbonate of soda"
+            }
+        ]
+    }
+}

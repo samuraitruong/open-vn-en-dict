@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "20180", "link": "/find?type=1&query=costal", "word": "costal"}, {"id": "20180", "link": "/find?type=1&query=costard", "word": "costard"}], "data": {"word": "costa", "id": "20180", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u costae</div>\n    \n    <div class=\"green margin25 m-top15\">x\u01b0\u01a1ng s\u01b0\u1eddn</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) g\u00e2n (s\u1ed1ng l\u00e1)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea1nh (cu\u1ed1ng l\u00e1)</div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e2n s\u01b0\u1eddn c\u00e1nh (c\u00f4n tr\u00f9ng)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1edd tr\u01b0\u1edbc c\u00e1nh; m\u00e9p tr\u01b0\u1edbc c\u00e1nh (chim)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6404", "link": "/find?type=3&query=costar", "word": "costar"}], "data": {}}, "synonyms": {"suggests": [{"id": "1276", "link": "/find?type=4&query=costume", "word": "costume"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6404",
+                "link": "/find?type=3&query=costar",
+                "word": "costar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u costae</div>\n    \n    <div class=\"green margin25 m-top15\">x\u01b0\u01a1ng s\u01b0\u1eddn</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) g\u00e2n (s\u1ed1ng l\u00e1)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea1nh (cu\u1ed1ng l\u00e1)</div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e2n s\u01b0\u1eddn c\u00e1nh (c\u00f4n tr\u00f9ng)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1edd tr\u01b0\u1edbc c\u00e1nh; m\u00e9p tr\u01b0\u1edbc c\u00e1nh (chim)</div>",
+            "id": "20180",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "costa"
+        },
+        "suggests": [
+            {
+                "id": "20180",
+                "link": "/find?type=1&query=costal",
+                "word": "costal"
+            },
+            {
+                "id": "20180",
+                "link": "/find?type=1&query=costard",
+                "word": "costard"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1276",
+                "link": "/find?type=4&query=costume",
+                "word": "costume"
+            }
+        ]
+    }
+}

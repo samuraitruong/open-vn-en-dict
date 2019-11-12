@@ -1,1 +1,53 @@
-{"en_vn": {"suggests": [{"id": "30085", "link": "/find?type=1&query=emery-board", "word": "emery-board"}, {"id": "30085", "link": "/find?type=1&query=emery-cloth", "word": "emery-cloth"}, {"id": "30085", "link": "/find?type=1&query=emery-paper", "word": "emery-paper"}, {"id": "30085", "link": "/find?type=1&query=emery-stone", "word": "emery-stone"}, {"id": "30085", "link": "/find?type=1&query=emery-wheel", "word": "emery-wheel"}], "data": {"word": "emery", "id": "30085", "pronounce": "/'em\u0259ri/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed9t m\u00e0i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1496b8c15a194e77fa69ec683c91d64c/16e5e148e34/E/emery.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/828b112492acc31413c2436a3b61391f/16e5e1493d9/E/emery.mp3"}}}, "en_en": {"suggests": [{"id": "9429", "link": "/find?type=3&query=emery+board", "word": "emery board"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9429",
+                "link": "/find?type=3&query=emery+board",
+                "word": "emery board"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed9t m\u00e0i</div>",
+            "id": "30085",
+            "mean": [],
+            "pronounce": "/'em\u0259ri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6682b42247340760c30928c480d87b80/16e5f05ff09/E/emery.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6f3bbbfb39c930e6c7d706ae24f6b49a/16e5f05f582/E/emery.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "emery"
+        },
+        "suggests": [
+            {
+                "id": "30085",
+                "link": "/find?type=1&query=emery-board",
+                "word": "emery-board"
+            },
+            {
+                "id": "30085",
+                "link": "/find?type=1&query=emery-cloth",
+                "word": "emery-cloth"
+            },
+            {
+                "id": "30085",
+                "link": "/find?type=1&query=emery-paper",
+                "word": "emery-paper"
+            },
+            {
+                "id": "30085",
+                "link": "/find?type=1&query=emery-stone",
+                "word": "emery-stone"
+            },
+            {
+                "id": "30085",
+                "link": "/find?type=1&query=emery-wheel",
+                "word": "emery-wheel"
+            }
+        ]
+    }
+}

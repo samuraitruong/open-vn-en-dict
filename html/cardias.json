@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "13171", "link": "/find?type=1&query=cardiac", "word": "cardiac"}], "data": {}}, "en_en": {"suggests": [{"id": "4125", "link": "/find?type=3&query=cardiac", "word": "cardiac"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4125",
+                "link": "/find?type=3&query=cardiac",
+                "word": "cardiac"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13171",
+                "link": "/find?type=1&query=cardiac",
+                "word": "cardiac"
+            }
+        ]
+    }
+}

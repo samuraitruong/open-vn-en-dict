@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "2368", "link": "/find?type=1&query=albiness", "word": "albiness"}, {"id": "2369", "link": "/find?type=1&query=albinism", "word": "albinism"}, {"id": "2370", "link": "/find?type=1&query=albinistic", "word": "albinistic"}, {"id": "2371", "link": "/find?type=1&query=albino", "word": "albino"}, {"id": "2372", "link": "/find?type=1&query=albion", "word": "albion"}, {"id": "2373", "link": "/find?type=1&query=albite", "word": "albite"}, {"id": "2374", "link": "/find?type=1&query=albitic", "word": "albitic"}], "data": {}}, "en_en": {"suggests": [{"id": "631", "link": "/find?type=3&query=albino", "word": "albino"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "631",
+                "link": "/find?type=3&query=albino",
+                "word": "albino"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2368",
+                "link": "/find?type=1&query=albiness",
+                "word": "albiness"
+            },
+            {
+                "id": "2369",
+                "link": "/find?type=1&query=albinism",
+                "word": "albinism"
+            },
+            {
+                "id": "2370",
+                "link": "/find?type=1&query=albinistic",
+                "word": "albinistic"
+            },
+            {
+                "id": "2371",
+                "link": "/find?type=1&query=albino",
+                "word": "albino"
+            },
+            {
+                "id": "2372",
+                "link": "/find?type=1&query=albion",
+                "word": "albion"
+            },
+            {
+                "id": "2373",
+                "link": "/find?type=1&query=albite",
+                "word": "albite"
+            },
+            {
+                "id": "2374",
+                "link": "/find?type=1&query=albitic",
+                "word": "albitic"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "17077", "link": "/find?type=1&query=colonel", "word": "colonel"}, {"id": "17078", "link": "/find?type=1&query=colonelcy", "word": "colonelcy"}, {"id": "17079", "link": "/find?type=1&query=colonelship", "word": "colonelship"}], "data": {}}, "en_en": {"suggests": [{"id": "5523", "link": "/find?type=3&query=colonel", "word": "colonel"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5523",
+                "link": "/find?type=3&query=colonel",
+                "word": "colonel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17077",
+                "link": "/find?type=1&query=colonel",
+                "word": "colonel"
+            },
+            {
+                "id": "17078",
+                "link": "/find?type=1&query=colonelcy",
+                "word": "colonelcy"
+            },
+            {
+                "id": "17079",
+                "link": "/find?type=1&query=colonelship",
+                "word": "colonelship"
+            }
+        ]
+    }
+}

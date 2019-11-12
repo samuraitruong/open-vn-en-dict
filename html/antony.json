@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "4713", "link": "/find?type=1&query=antonym", "word": "antonym"}, {"id": "4714", "link": "/find?type=1&query=antonymic", "word": "antonymic"}, {"id": "4715", "link": "/find?type=1&query=antonymous", "word": "antonymous"}, {"id": "4716", "link": "/find?type=1&query=antonymy", "word": "antonymy"}], "data": {}}, "en_en": {"suggests": [{"id": "1085", "link": "/find?type=3&query=antonym", "word": "antonym"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1085",
+                "link": "/find?type=3&query=antonym",
+                "word": "antonym"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4713",
+                "link": "/find?type=1&query=antonym",
+                "word": "antonym"
+            },
+            {
+                "id": "4714",
+                "link": "/find?type=1&query=antonymic",
+                "word": "antonymic"
+            },
+            {
+                "id": "4715",
+                "link": "/find?type=1&query=antonymous",
+                "word": "antonymous"
+            },
+            {
+                "id": "4716",
+                "link": "/find?type=1&query=antonymy",
+                "word": "antonymy"
+            }
+        ]
+    }
+}

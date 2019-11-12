@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "10303", "link": "/find?type=1&query=bohemian", "word": "bohemian"}, {"id": "10304", "link": "/find?type=1&query=bohemianism", "word": "bohemianism"}], "data": {}}, "en_en": {"suggests": [{"id": "3031", "link": "/find?type=3&query=bohemian", "word": "bohemian"}], "data": {}}, "synonyms": {"suggests": [{"id": "608", "link": "/find?type=4&query=Bohemian", "word": "Bohemian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3031",
+                "link": "/find?type=3&query=bohemian",
+                "word": "bohemian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10303",
+                "link": "/find?type=1&query=bohemian",
+                "word": "bohemian"
+            },
+            {
+                "id": "10304",
+                "link": "/find?type=1&query=bohemianism",
+                "word": "bohemianism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "608",
+                "link": "/find?type=4&query=Bohemian",
+                "word": "Bohemian"
+            }
+        ]
+    }
+}

@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "16005", "link": "/find?type=1&query=clementine", "word": "clementine"}, {"id": "16005", "link": "/find?type=1&query=clemently", "word": "clemently"}], "data": {"word": "clement", "id": "16005", "pronounce": "/'klem\u0259nt/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">\u00f4n h\u00f2a (kh\u00ed h\u1eadu)</div>\n    \n    <div class=\"green margin25 m-top15\">khoan dung, nh\u00e2n t\u1eeb</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a79cafa2fedf50eb4ea420fad492e0a9/16e5dede357/C/clement.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0f363c3ff1a6bb6783ded16c57f4a274/16e5dede8fd/C/clement.mp3"}}}, "en_en": {"suggests": [{"id": "5159", "link": "/find?type=3&query=clementine", "word": "clementine"}], "data": {"word": "clement", "id": "5159", "pronounce": "/\u02c8kl\u025bm\u0259nt/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :not too hot or too cold</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The country is known for its clement [=(more commonly) mild] weather. - compare inclement</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :not too hot or too cold</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The country is known for its clement [=(more commonly) mild] weather. - compare inclement</div>",
+            "id": "5159",
+            "mean": [],
+            "pronounce": "/\u02c8kl\u025bm\u0259nt/",
+            "type": "adjective",
+            "word": "clement"
+        },
+        "suggests": [
+            {
+                "id": "5159",
+                "link": "/find?type=3&query=clementine",
+                "word": "clementine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u00f4n h\u00f2a (kh\u00ed h\u1eadu)</div>\n    \n    <div class=\"green margin25 m-top15\">khoan dung, nh\u00e2n t\u1eeb</div>",
+            "id": "16005",
+            "mean": [],
+            "pronounce": "/'klem\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c46f6c9464689a5630a4745b6c88d5e5/16e5ece259d/C/clement.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9b2a3726738b6542776e3e442ea281b8/16e5ece2080/C/clement.mp3"
+            },
+            "type": "",
+            "word": "clement"
+        },
+        "suggests": [
+            {
+                "id": "16005",
+                "link": "/find?type=1&query=clementine",
+                "word": "clementine"
+            },
+            {
+                "id": "16005",
+                "link": "/find?type=1&query=clemently",
+                "word": "clemently"
+            }
+        ]
+    }
+}

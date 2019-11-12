@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8963", "link": "/find?type=1&query=benumb", "word": "benumb"}, {"id": "8964", "link": "/find?type=1&query=benumbed", "word": "benumbed"}], "data": {}}, "en_en": {"suggests": [{"id": "2448", "link": "/find?type=3&query=benumb", "word": "benumb"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2448",
+                "link": "/find?type=3&query=benumb",
+                "word": "benumb"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8963",
+                "link": "/find?type=1&query=benumb",
+                "word": "benumb"
+            },
+            {
+                "id": "8964",
+                "link": "/find?type=1&query=benumbed",
+                "word": "benumbed"
+            }
+        ]
+    }
+}

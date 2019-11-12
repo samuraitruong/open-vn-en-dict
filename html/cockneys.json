@@ -1,1 +1,46 @@
-{"en_vn": {"suggests": [{"id": "16630", "link": "/find?type=1&query=cockneydom", "word": "cockneydom"}, {"id": "16630", "link": "/find?type=1&query=cockneyese", "word": "cockneyese"}, {"id": "16630", "link": "/find?type=1&query=cockneyfy", "word": "cockneyfy"}, {"id": "16630", "link": "/find?type=1&query=cockneyism", "word": "cockneyism"}], "data": {"word": "Cockney", "id": "16630", "pronounce": "/'k\u0252kni/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi khu \u0111\u00f4ng Lu\u00e2n \u0110\u00f4n</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ecdng khu \u0111\u00f4ng Lu\u00e2n \u0110\u00f4n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "cockney", "id": "5368", "pronounce": "/\u02c8k\u0251\u02d0kni/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or Cockney  , pl -neys</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person from the East End of London</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the way of speaking that is typical of cockneys</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or Cockney  , pl -neys</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person from the East End of London</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the way of speaking that is typical of cockneys</div>",
+            "id": "5368",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0kni/",
+            "type": "noun",
+            "word": "cockney"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi khu \u0111\u00f4ng Lu\u00e2n \u0110\u00f4n</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ecdng khu \u0111\u00f4ng Lu\u00e2n \u0110\u00f4n</div>",
+            "id": "16630",
+            "mean": [],
+            "pronounce": "/'k\u0252kni/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "Cockney"
+        },
+        "suggests": [
+            {
+                "id": "16630",
+                "link": "/find?type=1&query=cockneydom",
+                "word": "cockneydom"
+            },
+            {
+                "id": "16630",
+                "link": "/find?type=1&query=cockneyese",
+                "word": "cockneyese"
+            },
+            {
+                "id": "16630",
+                "link": "/find?type=1&query=cockneyfy",
+                "word": "cockneyfy"
+            },
+            {
+                "id": "16630",
+                "link": "/find?type=1&query=cockneyism",
+                "word": "cockneyism"
+            }
+        ]
+    }
+}

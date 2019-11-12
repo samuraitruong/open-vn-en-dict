@@ -1,1 +1,57 @@
-{"error": 0, "query": "galla", "enViData": {"suggests": [{"id": "38784", "link": "/find?type=1&query=gallalith", "word": "gallalith"}, {"id": "38785", "link": "/find?type=1&query=gallamine", "word": "gallamine"}, {"id": "38786", "link": "/find?type=1&query=gallant", "word": "gallant"}, {"id": "38787", "link": "/find?type=1&query=gallantly", "word": "gallantly"}, {"id": "38788", "link": "/find?type=1&query=gallantry", "word": "gallantry"}]}, "mUrl": "/find?type=1&query=galla", "enEnData": {"suggests": [{"id": "11744", "link": "/find?type=3&query=gallant", "word": "gallant"}, {"id": "11745", "link": "/find?type=3&query=gallantry", "word": "gallantry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2924", "link": "/find?type=4&query=gallant", "word": "gallant"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11744",
+                "link": "/find?type=3&query=gallant",
+                "word": "gallant"
+            },
+            {
+                "id": "11745",
+                "link": "/find?type=3&query=gallantry",
+                "word": "gallantry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38784",
+                "link": "/find?type=1&query=gallalith",
+                "word": "gallalith"
+            },
+            {
+                "id": "38785",
+                "link": "/find?type=1&query=gallamine",
+                "word": "gallamine"
+            },
+            {
+                "id": "38786",
+                "link": "/find?type=1&query=gallant",
+                "word": "gallant"
+            },
+            {
+                "id": "38787",
+                "link": "/find?type=1&query=gallantly",
+                "word": "gallantly"
+            },
+            {
+                "id": "38788",
+                "link": "/find?type=1&query=gallantry",
+                "word": "gallantry"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2924",
+                "link": "/find?type=4&query=gallant",
+                "word": "gallant"
+            }
+        ]
+    }
+}

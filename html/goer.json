@@ -1,1 +1,40 @@
-{"error": 0, "query": "goer", "enViData": {"suggests": [{"id": "40568", "link": "/find?type=1&query=-goer", "word": "-goer"}], "best": {"id": "40568", "details": "\n<div id=\"find_word_40568\" class=\"world word_en\" rel=\"goer\">\n    <h2 class=\"fl\">goer <span class=\"color-black\">/'g\u0259\u028a\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40568\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40568\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef) ng\u01b0\u1eddi n\u0103ng n\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 n\u1eef bu\u00f4ng tu\u1ed3ng</div>\n    \n</div>\n", "link": "/find?type=1&query=goer", "word": "goer"}}, "mUrl": "/find?type=1&query=goer", "enEnData": {"suggests": [{"id": "12257", "link": "/find?type=3&query=-goer", "word": "-goer"}], "best": {"id": "12257", "details": "\n<div id=\"find_word_12257\" class=\"world word_en\" rel=\"goer\">\n    <h2 class=\"fl\">goer <span class=\"color-black\">/\u02c8gow\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12257\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12257\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal</div>\n    \n    <div class=\"green margin25 m-top15\">chiefly Brit :someone or something that goes or moves fast</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The horse is a real goer.</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :a woman who has sex with many men</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She had a reputation as a bit of a goer.</div>\n    \n</div>\n", "link": "/find?type=3&query=goer", "word": "goer"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal</div>\n    \n    <div class=\"green margin25 m-top15\">chiefly Brit :someone or something that goes or moves fast</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The horse is a real goer.</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :a woman who has sex with many men</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She had a reputation as a bit of a goer.</div>",
+            "id": "12257",
+            "mean": [],
+            "pronounce": "/\u02c8gow\u025a/",
+            "type": "noun",
+            "word": "goer"
+        },
+        "suggests": [
+            {
+                "id": "12257",
+                "link": "/find?type=3&query=-goer",
+                "word": "-goer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef) ng\u01b0\u1eddi n\u0103ng n\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 n\u1eef bu\u00f4ng tu\u1ed3ng</div>",
+            "id": "40568",
+            "mean": [],
+            "pronounce": "/'g\u0259\u028a\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/173fada66523a058fe914bf51db9ae6d/16e610e6ff9/G/goer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bf1c36cb00a32ef49d8a221df14ae5e9/16e610e6642/G/goer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "goer"
+        },
+        "suggests": [
+            {
+                "id": "40568",
+                "link": "/find?type=1&query=-goer",
+                "word": "-goer"
+            }
+        ]
+    }
+}

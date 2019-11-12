@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "16689", "link": "/find?type=1&query=codeine", "word": "codeine"}], "data": {}}, "en_en": {"suggests": [{"id": "5395", "link": "/find?type=3&query=codeine", "word": "codeine"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5395",
+                "link": "/find?type=3&query=codeine",
+                "word": "codeine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16689",
+                "link": "/find?type=1&query=codeine",
+                "word": "codeine"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "frontis", "enViData": {"suggests": [{"id": "38142", "link": "/find?type=1&query=frontispiece", "word": "frontispiece"}]}, "mUrl": "/find?type=1&query=frontis", "enEnData": {"suggests": [{"id": "11532", "link": "/find?type=3&query=frontispiece", "word": "frontispiece"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2872", "link": "/find?type=4&query=frontier", "word": "frontier"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11532",
+                "link": "/find?type=3&query=frontispiece",
+                "word": "frontispiece"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38142",
+                "link": "/find?type=1&query=frontispiece",
+                "word": "frontispiece"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2872",
+                "link": "/find?type=4&query=frontier",
+                "word": "frontier"
+            }
+        ]
+    }
+}

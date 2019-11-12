@@ -1,1 +1,62 @@
-{"error": 0, "query": "glis", "enViData": {"suggests": [{"id": "40223", "link": "/find?type=1&query=glissade", "word": "glissade"}, {"id": "40224", "link": "/find?type=1&query=glissader", "word": "glissader"}, {"id": "40225", "link": "/find?type=1&query=glissando", "word": "glissando"}, {"id": "40226", "link": "/find?type=1&query=glist", "word": "glist"}, {"id": "40227", "link": "/find?type=1&query=glisten", "word": "glisten"}, {"id": "40228", "link": "/find?type=1&query=glister", "word": "glister"}, {"id": "40229", "link": "/find?type=1&query=glistery", "word": "glistery"}]}, "mUrl": "/find?type=1&query=glis", "enEnData": {"suggests": [{"id": "12152", "link": "/find?type=3&query=glisten", "word": "glisten"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3010", "link": "/find?type=4&query=glisten", "word": "glisten"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12152",
+                "link": "/find?type=3&query=glisten",
+                "word": "glisten"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40223",
+                "link": "/find?type=1&query=glissade",
+                "word": "glissade"
+            },
+            {
+                "id": "40224",
+                "link": "/find?type=1&query=glissader",
+                "word": "glissader"
+            },
+            {
+                "id": "40225",
+                "link": "/find?type=1&query=glissando",
+                "word": "glissando"
+            },
+            {
+                "id": "40226",
+                "link": "/find?type=1&query=glist",
+                "word": "glist"
+            },
+            {
+                "id": "40227",
+                "link": "/find?type=1&query=glisten",
+                "word": "glisten"
+            },
+            {
+                "id": "40228",
+                "link": "/find?type=1&query=glister",
+                "word": "glister"
+            },
+            {
+                "id": "40229",
+                "link": "/find?type=1&query=glistery",
+                "word": "glistery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3010",
+                "link": "/find?type=4&query=glisten",
+                "word": "glisten"
+            }
+        ]
+    }
+}

@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "13666", "link": "/find?type=1&query=catchment+area", "word": "catchment area"}, {"id": "13666", "link": "/find?type=1&query=catchment+basin", "word": "catchment basin"}], "data": {"word": "catchment", "id": "13666", "pronounce": "/'k\u00e6t\u222bm\u0259nt/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">catchment area</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=catchment+area\">catchment area</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4283", "link": "/find?type=3&query=catchment+area", "word": "catchment area"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4283",
+                "link": "/find?type=3&query=catchment+area",
+                "word": "catchment area"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">catchment area</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=catchment+area\">catchment area</a></span></div>",
+            "id": "13666",
+            "mean": [],
+            "pronounce": "/'k\u00e6t\u222bm\u0259nt/",
+            "speak": {},
+            "type": "",
+            "word": "catchment"
+        },
+        "suggests": [
+            {
+                "id": "13666",
+                "link": "/find?type=1&query=catchment+area",
+                "word": "catchment area"
+            },
+            {
+                "id": "13666",
+                "link": "/find?type=1&query=catchment+basin",
+                "word": "catchment basin"
+            }
+        ]
+    }
+}

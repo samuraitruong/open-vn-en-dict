@@ -1,1 +1,22 @@
-{"error": 0, "query": "fw", "enViData": {"suggests": [{"id": "38652", "link": "/find?type=1&query=fwd", "word": "fwd"}]}, "mUrl": "/find?type=1&query=fw", "enEnData": {"suggests": [{"id": "11702", "link": "/find?type=3&query=fwd.", "word": "fwd."}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11702",
+                "link": "/find?type=3&query=fwd.",
+                "word": "fwd."
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38652",
+                "link": "/find?type=1&query=fwd",
+                "word": "fwd"
+            }
+        ]
+    }
+}

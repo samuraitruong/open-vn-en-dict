@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "17249", "link": "/find?type=1&query=comeliness", "word": "comeliness"}, {"id": "17249", "link": "/find?type=1&query=comely", "word": "comely"}], "data": {"word": "comel", "id": "17249", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">C\u00e1ch vi\u1ebft kh\u00e1c : cormlet</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5588", "link": "/find?type=3&query=comely", "word": "comely"}], "data": {}}, "synonyms": {"suggests": [{"id": "1108", "link": "/find?type=4&query=comely", "word": "comely"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5588",
+                "link": "/find?type=3&query=comely",
+                "word": "comely"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">C\u00e1ch vi\u1ebft kh\u00e1c : cormlet</div>",
+            "id": "17249",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "comel"
+        },
+        "suggests": [
+            {
+                "id": "17249",
+                "link": "/find?type=1&query=comeliness",
+                "word": "comeliness"
+            },
+            {
+                "id": "17249",
+                "link": "/find?type=1&query=comely",
+                "word": "comely"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1108",
+                "link": "/find?type=4&query=comely",
+                "word": "comely"
+            }
+        ]
+    }
+}

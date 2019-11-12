@@ -1,1 +1,62 @@
-{"error": 0, "query": "hermi", "enViData": {"suggests": [{"id": "43700", "link": "/find?type=1&query=hermit", "word": "hermit"}, {"id": "43701", "link": "/find?type=1&query=hermit-crab", "word": "hermit-crab"}, {"id": "43702", "link": "/find?type=1&query=hermitage", "word": "hermitage"}, {"id": "43703", "link": "/find?type=1&query=hermitic", "word": "hermitic"}, {"id": "43704", "link": "/find?type=1&query=hermitical", "word": "hermitical"}]}, "mUrl": "/find?type=1&query=hermi", "enEnData": {"suggests": [{"id": "13465", "link": "/find?type=3&query=hermit", "word": "hermit"}, {"id": "13466", "link": "/find?type=3&query=hermit+crab", "word": "hermit crab"}, {"id": "13467", "link": "/find?type=3&query=hermitage", "word": "hermitage"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3292", "link": "/find?type=4&query=hermit", "word": "hermit"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13465",
+                "link": "/find?type=3&query=hermit",
+                "word": "hermit"
+            },
+            {
+                "id": "13466",
+                "link": "/find?type=3&query=hermit+crab",
+                "word": "hermit crab"
+            },
+            {
+                "id": "13467",
+                "link": "/find?type=3&query=hermitage",
+                "word": "hermitage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43700",
+                "link": "/find?type=1&query=hermit",
+                "word": "hermit"
+            },
+            {
+                "id": "43701",
+                "link": "/find?type=1&query=hermit-crab",
+                "word": "hermit-crab"
+            },
+            {
+                "id": "43702",
+                "link": "/find?type=1&query=hermitage",
+                "word": "hermitage"
+            },
+            {
+                "id": "43703",
+                "link": "/find?type=1&query=hermitic",
+                "word": "hermitic"
+            },
+            {
+                "id": "43704",
+                "link": "/find?type=1&query=hermitical",
+                "word": "hermitical"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3292",
+                "link": "/find?type=4&query=hermit",
+                "word": "hermit"
+            }
+        ]
+    }
+}

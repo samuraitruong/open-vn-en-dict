@@ -1,1 +1,64 @@
-{"en_vn": {"suggests": [{"id": "34777", "link": "/find?type=1&query=fern-owl", "word": "fern-owl"}, {"id": "34777", "link": "/find?type=1&query=fern-palm", "word": "fern-palm"}, {"id": "34777", "link": "/find?type=1&query=fern-seed", "word": "fern-seed"}, {"id": "34777", "link": "/find?type=1&query=fern-shaw", "word": "fern-shaw"}, {"id": "34777", "link": "/find?type=1&query=fernery", "word": "fernery"}, {"id": "34777", "link": "/find?type=1&query=fernless", "word": "fernless"}, {"id": "34777", "link": "/find?type=1&query=ferny", "word": "ferny"}], "data": {"word": "fern", "id": "34777", "pronounce": "/f\u025c:n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">d\u01b0\u01a1ng x\u1ec9</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/78929377ef2883889f003b36e7487d07/16e5e21a5c8/F/fern.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5a7c299bac794d2d5052bd40e04edf21/16e5e21ac17/F/fern.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "fern", "id": "10480", "pronounce": "/\u02c8f\u025an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ferns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of plant that has large, delicate leaves and no flowers</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ferns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of plant that has large, delicate leaves and no flowers</div>",
+            "id": "10480",
+            "mean": [],
+            "pronounce": "/\u02c8f\u025an/",
+            "type": "noun",
+            "word": "fern"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">d\u01b0\u01a1ng x\u1ec9</div>",
+            "id": "34777",
+            "mean": [],
+            "pronounce": "/f\u025c:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2f869bebc69daa1602cafaeccbea6399/16e6033373f/F/fern.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/db47ea4ce3a6aadca866352c1cf1a61b/16e60332f4d/F/fern.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "fern"
+        },
+        "suggests": [
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=fern-owl",
+                "word": "fern-owl"
+            },
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=fern-palm",
+                "word": "fern-palm"
+            },
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=fern-seed",
+                "word": "fern-seed"
+            },
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=fern-shaw",
+                "word": "fern-shaw"
+            },
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=fernery",
+                "word": "fernery"
+            },
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=fernless",
+                "word": "fernless"
+            },
+            {
+                "id": "34777",
+                "link": "/find?type=1&query=ferny",
+                "word": "ferny"
+            }
+        ]
+    }
+}

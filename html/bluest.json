@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "10144", "link": "/find?type=1&query=bluestocking", "word": "bluestocking"}], "data": {}}, "en_en": {"suggests": [{"id": "2955", "link": "/find?type=3&query=bluestocking", "word": "bluestocking"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2955",
+                "link": "/find?type=3&query=bluestocking",
+                "word": "bluestocking"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10144",
+                "link": "/find?type=1&query=bluestocking",
+                "word": "bluestocking"
+            }
+        ]
+    }
+}

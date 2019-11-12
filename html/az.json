@@ -1,1 +1,84 @@
-{"en_vn": {"suggests": [{"id": "7397", "link": "/find?type=1&query=azalea", "word": "azalea"}, {"id": "7398", "link": "/find?type=1&query=azerbaijanese", "word": "azerbaijanese"}, {"id": "7399", "link": "/find?type=1&query=azilian", "word": "azilian"}, {"id": "7400", "link": "/find?type=1&query=azimith", "word": "azimith"}, {"id": "7401", "link": "/find?type=1&query=azimuth", "word": "azimuth"}, {"id": "7402", "link": "/find?type=1&query=azimuth+beam", "word": "azimuth beam"}, {"id": "7403", "link": "/find?type=1&query=azimuth+coverage", "word": "azimuth coverage"}, {"id": "7404", "link": "/find?type=1&query=azimuth+drive", "word": "azimuth drive"}, {"id": "7405", "link": "/find?type=1&query=azimuth+potentiometer", "word": "azimuth potentiometer"}, {"id": "7406", "link": "/find?type=1&query=azimuth+rate", "word": "azimuth rate"}], "data": {}}, "en_en": {"suggests": [{"id": "1761", "link": "/find?type=3&query=azalea", "word": "azalea"}, {"id": "1761", "link": "/find?type=3&query=AZT", "word": "AZT"}, {"id": "1761", "link": "/find?type=3&query=azure", "word": "azure"}], "data": {"word": "AZ", "id": "1761", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Arizona</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Arizona</div>",
+            "id": "1761",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "AZ"
+        },
+        "suggests": [
+            {
+                "id": "1761",
+                "link": "/find?type=3&query=azalea",
+                "word": "azalea"
+            },
+            {
+                "id": "1761",
+                "link": "/find?type=3&query=AZT",
+                "word": "AZT"
+            },
+            {
+                "id": "1761",
+                "link": "/find?type=3&query=azure",
+                "word": "azure"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7397",
+                "link": "/find?type=1&query=azalea",
+                "word": "azalea"
+            },
+            {
+                "id": "7398",
+                "link": "/find?type=1&query=azerbaijanese",
+                "word": "azerbaijanese"
+            },
+            {
+                "id": "7399",
+                "link": "/find?type=1&query=azilian",
+                "word": "azilian"
+            },
+            {
+                "id": "7400",
+                "link": "/find?type=1&query=azimith",
+                "word": "azimith"
+            },
+            {
+                "id": "7401",
+                "link": "/find?type=1&query=azimuth",
+                "word": "azimuth"
+            },
+            {
+                "id": "7402",
+                "link": "/find?type=1&query=azimuth+beam",
+                "word": "azimuth beam"
+            },
+            {
+                "id": "7403",
+                "link": "/find?type=1&query=azimuth+coverage",
+                "word": "azimuth coverage"
+            },
+            {
+                "id": "7404",
+                "link": "/find?type=1&query=azimuth+drive",
+                "word": "azimuth drive"
+            },
+            {
+                "id": "7405",
+                "link": "/find?type=1&query=azimuth+potentiometer",
+                "word": "azimuth potentiometer"
+            },
+            {
+                "id": "7406",
+                "link": "/find?type=1&query=azimuth+rate",
+                "word": "azimuth rate"
+            }
+        ]
+    }
+}

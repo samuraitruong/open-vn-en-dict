@@ -1,1 +1,132 @@
-{"en_vn": {"suggests": [{"id": "19183", "link": "/find?type=1&query=continence", "word": "continence"}, {"id": "19184", "link": "/find?type=1&query=continent", "word": "continent"}, {"id": "19185", "link": "/find?type=1&query=continental", "word": "continental"}, {"id": "19186", "link": "/find?type=1&query=continental+breakfast", "word": "continental breakfast"}, {"id": "19187", "link": "/find?type=1&query=continental+drift", "word": "continental drift"}, {"id": "19188", "link": "/find?type=1&query=continental+effect", "word": "continental effect"}, {"id": "19189", "link": "/find?type=1&query=continental+quilt", "word": "continental quilt"}, {"id": "19190", "link": "/find?type=1&query=continentalism", "word": "continentalism"}, {"id": "19191", "link": "/find?type=1&query=continentalist", "word": "continentalist"}, {"id": "19192", "link": "/find?type=1&query=continentality", "word": "continentality"}], "data": {}}, "en_en": {"suggests": [{"id": "6114", "link": "/find?type=3&query=continent", "word": "continent"}, {"id": "6115", "link": "/find?type=3&query=continental", "word": "continental"}, {"id": "6116", "link": "/find?type=3&query=continental+breakfast", "word": "continental breakfast"}, {"id": "6117", "link": "/find?type=3&query=continental+drift", "word": "continental drift"}, {"id": "6118", "link": "/find?type=3&query=continental+shelf", "word": "continental shelf"}, {"id": "6119", "link": "/find?type=3&query=contingency", "word": "contingency"}, {"id": "6120", "link": "/find?type=3&query=contingency+fee", "word": "contingency fee"}, {"id": "6121", "link": "/find?type=3&query=contingent", "word": "contingent"}, {"id": "6122", "link": "/find?type=3&query=continual", "word": "continual"}, {"id": "6123", "link": "/find?type=3&query=continuance", "word": "continuance"}], "data": {}}, "synonyms": {"suggests": [{"id": "1233", "link": "/find?type=4&query=continual", "word": "continual"}, {"id": "1234", "link": "/find?type=4&query=continue", "word": "continue"}, {"id": "1235", "link": "/find?type=4&query=continuous", "word": "continuous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6114",
+                "link": "/find?type=3&query=continent",
+                "word": "continent"
+            },
+            {
+                "id": "6115",
+                "link": "/find?type=3&query=continental",
+                "word": "continental"
+            },
+            {
+                "id": "6116",
+                "link": "/find?type=3&query=continental+breakfast",
+                "word": "continental breakfast"
+            },
+            {
+                "id": "6117",
+                "link": "/find?type=3&query=continental+drift",
+                "word": "continental drift"
+            },
+            {
+                "id": "6118",
+                "link": "/find?type=3&query=continental+shelf",
+                "word": "continental shelf"
+            },
+            {
+                "id": "6119",
+                "link": "/find?type=3&query=contingency",
+                "word": "contingency"
+            },
+            {
+                "id": "6120",
+                "link": "/find?type=3&query=contingency+fee",
+                "word": "contingency fee"
+            },
+            {
+                "id": "6121",
+                "link": "/find?type=3&query=contingent",
+                "word": "contingent"
+            },
+            {
+                "id": "6122",
+                "link": "/find?type=3&query=continual",
+                "word": "continual"
+            },
+            {
+                "id": "6123",
+                "link": "/find?type=3&query=continuance",
+                "word": "continuance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19183",
+                "link": "/find?type=1&query=continence",
+                "word": "continence"
+            },
+            {
+                "id": "19184",
+                "link": "/find?type=1&query=continent",
+                "word": "continent"
+            },
+            {
+                "id": "19185",
+                "link": "/find?type=1&query=continental",
+                "word": "continental"
+            },
+            {
+                "id": "19186",
+                "link": "/find?type=1&query=continental+breakfast",
+                "word": "continental breakfast"
+            },
+            {
+                "id": "19187",
+                "link": "/find?type=1&query=continental+drift",
+                "word": "continental drift"
+            },
+            {
+                "id": "19188",
+                "link": "/find?type=1&query=continental+effect",
+                "word": "continental effect"
+            },
+            {
+                "id": "19189",
+                "link": "/find?type=1&query=continental+quilt",
+                "word": "continental quilt"
+            },
+            {
+                "id": "19190",
+                "link": "/find?type=1&query=continentalism",
+                "word": "continentalism"
+            },
+            {
+                "id": "19191",
+                "link": "/find?type=1&query=continentalist",
+                "word": "continentalist"
+            },
+            {
+                "id": "19192",
+                "link": "/find?type=1&query=continentality",
+                "word": "continentality"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1233",
+                "link": "/find?type=4&query=continual",
+                "word": "continual"
+            },
+            {
+                "id": "1234",
+                "link": "/find?type=4&query=continue",
+                "word": "continue"
+            },
+            {
+                "id": "1235",
+                "link": "/find?type=4&query=continuous",
+                "word": "continuous"
+            }
+        ]
+    }
+}

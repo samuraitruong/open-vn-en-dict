@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "5765", "link": "/find?type=1&query=artesian+well", "word": "artesian well"}], "data": {"word": "artesian", "id": "5765", "pronounce": "/\u0251:'ti:sj\u0259n/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">artesian well gi\u1ebfng phun</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1378", "link": "/find?type=3&query=artesian+well", "word": "artesian well"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1378",
+                "link": "/find?type=3&query=artesian+well",
+                "word": "artesian well"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">artesian well gi\u1ebfng phun</div>",
+            "id": "5765",
+            "mean": [],
+            "pronounce": "/\u0251:'ti:sj\u0259n/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "artesian"
+        },
+        "suggests": [
+            {
+                "id": "5765",
+                "link": "/find?type=1&query=artesian+well",
+                "word": "artesian well"
+            }
+        ]
+    }
+}

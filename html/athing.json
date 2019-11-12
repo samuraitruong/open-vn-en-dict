@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "6354", "link": "/find?type=1&query=atheism", "word": "atheism"}, {"id": "6355", "link": "/find?type=1&query=atheist", "word": "atheist"}, {"id": "6356", "link": "/find?type=1&query=atheistic", "word": "atheistic"}], "data": {}}, "en_en": {"suggests": [{"id": "1546", "link": "/find?type=3&query=atheist", "word": "atheist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1546",
+                "link": "/find?type=3&query=atheist",
+                "word": "atheist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6354",
+                "link": "/find?type=1&query=atheism",
+                "word": "atheism"
+            },
+            {
+                "id": "6355",
+                "link": "/find?type=1&query=atheist",
+                "word": "atheist"
+            },
+            {
+                "id": "6356",
+                "link": "/find?type=1&query=atheistic",
+                "word": "atheistic"
+            }
+        ]
+    }
+}

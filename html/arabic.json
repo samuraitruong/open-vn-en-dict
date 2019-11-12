@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "5256", "link": "/find?type=1&query=Arabic+numerals", "word": "Arabic numerals"}], "data": {"word": "Arabic", "id": "5256", "pronounce": "/'\u00e6r\u0259bik/", "type": "T\u00ednh t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c ng\u00f4n ng\u1eef v\u0103n h\u1ecdc] A-r\u1eadp</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00f4n ng\u1eef A-r\u1eadp</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8942f88a3a4ae2a4be5aa449528a5a62/16e5dc8c320/A/Arabic.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/79513d4d67a9c874cc8702eeadc3916c/16e5dc8c97f/A/Arabic.mp3"}}}, "en_en": {"suggests": [{"id": "1242", "link": "/find?type=3&query=Arabic+numeral", "word": "Arabic numeral"}], "data": {"word": "Arabic", "id": "1242", "pronounce": "/\u02c8er\u0259b\u026ak/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the language of the Arab people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">fluent in Arabic</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the language of the Arab people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">fluent in Arabic</div>",
+            "id": "1242",
+            "mean": [],
+            "pronounce": "/\u02c8er\u0259b\u026ak/",
+            "type": "noun",
+            "word": "Arabic"
+        },
+        "suggests": [
+            {
+                "id": "1242",
+                "link": "/find?type=3&query=Arabic+numeral",
+                "word": "Arabic numeral"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c ng\u00f4n ng\u1eef v\u0103n h\u1ecdc] A-r\u1eadp</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00f4n ng\u1eef A-r\u1eadp</div>",
+            "id": "5256",
+            "mean": [],
+            "pronounce": "/'\u00e6r\u0259bik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f93895f2331e25c671017800e3db0adc/16e5eac1fad/A/Arabic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b5bb2a9083eaee77d6c402af529f2b22/16e5eac1a55/A/Arabic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "Arabic"
+        },
+        "suggests": [
+            {
+                "id": "5256",
+                "link": "/find?type=1&query=Arabic+numerals",
+                "word": "Arabic numerals"
+            }
+        ]
+    }
+}

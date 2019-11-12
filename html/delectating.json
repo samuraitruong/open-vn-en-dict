@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23691", "link": "/find?type=1&query=delectation", "word": "delectation"}], "data": {}}, "en_en": {"suggests": [{"id": "7550", "link": "/find?type=3&query=delectation", "word": "delectation"}], "data": {}}, "synonyms": {"suggests": [{"id": "1509", "link": "/find?type=4&query=delectation", "word": "delectation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7550",
+                "link": "/find?type=3&query=delectation",
+                "word": "delectation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23691",
+                "link": "/find?type=1&query=delectation",
+                "word": "delectation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1509",
+                "link": "/find?type=4&query=delectation",
+                "word": "delectation"
+            }
+        ]
+    }
+}

@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "32395", "link": "/find?type=1&query=evaluate", "word": "evaluate"}, {"id": "32396", "link": "/find?type=1&query=evaluation", "word": "evaluation"}, {"id": "32397", "link": "/find?type=1&query=evaluative", "word": "evaluative"}, {"id": "32398", "link": "/find?type=1&query=evaluator", "word": "evaluator"}, {"id": "32399", "link": "/find?type=1&query=evalvate", "word": "evalvate"}], "data": {}}, "en_en": {"suggests": [{"id": "9848", "link": "/find?type=3&query=evaluate", "word": "evaluate"}], "data": {}}, "synonyms": {"suggests": [{"id": "2276", "link": "/find?type=4&query=evaluate", "word": "evaluate"}, {"id": "2277", "link": "/find?type=4&query=evaluation", "word": "evaluation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9848",
+                "link": "/find?type=3&query=evaluate",
+                "word": "evaluate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32395",
+                "link": "/find?type=1&query=evaluate",
+                "word": "evaluate"
+            },
+            {
+                "id": "32396",
+                "link": "/find?type=1&query=evaluation",
+                "word": "evaluation"
+            },
+            {
+                "id": "32397",
+                "link": "/find?type=1&query=evaluative",
+                "word": "evaluative"
+            },
+            {
+                "id": "32398",
+                "link": "/find?type=1&query=evaluator",
+                "word": "evaluator"
+            },
+            {
+                "id": "32399",
+                "link": "/find?type=1&query=evalvate",
+                "word": "evalvate"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2276",
+                "link": "/find?type=4&query=evaluate",
+                "word": "evaluate"
+            },
+            {
+                "id": "2277",
+                "link": "/find?type=4&query=evaluation",
+                "word": "evaluation"
+            }
+        ]
+    }
+}

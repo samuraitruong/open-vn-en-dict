@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "18935", "link": "/find?type=1&query=constabulary", "word": "constabulary"}], "data": {}}, "en_en": {"suggests": [{"id": "6039", "link": "/find?type=3&query=constabulary", "word": "constabulary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6039",
+                "link": "/find?type=3&query=constabulary",
+                "word": "constabulary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18935",
+                "link": "/find?type=1&query=constabulary",
+                "word": "constabulary"
+            }
+        ]
+    }
+}

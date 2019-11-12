@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "26804", "link": "/find?type=1&query=DNA", "word": "DNA"}], "data": {}}, "en_en": {"suggests": [{"id": "8439", "link": "/find?type=3&query=DNA", "word": "DNA"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8439",
+                "link": "/find?type=3&query=DNA",
+                "word": "DNA"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26804",
+                "link": "/find?type=1&query=DNA",
+                "word": "DNA"
+            }
+        ]
+    }
+}

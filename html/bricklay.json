@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11201", "link": "/find?type=1&query=bricklayer", "word": "bricklayer"}, {"id": "11202", "link": "/find?type=1&query=bricklaying", "word": "bricklaying"}], "data": {}}, "en_en": {"suggests": [{"id": "3417", "link": "/find?type=3&query=bricklayer", "word": "bricklayer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3417",
+                "link": "/find?type=3&query=bricklayer",
+                "word": "bricklayer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11201",
+                "link": "/find?type=1&query=bricklayer",
+                "word": "bricklayer"
+            },
+            {
+                "id": "11202",
+                "link": "/find?type=1&query=bricklaying",
+                "word": "bricklaying"
+            }
+        ]
+    }
+}

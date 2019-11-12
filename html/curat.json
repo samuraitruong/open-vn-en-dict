@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "21736", "link": "/find?type=1&query=curate", "word": "curate"}, {"id": "21737", "link": "/find?type=1&query=curative", "word": "curative"}, {"id": "21738", "link": "/find?type=1&query=curatively", "word": "curatively"}, {"id": "21739", "link": "/find?type=1&query=curativeness", "word": "curativeness"}, {"id": "21740", "link": "/find?type=1&query=curator", "word": "curator"}, {"id": "21741", "link": "/find?type=1&query=curatorial", "word": "curatorial"}, {"id": "21742", "link": "/find?type=1&query=curatorship", "word": "curatorship"}], "data": {}}, "en_en": {"suggests": [{"id": "6994", "link": "/find?type=3&query=curate", "word": "curate"}, {"id": "6995", "link": "/find?type=3&query=curative", "word": "curative"}, {"id": "6996", "link": "/find?type=3&query=curator", "word": "curator"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6994",
+                "link": "/find?type=3&query=curate",
+                "word": "curate"
+            },
+            {
+                "id": "6995",
+                "link": "/find?type=3&query=curative",
+                "word": "curative"
+            },
+            {
+                "id": "6996",
+                "link": "/find?type=3&query=curator",
+                "word": "curator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21736",
+                "link": "/find?type=1&query=curate",
+                "word": "curate"
+            },
+            {
+                "id": "21737",
+                "link": "/find?type=1&query=curative",
+                "word": "curative"
+            },
+            {
+                "id": "21738",
+                "link": "/find?type=1&query=curatively",
+                "word": "curatively"
+            },
+            {
+                "id": "21739",
+                "link": "/find?type=1&query=curativeness",
+                "word": "curativeness"
+            },
+            {
+                "id": "21740",
+                "link": "/find?type=1&query=curator",
+                "word": "curator"
+            },
+            {
+                "id": "21741",
+                "link": "/find?type=1&query=curatorial",
+                "word": "curatorial"
+            },
+            {
+                "id": "21742",
+                "link": "/find?type=1&query=curatorship",
+                "word": "curatorship"
+            }
+        ]
+    }
+}

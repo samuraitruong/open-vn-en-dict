@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "26556", "link": "/find?type=1&query=distillery", "word": "distillery"}], "data": {"word": "distiller", "id": "26556", "pronounce": "/di'stil\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ea5t r\u01b0\u1ee3u</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ng ty c\u1ea5t r\u01b0\u1ee3u (ch\u1ee7 y\u1ebfu r\u01b0\u1ee3u u\u00fdt-ki)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c42da406809ea7e188761850b2f7f908/16e5e0be3f6/D/distiller.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/1b68241adabbad2d8c321162c1bb3151/16e5e0be97e/D/distiller.mp3"}}}, "en_en": {"suggests": [{"id": "8352", "link": "/find?type=3&query=distillery", "word": "distillery"}], "data": {"word": "distiller", "id": "8352", "pronounce": "/d\u026a\u02c8st\u026al\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person or company that produces strong alcoholic drinks (such as whiskey) by distilling them</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person or company that produces strong alcoholic drinks (such as whiskey) by distilling them</div>",
+            "id": "8352",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8st\u026al\u025a/",
+            "type": "noun",
+            "word": "distiller"
+        },
+        "suggests": [
+            {
+                "id": "8352",
+                "link": "/find?type=3&query=distillery",
+                "word": "distillery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ea5t r\u01b0\u1ee3u</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ng ty c\u1ea5t r\u01b0\u1ee3u (ch\u1ee7 y\u1ebfu r\u01b0\u1ee3u u\u00fdt-ki)</div>",
+            "id": "26556",
+            "mean": [],
+            "pronounce": "/di'stil\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/05fbc5d0844dcf585db35634f8a68811/16e5ef78681/D/distiller.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c807dfd3a19b70b85c652eed35ddf64e/16e5ef77d7c/D/distiller.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "distiller"
+        },
+        "suggests": [
+            {
+                "id": "26556",
+                "link": "/find?type=1&query=distillery",
+                "word": "distillery"
+            }
+        ]
+    }
+}

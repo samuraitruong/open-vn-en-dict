@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "21696", "link": "/find?type=1&query=cunnilingual", "word": "cunnilingual"}, {"id": "21697", "link": "/find?type=1&query=cunnilingus", "word": "cunnilingus"}, {"id": "21698", "link": "/find?type=1&query=cunning", "word": "cunning"}, {"id": "21699", "link": "/find?type=1&query=cunningly", "word": "cunningly"}, {"id": "21700", "link": "/find?type=1&query=cunningness", "word": "cunningness"}], "data": {}}, "en_en": {"suggests": [{"id": "6981", "link": "/find?type=3&query=cunnilingus", "word": "cunnilingus"}, {"id": "6982", "link": "/find?type=3&query=cunning", "word": "cunning"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6981",
+                "link": "/find?type=3&query=cunnilingus",
+                "word": "cunnilingus"
+            },
+            {
+                "id": "6982",
+                "link": "/find?type=3&query=cunning",
+                "word": "cunning"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21696",
+                "link": "/find?type=1&query=cunnilingual",
+                "word": "cunnilingual"
+            },
+            {
+                "id": "21697",
+                "link": "/find?type=1&query=cunnilingus",
+                "word": "cunnilingus"
+            },
+            {
+                "id": "21698",
+                "link": "/find?type=1&query=cunning",
+                "word": "cunning"
+            },
+            {
+                "id": "21699",
+                "link": "/find?type=1&query=cunningly",
+                "word": "cunningly"
+            },
+            {
+                "id": "21700",
+                "link": "/find?type=1&query=cunningness",
+                "word": "cunningness"
+            }
+        ]
+    }
+}

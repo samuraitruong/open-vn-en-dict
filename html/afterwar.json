@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "1931", "link": "/find?type=1&query=afterward", "word": "afterward"}, {"id": "1932", "link": "/find?type=1&query=afterwards", "word": "afterwards"}], "data": {}}, "en_en": {"suggests": [{"id": "488", "link": "/find?type=3&query=afterward", "word": "afterward"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "488",
+                "link": "/find?type=3&query=afterward",
+                "word": "afterward"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1931",
+                "link": "/find?type=1&query=afterward",
+                "word": "afterward"
+            },
+            {
+                "id": "1932",
+                "link": "/find?type=1&query=afterwards",
+                "word": "afterwards"
+            }
+        ]
+    }
+}

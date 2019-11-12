@@ -1,1 +1,52 @@
-{"error": 0, "query": "geol", "enViData": {"suggests": [{"id": "39659", "link": "/find?type=1&query=geologic", "word": "geologic"}, {"id": "39660", "link": "/find?type=1&query=geological", "word": "geological"}, {"id": "39661", "link": "/find?type=1&query=geologically", "word": "geologically"}, {"id": "39662", "link": "/find?type=1&query=geologise", "word": "geologise"}, {"id": "39663", "link": "/find?type=1&query=geologist", "word": "geologist"}, {"id": "39664", "link": "/find?type=1&query=geologize", "word": "geologize"}, {"id": "39665", "link": "/find?type=1&query=geology", "word": "geology"}]}, "mUrl": "/find?type=1&query=geol", "enEnData": {"suggests": [{"id": "11992", "link": "/find?type=3&query=geology", "word": "geology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11992",
+                "link": "/find?type=3&query=geology",
+                "word": "geology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39659",
+                "link": "/find?type=1&query=geologic",
+                "word": "geologic"
+            },
+            {
+                "id": "39660",
+                "link": "/find?type=1&query=geological",
+                "word": "geological"
+            },
+            {
+                "id": "39661",
+                "link": "/find?type=1&query=geologically",
+                "word": "geologically"
+            },
+            {
+                "id": "39662",
+                "link": "/find?type=1&query=geologise",
+                "word": "geologise"
+            },
+            {
+                "id": "39663",
+                "link": "/find?type=1&query=geologist",
+                "word": "geologist"
+            },
+            {
+                "id": "39664",
+                "link": "/find?type=1&query=geologize",
+                "word": "geologize"
+            },
+            {
+                "id": "39665",
+                "link": "/find?type=1&query=geology",
+                "word": "geology"
+            }
+        ]
+    }
+}
