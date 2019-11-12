@@ -1,1 +1,28 @@
-{"error": 0, "query": "invertebrates", "enViData": {"suggests": [], "best": {"id": "49956", "details": "\n<div id=\"find_word_49956\" class=\"world word_en\" rel=\"invertebrate\">\n    <h2 class=\"fl\">invertebrate <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"49956\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"49956\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\"><span class=\"color-black\">/in'v\u025c:tibreit/</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng v\u1eadt kh\u00f4ng x\u01b0\u01a1ng s\u1ed1ng</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"margin25\"><span class=\"color-black\">/in'v\u025c:tebreit/</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) kh\u00f4ng x\u01b0\u01a1ng s\u1ed1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=invertebrate", "word": "invertebrate"}}, "mUrl": "/find?type=1&query=invertebrates", "enEnData": {"suggests": [], "best": {"id": "15349", "details": "\n<div id=\"find_word_15349\" class=\"world word_en\" rel=\"invertebrate\">\n    <h2 class=\"fl\">invertebrate <span class=\"color-black\">/\u026an\u02c8v\u025at\u0259br\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15349\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15349\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -brates</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of animal that does not have a backbone</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Worms are invertebrates. - compare vertebrate</div>\n    \n</div>\n", "link": "/find?type=3&query=invertebrate", "word": "invertebrate"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -brates</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of animal that does not have a backbone</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Worms are invertebrates. - compare vertebrate</div>",
+            "id": "15349",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8v\u025at\u0259br\u0259t/",
+            "type": "noun",
+            "word": "invertebrate"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\"><span class=\"color-black\">/in'v\u025c:tibreit/</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng v\u1eadt kh\u00f4ng x\u01b0\u01a1ng s\u1ed1ng</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"margin25\"><span class=\"color-black\">/in'v\u025c:tebreit/</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) kh\u00f4ng x\u01b0\u01a1ng s\u1ed1ng</div>",
+            "id": "49956",
+            "mean": [],
+            "pronounce": " /in'v\u025c:tibreit/ /in'v\u025c:tebreit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9ea50cc580c3672cb539522b9960d1e2/16e61d467e5/I/invertebrate.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5b1058ff21c31eae06fd2f8e2b92e799/16e61d46220/I/invertebrate.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "invertebrate"
+        },
+        "suggests": []
+    }
+}
