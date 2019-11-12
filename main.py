@@ -112,9 +112,10 @@ def getWord(word):
     # print(html("#column-content").html())
     return html("#column-content").html()
 
-if len(argv)
-pprint.pprint(getWordFromLaban("agromania"))
-exit()
+
+if len(argv) > 1:
+    pprint.pprint(getWordFromLaban("agromania"))
+    exit()
 words = getWordList()
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
@@ -131,7 +132,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                     outfile.truncate()
                     json.dump(html, outfile)
         except requests.exceptions.ConnectionError:
-             print('%r generated an exception: %s' % (url, exc))
+            print('%r generated an exception: %s' % (url, exc))
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
             exit()
