@@ -1,1 +1,57 @@
-{"error": 0, "query": "gaun", "enViData": {"suggests": [{"id": "39302", "link": "/find?type=1&query=gaunt", "word": "gaunt"}, {"id": "39303", "link": "/find?type=1&query=gauntlet", "word": "gauntlet"}, {"id": "39304", "link": "/find?type=1&query=gauntleted", "word": "gauntleted"}, {"id": "39305", "link": "/find?type=1&query=gauntness", "word": "gauntness"}, {"id": "39306", "link": "/find?type=1&query=gauntry", "word": "gauntry"}]}, "mUrl": "/find?type=1&query=gaun", "enEnData": {"suggests": [{"id": "11881", "link": "/find?type=3&query=gaunt", "word": "gaunt"}, {"id": "11882", "link": "/find?type=3&query=gauntlet", "word": "gauntlet"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2947", "link": "/find?type=4&query=gaunt", "word": "gaunt"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11881",
+                "link": "/find?type=3&query=gaunt",
+                "word": "gaunt"
+            },
+            {
+                "id": "11882",
+                "link": "/find?type=3&query=gauntlet",
+                "word": "gauntlet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39302",
+                "link": "/find?type=1&query=gaunt",
+                "word": "gaunt"
+            },
+            {
+                "id": "39303",
+                "link": "/find?type=1&query=gauntlet",
+                "word": "gauntlet"
+            },
+            {
+                "id": "39304",
+                "link": "/find?type=1&query=gauntleted",
+                "word": "gauntleted"
+            },
+            {
+                "id": "39305",
+                "link": "/find?type=1&query=gauntness",
+                "word": "gauntness"
+            },
+            {
+                "id": "39306",
+                "link": "/find?type=1&query=gauntry",
+                "word": "gauntry"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2947",
+                "link": "/find?type=4&query=gaunt",
+                "word": "gaunt"
+            }
+        ]
+    }
+}
