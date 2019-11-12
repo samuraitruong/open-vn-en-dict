@@ -1,1 +1,59 @@
-{"error": 0, "query": "galleys", "enViData": {"suggests": [{"id": "38793", "link": "/find?type=1&query=galley+proof", "word": "galley proof"}, {"id": "38793", "link": "/find?type=1&query=galley-cabinet", "word": "galley-cabinet"}, {"id": "38793", "link": "/find?type=1&query=galley-man", "word": "galley-man"}, {"id": "38793", "link": "/find?type=1&query=galley-news", "word": "galley-news"}, {"id": "38793", "link": "/find?type=1&query=galley-slave", "word": "galley-slave"}, {"id": "38793", "link": "/find?type=1&query=galley-west", "word": "galley-west"}], "best": {"id": "38793", "details": "\n<div id=\"find_word_38793\" class=\"world word_en\" rel=\"galley\">\n    <h2 class=\"fl\">galley <span class=\"color-black\">/'g\u00e6li/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38793\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38793\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thuy\u1ec1n gale (do n\u00f4 l\u1ec7 ch\u00e8o, c\u1ed5 Hy L\u1ea1p v\u00e0 c\u1ed5 La M\u00e3)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ebfp (\u1edf t\u00e0u th\u1ee7y hay m\u00e1y bay)</div>\n    \n    <div class=\"green margin25 m-top15\">khay s\u1eafp ch\u1eef (\u1edf nh\u00e0 in)</div>\n    \n</div>\n", "link": "/find?type=1&query=galley", "word": "galley"}}, "mUrl": "/find?type=1&query=galleys", "enEnData": {"suggests": [], "best": {"id": "11749", "details": "\n<div id=\"find_word_11749\" class=\"world word_en\" rel=\"galley\">\n    <h2 class=\"fl\">galley <span class=\"color-black\">/\u02c8g\u00e6li/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11749\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11749\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -leys</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the kitchen of a ship or airplane</div>\n    \n    <div class=\"green margin25 m-top15\">a long, low ship that was moved by oars and sails and that was used in ancient times by the Egyptians, Greeks, and others</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a slave galley [=a galley rowed by slaves]</div>\n    \n</div>\n", "link": "/find?type=3&query=galley", "word": "galley"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -leys</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the kitchen of a ship or airplane</div>\n    \n    <div class=\"green margin25 m-top15\">a long, low ship that was moved by oars and sails and that was used in ancient times by the Egyptians, Greeks, and others</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a slave galley [=a galley rowed by slaves]</div>",
+            "id": "11749",
+            "mean": [],
+            "pronounce": "/\u02c8g\u00e6li/",
+            "type": "noun",
+            "word": "galley"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thuy\u1ec1n gale (do n\u00f4 l\u1ec7 ch\u00e8o, c\u1ed5 Hy L\u1ea1p v\u00e0 c\u1ed5 La M\u00e3)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ebfp (\u1edf t\u00e0u th\u1ee7y hay m\u00e1y bay)</div>\n    \n    <div class=\"green margin25 m-top15\">khay s\u1eafp ch\u1eef (\u1edf nh\u00e0 in)</div>",
+            "id": "38793",
+            "mean": [],
+            "pronounce": "/'g\u00e6li/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/df1a575658ba62703d0420d4c4090f13/16e60c09e86/G/galley.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/74162613458bf416213acb59d3ff41aa/16e60c0968f/G/galley.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "galley"
+        },
+        "suggests": [
+            {
+                "id": "38793",
+                "link": "/find?type=1&query=galley+proof",
+                "word": "galley proof"
+            },
+            {
+                "id": "38793",
+                "link": "/find?type=1&query=galley-cabinet",
+                "word": "galley-cabinet"
+            },
+            {
+                "id": "38793",
+                "link": "/find?type=1&query=galley-man",
+                "word": "galley-man"
+            },
+            {
+                "id": "38793",
+                "link": "/find?type=1&query=galley-news",
+                "word": "galley-news"
+            },
+            {
+                "id": "38793",
+                "link": "/find?type=1&query=galley-slave",
+                "word": "galley-slave"
+            },
+            {
+                "id": "38793",
+                "link": "/find?type=1&query=galley-west",
+                "word": "galley-west"
+            }
+        ]
+    }
+}
