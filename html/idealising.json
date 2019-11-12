@@ -1,1 +1,43 @@
-{"error": 0, "query": "idealising", "enViData": {"suggests": [{"id": "45917", "link": "/find?type=1&query=idealise", "word": "idealise"}], "best": {"id": "45917", "details": "\n<div id=\"find_word_45917\" class=\"world word_en\" rel=\"idealise\">\n    <h2 class=\"fl\">idealise <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45917\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45917\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=idealize\">idealize</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=idealise", "word": "idealise"}}, "mUrl": "/find?type=1&query=idealising", "enEnData": {"suggests": [{"id": "14296", "link": "/find?type=3&query=idealism", "word": "idealism"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3445", "link": "/find?type=4&query=idealistic", "word": "idealistic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14296",
+                "link": "/find?type=3&query=idealism",
+                "word": "idealism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=idealize\">idealize</a></span></div>",
+            "id": "45917",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/539f6b78c9a780f72e396c92d5cfb6c0/16e61c674e0/I/idealise.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/efa413e833752c16b6405de5d4f3ea53/16e61c66f0e/I/idealise.mp3"
+            },
+            "type": "",
+            "word": "idealise"
+        },
+        "suggests": [
+            {
+                "id": "45917",
+                "link": "/find?type=1&query=idealise",
+                "word": "idealise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3445",
+                "link": "/find?type=4&query=idealistic",
+                "word": "idealistic"
+            }
+        ]
+    }
+}

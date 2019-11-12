@@ -1,1 +1,37 @@
-{"error": 0, "query": "iconograph", "enViData": {"suggests": [{"id": "45880", "link": "/find?type=1&query=iconographer", "word": "iconographer"}, {"id": "45881", "link": "/find?type=1&query=iconographic", "word": "iconographic"}, {"id": "45882", "link": "/find?type=1&query=iconographical", "word": "iconographical"}, {"id": "45883", "link": "/find?type=1&query=iconography", "word": "iconography"}]}, "mUrl": "/find?type=1&query=iconograph", "enEnData": {"suggests": [{"id": "14285", "link": "/find?type=3&query=iconography", "word": "iconography"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14285",
+                "link": "/find?type=3&query=iconography",
+                "word": "iconography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45880",
+                "link": "/find?type=1&query=iconographer",
+                "word": "iconographer"
+            },
+            {
+                "id": "45881",
+                "link": "/find?type=1&query=iconographic",
+                "word": "iconographic"
+            },
+            {
+                "id": "45882",
+                "link": "/find?type=1&query=iconographical",
+                "word": "iconographical"
+            },
+            {
+                "id": "45883",
+                "link": "/find?type=1&query=iconography",
+                "word": "iconography"
+            }
+        ]
+    }
+}
