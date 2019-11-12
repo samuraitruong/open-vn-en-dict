@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "10986", "link": "/find?type=1&query=brandied", "word": "brandied"}, {"id": "10987", "link": "/find?type=1&query=branding-iron", "word": "branding-iron"}, {"id": "10988", "link": "/find?type=1&query=brandish", "word": "brandish"}, {"id": "10989", "link": "/find?type=1&query=brandisher", "word": "brandisher"}], "data": {}}, "en_en": {"suggests": [{"id": "3328", "link": "/find?type=3&query=brandish", "word": "brandish"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3328",
+                "link": "/find?type=3&query=brandish",
+                "word": "brandish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10986",
+                "link": "/find?type=1&query=brandied",
+                "word": "brandied"
+            },
+            {
+                "id": "10987",
+                "link": "/find?type=1&query=branding-iron",
+                "word": "branding-iron"
+            },
+            {
+                "id": "10988",
+                "link": "/find?type=1&query=brandish",
+                "word": "brandish"
+            },
+            {
+                "id": "10989",
+                "link": "/find?type=1&query=brandisher",
+                "word": "brandisher"
+            }
+        ]
+    }
+}

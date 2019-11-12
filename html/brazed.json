@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "11042", "link": "/find?type=1&query=brazen", "word": "brazen"}, {"id": "11042", "link": "/find?type=1&query=brazen+age", "word": "brazen age"}, {"id": "11042", "link": "/find?type=1&query=brazen-faced", "word": "brazen-faced"}, {"id": "11042", "link": "/find?type=1&query=brazenly", "word": "brazenly"}, {"id": "11042", "link": "/find?type=1&query=brazenness", "word": "brazenness"}], "data": {"word": "braze", "id": "11042", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) h\u00e0n gia nhi\u1ec7t, h\u00e0n v\u1ea9y</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3349", "link": "/find?type=3&query=brazen", "word": "brazen"}], "data": {}}, "synonyms": {"suggests": [{"id": "689", "link": "/find?type=4&query=brazen", "word": "brazen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3349",
+                "link": "/find?type=3&query=brazen",
+                "word": "brazen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) h\u00e0n gia nhi\u1ec7t, h\u00e0n v\u1ea9y</div>",
+            "id": "11042",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "braze"
+        },
+        "suggests": [
+            {
+                "id": "11042",
+                "link": "/find?type=1&query=brazen",
+                "word": "brazen"
+            },
+            {
+                "id": "11042",
+                "link": "/find?type=1&query=brazen+age",
+                "word": "brazen age"
+            },
+            {
+                "id": "11042",
+                "link": "/find?type=1&query=brazen-faced",
+                "word": "brazen-faced"
+            },
+            {
+                "id": "11042",
+                "link": "/find?type=1&query=brazenly",
+                "word": "brazenly"
+            },
+            {
+                "id": "11042",
+                "link": "/find?type=1&query=brazenness",
+                "word": "brazenness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "689",
+                "link": "/find?type=4&query=brazen",
+                "word": "brazen"
+            }
+        ]
+    }
+}

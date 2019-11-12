@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "11012", "link": "/find?type=1&query=brassed-off", "word": "brassed-off"}, {"id": "11013", "link": "/find?type=1&query=brasserie", "word": "brasserie"}], "data": {}}, "en_en": {"suggests": [{"id": "3336", "link": "/find?type=3&query=brassed+off", "word": "brassed off"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3336",
+                "link": "/find?type=3&query=brassed+off",
+                "word": "brassed off"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11012",
+                "link": "/find?type=1&query=brassed-off",
+                "word": "brassed-off"
+            },
+            {
+                "id": "11013",
+                "link": "/find?type=1&query=brasserie",
+                "word": "brasserie"
+            }
+        ]
+    }
+}

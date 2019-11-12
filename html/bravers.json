@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "11031", "link": "/find?type=1&query=bravery", "word": "bravery"}], "data": {}}, "en_en": {"suggests": [{"id": "3343", "link": "/find?type=3&query=bravery", "word": "bravery"}], "data": {}}, "synonyms": {"suggests": [{"id": "685", "link": "/find?type=4&query=bravery", "word": "bravery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3343",
+                "link": "/find?type=3&query=bravery",
+                "word": "bravery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11031",
+                "link": "/find?type=1&query=bravery",
+                "word": "bravery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "685",
+                "link": "/find?type=4&query=bravery",
+                "word": "bravery"
+            }
+        ]
+    }
+}

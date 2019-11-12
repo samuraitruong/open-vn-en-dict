@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11167", "link": "/find?type=1&query=brethren", "word": "brethren"}], "data": {}}, "en_en": {"suggests": [{"id": "3405", "link": "/find?type=3&query=brethren", "word": "brethren"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3405",
+                "link": "/find?type=3&query=brethren",
+                "word": "brethren"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11167",
+                "link": "/find?type=1&query=brethren",
+                "word": "brethren"
+            }
+        ]
+    }
+}
