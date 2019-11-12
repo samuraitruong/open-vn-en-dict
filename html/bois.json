@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "10320", "link": "/find?type=1&query=boisterous", "word": "boisterous"}, {"id": "10321", "link": "/find?type=1&query=boisterously", "word": "boisterously"}, {"id": "10322", "link": "/find?type=1&query=boisterousness", "word": "boisterousness"}], "data": {}}, "en_en": {"suggests": [{"id": "3040", "link": "/find?type=3&query=boisterous", "word": "boisterous"}], "data": {}}, "synonyms": {"suggests": [{"id": "610", "link": "/find?type=4&query=boisterous", "word": "boisterous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3040",
+                "link": "/find?type=3&query=boisterous",
+                "word": "boisterous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10320",
+                "link": "/find?type=1&query=boisterous",
+                "word": "boisterous"
+            },
+            {
+                "id": "10321",
+                "link": "/find?type=1&query=boisterously",
+                "word": "boisterously"
+            },
+            {
+                "id": "10322",
+                "link": "/find?type=1&query=boisterousness",
+                "word": "boisterousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "610",
+                "link": "/find?type=4&query=boisterous",
+                "word": "boisterous"
+            }
+        ]
+    }
+}

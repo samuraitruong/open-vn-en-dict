@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "10499", "link": "/find?type=1&query=bookkeeper", "word": "bookkeeper"}, {"id": "10500", "link": "/find?type=1&query=bookkeeping", "word": "bookkeeping"}], "data": {}}, "en_en": {"suggests": [{"id": "3126", "link": "/find?type=3&query=bookkeeper", "word": "bookkeeper"}], "data": {}}, "synonyms": {"suggests": [{"id": "625", "link": "/find?type=4&query=bookkeeper", "word": "bookkeeper"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3126",
+                "link": "/find?type=3&query=bookkeeper",
+                "word": "bookkeeper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10499",
+                "link": "/find?type=1&query=bookkeeper",
+                "word": "bookkeeper"
+            },
+            {
+                "id": "10500",
+                "link": "/find?type=1&query=bookkeeping",
+                "word": "bookkeeping"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "625",
+                "link": "/find?type=4&query=bookkeeper",
+                "word": "bookkeeper"
+            }
+        ]
+    }
+}

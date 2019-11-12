@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "10288", "link": "/find?type=1&query=boffin", "word": "boffin"}], "data": {}}, "en_en": {"suggests": [{"id": "3023", "link": "/find?type=3&query=boffin", "word": "boffin"}, {"id": "3024", "link": "/find?type=3&query=boffo", "word": "boffo"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3023",
+                "link": "/find?type=3&query=boffin",
+                "word": "boffin"
+            },
+            {
+                "id": "3024",
+                "link": "/find?type=3&query=boffo",
+                "word": "boffo"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10288",
+                "link": "/find?type=1&query=boffin",
+                "word": "boffin"
+            }
+        ]
+    }
+}

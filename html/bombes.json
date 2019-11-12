@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "10383", "link": "/find?type=1&query=bombed", "word": "bombed"}, {"id": "10383", "link": "/find?type=1&query=bomber", "word": "bomber"}], "data": {"word": "bombe", "id": "10383", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n tr\u00e1ng mi\u1ec7ng \u0111\u00f4ng l\u1ea1nh (kem l\u00e0m th\u00e0nh h\u00ecnh tr\u00f2n ho\u1eb7c n\u00f3n)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "3062", "link": "/find?type=3&query=bombed", "word": "bombed"}, {"id": "3063", "link": "/find?type=3&query=bombed-out", "word": "bombed-out"}, {"id": "3064", "link": "/find?type=3&query=bomber", "word": "bomber"}, {"id": "3065", "link": "/find?type=3&query=bomber+jacket", "word": "bomber jacket"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3062",
+                "link": "/find?type=3&query=bombed",
+                "word": "bombed"
+            },
+            {
+                "id": "3063",
+                "link": "/find?type=3&query=bombed-out",
+                "word": "bombed-out"
+            },
+            {
+                "id": "3064",
+                "link": "/find?type=3&query=bomber",
+                "word": "bomber"
+            },
+            {
+                "id": "3065",
+                "link": "/find?type=3&query=bomber+jacket",
+                "word": "bomber jacket"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n tr\u00e1ng mi\u1ec7ng \u0111\u00f4ng l\u1ea1nh (kem l\u00e0m th\u00e0nh h\u00ecnh tr\u00f2n ho\u1eb7c n\u00f3n)</div>",
+            "id": "10383",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bombe"
+        },
+        "suggests": [
+            {
+                "id": "10383",
+                "link": "/find?type=1&query=bombed",
+                "word": "bombed"
+            },
+            {
+                "id": "10383",
+                "link": "/find?type=1&query=bomber",
+                "word": "bomber"
+            }
+        ]
+    }
+}

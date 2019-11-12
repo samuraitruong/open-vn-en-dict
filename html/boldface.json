@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "10329", "link": "/find?type=1&query=boldfaced", "word": "boldfaced"}], "data": {"word": "boldface", "id": "10329", "pronounce": "/'b\u0259\u028aldfeis/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1eef in \u0111\u1eadm</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eb7t m\u00e0y tr\u01a1 tr\u00e1o</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ff58513f5c6738efca82d1380610de66/16e5dd9df31/B/boldface.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/bc4159407777c14e790f81b2b6abf93e/16e5dd9e503/B/boldface.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "boldface", "id": "3043", "pronounce": "/\u02c8bo\u028ald\u02ccfe\u026as/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :letters that are printed in thick, dark lines</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The headline was printed in boldface.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :letters that are printed in thick, dark lines</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The headline was printed in boldface.</div>",
+            "id": "3043",
+            "mean": [],
+            "pronounce": "/\u02c8bo\u028ald\u02ccfe\u026as/",
+            "type": "noun",
+            "word": "boldface"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1eef in \u0111\u1eadm</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eb7t m\u00e0y tr\u01a1 tr\u00e1o</div>",
+            "id": "10329",
+            "mean": [],
+            "pronounce": "/'b\u0259\u028aldfeis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/02b66bfe2cc9e870509f1017d002fded/16e5ebbbf14/B/boldface.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/12c2d85b2fae47cda5b807d4ce3604b1/16e5ebbb965/B/boldface.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "boldface"
+        },
+        "suggests": [
+            {
+                "id": "10329",
+                "link": "/find?type=1&query=boldfaced",
+                "word": "boldfaced"
+            }
+        ]
+    }
+}

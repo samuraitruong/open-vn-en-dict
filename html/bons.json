@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "10444", "link": "/find?type=1&query=bons+mots", "word": "bons mots"}, {"id": "10445", "link": "/find?type=1&query=bonsai", "word": "bonsai"}], "data": {}}, "en_en": {"suggests": [{"id": "3100", "link": "/find?type=3&query=bonsai", "word": "bonsai"}], "data": {}}, "synonyms": {"suggests": [{"id": "619", "link": "/find?type=4&query=bona+fide", "word": "bona fide"}, {"id": "620", "link": "/find?type=4&query=bond", "word": "bond"}, {"id": "621", "link": "/find?type=4&query=bondage", "word": "bondage"}, {"id": "622", "link": "/find?type=4&query=bonny", "word": "bonny"}, {"id": "623", "link": "/find?type=4&query=bonus", "word": "bonus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3100",
+                "link": "/find?type=3&query=bonsai",
+                "word": "bonsai"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10444",
+                "link": "/find?type=1&query=bons+mots",
+                "word": "bons mots"
+            },
+            {
+                "id": "10445",
+                "link": "/find?type=1&query=bonsai",
+                "word": "bonsai"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "619",
+                "link": "/find?type=4&query=bona+fide",
+                "word": "bona fide"
+            },
+            {
+                "id": "620",
+                "link": "/find?type=4&query=bond",
+                "word": "bond"
+            },
+            {
+                "id": "621",
+                "link": "/find?type=4&query=bondage",
+                "word": "bondage"
+            },
+            {
+                "id": "622",
+                "link": "/find?type=4&query=bonny",
+                "word": "bonny"
+            },
+            {
+                "id": "623",
+                "link": "/find?type=4&query=bonus",
+                "word": "bonus"
+            }
+        ]
+    }
+}
