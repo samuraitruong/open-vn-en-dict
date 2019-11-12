@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "8821", "link": "/find?type=1&query=belated", "word": "belated"}, {"id": "8822", "link": "/find?type=1&query=belatedly", "word": "belatedly"}], "data": {}}, "en_en": {"suggests": [{"id": "2385", "link": "/find?type=3&query=belated", "word": "belated"}], "data": {}}, "synonyms": {"suggests": [{"id": "488", "link": "/find?type=4&query=belated", "word": "belated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2385",
+                "link": "/find?type=3&query=belated",
+                "word": "belated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8821",
+                "link": "/find?type=1&query=belated",
+                "word": "belated"
+            },
+            {
+                "id": "8822",
+                "link": "/find?type=1&query=belatedly",
+                "word": "belatedly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "488",
+                "link": "/find?type=4&query=belated",
+                "word": "belated"
+            }
+        ]
+    }
+}

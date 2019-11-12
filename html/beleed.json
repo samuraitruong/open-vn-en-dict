@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8829", "link": "/find?type=1&query=beleaguer", "word": "beleaguer"}, {"id": "8830", "link": "/find?type=1&query=belemnite", "word": "belemnite"}], "data": {}}, "en_en": {"suggests": [{"id": "2388", "link": "/find?type=3&query=beleaguer", "word": "beleaguer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2388",
+                "link": "/find?type=3&query=beleaguer",
+                "word": "beleaguer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8829",
+                "link": "/find?type=1&query=beleaguer",
+                "word": "beleaguer"
+            },
+            {
+                "id": "8830",
+                "link": "/find?type=1&query=belemnite",
+                "word": "belemnite"
+            }
+        ]
+    }
+}

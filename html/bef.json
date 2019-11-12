@@ -1,1 +1,112 @@
-{"en_vn": {"suggests": [{"id": "8743", "link": "/find?type=1&query=befall", "word": "befall"}, {"id": "8744", "link": "/find?type=1&query=befallen", "word": "befallen"}, {"id": "8745", "link": "/find?type=1&query=befell", "word": "befell"}, {"id": "8746", "link": "/find?type=1&query=befit", "word": "befit"}, {"id": "8747", "link": "/find?type=1&query=befitting", "word": "befitting"}, {"id": "8748", "link": "/find?type=1&query=befittingly", "word": "befittingly"}, {"id": "8749", "link": "/find?type=1&query=befog", "word": "befog"}, {"id": "8750", "link": "/find?type=1&query=before", "word": "before"}, {"id": "8751", "link": "/find?type=1&query=before-mentioned", "word": "before-mentioned"}, {"id": "8752", "link": "/find?type=1&query=beforehand", "word": "beforehand"}], "data": {}}, "en_en": {"suggests": [{"id": "2344", "link": "/find?type=3&query=befall", "word": "befall"}, {"id": "2345", "link": "/find?type=3&query=befit", "word": "befit"}, {"id": "2346", "link": "/find?type=3&query=before", "word": "before"}, {"id": "2347", "link": "/find?type=3&query=beforehand", "word": "beforehand"}, {"id": "2348", "link": "/find?type=3&query=befoul", "word": "befoul"}, {"id": "2349", "link": "/find?type=3&query=befriend", "word": "befriend"}, {"id": "2350", "link": "/find?type=3&query=befuddled", "word": "befuddled"}], "data": {}}, "synonyms": {"suggests": [{"id": "472", "link": "/find?type=4&query=befitting", "word": "befitting"}, {"id": "473", "link": "/find?type=4&query=before", "word": "before"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2344",
+                "link": "/find?type=3&query=befall",
+                "word": "befall"
+            },
+            {
+                "id": "2345",
+                "link": "/find?type=3&query=befit",
+                "word": "befit"
+            },
+            {
+                "id": "2346",
+                "link": "/find?type=3&query=before",
+                "word": "before"
+            },
+            {
+                "id": "2347",
+                "link": "/find?type=3&query=beforehand",
+                "word": "beforehand"
+            },
+            {
+                "id": "2348",
+                "link": "/find?type=3&query=befoul",
+                "word": "befoul"
+            },
+            {
+                "id": "2349",
+                "link": "/find?type=3&query=befriend",
+                "word": "befriend"
+            },
+            {
+                "id": "2350",
+                "link": "/find?type=3&query=befuddled",
+                "word": "befuddled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8743",
+                "link": "/find?type=1&query=befall",
+                "word": "befall"
+            },
+            {
+                "id": "8744",
+                "link": "/find?type=1&query=befallen",
+                "word": "befallen"
+            },
+            {
+                "id": "8745",
+                "link": "/find?type=1&query=befell",
+                "word": "befell"
+            },
+            {
+                "id": "8746",
+                "link": "/find?type=1&query=befit",
+                "word": "befit"
+            },
+            {
+                "id": "8747",
+                "link": "/find?type=1&query=befitting",
+                "word": "befitting"
+            },
+            {
+                "id": "8748",
+                "link": "/find?type=1&query=befittingly",
+                "word": "befittingly"
+            },
+            {
+                "id": "8749",
+                "link": "/find?type=1&query=befog",
+                "word": "befog"
+            },
+            {
+                "id": "8750",
+                "link": "/find?type=1&query=before",
+                "word": "before"
+            },
+            {
+                "id": "8751",
+                "link": "/find?type=1&query=before-mentioned",
+                "word": "before-mentioned"
+            },
+            {
+                "id": "8752",
+                "link": "/find?type=1&query=beforehand",
+                "word": "beforehand"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "472",
+                "link": "/find?type=4&query=befitting",
+                "word": "befitting"
+            },
+            {
+                "id": "473",
+                "link": "/find?type=4&query=before",
+                "word": "before"
+            }
+        ]
+    }
+}

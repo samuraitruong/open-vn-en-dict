@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "8756", "link": "/find?type=1&query=befuddled", "word": "befuddled"}], "data": {"word": "befuddle", "id": "8756", "pronounce": "/bi'f\u028cdl/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m ng\u1edb ng\u1ea9n, l\u00e0m \u0111\u1ea7n \u0111\u1ed9n, l\u00e0m m\u1ee5 \u0111i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2350", "link": "/find?type=3&query=befuddled", "word": "befuddled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2350",
+                "link": "/find?type=3&query=befuddled",
+                "word": "befuddled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m ng\u1edb ng\u1ea9n, l\u00e0m \u0111\u1ea7n \u0111\u1ed9n, l\u00e0m m\u1ee5 \u0111i</div>",
+            "id": "8756",
+            "mean": [],
+            "pronounce": "/bi'f\u028cdl/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "befuddle"
+        },
+        "suggests": [
+            {
+                "id": "8756",
+                "link": "/find?type=1&query=befuddled",
+                "word": "befuddled"
+            }
+        ]
+    }
+}
