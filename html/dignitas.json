@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "25405", "link": "/find?type=1&query=dignitary", "word": "dignitary"}], "data": {}}, "en_en": {"suggests": [{"id": "7990", "link": "/find?type=3&query=dignitary", "word": "dignitary"}], "data": {}}, "synonyms": {"suggests": [{"id": "1670", "link": "/find?type=4&query=dignitary", "word": "dignitary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7990",
+                "link": "/find?type=3&query=dignitary",
+                "word": "dignitary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25405",
+                "link": "/find?type=1&query=dignitary",
+                "word": "dignitary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1670",
+                "link": "/find?type=4&query=dignitary",
+                "word": "dignitary"
+            }
+        ]
+    }
+}
