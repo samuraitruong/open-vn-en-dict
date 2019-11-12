@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "23178", "link": "/find?type=1&query=declamatory", "word": "declamatory"}], "data": {}}, "en_en": {"suggests": [{"id": "7410", "link": "/find?type=3&query=declamatory", "word": "declamatory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7410",
+                "link": "/find?type=3&query=declamatory",
+                "word": "declamatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23178",
+                "link": "/find?type=1&query=declamatory",
+                "word": "declamatory"
+            }
+        ]
+    }
+}

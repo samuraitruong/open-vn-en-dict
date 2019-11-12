@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "23251", "link": "/find?type=1&query=decongestant", "word": "decongestant"}], "data": {}}, "en_en": {"suggests": [{"id": "7426", "link": "/find?type=3&query=decongestant", "word": "decongestant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7426",
+                "link": "/find?type=3&query=decongestant",
+                "word": "decongestant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23251",
+                "link": "/find?type=1&query=decongestant",
+                "word": "decongestant"
+            }
+        ]
+    }
+}

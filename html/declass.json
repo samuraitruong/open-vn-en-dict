@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "23188", "link": "/find?type=1&query=declassed", "word": "declassed"}, {"id": "23188", "link": "/find?type=1&query=declassifiable", "word": "declassifiable"}, {"id": "23188", "link": "/find?type=1&query=declassification", "word": "declassification"}, {"id": "23188", "link": "/find?type=1&query=declassify", "word": "declassify"}], "data": {"word": "declass", "id": "23188", "pronounce": "", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e1ch ra kh\u1ecfi l\u1edbp h\u1ea1ng c\u1ee7a m\u00ecnh; \u0111\u1ea9y xu\u1ed1ng l\u1edbp h\u1ea1ng d\u01b0\u1edbi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7414", "link": "/find?type=3&query=declassify", "word": "declassify"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7414",
+                "link": "/find?type=3&query=declassify",
+                "word": "declassify"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e1ch ra kh\u1ecfi l\u1edbp h\u1ea1ng c\u1ee7a m\u00ecnh; \u0111\u1ea9y xu\u1ed1ng l\u1edbp h\u1ea1ng d\u01b0\u1edbi</div>",
+            "id": "23188",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "declass"
+        },
+        "suggests": [
+            {
+                "id": "23188",
+                "link": "/find?type=1&query=declassed",
+                "word": "declassed"
+            },
+            {
+                "id": "23188",
+                "link": "/find?type=1&query=declassifiable",
+                "word": "declassifiable"
+            },
+            {
+                "id": "23188",
+                "link": "/find?type=1&query=declassification",
+                "word": "declassification"
+            },
+            {
+                "id": "23188",
+                "link": "/find?type=1&query=declassify",
+                "word": "declassify"
+            }
+        ]
+    }
+}

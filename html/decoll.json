@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23215", "link": "/find?type=1&query=decollate", "word": "decollate"}, {"id": "23216", "link": "/find?type=1&query=decollation", "word": "decollation"}, {"id": "23217", "link": "/find?type=1&query=decollator", "word": "decollator"}], "data": {}}, "en_en": {"suggests": [{"id": "7419", "link": "/find?type=3&query=decolletage", "word": "decolletage"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7419",
+                "link": "/find?type=3&query=decolletage",
+                "word": "decolletage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23215",
+                "link": "/find?type=1&query=decollate",
+                "word": "decollate"
+            },
+            {
+                "id": "23216",
+                "link": "/find?type=1&query=decollation",
+                "word": "decollation"
+            },
+            {
+                "id": "23217",
+                "link": "/find?type=1&query=decollator",
+                "word": "decollator"
+            }
+        ]
+    }
+}

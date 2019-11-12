@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "23210", "link": "/find?type=1&query=decoded", "word": "decoded"}, {"id": "23210", "link": "/find?type=1&query=decoder", "word": "decoder"}], "data": {"word": "decode", "id": "23210", "pronounce": "/di:'k\u0259\u028ad/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ea3i m\u00e3</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/bfe13938d4037cbb3f887229bfdffff4/16e5e00a111/D/decode.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/79b1f652185ca19e9be46353bbb033b7/16e5e00a6d6/D/decode.mp3"}}}, "en_en": {"suggests": [{"id": "7417", "link": "/find?type=3&query=decoder", "word": "decoder"}], "data": {"word": "decode", "id": "7417", "pronounce": "/di\u02c8ko\u028ad/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-codes; -coded; -coding</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to change (secret messages, documents, etc.) from a set of letters, numbers, symbols, etc., you cannot understand into words you can understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The government agents finally decoded [=deciphered] the message. - compare code, encode</div>\n    \n    <div class=\"green margin25 m-top15\">to find or understand the true or hidden meaning of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Readers can easily decode the novel's imagery.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm trying to decode the expression on her face.</div>\n    \n    <div class=\"green margin25 m-top15\">technical :to change signals for a radio, television, etc., to a form that can be heard or seen correctly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The box decodes the digital signal for your CD player.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-codes; -coded; -coding</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to change (secret messages, documents, etc.) from a set of letters, numbers, symbols, etc., you cannot understand into words you can understand</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The government agents finally decoded [=deciphered] the message. - compare code, encode</div>\n    \n    <div class=\"green margin25 m-top15\">to find or understand the true or hidden meaning of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Readers can easily decode the novel's imagery.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'm trying to decode the expression on her face.</div>\n    \n    <div class=\"green margin25 m-top15\">technical :to change signals for a radio, television, etc., to a form that can be heard or seen correctly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The box decodes the digital signal for your CD player.</div>",
+            "id": "7417",
+            "mean": [],
+            "pronounce": "/di\u02c8ko\u028ad/",
+            "type": "verb",
+            "word": "decode"
+        },
+        "suggests": [
+            {
+                "id": "7417",
+                "link": "/find?type=3&query=decoder",
+                "word": "decoder"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ea3i m\u00e3</div>",
+            "id": "23210",
+            "mean": [],
+            "pronounce": "/di:'k\u0259\u028ad/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3e6fb5e67377b0ab39e77e746fc87369/16e5ee7dbaf/D/decode.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e45db21e3bd9c7b17c568ad0596e5fc5/16e5ee7d2ec/D/decode.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "decode"
+        },
+        "suggests": [
+            {
+                "id": "23210",
+                "link": "/find?type=1&query=decoded",
+                "word": "decoded"
+            },
+            {
+                "id": "23210",
+                "link": "/find?type=1&query=decoder",
+                "word": "decoder"
+            }
+        ]
+    }
+}
