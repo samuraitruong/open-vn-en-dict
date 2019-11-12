@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "29871", "link": "/find?type=1&query=elucidate", "word": "elucidate"}, {"id": "29872", "link": "/find?type=1&query=elucidation", "word": "elucidation"}, {"id": "29873", "link": "/find?type=1&query=elucidative", "word": "elucidative"}, {"id": "29874", "link": "/find?type=1&query=elucidator", "word": "elucidator"}, {"id": "29875", "link": "/find?type=1&query=elucidatory", "word": "elucidatory"}], "data": {}}, "en_en": {"suggests": [{"id": "9380", "link": "/find?type=3&query=elucidate", "word": "elucidate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9380",
+                "link": "/find?type=3&query=elucidate",
+                "word": "elucidate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29871",
+                "link": "/find?type=1&query=elucidate",
+                "word": "elucidate"
+            },
+            {
+                "id": "29872",
+                "link": "/find?type=1&query=elucidation",
+                "word": "elucidation"
+            },
+            {
+                "id": "29873",
+                "link": "/find?type=1&query=elucidative",
+                "word": "elucidative"
+            },
+            {
+                "id": "29874",
+                "link": "/find?type=1&query=elucidator",
+                "word": "elucidator"
+            },
+            {
+                "id": "29875",
+                "link": "/find?type=1&query=elucidatory",
+                "word": "elucidatory"
+            }
+        ]
+    }
+}

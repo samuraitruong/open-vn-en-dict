@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "29861", "link": "/find?type=1&query=elope", "word": "elope"}, {"id": "29862", "link": "/find?type=1&query=elopement", "word": "elopement"}, {"id": "29863", "link": "/find?type=1&query=eloper", "word": "eloper"}], "data": {}}, "en_en": {"suggests": [{"id": "9375", "link": "/find?type=3&query=elope", "word": "elope"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9375",
+                "link": "/find?type=3&query=elope",
+                "word": "elope"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29861",
+                "link": "/find?type=1&query=elope",
+                "word": "elope"
+            },
+            {
+                "id": "29862",
+                "link": "/find?type=1&query=elopement",
+                "word": "elopement"
+            },
+            {
+                "id": "29863",
+                "link": "/find?type=1&query=eloper",
+                "word": "eloper"
+            }
+        ]
+    }
+}
