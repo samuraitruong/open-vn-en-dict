@@ -1,1 +1,87 @@
-{"error": 0, "query": "freq", "enViData": {"suggests": [{"id": "37876", "link": "/find?type=1&query=frequence", "word": "frequence"}, {"id": "37877", "link": "/find?type=1&query=frequency", "word": "frequency"}, {"id": "37878", "link": "/find?type=1&query=frequency+agility", "word": "frequency agility"}, {"id": "37879", "link": "/find?type=1&query=frequency+band", "word": "frequency band"}, {"id": "37880", "link": "/find?type=1&query=frequency+bridge", "word": "frequency bridge"}, {"id": "37881", "link": "/find?type=1&query=frequency+channel", "word": "frequency channel"}, {"id": "37882", "link": "/find?type=1&query=frequency+control", "word": "frequency control"}, {"id": "37883", "link": "/find?type=1&query=frequency+conversion", "word": "frequency conversion"}, {"id": "37884", "link": "/find?type=1&query=frequency+demodulation", "word": "frequency demodulation"}, {"id": "37885", "link": "/find?type=1&query=frequency+demultiplier", "word": "frequency demultiplier"}]}, "mUrl": "/find?type=1&query=freq", "enEnData": {"suggests": [{"id": "11455", "link": "/find?type=3&query=frequency", "word": "frequency"}, {"id": "11456", "link": "/find?type=3&query=frequent", "word": "frequent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2847", "link": "/find?type=4&query=frequent", "word": "frequent"}, {"id": "2848", "link": "/find?type=4&query=frequently", "word": "frequently"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11455",
+                "link": "/find?type=3&query=frequency",
+                "word": "frequency"
+            },
+            {
+                "id": "11456",
+                "link": "/find?type=3&query=frequent",
+                "word": "frequent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37876",
+                "link": "/find?type=1&query=frequence",
+                "word": "frequence"
+            },
+            {
+                "id": "37877",
+                "link": "/find?type=1&query=frequency",
+                "word": "frequency"
+            },
+            {
+                "id": "37878",
+                "link": "/find?type=1&query=frequency+agility",
+                "word": "frequency agility"
+            },
+            {
+                "id": "37879",
+                "link": "/find?type=1&query=frequency+band",
+                "word": "frequency band"
+            },
+            {
+                "id": "37880",
+                "link": "/find?type=1&query=frequency+bridge",
+                "word": "frequency bridge"
+            },
+            {
+                "id": "37881",
+                "link": "/find?type=1&query=frequency+channel",
+                "word": "frequency channel"
+            },
+            {
+                "id": "37882",
+                "link": "/find?type=1&query=frequency+control",
+                "word": "frequency control"
+            },
+            {
+                "id": "37883",
+                "link": "/find?type=1&query=frequency+conversion",
+                "word": "frequency conversion"
+            },
+            {
+                "id": "37884",
+                "link": "/find?type=1&query=frequency+demodulation",
+                "word": "frequency demodulation"
+            },
+            {
+                "id": "37885",
+                "link": "/find?type=1&query=frequency+demultiplier",
+                "word": "frequency demultiplier"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2847",
+                "link": "/find?type=4&query=frequent",
+                "word": "frequent"
+            },
+            {
+                "id": "2848",
+                "link": "/find?type=4&query=frequently",
+                "word": "frequently"
+            }
+        ]
+    }
+}
