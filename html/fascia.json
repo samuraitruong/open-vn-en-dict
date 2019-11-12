@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "34230", "link": "/find?type=1&query=fasciae", "word": "fasciae"}, {"id": "34230", "link": "/find?type=1&query=fascial", "word": "fascial"}, {"id": "34230", "link": "/find?type=1&query=fasciated", "word": "fasciated"}], "data": {"word": "fascia", "id": "34230", "pronounce": "/'fei\u222b\u0259/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(nh\u01b0 facia)</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=facia\">facia</a></span></div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/020e6b22e3ea2714edf48e9396625579/16e5e203ace/F/fascia.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a43ca1bfec769bd7bc9052fa7b28251a/16e5e204093/F/fascia.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "fascia", "id": "10328", "pronounce": "/\u02c8fe\u026a\u0283ij\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cias</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :a long, thin board that covers the area where a wall joins a roof - called also fascia board</div>\n    \n    <div class=\"green margin25 m-top15\">/\u02c8f\u00e6\u0283ij\u0259/ medical :a sheet of tissue that covers or connects parts inside the body (such as muscles)</div>\n    \n    <div class=\"green margin25 m-top15\">also facia /\u02c8fe\u026a\u0283\u0259/ Brit :dashboard</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cias</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :a long, thin board that covers the area where a wall joins a roof - called also fascia board</div>\n    \n    <div class=\"green margin25 m-top15\">/\u02c8f\u00e6\u0283ij\u0259/ medical :a sheet of tissue that covers or connects parts inside the body (such as muscles)</div>\n    \n    <div class=\"green margin25 m-top15\">also facia /\u02c8fe\u026a\u0283\u0259/ Brit :dashboard</div>",
+            "id": "10328",
+            "mean": [],
+            "pronounce": "/\u02c8fe\u026a\u0283ij\u0259/",
+            "type": "noun",
+            "word": "fascia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(nh\u01b0 facia)</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=facia\">facia</a></span></div>",
+            "id": "34230",
+            "mean": [],
+            "pronounce": "/'fei\u222b\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/876ac69ded6ffeb6dcd884712d82ca7f/16e601f8cd5/F/fascia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7d0f7ec7c51ac4d999819e2e97c9ea4c/16e601f84f0/F/fascia.mp3"
+            },
+            "type": "",
+            "word": "fascia"
+        },
+        "suggests": [
+            {
+                "id": "34230",
+                "link": "/find?type=1&query=fasciae",
+                "word": "fasciae"
+            },
+            {
+                "id": "34230",
+                "link": "/find?type=1&query=fascial",
+                "word": "fascial"
+            },
+            {
+                "id": "34230",
+                "link": "/find?type=1&query=fasciated",
+                "word": "fasciated"
+            }
+        ]
+    }
+}
