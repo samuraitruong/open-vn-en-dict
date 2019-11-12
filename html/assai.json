@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "6022", "link": "/find?type=1&query=assail", "word": "assail"}, {"id": "6023", "link": "/find?type=1&query=assailable", "word": "assailable"}, {"id": "6024", "link": "/find?type=1&query=assailableness", "word": "assailableness"}, {"id": "6025", "link": "/find?type=1&query=assailant", "word": "assailant"}, {"id": "6026", "link": "/find?type=1&query=assailer", "word": "assailer"}, {"id": "6027", "link": "/find?type=1&query=assailment", "word": "assailment"}], "data": {}}, "en_en": {"suggests": [{"id": "1457", "link": "/find?type=3&query=assail", "word": "assail"}, {"id": "1458", "link": "/find?type=3&query=assailant", "word": "assailant"}], "data": {}}, "synonyms": {"suggests": [{"id": "338", "link": "/find?type=4&query=assailant", "word": "assailant"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1457",
+                "link": "/find?type=3&query=assail",
+                "word": "assail"
+            },
+            {
+                "id": "1458",
+                "link": "/find?type=3&query=assailant",
+                "word": "assailant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6022",
+                "link": "/find?type=1&query=assail",
+                "word": "assail"
+            },
+            {
+                "id": "6023",
+                "link": "/find?type=1&query=assailable",
+                "word": "assailable"
+            },
+            {
+                "id": "6024",
+                "link": "/find?type=1&query=assailableness",
+                "word": "assailableness"
+            },
+            {
+                "id": "6025",
+                "link": "/find?type=1&query=assailant",
+                "word": "assailant"
+            },
+            {
+                "id": "6026",
+                "link": "/find?type=1&query=assailer",
+                "word": "assailer"
+            },
+            {
+                "id": "6027",
+                "link": "/find?type=1&query=assailment",
+                "word": "assailment"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "338",
+                "link": "/find?type=4&query=assailant",
+                "word": "assailant"
+            }
+        ]
+    }
+}

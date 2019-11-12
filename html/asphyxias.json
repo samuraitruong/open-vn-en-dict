@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "5997", "link": "/find?type=1&query=asphyxiant", "word": "asphyxiant"}, {"id": "5997", "link": "/find?type=1&query=asphyxiate", "word": "asphyxiate"}, {"id": "5997", "link": "/find?type=1&query=asphyxiation", "word": "asphyxiation"}, {"id": "5997", "link": "/find?type=1&query=asphyxiator", "word": "asphyxiator"}], "data": {"word": "asphyxia", "id": "5997", "pronounce": "/\u0259s'fiksi\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ng\u1ea1t, s\u1ef1 ngh\u1eb9t th\u1edf</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4914416b433ca0130cf6ec9427dbc6b3/16e5dcb6ee9/A/asphyxia.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/1751cfcae0a354ada400b938b381004a/16e5dcb74da/A/asphyxia.mp3"}}}, "en_en": {"suggests": [{"id": "1448", "link": "/find?type=3&query=asphyxiate", "word": "asphyxiate"}], "data": {"word": "asphyxia", "id": "1448", "pronounce": "/\u00e6s\u02c8f\u026aksij\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :the state of not being able to breathe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The cause of death was asphyxia.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :the state of not being able to breathe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The cause of death was asphyxia.</div>",
+            "id": "1448",
+            "mean": [],
+            "pronounce": "/\u00e6s\u02c8f\u026aksij\u0259/",
+            "type": "noun",
+            "word": "asphyxia"
+        },
+        "suggests": [
+            {
+                "id": "1448",
+                "link": "/find?type=3&query=asphyxiate",
+                "word": "asphyxiate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ng\u1ea1t, s\u1ef1 ngh\u1eb9t th\u1edf</div>",
+            "id": "5997",
+            "mean": [],
+            "pronounce": "/\u0259s'fiksi\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b84c3a7824a7982a50dea6d54a143926/16e5eae9eba/A/asphyxia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/18a8343f15f89e75399011d9393d291f/16e5eae98ca/A/asphyxia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "asphyxia"
+        },
+        "suggests": [
+            {
+                "id": "5997",
+                "link": "/find?type=1&query=asphyxiant",
+                "word": "asphyxiant"
+            },
+            {
+                "id": "5997",
+                "link": "/find?type=1&query=asphyxiate",
+                "word": "asphyxiate"
+            },
+            {
+                "id": "5997",
+                "link": "/find?type=1&query=asphyxiation",
+                "word": "asphyxiation"
+            },
+            {
+                "id": "5997",
+                "link": "/find?type=1&query=asphyxiator",
+                "word": "asphyxiator"
+            }
+        ]
+    }
+}

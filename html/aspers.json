@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "5987", "link": "/find?type=1&query=asperse", "word": "asperse"}, {"id": "5988", "link": "/find?type=1&query=aspersion", "word": "aspersion"}, {"id": "5989", "link": "/find?type=1&query=aspersions", "word": "aspersions"}, {"id": "5990", "link": "/find?type=1&query=aspersive", "word": "aspersive"}, {"id": "5991", "link": "/find?type=1&query=aspersorium", "word": "aspersorium"}, {"id": "5992", "link": "/find?type=1&query=aspersory", "word": "aspersory"}], "data": {}}, "en_en": {"suggests": [{"id": "1446", "link": "/find?type=3&query=aspersions", "word": "aspersions"}], "data": {}}, "synonyms": {"suggests": [{"id": "335", "link": "/find?type=4&query=aspersion", "word": "aspersion"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1446",
+                "link": "/find?type=3&query=aspersions",
+                "word": "aspersions"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5987",
+                "link": "/find?type=1&query=asperse",
+                "word": "asperse"
+            },
+            {
+                "id": "5988",
+                "link": "/find?type=1&query=aspersion",
+                "word": "aspersion"
+            },
+            {
+                "id": "5989",
+                "link": "/find?type=1&query=aspersions",
+                "word": "aspersions"
+            },
+            {
+                "id": "5990",
+                "link": "/find?type=1&query=aspersive",
+                "word": "aspersive"
+            },
+            {
+                "id": "5991",
+                "link": "/find?type=1&query=aspersorium",
+                "word": "aspersorium"
+            },
+            {
+                "id": "5992",
+                "link": "/find?type=1&query=aspersory",
+                "word": "aspersory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "335",
+                "link": "/find?type=4&query=aspersion",
+                "word": "aspersion"
+            }
+        ]
+    }
+}

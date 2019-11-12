@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "5918", "link": "/find?type=1&query=aseptically", "word": "aseptically"}, {"id": "5918", "link": "/find?type=1&query=asepticism", "word": "asepticism"}], "data": {"word": "aseptic", "id": "5918", "pronounce": "/,ei'septik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f4 khu\u1ea9n (v\u1ebft th\u01b0\u01a1ng, b\u0103ng b\u00f3 \u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/18763e5d637937396b709431d0c5a897/16e5dcb1ca9/A/aseptic.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d11a43fc77e5c7ee9bd1015051fd45f2/16e5dcb228b/A/aseptic.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "aseptic", "id": "1419", "pronounce": "/e\u026a\u02c8s\u025bpt\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] medical :free from germs that cause disease</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an aseptic wound</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] medical :free from germs that cause disease</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an aseptic wound</div>",
+            "id": "1419",
+            "mean": [],
+            "pronounce": "/e\u026a\u02c8s\u025bpt\u026ak/",
+            "type": "adjective",
+            "word": "aseptic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f4 khu\u1ea9n (v\u1ebft th\u01b0\u01a1ng, b\u0103ng b\u00f3 \u2026)</div>",
+            "id": "5918",
+            "mean": [],
+            "pronounce": "/,ei'septik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/64aac62248965acc73106853fd6419f9/16e5eae4e3d/A/aseptic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/eab0723731e50fe04ab0e03672038423/16e5eae48d2/A/aseptic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "aseptic"
+        },
+        "suggests": [
+            {
+                "id": "5918",
+                "link": "/find?type=1&query=aseptically",
+                "word": "aseptically"
+            },
+            {
+                "id": "5918",
+                "link": "/find?type=1&query=asepticism",
+                "word": "asepticism"
+            }
+        ]
+    }
+}

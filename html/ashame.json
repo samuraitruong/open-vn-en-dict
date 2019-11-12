@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "5940", "link": "/find?type=1&query=ashamed", "word": "ashamed"}], "data": {}}, "en_en": {"suggests": [{"id": "1424", "link": "/find?type=3&query=ashamed", "word": "ashamed"}], "data": {}}, "synonyms": {"suggests": [{"id": "332", "link": "/find?type=4&query=ashamed", "word": "ashamed"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1424",
+                "link": "/find?type=3&query=ashamed",
+                "word": "ashamed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5940",
+                "link": "/find?type=1&query=ashamed",
+                "word": "ashamed"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "332",
+                "link": "/find?type=4&query=ashamed",
+                "word": "ashamed"
+            }
+        ]
+    }
+}

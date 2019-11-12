@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "5968", "link": "/find?type=1&query=asking+price", "word": "asking price"}], "data": {}}, "en_en": {"suggests": [{"id": "1438", "link": "/find?type=3&query=asking+price", "word": "asking price"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1438",
+                "link": "/find?type=3&query=asking+price",
+                "word": "asking price"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5968",
+                "link": "/find?type=1&query=asking+price",
+                "word": "asking price"
+            }
+        ]
+    }
+}
