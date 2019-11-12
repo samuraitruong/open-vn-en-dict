@@ -113,8 +113,8 @@ def getWord(word):
     return html("#column-content").html()
 
 
-# pprint.pprint(getWordFromLaban("abbr"))
-# exit()
+ pprint.pprint(getWordFromLaban("agromania"))
+ exit()
 words = getWordList()
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
