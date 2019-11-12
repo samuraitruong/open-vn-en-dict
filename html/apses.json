@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "5196", "link": "/find?type=1&query=apse%28apsis%29", "word": "apse(apsis)"}], "data": {"word": "apse", "id": "5196", "pronounce": "/\u00e6ps/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1eadu cung (nh\u00e0 th\u1edd)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7bdc51c08e7268a2663ae078df1ccb86/16e5dc8904b/A/apse.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/21910ba905fcda809541d3063cd0e014/16e5dc89600/A/apse.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "apse", "id": "1222", "pronounce": "/\u02c8\u00e6ps/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural apses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a part of a church that is shaped like a half circle and that is usually at the east end of the building</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural apses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a part of a church that is shaped like a half circle and that is usually at the east end of the building</div>",
+            "id": "1222",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6ps/",
+            "type": "noun",
+            "word": "apse"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1eadu cung (nh\u00e0 th\u1edd)</div>",
+            "id": "5196",
+            "mean": [],
+            "pronounce": "/\u00e6ps/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a92be178b9e6f46dcb5dbb969814f694/16e5eabef37/A/apse.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/38af4a478e0e351d4fa5e7a044c05f13/16e5eabe9b8/A/apse.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "apse"
+        },
+        "suggests": [
+            {
+                "id": "5196",
+                "link": "/find?type=1&query=apse%28apsis%29",
+                "word": "apse(apsis)"
+            }
+        ]
+    }
+}

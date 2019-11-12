@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "5359", "link": "/find?type=1&query=archaic", "word": "archaic"}, {"id": "5360", "link": "/find?type=1&query=archaically", "word": "archaically"}, {"id": "5361", "link": "/find?type=1&query=archaise", "word": "archaise"}, {"id": "5362", "link": "/find?type=1&query=archaism", "word": "archaism"}, {"id": "5363", "link": "/find?type=1&query=archaist", "word": "archaist"}, {"id": "5364", "link": "/find?type=1&query=archaistic", "word": "archaistic"}, {"id": "5365", "link": "/find?type=1&query=archaize", "word": "archaize"}, {"id": "5366", "link": "/find?type=1&query=archaizer", "word": "archaizer"}], "data": {}}, "en_en": {"suggests": [{"id": "1262", "link": "/find?type=3&query=archaic", "word": "archaic"}, {"id": "1263", "link": "/find?type=3&query=archaism", "word": "archaism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1262",
+                "link": "/find?type=3&query=archaic",
+                "word": "archaic"
+            },
+            {
+                "id": "1263",
+                "link": "/find?type=3&query=archaism",
+                "word": "archaism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5359",
+                "link": "/find?type=1&query=archaic",
+                "word": "archaic"
+            },
+            {
+                "id": "5360",
+                "link": "/find?type=1&query=archaically",
+                "word": "archaically"
+            },
+            {
+                "id": "5361",
+                "link": "/find?type=1&query=archaise",
+                "word": "archaise"
+            },
+            {
+                "id": "5362",
+                "link": "/find?type=1&query=archaism",
+                "word": "archaism"
+            },
+            {
+                "id": "5363",
+                "link": "/find?type=1&query=archaist",
+                "word": "archaist"
+            },
+            {
+                "id": "5364",
+                "link": "/find?type=1&query=archaistic",
+                "word": "archaistic"
+            },
+            {
+                "id": "5365",
+                "link": "/find?type=1&query=archaize",
+                "word": "archaize"
+            },
+            {
+                "id": "5366",
+                "link": "/find?type=1&query=archaizer",
+                "word": "archaizer"
+            }
+        ]
+    }
+}

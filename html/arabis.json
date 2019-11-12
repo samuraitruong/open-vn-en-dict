@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "5260", "link": "/find?type=1&query=Arabist", "word": "Arabist"}], "data": {}}, "en_en": {"suggests": [{"id": "1240", "link": "/find?type=3&query=Arabian", "word": "Arabian"}, {"id": "1241", "link": "/find?type=3&query=Arabian+horse", "word": "Arabian horse"}, {"id": "1242", "link": "/find?type=3&query=Arabic", "word": "Arabic"}, {"id": "1243", "link": "/find?type=3&query=Arabic+numeral", "word": "Arabic numeral"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1240",
+                "link": "/find?type=3&query=Arabian",
+                "word": "Arabian"
+            },
+            {
+                "id": "1241",
+                "link": "/find?type=3&query=Arabian+horse",
+                "word": "Arabian horse"
+            },
+            {
+                "id": "1242",
+                "link": "/find?type=3&query=Arabic",
+                "word": "Arabic"
+            },
+            {
+                "id": "1243",
+                "link": "/find?type=3&query=Arabic+numeral",
+                "word": "Arabic numeral"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5260",
+                "link": "/find?type=1&query=Arabist",
+                "word": "Arabist"
+            }
+        ]
+    }
+}

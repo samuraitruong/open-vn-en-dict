@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "5255", "link": "/find?type=1&query=Arabian", "word": "Arabian"}], "data": {}}, "en_en": {"suggests": [{"id": "1240", "link": "/find?type=3&query=Arabian", "word": "Arabian"}, {"id": "1241", "link": "/find?type=3&query=Arabian+horse", "word": "Arabian horse"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1240",
+                "link": "/find?type=3&query=Arabian",
+                "word": "Arabian"
+            },
+            {
+                "id": "1241",
+                "link": "/find?type=3&query=Arabian+horse",
+                "word": "Arabian horse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5255",
+                "link": "/find?type=1&query=Arabian",
+                "word": "Arabian"
+            }
+        ]
+    }
+}

@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "5172", "link": "/find?type=1&query=approximability", "word": "approximability"}, {"id": "5172", "link": "/find?type=1&query=approximate", "word": "approximate"}, {"id": "5172", "link": "/find?type=1&query=approximate+reasoning", "word": "approximate reasoning"}, {"id": "5172", "link": "/find?type=1&query=approximate+value", "word": "approximate value"}, {"id": "5172", "link": "/find?type=1&query=approximately", "word": "approximately"}, {"id": "5172", "link": "/find?type=1&query=approximation", "word": "approximation"}, {"id": "5172", "link": "/find?type=1&query=approximative", "word": "approximative"}, {"id": "5172", "link": "/find?type=1&query=approximatively", "word": "approximatively"}], "data": {"word": "approx", "id": "5172", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a approximately)</div>\n    \n    <div class=\"green margin25 m-top15\">g\u1ea7n, kho\u1ea3ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1207", "link": "/find?type=3&query=approx.", "word": "approx."}, {"id": "1208", "link": "/find?type=3&query=approximate", "word": "approximate"}, {"id": "1209", "link": "/find?type=3&query=approximation", "word": "approximation"}], "data": {}}, "synonyms": {"suggests": [{"id": "302", "link": "/find?type=4&query=approximate", "word": "approximate"}, {"id": "303", "link": "/find?type=4&query=approximately", "word": "approximately"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1207",
+                "link": "/find?type=3&query=approx.",
+                "word": "approx."
+            },
+            {
+                "id": "1208",
+                "link": "/find?type=3&query=approximate",
+                "word": "approximate"
+            },
+            {
+                "id": "1209",
+                "link": "/find?type=3&query=approximation",
+                "word": "approximation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a approximately)</div>\n    \n    <div class=\"green margin25 m-top15\">g\u1ea7n, kho\u1ea3ng</div>",
+            "id": "5172",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "approx"
+        },
+        "suggests": [
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximability",
+                "word": "approximability"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximate",
+                "word": "approximate"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximate+reasoning",
+                "word": "approximate reasoning"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximate+value",
+                "word": "approximate value"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximately",
+                "word": "approximately"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximation",
+                "word": "approximation"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximative",
+                "word": "approximative"
+            },
+            {
+                "id": "5172",
+                "link": "/find?type=1&query=approximatively",
+                "word": "approximatively"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "302",
+                "link": "/find?type=4&query=approximate",
+                "word": "approximate"
+            },
+            {
+                "id": "303",
+                "link": "/find?type=4&query=approximately",
+                "word": "approximately"
+            }
+        ]
+    }
+}

@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "5334", "link": "/find?type=1&query=arcade", "word": "arcade"}, {"id": "5335", "link": "/find?type=1&query=arcade+game", "word": "arcade game"}, {"id": "5336", "link": "/find?type=1&query=Arcadia", "word": "Arcadia"}, {"id": "5337", "link": "/find?type=1&query=arcadian", "word": "arcadian"}, {"id": "5338", "link": "/find?type=1&query=arcading", "word": "arcading"}, {"id": "5339", "link": "/find?type=1&query=arcady", "word": "arcady"}, {"id": "5340", "link": "/find?type=1&query=arcana", "word": "arcana"}, {"id": "5341", "link": "/find?type=1&query=arcane", "word": "arcane"}, {"id": "5342", "link": "/find?type=1&query=arcanum", "word": "arcanum"}], "data": {}}, "en_en": {"suggests": [{"id": "1256", "link": "/find?type=3&query=arcade", "word": "arcade"}, {"id": "1257", "link": "/find?type=3&query=arcadia", "word": "arcadia"}, {"id": "1258", "link": "/find?type=3&query=arcane", "word": "arcane"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1256",
+                "link": "/find?type=3&query=arcade",
+                "word": "arcade"
+            },
+            {
+                "id": "1257",
+                "link": "/find?type=3&query=arcadia",
+                "word": "arcadia"
+            },
+            {
+                "id": "1258",
+                "link": "/find?type=3&query=arcane",
+                "word": "arcane"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5334",
+                "link": "/find?type=1&query=arcade",
+                "word": "arcade"
+            },
+            {
+                "id": "5335",
+                "link": "/find?type=1&query=arcade+game",
+                "word": "arcade game"
+            },
+            {
+                "id": "5336",
+                "link": "/find?type=1&query=Arcadia",
+                "word": "Arcadia"
+            },
+            {
+                "id": "5337",
+                "link": "/find?type=1&query=arcadian",
+                "word": "arcadian"
+            },
+            {
+                "id": "5338",
+                "link": "/find?type=1&query=arcading",
+                "word": "arcading"
+            },
+            {
+                "id": "5339",
+                "link": "/find?type=1&query=arcady",
+                "word": "arcady"
+            },
+            {
+                "id": "5340",
+                "link": "/find?type=1&query=arcana",
+                "word": "arcana"
+            },
+            {
+                "id": "5341",
+                "link": "/find?type=1&query=arcane",
+                "word": "arcane"
+            },
+            {
+                "id": "5342",
+                "link": "/find?type=1&query=arcanum",
+                "word": "arcanum"
+            }
+        ]
+    }
+}
