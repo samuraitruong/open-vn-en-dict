@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "2295", "link": "/find?type=1&query=airless", "word": "airless"}, {"id": "2296", "link": "/find?type=1&query=airlessness", "word": "airlessness"}], "data": {}}, "en_en": {"suggests": [{"id": "593", "link": "/find?type=3&query=airlift", "word": "airlift"}, {"id": "594", "link": "/find?type=3&query=airline", "word": "airline"}, {"id": "595", "link": "/find?type=3&query=airliner", "word": "airliner"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "593",
+                "link": "/find?type=3&query=airlift",
+                "word": "airlift"
+            },
+            {
+                "id": "594",
+                "link": "/find?type=3&query=airline",
+                "word": "airline"
+            },
+            {
+                "id": "595",
+                "link": "/find?type=3&query=airliner",
+                "word": "airliner"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2295",
+                "link": "/find?type=1&query=airless",
+                "word": "airless"
+            },
+            {
+                "id": "2296",
+                "link": "/find?type=1&query=airlessness",
+                "word": "airlessness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2176", "link": "/find?type=1&query=aileron", "word": "aileron"}], "data": {}}, "en_en": {"suggests": [{"id": "557", "link": "/find?type=3&query=aileron", "word": "aileron"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "557",
+                "link": "/find?type=3&query=aileron",
+                "word": "aileron"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2176",
+                "link": "/find?type=1&query=aileron",
+                "word": "aileron"
+            }
+        ]
+    }
+}

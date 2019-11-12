@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "2305", "link": "/find?type=1&query=airportable", "word": "airportable"}], "data": {"word": "airport", "id": "2305", "pronounce": "/'e\u0259p\u0254t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e2n bay</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b69c48830073c7541280fc5d52483150/16e5dbf1201/A/airport.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/1625763dcebe2bd70567864faca7797e/16e5dbf182e/A/airport.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "airport", "id": "600", "pronounce": "/\u02c8e\u025a\u02ccpo\u025at/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ports</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a place where aircraft land and take off and where there are buildings for passengers to wait in and for aircraft to be sheltered</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ports</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a place where aircraft land and take off and where there are buildings for passengers to wait in and for aircraft to be sheltered</div>",
+            "id": "600",
+            "mean": [],
+            "pronounce": "/\u02c8e\u025a\u02ccpo\u025at/",
+            "type": "noun",
+            "word": "airport"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e2n bay</div>",
+            "id": "2305",
+            "mean": [],
+            "pronounce": "/'e\u0259p\u0254t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b55f1592bc3b1758198df8e25336efdc/16e5ea3bd47/A/airport.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c8ff7558215ab4e77c63bb5ea231b298/16e5ea3b833/A/airport.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "airport"
+        },
+        "suggests": [
+            {
+                "id": "2305",
+                "link": "/find?type=1&query=airportable",
+                "word": "airportable"
+            }
+        ]
+    }
+}
