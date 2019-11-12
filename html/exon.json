@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "33010", "link": "/find?type=1&query=exonerate", "word": "exonerate"}, {"id": "33010", "link": "/find?type=1&query=exoneration", "word": "exoneration"}, {"id": "33010", "link": "/find?type=1&query=exonerative", "word": "exonerative"}, {"id": "33010", "link": "/find?type=1&query=exonerator", "word": "exonerator"}, {"id": "33010", "link": "/find?type=1&query=exonic", "word": "exonic"}], "data": {"word": "exon", "id": "33010", "pronounce": "/'eks\u0254n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1eed h\u1ecdc) (nh\u01b0) exempt</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9997", "link": "/find?type=3&query=exonerate", "word": "exonerate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9997",
+                "link": "/find?type=3&query=exonerate",
+                "word": "exonerate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1eed h\u1ecdc) (nh\u01b0) exempt</div>",
+            "id": "33010",
+            "mean": [],
+            "pronounce": "/'eks\u0254n/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "exon"
+        },
+        "suggests": [
+            {
+                "id": "33010",
+                "link": "/find?type=1&query=exonerate",
+                "word": "exonerate"
+            },
+            {
+                "id": "33010",
+                "link": "/find?type=1&query=exoneration",
+                "word": "exoneration"
+            },
+            {
+                "id": "33010",
+                "link": "/find?type=1&query=exonerative",
+                "word": "exonerative"
+            },
+            {
+                "id": "33010",
+                "link": "/find?type=1&query=exonerator",
+                "word": "exonerator"
+            },
+            {
+                "id": "33010",
+                "link": "/find?type=1&query=exonic",
+                "word": "exonic"
+            }
+        ]
+    }
+}
