@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "32753", "link": "/find?type=1&query=exclamation", "word": "exclamation"}, {"id": "32754", "link": "/find?type=1&query=exclamation+mark", "word": "exclamation mark"}, {"id": "32755", "link": "/find?type=1&query=exclamative", "word": "exclamative"}, {"id": "32756", "link": "/find?type=1&query=exclamatively", "word": "exclamatively"}, {"id": "32757", "link": "/find?type=1&query=exclamatorily", "word": "exclamatorily"}, {"id": "32758", "link": "/find?type=1&query=exclamatory", "word": "exclamatory"}], "data": {}}, "en_en": {"suggests": [{"id": "9943", "link": "/find?type=3&query=exclamation", "word": "exclamation"}, {"id": "9944", "link": "/find?type=3&query=exclamation+point", "word": "exclamation point"}], "data": {}}, "synonyms": {"suggests": [{"id": "2338", "link": "/find?type=4&query=exclamation", "word": "exclamation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9943",
+                "link": "/find?type=3&query=exclamation",
+                "word": "exclamation"
+            },
+            {
+                "id": "9944",
+                "link": "/find?type=3&query=exclamation+point",
+                "word": "exclamation point"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32753",
+                "link": "/find?type=1&query=exclamation",
+                "word": "exclamation"
+            },
+            {
+                "id": "32754",
+                "link": "/find?type=1&query=exclamation+mark",
+                "word": "exclamation mark"
+            },
+            {
+                "id": "32755",
+                "link": "/find?type=1&query=exclamative",
+                "word": "exclamative"
+            },
+            {
+                "id": "32756",
+                "link": "/find?type=1&query=exclamatively",
+                "word": "exclamatively"
+            },
+            {
+                "id": "32757",
+                "link": "/find?type=1&query=exclamatorily",
+                "word": "exclamatorily"
+            },
+            {
+                "id": "32758",
+                "link": "/find?type=1&query=exclamatory",
+                "word": "exclamatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2338",
+                "link": "/find?type=4&query=exclamation",
+                "word": "exclamation"
+            }
+        ]
+    }
+}
