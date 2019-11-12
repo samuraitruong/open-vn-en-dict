@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [], "data": {"word": "cathedral", "id": "13725", "pronounce": "/k\u0259'\u03b8i:dr\u0259l/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 th\u1edd l\u1edbn</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5bbba629a55a5f512c4935e23f3293a4/16e5de5587d/C/cathedral.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7f5fa59c715605bcc7262b865d256c33/16e5de55e48/C/cathedral.mp3"}}}, "en_en": {"suggests": [{"id": "4300", "link": "/find?type=3&query=cathedral+ceiling", "word": "cathedral ceiling"}], "data": {"word": "cathedral", "id": "4300", "pronounce": "/k\u0259\u02c8\u0275i\u02d0dr\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -drals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the main church of an area that is headed by a bishop</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -drals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the main church of an area that is headed by a bishop</div>",
+            "id": "4300",
+            "mean": [],
+            "pronounce": "/k\u0259\u02c8\u0275i\u02d0dr\u0259l/",
+            "type": "noun",
+            "word": "cathedral"
+        },
+        "suggests": [
+            {
+                "id": "4300",
+                "link": "/find?type=3&query=cathedral+ceiling",
+                "word": "cathedral ceiling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 th\u1edd l\u1edbn</div>",
+            "id": "13725",
+            "mean": [],
+            "pronounce": "/k\u0259'\u03b8i:dr\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4551e1f054f7d91d22923bd598660a47/16e5ec62fdb/C/cathedral.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bd1e57f1edc6f5d0ac53c38bd6a28f32/16e5ec62acf/C/cathedral.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cathedral"
+        },
+        "suggests": []
+    }
+}

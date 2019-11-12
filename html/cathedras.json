@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "13724", "link": "/find?type=1&query=cathedral", "word": "cathedral"}], "data": {"word": "cathedra", "id": "13724", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 ng\u1ed3i c\u1ee7a \u00f4ng gi\u00e1m m\u1ee5c</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4300", "link": "/find?type=3&query=cathedral", "word": "cathedral"}, {"id": "4301", "link": "/find?type=3&query=cathedral+ceiling", "word": "cathedral ceiling"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4300",
+                "link": "/find?type=3&query=cathedral",
+                "word": "cathedral"
+            },
+            {
+                "id": "4301",
+                "link": "/find?type=3&query=cathedral+ceiling",
+                "word": "cathedral ceiling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 ng\u1ed3i c\u1ee7a \u00f4ng gi\u00e1m m\u1ee5c</div>",
+            "id": "13724",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "cathedra"
+        },
+        "suggests": [
+            {
+                "id": "13724",
+                "link": "/find?type=1&query=cathedral",
+                "word": "cathedral"
+            }
+        ]
+    }
+}

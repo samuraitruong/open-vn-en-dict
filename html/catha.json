@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "13718", "link": "/find?type=1&query=cathamplifier", "word": "cathamplifier"}, {"id": "13719", "link": "/find?type=1&query=catharsis", "word": "catharsis"}, {"id": "13720", "link": "/find?type=1&query=catharsises", "word": "catharsises"}, {"id": "13721", "link": "/find?type=1&query=cathartic", "word": "cathartic"}, {"id": "13722", "link": "/find?type=1&query=cathay", "word": "cathay"}], "data": {}}, "en_en": {"suggests": [{"id": "4299", "link": "/find?type=3&query=catharsis", "word": "catharsis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4299",
+                "link": "/find?type=3&query=catharsis",
+                "word": "catharsis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13718",
+                "link": "/find?type=1&query=cathamplifier",
+                "word": "cathamplifier"
+            },
+            {
+                "id": "13719",
+                "link": "/find?type=1&query=catharsis",
+                "word": "catharsis"
+            },
+            {
+                "id": "13720",
+                "link": "/find?type=1&query=catharsises",
+                "word": "catharsises"
+            },
+            {
+                "id": "13721",
+                "link": "/find?type=1&query=cathartic",
+                "word": "cathartic"
+            },
+            {
+                "id": "13722",
+                "link": "/find?type=1&query=cathay",
+                "word": "cathay"
+            }
+        ]
+    }
+}
