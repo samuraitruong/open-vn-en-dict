@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [], "data": {"word": "descry", "id": "24395", "pronounce": "/dis'krai/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(descried)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00ecn th\u1ea5y, ph\u00e1t hi\u1ec7n t\u1eeb xa</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I descry a sail on the horizon</div>\n    \n    <div class=\"margin25\">t\u00f4i ph\u00e1t hi\u1ec7n m\u1ed9t c\u00e1nh bu\u1ed3m \u1edf t\u1eadn ch\u00e2n tr\u1eddi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7748", "link": "/find?type=3&query=describe", "word": "describe"}, {"id": "7749", "link": "/find?type=3&query=description", "word": "description"}, {"id": "7750", "link": "/find?type=3&query=descriptive", "word": "descriptive"}], "data": {}}, "synonyms": {"suggests": [{"id": "1566", "link": "/find?type=4&query=describe", "word": "describe"}, {"id": "1567", "link": "/find?type=4&query=description", "word": "description"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7748",
+                "link": "/find?type=3&query=describe",
+                "word": "describe"
+            },
+            {
+                "id": "7749",
+                "link": "/find?type=3&query=description",
+                "word": "description"
+            },
+            {
+                "id": "7750",
+                "link": "/find?type=3&query=descriptive",
+                "word": "descriptive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(descried)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00ecn th\u1ea5y, ph\u00e1t hi\u1ec7n t\u1eeb xa</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I descry a sail on the horizon</div>\n    \n    <div class=\"margin25\">t\u00f4i ph\u00e1t hi\u1ec7n m\u1ed9t c\u00e1nh bu\u1ed3m \u1edf t\u1eadn ch\u00e2n tr\u1eddi</div>",
+            "id": "24395",
+            "mean": [],
+            "pronounce": "/dis'krai/",
+            "speak": {},
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "descry"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1566",
+                "link": "/find?type=4&query=describe",
+                "word": "describe"
+            },
+            {
+                "id": "1567",
+                "link": "/find?type=4&query=description",
+                "word": "description"
+            }
+        ]
+    }
+}

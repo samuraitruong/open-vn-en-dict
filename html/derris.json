@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [], "data": {"word": "derris", "id": "24364", "pronounce": "/'deris/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) gi\u1ed1ng c\u00e2y d\u00e2y m\u1eadt</div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) d\u00e2y m\u1eadt (ch\u1ebf t\u1eeb c\u00e2y d\u00e2y m\u1eadt, d\u00f9ng tr\u1eeb s\u00e2u)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7738", "link": "/find?type=3&query=derrick", "word": "derrick"}, {"id": "7739", "link": "/find?type=3&query=derriere", "word": "derriere"}, {"id": "7740", "link": "/find?type=3&query=derring-do", "word": "derring-do"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7738",
+                "link": "/find?type=3&query=derrick",
+                "word": "derrick"
+            },
+            {
+                "id": "7739",
+                "link": "/find?type=3&query=derriere",
+                "word": "derriere"
+            },
+            {
+                "id": "7740",
+                "link": "/find?type=3&query=derring-do",
+                "word": "derring-do"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt h\u1ecdc) gi\u1ed1ng c\u00e2y d\u00e2y m\u1eadt</div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) d\u00e2y m\u1eadt (ch\u1ebf t\u1eeb c\u00e2y d\u00e2y m\u1eadt, d\u00f9ng tr\u1eeb s\u00e2u)</div>",
+            "id": "24364",
+            "mean": [],
+            "pronounce": "/'deris/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "derris"
+        },
+        "suggests": []
+    }
+}

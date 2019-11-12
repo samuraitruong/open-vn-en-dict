@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "24336", "link": "/find?type=1&query=dermal", "word": "dermal"}, {"id": "24336", "link": "/find?type=1&query=dermatic", "word": "dermatic"}, {"id": "24336", "link": "/find?type=1&query=dermatitis", "word": "dermatitis"}, {"id": "24336", "link": "/find?type=1&query=dermatoglyphic", "word": "dermatoglyphic"}, {"id": "24336", "link": "/find?type=1&query=dermatoglyphics", "word": "dermatoglyphics"}, {"id": "24336", "link": "/find?type=1&query=dermatoid", "word": "dermatoid"}, {"id": "24336", "link": "/find?type=1&query=dermatological", "word": "dermatological"}, {"id": "24336", "link": "/find?type=1&query=dermatologist", "word": "dermatologist"}, {"id": "24336", "link": "/find?type=1&query=dermatology", "word": "dermatology"}], "data": {"word": "derma", "id": "24336", "pronounce": "/'d\u0259:m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) da</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7734", "link": "/find?type=3&query=dermatitis", "word": "dermatitis"}, {"id": "7735", "link": "/find?type=3&query=dermatology", "word": "dermatology"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7734",
+                "link": "/find?type=3&query=dermatitis",
+                "word": "dermatitis"
+            },
+            {
+                "id": "7735",
+                "link": "/find?type=3&query=dermatology",
+                "word": "dermatology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) da</div>",
+            "id": "24336",
+            "mean": [],
+            "pronounce": "/'d\u0259:m/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "derma"
+        },
+        "suggests": [
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermal",
+                "word": "dermal"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatic",
+                "word": "dermatic"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatitis",
+                "word": "dermatitis"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatoglyphic",
+                "word": "dermatoglyphic"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatoglyphics",
+                "word": "dermatoglyphics"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatoid",
+                "word": "dermatoid"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatological",
+                "word": "dermatological"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatologist",
+                "word": "dermatologist"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=1&query=dermatology",
+                "word": "dermatology"
+            }
+        ]
+    }
+}

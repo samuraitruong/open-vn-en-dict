@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "24357", "link": "/find?type=1&query=derogatorily", "word": "derogatorily"}, {"id": "24358", "link": "/find?type=1&query=derogatoriness", "word": "derogatoriness"}, {"id": "24359", "link": "/find?type=1&query=derogatory", "word": "derogatory"}], "data": {}}, "en_en": {"suggests": [{"id": "7737", "link": "/find?type=3&query=derogatory", "word": "derogatory"}], "data": {}}, "synonyms": {"suggests": [{"id": "1563", "link": "/find?type=4&query=derogatory", "word": "derogatory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7737",
+                "link": "/find?type=3&query=derogatory",
+                "word": "derogatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24357",
+                "link": "/find?type=1&query=derogatorily",
+                "word": "derogatorily"
+            },
+            {
+                "id": "24358",
+                "link": "/find?type=1&query=derogatoriness",
+                "word": "derogatoriness"
+            },
+            {
+                "id": "24359",
+                "link": "/find?type=1&query=derogatory",
+                "word": "derogatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1563",
+                "link": "/find?type=4&query=derogatory",
+                "word": "derogatory"
+            }
+        ]
+    }
+}
