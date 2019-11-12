@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "25666", "link": "/find?type=1&query=dipping-needle", "word": "dipping-needle"}], "data": {}}, "en_en": {"suggests": [{"id": "8059", "link": "/find?type=3&query=dipso", "word": "dipso"}, {"id": "8060", "link": "/find?type=3&query=dipsomaniac", "word": "dipsomaniac"}, {"id": "8061", "link": "/find?type=3&query=dipstick", "word": "dipstick"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8059",
+                "link": "/find?type=3&query=dipso",
+                "word": "dipso"
+            },
+            {
+                "id": "8060",
+                "link": "/find?type=3&query=dipsomaniac",
+                "word": "dipsomaniac"
+            },
+            {
+                "id": "8061",
+                "link": "/find?type=3&query=dipstick",
+                "word": "dipstick"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25666",
+                "link": "/find?type=1&query=dipping-needle",
+                "word": "dipping-needle"
+            }
+        ]
+    }
+}

@@ -1,1 +1,64 @@
-{"en_vn": {"suggests": [], "data": {"word": "diploe", "id": "25633", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">mo x\u1ed1p (x\u01b0\u01a1ng s\u1ecd); th\u1ecbt l\u00e1; \u0111u\u00f4i b\u00f2 c\u1ea1p</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8051", "link": "/find?type=3&query=diploma", "word": "diploma"}, {"id": "8052", "link": "/find?type=3&query=diplomacy", "word": "diplomacy"}, {"id": "8053", "link": "/find?type=3&query=diplomat", "word": "diplomat"}, {"id": "8054", "link": "/find?type=3&query=diplomatic", "word": "diplomatic"}, {"id": "8055", "link": "/find?type=3&query=diplomatic+corps", "word": "diplomatic corps"}, {"id": "8056", "link": "/find?type=3&query=diplomatic+immunity", "word": "diplomatic immunity"}], "data": {}}, "synonyms": {"suggests": [{"id": "1685", "link": "/find?type=4&query=diplomacy", "word": "diplomacy"}, {"id": "1686", "link": "/find?type=4&query=diplomatic", "word": "diplomatic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8051",
+                "link": "/find?type=3&query=diploma",
+                "word": "diploma"
+            },
+            {
+                "id": "8052",
+                "link": "/find?type=3&query=diplomacy",
+                "word": "diplomacy"
+            },
+            {
+                "id": "8053",
+                "link": "/find?type=3&query=diplomat",
+                "word": "diplomat"
+            },
+            {
+                "id": "8054",
+                "link": "/find?type=3&query=diplomatic",
+                "word": "diplomatic"
+            },
+            {
+                "id": "8055",
+                "link": "/find?type=3&query=diplomatic+corps",
+                "word": "diplomatic corps"
+            },
+            {
+                "id": "8056",
+                "link": "/find?type=3&query=diplomatic+immunity",
+                "word": "diplomatic immunity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">mo x\u1ed1p (x\u01b0\u01a1ng s\u1ecd); th\u1ecbt l\u00e1; \u0111u\u00f4i b\u00f2 c\u1ea1p</div>",
+            "id": "25633",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "diploe"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1685",
+                "link": "/find?type=4&query=diplomacy",
+                "word": "diplomacy"
+            },
+            {
+                "id": "1686",
+                "link": "/find?type=4&query=diplomatic",
+                "word": "diplomatic"
+            }
+        ]
+    }
+}

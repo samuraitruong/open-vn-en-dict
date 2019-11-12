@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "25595", "link": "/find?type=1&query=dioxide", "word": "dioxide"}], "data": {}}, "en_en": {"suggests": [{"id": "8045", "link": "/find?type=3&query=dioxide", "word": "dioxide"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8045",
+                "link": "/find?type=3&query=dioxide",
+                "word": "dioxide"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25595",
+                "link": "/find?type=1&query=dioxide",
+                "word": "dioxide"
+            }
+        ]
+    }
+}
