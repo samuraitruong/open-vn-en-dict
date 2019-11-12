@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "12060", "link": "/find?type=1&query=butler", "word": "butler"}], "data": {}}, "en_en": {"suggests": [{"id": "3769", "link": "/find?type=3&query=butler", "word": "butler"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3769",
+                "link": "/find?type=3&query=butler",
+                "word": "butler"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12060",
+                "link": "/find?type=1&query=butler",
+                "word": "butler"
+            }
+        ]
+    }
+}

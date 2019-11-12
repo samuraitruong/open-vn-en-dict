@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "12193", "link": "/find?type=1&query=cabana", "word": "cabana"}], "data": {}}, "en_en": {"suggests": [{"id": "3832", "link": "/find?type=3&query=cabana", "word": "cabana"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3832",
+                "link": "/find?type=3&query=cabana",
+                "word": "cabana"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12193",
+                "link": "/find?type=1&query=cabana",
+                "word": "cabana"
+            }
+        ]
+    }
+}

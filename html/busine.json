@@ -1,1 +1,117 @@
-{"en_vn": {"suggests": [{"id": "12006", "link": "/find?type=1&query=business", "word": "business"}, {"id": "12007", "link": "/find?type=1&query=business+address", "word": "business address"}, {"id": "12008", "link": "/find?type=1&query=business+card", "word": "business card"}, {"id": "12009", "link": "/find?type=1&query=business+class", "word": "business class"}, {"id": "12010", "link": "/find?type=1&query=business+computer", "word": "business computer"}, {"id": "12011", "link": "/find?type=1&query=Business+cycle", "word": "Business cycle"}, {"id": "12012", "link": "/find?type=1&query=business+end", "word": "business end"}, {"id": "12013", "link": "/find?type=1&query=business+game", "word": "business game"}, {"id": "12014", "link": "/find?type=1&query=business+graphics", "word": "business graphics"}, {"id": "12015", "link": "/find?type=1&query=business+hours", "word": "business hours"}], "data": {}}, "en_en": {"suggests": [{"id": "3742", "link": "/find?type=3&query=business", "word": "business"}, {"id": "3743", "link": "/find?type=3&query=business+administration", "word": "business administration"}, {"id": "3744", "link": "/find?type=3&query=business+card", "word": "business card"}, {"id": "3745", "link": "/find?type=3&query=business+end", "word": "business end"}, {"id": "3746", "link": "/find?type=3&query=business+suit", "word": "business suit"}, {"id": "3747", "link": "/find?type=3&query=businesslike", "word": "businesslike"}, {"id": "3748", "link": "/find?type=3&query=businessman", "word": "businessman"}, {"id": "3749", "link": "/find?type=3&query=businessperson", "word": "businessperson"}, {"id": "3750", "link": "/find?type=3&query=businesswoman", "word": "businesswoman"}], "data": {}}, "synonyms": {"suggests": [{"id": "785", "link": "/find?type=4&query=business", "word": "business"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3742",
+                "link": "/find?type=3&query=business",
+                "word": "business"
+            },
+            {
+                "id": "3743",
+                "link": "/find?type=3&query=business+administration",
+                "word": "business administration"
+            },
+            {
+                "id": "3744",
+                "link": "/find?type=3&query=business+card",
+                "word": "business card"
+            },
+            {
+                "id": "3745",
+                "link": "/find?type=3&query=business+end",
+                "word": "business end"
+            },
+            {
+                "id": "3746",
+                "link": "/find?type=3&query=business+suit",
+                "word": "business suit"
+            },
+            {
+                "id": "3747",
+                "link": "/find?type=3&query=businesslike",
+                "word": "businesslike"
+            },
+            {
+                "id": "3748",
+                "link": "/find?type=3&query=businessman",
+                "word": "businessman"
+            },
+            {
+                "id": "3749",
+                "link": "/find?type=3&query=businessperson",
+                "word": "businessperson"
+            },
+            {
+                "id": "3750",
+                "link": "/find?type=3&query=businesswoman",
+                "word": "businesswoman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12006",
+                "link": "/find?type=1&query=business",
+                "word": "business"
+            },
+            {
+                "id": "12007",
+                "link": "/find?type=1&query=business+address",
+                "word": "business address"
+            },
+            {
+                "id": "12008",
+                "link": "/find?type=1&query=business+card",
+                "word": "business card"
+            },
+            {
+                "id": "12009",
+                "link": "/find?type=1&query=business+class",
+                "word": "business class"
+            },
+            {
+                "id": "12010",
+                "link": "/find?type=1&query=business+computer",
+                "word": "business computer"
+            },
+            {
+                "id": "12011",
+                "link": "/find?type=1&query=Business+cycle",
+                "word": "Business cycle"
+            },
+            {
+                "id": "12012",
+                "link": "/find?type=1&query=business+end",
+                "word": "business end"
+            },
+            {
+                "id": "12013",
+                "link": "/find?type=1&query=business+game",
+                "word": "business game"
+            },
+            {
+                "id": "12014",
+                "link": "/find?type=1&query=business+graphics",
+                "word": "business graphics"
+            },
+            {
+                "id": "12015",
+                "link": "/find?type=1&query=business+hours",
+                "word": "business hours"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "785",
+                "link": "/find?type=4&query=business",
+                "word": "business"
+            }
+        ]
+    }
+}
