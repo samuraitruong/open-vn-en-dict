@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "31879", "link": "/find?type=1&query=Escalators", "word": "Escalators"}, {"id": "31879", "link": "/find?type=1&query=escalatory", "word": "escalatory"}], "data": {"word": "escalator", "id": "31879", "pronounce": "/'esk\u0259leit\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea7u thang m\u00e1y</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ac159c1c5f773c049bd56641cf4bbf36/16e5e19fdd4/E/escalator.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/401c8b771737ab0d4bc8462788904b69/16e5e1a0376/E/escalator.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "escalator", "id": "9755", "pronounce": "/\u02c8\u025bsk\u0259\u02ccle\u026at\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a moving set of stairs that carries people up or down from one level of a building to another</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a moving set of stairs that carries people up or down from one level of a building to another</div>",
+            "id": "9755",
+            "mean": [],
+            "pronounce": "/\u02c8\u025bsk\u0259\u02ccle\u026at\u025a/",
+            "type": "noun",
+            "word": "escalator"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea7u thang m\u00e1y</div>",
+            "id": "31879",
+            "mean": [],
+            "pronounce": "/'esk\u0259leit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/90c0f4bce2ce62ab8779e917263c0e0d/16e5fc57e21/E/escalator.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/59ddb8e3dda90aa8e9c8ba6488320ddd/16e5fc57617/E/escalator.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "escalator"
+        },
+        "suggests": [
+            {
+                "id": "31879",
+                "link": "/find?type=1&query=Escalators",
+                "word": "Escalators"
+            },
+            {
+                "id": "31879",
+                "link": "/find?type=1&query=escalatory",
+                "word": "escalatory"
+            }
+        ]
+    }
+}
