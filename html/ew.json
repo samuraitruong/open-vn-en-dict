@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "32564", "link": "/find?type=1&query=ewe", "word": "ewe"}, {"id": "32565", "link": "/find?type=1&query=ewe-cheese", "word": "ewe-cheese"}, {"id": "32566", "link": "/find?type=1&query=ewe-lamb", "word": "ewe-lamb"}, {"id": "32567", "link": "/find?type=1&query=ewe-necked", "word": "ewe-necked"}, {"id": "32568", "link": "/find?type=1&query=ewer", "word": "ewer"}, {"id": "32569", "link": "/find?type=1&query=eworld", "word": "eworld"}], "data": {}}, "en_en": {"suggests": [{"id": "9896", "link": "/find?type=3&query=ewe", "word": "ewe"}, {"id": "9897", "link": "/find?type=3&query=ewer", "word": "ewer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9896",
+                "link": "/find?type=3&query=ewe",
+                "word": "ewe"
+            },
+            {
+                "id": "9897",
+                "link": "/find?type=3&query=ewer",
+                "word": "ewer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32564",
+                "link": "/find?type=1&query=ewe",
+                "word": "ewe"
+            },
+            {
+                "id": "32565",
+                "link": "/find?type=1&query=ewe-cheese",
+                "word": "ewe-cheese"
+            },
+            {
+                "id": "32566",
+                "link": "/find?type=1&query=ewe-lamb",
+                "word": "ewe-lamb"
+            },
+            {
+                "id": "32567",
+                "link": "/find?type=1&query=ewe-necked",
+                "word": "ewe-necked"
+            },
+            {
+                "id": "32568",
+                "link": "/find?type=1&query=ewer",
+                "word": "ewer"
+            },
+            {
+                "id": "32569",
+                "link": "/find?type=1&query=eworld",
+                "word": "eworld"
+            }
+        ]
+    }
+}
