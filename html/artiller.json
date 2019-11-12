@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "5819", "link": "/find?type=1&query=artillerist", "word": "artillerist"}, {"id": "5820", "link": "/find?type=1&query=artillery", "word": "artillery"}, {"id": "5821", "link": "/find?type=1&query=artilleryman", "word": "artilleryman"}], "data": {}}, "en_en": {"suggests": [{"id": "1392", "link": "/find?type=3&query=artillery", "word": "artillery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1392",
+                "link": "/find?type=3&query=artillery",
+                "word": "artillery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5819",
+                "link": "/find?type=1&query=artillerist",
+                "word": "artillerist"
+            },
+            {
+                "id": "5820",
+                "link": "/find?type=1&query=artillery",
+                "word": "artillery"
+            },
+            {
+                "id": "5821",
+                "link": "/find?type=1&query=artilleryman",
+                "word": "artilleryman"
+            }
+        ]
+    }
+}

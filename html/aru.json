@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "5844", "link": "/find?type=1&query=arucola", "word": "arucola"}, {"id": "5845", "link": "/find?type=1&query=arum", "word": "arum"}, {"id": "5846", "link": "/find?type=1&query=arum+lily", "word": "arum lily"}], "data": {}}, "en_en": {"suggests": [{"id": "1403", "link": "/find?type=3&query=arugula", "word": "arugula"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1403",
+                "link": "/find?type=3&query=arugula",
+                "word": "arugula"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5844",
+                "link": "/find?type=1&query=arucola",
+                "word": "arucola"
+            },
+            {
+                "id": "5845",
+                "link": "/find?type=1&query=arum",
+                "word": "arum"
+            },
+            {
+                "id": "5846",
+                "link": "/find?type=1&query=arum+lily",
+                "word": "arum lily"
+            }
+        ]
+    }
+}
