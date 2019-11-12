@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "3931", "link": "/find?type=1&query=aniseed", "word": "aniseed"}, {"id": "3931", "link": "/find?type=1&query=aniseikonia", "word": "aniseikonia"}, {"id": "3931", "link": "/find?type=1&query=anisette", "word": "anisette"}], "data": {"word": "anise", "id": "3931", "pronounce": "/'\u00e6nis/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y an\u00edt (thu\u1ed9c h\u1ecd Hoa t\u00e1n)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d38e3b5ddf652afe5d479c8dc78dc9f2/16e5dc45978/A/anise.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c99cc5d5131bfdd1bc77dd80176bfd01/16e5dc45fb3/A/anise.mp3"}}}, "en_en": {"suggests": [{"id": "969", "link": "/find?type=3&query=aniseed", "word": "aniseed"}, {"id": "969", "link": "/find?type=3&query=anisette", "word": "anisette"}], "data": {"word": "anise", "id": "969", "pronounce": "/\u02c8\u00e6n\u0259s/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a plant with seeds that are used in cooking and to flavor candies and alcoholic drinks</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a plant with seeds that are used in cooking and to flavor candies and alcoholic drinks</div>",
+            "id": "969",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6n\u0259s/",
+            "type": "noun",
+            "word": "anise"
+        },
+        "suggests": [
+            {
+                "id": "969",
+                "link": "/find?type=3&query=aniseed",
+                "word": "aniseed"
+            },
+            {
+                "id": "969",
+                "link": "/find?type=3&query=anisette",
+                "word": "anisette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y an\u00edt (thu\u1ed9c h\u1ecd Hoa t\u00e1n)</div>",
+            "id": "3931",
+            "mean": [],
+            "pronounce": "/'\u00e6nis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/001173b616e2fbd53d0153313a748bc9/16e5ea8502a/A/anise.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/90afba2859d935993c3eea3e3d771b1f/16e5ea84b07/A/anise.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "anise"
+        },
+        "suggests": [
+            {
+                "id": "3931",
+                "link": "/find?type=1&query=aniseed",
+                "word": "aniseed"
+            },
+            {
+                "id": "3931",
+                "link": "/find?type=1&query=aniseikonia",
+                "word": "aniseikonia"
+            },
+            {
+                "id": "3931",
+                "link": "/find?type=1&query=anisette",
+                "word": "anisette"
+            }
+        ]
+    }
+}

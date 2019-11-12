@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3926", "link": "/find?type=1&query=animosity", "word": "animosity"}], "data": {}}, "en_en": {"suggests": [{"id": "967", "link": "/find?type=3&query=animosity", "word": "animosity"}], "data": {}}, "synonyms": {"suggests": [{"id": "258", "link": "/find?type=4&query=animosity", "word": "animosity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "967",
+                "link": "/find?type=3&query=animosity",
+                "word": "animosity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3926",
+                "link": "/find?type=1&query=animosity",
+                "word": "animosity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "258",
+                "link": "/find?type=4&query=animosity",
+                "word": "animosity"
+            }
+        ]
+    }
+}

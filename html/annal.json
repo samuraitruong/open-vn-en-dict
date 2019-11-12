@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3978", "link": "/find?type=1&query=annalist", "word": "annalist"}, {"id": "3979", "link": "/find?type=1&query=annalistic", "word": "annalistic"}, {"id": "3980", "link": "/find?type=1&query=annals", "word": "annals"}], "data": {}}, "en_en": {"suggests": [{"id": "975", "link": "/find?type=3&query=annals", "word": "annals"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "975",
+                "link": "/find?type=3&query=annals",
+                "word": "annals"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3978",
+                "link": "/find?type=1&query=annalist",
+                "word": "annalist"
+            },
+            {
+                "id": "3979",
+                "link": "/find?type=1&query=annalistic",
+                "word": "annalistic"
+            },
+            {
+                "id": "3980",
+                "link": "/find?type=1&query=annals",
+                "word": "annals"
+            }
+        ]
+    }
+}

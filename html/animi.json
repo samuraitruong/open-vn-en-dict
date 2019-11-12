@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "3923", "link": "/find?type=1&query=animism", "word": "animism"}, {"id": "3924", "link": "/find?type=1&query=animist", "word": "animist"}, {"id": "3925", "link": "/find?type=1&query=animistic", "word": "animistic"}], "data": {}}, "en_en": {"suggests": [{"id": "966", "link": "/find?type=3&query=animism", "word": "animism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "966",
+                "link": "/find?type=3&query=animism",
+                "word": "animism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3923",
+                "link": "/find?type=1&query=animism",
+                "word": "animism"
+            },
+            {
+                "id": "3924",
+                "link": "/find?type=1&query=animist",
+                "word": "animist"
+            },
+            {
+                "id": "3925",
+                "link": "/find?type=1&query=animistic",
+                "word": "animistic"
+            }
+        ]
+    }
+}

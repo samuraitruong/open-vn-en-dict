@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "4023", "link": "/find?type=1&query=annual", "word": "annual"}, {"id": "4024", "link": "/find?type=1&query=Annual+allowances", "word": "Annual allowances"}, {"id": "4025", "link": "/find?type=1&query=Annual+capital+charge", "word": "Annual capital charge"}, {"id": "4026", "link": "/find?type=1&query=annually", "word": "annually"}, {"id": "4027", "link": "/find?type=1&query=annuitant", "word": "annuitant"}, {"id": "4028", "link": "/find?type=1&query=annuity", "word": "annuity"}, {"id": "4029", "link": "/find?type=1&query=Annuity+market", "word": "Annuity market"}, {"id": "4030", "link": "/find?type=1&query=annul", "word": "annul"}, {"id": "4031", "link": "/find?type=1&query=annulable", "word": "annulable"}, {"id": "4032", "link": "/find?type=1&query=annular", "word": "annular"}], "data": {}}, "en_en": {"suggests": [{"id": "987", "link": "/find?type=3&query=annual", "word": "annual"}, {"id": "988", "link": "/find?type=3&query=annuity", "word": "annuity"}, {"id": "989", "link": "/find?type=3&query=annul", "word": "annul"}, {"id": "990", "link": "/find?type=3&query=annum", "word": "annum"}, {"id": "991", "link": "/find?type=3&query=Annunciation", "word": "Annunciation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "987",
+                "link": "/find?type=3&query=annual",
+                "word": "annual"
+            },
+            {
+                "id": "988",
+                "link": "/find?type=3&query=annuity",
+                "word": "annuity"
+            },
+            {
+                "id": "989",
+                "link": "/find?type=3&query=annul",
+                "word": "annul"
+            },
+            {
+                "id": "990",
+                "link": "/find?type=3&query=annum",
+                "word": "annum"
+            },
+            {
+                "id": "991",
+                "link": "/find?type=3&query=Annunciation",
+                "word": "Annunciation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4023",
+                "link": "/find?type=1&query=annual",
+                "word": "annual"
+            },
+            {
+                "id": "4024",
+                "link": "/find?type=1&query=Annual+allowances",
+                "word": "Annual allowances"
+            },
+            {
+                "id": "4025",
+                "link": "/find?type=1&query=Annual+capital+charge",
+                "word": "Annual capital charge"
+            },
+            {
+                "id": "4026",
+                "link": "/find?type=1&query=annually",
+                "word": "annually"
+            },
+            {
+                "id": "4027",
+                "link": "/find?type=1&query=annuitant",
+                "word": "annuitant"
+            },
+            {
+                "id": "4028",
+                "link": "/find?type=1&query=annuity",
+                "word": "annuity"
+            },
+            {
+                "id": "4029",
+                "link": "/find?type=1&query=Annuity+market",
+                "word": "Annuity market"
+            },
+            {
+                "id": "4030",
+                "link": "/find?type=1&query=annul",
+                "word": "annul"
+            },
+            {
+                "id": "4031",
+                "link": "/find?type=1&query=annulable",
+                "word": "annulable"
+            },
+            {
+                "id": "4032",
+                "link": "/find?type=1&query=annular",
+                "word": "annular"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "4011", "link": "/find?type=1&query=annotate", "word": "annotate"}, {"id": "4012", "link": "/find?type=1&query=annotation", "word": "annotation"}, {"id": "4013", "link": "/find?type=1&query=annotative", "word": "annotative"}, {"id": "4014", "link": "/find?type=1&query=annotator", "word": "annotator"}], "data": {}}, "en_en": {"suggests": [{"id": "980", "link": "/find?type=3&query=annotate", "word": "annotate"}, {"id": "981", "link": "/find?type=3&query=annotation", "word": "annotation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "980",
+                "link": "/find?type=3&query=annotate",
+                "word": "annotate"
+            },
+            {
+                "id": "981",
+                "link": "/find?type=3&query=annotation",
+                "word": "annotation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4011",
+                "link": "/find?type=1&query=annotate",
+                "word": "annotate"
+            },
+            {
+                "id": "4012",
+                "link": "/find?type=1&query=annotation",
+                "word": "annotation"
+            },
+            {
+                "id": "4013",
+                "link": "/find?type=1&query=annotative",
+                "word": "annotative"
+            },
+            {
+                "id": "4014",
+                "link": "/find?type=1&query=annotator",
+                "word": "annotator"
+            }
+        ]
+    }
+}
