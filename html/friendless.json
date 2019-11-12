@@ -1,1 +1,34 @@
-{"error": 0, "query": "friendless", "enViData": {"suggests": [{"id": "38006", "link": "/find?type=1&query=friendlessness", "word": "friendlessness"}], "best": {"id": "38006", "details": "\n<div id=\"find_word_38006\" class=\"world word_en\" rel=\"friendless\">\n    <h2 class=\"fl\">friendless <span class=\"color-black\">/'frendlis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38006\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38006\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng c\u00f3 b\u1ea1n</div>\n    \n</div>\n", "link": "/find?type=1&query=friendless", "word": "friendless"}}, "mUrl": "/find?type=1&query=friendless", "enEnData": {"suggests": [], "best": {"id": "11481", "details": "\n<div id=\"find_word_11481\" class=\"world word_en\" rel=\"friendless\">\n    <h2 class=\"fl\">friendless <span class=\"color-black\">/\u02c8fr\u025bndl\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11481\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11481\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">literary :not having any friends :not having anyone who can help you</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was friendless and alone.</div>\n    \n</div>\n", "link": "/find?type=3&query=friendless", "word": "friendless"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">literary :not having any friends :not having anyone who can help you</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was friendless and alone.</div>",
+            "id": "11481",
+            "mean": [],
+            "pronounce": "/\u02c8fr\u025bndl\u0259s/",
+            "type": "adjective",
+            "word": "friendless"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng c\u00f3 b\u1ea1n</div>",
+            "id": "38006",
+            "mean": [],
+            "pronounce": "/'frendlis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/37154d6941f3211632d7b273da4e4b3d/16e60a0cef0/F/friendless.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8f2e375145e05671a0e2b36c96cdff9b/16e60a0c6ac/F/friendless.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "friendless"
+        },
+        "suggests": [
+            {
+                "id": "38006",
+                "link": "/find?type=1&query=friendlessness",
+                "word": "friendlessness"
+            }
+        ]
+    }
+}
