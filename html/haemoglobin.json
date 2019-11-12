@@ -1,1 +1,28 @@
-{"error": 0, "query": "haemoglobin", "enViData": {"suggests": [{"id": "42313", "link": "/find?type=1&query=haemoglobinopathy", "word": "haemoglobinopathy"}, {"id": "42313", "link": "/find?type=1&query=haemoglobinuria", "word": "haemoglobinuria"}], "best": {"id": "42313", "details": "\n<div id=\"find_word_42313\" class=\"world word_en\" rel=\"haemoglobin\">\n    <h2 class=\"fl\">haemoglobin <span class=\"color-black\">/hi:m\u0259'gl\u0259\u028abin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42313\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42313\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(M\u1ef9 hemoglobin)</div>\n    \n    <div class=\"green margin25 m-top15\">hemoglobin (ch\u1ea5t trong h\u1ed3ng c\u1ea7u)</div>\n    \n</div>\n", "link": "/find?type=1&query=haemoglobin", "word": "haemoglobin"}}, "mUrl": "/find?type=1&query=haemoglobin", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(M\u1ef9 hemoglobin)</div>\n    \n    <div class=\"green margin25 m-top15\">hemoglobin (ch\u1ea5t trong h\u1ed3ng c\u1ea7u)</div>",
+            "id": "42313",
+            "mean": [],
+            "pronounce": "/hi:m\u0259'gl\u0259\u028abin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d2ff310d1da5a29c6541bbbaa34ea7ca/16e614fa41a/H/haemoglobin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9e05b9be94d473a4b502d1cc06efb0c0/16e614f9a12/H/haemoglobin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "haemoglobin"
+        },
+        "suggests": [
+            {
+                "id": "42313",
+                "link": "/find?type=1&query=haemoglobinopathy",
+                "word": "haemoglobinopathy"
+            },
+            {
+                "id": "42313",
+                "link": "/find?type=1&query=haemoglobinuria",
+                "word": "haemoglobinuria"
+            }
+        ]
+    }
+}
