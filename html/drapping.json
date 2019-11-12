@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "27559", "link": "/find?type=1&query=drape", "word": "drape"}, {"id": "27560", "link": "/find?type=1&query=draper", "word": "draper"}, {"id": "27561", "link": "/find?type=1&query=draperied", "word": "draperied"}, {"id": "27562", "link": "/find?type=1&query=drapery", "word": "drapery"}], "data": {}}, "en_en": {"suggests": [{"id": "8786", "link": "/find?type=3&query=drape", "word": "drape"}, {"id": "8787", "link": "/find?type=3&query=drapery", "word": "drapery"}, {"id": "8788", "link": "/find?type=3&query=drapes", "word": "drapes"}], "data": {}}, "synonyms": {"suggests": [{"id": "1921", "link": "/find?type=4&query=drape", "word": "drape"}, {"id": "1922", "link": "/find?type=4&query=drapery", "word": "drapery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8786",
+                "link": "/find?type=3&query=drape",
+                "word": "drape"
+            },
+            {
+                "id": "8787",
+                "link": "/find?type=3&query=drapery",
+                "word": "drapery"
+            },
+            {
+                "id": "8788",
+                "link": "/find?type=3&query=drapes",
+                "word": "drapes"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27559",
+                "link": "/find?type=1&query=drape",
+                "word": "drape"
+            },
+            {
+                "id": "27560",
+                "link": "/find?type=1&query=draper",
+                "word": "draper"
+            },
+            {
+                "id": "27561",
+                "link": "/find?type=1&query=draperied",
+                "word": "draperied"
+            },
+            {
+                "id": "27562",
+                "link": "/find?type=1&query=drapery",
+                "word": "drapery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1921",
+                "link": "/find?type=4&query=drape",
+                "word": "drape"
+            },
+            {
+                "id": "1922",
+                "link": "/find?type=4&query=drapery",
+                "word": "drapery"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27536", "link": "/find?type=1&query=drainer", "word": "drainer"}], "data": {}}, "en_en": {"suggests": [{"id": "8773", "link": "/find?type=3&query=drained", "word": "drained"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8773",
+                "link": "/find?type=3&query=drained",
+                "word": "drained"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27536",
+                "link": "/find?type=1&query=drainer",
+                "word": "drainer"
+            }
+        ]
+    }
+}

@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "27531", "link": "/find?type=1&query=drainage-area", "word": "drainage-area"}, {"id": "27531", "link": "/find?type=1&query=drainage-basin", "word": "drainage-basin"}, {"id": "27531", "link": "/find?type=1&query=drainage-tube", "word": "drainage-tube"}], "data": {"word": "drainage", "id": "27531", "pronounce": "/'dreinid\u0292/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 th\u00e1o n\u01b0\u1edbc, s\u1ef1 ti\u00eau n\u01b0\u1edbc</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ec7 th\u1ed1ng m\u01b0\u01a1ng m\u00e1ng c\u1ed1ng r\u00e3nh</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc th\u00f3at \u0111i, n\u01b0\u1edbc ti\u00eau (qua h\u1ec7 th\u1ed1ng m\u01b0\u01a1ng m\u00e1ng c\u1ed1ng r\u00e3nh)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/058167391a6c3fd98100df8e117a82b9/16e5e0ea425/D/drainage.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/82a3579dcb9aa31334d3a6f4b8d8abcb/16e5e0ea9cf/D/drainage.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "drainage", "id": "8771", "pronounce": "/\u02c8dre\u026an\u026a\u02a4/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the act or process of draining something :the act or process of removing water or liquid from a place or thing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the drainage of swamps</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The soil has good drainage. [=extra water does not stay in the soil]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The holes in the bottom of the flower pot are for drainage. [=are for the extra water to flow out] - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a drainage system/basin/ditch/channel</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the act or process of draining something :the act or process of removing water or liquid from a place or thing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the drainage of swamps</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The soil has good drainage. [=extra water does not stay in the soil]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The holes in the bottom of the flower pot are for drainage. [=are for the extra water to flow out] - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a drainage system/basin/ditch/channel</div>",
+            "id": "8771",
+            "mean": [],
+            "pronounce": "/\u02c8dre\u026an\u026a\u02a4/",
+            "type": "noun",
+            "word": "drainage"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 th\u00e1o n\u01b0\u1edbc, s\u1ef1 ti\u00eau n\u01b0\u1edbc</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ec7 th\u1ed1ng m\u01b0\u01a1ng m\u00e1ng c\u1ed1ng r\u00e3nh</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc th\u00f3at \u0111i, n\u01b0\u1edbc ti\u00eau (qua h\u1ec7 th\u1ed1ng m\u01b0\u01a1ng m\u00e1ng c\u1ed1ng r\u00e3nh)</div>",
+            "id": "27531",
+            "mean": [],
+            "pronounce": "/'dreinid\u0292/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/05594829de07a554cba597f139ec1469/16e5efb7320/D/drainage.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/23f026a2bee0e704ccf6e08bfd1ac9fe/16e5efb6a6b/D/drainage.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "drainage"
+        },
+        "suggests": [
+            {
+                "id": "27531",
+                "link": "/find?type=1&query=drainage-area",
+                "word": "drainage-area"
+            },
+            {
+                "id": "27531",
+                "link": "/find?type=1&query=drainage-basin",
+                "word": "drainage-basin"
+            },
+            {
+                "id": "27531",
+                "link": "/find?type=1&query=drainage-tube",
+                "word": "drainage-tube"
+            }
+        ]
+    }
+}

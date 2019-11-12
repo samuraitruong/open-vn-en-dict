@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "27512", "link": "/find?type=1&query=dragon-tree", "word": "dragon-tree"}, {"id": "27512", "link": "/find?type=1&query=dragon%27s+blood", "word": "dragon's blood"}, {"id": "27512", "link": "/find?type=1&query=dragon%27s+teeth", "word": "dragon's teeth"}, {"id": "27512", "link": "/find?type=1&query=dragonet", "word": "dragonet"}, {"id": "27512", "link": "/find?type=1&query=dragonfish", "word": "dragonfish"}, {"id": "27512", "link": "/find?type=1&query=dragonfly", "word": "dragonfly"}, {"id": "27512", "link": "/find?type=1&query=dragonish", "word": "dragonish"}, {"id": "27512", "link": "/find?type=1&query=dragonnade", "word": "dragonnade"}], "data": {"word": "dragon", "id": "27512", "pronounce": "/'dr\u00e6g\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">con r\u1ed3ng</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng, ngh\u0129a x\u1ea5u) con m\u1ee5 hung d\u1eef</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ca48032cca887a62e1432b445b4d8f30/16e5e0e95a8/D/dragon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5d195b2949cfe8a6dd4250c02b880304/16e5e0e9b53/D/dragon.mp3"}}}, "en_en": {"suggests": [{"id": "8765", "link": "/find?type=3&query=dragon+lady", "word": "dragon lady"}, {"id": "8765", "link": "/find?type=3&query=dragonfly", "word": "dragonfly"}], "data": {"word": "dragon", "id": "8765", "pronounce": "/\u02c8dr\u00e6g\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an imaginary animal that can breathe out fire and looks like a very large lizard with wings, a long tail, and large claws</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an imaginary animal that can breathe out fire and looks like a very large lizard with wings, a long tail, and large claws</div>",
+            "id": "8765",
+            "mean": [],
+            "pronounce": "/\u02c8dr\u00e6g\u0259n/",
+            "type": "noun",
+            "word": "dragon"
+        },
+        "suggests": [
+            {
+                "id": "8765",
+                "link": "/find?type=3&query=dragon+lady",
+                "word": "dragon lady"
+            },
+            {
+                "id": "8765",
+                "link": "/find?type=3&query=dragonfly",
+                "word": "dragonfly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">con r\u1ed3ng</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng, ngh\u0129a x\u1ea5u) con m\u1ee5 hung d\u1eef</div>",
+            "id": "27512",
+            "mean": [],
+            "pronounce": "/'dr\u00e6g\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/368fe626ab17729d47d667cf551719d3/16e5efb603f/D/dragon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/42ce67a4cbd7baa4ab5ae585d7328c85/16e5efb5743/D/dragon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "dragon"
+        },
+        "suggests": [
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragon-tree",
+                "word": "dragon-tree"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragon%27s+blood",
+                "word": "dragon's blood"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragon%27s+teeth",
+                "word": "dragon's teeth"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragonet",
+                "word": "dragonet"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragonfish",
+                "word": "dragonfish"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragonfly",
+                "word": "dragonfly"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragonish",
+                "word": "dragonish"
+            },
+            {
+                "id": "27512",
+                "link": "/find?type=1&query=dragonnade",
+                "word": "dragonnade"
+            }
+        ]
+    }
+}
