@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "3202", "link": "/find?type=1&query=ammonal", "word": "ammonal"}, {"id": "3202", "link": "/find?type=1&query=ammonia", "word": "ammonia"}, {"id": "3202", "link": "/find?type=1&query=ammoniac", "word": "ammoniac"}, {"id": "3202", "link": "/find?type=1&query=ammoniacal", "word": "ammoniacal"}, {"id": "3202", "link": "/find?type=1&query=ammonification", "word": "ammonification"}, {"id": "3202", "link": "/find?type=1&query=ammonify", "word": "ammonify"}, {"id": "3202", "link": "/find?type=1&query=ammonite", "word": "ammonite"}, {"id": "3202", "link": "/find?type=1&query=ammonitic", "word": "ammonitic"}, {"id": "3202", "link": "/find?type=1&query=ammonium", "word": "ammonium"}], "data": {"word": "ammo", "id": "3202", "pronounce": "/'\u00e6mou/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft) c\u1ee7a ammunition</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/13c5666431615346db7e2b5fea72b485/16e5dc2233d/A/ammo.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c9c9478a1555e98bbb006a303c9d7924/16e5dc22948/A/ammo.mp3"}}}, "en_en": {"suggests": [{"id": "842", "link": "/find?type=3&query=ammonia", "word": "ammonia"}], "data": {"word": "ammo", "id": "842", "pronounce": "/\u02c8\u00e6mo\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] informal :ammunition</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The soldiers ran out of ammo.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] informal :ammunition</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The soldiers ran out of ammo.</div>",
+            "id": "842",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6mo\u028a/",
+            "type": "noun",
+            "word": "ammo"
+        },
+        "suggests": [
+            {
+                "id": "842",
+                "link": "/find?type=3&query=ammonia",
+                "word": "ammonia"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft) c\u1ee7a ammunition</div>",
+            "id": "3202",
+            "mean": [],
+            "pronounce": "/'\u00e6mou/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4f10ad04579084dbcd20c65a1b79afca/16e5ea6715d/A/ammo.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a17ff79667803cde82d7dd90ad3d8323/16e5ea66c39/A/ammo.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ammo"
+        },
+        "suggests": [
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonal",
+                "word": "ammonal"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonia",
+                "word": "ammonia"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammoniac",
+                "word": "ammoniac"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammoniacal",
+                "word": "ammoniacal"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonification",
+                "word": "ammonification"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonify",
+                "word": "ammonify"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonite",
+                "word": "ammonite"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonitic",
+                "word": "ammonitic"
+            },
+            {
+                "id": "3202",
+                "link": "/find?type=1&query=ammonium",
+                "word": "ammonium"
+            }
+        ]
+    }
+}

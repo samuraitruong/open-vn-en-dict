@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "3214", "link": "/find?type=1&query=amnesiac", "word": "amnesiac"}], "data": {"word": "amnesia", "id": "3214", "pronounce": "/\u00e6m'ni:zi\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee9ng qu\u00ean</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1ec59c4c404c7acf4bbb28e84405bd8a/16e5dc235ac/A/amnesia.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ce745f5347680b0bcca69a57459b3d38/16e5dc23b48/A/amnesia.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "amnesia", "id": "845", "pronounce": "/\u00e6m\u02c8ni\u02d0\u0292\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a condition in which a person is unable to remember things because of brain injury, shock, or illness</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a condition in which a person is unable to remember things because of brain injury, shock, or illness</div>",
+            "id": "845",
+            "mean": [],
+            "pronounce": "/\u00e6m\u02c8ni\u02d0\u0292\u0259/",
+            "type": "noun",
+            "word": "amnesia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ee9ng qu\u00ean</div>",
+            "id": "3214",
+            "mean": [],
+            "pronounce": "/\u00e6m'ni:zi\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/79b7036193f64f579ba14044fb66560f/16e5ea6816c/A/amnesia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/46e74696ae4393389bb479a7e1218888/16e5ea67c5a/A/amnesia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "amnesia"
+        },
+        "suggests": [
+            {
+                "id": "3214",
+                "link": "/find?type=1&query=amnesiac",
+                "word": "amnesiac"
+            }
+        ]
+    }
+}

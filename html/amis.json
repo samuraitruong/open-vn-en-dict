@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "3192", "link": "/find?type=1&query=amiss", "word": "amiss"}], "data": {}}, "en_en": {"suggests": [{"id": "839", "link": "/find?type=3&query=Amish", "word": "Amish"}, {"id": "840", "link": "/find?type=3&query=amiss", "word": "amiss"}], "data": {}}, "synonyms": {"suggests": [{"id": "235", "link": "/find?type=4&query=amiss", "word": "amiss"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "839",
+                "link": "/find?type=3&query=Amish",
+                "word": "Amish"
+            },
+            {
+                "id": "840",
+                "link": "/find?type=3&query=amiss",
+                "word": "amiss"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3192",
+                "link": "/find?type=1&query=amiss",
+                "word": "amiss"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "235",
+                "link": "/find?type=4&query=amiss",
+                "word": "amiss"
+            }
+        ]
+    }
+}

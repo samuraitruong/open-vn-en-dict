@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "3234", "link": "/find?type=1&query=amoral", "word": "amoral"}, {"id": "3235", "link": "/find?type=1&query=amoralism", "word": "amoralism"}, {"id": "3236", "link": "/find?type=1&query=amorality", "word": "amorality"}, {"id": "3237", "link": "/find?type=1&query=amorally", "word": "amorally"}, {"id": "3238", "link": "/find?type=1&query=amorist", "word": "amorist"}, {"id": "3239", "link": "/find?type=1&query=amorous", "word": "amorous"}, {"id": "3240", "link": "/find?type=1&query=amorously", "word": "amorously"}, {"id": "3241", "link": "/find?type=1&query=amorousness", "word": "amorousness"}, {"id": "3242", "link": "/find?type=1&query=amorph", "word": "amorph"}, {"id": "3243", "link": "/find?type=1&query=amorphic", "word": "amorphic"}], "data": {}}, "en_en": {"suggests": [{"id": "851", "link": "/find?type=3&query=amoral", "word": "amoral"}, {"id": "852", "link": "/find?type=3&query=amorous", "word": "amorous"}, {"id": "853", "link": "/find?type=3&query=amorphous", "word": "amorphous"}, {"id": "854", "link": "/find?type=3&query=amortize", "word": "amortize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "851",
+                "link": "/find?type=3&query=amoral",
+                "word": "amoral"
+            },
+            {
+                "id": "852",
+                "link": "/find?type=3&query=amorous",
+                "word": "amorous"
+            },
+            {
+                "id": "853",
+                "link": "/find?type=3&query=amorphous",
+                "word": "amorphous"
+            },
+            {
+                "id": "854",
+                "link": "/find?type=3&query=amortize",
+                "word": "amortize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3234",
+                "link": "/find?type=1&query=amoral",
+                "word": "amoral"
+            },
+            {
+                "id": "3235",
+                "link": "/find?type=1&query=amoralism",
+                "word": "amoralism"
+            },
+            {
+                "id": "3236",
+                "link": "/find?type=1&query=amorality",
+                "word": "amorality"
+            },
+            {
+                "id": "3237",
+                "link": "/find?type=1&query=amorally",
+                "word": "amorally"
+            },
+            {
+                "id": "3238",
+                "link": "/find?type=1&query=amorist",
+                "word": "amorist"
+            },
+            {
+                "id": "3239",
+                "link": "/find?type=1&query=amorous",
+                "word": "amorous"
+            },
+            {
+                "id": "3240",
+                "link": "/find?type=1&query=amorously",
+                "word": "amorously"
+            },
+            {
+                "id": "3241",
+                "link": "/find?type=1&query=amorousness",
+                "word": "amorousness"
+            },
+            {
+                "id": "3242",
+                "link": "/find?type=1&query=amorph",
+                "word": "amorph"
+            },
+            {
+                "id": "3243",
+                "link": "/find?type=1&query=amorphic",
+                "word": "amorphic"
+            }
+        ]
+    }
+}
