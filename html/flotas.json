@@ -1,1 +1,27 @@
-{"error": 0, "query": "flotas", "enViData": {"suggests": [{"id": "36438", "link": "/find?type=1&query=flotage", "word": "flotage"}, {"id": "36439", "link": "/find?type=1&query=flotation", "word": "flotation"}]}, "mUrl": "/find?type=1&query=flotas", "enEnData": {"suggests": [{"id": "10959", "link": "/find?type=3&query=flotation", "word": "flotation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10959",
+                "link": "/find?type=3&query=flotation",
+                "word": "flotation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36438",
+                "link": "/find?type=1&query=flotage",
+                "word": "flotage"
+            },
+            {
+                "id": "36439",
+                "link": "/find?type=1&query=flotation",
+                "word": "flotation"
+            }
+        ]
+    }
+}
