@@ -1,1 +1,37 @@
-{"error": 0, "query": "geta", "enViData": {"suggests": [{"id": "39833", "link": "/find?type=1&query=getable", "word": "getable"}, {"id": "39834", "link": "/find?type=1&query=getaway", "word": "getaway"}]}, "mUrl": "/find?type=1&query=geta", "enEnData": {"suggests": [{"id": "12020", "link": "/find?type=3&query=getaway", "word": "getaway"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2970", "link": "/find?type=4&query=getaway", "word": "getaway"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12020",
+                "link": "/find?type=3&query=getaway",
+                "word": "getaway"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39833",
+                "link": "/find?type=1&query=getable",
+                "word": "getable"
+            },
+            {
+                "id": "39834",
+                "link": "/find?type=1&query=getaway",
+                "word": "getaway"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2970",
+                "link": "/find?type=4&query=getaway",
+                "word": "getaway"
+            }
+        ]
+    }
+}
