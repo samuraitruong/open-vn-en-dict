@@ -1,1 +1,87 @@
-{"error": 0, "query": "geniting", "enViData": {"suggests": [{"id": "39563", "link": "/find?type=1&query=genital", "word": "genital"}, {"id": "39564", "link": "/find?type=1&query=genitalia", "word": "genitalia"}, {"id": "39565", "link": "/find?type=1&query=genitals", "word": "genitals"}, {"id": "39566", "link": "/find?type=1&query=genitive", "word": "genitive"}, {"id": "39567", "link": "/find?type=1&query=genito-anal", "word": "genito-anal"}, {"id": "39568", "link": "/find?type=1&query=genito-crural", "word": "genito-crural"}, {"id": "39569", "link": "/find?type=1&query=genito-enteric", "word": "genito-enteric"}, {"id": "39570", "link": "/find?type=1&query=genito-urinary", "word": "genito-urinary"}, {"id": "39571", "link": "/find?type=1&query=genitor", "word": "genitor"}]}, "mUrl": "/find?type=1&query=geniting", "enEnData": {"suggests": [{"id": "11967", "link": "/find?type=3&query=genital", "word": "genital"}, {"id": "11968", "link": "/find?type=3&query=genitalia", "word": "genitalia"}, {"id": "11969", "link": "/find?type=3&query=genitals", "word": "genitals"}, {"id": "11970", "link": "/find?type=3&query=genitive", "word": "genitive"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2960", "link": "/find?type=4&query=genitals", "word": "genitals"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11967",
+                "link": "/find?type=3&query=genital",
+                "word": "genital"
+            },
+            {
+                "id": "11968",
+                "link": "/find?type=3&query=genitalia",
+                "word": "genitalia"
+            },
+            {
+                "id": "11969",
+                "link": "/find?type=3&query=genitals",
+                "word": "genitals"
+            },
+            {
+                "id": "11970",
+                "link": "/find?type=3&query=genitive",
+                "word": "genitive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39563",
+                "link": "/find?type=1&query=genital",
+                "word": "genital"
+            },
+            {
+                "id": "39564",
+                "link": "/find?type=1&query=genitalia",
+                "word": "genitalia"
+            },
+            {
+                "id": "39565",
+                "link": "/find?type=1&query=genitals",
+                "word": "genitals"
+            },
+            {
+                "id": "39566",
+                "link": "/find?type=1&query=genitive",
+                "word": "genitive"
+            },
+            {
+                "id": "39567",
+                "link": "/find?type=1&query=genito-anal",
+                "word": "genito-anal"
+            },
+            {
+                "id": "39568",
+                "link": "/find?type=1&query=genito-crural",
+                "word": "genito-crural"
+            },
+            {
+                "id": "39569",
+                "link": "/find?type=1&query=genito-enteric",
+                "word": "genito-enteric"
+            },
+            {
+                "id": "39570",
+                "link": "/find?type=1&query=genito-urinary",
+                "word": "genito-urinary"
+            },
+            {
+                "id": "39571",
+                "link": "/find?type=1&query=genitor",
+                "word": "genitor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2960",
+                "link": "/find?type=4&query=genitals",
+                "word": "genitals"
+            }
+        ]
+    }
+}
