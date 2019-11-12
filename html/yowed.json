@@ -1,1 +1,22 @@
-{"error": 0, "query": "yowed", "enViData": {"suggests": [{"id": "104361", "link": "/find?type=1&query=yowl", "word": "yowl"}]}, "mUrl": "/find?type=1&query=yowed", "enEnData": {"suggests": [{"id": "34314", "link": "/find?type=3&query=yowl", "word": "yowl"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34314",
+                "link": "/find?type=3&query=yowl",
+                "word": "yowl"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104361",
+                "link": "/find?type=1&query=yowl",
+                "word": "yowl"
+            }
+        ]
+    }
+}
