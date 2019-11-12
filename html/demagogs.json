@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "23805", "link": "/find?type=1&query=demagogic", "word": "demagogic"}, {"id": "23805", "link": "/find?type=1&query=demagogical", "word": "demagogical"}, {"id": "23805", "link": "/find?type=1&query=demagogically", "word": "demagogically"}, {"id": "23805", "link": "/find?type=1&query=demagogism", "word": "demagogism"}, {"id": "23805", "link": "/find?type=1&query=demagogue", "word": "demagogue"}, {"id": "23805", "link": "/find?type=1&query=demagoguery", "word": "demagoguery"}, {"id": "23805", "link": "/find?type=1&query=demagogy", "word": "demagogy"}], "data": {"word": "demagog", "id": "23805", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb m\u1ef5 d\u00e2n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7592", "link": "/find?type=3&query=demagogue", "word": "demagogue"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7592",
+                "link": "/find?type=3&query=demagogue",
+                "word": "demagogue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb m\u1ef5 d\u00e2n</div>",
+            "id": "23805",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "demagog"
+        },
+        "suggests": [
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagogic",
+                "word": "demagogic"
+            },
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagogical",
+                "word": "demagogical"
+            },
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagogically",
+                "word": "demagogically"
+            },
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagogism",
+                "word": "demagogism"
+            },
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagogue",
+                "word": "demagogue"
+            },
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagoguery",
+                "word": "demagoguery"
+            },
+            {
+                "id": "23805",
+                "link": "/find?type=1&query=demagogy",
+                "word": "demagogy"
+            }
+        ]
+    }
+}
