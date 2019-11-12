@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "33993", "link": "/find?type=1&query=fallacious", "word": "fallacious"}, {"id": "33994", "link": "/find?type=1&query=fallaciously", "word": "fallaciously"}, {"id": "33995", "link": "/find?type=1&query=fallaciousness", "word": "fallaciousness"}, {"id": "33996", "link": "/find?type=1&query=fallacy", "word": "fallacy"}, {"id": "33997", "link": "/find?type=1&query=Fallacy+of+composition", "word": "Fallacy of composition"}], "data": {}}, "en_en": {"suggests": [{"id": "10244", "link": "/find?type=3&query=fallacious", "word": "fallacious"}, {"id": "10245", "link": "/find?type=3&query=fallacy", "word": "fallacy"}], "data": {}}, "synonyms": {"suggests": [{"id": "2483", "link": "/find?type=4&query=fallacy", "word": "fallacy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10244",
+                "link": "/find?type=3&query=fallacious",
+                "word": "fallacious"
+            },
+            {
+                "id": "10245",
+                "link": "/find?type=3&query=fallacy",
+                "word": "fallacy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33993",
+                "link": "/find?type=1&query=fallacious",
+                "word": "fallacious"
+            },
+            {
+                "id": "33994",
+                "link": "/find?type=1&query=fallaciously",
+                "word": "fallaciously"
+            },
+            {
+                "id": "33995",
+                "link": "/find?type=1&query=fallaciousness",
+                "word": "fallaciousness"
+            },
+            {
+                "id": "33996",
+                "link": "/find?type=1&query=fallacy",
+                "word": "fallacy"
+            },
+            {
+                "id": "33997",
+                "link": "/find?type=1&query=Fallacy+of+composition",
+                "word": "Fallacy of composition"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2483",
+                "link": "/find?type=4&query=fallacy",
+                "word": "fallacy"
+            }
+        ]
+    }
+}
