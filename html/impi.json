@@ -1,1 +1,92 @@
-{"error": 0, "query": "impi", "enViData": {"suggests": [{"id": "46688", "link": "/find?type=1&query=impiety", "word": "impiety"}, {"id": "46689", "link": "/find?type=1&query=impinge", "word": "impinge"}, {"id": "46690", "link": "/find?type=1&query=impingement", "word": "impingement"}, {"id": "46691", "link": "/find?type=1&query=impinger", "word": "impinger"}, {"id": "46692", "link": "/find?type=1&query=impious", "word": "impious"}, {"id": "46693", "link": "/find?type=1&query=impiously", "word": "impiously"}, {"id": "46694", "link": "/find?type=1&query=impiousness", "word": "impiousness"}, {"id": "46695", "link": "/find?type=1&query=impish", "word": "impish"}, {"id": "46696", "link": "/find?type=1&query=impishly", "word": "impishly"}, {"id": "46697", "link": "/find?type=1&query=impishness", "word": "impishness"}]}, "mUrl": "/find?type=1&query=impi", "enEnData": {"suggests": [{"id": "14489", "link": "/find?type=3&query=impiety", "word": "impiety"}, {"id": "14490", "link": "/find?type=3&query=impinge", "word": "impinge"}, {"id": "14491", "link": "/find?type=3&query=impious", "word": "impious"}, {"id": "14492", "link": "/find?type=3&query=impish", "word": "impish"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3536", "link": "/find?type=4&query=impious", "word": "impious"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14489",
+                "link": "/find?type=3&query=impiety",
+                "word": "impiety"
+            },
+            {
+                "id": "14490",
+                "link": "/find?type=3&query=impinge",
+                "word": "impinge"
+            },
+            {
+                "id": "14491",
+                "link": "/find?type=3&query=impious",
+                "word": "impious"
+            },
+            {
+                "id": "14492",
+                "link": "/find?type=3&query=impish",
+                "word": "impish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46688",
+                "link": "/find?type=1&query=impiety",
+                "word": "impiety"
+            },
+            {
+                "id": "46689",
+                "link": "/find?type=1&query=impinge",
+                "word": "impinge"
+            },
+            {
+                "id": "46690",
+                "link": "/find?type=1&query=impingement",
+                "word": "impingement"
+            },
+            {
+                "id": "46691",
+                "link": "/find?type=1&query=impinger",
+                "word": "impinger"
+            },
+            {
+                "id": "46692",
+                "link": "/find?type=1&query=impious",
+                "word": "impious"
+            },
+            {
+                "id": "46693",
+                "link": "/find?type=1&query=impiously",
+                "word": "impiously"
+            },
+            {
+                "id": "46694",
+                "link": "/find?type=1&query=impiousness",
+                "word": "impiousness"
+            },
+            {
+                "id": "46695",
+                "link": "/find?type=1&query=impish",
+                "word": "impish"
+            },
+            {
+                "id": "46696",
+                "link": "/find?type=1&query=impishly",
+                "word": "impishly"
+            },
+            {
+                "id": "46697",
+                "link": "/find?type=1&query=impishness",
+                "word": "impishness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3536",
+                "link": "/find?type=4&query=impious",
+                "word": "impious"
+            }
+        ]
+    }
+}

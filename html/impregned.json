@@ -1,1 +1,72 @@
-{"error": 0, "query": "impregned", "enViData": {"suggests": [{"id": "46835", "link": "/find?type=1&query=impregnability", "word": "impregnability"}, {"id": "46836", "link": "/find?type=1&query=impregnable", "word": "impregnable"}, {"id": "46837", "link": "/find?type=1&query=impregnably", "word": "impregnably"}, {"id": "46838", "link": "/find?type=1&query=impregnant", "word": "impregnant"}, {"id": "46839", "link": "/find?type=1&query=impregnate", "word": "impregnate"}, {"id": "46840", "link": "/find?type=1&query=impregnation", "word": "impregnation"}, {"id": "46841", "link": "/find?type=1&query=impregnator", "word": "impregnator"}]}, "mUrl": "/find?type=1&query=impregned", "enEnData": {"suggests": [{"id": "14526", "link": "/find?type=3&query=impregnable", "word": "impregnable"}, {"id": "14527", "link": "/find?type=3&query=impregnate", "word": "impregnate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3561", "link": "/find?type=4&query=impregnable", "word": "impregnable"}, {"id": "3562", "link": "/find?type=4&query=impregnate", "word": "impregnate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14526",
+                "link": "/find?type=3&query=impregnable",
+                "word": "impregnable"
+            },
+            {
+                "id": "14527",
+                "link": "/find?type=3&query=impregnate",
+                "word": "impregnate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46835",
+                "link": "/find?type=1&query=impregnability",
+                "word": "impregnability"
+            },
+            {
+                "id": "46836",
+                "link": "/find?type=1&query=impregnable",
+                "word": "impregnable"
+            },
+            {
+                "id": "46837",
+                "link": "/find?type=1&query=impregnably",
+                "word": "impregnably"
+            },
+            {
+                "id": "46838",
+                "link": "/find?type=1&query=impregnant",
+                "word": "impregnant"
+            },
+            {
+                "id": "46839",
+                "link": "/find?type=1&query=impregnate",
+                "word": "impregnate"
+            },
+            {
+                "id": "46840",
+                "link": "/find?type=1&query=impregnation",
+                "word": "impregnation"
+            },
+            {
+                "id": "46841",
+                "link": "/find?type=1&query=impregnator",
+                "word": "impregnator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3561",
+                "link": "/find?type=4&query=impregnable",
+                "word": "impregnable"
+            },
+            {
+                "id": "3562",
+                "link": "/find?type=4&query=impregnate",
+                "word": "impregnate"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "impressionis", "enViData": {"suggests": [{"id": "46858", "link": "/find?type=1&query=impressionism", "word": "impressionism"}, {"id": "46859", "link": "/find?type=1&query=impressionist", "word": "impressionist"}, {"id": "46860", "link": "/find?type=1&query=impressionistic", "word": "impressionistic"}, {"id": "46861", "link": "/find?type=1&query=impressionistically", "word": "impressionistically"}]}, "mUrl": "/find?type=1&query=impressionis", "enEnData": {"suggests": [{"id": "14532", "link": "/find?type=3&query=impressionism", "word": "impressionism"}, {"id": "14533", "link": "/find?type=3&query=impressionist", "word": "impressionist"}, {"id": "14534", "link": "/find?type=3&query=impressionistic", "word": "impressionistic"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14532",
+                "link": "/find?type=3&query=impressionism",
+                "word": "impressionism"
+            },
+            {
+                "id": "14533",
+                "link": "/find?type=3&query=impressionist",
+                "word": "impressionist"
+            },
+            {
+                "id": "14534",
+                "link": "/find?type=3&query=impressionistic",
+                "word": "impressionistic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46858",
+                "link": "/find?type=1&query=impressionism",
+                "word": "impressionism"
+            },
+            {
+                "id": "46859",
+                "link": "/find?type=1&query=impressionist",
+                "word": "impressionist"
+            },
+            {
+                "id": "46860",
+                "link": "/find?type=1&query=impressionistic",
+                "word": "impressionistic"
+            },
+            {
+                "id": "46861",
+                "link": "/find?type=1&query=impressionistically",
+                "word": "impressionistically"
+            }
+        ]
+    }
+}
