@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "5371", "link": "/find?type=1&query=archdeaconate", "word": "archdeaconate"}, {"id": "5371", "link": "/find?type=1&query=archdeaconry", "word": "archdeaconry"}, {"id": "5371", "link": "/find?type=1&query=archdeaconship", "word": "archdeaconship"}], "data": {"word": "archdeacon", "id": "5371", "pronounce": "/,\u0251:t\u222b'di:k\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f3 gi\u00e1m m\u1ee5c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/044438ada7b70cf653c4890e9fa17b76/16e5dc922e4/A/archdeacon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/080c125cc0688f278502000522eb6d27/16e5dc92870/A/archdeacon.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "archdeacon", "id": "1268", "pronounce": "/\u0251\u025a\u02a7\u02c8di\u02d0k\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a church official who assists a bishop</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a church official who assists a bishop</div>",
+            "id": "1268",
+            "mean": [],
+            "pronounce": "/\u0251\u025a\u02a7\u02c8di\u02d0k\u0259n/",
+            "type": "noun",
+            "word": "archdeacon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f3 gi\u00e1m m\u1ee5c</div>",
+            "id": "5371",
+            "mean": [],
+            "pronounce": "/,\u0251:t\u222b'di:k\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d420d97023c8ec1e09bd2caf9e0fe57c/16e5eac79e3/A/archdeacon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/371c284a9788a760e00dcaa4d19e4962/16e5eac7456/A/archdeacon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "archdeacon"
+        },
+        "suggests": [
+            {
+                "id": "5371",
+                "link": "/find?type=1&query=archdeaconate",
+                "word": "archdeaconate"
+            },
+            {
+                "id": "5371",
+                "link": "/find?type=1&query=archdeaconry",
+                "word": "archdeaconry"
+            },
+            {
+                "id": "5371",
+                "link": "/find?type=1&query=archdeaconship",
+                "word": "archdeaconship"
+            }
+        ]
+    }
+}

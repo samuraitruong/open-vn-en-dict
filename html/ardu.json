@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "5460", "link": "/find?type=1&query=arduous", "word": "arduous"}, {"id": "5461", "link": "/find?type=1&query=arduously", "word": "arduously"}, {"id": "5462", "link": "/find?type=1&query=arduousness", "word": "arduousness"}], "data": {}}, "en_en": {"suggests": [{"id": "1288", "link": "/find?type=3&query=arduous", "word": "arduous"}], "data": {}}, "synonyms": {"suggests": [{"id": "309", "link": "/find?type=4&query=arduous", "word": "arduous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1288",
+                "link": "/find?type=3&query=arduous",
+                "word": "arduous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5460",
+                "link": "/find?type=1&query=arduous",
+                "word": "arduous"
+            },
+            {
+                "id": "5461",
+                "link": "/find?type=1&query=arduously",
+                "word": "arduously"
+            },
+            {
+                "id": "5462",
+                "link": "/find?type=1&query=arduousness",
+                "word": "arduousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "309",
+                "link": "/find?type=4&query=arduous",
+                "word": "arduous"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "5516", "link": "/find?type=1&query=argosy", "word": "argosy"}], "data": {}}, "en_en": {"suggests": [{"id": "1295", "link": "/find?type=3&query=argon", "word": "argon"}, {"id": "1296", "link": "/find?type=3&query=argot", "word": "argot"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1295",
+                "link": "/find?type=3&query=argon",
+                "word": "argon"
+            },
+            {
+                "id": "1296",
+                "link": "/find?type=3&query=argot",
+                "word": "argot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5516",
+                "link": "/find?type=1&query=argosy",
+                "word": "argosy"
+            }
+        ]
+    }
+}

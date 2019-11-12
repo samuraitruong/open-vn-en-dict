@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "5380", "link": "/find?type=1&query=archebiosis", "word": "archebiosis"}, {"id": "5381", "link": "/find?type=1&query=arched", "word": "arched"}, {"id": "5382", "link": "/find?type=1&query=archegenesis", "word": "archegenesis"}, {"id": "5383", "link": "/find?type=1&query=archegone", "word": "archegone"}, {"id": "5384", "link": "/find?type=1&query=archegonium", "word": "archegonium"}, {"id": "5385", "link": "/find?type=1&query=archenteron", "word": "archenteron"}, {"id": "5386", "link": "/find?type=1&query=archeozoic", "word": "archeozoic"}, {"id": "5387", "link": "/find?type=1&query=archer", "word": "archer"}, {"id": "5388", "link": "/find?type=1&query=archerfish", "word": "archerfish"}, {"id": "5389", "link": "/find?type=1&query=archery", "word": "archery"}], "data": {}}, "en_en": {"suggests": [{"id": "1272", "link": "/find?type=3&query=archenemy", "word": "archenemy"}, {"id": "1273", "link": "/find?type=3&query=archeology", "word": "archeology"}, {"id": "1274", "link": "/find?type=3&query=archer", "word": "archer"}, {"id": "1275", "link": "/find?type=3&query=archery", "word": "archery"}, {"id": "1276", "link": "/find?type=3&query=archetype", "word": "archetype"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1272",
+                "link": "/find?type=3&query=archenemy",
+                "word": "archenemy"
+            },
+            {
+                "id": "1273",
+                "link": "/find?type=3&query=archeology",
+                "word": "archeology"
+            },
+            {
+                "id": "1274",
+                "link": "/find?type=3&query=archer",
+                "word": "archer"
+            },
+            {
+                "id": "1275",
+                "link": "/find?type=3&query=archery",
+                "word": "archery"
+            },
+            {
+                "id": "1276",
+                "link": "/find?type=3&query=archetype",
+                "word": "archetype"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5380",
+                "link": "/find?type=1&query=archebiosis",
+                "word": "archebiosis"
+            },
+            {
+                "id": "5381",
+                "link": "/find?type=1&query=arched",
+                "word": "arched"
+            },
+            {
+                "id": "5382",
+                "link": "/find?type=1&query=archegenesis",
+                "word": "archegenesis"
+            },
+            {
+                "id": "5383",
+                "link": "/find?type=1&query=archegone",
+                "word": "archegone"
+            },
+            {
+                "id": "5384",
+                "link": "/find?type=1&query=archegonium",
+                "word": "archegonium"
+            },
+            {
+                "id": "5385",
+                "link": "/find?type=1&query=archenteron",
+                "word": "archenteron"
+            },
+            {
+                "id": "5386",
+                "link": "/find?type=1&query=archeozoic",
+                "word": "archeozoic"
+            },
+            {
+                "id": "5387",
+                "link": "/find?type=1&query=archer",
+                "word": "archer"
+            },
+            {
+                "id": "5388",
+                "link": "/find?type=1&query=archerfish",
+                "word": "archerfish"
+            },
+            {
+                "id": "5389",
+                "link": "/find?type=1&query=archery",
+                "word": "archery"
+            }
+        ]
+    }
+}

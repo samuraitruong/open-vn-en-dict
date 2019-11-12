@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "5512", "link": "/find?type=1&query=argon+laser", "word": "argon laser"}, {"id": "5512", "link": "/find?type=1&query=argon+rectifier", "word": "argon rectifier"}, {"id": "5512", "link": "/find?type=1&query=argonaut", "word": "argonaut"}], "data": {"word": "argon", "id": "5512", "pronounce": "/'\u0251:g\u0252n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a)</div>\n    \n    <div class=\"green margin25 m-top15\">agon</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/140f1766f3e2a4d13d06ae102b4d0b21/16e5dc9b57a/A/argon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c9604d3a5419c1b41cf89b892fa0c4be/16e5dc9bb68/A/argon.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "argon", "id": "1295", "pronounce": "/\u02c8\u0251\u025a\u02ccg\u0251\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical element that is a colorless gas and that is used in various products (such as lasers and some electric light bulbs)</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical element that is a colorless gas and that is used in various products (such as lasers and some electric light bulbs)</div>",
+            "id": "1295",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u025a\u02ccg\u0251\u02d0n/",
+            "type": "noun",
+            "word": "argon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a)</div>\n    \n    <div class=\"green margin25 m-top15\">agon</div>",
+            "id": "5512",
+            "mean": [],
+            "pronounce": "/'\u0251:g\u0252n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b2f9f9fe7b191b7c52aaf5c01a95265a/16e5ead01da/A/argon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/49ee0e9ad2884674bb0509c4d5c145df/16e5eacfcc6/A/argon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "argon"
+        },
+        "suggests": [
+            {
+                "id": "5512",
+                "link": "/find?type=1&query=argon+laser",
+                "word": "argon laser"
+            },
+            {
+                "id": "5512",
+                "link": "/find?type=1&query=argon+rectifier",
+                "word": "argon rectifier"
+            },
+            {
+                "id": "5512",
+                "link": "/find?type=1&query=argonaut",
+                "word": "argonaut"
+            }
+        ]
+    }
+}
