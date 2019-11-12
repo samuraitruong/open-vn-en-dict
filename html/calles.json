@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "12511", "link": "/find?type=1&query=caller", "word": "caller"}, {"id": "12512", "link": "/find?type=1&query=caller-up", "word": "caller-up"}], "data": {}}, "en_en": {"suggests": [{"id": "3914", "link": "/find?type=3&query=caller", "word": "caller"}, {"id": "3915", "link": "/find?type=3&query=caller+display", "word": "caller display"}, {"id": "3916", "link": "/find?type=3&query=caller+ID", "word": "caller ID"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3914",
+                "link": "/find?type=3&query=caller",
+                "word": "caller"
+            },
+            {
+                "id": "3915",
+                "link": "/find?type=3&query=caller+display",
+                "word": "caller display"
+            },
+            {
+                "id": "3916",
+                "link": "/find?type=3&query=caller+ID",
+                "word": "caller ID"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12511",
+                "link": "/find?type=1&query=caller",
+                "word": "caller"
+            },
+            {
+                "id": "12512",
+                "link": "/find?type=1&query=caller-up",
+                "word": "caller-up"
+            }
+        ]
+    }
+}

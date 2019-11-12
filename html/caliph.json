@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "12480", "link": "/find?type=1&query=caliphate", "word": "caliphate"}], "data": {"word": "caliph", "id": "12480", "pronounce": "/'keilif/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">khalip, vua H\u1ed3i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ceaf5378495631b9fee9338a17f3496f/16e5de1461a/C/caliph.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4b9471cd83c319cd2953f2cea532fe0c/16e5de14bf1/C/caliph.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "caliph", "id": "3902", "pronounce": "/\u02c8ke\u026al\u0259f/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or calif  , pl -liphs or -lifs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an important Muslim political and religious leader</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or calif  , pl -liphs or -lifs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an important Muslim political and religious leader</div>",
+            "id": "3902",
+            "mean": [],
+            "pronounce": "/\u02c8ke\u026al\u0259f/",
+            "type": "noun",
+            "word": "caliph"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">khalip, vua H\u1ed3i</div>",
+            "id": "12480",
+            "mean": [],
+            "pronounce": "/'keilif/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9812b53b50838560da330bac49bcd778/16e5ec26ae9/C/caliph.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a458cbf6189330d30114a9c23659ad23/16e5ec2658c/C/caliph.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "caliph"
+        },
+        "suggests": [
+            {
+                "id": "12480",
+                "link": "/find?type=1&query=caliphate",
+                "word": "caliphate"
+            }
+        ]
+    }
+}
