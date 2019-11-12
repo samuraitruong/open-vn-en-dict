@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15639", "link": "/find?type=1&query=cirrhosis", "word": "cirrhosis"}], "data": {}}, "en_en": {"suggests": [{"id": "5009", "link": "/find?type=3&query=cirrhosis", "word": "cirrhosis"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5009",
+                "link": "/find?type=3&query=cirrhosis",
+                "word": "cirrhosis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15639",
+                "link": "/find?type=1&query=cirrhosis",
+                "word": "cirrhosis"
+            }
+        ]
+    }
+}
