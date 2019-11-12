@@ -4,6 +4,7 @@ import os.path
 import json
 import concurrent.futures
 import os.path
+import pprint
 
 
 def getWordList():
@@ -15,11 +16,62 @@ def getWordList():
     return data
 
 
+def downloadVoice(json, type):
+    word = json["word"]
+    response = requests.get(
+        "https://dict.laban.vn/ajax/getsound?accent="+type+"&word=" + word)
+    rawJson = response.json()
+    response = requests.get(rawJson["data"])
+    json["speak"][type] = rawJson["data"]
+    if response.status_code == 200:
+        with open('voice/' + word + "_" + type + ".mp3", 'wb') as f:
+            f.write(response.content)
+
+
+def parseHtml(best, fetchVoice=False):
+    json = {}
+    if best is None:
+        return json
+    json["word"] = best["word"]
+    html = pq(best["details"])
+    json["id"] = best["id"]
+    json["pronounce"] = html("span.color-black").text()
+    json["type"] = html("div.bg-grey.bold.font-large.m-top20").text()
+    json["mean"] = html(".green.bold.margin25.m-top15")
+    json["content"] = html.html().replace("https://dict.laban.vn", "")
+    if fetchVoice:
+        json["speak"] = {
+        }
+        downloadVoice(json, "us")
+        downloadVoice(json, "uk")
+    return json
+
+
+def transformLaban(json):
+    output = {}
+    if(json["enViData"]):
+        output["en_vn"] = {
+            "suggests": json["enViData"]["suggests"],
+            "data": parseHtml(json["enViData"]["best"], True)
+        }
+    if(json["enEnData"]):
+        output["en_en"] = {
+            "suggests": json["enEnData"]["suggests"],
+            "data": parseHtml(json["enEnData"]["best"], False)
+        }
+    if(json["synData"]):
+        output["synonyms"] = {
+            "suggests": json["synData"]["suggests"],
+            "data": parseHtml(json["synData"]["best"], False)
+        }
+    return output
+
+
 def getWordFromLaban(word):
     fileName = "html/" + word+".json"
-    if os.path.isfile(fileName):
-        print("Ignore ", url)
-        return None;
+    # if os.path.isfile(fileName):
+    #     print("Ignore ", url)
+    #     return None
 
     URL = "https://dict.laban.vn/find"
     URL = "https://dict.laban.vn/ajax/find"  # ?type=1&query=history
@@ -28,7 +80,9 @@ def getWordFromLaban(word):
 
     # sending get request and saving the response as response object
     r = requests.get(url=URL, params=PARAMS)
-    return r.json()
+    json = r.json()
+
+    return transformLaban(json)
     # extracting data in json format
     # data = r.text
 
@@ -56,8 +110,10 @@ def getWord(word):
     return html("#column-content").html()
 
 
+# pprint.pprint(getWordFromLaban("School"))
+# exit()
 words = getWordList()
-# print(getWordFromLaban("School"))
+
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words}
@@ -66,8 +122,10 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
         try:
             fileName = "html/" + url+".json"
             html = future.result()
-            if html!= None:
+            if html != None:
                 with open(fileName, 'w+') as outfile:
+                    outfile.seek(0)
+                    outfile.truncate()
                     json.dump(html, outfile)
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
