@@ -1,1 +1,37 @@
-{"error": 0, "query": "gases", "enViData": {"suggests": [{"id": "39151", "link": "/find?type=1&query=gaseity", "word": "gaseity"}, {"id": "39152", "link": "/find?type=1&query=gaselier", "word": "gaselier"}, {"id": "39153", "link": "/find?type=1&query=gaseous", "word": "gaseous"}, {"id": "39154", "link": "/find?type=1&query=gaseous+plasma", "word": "gaseous plasma"}]}, "mUrl": "/find?type=1&query=gases", "enEnData": {"suggests": [{"id": "11853", "link": "/find?type=3&query=gaseous", "word": "gaseous"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11853",
+                "link": "/find?type=3&query=gaseous",
+                "word": "gaseous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39151",
+                "link": "/find?type=1&query=gaseity",
+                "word": "gaseity"
+            },
+            {
+                "id": "39152",
+                "link": "/find?type=1&query=gaselier",
+                "word": "gaselier"
+            },
+            {
+                "id": "39153",
+                "link": "/find?type=1&query=gaseous",
+                "word": "gaseous"
+            },
+            {
+                "id": "39154",
+                "link": "/find?type=1&query=gaseous+plasma",
+                "word": "gaseous plasma"
+            }
+        ]
+    }
+}
