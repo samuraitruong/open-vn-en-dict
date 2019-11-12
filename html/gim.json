@@ -1,1 +1,87 @@
-{"error": 0, "query": "gim", "enViData": {"suggests": [{"id": "39970", "link": "/find?type=1&query=gimbal", "word": "gimbal"}, {"id": "39971", "link": "/find?type=1&query=gimbals", "word": "gimbals"}, {"id": "39972", "link": "/find?type=1&query=gimcrack", "word": "gimcrack"}, {"id": "39973", "link": "/find?type=1&query=gimlet", "word": "gimlet"}, {"id": "39974", "link": "/find?type=1&query=gimlet-eyed", "word": "gimlet-eyed"}, {"id": "39975", "link": "/find?type=1&query=gimmer", "word": "gimmer"}, {"id": "39976", "link": "/find?type=1&query=gimmick", "word": "gimmick"}, {"id": "39977", "link": "/find?type=1&query=gimmickry", "word": "gimmickry"}, {"id": "39978", "link": "/find?type=1&query=gimmicky", "word": "gimmicky"}]}, "mUrl": "/find?type=1&query=gim", "enEnData": {"suggests": [{"id": "12067", "link": "/find?type=3&query=gimme", "word": "gimme"}, {"id": "12068", "link": "/find?type=3&query=gimmick", "word": "gimmick"}, {"id": "12069", "link": "/find?type=3&query=gimmickry", "word": "gimmickry"}, {"id": "12070", "link": "/find?type=3&query=gimpy", "word": "gimpy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2986", "link": "/find?type=4&query=gimmick", "word": "gimmick"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12067",
+                "link": "/find?type=3&query=gimme",
+                "word": "gimme"
+            },
+            {
+                "id": "12068",
+                "link": "/find?type=3&query=gimmick",
+                "word": "gimmick"
+            },
+            {
+                "id": "12069",
+                "link": "/find?type=3&query=gimmickry",
+                "word": "gimmickry"
+            },
+            {
+                "id": "12070",
+                "link": "/find?type=3&query=gimpy",
+                "word": "gimpy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39970",
+                "link": "/find?type=1&query=gimbal",
+                "word": "gimbal"
+            },
+            {
+                "id": "39971",
+                "link": "/find?type=1&query=gimbals",
+                "word": "gimbals"
+            },
+            {
+                "id": "39972",
+                "link": "/find?type=1&query=gimcrack",
+                "word": "gimcrack"
+            },
+            {
+                "id": "39973",
+                "link": "/find?type=1&query=gimlet",
+                "word": "gimlet"
+            },
+            {
+                "id": "39974",
+                "link": "/find?type=1&query=gimlet-eyed",
+                "word": "gimlet-eyed"
+            },
+            {
+                "id": "39975",
+                "link": "/find?type=1&query=gimmer",
+                "word": "gimmer"
+            },
+            {
+                "id": "39976",
+                "link": "/find?type=1&query=gimmick",
+                "word": "gimmick"
+            },
+            {
+                "id": "39977",
+                "link": "/find?type=1&query=gimmickry",
+                "word": "gimmickry"
+            },
+            {
+                "id": "39978",
+                "link": "/find?type=1&query=gimmicky",
+                "word": "gimmicky"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2986",
+                "link": "/find?type=4&query=gimmick",
+                "word": "gimmick"
+            }
+        ]
+    }
+}
