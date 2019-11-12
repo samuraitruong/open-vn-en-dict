@@ -1,1 +1,34 @@
-{"error": 0, "query": "heathers", "enViData": {"suggests": [{"id": "43268", "link": "/find?type=1&query=heathery", "word": "heathery"}], "best": {"id": "43268", "details": "\n<div id=\"find_word_43268\" class=\"world word_en\" rel=\"heather\">\n    <h2 class=\"fl\">heather <span class=\"color-black\">/'he\u00f0\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43268\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43268\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y th\u1ea1ch nam</div>\n    \n</div>\n", "link": "/find?type=1&query=heather", "word": "heather"}}, "mUrl": "/find?type=1&query=heathers", "enEnData": {"suggests": [], "best": {"id": "13319", "details": "\n<div id=\"find_word_13319\" class=\"world word_en\" rel=\"heather\">\n    <h2 class=\"fl\">heather <span class=\"color-black\">/\u02c8h\u025b\u00f0\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13319\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13319\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a low-growing plant of northern areas that has small leaves and tiny white or purplish-pink flowers</div>\n    \n</div>\n", "link": "/find?type=3&query=heather", "word": "heather"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a low-growing plant of northern areas that has small leaves and tiny white or purplish-pink flowers</div>",
+            "id": "13319",
+            "mean": [],
+            "pronounce": "/\u02c8h\u025b\u00f0\u025a/",
+            "type": "noun",
+            "word": "heather"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y th\u1ea1ch nam</div>",
+            "id": "43268",
+            "mean": [],
+            "pronounce": "/'he\u00f0\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6ea1564bf35fd006c8f6b6a1e9eb85c4/16e6179bf26/H/heather.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/38cd3b4f530c832609c321e5c1e075b3/16e6179b71e/H/heather.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "heather"
+        },
+        "suggests": [
+            {
+                "id": "43268",
+                "link": "/find?type=1&query=heathery",
+                "word": "heathery"
+            }
+        ]
+    }
+}
