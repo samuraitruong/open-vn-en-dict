@@ -1,1 +1,87 @@
-{"error": 0, "query": "goss", "enViData": {"suggests": [{"id": "40837", "link": "/find?type=1&query=gossamer", "word": "gossamer"}, {"id": "40838", "link": "/find?type=1&query=gossamery", "word": "gossamery"}, {"id": "40839", "link": "/find?type=1&query=gossan", "word": "gossan"}, {"id": "40840", "link": "/find?type=1&query=gossanous", "word": "gossanous"}, {"id": "40841", "link": "/find?type=1&query=gossip", "word": "gossip"}, {"id": "40842", "link": "/find?type=1&query=gossiper", "word": "gossiper"}, {"id": "40843", "link": "/find?type=1&query=gossipmonger", "word": "gossipmonger"}, {"id": "40844", "link": "/find?type=1&query=gossipry", "word": "gossipry"}, {"id": "40845", "link": "/find?type=1&query=gossipy", "word": "gossipy"}, {"id": "40846", "link": "/find?type=1&query=gossoon", "word": "gossoon"}]}, "mUrl": "/find?type=1&query=goss", "enEnData": {"suggests": [{"id": "12378", "link": "/find?type=3&query=gossamer", "word": "gossamer"}, {"id": "12379", "link": "/find?type=3&query=gossip", "word": "gossip"}, {"id": "12380", "link": "/find?type=3&query=gossipmonger", "word": "gossipmonger"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3061", "link": "/find?type=4&query=gossip", "word": "gossip"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12378",
+                "link": "/find?type=3&query=gossamer",
+                "word": "gossamer"
+            },
+            {
+                "id": "12379",
+                "link": "/find?type=3&query=gossip",
+                "word": "gossip"
+            },
+            {
+                "id": "12380",
+                "link": "/find?type=3&query=gossipmonger",
+                "word": "gossipmonger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40837",
+                "link": "/find?type=1&query=gossamer",
+                "word": "gossamer"
+            },
+            {
+                "id": "40838",
+                "link": "/find?type=1&query=gossamery",
+                "word": "gossamery"
+            },
+            {
+                "id": "40839",
+                "link": "/find?type=1&query=gossan",
+                "word": "gossan"
+            },
+            {
+                "id": "40840",
+                "link": "/find?type=1&query=gossanous",
+                "word": "gossanous"
+            },
+            {
+                "id": "40841",
+                "link": "/find?type=1&query=gossip",
+                "word": "gossip"
+            },
+            {
+                "id": "40842",
+                "link": "/find?type=1&query=gossiper",
+                "word": "gossiper"
+            },
+            {
+                "id": "40843",
+                "link": "/find?type=1&query=gossipmonger",
+                "word": "gossipmonger"
+            },
+            {
+                "id": "40844",
+                "link": "/find?type=1&query=gossipry",
+                "word": "gossipry"
+            },
+            {
+                "id": "40845",
+                "link": "/find?type=1&query=gossipy",
+                "word": "gossipy"
+            },
+            {
+                "id": "40846",
+                "link": "/find?type=1&query=gossoon",
+                "word": "gossoon"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3061",
+                "link": "/find?type=4&query=gossip",
+                "word": "gossip"
+            }
+        ]
+    }
+}
