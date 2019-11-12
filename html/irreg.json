@@ -1,1 +1,52 @@
-{"error": 0, "query": "irreg", "enViData": {"suggests": [{"id": "50248", "link": "/find?type=1&query=irregardless", "word": "irregardless"}, {"id": "50249", "link": "/find?type=1&query=irregular", "word": "irregular"}, {"id": "50250", "link": "/find?type=1&query=irregularity", "word": "irregularity"}, {"id": "50251", "link": "/find?type=1&query=irregularly", "word": "irregularly"}]}, "mUrl": "/find?type=1&query=irreg", "enEnData": {"suggests": [{"id": "15420", "link": "/find?type=3&query=irregular", "word": "irregular"}, {"id": "15421", "link": "/find?type=3&query=irregularity", "word": "irregularity"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3937", "link": "/find?type=4&query=irregular", "word": "irregular"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15420",
+                "link": "/find?type=3&query=irregular",
+                "word": "irregular"
+            },
+            {
+                "id": "15421",
+                "link": "/find?type=3&query=irregularity",
+                "word": "irregularity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50248",
+                "link": "/find?type=1&query=irregardless",
+                "word": "irregardless"
+            },
+            {
+                "id": "50249",
+                "link": "/find?type=1&query=irregular",
+                "word": "irregular"
+            },
+            {
+                "id": "50250",
+                "link": "/find?type=1&query=irregularity",
+                "word": "irregularity"
+            },
+            {
+                "id": "50251",
+                "link": "/find?type=1&query=irregularly",
+                "word": "irregularly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3937",
+                "link": "/find?type=4&query=irregular",
+                "word": "irregular"
+            }
+        ]
+    }
+}
