@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "522", "link": "/find?type=1&query=academe", "word": "academe"}, {"id": "523", "link": "/find?type=1&query=academese", "word": "academese"}, {"id": "524", "link": "/find?type=1&query=academia", "word": "academia"}, {"id": "525", "link": "/find?type=1&query=academic", "word": "academic"}, {"id": "526", "link": "/find?type=1&query=academical", "word": "academical"}, {"id": "527", "link": "/find?type=1&query=academically", "word": "academically"}, {"id": "528", "link": "/find?type=1&query=academicals", "word": "academicals"}, {"id": "529", "link": "/find?type=1&query=academician", "word": "academician"}, {"id": "530", "link": "/find?type=1&query=academy", "word": "academy"}, {"id": "531", "link": "/find?type=1&query=Academy+Award", "word": "Academy Award"}], "data": {}}, "en_en": {"suggests": [{"id": "138", "link": "/find?type=3&query=academia", "word": "academia"}, {"id": "139", "link": "/find?type=3&query=academic", "word": "academic"}, {"id": "140", "link": "/find?type=3&query=academic+year", "word": "academic year"}, {"id": "141", "link": "/find?type=3&query=academy", "word": "academy"}, {"id": "142", "link": "/find?type=3&query=Academy+Award", "word": "Academy Award"}], "data": {}}, "synonyms": {"suggests": [{"id": "50", "link": "/find?type=4&query=academic", "word": "academic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "138",
+                "link": "/find?type=3&query=academia",
+                "word": "academia"
+            },
+            {
+                "id": "139",
+                "link": "/find?type=3&query=academic",
+                "word": "academic"
+            },
+            {
+                "id": "140",
+                "link": "/find?type=3&query=academic+year",
+                "word": "academic year"
+            },
+            {
+                "id": "141",
+                "link": "/find?type=3&query=academy",
+                "word": "academy"
+            },
+            {
+                "id": "142",
+                "link": "/find?type=3&query=Academy+Award",
+                "word": "Academy Award"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "522",
+                "link": "/find?type=1&query=academe",
+                "word": "academe"
+            },
+            {
+                "id": "523",
+                "link": "/find?type=1&query=academese",
+                "word": "academese"
+            },
+            {
+                "id": "524",
+                "link": "/find?type=1&query=academia",
+                "word": "academia"
+            },
+            {
+                "id": "525",
+                "link": "/find?type=1&query=academic",
+                "word": "academic"
+            },
+            {
+                "id": "526",
+                "link": "/find?type=1&query=academical",
+                "word": "academical"
+            },
+            {
+                "id": "527",
+                "link": "/find?type=1&query=academically",
+                "word": "academically"
+            },
+            {
+                "id": "528",
+                "link": "/find?type=1&query=academicals",
+                "word": "academicals"
+            },
+            {
+                "id": "529",
+                "link": "/find?type=1&query=academician",
+                "word": "academician"
+            },
+            {
+                "id": "530",
+                "link": "/find?type=1&query=academy",
+                "word": "academy"
+            },
+            {
+                "id": "531",
+                "link": "/find?type=1&query=Academy+Award",
+                "word": "Academy Award"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50",
+                "link": "/find?type=4&query=academic",
+                "word": "academic"
+            }
+        ]
+    }
+}

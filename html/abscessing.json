@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "302", "link": "/find?type=1&query=abscessed", "word": "abscessed"}], "data": {"word": "abscess", "id": "302", "pronounce": "/'\u00e6bsis/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1p xe</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/0e6b38727d6c65899edd9317249aa305/16e5db4e3f0/A/abscess.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4b2e5a175900036d24afe290d58d8a39/16e5db4ea7a/A/abscess.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "abscess", "id": "99", "pronounce": "/\u02c8\u00e6b\u02ccs\u025bs/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -scesses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a painful area of inflamed tissue that is filled with pus</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -scesses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a painful area of inflamed tissue that is filled with pus</div>",
+            "id": "99",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6b\u02ccs\u025bs/",
+            "type": "noun",
+            "word": "abscess"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1p xe</div>",
+            "id": "302",
+            "mean": [],
+            "pronounce": "/'\u00e6bsis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0712c34f4c9d9d2ff606565227abecba/16e5e9ed965/A/abscess.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7ba7e52678d165b374dcf00230d6a635/16e5e9ed447/A/abscess.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "abscess"
+        },
+        "suggests": [
+            {
+                "id": "302",
+                "link": "/find?type=1&query=abscessed",
+                "word": "abscessed"
+            }
+        ]
+    }
+}

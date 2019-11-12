@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "330", "link": "/find?type=1&query=absinthe%2Cabsinth", "word": "absinthe,absinth"}, {"id": "331", "link": "/find?type=1&query=absinthian", "word": "absinthian"}], "data": {}}, "en_en": {"suggests": [{"id": "110", "link": "/find?type=3&query=absinthe", "word": "absinthe"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "110",
+                "link": "/find?type=3&query=absinthe",
+                "word": "absinthe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "330",
+                "link": "/find?type=1&query=absinthe%2Cabsinth",
+                "word": "absinthe,absinth"
+            },
+            {
+                "id": "331",
+                "link": "/find?type=1&query=absinthian",
+                "word": "absinthian"
+            }
+        ]
+    }
+}

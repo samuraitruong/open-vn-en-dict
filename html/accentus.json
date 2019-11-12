@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "594", "link": "/find?type=1&query=accentual", "word": "accentual"}, {"id": "595", "link": "/find?type=1&query=accentually", "word": "accentually"}, {"id": "596", "link": "/find?type=1&query=accentuate", "word": "accentuate"}, {"id": "597", "link": "/find?type=1&query=accentuated+contrast", "word": "accentuated contrast"}, {"id": "598", "link": "/find?type=1&query=accentuation", "word": "accentuation"}, {"id": "599", "link": "/find?type=1&query=accentuator", "word": "accentuator"}], "data": {}}, "en_en": {"suggests": [{"id": "150", "link": "/find?type=3&query=accentuate", "word": "accentuate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "150",
+                "link": "/find?type=3&query=accentuate",
+                "word": "accentuate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "594",
+                "link": "/find?type=1&query=accentual",
+                "word": "accentual"
+            },
+            {
+                "id": "595",
+                "link": "/find?type=1&query=accentually",
+                "word": "accentually"
+            },
+            {
+                "id": "596",
+                "link": "/find?type=1&query=accentuate",
+                "word": "accentuate"
+            },
+            {
+                "id": "597",
+                "link": "/find?type=1&query=accentuated+contrast",
+                "word": "accentuated contrast"
+            },
+            {
+                "id": "598",
+                "link": "/find?type=1&query=accentuation",
+                "word": "accentuation"
+            },
+            {
+                "id": "599",
+                "link": "/find?type=1&query=accentuator",
+                "word": "accentuator"
+            }
+        ]
+    }
+}

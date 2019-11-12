@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "447", "link": "/find?type=1&query=abstract", "word": "abstract"}, {"id": "448", "link": "/find?type=1&query=abstract+algebra", "word": "abstract algebra"}, {"id": "449", "link": "/find?type=1&query=abstract+journal", "word": "abstract journal"}, {"id": "450", "link": "/find?type=1&query=abstract+noun", "word": "abstract noun"}, {"id": "451", "link": "/find?type=1&query=abstract+semantics", "word": "abstract semantics"}, {"id": "452", "link": "/find?type=1&query=abstract+symbol", "word": "abstract symbol"}, {"id": "453", "link": "/find?type=1&query=abstract+syntax", "word": "abstract syntax"}, {"id": "454", "link": "/find?type=1&query=abstracted", "word": "abstracted"}, {"id": "455", "link": "/find?type=1&query=abstractedly", "word": "abstractedly"}, {"id": "456", "link": "/find?type=1&query=abstractedness", "word": "abstractedness"}], "data": {}}, "en_en": {"suggests": [{"id": "122", "link": "/find?type=3&query=abstract", "word": "abstract"}, {"id": "123", "link": "/find?type=3&query=abstracted", "word": "abstracted"}, {"id": "124", "link": "/find?type=3&query=abstraction", "word": "abstraction"}, {"id": "125", "link": "/find?type=3&query=abstruse", "word": "abstruse"}], "data": {}}, "synonyms": {"suggests": [{"id": "40", "link": "/find?type=4&query=abstract", "word": "abstract"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "122",
+                "link": "/find?type=3&query=abstract",
+                "word": "abstract"
+            },
+            {
+                "id": "123",
+                "link": "/find?type=3&query=abstracted",
+                "word": "abstracted"
+            },
+            {
+                "id": "124",
+                "link": "/find?type=3&query=abstraction",
+                "word": "abstraction"
+            },
+            {
+                "id": "125",
+                "link": "/find?type=3&query=abstruse",
+                "word": "abstruse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "447",
+                "link": "/find?type=1&query=abstract",
+                "word": "abstract"
+            },
+            {
+                "id": "448",
+                "link": "/find?type=1&query=abstract+algebra",
+                "word": "abstract algebra"
+            },
+            {
+                "id": "449",
+                "link": "/find?type=1&query=abstract+journal",
+                "word": "abstract journal"
+            },
+            {
+                "id": "450",
+                "link": "/find?type=1&query=abstract+noun",
+                "word": "abstract noun"
+            },
+            {
+                "id": "451",
+                "link": "/find?type=1&query=abstract+semantics",
+                "word": "abstract semantics"
+            },
+            {
+                "id": "452",
+                "link": "/find?type=1&query=abstract+symbol",
+                "word": "abstract symbol"
+            },
+            {
+                "id": "453",
+                "link": "/find?type=1&query=abstract+syntax",
+                "word": "abstract syntax"
+            },
+            {
+                "id": "454",
+                "link": "/find?type=1&query=abstracted",
+                "word": "abstracted"
+            },
+            {
+                "id": "455",
+                "link": "/find?type=1&query=abstractedly",
+                "word": "abstractedly"
+            },
+            {
+                "id": "456",
+                "link": "/find?type=1&query=abstractedness",
+                "word": "abstractedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40",
+                "link": "/find?type=4&query=abstract",
+                "word": "abstract"
+            }
+        ]
+    }
+}
