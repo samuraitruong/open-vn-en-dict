@@ -1,1 +1,37 @@
-{"error": 0, "query": "grisled", "enViData": {"suggests": [{"id": "41562", "link": "/find?type=1&query=grisliness", "word": "grisliness"}, {"id": "41563", "link": "/find?type=1&query=grisly", "word": "grisly"}]}, "mUrl": "/find?type=1&query=grisled", "enEnData": {"suggests": [{"id": "12619", "link": "/find?type=3&query=grisly", "word": "grisly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3115", "link": "/find?type=4&query=grisly", "word": "grisly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12619",
+                "link": "/find?type=3&query=grisly",
+                "word": "grisly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41562",
+                "link": "/find?type=1&query=grisliness",
+                "word": "grisliness"
+            },
+            {
+                "id": "41563",
+                "link": "/find?type=1&query=grisly",
+                "word": "grisly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3115",
+                "link": "/find?type=4&query=grisly",
+                "word": "grisly"
+            }
+        ]
+    }
+}
