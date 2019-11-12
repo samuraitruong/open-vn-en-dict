@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "27645", "link": "/find?type=1&query=drearily", "word": "drearily"}, {"id": "27645", "link": "/find?type=1&query=dreariness", "word": "dreariness"}, {"id": "27645", "link": "/find?type=1&query=dreary", "word": "dreary"}], "data": {"word": "drear", "id": "27645", "pronounce": "/dri\u0259[r]/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u1eeb c\u1ed5)(nh\u01b0 dreary)</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=dreary\">dreary</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8821", "link": "/find?type=3&query=dreary", "word": "dreary"}], "data": {}}, "synonyms": {"suggests": [{"id": "1935", "link": "/find?type=4&query=dreary", "word": "dreary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8821",
+                "link": "/find?type=3&query=dreary",
+                "word": "dreary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u1eeb c\u1ed5)(nh\u01b0 dreary)</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=dreary\">dreary</a></span></div>",
+            "id": "27645",
+            "mean": [],
+            "pronounce": "/dri\u0259[r]/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "drear"
+        },
+        "suggests": [
+            {
+                "id": "27645",
+                "link": "/find?type=1&query=drearily",
+                "word": "drearily"
+            },
+            {
+                "id": "27645",
+                "link": "/find?type=1&query=dreariness",
+                "word": "dreariness"
+            },
+            {
+                "id": "27645",
+                "link": "/find?type=1&query=dreary",
+                "word": "dreary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1935",
+                "link": "/find?type=4&query=dreary",
+                "word": "dreary"
+            }
+        ]
+    }
+}

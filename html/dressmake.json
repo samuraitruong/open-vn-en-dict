@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "27684", "link": "/find?type=1&query=dressmaker", "word": "dressmaker"}], "data": {}}, "en_en": {"suggests": [{"id": "8842", "link": "/find?type=3&query=dressmaker", "word": "dressmaker"}], "data": {}}, "synonyms": {"suggests": [{"id": "1939", "link": "/find?type=4&query=dressmaker", "word": "dressmaker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8842",
+                "link": "/find?type=3&query=dressmaker",
+                "word": "dressmaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27684",
+                "link": "/find?type=1&query=dressmaker",
+                "word": "dressmaker"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1939",
+                "link": "/find?type=4&query=dressmaker",
+                "word": "dressmaker"
+            }
+        ]
+    }
+}
