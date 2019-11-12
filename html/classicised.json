@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "15870", "link": "/find?type=1&query=classicism", "word": "classicism"}, {"id": "15871", "link": "/find?type=1&query=classicist", "word": "classicist"}], "data": {}}, "en_en": {"suggests": [{"id": "5101", "link": "/find?type=3&query=classicism", "word": "classicism"}, {"id": "5102", "link": "/find?type=3&query=classicist", "word": "classicist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5101",
+                "link": "/find?type=3&query=classicism",
+                "word": "classicism"
+            },
+            {
+                "id": "5102",
+                "link": "/find?type=3&query=classicist",
+                "word": "classicist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15870",
+                "link": "/find?type=1&query=classicism",
+                "word": "classicism"
+            },
+            {
+                "id": "15871",
+                "link": "/find?type=1&query=classicist",
+                "word": "classicist"
+            }
+        ]
+    }
+}

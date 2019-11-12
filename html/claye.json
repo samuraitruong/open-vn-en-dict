@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15930", "link": "/find?type=1&query=clayey", "word": "clayey"}], "data": {}}, "en_en": {"suggests": [{"id": "5122", "link": "/find?type=3&query=clayey", "word": "clayey"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5122",
+                "link": "/find?type=3&query=clayey",
+                "word": "clayey"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15930",
+                "link": "/find?type=1&query=clayey",
+                "word": "clayey"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "15888", "link": "/find?type=1&query=clathrate", "word": "clathrate"}, {"id": "15889", "link": "/find?type=1&query=clatter", "word": "clatter"}, {"id": "15890", "link": "/find?type=1&query=clatter+down%2C+across%2C+in", "word": "clatter down, across, in"}, {"id": "15891", "link": "/find?type=1&query=clatterer", "word": "clatterer"}, {"id": "15892", "link": "/find?type=1&query=clatteringly", "word": "clatteringly"}], "data": {}}, "en_en": {"suggests": [{"id": "5112", "link": "/find?type=3&query=clatter", "word": "clatter"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5112",
+                "link": "/find?type=3&query=clatter",
+                "word": "clatter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15888",
+                "link": "/find?type=1&query=clathrate",
+                "word": "clathrate"
+            },
+            {
+                "id": "15889",
+                "link": "/find?type=1&query=clatter",
+                "word": "clatter"
+            },
+            {
+                "id": "15890",
+                "link": "/find?type=1&query=clatter+down%2C+across%2C+in",
+                "word": "clatter down, across, in"
+            },
+            {
+                "id": "15891",
+                "link": "/find?type=1&query=clatterer",
+                "word": "clatterer"
+            },
+            {
+                "id": "15892",
+                "link": "/find?type=1&query=clatteringly",
+                "word": "clatteringly"
+            }
+        ]
+    }
+}

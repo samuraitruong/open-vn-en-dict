@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "15874", "link": "/find?type=1&query=classification", "word": "classification"}, {"id": "15875", "link": "/find?type=1&query=classificatorily", "word": "classificatorily"}, {"id": "15876", "link": "/find?type=1&query=classificatory", "word": "classificatory"}], "data": {}}, "en_en": {"suggests": [{"id": "5103", "link": "/find?type=3&query=classification", "word": "classification"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5103",
+                "link": "/find?type=3&query=classification",
+                "word": "classification"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15874",
+                "link": "/find?type=1&query=classification",
+                "word": "classification"
+            },
+            {
+                "id": "15875",
+                "link": "/find?type=1&query=classificatorily",
+                "word": "classificatorily"
+            },
+            {
+                "id": "15876",
+                "link": "/find?type=1&query=classificatory",
+                "word": "classificatory"
+            }
+        ]
+    }
+}

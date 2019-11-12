@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "15688", "link": "/find?type=1&query=citronella", "word": "citronella"}], "data": {"word": "citron", "id": "15688", "pronounce": "/'sitr\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) thanh y\u00ean (c\u00e2y, qu\u1ea3)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f1f2ad23dc96d3a51f78f3918239fcdc/16e5decff27/C/citron.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/63c9f13ba975d4abc0cddabea0929de5/16e5ded050e/C/citron.mp3"}}}, "en_en": {"suggests": [{"id": "5022", "link": "/find?type=3&query=citronella", "word": "citronella"}], "data": {"word": "citron", "id": "5022", "pronounce": "/\u02c8s\u026atr\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a fruit that is like a large lemon</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a fruit that is like a large lemon</div>",
+            "id": "5022",
+            "mean": [],
+            "pronounce": "/\u02c8s\u026atr\u0259n/",
+            "type": "noun",
+            "word": "citron"
+        },
+        "suggests": [
+            {
+                "id": "5022",
+                "link": "/find?type=3&query=citronella",
+                "word": "citronella"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) thanh y\u00ean (c\u00e2y, qu\u1ea3)</div>",
+            "id": "15688",
+            "mean": [],
+            "pronounce": "/'sitr\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/87bd804cabef059e1d4bc56b8ef59608/16e5ecd49a1/C/citron.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bf1032ba8cec1f95d8494c1579ec0508/16e5ecd4476/C/citron.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "citron"
+        },
+        "suggests": [
+            {
+                "id": "15688",
+                "link": "/find?type=1&query=citronella",
+                "word": "citronella"
+            }
+        ]
+    }
+}
