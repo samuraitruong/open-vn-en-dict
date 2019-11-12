@@ -1,1 +1,44 @@
-{"error": 0, "query": "gipsy", "enViData": {"suggests": [{"id": "40010", "link": "/find?type=1&query=gipsy-table", "word": "gipsy-table"}, {"id": "40010", "link": "/find?type=1&query=gipsyhood", "word": "gipsyhood"}, {"id": "40010", "link": "/find?type=1&query=gipsyish", "word": "gipsyish"}], "best": {"id": "40010", "details": "\n<div id=\"find_word_40010\" class=\"world word_en\" rel=\"gipsy\">\n    <h2 class=\"fl\">gipsy <span class=\"color-black\">/'d\u0292ipsi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40010\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40010\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=gypsy\">gypsy</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=gipsy", "word": "gipsy"}}, "mUrl": "/find?type=1&query=gipsy", "enEnData": {"suggests": [], "best": {"id": "12084", "details": "\n<div id=\"find_word_12084\" class=\"world word_en\" rel=\"Gipsy\">\n    <h2 class=\"fl\">Gipsy <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12084\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12084\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">variant spelling of gypsy</div>\n    \n</div>\n", "link": "/find?type=3&query=Gipsy", "word": "Gipsy"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">variant spelling of gypsy</div>",
+            "id": "12084",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "Gipsy"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=gypsy\">gypsy</a></span></div>",
+            "id": "40010",
+            "mean": [],
+            "pronounce": "/'d\u0292ipsi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c29cd01669ba04467a7899f0e3f2e8b1/16e60f38945/G/gipsy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2456cc0890b7a6e79aeb392b0e9e783f/16e60f38152/G/gipsy.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gipsy"
+        },
+        "suggests": [
+            {
+                "id": "40010",
+                "link": "/find?type=1&query=gipsy-table",
+                "word": "gipsy-table"
+            },
+            {
+                "id": "40010",
+                "link": "/find?type=1&query=gipsyhood",
+                "word": "gipsyhood"
+            },
+            {
+                "id": "40010",
+                "link": "/find?type=1&query=gipsyish",
+                "word": "gipsyish"
+            }
+        ]
+    }
+}
