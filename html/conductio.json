@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "18399", "link": "/find?type=1&query=conduction", "word": "conduction"}], "data": {}}, "en_en": {"suggests": [{"id": "5868", "link": "/find?type=3&query=conduction", "word": "conduction"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5868",
+                "link": "/find?type=3&query=conduction",
+                "word": "conduction"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18399",
+                "link": "/find?type=1&query=conduction",
+                "word": "conduction"
+            }
+        ]
+    }
+}
