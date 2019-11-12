@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "31909", "link": "/find?type=1&query=escargot", "word": "escargot"}, {"id": "31910", "link": "/find?type=1&query=escarole", "word": "escarole"}, {"id": "31911", "link": "/find?type=1&query=escarp", "word": "escarp"}, {"id": "31912", "link": "/find?type=1&query=escarpment", "word": "escarpment"}], "data": {}}, "en_en": {"suggests": [{"id": "9764", "link": "/find?type=3&query=escarpment", "word": "escarpment"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9764",
+                "link": "/find?type=3&query=escarpment",
+                "word": "escarpment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31909",
+                "link": "/find?type=1&query=escargot",
+                "word": "escargot"
+            },
+            {
+                "id": "31910",
+                "link": "/find?type=1&query=escarole",
+                "word": "escarole"
+            },
+            {
+                "id": "31911",
+                "link": "/find?type=1&query=escarp",
+                "word": "escarp"
+            },
+            {
+                "id": "31912",
+                "link": "/find?type=1&query=escarpment",
+                "word": "escarpment"
+            }
+        ]
+    }
+}
