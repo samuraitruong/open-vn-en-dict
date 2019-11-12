@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "21650", "link": "/find?type=1&query=culverin", "word": "culverin"}, {"id": "21650", "link": "/find?type=1&query=culvert", "word": "culvert"}], "data": {"word": "culver", "id": "21650", "pronounce": "/'k\u028clv\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) b\u1ed3 c\u00e2u r\u1eebng l\u00f4ng x\u00e1m (Ch\u00e2u-\u00c2u)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6972", "link": "/find?type=3&query=culvert", "word": "culvert"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6972",
+                "link": "/find?type=3&query=culvert",
+                "word": "culvert"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) b\u1ed3 c\u00e2u r\u1eebng l\u00f4ng x\u00e1m (Ch\u00e2u-\u00c2u)</div>",
+            "id": "21650",
+            "mean": [],
+            "pronounce": "/'k\u028clv\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "culver"
+        },
+        "suggests": [
+            {
+                "id": "21650",
+                "link": "/find?type=1&query=culverin",
+                "word": "culverin"
+            },
+            {
+                "id": "21650",
+                "link": "/find?type=1&query=culvert",
+                "word": "culvert"
+            }
+        ]
+    }
+}

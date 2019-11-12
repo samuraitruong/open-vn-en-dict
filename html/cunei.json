@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21694", "link": "/find?type=1&query=cuneiform", "word": "cuneiform"}], "data": {}}, "en_en": {"suggests": [{"id": "6980", "link": "/find?type=3&query=cuneiform", "word": "cuneiform"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6980",
+                "link": "/find?type=3&query=cuneiform",
+                "word": "cuneiform"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21694",
+                "link": "/find?type=1&query=cuneiform",
+                "word": "cuneiform"
+            }
+        ]
+    }
+}

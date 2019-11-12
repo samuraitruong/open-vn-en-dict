@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "21617", "link": "/find?type=1&query=culpa", "word": "culpa"}, {"id": "21618", "link": "/find?type=1&query=culpability", "word": "culpability"}, {"id": "21619", "link": "/find?type=1&query=culpable", "word": "culpable"}, {"id": "21620", "link": "/find?type=1&query=culpableness", "word": "culpableness"}, {"id": "21621", "link": "/find?type=1&query=culpably", "word": "culpably"}, {"id": "21622", "link": "/find?type=1&query=culprit", "word": "culprit"}], "data": {}}, "en_en": {"suggests": [{"id": "6962", "link": "/find?type=3&query=culpable", "word": "culpable"}, {"id": "6963", "link": "/find?type=3&query=culprit", "word": "culprit"}], "data": {}}, "synonyms": {"suggests": [{"id": "1358", "link": "/find?type=4&query=culprit", "word": "culprit"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6962",
+                "link": "/find?type=3&query=culpable",
+                "word": "culpable"
+            },
+            {
+                "id": "6963",
+                "link": "/find?type=3&query=culprit",
+                "word": "culprit"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21617",
+                "link": "/find?type=1&query=culpa",
+                "word": "culpa"
+            },
+            {
+                "id": "21618",
+                "link": "/find?type=1&query=culpability",
+                "word": "culpability"
+            },
+            {
+                "id": "21619",
+                "link": "/find?type=1&query=culpable",
+                "word": "culpable"
+            },
+            {
+                "id": "21620",
+                "link": "/find?type=1&query=culpableness",
+                "word": "culpableness"
+            },
+            {
+                "id": "21621",
+                "link": "/find?type=1&query=culpably",
+                "word": "culpably"
+            },
+            {
+                "id": "21622",
+                "link": "/find?type=1&query=culprit",
+                "word": "culprit"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1358",
+                "link": "/find?type=4&query=culprit",
+                "word": "culprit"
+            }
+        ]
+    }
+}

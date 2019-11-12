@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21616", "link": "/find?type=1&query=culottes", "word": "culottes"}], "data": {}}, "en_en": {"suggests": [{"id": "6961", "link": "/find?type=3&query=culottes", "word": "culottes"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6961",
+                "link": "/find?type=3&query=culottes",
+                "word": "culottes"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21616",
+                "link": "/find?type=1&query=culottes",
+                "word": "culottes"
+            }
+        ]
+    }
+}
