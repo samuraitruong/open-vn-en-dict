@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "16844", "link": "/find?type=1&query=coherence", "word": "coherence"}, {"id": "16844", "link": "/find?type=1&query=coherency", "word": "coherency"}, {"id": "16844", "link": "/find?type=1&query=coherent", "word": "coherent"}, {"id": "16844", "link": "/find?type=1&query=coherently", "word": "coherently"}, {"id": "16844", "link": "/find?type=1&query=coherer", "word": "coherer"}], "data": {"word": "cohere", "id": "16844", "pronounce": "/k\u0259\u028a'hi\u0259[r]/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00ednh v\u00e0o nhau, k\u1ebft l\u1ea1i v\u1edbi nhau, c\u1ed1 k\u1ebft</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 t\u00ednh m\u1ea1ch l\u1ea1c ch\u1eb7t ch\u1ebd (v\u0103n ch\u01b0\u01a1ng, l\u00fd lu\u1eadn\u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9deea2e438bac93fb0bee570b4eb9bd4/16e5df0361d/C/cohere.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0a35e68e470d2d45b47731ed548f5c02/16e5df03bc0/C/cohere.mp3"}}}, "en_en": {"suggests": [{"id": "5436", "link": "/find?type=3&query=coherent", "word": "coherent"}], "data": {"word": "cohere", "id": "5436", "pronounce": "/ko\u028a\u02c8hi\u025a/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-heres; -hered; -hering</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] formal :to be combined or united in a logical and effective way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">There are several themes in the story but they never cohere (with one another).</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1081", "link": "/find?type=4&query=coherent", "word": "coherent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-heres; -hered; -hering</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] formal :to be combined or united in a logical and effective way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">There are several themes in the story but they never cohere (with one another).</div>",
+            "id": "5436",
+            "mean": [],
+            "pronounce": "/ko\u028a\u02c8hi\u025a/",
+            "type": "verb",
+            "word": "cohere"
+        },
+        "suggests": [
+            {
+                "id": "5436",
+                "link": "/find?type=3&query=coherent",
+                "word": "coherent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00ednh v\u00e0o nhau, k\u1ebft l\u1ea1i v\u1edbi nhau, c\u1ed1 k\u1ebft</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 t\u00ednh m\u1ea1ch l\u1ea1c ch\u1eb7t ch\u1ebd (v\u0103n ch\u01b0\u01a1ng, l\u00fd lu\u1eadn\u2026)</div>",
+            "id": "16844",
+            "mean": [],
+            "pronounce": "/k\u0259\u028a'hi\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0c35b6cfc00dd7969b9d296c9ee79424/16e5ed0fa84/C/cohere.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5d0d5725b953baf0802932c255ea38b9/16e5ed0f17f/C/cohere.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "cohere"
+        },
+        "suggests": [
+            {
+                "id": "16844",
+                "link": "/find?type=1&query=coherence",
+                "word": "coherence"
+            },
+            {
+                "id": "16844",
+                "link": "/find?type=1&query=coherency",
+                "word": "coherency"
+            },
+            {
+                "id": "16844",
+                "link": "/find?type=1&query=coherent",
+                "word": "coherent"
+            },
+            {
+                "id": "16844",
+                "link": "/find?type=1&query=coherently",
+                "word": "coherently"
+            },
+            {
+                "id": "16844",
+                "link": "/find?type=1&query=coherer",
+                "word": "coherer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1081",
+                "link": "/find?type=4&query=coherent",
+                "word": "coherent"
+            }
+        ]
+    }
+}

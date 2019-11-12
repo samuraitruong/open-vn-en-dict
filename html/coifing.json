@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "16863", "link": "/find?type=1&query=coiffeur", "word": "coiffeur"}, {"id": "16863", "link": "/find?type=1&query=coiffeuse", "word": "coiffeuse"}, {"id": "16863", "link": "/find?type=1&query=coiffure", "word": "coiffure"}], "data": {"word": "coif", "id": "16863", "pronounce": "/k\u0254if/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u0169 ni (c\u1ee7a m\u1ed9t s\u1ed1 n\u1eef tu s\u0129)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5441", "link": "/find?type=3&query=coiffure", "word": "coiffure"}], "data": {"word": "coif", "id": "5441", "pronounce": "/\u02c8kw\u0251\u02d0f/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">coifs; coiffed also coifed; coiffing also coifing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to cut and arrange someone's hair - usually used as coiffed</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a carefully coiffed man</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">her perfectly coiffed hair</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">coifs; coiffed also coifed; coiffing also coifing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to cut and arrange someone's hair - usually used as coiffed</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a carefully coiffed man</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">her perfectly coiffed hair</div>",
+            "id": "5441",
+            "mean": [],
+            "pronounce": "/\u02c8kw\u0251\u02d0f/",
+            "type": "verb",
+            "word": "coif"
+        },
+        "suggests": [
+            {
+                "id": "5441",
+                "link": "/find?type=3&query=coiffure",
+                "word": "coiffure"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u0169 ni (c\u1ee7a m\u1ed9t s\u1ed1 n\u1eef tu s\u0129)</div>",
+            "id": "16863",
+            "mean": [],
+            "pronounce": "/k\u0254if/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "coif"
+        },
+        "suggests": [
+            {
+                "id": "16863",
+                "link": "/find?type=1&query=coiffeur",
+                "word": "coiffeur"
+            },
+            {
+                "id": "16863",
+                "link": "/find?type=1&query=coiffeuse",
+                "word": "coiffeuse"
+            },
+            {
+                "id": "16863",
+                "link": "/find?type=1&query=coiffure",
+                "word": "coiffure"
+            }
+        ]
+    }
+}

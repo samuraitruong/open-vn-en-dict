@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "16857", "link": "/find?type=1&query=cohomology", "word": "cohomology"}, {"id": "16857", "link": "/find?type=1&query=cohomotopy", "word": "cohomotopy"}, {"id": "16857", "link": "/find?type=1&query=cohort", "word": "cohort"}], "data": {"word": "coho", "id": "16857", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) b\u1ed9 dao \u0111\u1ed9ng nh\u1ea5t qu\u00e1n, b\u1ed9 coho [radda]</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5440", "link": "/find?type=3&query=cohort", "word": "cohort"}], "data": {}}, "synonyms": {"suggests": [{"id": "1082", "link": "/find?type=4&query=cohort", "word": "cohort"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5440",
+                "link": "/find?type=3&query=cohort",
+                "word": "cohort"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) b\u1ed9 dao \u0111\u1ed9ng nh\u1ea5t qu\u00e1n, b\u1ed9 coho [radda]</div>",
+            "id": "16857",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "coho"
+        },
+        "suggests": [
+            {
+                "id": "16857",
+                "link": "/find?type=1&query=cohomology",
+                "word": "cohomology"
+            },
+            {
+                "id": "16857",
+                "link": "/find?type=1&query=cohomotopy",
+                "word": "cohomotopy"
+            },
+            {
+                "id": "16857",
+                "link": "/find?type=1&query=cohort",
+                "word": "cohort"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1082",
+                "link": "/find?type=4&query=cohort",
+                "word": "cohort"
+            }
+        ]
+    }
+}
