@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "18925", "link": "/find?type=1&query=conspiratorial", "word": "conspiratorial"}, {"id": "18925", "link": "/find?type=1&query=conspiratorially", "word": "conspiratorially"}], "data": {"word": "conspirator", "id": "18925", "pronounce": "/k\u0259n'spir\u0259t\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb \u0111\u1ed3ng m\u01b0u</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1c20fa58a36b439381cf96ca3437b711/16e5df54297/C/conspirator.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ffb06b9a05da03302a781b9b4a0a1c81/16e5df548ac/C/conspirator.mp3"}}}, "en_en": {"suggests": [{"id": "6035", "link": "/find?type=3&query=conspiratorial", "word": "conspiratorial"}], "data": {"word": "conspirator", "id": "6035", "pronounce": "/k\u0259n\u02c8spir\u0259t\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who is involved in a secret plan to do something harmful or illegal :a person who is involved in a conspiracy</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who is involved in a secret plan to do something harmful or illegal :a person who is involved in a conspiracy</div>",
+            "id": "6035",
+            "mean": [],
+            "pronounce": "/k\u0259n\u02c8spir\u0259t\u025a/",
+            "type": "noun",
+            "word": "conspirator"
+        },
+        "suggests": [
+            {
+                "id": "6035",
+                "link": "/find?type=3&query=conspiratorial",
+                "word": "conspiratorial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb \u0111\u1ed3ng m\u01b0u</div>",
+            "id": "18925",
+            "mean": [],
+            "pronounce": "/k\u0259n'spir\u0259t\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0beb6c053ae202f0b33aea7cedb2210d/16e5ed83b12/C/conspirator.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fd0ae01ac6643d127f5400ff92137d12/16e5ed8325b/C/conspirator.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "conspirator"
+        },
+        "suggests": [
+            {
+                "id": "18925",
+                "link": "/find?type=1&query=conspiratorial",
+                "word": "conspiratorial"
+            },
+            {
+                "id": "18925",
+                "link": "/find?type=1&query=conspiratorially",
+                "word": "conspiratorially"
+            }
+        ]
+    }
+}
