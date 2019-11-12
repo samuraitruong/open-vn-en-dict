@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "29027", "link": "/find?type=1&query=egalitarian", "word": "egalitarian"}, {"id": "29028", "link": "/find?type=1&query=egalitarianism", "word": "egalitarianism"}], "data": {}}, "en_en": {"suggests": [{"id": "9250", "link": "/find?type=3&query=egalitarian", "word": "egalitarian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9250",
+                "link": "/find?type=3&query=egalitarian",
+                "word": "egalitarian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29027",
+                "link": "/find?type=1&query=egalitarian",
+                "word": "egalitarian"
+            },
+            {
+                "id": "29028",
+                "link": "/find?type=1&query=egalitarianism",
+                "word": "egalitarianism"
+            }
+        ]
+    }
+}

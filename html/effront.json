@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "29008", "link": "/find?type=1&query=effrontery", "word": "effrontery"}], "data": {}}, "en_en": {"suggests": [{"id": "9246", "link": "/find?type=3&query=effrontery", "word": "effrontery"}], "data": {}}, "synonyms": {"suggests": [{"id": "2046", "link": "/find?type=4&query=effrontery", "word": "effrontery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9246",
+                "link": "/find?type=3&query=effrontery",
+                "word": "effrontery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29008",
+                "link": "/find?type=1&query=effrontery",
+                "word": "effrontery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2046",
+                "link": "/find?type=4&query=effrontery",
+                "word": "effrontery"
+            }
+        ]
+    }
+}

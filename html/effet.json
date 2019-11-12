@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "28967", "link": "/find?type=1&query=effete", "word": "effete"}, {"id": "28968", "link": "/find?type=1&query=effetely", "word": "effetely"}, {"id": "28969", "link": "/find?type=1&query=effeteness", "word": "effeteness"}], "data": {}}, "en_en": {"suggests": [{"id": "9236", "link": "/find?type=3&query=effete", "word": "effete"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9236",
+                "link": "/find?type=3&query=effete",
+                "word": "effete"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28967",
+                "link": "/find?type=1&query=effete",
+                "word": "effete"
+            },
+            {
+                "id": "28968",
+                "link": "/find?type=1&query=effetely",
+                "word": "effetely"
+            },
+            {
+                "id": "28969",
+                "link": "/find?type=1&query=effeteness",
+                "word": "effeteness"
+            }
+        ]
+    }
+}
