@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "4946", "link": "/find?type=1&query=apoplexy", "word": "apoplexy"}], "data": {}}, "en_en": {"suggests": [{"id": "1133", "link": "/find?type=3&query=apoplexy", "word": "apoplexy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1133",
+                "link": "/find?type=3&query=apoplexy",
+                "word": "apoplexy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4946",
+                "link": "/find?type=1&query=apoplexy",
+                "word": "apoplexy"
+            }
+        ]
+    }
+}

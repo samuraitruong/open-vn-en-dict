@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "4760", "link": "/find?type=1&query=aparejo", "word": "aparejo"}, {"id": "4761", "link": "/find?type=1&query=apart", "word": "apart"}, {"id": "4762", "link": "/find?type=1&query=apart+from", "word": "apart from"}, {"id": "4763", "link": "/find?type=1&query=apartheid", "word": "apartheid"}, {"id": "4764", "link": "/find?type=1&query=apartment", "word": "apartment"}, {"id": "4765", "link": "/find?type=1&query=apartment+block", "word": "apartment block"}, {"id": "4766", "link": "/find?type=1&query=apartness", "word": "apartness"}], "data": {}}, "en_en": {"suggests": [{"id": "1107", "link": "/find?type=3&query=apart", "word": "apart"}, {"id": "1108", "link": "/find?type=3&query=apartheid", "word": "apartheid"}, {"id": "1109", "link": "/find?type=3&query=apartment", "word": "apartment"}, {"id": "1110", "link": "/find?type=3&query=apartment+building", "word": "apartment building"}], "data": {}}, "synonyms": {"suggests": [{"id": "274", "link": "/find?type=4&query=apart", "word": "apart"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1107",
+                "link": "/find?type=3&query=apart",
+                "word": "apart"
+            },
+            {
+                "id": "1108",
+                "link": "/find?type=3&query=apartheid",
+                "word": "apartheid"
+            },
+            {
+                "id": "1109",
+                "link": "/find?type=3&query=apartment",
+                "word": "apartment"
+            },
+            {
+                "id": "1110",
+                "link": "/find?type=3&query=apartment+building",
+                "word": "apartment building"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4760",
+                "link": "/find?type=1&query=aparejo",
+                "word": "aparejo"
+            },
+            {
+                "id": "4761",
+                "link": "/find?type=1&query=apart",
+                "word": "apart"
+            },
+            {
+                "id": "4762",
+                "link": "/find?type=1&query=apart+from",
+                "word": "apart from"
+            },
+            {
+                "id": "4763",
+                "link": "/find?type=1&query=apartheid",
+                "word": "apartheid"
+            },
+            {
+                "id": "4764",
+                "link": "/find?type=1&query=apartment",
+                "word": "apartment"
+            },
+            {
+                "id": "4765",
+                "link": "/find?type=1&query=apartment+block",
+                "word": "apartment block"
+            },
+            {
+                "id": "4766",
+                "link": "/find?type=1&query=apartness",
+                "word": "apartness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "274",
+                "link": "/find?type=4&query=apart",
+                "word": "apart"
+            }
+        ]
+    }
+}

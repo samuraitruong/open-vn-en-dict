@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "4816", "link": "/find?type=1&query=aphorism", "word": "aphorism"}, {"id": "4817", "link": "/find?type=1&query=aphorismic", "word": "aphorismic"}, {"id": "4818", "link": "/find?type=1&query=aphorist", "word": "aphorist"}, {"id": "4819", "link": "/find?type=1&query=aphoristic", "word": "aphoristic"}, {"id": "4820", "link": "/find?type=1&query=aphoristically", "word": "aphoristically"}], "data": {}}, "en_en": {"suggests": [{"id": "1118", "link": "/find?type=3&query=aphorism", "word": "aphorism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1118",
+                "link": "/find?type=3&query=aphorism",
+                "word": "aphorism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4816",
+                "link": "/find?type=1&query=aphorism",
+                "word": "aphorism"
+            },
+            {
+                "id": "4817",
+                "link": "/find?type=1&query=aphorismic",
+                "word": "aphorismic"
+            },
+            {
+                "id": "4818",
+                "link": "/find?type=1&query=aphorist",
+                "word": "aphorist"
+            },
+            {
+                "id": "4819",
+                "link": "/find?type=1&query=aphoristic",
+                "word": "aphoristic"
+            },
+            {
+                "id": "4820",
+                "link": "/find?type=1&query=aphoristically",
+                "word": "aphoristically"
+            }
+        ]
+    }
+}
