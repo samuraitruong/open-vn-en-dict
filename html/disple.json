@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "26374", "link": "/find?type=1&query=displease", "word": "displease"}, {"id": "26375", "link": "/find?type=1&query=displeased", "word": "displeased"}, {"id": "26376", "link": "/find?type=1&query=displeasing", "word": "displeasing"}, {"id": "26377", "link": "/find?type=1&query=displeasingly", "word": "displeasingly"}, {"id": "26378", "link": "/find?type=1&query=displeasure", "word": "displeasure"}], "data": {}}, "en_en": {"suggests": [{"id": "8296", "link": "/find?type=3&query=displease", "word": "displease"}, {"id": "8297", "link": "/find?type=3&query=displeasure", "word": "displeasure"}], "data": {}}, "synonyms": {"suggests": [{"id": "1791", "link": "/find?type=4&query=displease", "word": "displease"}, {"id": "1792", "link": "/find?type=4&query=displeasure", "word": "displeasure"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8296",
+                "link": "/find?type=3&query=displease",
+                "word": "displease"
+            },
+            {
+                "id": "8297",
+                "link": "/find?type=3&query=displeasure",
+                "word": "displeasure"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26374",
+                "link": "/find?type=1&query=displease",
+                "word": "displease"
+            },
+            {
+                "id": "26375",
+                "link": "/find?type=1&query=displeased",
+                "word": "displeased"
+            },
+            {
+                "id": "26376",
+                "link": "/find?type=1&query=displeasing",
+                "word": "displeasing"
+            },
+            {
+                "id": "26377",
+                "link": "/find?type=1&query=displeasingly",
+                "word": "displeasingly"
+            },
+            {
+                "id": "26378",
+                "link": "/find?type=1&query=displeasure",
+                "word": "displeasure"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1791",
+                "link": "/find?type=4&query=displease",
+                "word": "displease"
+            },
+            {
+                "id": "1792",
+                "link": "/find?type=4&query=displeasure",
+                "word": "displeasure"
+            }
+        ]
+    }
+}

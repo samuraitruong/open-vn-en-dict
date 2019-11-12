@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "26389", "link": "/find?type=1&query=dispossess", "word": "dispossess"}, {"id": "26390", "link": "/find?type=1&query=dispossessed", "word": "dispossessed"}, {"id": "26391", "link": "/find?type=1&query=dispossession", "word": "dispossession"}, {"id": "26392", "link": "/find?type=1&query=dispossessor", "word": "dispossessor"}], "data": {}}, "en_en": {"suggests": [{"id": "8303", "link": "/find?type=3&query=dispossess", "word": "dispossess"}, {"id": "8304", "link": "/find?type=3&query=dispossessed", "word": "dispossessed"}], "data": {}}, "synonyms": {"suggests": [{"id": "1797", "link": "/find?type=4&query=dispossess", "word": "dispossess"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8303",
+                "link": "/find?type=3&query=dispossess",
+                "word": "dispossess"
+            },
+            {
+                "id": "8304",
+                "link": "/find?type=3&query=dispossessed",
+                "word": "dispossessed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26389",
+                "link": "/find?type=1&query=dispossess",
+                "word": "dispossess"
+            },
+            {
+                "id": "26390",
+                "link": "/find?type=1&query=dispossessed",
+                "word": "dispossessed"
+            },
+            {
+                "id": "26391",
+                "link": "/find?type=1&query=dispossession",
+                "word": "dispossession"
+            },
+            {
+                "id": "26392",
+                "link": "/find?type=1&query=dispossessor",
+                "word": "dispossessor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1797",
+                "link": "/find?type=4&query=dispossess",
+                "word": "dispossess"
+            }
+        ]
+    }
+}
