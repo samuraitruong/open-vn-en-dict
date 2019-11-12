@@ -1,1 +1,57 @@
-{"error": 0, "query": "infern", "enViData": {"suggests": [{"id": "48150", "link": "/find?type=1&query=infernal", "word": "infernal"}, {"id": "48151", "link": "/find?type=1&query=infernal+machine", "word": "infernal machine"}, {"id": "48152", "link": "/find?type=1&query=infernality", "word": "infernality"}, {"id": "48153", "link": "/find?type=1&query=infernally", "word": "infernally"}, {"id": "48154", "link": "/find?type=1&query=inferno", "word": "inferno"}]}, "mUrl": "/find?type=1&query=infern", "enEnData": {"suggests": [{"id": "14856", "link": "/find?type=3&query=infernal", "word": "infernal"}, {"id": "14857", "link": "/find?type=3&query=inferno", "word": "inferno"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3746", "link": "/find?type=4&query=infernal", "word": "infernal"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14856",
+                "link": "/find?type=3&query=infernal",
+                "word": "infernal"
+            },
+            {
+                "id": "14857",
+                "link": "/find?type=3&query=inferno",
+                "word": "inferno"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48150",
+                "link": "/find?type=1&query=infernal",
+                "word": "infernal"
+            },
+            {
+                "id": "48151",
+                "link": "/find?type=1&query=infernal+machine",
+                "word": "infernal machine"
+            },
+            {
+                "id": "48152",
+                "link": "/find?type=1&query=infernality",
+                "word": "infernality"
+            },
+            {
+                "id": "48153",
+                "link": "/find?type=1&query=infernally",
+                "word": "infernally"
+            },
+            {
+                "id": "48154",
+                "link": "/find?type=1&query=inferno",
+                "word": "inferno"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3746",
+                "link": "/find?type=4&query=infernal",
+                "word": "infernal"
+            }
+        ]
+    }
+}

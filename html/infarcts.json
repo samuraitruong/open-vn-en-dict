@@ -1,1 +1,25 @@
-{"error": 0, "query": "infarcts", "enViData": {"suggests": [{"id": "48113", "link": "/find?type=1&query=infarcted", "word": "infarcted"}, {"id": "48113", "link": "/find?type=1&query=infarction", "word": "infarction"}], "best": {"id": "48113", "details": "\n<div id=\"find_word_48113\" class=\"world word_en\" rel=\"infarct\">\n    <h2 class=\"fl\">infarct <span class=\"color-black\">/in'f\u0251:kt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48113\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48113\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) nh\u1ed3i m\u00e1u</div>\n    \n</div>\n", "link": "/find?type=1&query=infarct", "word": "infarct"}}, "mUrl": "/find?type=1&query=infarcts", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) nh\u1ed3i m\u00e1u</div>",
+            "id": "48113",
+            "mean": [],
+            "pronounce": "/in'f\u0251:kt/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "infarct"
+        },
+        "suggests": [
+            {
+                "id": "48113",
+                "link": "/find?type=1&query=infarcted",
+                "word": "infarcted"
+            },
+            {
+                "id": "48113",
+                "link": "/find?type=1&query=infarction",
+                "word": "infarction"
+            }
+        ]
+    }
+}

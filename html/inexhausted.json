@@ -1,1 +1,47 @@
-{"error": 0, "query": "inexhausted", "enViData": {"suggests": [{"id": "48022", "link": "/find?type=1&query=inexhaustibility", "word": "inexhaustibility"}, {"id": "48023", "link": "/find?type=1&query=inexhaustible", "word": "inexhaustible"}, {"id": "48024", "link": "/find?type=1&query=inexhaustibleness", "word": "inexhaustibleness"}, {"id": "48025", "link": "/find?type=1&query=inexhaustibly", "word": "inexhaustibly"}]}, "mUrl": "/find?type=1&query=inexhausted", "enEnData": {"suggests": [{"id": "14828", "link": "/find?type=3&query=inexhaustible", "word": "inexhaustible"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3727", "link": "/find?type=4&query=inexhaustible", "word": "inexhaustible"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14828",
+                "link": "/find?type=3&query=inexhaustible",
+                "word": "inexhaustible"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48022",
+                "link": "/find?type=1&query=inexhaustibility",
+                "word": "inexhaustibility"
+            },
+            {
+                "id": "48023",
+                "link": "/find?type=1&query=inexhaustible",
+                "word": "inexhaustible"
+            },
+            {
+                "id": "48024",
+                "link": "/find?type=1&query=inexhaustibleness",
+                "word": "inexhaustibleness"
+            },
+            {
+                "id": "48025",
+                "link": "/find?type=1&query=inexhaustibly",
+                "word": "inexhaustibly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3727",
+                "link": "/find?type=4&query=inexhaustible",
+                "word": "inexhaustible"
+            }
+        ]
+    }
+}

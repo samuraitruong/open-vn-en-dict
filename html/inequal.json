@@ -1,1 +1,32 @@
-{"error": 0, "query": "inequal", "enViData": {"suggests": [{"id": "47966", "link": "/find?type=1&query=inequality", "word": "inequality"}]}, "mUrl": "/find?type=1&query=inequal", "enEnData": {"suggests": [{"id": "14816", "link": "/find?type=3&query=inequality", "word": "inequality"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3720", "link": "/find?type=4&query=inequality", "word": "inequality"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14816",
+                "link": "/find?type=3&query=inequality",
+                "word": "inequality"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47966",
+                "link": "/find?type=1&query=inequality",
+                "word": "inequality"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3720",
+                "link": "/find?type=4&query=inequality",
+                "word": "inequality"
+            }
+        ]
+    }
+}

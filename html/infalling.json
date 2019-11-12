@@ -1,1 +1,47 @@
-{"error": 0, "query": "infalling", "enViData": {"suggests": [{"id": "48083", "link": "/find?type=1&query=infallibility", "word": "infallibility"}, {"id": "48084", "link": "/find?type=1&query=infallible", "word": "infallible"}, {"id": "48085", "link": "/find?type=1&query=infallibleness", "word": "infallibleness"}, {"id": "48086", "link": "/find?type=1&query=infallibly", "word": "infallibly"}]}, "mUrl": "/find?type=1&query=infalling", "enEnData": {"suggests": [{"id": "14836", "link": "/find?type=3&query=infallible", "word": "infallible"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3735", "link": "/find?type=4&query=infallible", "word": "infallible"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14836",
+                "link": "/find?type=3&query=infallible",
+                "word": "infallible"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48083",
+                "link": "/find?type=1&query=infallibility",
+                "word": "infallibility"
+            },
+            {
+                "id": "48084",
+                "link": "/find?type=1&query=infallible",
+                "word": "infallible"
+            },
+            {
+                "id": "48085",
+                "link": "/find?type=1&query=infallibleness",
+                "word": "infallibleness"
+            },
+            {
+                "id": "48086",
+                "link": "/find?type=1&query=infallibly",
+                "word": "infallibly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3735",
+                "link": "/find?type=4&query=infallible",
+                "word": "infallible"
+            }
+        ]
+    }
+}

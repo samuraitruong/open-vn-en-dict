@@ -1,1 +1,67 @@
-{"error": 0, "query": "infamed", "enViData": {"suggests": [{"id": "48087", "link": "/find?type=1&query=infamise", "word": "infamise"}, {"id": "48088", "link": "/find?type=1&query=infamize", "word": "infamize"}, {"id": "48089", "link": "/find?type=1&query=infamous", "word": "infamous"}, {"id": "48090", "link": "/find?type=1&query=infamously", "word": "infamously"}, {"id": "48091", "link": "/find?type=1&query=infamousness", "word": "infamousness"}, {"id": "48092", "link": "/find?type=1&query=infamy", "word": "infamy"}]}, "mUrl": "/find?type=1&query=infamed", "enEnData": {"suggests": [{"id": "14837", "link": "/find?type=3&query=infamous", "word": "infamous"}, {"id": "14838", "link": "/find?type=3&query=infamy", "word": "infamy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3736", "link": "/find?type=4&query=infamous", "word": "infamous"}, {"id": "3737", "link": "/find?type=4&query=infamy", "word": "infamy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14837",
+                "link": "/find?type=3&query=infamous",
+                "word": "infamous"
+            },
+            {
+                "id": "14838",
+                "link": "/find?type=3&query=infamy",
+                "word": "infamy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48087",
+                "link": "/find?type=1&query=infamise",
+                "word": "infamise"
+            },
+            {
+                "id": "48088",
+                "link": "/find?type=1&query=infamize",
+                "word": "infamize"
+            },
+            {
+                "id": "48089",
+                "link": "/find?type=1&query=infamous",
+                "word": "infamous"
+            },
+            {
+                "id": "48090",
+                "link": "/find?type=1&query=infamously",
+                "word": "infamously"
+            },
+            {
+                "id": "48091",
+                "link": "/find?type=1&query=infamousness",
+                "word": "infamousness"
+            },
+            {
+                "id": "48092",
+                "link": "/find?type=1&query=infamy",
+                "word": "infamy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3736",
+                "link": "/find?type=4&query=infamous",
+                "word": "infamous"
+            },
+            {
+                "id": "3737",
+                "link": "/find?type=4&query=infamy",
+                "word": "infamy"
+            }
+        ]
+    }
+}
