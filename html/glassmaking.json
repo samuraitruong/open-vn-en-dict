@@ -1,1 +1,22 @@
-{"error": 0, "query": "glassmaking", "enViData": {"suggests": [{"id": "40159", "link": "/find?type=1&query=glassmaker", "word": "glassmaker"}]}, "mUrl": "/find?type=1&query=glassmaking", "enEnData": {"suggests": [{"id": "12133", "link": "/find?type=3&query=glassmaker", "word": "glassmaker"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12133",
+                "link": "/find?type=3&query=glassmaker",
+                "word": "glassmaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "40159",
+                "link": "/find?type=1&query=glassmaker",
+                "word": "glassmaker"
+            }
+        ]
+    }
+}
