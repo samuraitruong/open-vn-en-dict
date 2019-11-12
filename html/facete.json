@@ -1,1 +1,17 @@
-{"en_vn": {"suggests": [{"id": "33776", "link": "/find?type=1&query=faceted", "word": "faceted"}, {"id": "104620", "link": "/find?type=1&query=-faceted", "word": "-faceted"}], "data": {}}}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33776",
+                "link": "/find?type=1&query=faceted",
+                "word": "faceted"
+            },
+            {
+                "id": "104620",
+                "link": "/find?type=1&query=-faceted",
+                "word": "-faceted"
+            }
+        ]
+    }
+}
