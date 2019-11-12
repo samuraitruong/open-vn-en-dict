@@ -1,1 +1,85 @@
-{"en_vn": {"suggests": [{"id": "7117", "link": "/find?type=1&query=auxanometer", "word": "auxanometer"}, {"id": "7117", "link": "/find?type=1&query=auxesis", "word": "auxesis"}, {"id": "7117", "link": "/find?type=1&query=auxetic", "word": "auxetic"}, {"id": "7117", "link": "/find?type=1&query=auxiliary", "word": "auxiliary"}, {"id": "7117", "link": "/find?type=1&query=auxiliary+anode", "word": "auxiliary anode"}, {"id": "7117", "link": "/find?type=1&query=auxiliary+electrode", "word": "auxiliary electrode"}, {"id": "7117", "link": "/find?type=1&query=auxiliary+equipment", "word": "auxiliary equipment"}, {"id": "7117", "link": "/find?type=1&query=auxiliary+memory", "word": "auxiliary memory"}, {"id": "7117", "link": "/find?type=1&query=auxiliary+operation", "word": "auxiliary operation"}], "data": {"word": "aux", "id": "7117", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">c\u1ed5ng ph\u1ee5</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1703", "link": "/find?type=3&query=auxiliary", "word": "auxiliary"}, {"id": "1704", "link": "/find?type=3&query=auxiliary+verb", "word": "auxiliary verb"}], "data": {}}, "synonyms": {"suggests": [{"id": "395", "link": "/find?type=4&query=auxiliary", "word": "auxiliary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1703",
+                "link": "/find?type=3&query=auxiliary",
+                "word": "auxiliary"
+            },
+            {
+                "id": "1704",
+                "link": "/find?type=3&query=auxiliary+verb",
+                "word": "auxiliary verb"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">c\u1ed5ng ph\u1ee5</div>",
+            "id": "7117",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "aux"
+        },
+        "suggests": [
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxanometer",
+                "word": "auxanometer"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxesis",
+                "word": "auxesis"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxetic",
+                "word": "auxetic"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxiliary",
+                "word": "auxiliary"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxiliary+anode",
+                "word": "auxiliary anode"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxiliary+electrode",
+                "word": "auxiliary electrode"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxiliary+equipment",
+                "word": "auxiliary equipment"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxiliary+memory",
+                "word": "auxiliary memory"
+            },
+            {
+                "id": "7117",
+                "link": "/find?type=1&query=auxiliary+operation",
+                "word": "auxiliary operation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "395",
+                "link": "/find?type=4&query=auxiliary",
+                "word": "auxiliary"
+            }
+        ]
+    }
+}

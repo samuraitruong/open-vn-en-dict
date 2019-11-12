@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "6847", "link": "/find?type=1&query=autocratic", "word": "autocratic"}, {"id": "6847", "link": "/find?type=1&query=autocratical", "word": "autocratical"}, {"id": "6847", "link": "/find?type=1&query=autocratically", "word": "autocratically"}], "data": {"word": "autocrat", "id": "6847", "pronounce": "/'\u0254:t\u0259kr\u00e6t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi chuy\u00ean ch\u1ebf; nh\u00e0 \u0111\u1ed9c t\u00e0i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/175c02afb832ac78e6facc23a6069a0d/16e5dcdde37/A/autocrat.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/da1a47f4e455cd0477f628cf02a54bba/16e5dcde42e/A/autocrat.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "autocrat", "id": "1683", "pronounce": "/\u02c8\u0251\u02d0t\u0259\u02cckr\u00e6t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -crats</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who rules with total power</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -crats</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who rules with total power</div>",
+            "id": "1683",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0t\u0259\u02cckr\u00e6t/",
+            "type": "noun",
+            "word": "autocrat"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi chuy\u00ean ch\u1ebf; nh\u00e0 \u0111\u1ed9c t\u00e0i</div>",
+            "id": "6847",
+            "mean": [],
+            "pronounce": "/'\u0254:t\u0259kr\u00e6t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3ab2f54a8537cce6f8f806f8839ff66c/16e5eb0fbad/A/autocrat.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fa28c103f10877258efc75ff19b54a31/16e5eb0f599/A/autocrat.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "autocrat"
+        },
+        "suggests": [
+            {
+                "id": "6847",
+                "link": "/find?type=1&query=autocratic",
+                "word": "autocratic"
+            },
+            {
+                "id": "6847",
+                "link": "/find?type=1&query=autocratical",
+                "word": "autocratical"
+            },
+            {
+                "id": "6847",
+                "link": "/find?type=1&query=autocratically",
+                "word": "autocratically"
+            }
+        ]
+    }
+}
