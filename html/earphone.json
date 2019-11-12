@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "28433", "link": "/find?type=1&query=earphones", "word": "earphones"}], "data": {"word": "earphone", "id": "28433", "pronounce": "/'i\u0259foun/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) \u1ed1ng nghe</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/85ad4f75bcbda4fe781f856f9acd7554/16e5e10f2d5/E/earphone.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4f7721386a6c20d415a006b938c0e994/16e5e10f8c3/E/earphone.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "earphone", "id": "9122", "pronounce": "/\u02c8i\u025a\u02ccfo\u028an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phones</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device that is worn over or inserted into the ear and is used for listening to something (such as music or a radio) without having other people hear it</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phones</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device that is worn over or inserted into the ear and is used for listening to something (such as music or a radio) without having other people hear it</div>",
+            "id": "9122",
+            "mean": [],
+            "pronounce": "/\u02c8i\u025a\u02ccfo\u028an/",
+            "type": "noun",
+            "word": "earphone"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) \u1ed1ng nghe</div>",
+            "id": "28433",
+            "mean": [],
+            "pronounce": "/'i\u0259foun/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/075d71019e2b190b2d411dfaf60b2900/16e5eff098f/E/earphone.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cd8c7d160d29582bd9c23e113faece4d/16e5efee285/E/earphone.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "earphone"
+        },
+        "suggests": [
+            {
+                "id": "28433",
+                "link": "/find?type=1&query=earphones",
+                "word": "earphones"
+            }
+        ]
+    }
+}
