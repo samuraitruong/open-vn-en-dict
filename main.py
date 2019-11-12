@@ -29,10 +29,12 @@ def downloadVoice(json, type):
                 f.write(response.content)
 
 
-def parseHtml(best, fetchVoice=False):
+def parseHtml(input, fetchVoice=False):
     json = {}
-    if best is None:
+    if "best" not in input:
         return json
+    best = input["best"]
+
     json["word"] = best["word"]
     html = pq(best["details"])
     json["id"] = best["id"]
@@ -42,8 +44,7 @@ def parseHtml(best, fetchVoice=False):
     json["content"] = html("#content_selectable").html().replace(
         "https://dict.laban.vn", "")
     if fetchVoice:
-        json["speak"] = {
-        }
+        json["speak"] = {}
         downloadVoice(json, "us")
         downloadVoice(json, "uk")
     return json
@@ -54,17 +55,17 @@ def transformLaban(json):
     if "enViData" in json:
         output["en_vn"] = {
             "suggests": json["enViData"]["suggests"],
-            "data": parseHtml(json["enViData"]["best"], True)
+            "data": parseHtml(json["enViData"], True)
         }
     if "enEnData" in json:
         output["en_en"] = {
             "suggests": json["enEnData"]["suggests"],
-            "data": parseHtml(json["enEnData"]["best"], False)
+            "data": parseHtml(json["enEnData"], False)
         }
     if "synData" in json:
         output["synonyms"] = {
             "suggests": json["synData"]["suggests"],
-            "data": parseHtml(json["synData"]["best"], False)
+            "data": parseHtml(json["synData"], False)
         }
     return output
 
@@ -112,7 +113,7 @@ def getWord(word):
     return html("#column-content").html()
 
 
-# pprint.pprint(getWordFromLaban("abdominally"))
+# pprint.pprint(getWordFromLaban("abbr"))
 # exit()
 words = getWordList()
 
@@ -131,5 +132,6 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                     json.dump(html, outfile)
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
+            exit()
         else:
             print('%r page is %d bytes' % (url, len(html)))
