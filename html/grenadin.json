@@ -1,1 +1,22 @@
-{"error": 0, "query": "grenadin", "enViData": {"suggests": [{"id": "41449", "link": "/find?type=1&query=grenadine", "word": "grenadine"}]}, "mUrl": "/find?type=1&query=grenadin", "enEnData": {"suggests": [{"id": "12588", "link": "/find?type=3&query=grenadine", "word": "grenadine"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12588",
+                "link": "/find?type=3&query=grenadine",
+                "word": "grenadine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41449",
+                "link": "/find?type=1&query=grenadine",
+                "word": "grenadine"
+            }
+        ]
+    }
+}
