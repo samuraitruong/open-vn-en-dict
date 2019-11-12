@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "28026", "link": "/find?type=1&query=dulcet", "word": "dulcet"}], "data": {}}, "en_en": {"suggests": [{"id": "8995", "link": "/find?type=3&query=dulcet", "word": "dulcet"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8995",
+                "link": "/find?type=3&query=dulcet",
+                "word": "dulcet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28026",
+                "link": "/find?type=1&query=dulcet",
+                "word": "dulcet"
+            }
+        ]
+    }
+}

@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "28086", "link": "/find?type=1&query=dungarees", "word": "dungarees"}], "data": {"word": "dungaree", "id": "28086", "pronounce": "/d\u028c\u0273g\u0259'ri:/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ea3i tr\u00fac b\u00e2u th\u00f4 \u00c2n-\u0111\u1ed9</div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1ed1 nhi\u1ec1u) qu\u1ea7n \u00e1o b\u1eb1ng v\u1ea3i tr\u00fac b\u00e2u th\u00f4, qu\u1ea7n \u00e1o lao \u0111\u1ed9ng b\u1eb1ng v\u1ea3i tr\u00fac b\u00e2u th\u00f4</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9021", "link": "/find?type=3&query=dungarees", "word": "dungarees"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9021",
+                "link": "/find?type=3&query=dungarees",
+                "word": "dungarees"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ea3i tr\u00fac b\u00e2u th\u00f4 \u00c2n-\u0111\u1ed9</div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1ed1 nhi\u1ec1u) qu\u1ea7n \u00e1o b\u1eb1ng v\u1ea3i tr\u00fac b\u00e2u th\u00f4, qu\u1ea7n \u00e1o lao \u0111\u1ed9ng b\u1eb1ng v\u1ea3i tr\u00fac b\u00e2u th\u00f4</div>",
+            "id": "28086",
+            "mean": [],
+            "pronounce": "/d\u028c\u0273g\u0259'ri:/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "dungaree"
+        },
+        "suggests": [
+            {
+                "id": "28086",
+                "link": "/find?type=1&query=dungarees",
+                "word": "dungarees"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "28026", "link": "/find?type=1&query=dulcet", "word": "dulcet"}, {"id": "28027", "link": "/find?type=1&query=dulcification", "word": "dulcification"}, {"id": "28028", "link": "/find?type=1&query=dulcify", "word": "dulcify"}, {"id": "28029", "link": "/find?type=1&query=dulcimer", "word": "dulcimer"}], "data": {}}, "en_en": {"suggests": [{"id": "8995", "link": "/find?type=3&query=dulcet", "word": "dulcet"}, {"id": "8996", "link": "/find?type=3&query=dulcimer", "word": "dulcimer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8995",
+                "link": "/find?type=3&query=dulcet",
+                "word": "dulcet"
+            },
+            {
+                "id": "8996",
+                "link": "/find?type=3&query=dulcimer",
+                "word": "dulcimer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28026",
+                "link": "/find?type=1&query=dulcet",
+                "word": "dulcet"
+            },
+            {
+                "id": "28027",
+                "link": "/find?type=1&query=dulcification",
+                "word": "dulcification"
+            },
+            {
+                "id": "28028",
+                "link": "/find?type=1&query=dulcify",
+                "word": "dulcify"
+            },
+            {
+                "id": "28029",
+                "link": "/find?type=1&query=dulcimer",
+                "word": "dulcimer"
+            }
+        ]
+    }
+}
