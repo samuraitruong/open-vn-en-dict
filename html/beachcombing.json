@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8545", "link": "/find?type=1&query=beachcomber", "word": "beachcomber"}], "data": {}}, "en_en": {"suggests": [{"id": "2221", "link": "/find?type=3&query=beachcomber", "word": "beachcomber"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2221",
+                "link": "/find?type=3&query=beachcomber",
+                "word": "beachcomber"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8545",
+                "link": "/find?type=1&query=beachcomber",
+                "word": "beachcomber"
+            }
+        ]
+    }
+}

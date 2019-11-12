@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "8604", "link": "/find?type=1&query=beastliness", "word": "beastliness"}, {"id": "8605", "link": "/find?type=1&query=beastly", "word": "beastly"}], "data": {}}, "en_en": {"suggests": [{"id": "2255", "link": "/find?type=3&query=beastly", "word": "beastly"}], "data": {}}, "synonyms": {"suggests": [{"id": "461", "link": "/find?type=4&query=beastly", "word": "beastly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2255",
+                "link": "/find?type=3&query=beastly",
+                "word": "beastly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8604",
+                "link": "/find?type=1&query=beastliness",
+                "word": "beastliness"
+            },
+            {
+                "id": "8605",
+                "link": "/find?type=1&query=beastly",
+                "word": "beastly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "461",
+                "link": "/find?type=4&query=beastly",
+                "word": "beastly"
+            }
+        ]
+    }
+}

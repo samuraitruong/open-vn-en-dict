@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "8560", "link": "/find?type=1&query=beaked", "word": "beaked"}, {"id": "8560", "link": "/find?type=1&query=beaker", "word": "beaker"}], "data": {"word": "beak", "id": "8560", "pronounce": "/bi:k/", "type": "Danh t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u1ecf (chim)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt h\u00ecnh m\u1ecf; m\u0169i kho\u1eb1m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u1eeb Anh,ti\u1ebfng l\u00f3ng)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea9m ph\u00e1n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/1d5a68919a01cd3d46c6072061423c17/16e5dd2de36/B/beak.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4878457f06a67d2eb6845fcf899b47e4/16e5dd2e3f6/B/beak.mp3"}}}, "en_en": {"suggests": [{"id": "2232", "link": "/find?type=3&query=beaker", "word": "beaker"}], "data": {"word": "beak", "id": "2232", "pronounce": "/\u02c8bi\u02d0k/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural beaks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the hard usually pointed parts that cover a bird's mouth :bill</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the beak of a hawk</div>\n    \n    <div class=\"green margin25 m-top15\">informal + humorous :a person's nose</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an actor with a big beak</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural beaks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the hard usually pointed parts that cover a bird's mouth :bill</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the beak of a hawk</div>\n    \n    <div class=\"green margin25 m-top15\">informal + humorous :a person's nose</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an actor with a big beak</div>",
+            "id": "2232",
+            "mean": [],
+            "pronounce": "/\u02c8bi\u02d0k/",
+            "type": "noun",
+            "word": "beak"
+        },
+        "suggests": [
+            {
+                "id": "2232",
+                "link": "/find?type=3&query=beaker",
+                "word": "beaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u1ecf (chim)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt h\u00ecnh m\u1ecf; m\u0169i kho\u1eb1m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u1eeb Anh,ti\u1ebfng l\u00f3ng)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ea9m ph\u00e1n</div>",
+            "id": "8560",
+            "mean": [],
+            "pronounce": "/bi:k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6c39dc168485453b9e71df974557637c/16e5eb57f61/B/beak.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c8087b00f8f77e0f4088a4d281a247e8/16e5eb57a66/B/beak.mp3"
+            },
+            "type": "Danh t\u1eeb Danh t\u1eeb",
+            "word": "beak"
+        },
+        "suggests": [
+            {
+                "id": "8560",
+                "link": "/find?type=1&query=beaked",
+                "word": "beaked"
+            },
+            {
+                "id": "8560",
+                "link": "/find?type=1&query=beaker",
+                "word": "beaker"
+            }
+        ]
+    }
+}

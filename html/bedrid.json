@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8689", "link": "/find?type=1&query=bedridden", "word": "bedridden"}], "data": {}}, "en_en": {"suggests": [{"id": "2307", "link": "/find?type=3&query=bedridden", "word": "bedridden"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2307",
+                "link": "/find?type=3&query=bedridden",
+                "word": "bedridden"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8689",
+                "link": "/find?type=1&query=bedridden",
+                "word": "bedridden"
+            }
+        ]
+    }
+}
