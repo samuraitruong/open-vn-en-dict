@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "24713", "link": "/find?type=1&query=devalorization", "word": "devalorization"}, {"id": "24714", "link": "/find?type=1&query=devalorize", "word": "devalorize"}, {"id": "24715", "link": "/find?type=1&query=devaluate", "word": "devaluate"}, {"id": "24716", "link": "/find?type=1&query=devaluation", "word": "devaluation"}, {"id": "24717", "link": "/find?type=1&query=Devaluation+and+revaluation", "word": "Devaluation and revaluation"}, {"id": "24718", "link": "/find?type=1&query=devalue", "word": "devalue"}], "data": {}}, "en_en": {"suggests": [{"id": "7856", "link": "/find?type=3&query=devalue", "word": "devalue"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7856",
+                "link": "/find?type=3&query=devalue",
+                "word": "devalue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24713",
+                "link": "/find?type=1&query=devalorization",
+                "word": "devalorization"
+            },
+            {
+                "id": "24714",
+                "link": "/find?type=1&query=devalorize",
+                "word": "devalorize"
+            },
+            {
+                "id": "24715",
+                "link": "/find?type=1&query=devaluate",
+                "word": "devaluate"
+            },
+            {
+                "id": "24716",
+                "link": "/find?type=1&query=devaluation",
+                "word": "devaluation"
+            },
+            {
+                "id": "24717",
+                "link": "/find?type=1&query=Devaluation+and+revaluation",
+                "word": "Devaluation and revaluation"
+            },
+            {
+                "id": "24718",
+                "link": "/find?type=1&query=devalue",
+                "word": "devalue"
+            }
+        ]
+    }
+}

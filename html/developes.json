@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "24727", "link": "/find?type=1&query=developed", "word": "developed"}, {"id": "24728", "link": "/find?type=1&query=developer", "word": "developer"}], "data": {}}, "en_en": {"suggests": [{"id": "7860", "link": "/find?type=3&query=developed", "word": "developed"}, {"id": "7861", "link": "/find?type=3&query=developer", "word": "developer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7860",
+                "link": "/find?type=3&query=developed",
+                "word": "developed"
+            },
+            {
+                "id": "7861",
+                "link": "/find?type=3&query=developer",
+                "word": "developer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24727",
+                "link": "/find?type=1&query=developed",
+                "word": "developed"
+            },
+            {
+                "id": "24728",
+                "link": "/find?type=1&query=developer",
+                "word": "developer"
+            }
+        ]
+    }
+}
