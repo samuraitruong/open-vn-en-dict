@@ -22,4 +22,7 @@ python3 main.py
 ```
 
 ## Git commit
-To avoid 
+To avoid slow git commit because huge number of file run below command during script running 
+
+```sh
+watch  -n 30 "git add --all; git commit  -m \"Update Json\"; git push"
