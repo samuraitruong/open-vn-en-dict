@@ -1,1 +1,115 @@
-{"en_vn": {"suggests": [{"id": "21399", "link": "/find?type=1&query=crusade", "word": "crusade"}, {"id": "21399", "link": "/find?type=1&query=crusader", "word": "crusader"}, {"id": "21399", "link": "/find?type=1&query=cruse", "word": "cruse"}, {"id": "21399", "link": "/find?type=1&query=crush", "word": "crush"}, {"id": "21399", "link": "/find?type=1&query=crush+barrier", "word": "crush barrier"}, {"id": "21399", "link": "/find?type=1&query=crush-room", "word": "crush-room"}, {"id": "21399", "link": "/find?type=1&query=crushable", "word": "crushable"}, {"id": "21399", "link": "/find?type=1&query=crusher", "word": "crusher"}, {"id": "21399", "link": "/find?type=1&query=crushing", "word": "crushing"}], "data": {"word": "crus", "id": "21399", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u crura</div>\n    \n    <div class=\"green margin25 m-top15\">cu\u1ed1ng; ch\u00e2n; \u0111\u00f9i</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6901", "link": "/find?type=3&query=crusade", "word": "crusade"}, {"id": "6902", "link": "/find?type=3&query=crush", "word": "crush"}, {"id": "6903", "link": "/find?type=3&query=crushing", "word": "crushing"}, {"id": "6904", "link": "/find?type=3&query=crust", "word": "crust"}, {"id": "6905", "link": "/find?type=3&query=crustacean", "word": "crustacean"}, {"id": "6906", "link": "/find?type=3&query=crusted", "word": "crusted"}, {"id": "6907", "link": "/find?type=3&query=crusty", "word": "crusty"}], "data": {}}, "synonyms": {"suggests": [{"id": "1351", "link": "/find?type=4&query=crusade", "word": "crusade"}, {"id": "1352", "link": "/find?type=4&query=crush", "word": "crush"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6901",
+                "link": "/find?type=3&query=crusade",
+                "word": "crusade"
+            },
+            {
+                "id": "6902",
+                "link": "/find?type=3&query=crush",
+                "word": "crush"
+            },
+            {
+                "id": "6903",
+                "link": "/find?type=3&query=crushing",
+                "word": "crushing"
+            },
+            {
+                "id": "6904",
+                "link": "/find?type=3&query=crust",
+                "word": "crust"
+            },
+            {
+                "id": "6905",
+                "link": "/find?type=3&query=crustacean",
+                "word": "crustacean"
+            },
+            {
+                "id": "6906",
+                "link": "/find?type=3&query=crusted",
+                "word": "crusted"
+            },
+            {
+                "id": "6907",
+                "link": "/find?type=3&query=crusty",
+                "word": "crusty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u crura</div>\n    \n    <div class=\"green margin25 m-top15\">cu\u1ed1ng; ch\u00e2n; \u0111\u00f9i</div>",
+            "id": "21399",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "crus"
+        },
+        "suggests": [
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crusade",
+                "word": "crusade"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crusader",
+                "word": "crusader"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=cruse",
+                "word": "cruse"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crush",
+                "word": "crush"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crush+barrier",
+                "word": "crush barrier"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crush-room",
+                "word": "crush-room"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crushable",
+                "word": "crushable"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crusher",
+                "word": "crusher"
+            },
+            {
+                "id": "21399",
+                "link": "/find?type=1&query=crushing",
+                "word": "crushing"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1351",
+                "link": "/find?type=4&query=crusade",
+                "word": "crusade"
+            },
+            {
+                "id": "1352",
+                "link": "/find?type=4&query=crush",
+                "word": "crush"
+            }
+        ]
+    }
+}

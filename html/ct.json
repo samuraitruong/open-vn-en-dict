@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "21516", "link": "/find?type=1&query=ctenoid", "word": "ctenoid"}, {"id": "21516", "link": "/find?type=1&query=ctenophoral", "word": "ctenophoral"}, {"id": "21516", "link": "/find?type=1&query=ctenophore", "word": "ctenophore"}, {"id": "21516", "link": "/find?type=1&query=ctenosome", "word": "ctenosome"}, {"id": "21516", "link": "/find?type=1&query=ctrl", "word": "ctrl"}], "data": {"word": "ct", "id": "21516", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cts)</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a carat) cara</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an 18ct gold ring</div>\n    \n    <div class=\"margin25\">chi\u1ebfc nh\u1eabn v\u00e0ng 18 cara</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a cent) xu</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">50 cts</div>\n    \n    <div class=\"margin25\">n\u0103m m\u01b0\u01a1i xu</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6928", "link": "/find?type=3&query=CT+scan", "word": "CT scan"}, {"id": "6928", "link": "/find?type=3&query=ct.", "word": "ct."}, {"id": "6928", "link": "/find?type=3&query=Ct.", "word": "Ct."}], "data": {"word": "CT", "id": "6928", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Connecticut</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Connecticut</div>",
+            "id": "6928",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "CT"
+        },
+        "suggests": [
+            {
+                "id": "6928",
+                "link": "/find?type=3&query=CT+scan",
+                "word": "CT scan"
+            },
+            {
+                "id": "6928",
+                "link": "/find?type=3&query=ct.",
+                "word": "ct."
+            },
+            {
+                "id": "6928",
+                "link": "/find?type=3&query=Ct.",
+                "word": "Ct."
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(s\u1ed1 nhi\u1ec1u cts)</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a carat) cara</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an 18ct gold ring</div>\n    \n    <div class=\"margin25\">chi\u1ebfc nh\u1eabn v\u00e0ng 18 cara</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a cent) xu</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">50 cts</div>\n    \n    <div class=\"margin25\">n\u0103m m\u01b0\u01a1i xu</div>",
+            "id": "21516",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "ct"
+        },
+        "suggests": [
+            {
+                "id": "21516",
+                "link": "/find?type=1&query=ctenoid",
+                "word": "ctenoid"
+            },
+            {
+                "id": "21516",
+                "link": "/find?type=1&query=ctenophoral",
+                "word": "ctenophoral"
+            },
+            {
+                "id": "21516",
+                "link": "/find?type=1&query=ctenophore",
+                "word": "ctenophore"
+            },
+            {
+                "id": "21516",
+                "link": "/find?type=1&query=ctenosome",
+                "word": "ctenosome"
+            },
+            {
+                "id": "21516",
+                "link": "/find?type=1&query=ctrl",
+                "word": "ctrl"
+            }
+        ]
+    }
+}

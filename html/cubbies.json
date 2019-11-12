@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "21534", "link": "/find?type=1&query=cubby-hole", "word": "cubby-hole"}], "data": {"word": "cubby", "id": "21534", "pronounce": "/'k\u028cbi/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 k\u00edn \u0111\u00e1o, ch\u1ed7 \u1ea5m c\u00fang ((th\u01b0\u1eddng) cubby hole)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6935", "link": "/find?type=3&query=cubbyhole", "word": "cubbyhole"}], "data": {"word": "cubby", "id": "6935", "pronounce": "/\u02c8k\u028cbi/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :cubbyhole</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :cubbyhole</div>",
+            "id": "6935",
+            "mean": [],
+            "pronounce": "/\u02c8k\u028cbi/",
+            "type": "noun",
+            "word": "cubby"
+        },
+        "suggests": [
+            {
+                "id": "6935",
+                "link": "/find?type=3&query=cubbyhole",
+                "word": "cubbyhole"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 k\u00edn \u0111\u00e1o, ch\u1ed7 \u1ea5m c\u00fang ((th\u01b0\u1eddng) cubby hole)</div>",
+            "id": "21534",
+            "mean": [],
+            "pronounce": "/'k\u028cbi/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "cubby"
+        },
+        "suggests": [
+            {
+                "id": "21534",
+                "link": "/find?type=1&query=cubby-hole",
+                "word": "cubby-hole"
+            }
+        ]
+    }
+}
