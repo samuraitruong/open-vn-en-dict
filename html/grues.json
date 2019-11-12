@@ -1,1 +1,42 @@
-{"error": 0, "query": "grues", "enViData": {"suggests": [{"id": "41790", "link": "/find?type=1&query=gruesome", "word": "gruesome"}, {"id": "41791", "link": "/find?type=1&query=gruesomely", "word": "gruesomely"}, {"id": "41792", "link": "/find?type=1&query=gruesomeness", "word": "gruesomeness"}]}, "mUrl": "/find?type=1&query=grues", "enEnData": {"suggests": [{"id": "12702", "link": "/find?type=3&query=gruesome", "word": "gruesome"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3133", "link": "/find?type=4&query=gruesome", "word": "gruesome"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12702",
+                "link": "/find?type=3&query=gruesome",
+                "word": "gruesome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41790",
+                "link": "/find?type=1&query=gruesome",
+                "word": "gruesome"
+            },
+            {
+                "id": "41791",
+                "link": "/find?type=1&query=gruesomely",
+                "word": "gruesomely"
+            },
+            {
+                "id": "41792",
+                "link": "/find?type=1&query=gruesomeness",
+                "word": "gruesomeness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3133",
+                "link": "/find?type=4&query=gruesome",
+                "word": "gruesome"
+            }
+        ]
+    }
+}
