@@ -1,1 +1,27 @@
-{"error": 0, "query": "heml", "enViData": {"suggests": [{"id": "43536", "link": "/find?type=1&query=hemlock", "word": "hemlock"}]}, "mUrl": "/find?type=1&query=heml", "enEnData": {"suggests": [{"id": "13412", "link": "/find?type=3&query=hemline", "word": "hemline"}, {"id": "13413", "link": "/find?type=3&query=hemlock", "word": "hemlock"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13412",
+                "link": "/find?type=3&query=hemline",
+                "word": "hemline"
+            },
+            {
+                "id": "13413",
+                "link": "/find?type=3&query=hemlock",
+                "word": "hemlock"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43536",
+                "link": "/find?type=1&query=hemlock",
+                "word": "hemlock"
+            }
+        ]
+    }
+}
