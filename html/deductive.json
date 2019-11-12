@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "23342", "link": "/find?type=1&query=deductive+database", "word": "deductive database"}, {"id": "23342", "link": "/find?type=1&query=deductively", "word": "deductively"}], "data": {"word": "deductive", "id": "23342", "pronounce": "/di'd\u028cktiv/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">di\u1ec5n d\u1ecbch</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">deductive method</div>\n    \n    <div class=\"margin25\">ph\u01b0\u01a1ng ph\u00e1p di\u1ec5n d\u1ecbch</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c55b87a179d798d9a330078d5fa8decc/16e5e011941/D/deductive.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6ce7d1964226961771dde3666a609808/16e5e011efe/D/deductive.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "deductive", "id": "7450", "pronounce": "/d\u026a\u02c8d\u028ckt\u026av/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">using logic or reason to form a conclusion or opinion about something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a conclusion based on deductive reasoning/logic</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">using logic or reason to form a conclusion or opinion about something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a conclusion based on deductive reasoning/logic</div>",
+            "id": "7450",
+            "mean": [],
+            "pronounce": "/d\u026a\u02c8d\u028ckt\u026av/",
+            "type": "adjective",
+            "word": "deductive"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">di\u1ec5n d\u1ecbch</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">deductive method</div>\n    \n    <div class=\"margin25\">ph\u01b0\u01a1ng ph\u00e1p di\u1ec5n d\u1ecbch</div>",
+            "id": "23342",
+            "mean": [],
+            "pronounce": "/di'd\u028cktiv/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7ec4324ca5dff385964eb6ba95410e32/16e5ee87a99/D/deductive.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c9a4aea3d9934071881ac5899f16d49c/16e5ee87180/D/deductive.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "deductive"
+        },
+        "suggests": [
+            {
+                "id": "23342",
+                "link": "/find?type=1&query=deductive+database",
+                "word": "deductive database"
+            },
+            {
+                "id": "23342",
+                "link": "/find?type=1&query=deductively",
+                "word": "deductively"
+            }
+        ]
+    }
+}
