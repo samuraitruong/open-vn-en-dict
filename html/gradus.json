@@ -1,1 +1,59 @@
-{"error": 0, "query": "gradus", "enViData": {"suggests": [], "best": {"id": "40969", "details": "\n<div id=\"find_word_40969\" class=\"world word_en\" rel=\"gradus\">\n    <h2 class=\"fl\">gradus <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40969\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40969\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb \u0111i\u1ec3n v\u1eadt lu\u1eadn (ti\u1ebfng La Tinh, Hy L\u1ea1p)</div>\n    \n</div>\n", "link": "/find?type=1&query=gradus", "word": "gradus"}}, "mUrl": "/find?type=1&query=gradus", "enEnData": {"suggests": [{"id": "12425", "link": "/find?type=3&query=gradual", "word": "gradual"}, {"id": "12426", "link": "/find?type=3&query=graduate", "word": "graduate"}, {"id": "12427", "link": "/find?type=3&query=graduated", "word": "graduated"}, {"id": "12428", "link": "/find?type=3&query=graduation", "word": "graduation"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3071", "link": "/find?type=4&query=gradual", "word": "gradual"}, {"id": "3072", "link": "/find?type=4&query=gradually", "word": "gradually"}, {"id": "3073", "link": "/find?type=4&query=graduate", "word": "graduate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12425",
+                "link": "/find?type=3&query=gradual",
+                "word": "gradual"
+            },
+            {
+                "id": "12426",
+                "link": "/find?type=3&query=graduate",
+                "word": "graduate"
+            },
+            {
+                "id": "12427",
+                "link": "/find?type=3&query=graduated",
+                "word": "graduated"
+            },
+            {
+                "id": "12428",
+                "link": "/find?type=3&query=graduation",
+                "word": "graduation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb \u0111i\u1ec3n v\u1eadt lu\u1eadn (ti\u1ebfng La Tinh, Hy L\u1ea1p)</div>",
+            "id": "40969",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "gradus"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3071",
+                "link": "/find?type=4&query=gradual",
+                "word": "gradual"
+            },
+            {
+                "id": "3072",
+                "link": "/find?type=4&query=gradually",
+                "word": "gradually"
+            },
+            {
+                "id": "3073",
+                "link": "/find?type=4&query=graduate",
+                "word": "graduate"
+            }
+        ]
+    }
+}
