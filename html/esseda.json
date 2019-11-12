@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "31984", "link": "/find?type=1&query=essay", "word": "essay"}, {"id": "31985", "link": "/find?type=1&query=essayer", "word": "essayer"}, {"id": "31986", "link": "/find?type=1&query=essayette", "word": "essayette"}, {"id": "31987", "link": "/find?type=1&query=essayist", "word": "essayist"}, {"id": "31988", "link": "/find?type=1&query=essayistic", "word": "essayistic"}], "data": {}}, "en_en": {"suggests": [{"id": "9784", "link": "/find?type=3&query=essay", "word": "essay"}, {"id": "9785", "link": "/find?type=3&query=essayist", "word": "essayist"}], "data": {}}, "synonyms": {"suggests": [{"id": "2255", "link": "/find?type=4&query=essay", "word": "essay"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9784",
+                "link": "/find?type=3&query=essay",
+                "word": "essay"
+            },
+            {
+                "id": "9785",
+                "link": "/find?type=3&query=essayist",
+                "word": "essayist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31984",
+                "link": "/find?type=1&query=essay",
+                "word": "essay"
+            },
+            {
+                "id": "31985",
+                "link": "/find?type=1&query=essayer",
+                "word": "essayer"
+            },
+            {
+                "id": "31986",
+                "link": "/find?type=1&query=essayette",
+                "word": "essayette"
+            },
+            {
+                "id": "31987",
+                "link": "/find?type=1&query=essayist",
+                "word": "essayist"
+            },
+            {
+                "id": "31988",
+                "link": "/find?type=1&query=essayistic",
+                "word": "essayistic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2255",
+                "link": "/find?type=4&query=essay",
+                "word": "essay"
+            }
+        ]
+    }
+}

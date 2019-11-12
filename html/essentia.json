@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "31992", "link": "/find?type=1&query=essential", "word": "essential"}, {"id": "31993", "link": "/find?type=1&query=essential+oil", "word": "essential oil"}, {"id": "31994", "link": "/find?type=1&query=essentialism", "word": "essentialism"}, {"id": "31995", "link": "/find?type=1&query=essentialist", "word": "essentialist"}, {"id": "31996", "link": "/find?type=1&query=essentiality", "word": "essentiality"}, {"id": "31997", "link": "/find?type=1&query=essentially", "word": "essentially"}], "data": {}}, "en_en": {"suggests": [{"id": "9787", "link": "/find?type=3&query=essential", "word": "essential"}, {"id": "9788", "link": "/find?type=3&query=essential+oil", "word": "essential oil"}], "data": {}}, "synonyms": {"suggests": [{"id": "2257", "link": "/find?type=4&query=essential", "word": "essential"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9787",
+                "link": "/find?type=3&query=essential",
+                "word": "essential"
+            },
+            {
+                "id": "9788",
+                "link": "/find?type=3&query=essential+oil",
+                "word": "essential oil"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31992",
+                "link": "/find?type=1&query=essential",
+                "word": "essential"
+            },
+            {
+                "id": "31993",
+                "link": "/find?type=1&query=essential+oil",
+                "word": "essential oil"
+            },
+            {
+                "id": "31994",
+                "link": "/find?type=1&query=essentialism",
+                "word": "essentialism"
+            },
+            {
+                "id": "31995",
+                "link": "/find?type=1&query=essentialist",
+                "word": "essentialist"
+            },
+            {
+                "id": "31996",
+                "link": "/find?type=1&query=essentiality",
+                "word": "essentiality"
+            },
+            {
+                "id": "31997",
+                "link": "/find?type=1&query=essentially",
+                "word": "essentially"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2257",
+                "link": "/find?type=4&query=essential",
+                "word": "essential"
+            }
+        ]
+    }
+}
