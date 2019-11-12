@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27467", "link": "/find?type=1&query=DPP", "word": "DPP"}], "data": {}}, "en_en": {"suggests": [{"id": "8749", "link": "/find?type=3&query=dpi", "word": "dpi"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8749",
+                "link": "/find?type=3&query=dpi",
+                "word": "dpi"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27467",
+                "link": "/find?type=1&query=DPP",
+                "word": "DPP"
+            }
+        ]
+    }
+}

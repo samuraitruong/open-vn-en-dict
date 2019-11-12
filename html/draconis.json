@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "27480", "link": "/find?type=1&query=draconian", "word": "draconian"}, {"id": "27481", "link": "/find?type=1&query=draconic", "word": "draconic"}], "data": {}}, "en_en": {"suggests": [{"id": "8753", "link": "/find?type=3&query=draconian", "word": "draconian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8753",
+                "link": "/find?type=3&query=draconian",
+                "word": "draconian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27480",
+                "link": "/find?type=1&query=draconian",
+                "word": "draconian"
+            },
+            {
+                "id": "27481",
+                "link": "/find?type=1&query=draconic",
+                "word": "draconic"
+            }
+        ]
+    }
+}

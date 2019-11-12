@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "27382", "link": "/find?type=1&query=dovecote", "word": "dovecote"}], "data": {}}, "en_en": {"suggests": [{"id": "8685", "link": "/find?type=3&query=dovecote", "word": "dovecote"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8685",
+                "link": "/find?type=3&query=dovecote",
+                "word": "dovecote"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27382",
+                "link": "/find?type=1&query=dovecote",
+                "word": "dovecote"
+            }
+        ]
+    }
+}
