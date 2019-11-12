@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "33791", "link": "/find?type=1&query=facsimile", "word": "facsimile"}, {"id": "33792", "link": "/find?type=1&query=facsimile+%3D+fax", "word": "facsimile = fax"}, {"id": "33793", "link": "/find?type=1&query=facsimile+equipment", "word": "facsimile equipment"}], "data": {}}, "en_en": {"suggests": [{"id": "10187", "link": "/find?type=3&query=facsimile", "word": "facsimile"}], "data": {}}, "synonyms": {"suggests": [{"id": "2458", "link": "/find?type=4&query=facsimile", "word": "facsimile"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10187",
+                "link": "/find?type=3&query=facsimile",
+                "word": "facsimile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33791",
+                "link": "/find?type=1&query=facsimile",
+                "word": "facsimile"
+            },
+            {
+                "id": "33792",
+                "link": "/find?type=1&query=facsimile+%3D+fax",
+                "word": "facsimile = fax"
+            },
+            {
+                "id": "33793",
+                "link": "/find?type=1&query=facsimile+equipment",
+                "word": "facsimile equipment"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2458",
+                "link": "/find?type=4&query=facsimile",
+                "word": "facsimile"
+            }
+        ]
+    }
+}
