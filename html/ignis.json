@@ -1,1 +1,27 @@
-{"error": 0, "query": "ignis", "enViData": {"suggests": [{"id": "46054", "link": "/find?type=1&query=ignis+fatuus", "word": "ignis fatuus"}]}, "mUrl": "/find?type=1&query=ignis", "enEnData": {"suggests": [{"id": "14335", "link": "/find?type=3&query=ignite", "word": "ignite"}, {"id": "14336", "link": "/find?type=3&query=ignition", "word": "ignition"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14335",
+                "link": "/find?type=3&query=ignite",
+                "word": "ignite"
+            },
+            {
+                "id": "14336",
+                "link": "/find?type=3&query=ignition",
+                "word": "ignition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46054",
+                "link": "/find?type=1&query=ignis+fatuus",
+                "word": "ignis fatuus"
+            }
+        ]
+    }
+}

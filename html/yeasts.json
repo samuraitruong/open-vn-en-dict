@@ -1,1 +1,50 @@
-{"error": 0, "query": "yeasts", "enViData": {"suggests": [{"id": "104244", "link": "/find?type=1&query=yeastiness", "word": "yeastiness"}, {"id": "104244", "link": "/find?type=1&query=yeasty", "word": "yeasty"}], "best": {"id": "104244", "details": "\n<div id=\"find_word_104244\" class=\"world word_en\" rel=\"yeast\">\n    <h2 class=\"fl\">yeast <span class=\"color-black\">/ji:st/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"104244\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"104244\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">men (bia, r\u01b0\u1ee3u, b\u1ed9t l\u00e0m b\u00e1nh m\u00ec\u2026)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">brewer's yeast</div>\n    \n    <div class=\"margin25\">men [\u1ee7 r\u01b0\u1ee3u] bia</div>\n    \n</div>\n", "link": "/find?type=1&query=yeast", "word": "yeast"}}, "mUrl": "/find?type=1&query=yeasts", "enEnData": {"suggests": [{"id": "34243", "link": "/find?type=3&query=yeast+infection", "word": "yeast infection"}, {"id": "34243", "link": "/find?type=3&query=yeasty", "word": "yeasty"}], "best": {"id": "34243", "details": "\n<div id=\"find_word_34243\" class=\"world word_en\" rel=\"yeast\">\n    <h2 class=\"fl\">yeast <span class=\"color-black\">/\u02c8ji\u02d0st/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"34243\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"34243\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a type of fungus that is used in making alcoholic drinks (such as beer and wine) and in baking to help make dough rise</div>\n    \n</div>\n", "link": "/find?type=3&query=yeast", "word": "yeast"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a type of fungus that is used in making alcoholic drinks (such as beer and wine) and in baking to help make dough rise</div>",
+            "id": "34243",
+            "mean": [],
+            "pronounce": "/\u02c8ji\u02d0st/",
+            "type": "noun",
+            "word": "yeast"
+        },
+        "suggests": [
+            {
+                "id": "34243",
+                "link": "/find?type=3&query=yeast+infection",
+                "word": "yeast infection"
+            },
+            {
+                "id": "34243",
+                "link": "/find?type=3&query=yeasty",
+                "word": "yeasty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">men (bia, r\u01b0\u1ee3u, b\u1ed9t l\u00e0m b\u00e1nh m\u00ec\u2026)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">brewer's yeast</div>\n    \n    <div class=\"margin25\">men [\u1ee7 r\u01b0\u1ee3u] bia</div>",
+            "id": "104244",
+            "mean": [],
+            "pronounce": "/ji:st/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5e6b09814fd0acfa7a792e3aa10d6510/16e61c6f709/Y/yeast.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b780b2b5df28fd7663c91dfcb63e2e34/16e61c6f177/Y/yeast.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "yeast"
+        },
+        "suggests": [
+            {
+                "id": "104244",
+                "link": "/find?type=1&query=yeastiness",
+                "word": "yeastiness"
+            },
+            {
+                "id": "104244",
+                "link": "/find?type=1&query=yeasty",
+                "word": "yeasty"
+            }
+        ]
+    }
+}

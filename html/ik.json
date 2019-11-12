@@ -1,1 +1,37 @@
-{"error": 0, "query": "ik", "enViData": {"suggests": [{"id": "46082", "link": "/find?type=1&query=ike", "word": "ike"}, {"id": "46083", "link": "/find?type=1&query=ikebana", "word": "ikebana"}, {"id": "46084", "link": "/find?type=1&query=ikey", "word": "ikey"}, {"id": "46085", "link": "/find?type=1&query=ikon", "word": "ikon"}]}, "mUrl": "/find?type=1&query=ik", "enEnData": {"suggests": [{"id": "14345", "link": "/find?type=3&query=ikon", "word": "ikon"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14345",
+                "link": "/find?type=3&query=ikon",
+                "word": "ikon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46082",
+                "link": "/find?type=1&query=ike",
+                "word": "ike"
+            },
+            {
+                "id": "46083",
+                "link": "/find?type=1&query=ikebana",
+                "word": "ikebana"
+            },
+            {
+                "id": "46084",
+                "link": "/find?type=1&query=ikey",
+                "word": "ikey"
+            },
+            {
+                "id": "46085",
+                "link": "/find?type=1&query=ikon",
+                "word": "ikon"
+            }
+        ]
+    }
+}

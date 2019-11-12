@@ -1,1 +1,37 @@
-{"error": 0, "query": "yipping", "enViData": {"suggests": [{"id": "104307", "link": "/find?type=1&query=yippie", "word": "yippie"}], "best": {"id": "104307", "details": "\n<div id=\"find_word_104307\" class=\"world word_en\" rel=\"yip\">\n    <h2 class=\"fl\">yip <span class=\"color-black\">/jip/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"104307\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"104307\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (th\u00f4ng t\u1ee5c) s\u1ef1 c\u00e3i l\u1ea1i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (th\u00f4ng t\u1ee5c) c\u00e3i l\u1ea1i</div>\n    \n</div>\n", "link": "/find?type=1&query=yip", "word": "yip"}}, "mUrl": "/find?type=1&query=yipping", "enEnData": {"suggests": [{"id": "34273", "link": "/find?type=3&query=yippee", "word": "yippee"}], "best": {"id": "34273", "details": "\n<div id=\"find_word_34273\" class=\"world word_en\" rel=\"yip\">\n    <h2 class=\"fl\">yip <span class=\"color-black\">/\u02c8j\u026ap/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"34273\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"34273\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">yips; yipped; yipping</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] US of a dog :to bark in high, quick sounds</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We could hear the puppy yipping playfully in its kennel.</div>\n    \n</div>\n", "link": "/find?type=3&query=yip", "word": "yip"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">yips; yipped; yipping</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] US of a dog :to bark in high, quick sounds</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We could hear the puppy yipping playfully in its kennel.</div>",
+            "id": "34273",
+            "mean": [],
+            "pronounce": "/\u02c8j\u026ap/",
+            "type": "verb",
+            "word": "yip"
+        },
+        "suggests": [
+            {
+                "id": "34273",
+                "link": "/find?type=3&query=yippee",
+                "word": "yippee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (th\u00f4ng t\u1ee5c) s\u1ef1 c\u00e3i l\u1ea1i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (th\u00f4ng t\u1ee5c) c\u00e3i l\u1ea1i</div>",
+            "id": "104307",
+            "mean": [],
+            "pronounce": "/jip/",
+            "speak": {},
+            "type": "Danh t\u1eeb N\u1ed9i \u0111\u1ed9ng t\u1eeb",
+            "word": "yip"
+        },
+        "suggests": [
+            {
+                "id": "104307",
+                "link": "/find?type=1&query=yippie",
+                "word": "yippie"
+            }
+        ]
+    }
+}

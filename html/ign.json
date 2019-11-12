@@ -1,1 +1,132 @@
-{"error": 0, "query": "ign", "enViData": {"suggests": [{"id": "46052", "link": "/find?type=1&query=igneous", "word": "igneous"}, {"id": "46053", "link": "/find?type=1&query=ignescent", "word": "ignescent"}, {"id": "46054", "link": "/find?type=1&query=ignis+fatuus", "word": "ignis fatuus"}, {"id": "46055", "link": "/find?type=1&query=ignitability", "word": "ignitability"}, {"id": "46056", "link": "/find?type=1&query=ignitable", "word": "ignitable"}, {"id": "46057", "link": "/find?type=1&query=ignite", "word": "ignite"}, {"id": "46058", "link": "/find?type=1&query=igniter", "word": "igniter"}, {"id": "46059", "link": "/find?type=1&query=ignitible", "word": "ignitible"}, {"id": "46060", "link": "/find?type=1&query=ignition", "word": "ignition"}, {"id": "46061", "link": "/find?type=1&query=ignitor", "word": "ignitor"}]}, "mUrl": "/find?type=1&query=ign", "enEnData": {"suggests": [{"id": "14334", "link": "/find?type=3&query=igneous", "word": "igneous"}, {"id": "14335", "link": "/find?type=3&query=ignite", "word": "ignite"}, {"id": "14336", "link": "/find?type=3&query=ignition", "word": "ignition"}, {"id": "14337", "link": "/find?type=3&query=ignoble", "word": "ignoble"}, {"id": "14338", "link": "/find?type=3&query=ignominious", "word": "ignominious"}, {"id": "14339", "link": "/find?type=3&query=ignominy", "word": "ignominy"}, {"id": "14340", "link": "/find?type=3&query=ignoramus", "word": "ignoramus"}, {"id": "14341", "link": "/find?type=3&query=ignorance", "word": "ignorance"}, {"id": "14342", "link": "/find?type=3&query=ignorant", "word": "ignorant"}, {"id": "14343", "link": "/find?type=3&query=ignore", "word": "ignore"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3461", "link": "/find?type=4&query=ignorance", "word": "ignorance"}, {"id": "3462", "link": "/find?type=4&query=ignorant", "word": "ignorant"}, {"id": "3463", "link": "/find?type=4&query=ignore", "word": "ignore"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14334",
+                "link": "/find?type=3&query=igneous",
+                "word": "igneous"
+            },
+            {
+                "id": "14335",
+                "link": "/find?type=3&query=ignite",
+                "word": "ignite"
+            },
+            {
+                "id": "14336",
+                "link": "/find?type=3&query=ignition",
+                "word": "ignition"
+            },
+            {
+                "id": "14337",
+                "link": "/find?type=3&query=ignoble",
+                "word": "ignoble"
+            },
+            {
+                "id": "14338",
+                "link": "/find?type=3&query=ignominious",
+                "word": "ignominious"
+            },
+            {
+                "id": "14339",
+                "link": "/find?type=3&query=ignominy",
+                "word": "ignominy"
+            },
+            {
+                "id": "14340",
+                "link": "/find?type=3&query=ignoramus",
+                "word": "ignoramus"
+            },
+            {
+                "id": "14341",
+                "link": "/find?type=3&query=ignorance",
+                "word": "ignorance"
+            },
+            {
+                "id": "14342",
+                "link": "/find?type=3&query=ignorant",
+                "word": "ignorant"
+            },
+            {
+                "id": "14343",
+                "link": "/find?type=3&query=ignore",
+                "word": "ignore"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46052",
+                "link": "/find?type=1&query=igneous",
+                "word": "igneous"
+            },
+            {
+                "id": "46053",
+                "link": "/find?type=1&query=ignescent",
+                "word": "ignescent"
+            },
+            {
+                "id": "46054",
+                "link": "/find?type=1&query=ignis+fatuus",
+                "word": "ignis fatuus"
+            },
+            {
+                "id": "46055",
+                "link": "/find?type=1&query=ignitability",
+                "word": "ignitability"
+            },
+            {
+                "id": "46056",
+                "link": "/find?type=1&query=ignitable",
+                "word": "ignitable"
+            },
+            {
+                "id": "46057",
+                "link": "/find?type=1&query=ignite",
+                "word": "ignite"
+            },
+            {
+                "id": "46058",
+                "link": "/find?type=1&query=igniter",
+                "word": "igniter"
+            },
+            {
+                "id": "46059",
+                "link": "/find?type=1&query=ignitible",
+                "word": "ignitible"
+            },
+            {
+                "id": "46060",
+                "link": "/find?type=1&query=ignition",
+                "word": "ignition"
+            },
+            {
+                "id": "46061",
+                "link": "/find?type=1&query=ignitor",
+                "word": "ignitor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3461",
+                "link": "/find?type=4&query=ignorance",
+                "word": "ignorance"
+            },
+            {
+                "id": "3462",
+                "link": "/find?type=4&query=ignorant",
+                "word": "ignorant"
+            },
+            {
+                "id": "3463",
+                "link": "/find?type=4&query=ignore",
+                "word": "ignore"
+            }
+        ]
+    }
+}
