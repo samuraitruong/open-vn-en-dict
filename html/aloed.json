@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "2765", "link": "/find?type=1&query=aloetic", "word": "aloetic"}], "data": {"word": "aloe", "id": "2765", "pronounce": "/'\u00e6l\u0259\u028a/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y l\u00f4 h\u1ed9i</div>\n    \n    <div class=\"\">aloes (c\u00e1ch vi\u1ebft kh\u00e1c bitter aloes)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc \u00e9p l\u00f4 h\u1ed9i (d\u00f9ng l\u00e0m thu\u1ed1c)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "736", "link": "/find?type=3&query=aloe+vera", "word": "aloe vera"}], "data": {"word": "aloe", "id": "736", "pronounce": "/\u02c8\u00e6lo\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -oes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a tropical plant that has heavy leaves which produce a thick liquid used in medicines, cosmetics, etc.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "204", "link": "/find?type=4&query=aloft", "word": "aloft"}, {"id": "205", "link": "/find?type=4&query=alone", "word": "alone"}, {"id": "206", "link": "/find?type=4&query=aloof", "word": "aloof"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -oes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a tropical plant that has heavy leaves which produce a thick liquid used in medicines, cosmetics, etc.</div>",
+            "id": "736",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6lo\u028a/",
+            "type": "noun",
+            "word": "aloe"
+        },
+        "suggests": [
+            {
+                "id": "736",
+                "link": "/find?type=3&query=aloe+vera",
+                "word": "aloe vera"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y l\u00f4 h\u1ed9i</div>\n    \n    <div class=\"\">aloes (c\u00e1ch vi\u1ebft kh\u00e1c bitter aloes)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01b0\u1edbc \u00e9p l\u00f4 h\u1ed9i (d\u00f9ng l\u00e0m thu\u1ed1c)</div>",
+            "id": "2765",
+            "mean": [],
+            "pronounce": "/'\u00e6l\u0259\u028a/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "aloe"
+        },
+        "suggests": [
+            {
+                "id": "2765",
+                "link": "/find?type=1&query=aloetic",
+                "word": "aloetic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "204",
+                "link": "/find?type=4&query=aloft",
+                "word": "aloft"
+            },
+            {
+                "id": "205",
+                "link": "/find?type=4&query=alone",
+                "word": "alone"
+            },
+            {
+                "id": "206",
+                "link": "/find?type=4&query=aloof",
+                "word": "aloof"
+            }
+        ]
+    }
+}

@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "2808", "link": "/find?type=1&query=alphabetic+area", "word": "alphabetic area"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+character", "word": "alphabetic character"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+code", "word": "alphabetic code"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+coding", "word": "alphabetic coding"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+data", "word": "alphabetic data"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+data+code", "word": "alphabetic data code"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+escape+sequence", "word": "alphabetic escape sequence"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+order", "word": "alphabetic order"}, {"id": "2808", "link": "/find?type=1&query=alphabetic+position", "word": "alphabetic position"}], "data": {"word": "alphabetic", "id": "2808", "pronounce": "/,\u00e6lf\u0259'betik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] b\u1ea3ng ch\u1eef c\u00e1i, [thu\u1ed9c] h\u1ec7 th\u1ed1ng ch\u1eef c\u00e1i</div>\n    \n    <div class=\"green margin25 m-top15\">theo th\u1ee9 t\u1ef1 ch\u1eef c\u00e1i, theo th\u1ee9 t\u1ef1 abc</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "750", "link": "/find?type=3&query=alphabetical", "word": "alphabetical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "750",
+                "link": "/find?type=3&query=alphabetical",
+                "word": "alphabetical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] b\u1ea3ng ch\u1eef c\u00e1i, [thu\u1ed9c] h\u1ec7 th\u1ed1ng ch\u1eef c\u00e1i</div>\n    \n    <div class=\"green margin25 m-top15\">theo th\u1ee9 t\u1ef1 ch\u1eef c\u00e1i, theo th\u1ee9 t\u1ef1 abc</div>",
+            "id": "2808",
+            "mean": [],
+            "pronounce": "/,\u00e6lf\u0259'betik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "alphabetic"
+        },
+        "suggests": [
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+area",
+                "word": "alphabetic area"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+character",
+                "word": "alphabetic character"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+code",
+                "word": "alphabetic code"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+coding",
+                "word": "alphabetic coding"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+data",
+                "word": "alphabetic data"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+data+code",
+                "word": "alphabetic data code"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+escape+sequence",
+                "word": "alphabetic escape sequence"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+order",
+                "word": "alphabetic order"
+            },
+            {
+                "id": "2808",
+                "link": "/find?type=1&query=alphabetic+position",
+                "word": "alphabetic position"
+            }
+        ]
+    }
+}

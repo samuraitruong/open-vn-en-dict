@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2869", "link": "/find?type=1&query=Alsatian", "word": "Alsatian"}], "data": {}}, "en_en": {"suggests": [{"id": "756", "link": "/find?type=3&query=Alsatian", "word": "Alsatian"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "756",
+                "link": "/find?type=3&query=Alsatian",
+                "word": "Alsatian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2869",
+                "link": "/find?type=1&query=Alsatian",
+                "word": "Alsatian"
+            }
+        ]
+    }
+}
