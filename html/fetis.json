@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "34905", "link": "/find?type=1&query=fetish", "word": "fetish"}, {"id": "34906", "link": "/find?type=1&query=fetishism", "word": "fetishism"}, {"id": "34907", "link": "/find?type=1&query=fetishist", "word": "fetishist"}, {"id": "34908", "link": "/find?type=1&query=fetishistic", "word": "fetishistic"}, {"id": "34909", "link": "/find?type=1&query=fetishman", "word": "fetishman"}], "data": {}}, "en_en": {"suggests": [{"id": "10510", "link": "/find?type=3&query=fetish", "word": "fetish"}], "data": {}}, "synonyms": {"suggests": [{"id": "2586", "link": "/find?type=4&query=fetish", "word": "fetish"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10510",
+                "link": "/find?type=3&query=fetish",
+                "word": "fetish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34905",
+                "link": "/find?type=1&query=fetish",
+                "word": "fetish"
+            },
+            {
+                "id": "34906",
+                "link": "/find?type=1&query=fetishism",
+                "word": "fetishism"
+            },
+            {
+                "id": "34907",
+                "link": "/find?type=1&query=fetishist",
+                "word": "fetishist"
+            },
+            {
+                "id": "34908",
+                "link": "/find?type=1&query=fetishistic",
+                "word": "fetishistic"
+            },
+            {
+                "id": "34909",
+                "link": "/find?type=1&query=fetishman",
+                "word": "fetishman"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2586",
+                "link": "/find?type=4&query=fetish",
+                "word": "fetish"
+            }
+        ]
+    }
+}
