@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "25737", "link": "/find?type=1&query=directory+tree", "word": "directory tree"}], "data": {"word": "directory", "id": "25737", "pronounce": "/di'rekt\u0259ri/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">ni\u00ean gi\u00e1m \u0111i\u1ec7n tho\u1ea1i</div>\n    \n    <div class=\"green margin25 m-top15\">danh b\u1ea1 (m\u1ed9t v\u00f9ng\u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4c147f483737676e66cc3fa34e721ffb/16e5e08b8f5/D/directory.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d105f631f7f657aa8b317319889f9dba/16e5e08beac/D/directory.mp3"}}}, "en_en": {"suggests": [{"id": "8079", "link": "/find?type=3&query=directory+assistance", "word": "directory assistance"}], "data": {"word": "directory", "id": "8079", "pronounce": "/d\u0259\u02c8r\u025bkt\u0259ri/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ries</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a book that contains an alphabetical list of names of people, businesses, etc. especially;  :phone book</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ries</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a book that contains an alphabetical list of names of people, businesses, etc. especially;  :phone book</div>",
+            "id": "8079",
+            "mean": [],
+            "pronounce": "/d\u0259\u02c8r\u025bkt\u0259ri/",
+            "type": "noun",
+            "word": "directory"
+        },
+        "suggests": [
+            {
+                "id": "8079",
+                "link": "/find?type=3&query=directory+assistance",
+                "word": "directory assistance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ni\u00ean gi\u00e1m \u0111i\u1ec7n tho\u1ea1i</div>\n    \n    <div class=\"green margin25 m-top15\">danh b\u1ea1 (m\u1ed9t v\u00f9ng\u2026)</div>",
+            "id": "25737",
+            "mean": [],
+            "pronounce": "/di'rekt\u0259ri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/66c625f3c07067f5f0efe5e474bc83f2/16e5ef31fc4/D/directory.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9aab6d916f33a6c5fed88b87811b699a/16e5ef316aa/D/directory.mp3"
+            },
+            "type": "",
+            "word": "directory"
+        },
+        "suggests": [
+            {
+                "id": "25737",
+                "link": "/find?type=1&query=directory+tree",
+                "word": "directory tree"
+            }
+        ]
+    }
+}
