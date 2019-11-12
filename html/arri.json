@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "5703", "link": "/find?type=1&query=arri%C3%A8re-pens%C3%A9e", "word": "arri\u00e8re-pens\u00e9e"}, {"id": "5704", "link": "/find?type=1&query=arris", "word": "arris"}, {"id": "5705", "link": "/find?type=1&query=arrival", "word": "arrival"}, {"id": "5706", "link": "/find?type=1&query=arrival+rate", "word": "arrival rate"}, {"id": "5707", "link": "/find?type=1&query=arrive", "word": "arrive"}, {"id": "5708", "link": "/find?type=1&query=arriver", "word": "arriver"}, {"id": "5709", "link": "/find?type=1&query=arriviste", "word": "arriviste"}], "data": {}}, "en_en": {"suggests": [{"id": "1357", "link": "/find?type=3&query=arrival", "word": "arrival"}, {"id": "1358", "link": "/find?type=3&query=arrive", "word": "arrive"}], "data": {}}, "synonyms": {"suggests": [{"id": "323", "link": "/find?type=4&query=arrival", "word": "arrival"}, {"id": "324", "link": "/find?type=4&query=arrive", "word": "arrive"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1357",
+                "link": "/find?type=3&query=arrival",
+                "word": "arrival"
+            },
+            {
+                "id": "1358",
+                "link": "/find?type=3&query=arrive",
+                "word": "arrive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5703",
+                "link": "/find?type=1&query=arri%C3%A8re-pens%C3%A9e",
+                "word": "arri\u00e8re-pens\u00e9e"
+            },
+            {
+                "id": "5704",
+                "link": "/find?type=1&query=arris",
+                "word": "arris"
+            },
+            {
+                "id": "5705",
+                "link": "/find?type=1&query=arrival",
+                "word": "arrival"
+            },
+            {
+                "id": "5706",
+                "link": "/find?type=1&query=arrival+rate",
+                "word": "arrival rate"
+            },
+            {
+                "id": "5707",
+                "link": "/find?type=1&query=arrive",
+                "word": "arrive"
+            },
+            {
+                "id": "5708",
+                "link": "/find?type=1&query=arriver",
+                "word": "arriver"
+            },
+            {
+                "id": "5709",
+                "link": "/find?type=1&query=arriviste",
+                "word": "arriviste"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "323",
+                "link": "/find?type=4&query=arrival",
+                "word": "arrival"
+            },
+            {
+                "id": "324",
+                "link": "/find?type=4&query=arrive",
+                "word": "arrive"
+            }
+        ]
+    }
+}

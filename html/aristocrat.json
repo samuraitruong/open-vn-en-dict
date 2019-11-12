@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "5557", "link": "/find?type=1&query=aristocratic", "word": "aristocratic"}, {"id": "5557", "link": "/find?type=1&query=aristocratical", "word": "aristocratical"}, {"id": "5557", "link": "/find?type=1&query=aristocratically", "word": "aristocratically"}], "data": {"word": "aristocrat", "id": "5557", "pronounce": "/'\u00e6rist\u0259kr\u00e6t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[ng\u01b0\u1eddi] qu\u00fd t\u1ed9c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/bdffbf5b6337d6fd5dfdd28e21f57266/16e5dc9e4c6/A/aristocrat.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/83cfb423a77291fd29b87b44a340797b/16e5dc9eaa8/A/aristocrat.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "aristocrat", "id": "1310", "pronounce": "/\u0259\u02c8r\u026ast\u0259\u02cckr\u00e6t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -crats</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of an aristocracy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an aristocrat by birth</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -crats</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of an aristocracy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an aristocrat by birth</div>",
+            "id": "1310",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8r\u026ast\u0259\u02cckr\u00e6t/",
+            "type": "noun",
+            "word": "aristocrat"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[ng\u01b0\u1eddi] qu\u00fd t\u1ed9c</div>",
+            "id": "5557",
+            "mean": [],
+            "pronounce": "/'\u00e6rist\u0259kr\u00e6t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f548a6ec8cfdcbcae07c5cf9f89e4830/16e5ead2abf/A/aristocrat.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4587c9a851b3590660b770c9242a8ed3/16e5ead2557/A/aristocrat.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "aristocrat"
+        },
+        "suggests": [
+            {
+                "id": "5557",
+                "link": "/find?type=1&query=aristocratic",
+                "word": "aristocratic"
+            },
+            {
+                "id": "5557",
+                "link": "/find?type=1&query=aristocratical",
+                "word": "aristocratical"
+            },
+            {
+                "id": "5557",
+                "link": "/find?type=1&query=aristocratically",
+                "word": "aristocratically"
+            }
+        ]
+    }
+}

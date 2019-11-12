@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "5618", "link": "/find?type=1&query=Armistice+Day", "word": "Armistice Day"}], "data": {"word": "armistice", "id": "5618", "pronounce": "/'\u0251:mistis/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 \u0111\u00ecnh chi\u1ebfn</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9d418d32781b1a4adf94d8a1cd39e8e5/16e5dca15f0/A/armistice.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a45f4bb9ee189681a7f329381de41cb9/16e5dca1b9b/A/armistice.mp3"}}}, "en_en": {"suggests": [{"id": "1326", "link": "/find?type=3&query=Armistice+Day", "word": "Armistice Day"}], "data": {"word": "armistice", "id": "1326", "pronounce": "/\u02c8\u0251\u025am\u0259st\u0259s/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -stices</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an agreement to stop fighting a war :truce</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -stices</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an agreement to stop fighting a war :truce</div>",
+            "id": "1326",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u025am\u0259st\u0259s/",
+            "type": "noun",
+            "word": "armistice"
+        },
+        "suggests": [
+            {
+                "id": "1326",
+                "link": "/find?type=3&query=Armistice+Day",
+                "word": "Armistice Day"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 \u0111\u00ecnh chi\u1ebfn</div>",
+            "id": "5618",
+            "mean": [],
+            "pronounce": "/'\u0251:mistis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7b270d56513c261014dd8a2b9d41bb5d/16e5ead5815/A/armistice.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cee0d5a773bacec7c61bd970832b8083/16e5ead52c2/A/armistice.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "armistice"
+        },
+        "suggests": [
+            {
+                "id": "5618",
+                "link": "/find?type=1&query=Armistice+Day",
+                "word": "Armistice Day"
+            }
+        ]
+    }
+}
