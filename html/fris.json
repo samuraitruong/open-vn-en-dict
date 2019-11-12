@@ -1,1 +1,100 @@
-{"error": 0, "query": "fris", "enViData": {"suggests": [{"id": "37972", "link": "/find?type=1&query=friability", "word": "friability"}, {"id": "37972", "link": "/find?type=1&query=friable", "word": "friable"}, {"id": "37972", "link": "/find?type=1&query=friableness", "word": "friableness"}, {"id": "37972", "link": "/find?type=1&query=friar", "word": "friar"}, {"id": "37972", "link": "/find?type=1&query=friarly", "word": "friarly"}, {"id": "37972", "link": "/find?type=1&query=friary", "word": "friary"}, {"id": "37972", "link": "/find?type=1&query=fribble", "word": "fribble"}, {"id": "37972", "link": "/find?type=1&query=fricandeau", "word": "fricandeau"}, {"id": "37972", "link": "/find?type=1&query=fricandeaux", "word": "fricandeaux"}], "best": {"id": "37972", "details": "\n<div id=\"find_word_37972\" class=\"world word_en\" rel=\"Fri\">\n    <h2 class=\"fl\">Fri <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"37972\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"37972\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Friday)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee9 S\u00e1u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Fri 7 March</div>\n    \n    <div class=\"margin25\">th\u1ee9 S\u00e1u 7 th\u00e1ng 3</div>\n    \n</div>\n", "link": "/find?type=1&query=Fri", "word": "Fri"}}, "mUrl": "/find?type=1&query=fris", "enEnData": {"suggests": [{"id": "11499", "link": "/find?type=3&query=Frisbee", "word": "Frisbee"}, {"id": "11500", "link": "/find?type=3&query=frisk", "word": "frisk"}, {"id": "11501", "link": "/find?type=3&query=frisky", "word": "frisky"}, {"id": "11502", "link": "/find?type=3&query=frisson", "word": "frisson"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2865", "link": "/find?type=4&query=frisk", "word": "frisk"}, {"id": "2866", "link": "/find?type=4&query=frisky", "word": "frisky"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11499",
+                "link": "/find?type=3&query=Frisbee",
+                "word": "Frisbee"
+            },
+            {
+                "id": "11500",
+                "link": "/find?type=3&query=frisk",
+                "word": "frisk"
+            },
+            {
+                "id": "11501",
+                "link": "/find?type=3&query=frisky",
+                "word": "frisky"
+            },
+            {
+                "id": "11502",
+                "link": "/find?type=3&query=frisson",
+                "word": "frisson"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Friday)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee9 S\u00e1u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Fri 7 March</div>\n    \n    <div class=\"margin25\">th\u1ee9 S\u00e1u 7 th\u00e1ng 3</div>",
+            "id": "37972",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "Fri"
+        },
+        "suggests": [
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=friability",
+                "word": "friability"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=friable",
+                "word": "friable"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=friableness",
+                "word": "friableness"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=friar",
+                "word": "friar"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=friarly",
+                "word": "friarly"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=friary",
+                "word": "friary"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=fribble",
+                "word": "fribble"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=fricandeau",
+                "word": "fricandeau"
+            },
+            {
+                "id": "37972",
+                "link": "/find?type=1&query=fricandeaux",
+                "word": "fricandeaux"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2865",
+                "link": "/find?type=4&query=frisk",
+                "word": "frisk"
+            },
+            {
+                "id": "2866",
+                "link": "/find?type=4&query=frisky",
+                "word": "frisky"
+            }
+        ]
+    }
+}
