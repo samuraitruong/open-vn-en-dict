@@ -1,1 +1,28 @@
-{"error": 0, "query": "hamster", "enViData": {"suggests": [], "best": {"id": "42612", "details": "\n<div id=\"find_word_42612\" class=\"world word_en\" rel=\"hamster\">\n    <h2 class=\"fl\">hamster <span class=\"color-black\">/'h\u00e6mst\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42612\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42612\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) chu\u1ed9t lang, chu\u1ed9t \u0111\u1ed3ng</div>\n    \n</div>\n", "link": "/find?type=1&query=hamster", "word": "hamster"}}, "mUrl": "/find?type=1&query=hamster", "enEnData": {"suggests": [], "best": {"id": "12962", "details": "\n<div id=\"find_word_12962\" class=\"world word_en\" rel=\"hamster\">\n    <h2 class=\"fl\">hamster <span class=\"color-black\">/\u02c8h\u00e6mst\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12962\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12962\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small animal that is often kept as a pet</div>\n    \n</div>\n", "link": "/find?type=3&query=hamster", "word": "hamster"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small animal that is often kept as a pet</div>",
+            "id": "12962",
+            "mean": [],
+            "pronounce": "/\u02c8h\u00e6mst\u025a/",
+            "type": "noun",
+            "word": "hamster"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) chu\u1ed9t lang, chu\u1ed9t \u0111\u1ed3ng</div>",
+            "id": "42612",
+            "mean": [],
+            "pronounce": "/'h\u00e6mst\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a61465bd5d5b0d033638475ed23f13fa/16e615c229d/H/hamster.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/288c41ba831d2e199c1115b4f749b092/16e615c1aa8/H/hamster.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hamster"
+        },
+        "suggests": []
+    }
+}
