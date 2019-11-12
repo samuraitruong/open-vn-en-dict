@@ -1,1 +1,22 @@
-{"error": 0, "query": "heartbroke", "mUrl": "/find?type=1&query=heartbroke", "enEnData": {"suggests": [{"id": "13290", "link": "/find?type=3&query=heartbroken", "word": "heartbroken"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3252", "link": "/find?type=4&query=heartbroken", "word": "heartbroken"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13290",
+                "link": "/find?type=3&query=heartbroken",
+                "word": "heartbroken"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3252",
+                "link": "/find?type=4&query=heartbroken",
+                "word": "heartbroken"
+            }
+        ]
+    }
+}
