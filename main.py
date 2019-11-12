@@ -133,7 +133,7 @@ print("Total english words %d" % (len(words)))
 #     outfile.truncate()
 #     json.dump(logs, outfile, indent=4, sort_keys=True)
 #  exit()
-
+delta  =0;
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words if logs.get}
@@ -144,7 +144,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
             html = future.result()
             if html != None:
                 logs[url] = 1;
-
+                
                 with open(fileName, 'w+') as outfile:
                     outfile.seek(0)
                     outfile.truncate()
