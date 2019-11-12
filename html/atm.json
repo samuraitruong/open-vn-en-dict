@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "6365", "link": "/find?type=1&query=atman", "word": "atman"}, {"id": "6365", "link": "/find?type=1&query=atmobiosis", "word": "atmobiosis"}, {"id": "6365", "link": "/find?type=1&query=atmometer", "word": "atmometer"}, {"id": "6365", "link": "/find?type=1&query=atmometric", "word": "atmometric"}, {"id": "6365", "link": "/find?type=1&query=atmometry", "word": "atmometry"}, {"id": "6365", "link": "/find?type=1&query=atmosphere", "word": "atmosphere"}, {"id": "6365", "link": "/find?type=1&query=atmospheric", "word": "atmospheric"}, {"id": "6365", "link": "/find?type=1&query=atmospheric+absorption", "word": "atmospheric absorption"}, {"id": "6365", "link": "/find?type=1&query=atmospheric+discharge", "word": "atmospheric discharge"}], "data": {"word": "atm", "id": "6365", "pronounce": "", "type": "(vi\u1ebft t\u1eaft)", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>(vi\u1ebft t\u1eaft)</span></div>\n    \n    <div class=\"green margin25 m-top15\">atmosphere</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ebft t\u1eaft</div>\n    \n    <div class=\"green margin25 m-top15\">atmosphere</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1560", "link": "/find?type=3&query=atmosphere", "word": "atmosphere"}, {"id": "1560", "link": "/find?type=3&query=atmospheric", "word": "atmospheric"}], "data": {"word": "ATM", "id": "1560", "pronounce": "/\u02cce\u026a\u02ccti\u02d0\u02c8\u025bm/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ATMs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a machine that people use to get money from their bank accounts by using a special card - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ATM cards/machines</div>\n    \n    <div class=\"green margin25 m-top15\">ATM is an abbreviation of automatic teller machine.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "362", "link": "/find?type=4&query=atmosphere", "word": "atmosphere"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ATMs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a machine that people use to get money from their bank accounts by using a special card - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">ATM cards/machines</div>\n    \n    <div class=\"green margin25 m-top15\">ATM is an abbreviation of automatic teller machine.</div>",
+            "id": "1560",
+            "mean": [],
+            "pronounce": "/\u02cce\u026a\u02ccti\u02d0\u02c8\u025bm/",
+            "type": "noun",
+            "word": "ATM"
+        },
+        "suggests": [
+            {
+                "id": "1560",
+                "link": "/find?type=3&query=atmosphere",
+                "word": "atmosphere"
+            },
+            {
+                "id": "1560",
+                "link": "/find?type=3&query=atmospheric",
+                "word": "atmospheric"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>(vi\u1ebft t\u1eaft)</span></div>\n    \n    <div class=\"green margin25 m-top15\">atmosphere</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ebft t\u1eaft</div>\n    \n    <div class=\"green margin25 m-top15\">atmosphere</div>",
+            "id": "6365",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "(vi\u1ebft t\u1eaft)",
+            "word": "atm"
+        },
+        "suggests": [
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atman",
+                "word": "atman"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmobiosis",
+                "word": "atmobiosis"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmometer",
+                "word": "atmometer"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmometric",
+                "word": "atmometric"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmometry",
+                "word": "atmometry"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmosphere",
+                "word": "atmosphere"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmospheric",
+                "word": "atmospheric"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmospheric+absorption",
+                "word": "atmospheric absorption"
+            },
+            {
+                "id": "6365",
+                "link": "/find?type=1&query=atmospheric+discharge",
+                "word": "atmospheric discharge"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "362",
+                "link": "/find?type=4&query=atmosphere",
+                "word": "atmosphere"
+            }
+        ]
+    }
+}

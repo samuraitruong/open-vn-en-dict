@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "6541", "link": "/find?type=1&query=atypical", "word": "atypical"}, {"id": "6542", "link": "/find?type=1&query=atypicality", "word": "atypicality"}, {"id": "6543", "link": "/find?type=1&query=atypically", "word": "atypically"}], "data": {}}, "en_en": {"suggests": [{"id": "1621", "link": "/find?type=3&query=atypical", "word": "atypical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1621",
+                "link": "/find?type=3&query=atypical",
+                "word": "atypical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6541",
+                "link": "/find?type=1&query=atypical",
+                "word": "atypical"
+            },
+            {
+                "id": "6542",
+                "link": "/find?type=1&query=atypicality",
+                "word": "atypicality"
+            },
+            {
+                "id": "6543",
+                "link": "/find?type=1&query=atypically",
+                "word": "atypically"
+            }
+        ]
+    }
+}

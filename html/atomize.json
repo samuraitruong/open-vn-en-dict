@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "6414", "link": "/find?type=1&query=atomize%2C+atomise", "word": "atomize, atomise"}, {"id": "6415", "link": "/find?type=1&query=atomizer%2C+atomiser", "word": "atomizer, atomiser"}], "data": {}}, "en_en": {"suggests": [{"id": "1569", "link": "/find?type=3&query=atomizer", "word": "atomizer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1569",
+                "link": "/find?type=3&query=atomizer",
+                "word": "atomizer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6414",
+                "link": "/find?type=1&query=atomize%2C+atomise",
+                "word": "atomize, atomise"
+            },
+            {
+                "id": "6415",
+                "link": "/find?type=1&query=atomizer%2C+atomiser",
+                "word": "atomizer, atomiser"
+            }
+        ]
+    }
+}

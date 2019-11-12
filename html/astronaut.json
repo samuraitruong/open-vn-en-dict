@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [{"id": "6272", "link": "/find?type=1&query=astronautic", "word": "astronautic"}, {"id": "6272", "link": "/find?type=1&query=astronautical", "word": "astronautical"}, {"id": "6272", "link": "/find?type=1&query=astronautically", "word": "astronautically"}, {"id": "6272", "link": "/find?type=1&query=astronautics", "word": "astronautics"}], "data": {"word": "astronaut", "id": "6272", "pronounce": "/'\u00e6str\u0259n\u0254:t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/e5c642a0918e54a528fb5d7feb55f126/16e5dcc5963/A/astronaut.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cd365ce4bcc7df631401d30788073ee3/16e5dcc6004/A/astronaut.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "astronaut", "id": "1532", "pronounce": "/\u02c8\u00e6str\u0259\u02ccn\u0251\u02d0t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nauts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who travels in a spacecraft into outer space</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nauts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who travels in a spacecraft into outer space</div>",
+            "id": "1532",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6str\u0259\u02ccn\u0251\u02d0t/",
+            "type": "noun",
+            "word": "astronaut"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 h\u00e0ng kh\u00f4ng v\u0169 tr\u1ee5</div>",
+            "id": "6272",
+            "mean": [],
+            "pronounce": "/'\u00e6str\u0259n\u0254:t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d94bb604c920806151b117b6478ea131/16e5eaf8001/A/astronaut.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e9446f51f1881f134fdb896e153de01d/16e5eaf79b3/A/astronaut.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "astronaut"
+        },
+        "suggests": [
+            {
+                "id": "6272",
+                "link": "/find?type=1&query=astronautic",
+                "word": "astronautic"
+            },
+            {
+                "id": "6272",
+                "link": "/find?type=1&query=astronautical",
+                "word": "astronautical"
+            },
+            {
+                "id": "6272",
+                "link": "/find?type=1&query=astronautically",
+                "word": "astronautically"
+            },
+            {
+                "id": "6272",
+                "link": "/find?type=1&query=astronautics",
+                "word": "astronautics"
+            }
+        ]
+    }
+}

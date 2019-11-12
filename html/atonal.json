@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "6418", "link": "/find?type=1&query=atonality", "word": "atonality"}, {"id": "6418", "link": "/find?type=1&query=atonally", "word": "atonally"}], "data": {"word": "atonal", "id": "6418", "pronounce": "/ei't\u0259\u028anl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u00e2m nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">phi gi\u1ecdng \u0111i\u1ec7u</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/24276b330f1eb9c79fcac11edb38abef/16e5dccb756/A/atonal.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a6434b5897b879d8e79473ce39c53eb6/16e5dccbd46/A/atonal.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "atonal", "id": "1570", "pronounce": "/e\u026a\u02c8to\u028ann\u0329/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">music :not written, played, or sung in a particular key</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">atonal music/sounds</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">music :not written, played, or sung in a particular key</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">atonal music/sounds</div>",
+            "id": "1570",
+            "mean": [],
+            "pronounce": "/e\u026a\u02c8to\u028ann\u0329/",
+            "type": "adjective",
+            "word": "atonal"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u00e2m nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">phi gi\u1ecdng \u0111i\u1ec7u</div>",
+            "id": "6418",
+            "mean": [],
+            "pronounce": "/ei't\u0259\u028anl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c6bd6f5f548fb7f6c7ddfd96c2557ce2/16e5eafd81f/A/atonal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/98817ead6b1008b918f1fdf3e495eedb/16e5eafd275/A/atonal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "atonal"
+        },
+        "suggests": [
+            {
+                "id": "6418",
+                "link": "/find?type=1&query=atonality",
+                "word": "atonality"
+            },
+            {
+                "id": "6418",
+                "link": "/find?type=1&query=atonally",
+                "word": "atonally"
+            }
+        ]
+    }
+}
