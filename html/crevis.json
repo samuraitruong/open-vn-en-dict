@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "20999", "link": "/find?type=1&query=crevice", "word": "crevice"}, {"id": "21000", "link": "/find?type=1&query=creviced", "word": "creviced"}], "data": {}}, "en_en": {"suggests": [{"id": "6751", "link": "/find?type=3&query=crevice", "word": "crevice"}], "data": {}}, "synonyms": {"suggests": [{"id": "1326", "link": "/find?type=4&query=crevice", "word": "crevice"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6751",
+                "link": "/find?type=3&query=crevice",
+                "word": "crevice"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20999",
+                "link": "/find?type=1&query=crevice",
+                "word": "crevice"
+            },
+            {
+                "id": "21000",
+                "link": "/find?type=1&query=creviced",
+                "word": "creviced"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1326",
+                "link": "/find?type=4&query=crevice",
+                "word": "crevice"
+            }
+        ]
+    }
+}

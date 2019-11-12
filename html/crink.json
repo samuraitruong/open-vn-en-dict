@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "21058", "link": "/find?type=1&query=crinkle", "word": "crinkle"}, {"id": "21059", "link": "/find?type=1&query=crinkly", "word": "crinkly"}, {"id": "21060", "link": "/find?type=1&query=crinkum-crankum", "word": "crinkum-crankum"}], "data": {}}, "en_en": {"suggests": [{"id": "6772", "link": "/find?type=3&query=crinkle", "word": "crinkle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6772",
+                "link": "/find?type=3&query=crinkle",
+                "word": "crinkle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21058",
+                "link": "/find?type=1&query=crinkle",
+                "word": "crinkle"
+            },
+            {
+                "id": "21059",
+                "link": "/find?type=1&query=crinkly",
+                "word": "crinkly"
+            },
+            {
+                "id": "21060",
+                "link": "/find?type=1&query=crinkum-crankum",
+                "word": "crinkum-crankum"
+            }
+        ]
+    }
+}

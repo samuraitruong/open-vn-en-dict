@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "21054", "link": "/find?type=1&query=cringe", "word": "cringe"}, {"id": "21055", "link": "/find?type=1&query=cringing", "word": "cringing"}, {"id": "21056", "link": "/find?type=1&query=cringle", "word": "cringle"}, {"id": "21057", "link": "/find?type=1&query=crinite", "word": "crinite"}, {"id": "21058", "link": "/find?type=1&query=crinkle", "word": "crinkle"}, {"id": "21059", "link": "/find?type=1&query=crinkly", "word": "crinkly"}, {"id": "21060", "link": "/find?type=1&query=crinkum-crankum", "word": "crinkum-crankum"}, {"id": "21061", "link": "/find?type=1&query=crinoid", "word": "crinoid"}, {"id": "21062", "link": "/find?type=1&query=crinoline", "word": "crinoline"}, {"id": "21063", "link": "/find?type=1&query=crinolined", "word": "crinolined"}], "data": {}}, "en_en": {"suggests": [{"id": "6771", "link": "/find?type=3&query=cringe", "word": "cringe"}, {"id": "6772", "link": "/find?type=3&query=crinkle", "word": "crinkle"}], "data": {}}, "synonyms": {"suggests": [{"id": "1330", "link": "/find?type=4&query=cringe", "word": "cringe"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6771",
+                "link": "/find?type=3&query=cringe",
+                "word": "cringe"
+            },
+            {
+                "id": "6772",
+                "link": "/find?type=3&query=crinkle",
+                "word": "crinkle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21054",
+                "link": "/find?type=1&query=cringe",
+                "word": "cringe"
+            },
+            {
+                "id": "21055",
+                "link": "/find?type=1&query=cringing",
+                "word": "cringing"
+            },
+            {
+                "id": "21056",
+                "link": "/find?type=1&query=cringle",
+                "word": "cringle"
+            },
+            {
+                "id": "21057",
+                "link": "/find?type=1&query=crinite",
+                "word": "crinite"
+            },
+            {
+                "id": "21058",
+                "link": "/find?type=1&query=crinkle",
+                "word": "crinkle"
+            },
+            {
+                "id": "21059",
+                "link": "/find?type=1&query=crinkly",
+                "word": "crinkly"
+            },
+            {
+                "id": "21060",
+                "link": "/find?type=1&query=crinkum-crankum",
+                "word": "crinkum-crankum"
+            },
+            {
+                "id": "21061",
+                "link": "/find?type=1&query=crinoid",
+                "word": "crinoid"
+            },
+            {
+                "id": "21062",
+                "link": "/find?type=1&query=crinoline",
+                "word": "crinoline"
+            },
+            {
+                "id": "21063",
+                "link": "/find?type=1&query=crinolined",
+                "word": "crinolined"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1330",
+                "link": "/find?type=4&query=cringe",
+                "word": "cringe"
+            }
+        ]
+    }
+}

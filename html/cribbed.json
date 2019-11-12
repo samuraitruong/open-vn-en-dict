@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "21011", "link": "/find?type=1&query=cribber", "word": "cribber"}], "data": {}}, "en_en": {"suggests": [{"id": "6758", "link": "/find?type=3&query=cribbage", "word": "cribbage"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6758",
+                "link": "/find?type=3&query=cribbage",
+                "word": "cribbage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21011",
+                "link": "/find?type=1&query=cribber",
+                "word": "cribber"
+            }
+        ]
+    }
+}

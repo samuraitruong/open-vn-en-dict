@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [{"id": "20979", "link": "/find?type=1&query=cresset", "word": "cresset"}], "data": {"word": "cress", "id": "20979", "pronounce": "/kres/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3i xoong</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/17d6d4beb7925c389a45bf842cf75b37/16e5dfb12e8/C/cress.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/e701562a797a7d0c413c282b1e386ee5/16e5dfb18a7/C/cress.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cress", "id": "6744", "pronounce": "/\u02c8kr\u025bs/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cresses</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a small plant that has spicy leaves that are eaten especially in salads - see also watercress</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1323", "link": "/find?type=4&query=crescent", "word": "crescent"}, {"id": "1324", "link": "/find?type=4&query=crest", "word": "crest"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cresses</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a small plant that has spicy leaves that are eaten especially in salads - see also watercress</div>",
+            "id": "6744",
+            "mean": [],
+            "pronounce": "/\u02c8kr\u025bs/",
+            "type": "noun",
+            "word": "cress"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3i xoong</div>",
+            "id": "20979",
+            "mean": [],
+            "pronounce": "/kres/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9f4b5935fe3df5c55a7d1ac2257ac4ef/16e5ee0411c/C/cress.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/81e10d94868919d1312f1e9aed848692/16e5ee0383a/C/cress.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cress"
+        },
+        "suggests": [
+            {
+                "id": "20979",
+                "link": "/find?type=1&query=cresset",
+                "word": "cresset"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1323",
+                "link": "/find?type=4&query=crescent",
+                "word": "crescent"
+            },
+            {
+                "id": "1324",
+                "link": "/find?type=4&query=crest",
+                "word": "crest"
+            }
+        ]
+    }
+}
