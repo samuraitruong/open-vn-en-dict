@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "33273", "link": "/find?type=1&query=expository", "word": "expository"}], "data": {"word": "expositor", "id": "33273", "pronounce": "/eks'p\u0254zit\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tr\u00ecnh b\u00e0y, ng\u01b0\u1eddi m\u00f4 t\u1ea3, ng\u01b0\u1eddi gi\u1ea3i th\u00edch</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10058", "link": "/find?type=3&query=expository", "word": "expository"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10058",
+                "link": "/find?type=3&query=expository",
+                "word": "expository"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tr\u00ecnh b\u00e0y, ng\u01b0\u1eddi m\u00f4 t\u1ea3, ng\u01b0\u1eddi gi\u1ea3i th\u00edch</div>",
+            "id": "33273",
+            "mean": [],
+            "pronounce": "/eks'p\u0254zit\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "expositor"
+        },
+        "suggests": [
+            {
+                "id": "33273",
+                "link": "/find?type=1&query=expository",
+                "word": "expository"
+            }
+        ]
+    }
+}
