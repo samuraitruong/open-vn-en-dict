@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "13070", "link": "/find?type=1&query=carapace", "word": "carapace"}], "data": {}}, "en_en": {"suggests": [{"id": "4096", "link": "/find?type=3&query=carapace", "word": "carapace"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4096",
+                "link": "/find?type=3&query=carapace",
+                "word": "carapace"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13070",
+                "link": "/find?type=1&query=carapace",
+                "word": "carapace"
+            }
+        ]
+    }
+}

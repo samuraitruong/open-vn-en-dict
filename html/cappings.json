@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "13018", "link": "/find?type=1&query=caps+lock", "word": "caps lock"}, {"id": "13018", "link": "/find?type=1&query=capsaicin", "word": "capsaicin"}, {"id": "13018", "link": "/find?type=1&query=capsicum", "word": "capsicum"}, {"id": "13018", "link": "/find?type=1&query=capsize", "word": "capsize"}, {"id": "13018", "link": "/find?type=1&query=capstan", "word": "capstan"}, {"id": "13018", "link": "/find?type=1&query=capstan+servo", "word": "capstan servo"}, {"id": "13018", "link": "/find?type=1&query=capsule", "word": "capsule"}], "data": {"word": "caps", "id": "13018", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1eefng ch\u1eef c\u00e1i hoa</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4072", "link": "/find?type=3&query=capsize", "word": "capsize"}, {"id": "4073", "link": "/find?type=3&query=capstan", "word": "capstan"}, {"id": "4074", "link": "/find?type=3&query=capsule", "word": "capsule"}], "data": {}}, "synonyms": {"suggests": [{"id": "855", "link": "/find?type=4&query=capsize", "word": "capsize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4072",
+                "link": "/find?type=3&query=capsize",
+                "word": "capsize"
+            },
+            {
+                "id": "4073",
+                "link": "/find?type=3&query=capstan",
+                "word": "capstan"
+            },
+            {
+                "id": "4074",
+                "link": "/find?type=3&query=capsule",
+                "word": "capsule"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1eefng ch\u1eef c\u00e1i hoa</div>",
+            "id": "13018",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "caps"
+        },
+        "suggests": [
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=caps+lock",
+                "word": "caps lock"
+            },
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=capsaicin",
+                "word": "capsaicin"
+            },
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=capsicum",
+                "word": "capsicum"
+            },
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=capsize",
+                "word": "capsize"
+            },
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=capstan",
+                "word": "capstan"
+            },
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=capstan+servo",
+                "word": "capstan servo"
+            },
+            {
+                "id": "13018",
+                "link": "/find?type=1&query=capsule",
+                "word": "capsule"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "855",
+                "link": "/find?type=4&query=capsize",
+                "word": "capsize"
+            }
+        ]
+    }
+}

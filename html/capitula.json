@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "12991", "link": "/find?type=1&query=capitulant", "word": "capitulant"}, {"id": "12992", "link": "/find?type=1&query=capitular", "word": "capitular"}, {"id": "12993", "link": "/find?type=1&query=capitularly", "word": "capitularly"}, {"id": "12994", "link": "/find?type=1&query=capitulate", "word": "capitulate"}, {"id": "12995", "link": "/find?type=1&query=capitulation", "word": "capitulation"}, {"id": "12996", "link": "/find?type=1&query=capitulator", "word": "capitulator"}, {"id": "12997", "link": "/find?type=1&query=capitulatory", "word": "capitulatory"}], "data": {}}, "en_en": {"suggests": [{"id": "4065", "link": "/find?type=3&query=capitulate", "word": "capitulate"}], "data": {}}, "synonyms": {"suggests": [{"id": "853", "link": "/find?type=4&query=capitulate", "word": "capitulate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4065",
+                "link": "/find?type=3&query=capitulate",
+                "word": "capitulate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12991",
+                "link": "/find?type=1&query=capitulant",
+                "word": "capitulant"
+            },
+            {
+                "id": "12992",
+                "link": "/find?type=1&query=capitular",
+                "word": "capitular"
+            },
+            {
+                "id": "12993",
+                "link": "/find?type=1&query=capitularly",
+                "word": "capitularly"
+            },
+            {
+                "id": "12994",
+                "link": "/find?type=1&query=capitulate",
+                "word": "capitulate"
+            },
+            {
+                "id": "12995",
+                "link": "/find?type=1&query=capitulation",
+                "word": "capitulation"
+            },
+            {
+                "id": "12996",
+                "link": "/find?type=1&query=capitulator",
+                "word": "capitulator"
+            },
+            {
+                "id": "12997",
+                "link": "/find?type=1&query=capitulatory",
+                "word": "capitulatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "853",
+                "link": "/find?type=4&query=capitulate",
+                "word": "capitulate"
+            }
+        ]
+    }
+}

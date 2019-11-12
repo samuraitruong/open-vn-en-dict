@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "12897", "link": "/find?type=1&query=capacitor+constant", "word": "capacitor constant"}, {"id": "12897", "link": "/find?type=1&query=capacitor+store", "word": "capacitor store"}, {"id": "12897", "link": "/find?type=1&query=capacitor-transformer+gyrator", "word": "capacitor-transformer gyrator"}], "data": {"word": "capacitor", "id": "12897", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) b\u1ed9 \u0111i\u1ec7n dung, c\u00e1i t\u1ee5 \u0111i\u1ec7n</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i t\u1ee5 (\u0111i\u1ec7n); b\u00ecnh ng\u01b0ng h\u01a1i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/66ec2549c3693a8667e95b9a2590f366/16e5de2bc82/C/capacitor.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/27e4817a47eee2db91f518b65bdb6547/16e5de2c24f/C/capacitor.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "capacitor", "id": "4049", "pronounce": "/k\u0259\u02c8p\u00e6s\u0259t\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :a device that is used to store electrical energy</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :a device that is used to store electrical energy</div>",
+            "id": "4049",
+            "mean": [],
+            "pronounce": "/k\u0259\u02c8p\u00e6s\u0259t\u025a/",
+            "type": "noun",
+            "word": "capacitor"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) b\u1ed9 \u0111i\u1ec7n dung, c\u00e1i t\u1ee5 \u0111i\u1ec7n</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i t\u1ee5 (\u0111i\u1ec7n); b\u00ecnh ng\u01b0ng h\u01a1i</div>",
+            "id": "12897",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4ee279dced9556899cd2126096c3c954/16e5ec3c55b/C/capacitor.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/eff8fc861d1f65b63497d2292c146af2/16e5ec3c037/C/capacitor.mp3"
+            },
+            "type": "",
+            "word": "capacitor"
+        },
+        "suggests": [
+            {
+                "id": "12897",
+                "link": "/find?type=1&query=capacitor+constant",
+                "word": "capacitor constant"
+            },
+            {
+                "id": "12897",
+                "link": "/find?type=1&query=capacitor+store",
+                "word": "capacitor store"
+            },
+            {
+                "id": "12897",
+                "link": "/find?type=1&query=capacitor-transformer+gyrator",
+                "word": "capacitor-transformer gyrator"
+            }
+        ]
+    }
+}

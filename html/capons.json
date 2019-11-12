@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "13000", "link": "/find?type=1&query=caponier", "word": "caponier"}, {"id": "13000", "link": "/find?type=1&query=caponize", "word": "caponize"}], "data": {"word": "capon", "id": "13000", "pronounce": "/'keip\u0252n/ /'keipn/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e0 tr\u1ed1ng thi\u1ebfn</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/2bd5a6387766745783b3c9b97b9bd391/16e5de2f084/C/capon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c47fbb49e83570781f46544d28565d57/16e5de2f61c/C/capon.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "capon", "id": "4066", "pronounce": "/\u02c8ke\u026a\u02ccp\u0251\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -pons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a male chicken whose sex organs have been removed</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -pons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a male chicken whose sex organs have been removed</div>",
+            "id": "4066",
+            "mean": [],
+            "pronounce": "/\u02c8ke\u026a\u02ccp\u0251\u02d0n/",
+            "type": "noun",
+            "word": "capon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e0 tr\u1ed1ng thi\u1ebfn</div>",
+            "id": "13000",
+            "mean": [],
+            "pronounce": "/'keip\u0252n/ /'keipn/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/532f58a3103f57e48cfca8260aee6255/16e5ec3f627/C/capon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/95f60e06171ea4213cdc5e82848613f0/16e5ec3f113/C/capon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "capon"
+        },
+        "suggests": [
+            {
+                "id": "13000",
+                "link": "/find?type=1&query=caponier",
+                "word": "caponier"
+            },
+            {
+                "id": "13000",
+                "link": "/find?type=1&query=caponize",
+                "word": "caponize"
+            }
+        ]
+    }
+}

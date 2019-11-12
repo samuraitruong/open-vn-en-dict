@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "12989", "link": "/find?type=1&query=capitole", "word": "capitole"}], "data": {"word": "Capitol", "id": "12989", "pronounce": "/'k\u00e6pitl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the Capitol</div>\n    \n    <div class=\"grey margin25 m-top15\">(s\u1ed1 \u00edt) \u0111i\u1ec7n Capitol, t\u00f2a nh\u00e0 qu\u1ed1c h\u1ed9i (\u1edf Washington, Hoa K\u1ef3)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/919308eb27f677dd07e307d620682409/16e5de2e387/C/Capitol.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/2aaf8a11145ecfb9c441e58639612a8d/16e5de2e941/C/Capitol.mp3"}}}, "en_en": {"suggests": [{"id": "4063", "link": "/find?type=3&query=Capitol+Hill", "word": "Capitol Hill"}], "data": {"word": "capitol", "id": "4063", "pronounce": "/\u02c8k\u00e6p\u0259tn\u0329/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tols</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the building in which the people who make the laws of a U.S. state meet</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the dome of the state capitol</div>\n    \n    <div class=\"green margin25 m-top15\">the Capitol :the building in which the U.S. Congress meets in Washington, D.C. Do not confuse capitol with capital.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tols</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the building in which the people who make the laws of a U.S. state meet</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the dome of the state capitol</div>\n    \n    <div class=\"green margin25 m-top15\">the Capitol :the building in which the U.S. Congress meets in Washington, D.C. Do not confuse capitol with capital.</div>",
+            "id": "4063",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6p\u0259tn\u0329/",
+            "type": "noun",
+            "word": "capitol"
+        },
+        "suggests": [
+            {
+                "id": "4063",
+                "link": "/find?type=3&query=Capitol+Hill",
+                "word": "Capitol Hill"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the Capitol</div>\n    \n    <div class=\"grey margin25 m-top15\">(s\u1ed1 \u00edt) \u0111i\u1ec7n Capitol, t\u00f2a nh\u00e0 qu\u1ed1c h\u1ed9i (\u1edf Washington, Hoa K\u1ef3)</div>",
+            "id": "12989",
+            "mean": [],
+            "pronounce": "/'k\u00e6pitl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/21bc9f0d14c7a097ce1ff8f52c4f0fbe/16e5ec3e9f2/C/Capitol.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0d882fa0b3c3281f0de147732ccbca7a/16e5ec3e495/C/Capitol.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Capitol"
+        },
+        "suggests": [
+            {
+                "id": "12989",
+                "link": "/find?type=1&query=capitole",
+                "word": "capitole"
+            }
+        ]
+    }
+}

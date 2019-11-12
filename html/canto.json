@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "12860", "link": "/find?type=1&query=canton", "word": "canton"}, {"id": "12860", "link": "/find?type=1&query=cantonal", "word": "cantonal"}, {"id": "12860", "link": "/find?type=1&query=Cantonese", "word": "Cantonese"}, {"id": "12860", "link": "/find?type=1&query=cantonment", "word": "cantonment"}, {"id": "12860", "link": "/find?type=1&query=cantor", "word": "cantor"}, {"id": "12860", "link": "/find?type=1&query=cantorial", "word": "cantorial"}], "data": {"word": "canto", "id": "12860", "pronounce": "/'k\u00e6nt\u0259\u028a/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cantos)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u1ed5 (trong m\u1ed9t b\u00e0i th\u01a1 d\u00e0i)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/62aefa9eecf3fc48d8e80d21ec3cd73a/16e5de29dfc/C/canto.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/77c6df3243722623a2be0ef2da1a55f1/16e5de2a3e1/C/canto.mp3"}}}, "en_en": {"suggests": [{"id": "4038", "link": "/find?type=3&query=canton", "word": "canton"}, {"id": "4038", "link": "/find?type=3&query=cantor", "word": "cantor"}], "data": {"word": "canto", "id": "4038", "pronounce": "/\u02c8k\u00e6nto\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cantos</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a major section of a long poem</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the first canto of Dante's Inferno</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural cantos</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a major section of a long poem</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the first canto of Dante's Inferno</div>",
+            "id": "4038",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6nto\u028a/",
+            "type": "noun",
+            "word": "canto"
+        },
+        "suggests": [
+            {
+                "id": "4038",
+                "link": "/find?type=3&query=canton",
+                "word": "canton"
+            },
+            {
+                "id": "4038",
+                "link": "/find?type=3&query=cantor",
+                "word": "cantor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u cantos)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u1ed5 (trong m\u1ed9t b\u00e0i th\u01a1 d\u00e0i)</div>",
+            "id": "12860",
+            "mean": [],
+            "pronounce": "/'k\u00e6nt\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3075e72f474728064895fc31f1ad7277/16e5ec3a8ae/C/canto.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/47db9903e0645a39b4a0269de0421aa6/16e5ec3a36f/C/canto.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "canto"
+        },
+        "suggests": [
+            {
+                "id": "12860",
+                "link": "/find?type=1&query=canton",
+                "word": "canton"
+            },
+            {
+                "id": "12860",
+                "link": "/find?type=1&query=cantonal",
+                "word": "cantonal"
+            },
+            {
+                "id": "12860",
+                "link": "/find?type=1&query=Cantonese",
+                "word": "Cantonese"
+            },
+            {
+                "id": "12860",
+                "link": "/find?type=1&query=cantonment",
+                "word": "cantonment"
+            },
+            {
+                "id": "12860",
+                "link": "/find?type=1&query=cantor",
+                "word": "cantor"
+            },
+            {
+                "id": "12860",
+                "link": "/find?type=1&query=cantorial",
+                "word": "cantorial"
+            }
+        ]
+    }
+}

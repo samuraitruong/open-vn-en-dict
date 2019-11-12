@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "12861", "link": "/find?type=1&query=cantonal", "word": "cantonal"}, {"id": "12861", "link": "/find?type=1&query=Cantonese", "word": "Cantonese"}, {"id": "12861", "link": "/find?type=1&query=cantonment", "word": "cantonment"}], "data": {"word": "canton", "id": "12861", "pronounce": "/'k\u00e6nt\u0252n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bang (trong Li\u00ean bang Th\u1ee5y S\u0129)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6aff112da264dd60d8125da6a2652b04/16e5de29e2b/C/canton.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c9348047264fce1512bdbb04d04d81b6/16e5de2a3e1/C/canton.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "canton", "id": "4039", "pronounce": "/\u02c8k\u00e6ntn\u0329/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :one of the sections into which some countries (such as Switzerland) are divided</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :one of the sections into which some countries (such as Switzerland) are divided</div>",
+            "id": "4039",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6ntn\u0329/",
+            "type": "noun",
+            "word": "canton"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">bang (trong Li\u00ean bang Th\u1ee5y S\u0129)</div>",
+            "id": "12861",
+            "mean": [],
+            "pronounce": "/'k\u00e6nt\u0252n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c4b650df9bdedb4edaf6d458afbc1a8d/16e5ec3a8ca/C/canton.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cbb6fb1334268d8192c74b09b6aa6a01/16e5ec3a383/C/canton.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "canton"
+        },
+        "suggests": [
+            {
+                "id": "12861",
+                "link": "/find?type=1&query=cantonal",
+                "word": "cantonal"
+            },
+            {
+                "id": "12861",
+                "link": "/find?type=1&query=Cantonese",
+                "word": "Cantonese"
+            },
+            {
+                "id": "12861",
+                "link": "/find?type=1&query=cantonment",
+                "word": "cantonment"
+            }
+        ]
+    }
+}
