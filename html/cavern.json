@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "13860", "link": "/find?type=1&query=cavernicolous", "word": "cavernicolous"}, {"id": "13860", "link": "/find?type=1&query=cavernous", "word": "cavernous"}, {"id": "13860", "link": "/find?type=1&query=cavernously", "word": "cavernously"}], "data": {"word": "cavern", "id": "13860", "pronounce": "/'k\u00e6v\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hang (l\u1edbn), hang t\u1ed1i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a4a68da12b7aedfa750b0f8be0affc23/16e5de5d514/C/cavern.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f2e04b2564d176708a7b0ba2cbd7d222/16e5de5dac8/C/cavern.mp3"}}}, "en_en": {"suggests": [{"id": "4360", "link": "/find?type=3&query=cavernous", "word": "cavernous"}], "data": {"word": "cavern", "id": "4360", "pronounce": "/\u02c8k\u00e6v\u025an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -erns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large cave</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -erns</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large cave</div>",
+            "id": "4360",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6v\u025an/",
+            "type": "noun",
+            "word": "cavern"
+        },
+        "suggests": [
+            {
+                "id": "4360",
+                "link": "/find?type=3&query=cavernous",
+                "word": "cavernous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hang (l\u1edbn), hang t\u1ed1i</div>",
+            "id": "13860",
+            "mean": [],
+            "pronounce": "/'k\u00e6v\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0d1882cd491e36e7227dabc5c1b23379/16e5ec6a5f8/C/cavern.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/318a8ac7c0a0380f78929973f82226ab/16e5ec6a0ea/C/cavern.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cavern"
+        },
+        "suggests": [
+            {
+                "id": "13860",
+                "link": "/find?type=1&query=cavernicolous",
+                "word": "cavernicolous"
+            },
+            {
+                "id": "13860",
+                "link": "/find?type=1&query=cavernous",
+                "word": "cavernous"
+            },
+            {
+                "id": "13860",
+                "link": "/find?type=1&query=cavernously",
+                "word": "cavernously"
+            }
+        ]
+    }
+}

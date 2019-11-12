@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "13856", "link": "/find?type=1&query=caveat", "word": "caveat"}], "data": {}}, "en_en": {"suggests": [{"id": "4355", "link": "/find?type=3&query=caveat", "word": "caveat"}, {"id": "4356", "link": "/find?type=3&query=caveat+emptor", "word": "caveat emptor"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4355",
+                "link": "/find?type=3&query=caveat",
+                "word": "caveat"
+            },
+            {
+                "id": "4356",
+                "link": "/find?type=3&query=caveat+emptor",
+                "word": "caveat emptor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13856",
+                "link": "/find?type=1&query=caveat",
+                "word": "caveat"
+            }
+        ]
+    }
+}

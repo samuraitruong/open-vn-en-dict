@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "13895", "link": "/find?type=1&query=CD+%28compact+disk%2Fdisc%29", "word": "CD (compact disk/disc)"}, {"id": "13895", "link": "/find?type=1&query=cd-i", "word": "cd-i"}, {"id": "13895", "link": "/find?type=1&query=CD-ROM", "word": "CD-ROM"}, {"id": "13895", "link": "/find?type=1&query=CD-ROM+drive", "word": "CD-ROM drive"}, {"id": "13895", "link": "/find?type=1&query=CD-ROM+player", "word": "CD-ROM player"}, {"id": "13895", "link": "/find?type=1&query=cdev", "word": "cdev"}, {"id": "13895", "link": "/find?type=1&query=Cdr", "word": "Cdr"}, {"id": "13895", "link": "/find?type=1&query=Cdre", "word": "Cdre"}, {"id": "13895", "link": "/find?type=1&query=cdt", "word": "cdt"}], "data": {"word": "cd", "id": "13895", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ef1a compact</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4374", "link": "/find?type=3&query=CD-ROM", "word": "CD-ROM"}], "data": {"word": "CD", "id": "4374", "pronounce": "/\u02ccsi\u02d0\u02c8di\u02d0/", "type": "noun noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural CDs</div>\n    \n    <div class=\"green margin25 m-top15\">a small plastic disk on which information (such as music or computer data) is recorded [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The singer released her new CD [=a new set of songs recorded on CDs for people to buy] last month.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a four-CD set</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The car stereo includes a CD player. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The band's early albums are now available on CD. - called also compact disc, - compare 2cd</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural CDs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :certificate of deposit - compare 1cd</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural CDs</div>\n    \n    <div class=\"green margin25 m-top15\">a small plastic disk on which information (such as music or computer data) is recorded [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The singer released her new CD [=a new set of songs recorded on CDs for people to buy] last month.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a four-CD set</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The car stereo includes a CD player. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The band's early albums are now available on CD. - called also compact disc, - compare 2cd</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural CDs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :certificate of deposit - compare 1cd</div>",
+            "id": "4374",
+            "mean": [],
+            "pronounce": "/\u02ccsi\u02d0\u02c8di\u02d0/",
+            "type": "noun noun",
+            "word": "CD"
+        },
+        "suggests": [
+            {
+                "id": "4374",
+                "link": "/find?type=3&query=CD-ROM",
+                "word": "CD-ROM"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u0111\u1ef1a compact</div>",
+            "id": "13895",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cd"
+        },
+        "suggests": [
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=CD+%28compact+disk%2Fdisc%29",
+                "word": "CD (compact disk/disc)"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=cd-i",
+                "word": "cd-i"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=CD-ROM",
+                "word": "CD-ROM"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=CD-ROM+drive",
+                "word": "CD-ROM drive"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=CD-ROM+player",
+                "word": "CD-ROM player"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=cdev",
+                "word": "cdev"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=Cdr",
+                "word": "Cdr"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=Cdre",
+                "word": "Cdre"
+            },
+            {
+                "id": "13895",
+                "link": "/find?type=1&query=cdt",
+                "word": "cdt"
+            }
+        ]
+    }
+}

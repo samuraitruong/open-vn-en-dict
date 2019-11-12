@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "13733", "link": "/find?type=1&query=cathode+ray", "word": "cathode ray"}, {"id": "13733", "link": "/find?type=1&query=cathode+ray+tube", "word": "cathode ray tube"}, {"id": "13733", "link": "/find?type=1&query=cathode-ray+tube", "word": "cathode-ray tube"}], "data": {"word": "cathode", "id": "13733", "pronounce": "/'k\u00e6\u03b8\u0259\u028ad/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e2m c\u1ef1c, catot</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/fdae1b2151fd3d7a247a4e727dab02ea/16e5de563b0/C/cathode.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cd223e688e97272902ab38481d35464b/16e5de56986/C/cathode.mp3"}}}, "en_en": {"suggests": [{"id": "4304", "link": "/find?type=3&query=cathode-ray+tube", "word": "cathode-ray tube"}], "data": {"word": "cathode", "id": "4304", "pronounce": "/\u02c8k\u00e6\u02cc\u0275o\u028ad/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -odes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :the part of an electrical device (such as a battery) where electrons enter - compare anode</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -odes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :the part of an electrical device (such as a battery) where electrons enter - compare anode</div>",
+            "id": "4304",
+            "mean": [],
+            "pronounce": "/\u02c8k\u00e6\u02cc\u0275o\u028ad/",
+            "type": "noun",
+            "word": "cathode"
+        },
+        "suggests": [
+            {
+                "id": "4304",
+                "link": "/find?type=3&query=cathode-ray+tube",
+                "word": "cathode-ray tube"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e2m c\u1ef1c, catot</div>",
+            "id": "13733",
+            "mean": [],
+            "pronounce": "/'k\u00e6\u03b8\u0259\u028ad/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d4c5831626780f18375520805a8e4412/16e5ec63a9c/C/cathode.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/eee99ae50701cbb8017aa071ad4de8fa/16e5ec63573/C/cathode.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cathode"
+        },
+        "suggests": [
+            {
+                "id": "13733",
+                "link": "/find?type=1&query=cathode+ray",
+                "word": "cathode ray"
+            },
+            {
+                "id": "13733",
+                "link": "/find?type=1&query=cathode+ray+tube",
+                "word": "cathode ray tube"
+            },
+            {
+                "id": "13733",
+                "link": "/find?type=1&query=cathode-ray+tube",
+                "word": "cathode-ray tube"
+            }
+        ]
+    }
+}

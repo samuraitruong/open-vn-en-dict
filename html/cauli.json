@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "13803", "link": "/find?type=1&query=cauliflower", "word": "cauliflower"}, {"id": "13804", "link": "/find?type=1&query=cauliflower+cheese", "word": "cauliflower cheese"}, {"id": "13805", "link": "/find?type=1&query=cauliflower+ear", "word": "cauliflower ear"}, {"id": "13806", "link": "/find?type=1&query=cauline", "word": "cauline"}, {"id": "13807", "link": "/find?type=1&query=caulis", "word": "caulis"}], "data": {}}, "en_en": {"suggests": [{"id": "4333", "link": "/find?type=3&query=cauliflower", "word": "cauliflower"}, {"id": "4334", "link": "/find?type=3&query=cauliflower+ear", "word": "cauliflower ear"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4333",
+                "link": "/find?type=3&query=cauliflower",
+                "word": "cauliflower"
+            },
+            {
+                "id": "4334",
+                "link": "/find?type=3&query=cauliflower+ear",
+                "word": "cauliflower ear"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13803",
+                "link": "/find?type=1&query=cauliflower",
+                "word": "cauliflower"
+            },
+            {
+                "id": "13804",
+                "link": "/find?type=1&query=cauliflower+cheese",
+                "word": "cauliflower cheese"
+            },
+            {
+                "id": "13805",
+                "link": "/find?type=1&query=cauliflower+ear",
+                "word": "cauliflower ear"
+            },
+            {
+                "id": "13806",
+                "link": "/find?type=1&query=cauline",
+                "word": "cauline"
+            },
+            {
+                "id": "13807",
+                "link": "/find?type=1&query=caulis",
+                "word": "caulis"
+            }
+        ]
+    }
+}

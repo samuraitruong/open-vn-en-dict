@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "13866", "link": "/find?type=1&query=caviar", "word": "caviar"}, {"id": "13867", "link": "/find?type=1&query=caviare", "word": "caviare"}, {"id": "13868", "link": "/find?type=1&query=caviare%2C+caviar", "word": "caviare, caviar"}], "data": {}}, "en_en": {"suggests": [{"id": "4362", "link": "/find?type=3&query=caviar", "word": "caviar"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4362",
+                "link": "/find?type=3&query=caviar",
+                "word": "caviar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13866",
+                "link": "/find?type=1&query=caviar",
+                "word": "caviar"
+            },
+            {
+                "id": "13867",
+                "link": "/find?type=1&query=caviare",
+                "word": "caviare"
+            },
+            {
+                "id": "13868",
+                "link": "/find?type=1&query=caviare%2C+caviar",
+                "word": "caviare, caviar"
+            }
+        ]
+    }
+}

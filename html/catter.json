@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "13762", "link": "/find?type=1&query=cattery", "word": "cattery"}], "data": {}}, "en_en": {"suggests": [{"id": "4319", "link": "/find?type=3&query=cattery", "word": "cattery"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4319",
+                "link": "/find?type=3&query=cattery",
+                "word": "cattery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13762",
+                "link": "/find?type=1&query=cattery",
+                "word": "cattery"
+            }
+        ]
+    }
+}

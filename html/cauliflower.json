@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "13803", "link": "/find?type=1&query=cauliflower+cheese", "word": "cauliflower cheese"}, {"id": "13803", "link": "/find?type=1&query=cauliflower+ear", "word": "cauliflower ear"}], "data": {"word": "cauliflower", "id": "13803", "pronounce": "/'k\u0252lifla\u028a\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hoa l\u01a1, su l\u01a1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/27b7a9ddbc2609f0b10fd724b14acd53/16e5de59d22/C/cauliflower.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/12b7a8206e7d2ae7a0c4f1e2a70bb5b3/16e5de5a2bc/C/cauliflower.mp3"}}}, "en_en": {"suggests": [{"id": "4333", "link": "/find?type=3&query=cauliflower+ear", "word": "cauliflower ear"}], "data": {"word": "cauliflower", "id": "4333", "pronounce": "/\u02c8k\u0251\u02d0l\u026a\u02ccflaw\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a vegetable that is grown for its head of white flowers - see color picture</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :a vegetable that is grown for its head of white flowers - see color picture</div>",
+            "id": "4333",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0l\u026a\u02ccflaw\u025a/",
+            "type": "noun",
+            "word": "cauliflower"
+        },
+        "suggests": [
+            {
+                "id": "4333",
+                "link": "/find?type=3&query=cauliflower+ear",
+                "word": "cauliflower ear"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">hoa l\u01a1, su l\u01a1</div>",
+            "id": "13803",
+            "mean": [],
+            "pronounce": "/'k\u0252lifla\u028a\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ff4af39a9a2a765dcf9fd18917157ea0/16e5ec670ff/C/cauliflower.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/93d9a98882dd3feb5cd88f7c989af175/16e5ec66b82/C/cauliflower.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cauliflower"
+        },
+        "suggests": [
+            {
+                "id": "13803",
+                "link": "/find?type=1&query=cauliflower+cheese",
+                "word": "cauliflower cheese"
+            },
+            {
+                "id": "13803",
+                "link": "/find?type=1&query=cauliflower+ear",
+                "word": "cauliflower ear"
+            }
+        ]
+    }
+}
