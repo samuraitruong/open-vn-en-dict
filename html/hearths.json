@@ -1,1 +1,44 @@
-{"error": 0, "query": "hearths", "enViData": {"suggests": [{"id": "43225", "link": "/find?type=1&query=hearthrob", "word": "hearthrob"}, {"id": "43225", "link": "/find?type=1&query=hearthrug", "word": "hearthrug"}, {"id": "43225", "link": "/find?type=1&query=hearthstone", "word": "hearthstone"}], "best": {"id": "43225", "details": "\n<div id=\"find_word_43225\" class=\"world word_en\" rel=\"hearth\">\n    <h2 class=\"fl\">hearth <span class=\"color-black\">/h\u0251:\u03b8/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43225\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43225\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ec1n l\u00f2 s\u01b0\u1edfi</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ec1m tr\u01b0\u1edbc l\u00f2 s\u01b0\u1edfi</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed5 \u1ea5m, gia \u0111\u00ecnh</div>\n    \n</div>\n", "link": "/find?type=1&query=hearth", "word": "hearth"}}, "mUrl": "/find?type=1&query=hearths", "enEnData": {"suggests": [], "best": {"id": "13294", "details": "\n<div id=\"find_word_13294\" class=\"world word_en\" rel=\"hearth\">\n    <h2 class=\"fl\">hearth <span class=\"color-black\">/\u02c8h\u0251\u025a\u0275/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13294\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13294\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural hearths</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the floor in front of or inside a fireplace</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They swept the ashes from the hearth.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">(literary) They longed for the comforts of hearth and home. [=the comforts of home]</div>\n    \n</div>\n", "link": "/find?type=3&query=hearth", "word": "hearth"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural hearths</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the floor in front of or inside a fireplace</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They swept the ashes from the hearth.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">(literary) They longed for the comforts of hearth and home. [=the comforts of home]</div>",
+            "id": "13294",
+            "mean": [],
+            "pronounce": "/\u02c8h\u0251\u025a\u0275/",
+            "type": "noun",
+            "word": "hearth"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ec1n l\u00f2 s\u01b0\u1edfi</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ec1m tr\u01b0\u1edbc l\u00f2 s\u01b0\u1edfi</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed5 \u1ea5m, gia \u0111\u00ecnh</div>",
+            "id": "43225",
+            "mean": [],
+            "pronounce": "/h\u0251:\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/149e2ea4b89c552f79b60f1e705e5d13/16e61786bd0/H/hearth.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/468566c19fd03ba1173cd0b2f7add417/16e61786357/H/hearth.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hearth"
+        },
+        "suggests": [
+            {
+                "id": "43225",
+                "link": "/find?type=1&query=hearthrob",
+                "word": "hearthrob"
+            },
+            {
+                "id": "43225",
+                "link": "/find?type=1&query=hearthrug",
+                "word": "hearthrug"
+            },
+            {
+                "id": "43225",
+                "link": "/find?type=1&query=hearthstone",
+                "word": "hearthstone"
+            }
+        ]
+    }
+}
