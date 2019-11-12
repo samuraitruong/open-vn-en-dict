@@ -1,1 +1,47 @@
-{"error": 0, "query": "haded", "enViData": {"suggests": [{"id": "42285", "link": "/find?type=1&query=Hades", "word": "Hades"}], "best": {"id": "42285", "details": "\n<div id=\"find_word_42285\" class=\"world word_en\" rel=\"hade\">\n    <h2 class=\"fl\">hade <span class=\"color-black\">/heid/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42285\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42285\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ecba l\u00fd,dd\u1ecba ch\u1ea5t) \u0111\u1ed9 nghi\u00eang; g\u00f3c d\u1ed1c (c\u1ee7a m\u1ea1ch m\u1ecf)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ecba l\u00fd,dd\u1ecba ch\u1ea5t) nghi\u00eang, xi\u00ean (m\u1ea1ch m\u1ecf)</div>\n    \n</div>\n", "link": "/find?type=1&query=hade", "word": "hade"}}, "mUrl": "/find?type=1&query=haded", "enEnData": {"suggests": [{"id": "12861", "link": "/find?type=3&query=haddock", "word": "haddock"}, {"id": "12861", "link": "/find?type=3&query=Hades", "word": "Hades"}, {"id": "12861", "link": "/find?type=3&query=hadn%27t", "word": "hadn't"}], "best": {"id": "12861", "details": "\n<div id=\"find_word_12861\" class=\"world word_en\" rel=\"had\">\n    <h2 class=\"fl\">had <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12861\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12861\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">past tense and past participle of have</div>\n    \n</div>\n", "link": "/find?type=3&query=had", "word": "had"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">past tense and past participle of have</div>",
+            "id": "12861",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "had"
+        },
+        "suggests": [
+            {
+                "id": "12861",
+                "link": "/find?type=3&query=haddock",
+                "word": "haddock"
+            },
+            {
+                "id": "12861",
+                "link": "/find?type=3&query=Hades",
+                "word": "Hades"
+            },
+            {
+                "id": "12861",
+                "link": "/find?type=3&query=hadn%27t",
+                "word": "hadn't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ecba l\u00fd,dd\u1ecba ch\u1ea5t) \u0111\u1ed9 nghi\u00eang; g\u00f3c d\u1ed1c (c\u1ee7a m\u1ea1ch m\u1ecf)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ecba l\u00fd,dd\u1ecba ch\u1ea5t) nghi\u00eang, xi\u00ean (m\u1ea1ch m\u1ecf)</div>",
+            "id": "42285",
+            "mean": [],
+            "pronounce": "/heid/",
+            "speak": {},
+            "type": "Danh t\u1eeb N\u1ed9i \u0111\u1ed9ng t\u1eeb",
+            "word": "hade"
+        },
+        "suggests": [
+            {
+                "id": "42285",
+                "link": "/find?type=1&query=Hades",
+                "word": "Hades"
+            }
+        ]
+    }
+}
