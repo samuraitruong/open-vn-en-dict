@@ -1,1 +1,55 @@
-{"error": 0, "query": "impend", "enViData": {"suggests": [{"id": "46574", "link": "/find?type=1&query=impendence", "word": "impendence"}, {"id": "46574", "link": "/find?type=1&query=impendency", "word": "impendency"}, {"id": "46574", "link": "/find?type=1&query=impendent", "word": "impendent"}, {"id": "46574", "link": "/find?type=1&query=impending", "word": "impending"}], "best": {"id": "46574", "details": "\n<div id=\"find_word_46574\" class=\"world word_en\" rel=\"impend\">\n    <h2 class=\"fl\">impend <span class=\"color-black\">/im'pend/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"46574\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"46574\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1eafp x\u1ea3y \u0111\u1ebfn</div>\n    \n    <div class=\"green margin25 m-top15\">(+ over) treo, treo l\u01a1 l\u1eedng</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) (+ over) \u0111ang \u0111e do\u1ea1, \u0111ang l\u01a1 l\u1eedng tr\u00ean \u0111\u1ea7u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">great dangers are impending over them</div>\n    \n    <div class=\"margin25\">nh\u1eefng m\u1ed1i nguy hi\u1ec3m \u0111ang l\u01a1 l\u1eedng tr\u00ean \u0111\u1ea7u h\u1ecd</div>\n    \n</div>\n", "link": "/find?type=1&query=impend", "word": "impend"}}, "mUrl": "/find?type=1&query=impend", "enEnData": {"suggests": [{"id": "14466", "link": "/find?type=3&query=impending", "word": "impending"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3524", "link": "/find?type=4&query=impending", "word": "impending"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14466",
+                "link": "/find?type=3&query=impending",
+                "word": "impending"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1eafp x\u1ea3y \u0111\u1ebfn</div>\n    \n    <div class=\"green margin25 m-top15\">(+ over) treo, treo l\u01a1 l\u1eedng</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) (+ over) \u0111ang \u0111e do\u1ea1, \u0111ang l\u01a1 l\u1eedng tr\u00ean \u0111\u1ea7u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">great dangers are impending over them</div>\n    \n    <div class=\"margin25\">nh\u1eefng m\u1ed1i nguy hi\u1ec3m \u0111ang l\u01a1 l\u1eedng tr\u00ean \u0111\u1ea7u h\u1ecd</div>",
+            "id": "46574",
+            "mean": [],
+            "pronounce": "/im'pend/",
+            "speak": {},
+            "type": "N\u1ed9i \u0111\u1ed9ng t\u1eeb",
+            "word": "impend"
+        },
+        "suggests": [
+            {
+                "id": "46574",
+                "link": "/find?type=1&query=impendence",
+                "word": "impendence"
+            },
+            {
+                "id": "46574",
+                "link": "/find?type=1&query=impendency",
+                "word": "impendency"
+            },
+            {
+                "id": "46574",
+                "link": "/find?type=1&query=impendent",
+                "word": "impendent"
+            },
+            {
+                "id": "46574",
+                "link": "/find?type=1&query=impending",
+                "word": "impending"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3524",
+                "link": "/find?type=4&query=impending",
+                "word": "impending"
+            }
+        ]
+    }
+}
