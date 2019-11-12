@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "9808", "link": "/find?type=1&query=bleachers", "word": "bleachers"}], "data": {}}, "en_en": {"suggests": [{"id": "2791", "link": "/find?type=3&query=bleachers", "word": "bleachers"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2791",
+                "link": "/find?type=3&query=bleachers",
+                "word": "bleachers"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9808",
+                "link": "/find?type=1&query=bleachers",
+                "word": "bleachers"
+            }
+        ]
+    }
+}

@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "9822", "link": "/find?type=1&query=bleed", "word": "bleed"}, {"id": "9823", "link": "/find?type=1&query=bleeder", "word": "bleeder"}, {"id": "9824", "link": "/find?type=1&query=bleeding", "word": "bleeding"}, {"id": "9825", "link": "/find?type=1&query=bleep", "word": "bleep"}, {"id": "9826", "link": "/find?type=1&query=bleeper", "word": "bleeper"}], "data": {}}, "en_en": {"suggests": [{"id": "2796", "link": "/find?type=3&query=bleed", "word": "bleed"}, {"id": "2797", "link": "/find?type=3&query=bleeder", "word": "bleeder"}, {"id": "2798", "link": "/find?type=3&query=bleeding", "word": "bleeding"}, {"id": "2799", "link": "/find?type=3&query=bleeding-heart", "word": "bleeding-heart"}, {"id": "2800", "link": "/find?type=3&query=bleep", "word": "bleep"}, {"id": "2801", "link": "/find?type=3&query=bleeper", "word": "bleeper"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2796",
+                "link": "/find?type=3&query=bleed",
+                "word": "bleed"
+            },
+            {
+                "id": "2797",
+                "link": "/find?type=3&query=bleeder",
+                "word": "bleeder"
+            },
+            {
+                "id": "2798",
+                "link": "/find?type=3&query=bleeding",
+                "word": "bleeding"
+            },
+            {
+                "id": "2799",
+                "link": "/find?type=3&query=bleeding-heart",
+                "word": "bleeding-heart"
+            },
+            {
+                "id": "2800",
+                "link": "/find?type=3&query=bleep",
+                "word": "bleep"
+            },
+            {
+                "id": "2801",
+                "link": "/find?type=3&query=bleeper",
+                "word": "bleeper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9822",
+                "link": "/find?type=1&query=bleed",
+                "word": "bleed"
+            },
+            {
+                "id": "9823",
+                "link": "/find?type=1&query=bleeder",
+                "word": "bleeder"
+            },
+            {
+                "id": "9824",
+                "link": "/find?type=1&query=bleeding",
+                "word": "bleeding"
+            },
+            {
+                "id": "9825",
+                "link": "/find?type=1&query=bleep",
+                "word": "bleep"
+            },
+            {
+                "id": "9826",
+                "link": "/find?type=1&query=bleeper",
+                "word": "bleeper"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "9841", "link": "/find?type=1&query=blessed", "word": "blessed"}, {"id": "9842", "link": "/find?type=1&query=Blessed+Sacrament", "word": "Blessed Sacrament"}, {"id": "9843", "link": "/find?type=1&query=blessedly", "word": "blessedly"}, {"id": "9844", "link": "/find?type=1&query=blessedness", "word": "blessedness"}, {"id": "9845", "link": "/find?type=1&query=blesser", "word": "blesser"}], "data": {}}, "en_en": {"suggests": [{"id": "2808", "link": "/find?type=3&query=blessed", "word": "blessed"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2808",
+                "link": "/find?type=3&query=blessed",
+                "word": "blessed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9841",
+                "link": "/find?type=1&query=blessed",
+                "word": "blessed"
+            },
+            {
+                "id": "9842",
+                "link": "/find?type=1&query=Blessed+Sacrament",
+                "word": "Blessed Sacrament"
+            },
+            {
+                "id": "9843",
+                "link": "/find?type=1&query=blessedly",
+                "word": "blessedly"
+            },
+            {
+                "id": "9844",
+                "link": "/find?type=1&query=blessedness",
+                "word": "blessedness"
+            },
+            {
+                "id": "9845",
+                "link": "/find?type=1&query=blesser",
+                "word": "blesser"
+            }
+        ]
+    }
+}

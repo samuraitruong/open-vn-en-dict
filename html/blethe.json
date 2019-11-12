@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "9849", "link": "/find?type=1&query=blether", "word": "blether"}, {"id": "9850", "link": "/find?type=1&query=bletherskate", "word": "bletherskate"}, {"id": "9851", "link": "/find?type=1&query=bletherskite", "word": "bletherskite"}], "data": {}}, "en_en": {"suggests": [{"id": "2810", "link": "/find?type=3&query=blether", "word": "blether"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2810",
+                "link": "/find?type=3&query=blether",
+                "word": "blether"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9849",
+                "link": "/find?type=1&query=blether",
+                "word": "blether"
+            },
+            {
+                "id": "9850",
+                "link": "/find?type=1&query=bletherskate",
+                "word": "bletherskate"
+            },
+            {
+                "id": "9851",
+                "link": "/find?type=1&query=bletherskite",
+                "word": "bletherskite"
+            }
+        ]
+    }
+}
