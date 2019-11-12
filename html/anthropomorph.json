@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "4285", "link": "/find?type=1&query=anthropomorphic", "word": "anthropomorphic"}, {"id": "4286", "link": "/find?type=1&query=anthropomorphically", "word": "anthropomorphically"}, {"id": "4287", "link": "/find?type=1&query=anthropomorphise", "word": "anthropomorphise"}, {"id": "4288", "link": "/find?type=1&query=anthropomorphism", "word": "anthropomorphism"}, {"id": "4289", "link": "/find?type=1&query=anthropomorphist", "word": "anthropomorphist"}, {"id": "4290", "link": "/find?type=1&query=anthropomorphize", "word": "anthropomorphize"}, {"id": "4291", "link": "/find?type=1&query=anthropomorphous", "word": "anthropomorphous"}], "data": {}}, "en_en": {"suggests": [{"id": "1039", "link": "/find?type=3&query=anthropomorphic", "word": "anthropomorphic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1039",
+                "link": "/find?type=3&query=anthropomorphic",
+                "word": "anthropomorphic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4285",
+                "link": "/find?type=1&query=anthropomorphic",
+                "word": "anthropomorphic"
+            },
+            {
+                "id": "4286",
+                "link": "/find?type=1&query=anthropomorphically",
+                "word": "anthropomorphically"
+            },
+            {
+                "id": "4287",
+                "link": "/find?type=1&query=anthropomorphise",
+                "word": "anthropomorphise"
+            },
+            {
+                "id": "4288",
+                "link": "/find?type=1&query=anthropomorphism",
+                "word": "anthropomorphism"
+            },
+            {
+                "id": "4289",
+                "link": "/find?type=1&query=anthropomorphist",
+                "word": "anthropomorphist"
+            },
+            {
+                "id": "4290",
+                "link": "/find?type=1&query=anthropomorphize",
+                "word": "anthropomorphize"
+            },
+            {
+                "id": "4291",
+                "link": "/find?type=1&query=anthropomorphous",
+                "word": "anthropomorphous"
+            }
+        ]
+    }
+}

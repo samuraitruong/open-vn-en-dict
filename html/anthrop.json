@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "4263", "link": "/find?type=1&query=anthrop%5Bo%5D-", "word": "anthrop[o]-"}, {"id": "4263", "link": "/find?type=1&query=anthropeic", "word": "anthropeic"}, {"id": "4263", "link": "/find?type=1&query=anthropic", "word": "anthropic"}, {"id": "4263", "link": "/find?type=1&query=anthropocentricity", "word": "anthropocentricity"}, {"id": "4263", "link": "/find?type=1&query=anthropocentrism", "word": "anthropocentrism"}, {"id": "4263", "link": "/find?type=1&query=anthropochorous", "word": "anthropochorous"}, {"id": "4263", "link": "/find?type=1&query=anthropogenesis", "word": "anthropogenesis"}, {"id": "4263", "link": "/find?type=1&query=anthropogenetic", "word": "anthropogenetic"}, {"id": "4263", "link": "/find?type=1&query=anthropogeny", "word": "anthropogeny"}], "data": {"word": "anthrop", "id": "4263", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(d\u1ea1ng k\u1ebft h\u1ee3p) v\u1ec1 ng\u01b0\u1eddi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1037", "link": "/find?type=3&query=anthropoid", "word": "anthropoid"}, {"id": "1038", "link": "/find?type=3&query=anthropology", "word": "anthropology"}, {"id": "1039", "link": "/find?type=3&query=anthropomorphic", "word": "anthropomorphic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1037",
+                "link": "/find?type=3&query=anthropoid",
+                "word": "anthropoid"
+            },
+            {
+                "id": "1038",
+                "link": "/find?type=3&query=anthropology",
+                "word": "anthropology"
+            },
+            {
+                "id": "1039",
+                "link": "/find?type=3&query=anthropomorphic",
+                "word": "anthropomorphic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(d\u1ea1ng k\u1ebft h\u1ee3p) v\u1ec1 ng\u01b0\u1eddi</div>",
+            "id": "4263",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "anthrop"
+        },
+        "suggests": [
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthrop%5Bo%5D-",
+                "word": "anthrop[o]-"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropeic",
+                "word": "anthropeic"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropic",
+                "word": "anthropic"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropocentricity",
+                "word": "anthropocentricity"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropocentrism",
+                "word": "anthropocentrism"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropochorous",
+                "word": "anthropochorous"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropogenesis",
+                "word": "anthropogenesis"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropogenetic",
+                "word": "anthropogenetic"
+            },
+            {
+                "id": "4263",
+                "link": "/find?type=1&query=anthropogeny",
+                "word": "anthropogeny"
+            }
+        ]
+    }
+}
