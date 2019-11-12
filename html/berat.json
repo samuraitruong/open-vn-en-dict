@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "8975", "link": "/find?type=1&query=berate", "word": "berate"}], "data": {}}, "en_en": {"suggests": [{"id": "2452", "link": "/find?type=3&query=berate", "word": "berate"}], "data": {}}, "synonyms": {"suggests": [{"id": "515", "link": "/find?type=4&query=berate", "word": "berate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2452",
+                "link": "/find?type=3&query=berate",
+                "word": "berate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8975",
+                "link": "/find?type=1&query=berate",
+                "word": "berate"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "515",
+                "link": "/find?type=4&query=berate",
+                "word": "berate"
+            }
+        ]
+    }
+}

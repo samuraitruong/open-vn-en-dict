@@ -1,1 +1,51 @@
-{"en_vn": {"suggests": [], "data": {"word": "belying", "id": "8903", "pronounce": "/be'laii\u014b/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">D\u1ed9ng t\u00ednh t\u1eeb hi\u1ec7n t\u1ea1i c\u1ee7a belie</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=belie\">belie</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2393", "link": "/find?type=3&query=belief", "word": "belief"}, {"id": "2393", "link": "/find?type=3&query=believe", "word": "believe"}], "data": {"word": "belie", "id": "2393", "pronounce": "/b\u026a\u02c8la\u026a/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-lies; -lied; -lying</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal</div>\n    \n    <div class=\"green margin25 m-top15\">to give a false idea of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her manner and appearance belie her age. [=she looks and acts like a much younger person than she really is]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a tree whose delicate beauty belies its real toughness</div>\n    \n    <div class=\"green margin25 m-top15\">to show (something) to be false or wrong</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Their actions belie their claim to be innocent.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "489", "link": "/find?type=4&query=belief", "word": "belief"}, {"id": "490", "link": "/find?type=4&query=believe", "word": "believe"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-lies; -lied; -lying</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] formal</div>\n    \n    <div class=\"green margin25 m-top15\">to give a false idea of (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her manner and appearance belie her age. [=she looks and acts like a much younger person than she really is]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a tree whose delicate beauty belies its real toughness</div>\n    \n    <div class=\"green margin25 m-top15\">to show (something) to be false or wrong</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Their actions belie their claim to be innocent.</div>",
+            "id": "2393",
+            "mean": [],
+            "pronounce": "/b\u026a\u02c8la\u026a/",
+            "type": "verb",
+            "word": "belie"
+        },
+        "suggests": [
+            {
+                "id": "2393",
+                "link": "/find?type=3&query=belief",
+                "word": "belief"
+            },
+            {
+                "id": "2393",
+                "link": "/find?type=3&query=believe",
+                "word": "believe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">D\u1ed9ng t\u00ednh t\u1eeb hi\u1ec7n t\u1ea1i c\u1ee7a belie</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=belie\">belie</a></span></div>",
+            "id": "8903",
+            "mean": [],
+            "pronounce": "/be'laii\u014b/",
+            "speak": {},
+            "type": "",
+            "word": "belying"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "489",
+                "link": "/find?type=4&query=belief",
+                "word": "belief"
+            },
+            {
+                "id": "490",
+                "link": "/find?type=4&query=believe",
+                "word": "believe"
+            }
+        ]
+    }
+}

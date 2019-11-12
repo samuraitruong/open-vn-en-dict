@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "8950", "link": "/find?type=1&query=benighted", "word": "benighted"}], "data": {}}, "en_en": {"suggests": [{"id": "2445", "link": "/find?type=3&query=benighted", "word": "benighted"}], "data": {}}, "synonyms": {"suggests": [{"id": "510", "link": "/find?type=4&query=benighted", "word": "benighted"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2445",
+                "link": "/find?type=3&query=benighted",
+                "word": "benighted"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8950",
+                "link": "/find?type=1&query=benighted",
+                "word": "benighted"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "510",
+                "link": "/find?type=4&query=benighted",
+                "word": "benighted"
+            }
+        ]
+    }
+}

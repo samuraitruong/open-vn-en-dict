@@ -1,1 +1,28 @@
-{"en_vn": {"suggests": [{"id": "8913", "link": "/find?type=1&query=benchmark+program", "word": "benchmark program"}, {"id": "8914", "link": "/find?type=1&query=benchmark+test", "word": "benchmark test"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "benchmark", "id": "2431", "pronounce": "/\u02c8b\u025bn\u02a7\u02ccm\u0251\u025ak/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -marks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :something that can be used as a way to judge the quality or level of other, similar things</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a stock whose performance is a benchmark against which other stocks can be measured</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -marks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :something that can be used as a way to judge the quality or level of other, similar things</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a stock whose performance is a benchmark against which other stocks can be measured</div>",
+            "id": "2431",
+            "mean": [],
+            "pronounce": "/\u02c8b\u025bn\u02a7\u02ccm\u0251\u025ak/",
+            "type": "noun",
+            "word": "benchmark"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8913",
+                "link": "/find?type=1&query=benchmark+program",
+                "word": "benchmark program"
+            },
+            {
+                "id": "8914",
+                "link": "/find?type=1&query=benchmark+test",
+                "word": "benchmark test"
+            }
+        ]
+    }
+}

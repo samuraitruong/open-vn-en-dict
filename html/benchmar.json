@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "8913", "link": "/find?type=1&query=benchmark+program", "word": "benchmark program"}, {"id": "8914", "link": "/find?type=1&query=benchmark+test", "word": "benchmark test"}], "data": {}}, "en_en": {"suggests": [{"id": "2431", "link": "/find?type=3&query=benchmark", "word": "benchmark"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2431",
+                "link": "/find?type=3&query=benchmark",
+                "word": "benchmark"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8913",
+                "link": "/find?type=1&query=benchmark+program",
+                "word": "benchmark program"
+            },
+            {
+                "id": "8914",
+                "link": "/find?type=1&query=benchmark+test",
+                "word": "benchmark test"
+            }
+        ]
+    }
+}
