@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "2645", "link": "/find?type=1&query=alliaceous", "word": "alliaceous"}, {"id": "2646", "link": "/find?type=1&query=alliance", "word": "alliance"}, {"id": "2647", "link": "/find?type=1&query=allied", "word": "allied"}, {"id": "2648", "link": "/find?type=1&query=alligator", "word": "alligator"}, {"id": "2649", "link": "/find?type=1&query=alligator+clip", "word": "alligator clip"}, {"id": "2650", "link": "/find?type=1&query=alligator+pear", "word": "alligator pear"}, {"id": "2651", "link": "/find?type=1&query=alliterate", "word": "alliterate"}, {"id": "2652", "link": "/find?type=1&query=alliteration", "word": "alliteration"}, {"id": "2653", "link": "/find?type=1&query=alliterative", "word": "alliterative"}, {"id": "2654", "link": "/find?type=1&query=alliteratively", "word": "alliteratively"}], "data": {}}, "en_en": {"suggests": [{"id": "695", "link": "/find?type=3&query=alliance", "word": "alliance"}, {"id": "696", "link": "/find?type=3&query=allied", "word": "allied"}, {"id": "697", "link": "/find?type=3&query=alligator", "word": "alligator"}, {"id": "701", "link": "/find?type=3&query=alliteration", "word": "alliteration"}], "data": {}}, "synonyms": {"suggests": [{"id": "196", "link": "/find?type=4&query=alliance", "word": "alliance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "695",
+                "link": "/find?type=3&query=alliance",
+                "word": "alliance"
+            },
+            {
+                "id": "696",
+                "link": "/find?type=3&query=allied",
+                "word": "allied"
+            },
+            {
+                "id": "697",
+                "link": "/find?type=3&query=alligator",
+                "word": "alligator"
+            },
+            {
+                "id": "701",
+                "link": "/find?type=3&query=alliteration",
+                "word": "alliteration"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2645",
+                "link": "/find?type=1&query=alliaceous",
+                "word": "alliaceous"
+            },
+            {
+                "id": "2646",
+                "link": "/find?type=1&query=alliance",
+                "word": "alliance"
+            },
+            {
+                "id": "2647",
+                "link": "/find?type=1&query=allied",
+                "word": "allied"
+            },
+            {
+                "id": "2648",
+                "link": "/find?type=1&query=alligator",
+                "word": "alligator"
+            },
+            {
+                "id": "2649",
+                "link": "/find?type=1&query=alligator+clip",
+                "word": "alligator clip"
+            },
+            {
+                "id": "2650",
+                "link": "/find?type=1&query=alligator+pear",
+                "word": "alligator pear"
+            },
+            {
+                "id": "2651",
+                "link": "/find?type=1&query=alliterate",
+                "word": "alliterate"
+            },
+            {
+                "id": "2652",
+                "link": "/find?type=1&query=alliteration",
+                "word": "alliteration"
+            },
+            {
+                "id": "2653",
+                "link": "/find?type=1&query=alliterative",
+                "word": "alliterative"
+            },
+            {
+                "id": "2654",
+                "link": "/find?type=1&query=alliteratively",
+                "word": "alliteratively"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "196",
+                "link": "/find?type=4&query=alliance",
+                "word": "alliance"
+            }
+        ]
+    }
+}

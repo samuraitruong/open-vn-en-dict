@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "2647", "link": "/find?type=1&query=allied", "word": "allied"}], "data": {}}, "en_en": {"suggests": [{"id": "696", "link": "/find?type=3&query=allied", "word": "allied"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "696",
+                "link": "/find?type=3&query=allied",
+                "word": "allied"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2647",
+                "link": "/find?type=1&query=allied",
+                "word": "allied"
+            }
+        ]
+    }
+}

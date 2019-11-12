@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2535", "link": "/find?type=1&query=alkaline", "word": "alkaline"}, {"id": "2536", "link": "/find?type=1&query=alkaline+battery", "word": "alkaline battery"}, {"id": "2537", "link": "/find?type=1&query=alkalinity", "word": "alkalinity"}], "data": {}}, "en_en": {"suggests": [{"id": "664", "link": "/find?type=3&query=alkaline", "word": "alkaline"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "664",
+                "link": "/find?type=3&query=alkaline",
+                "word": "alkaline"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2535",
+                "link": "/find?type=1&query=alkaline",
+                "word": "alkaline"
+            },
+            {
+                "id": "2536",
+                "link": "/find?type=1&query=alkaline+battery",
+                "word": "alkaline battery"
+            },
+            {
+                "id": "2537",
+                "link": "/find?type=1&query=alkalinity",
+                "word": "alkalinity"
+            }
+        ]
+    }
+}

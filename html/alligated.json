@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "2648", "link": "/find?type=1&query=alligator", "word": "alligator"}, {"id": "2649", "link": "/find?type=1&query=alligator+clip", "word": "alligator clip"}, {"id": "2650", "link": "/find?type=1&query=alligator+pear", "word": "alligator pear"}], "data": {}}, "en_en": {"suggests": [{"id": "697", "link": "/find?type=3&query=alligator", "word": "alligator"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "697",
+                "link": "/find?type=3&query=alligator",
+                "word": "alligator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2648",
+                "link": "/find?type=1&query=alligator",
+                "word": "alligator"
+            },
+            {
+                "id": "2649",
+                "link": "/find?type=1&query=alligator+clip",
+                "word": "alligator clip"
+            },
+            {
+                "id": "2650",
+                "link": "/find?type=1&query=alligator+pear",
+                "word": "alligator pear"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "2632", "link": "/find?type=1&query=allergenicity", "word": "allergenicity"}], "data": {"word": "allergen", "id": "2632", "pronounce": "/'\u00e6l\u0259d\u0292en/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ea5t g\u00e2y d\u1ecb \u1ee9ng; d\u1ecb \u1ee9ng nguy\u00ean</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/dc531f30f95c402110f8e4974d1bce91/16e5dc06263/A/allergen.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6dc33f5c9fbfb16926d6145e51f4bce7/16e5dc06813/A/allergen.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "allergen", "id": "687", "pronounce": "/\u02c8\u00e6l\u025a\u02a4\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a substance that causes an allergy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">common allergens, such as pollen</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a substance that causes an allergy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">common allergens, such as pollen</div>",
+            "id": "687",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6l\u025a\u02a4\u0259n/",
+            "type": "noun",
+            "word": "allergen"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ea5t g\u00e2y d\u1ecb \u1ee9ng; d\u1ecb \u1ee9ng nguy\u00ean</div>",
+            "id": "2632",
+            "mean": [],
+            "pronounce": "/'\u00e6l\u0259d\u0292en/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/63cdbdfb12a4aeb6bcb434128fc52fb9/16e5ea4e4f3/A/allergen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5a3fd0f6094a9cf532660c04f50fbbde/16e5ea4dfd5/A/allergen.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "allergen"
+        },
+        "suggests": [
+            {
+                "id": "2632",
+                "link": "/find?type=1&query=allergenicity",
+                "word": "allergenicity"
+            }
+        ]
+    }
+}
