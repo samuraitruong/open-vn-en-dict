@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "31557", "link": "/find?type=1&query=equilateral", "word": "equilateral"}, {"id": "31558", "link": "/find?type=1&query=equilaterally", "word": "equilaterally"}], "data": {}}, "en_en": {"suggests": [{"id": "9706", "link": "/find?type=3&query=equilateral+triangle", "word": "equilateral triangle"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9706",
+                "link": "/find?type=3&query=equilateral+triangle",
+                "word": "equilateral triangle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31557",
+                "link": "/find?type=1&query=equilateral",
+                "word": "equilateral"
+            },
+            {
+                "id": "31558",
+                "link": "/find?type=1&query=equilaterally",
+                "word": "equilaterally"
+            }
+        ]
+    }
+}
