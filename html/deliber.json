@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "23709", "link": "/find?type=1&query=deliberate", "word": "deliberate"}, {"id": "23710", "link": "/find?type=1&query=deliberately", "word": "deliberately"}, {"id": "23711", "link": "/find?type=1&query=deliberateness", "word": "deliberateness"}, {"id": "23712", "link": "/find?type=1&query=deliberation", "word": "deliberation"}, {"id": "23713", "link": "/find?type=1&query=deliberative", "word": "deliberative"}, {"id": "23714", "link": "/find?type=1&query=deliberatively", "word": "deliberatively"}, {"id": "23715", "link": "/find?type=1&query=deliberativeness", "word": "deliberativeness"}], "data": {}}, "en_en": {"suggests": [{"id": "7556", "link": "/find?type=3&query=deliberate", "word": "deliberate"}, {"id": "7557", "link": "/find?type=3&query=deliberately", "word": "deliberately"}, {"id": "7558", "link": "/find?type=3&query=deliberation", "word": "deliberation"}, {"id": "7559", "link": "/find?type=3&query=deliberative", "word": "deliberative"}], "data": {}}, "synonyms": {"suggests": [{"id": "1512", "link": "/find?type=4&query=deliberate", "word": "deliberate"}, {"id": "1513", "link": "/find?type=4&query=deliberately", "word": "deliberately"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7556",
+                "link": "/find?type=3&query=deliberate",
+                "word": "deliberate"
+            },
+            {
+                "id": "7557",
+                "link": "/find?type=3&query=deliberately",
+                "word": "deliberately"
+            },
+            {
+                "id": "7558",
+                "link": "/find?type=3&query=deliberation",
+                "word": "deliberation"
+            },
+            {
+                "id": "7559",
+                "link": "/find?type=3&query=deliberative",
+                "word": "deliberative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23709",
+                "link": "/find?type=1&query=deliberate",
+                "word": "deliberate"
+            },
+            {
+                "id": "23710",
+                "link": "/find?type=1&query=deliberately",
+                "word": "deliberately"
+            },
+            {
+                "id": "23711",
+                "link": "/find?type=1&query=deliberateness",
+                "word": "deliberateness"
+            },
+            {
+                "id": "23712",
+                "link": "/find?type=1&query=deliberation",
+                "word": "deliberation"
+            },
+            {
+                "id": "23713",
+                "link": "/find?type=1&query=deliberative",
+                "word": "deliberative"
+            },
+            {
+                "id": "23714",
+                "link": "/find?type=1&query=deliberatively",
+                "word": "deliberatively"
+            },
+            {
+                "id": "23715",
+                "link": "/find?type=1&query=deliberativeness",
+                "word": "deliberativeness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1512",
+                "link": "/find?type=4&query=deliberate",
+                "word": "deliberate"
+            },
+            {
+                "id": "1513",
+                "link": "/find?type=4&query=deliberately",
+                "word": "deliberately"
+            }
+        ]
+    }
+}

@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "23646", "link": "/find?type=1&query=dejecta", "word": "dejecta"}, {"id": "23646", "link": "/find?type=1&query=dejected", "word": "dejected"}, {"id": "23646", "link": "/find?type=1&query=dejectedly", "word": "dejectedly"}, {"id": "23646", "link": "/find?type=1&query=dejectedness", "word": "dejectedness"}, {"id": "23646", "link": "/find?type=1&query=dejection", "word": "dejection"}], "data": {"word": "deject", "id": "23646", "pronounce": "/di'd\u02a4ekt/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m bu\u1ed3n n\u1ea3n, l\u00e0m ch\u00e1n n\u1ea3n; l\u00e0m th\u1ea5t v\u1ecdng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7544", "link": "/find?type=3&query=dejected", "word": "dejected"}], "data": {}}, "synonyms": {"suggests": [{"id": "1507", "link": "/find?type=4&query=dejected", "word": "dejected"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7544",
+                "link": "/find?type=3&query=dejected",
+                "word": "dejected"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m bu\u1ed3n n\u1ea3n, l\u00e0m ch\u00e1n n\u1ea3n; l\u00e0m th\u1ea5t v\u1ecdng</div>",
+            "id": "23646",
+            "mean": [],
+            "pronounce": "/di'd\u02a4ekt/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "deject"
+        },
+        "suggests": [
+            {
+                "id": "23646",
+                "link": "/find?type=1&query=dejecta",
+                "word": "dejecta"
+            },
+            {
+                "id": "23646",
+                "link": "/find?type=1&query=dejected",
+                "word": "dejected"
+            },
+            {
+                "id": "23646",
+                "link": "/find?type=1&query=dejectedly",
+                "word": "dejectedly"
+            },
+            {
+                "id": "23646",
+                "link": "/find?type=1&query=dejectedness",
+                "word": "dejectedness"
+            },
+            {
+                "id": "23646",
+                "link": "/find?type=1&query=dejection",
+                "word": "dejection"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1507",
+                "link": "/find?type=4&query=dejected",
+                "word": "dejected"
+            }
+        ]
+    }
+}

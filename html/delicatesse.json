@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "23720", "link": "/find?type=1&query=delicatessen", "word": "delicatessen"}], "data": {}}, "en_en": {"suggests": [{"id": "7563", "link": "/find?type=3&query=delicatessen", "word": "delicatessen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7563",
+                "link": "/find?type=3&query=delicatessen",
+                "word": "delicatessen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23720",
+                "link": "/find?type=1&query=delicatessen",
+                "word": "delicatessen"
+            }
+        ]
+    }
+}

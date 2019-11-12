@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "23717", "link": "/find?type=1&query=delicate", "word": "delicate"}, {"id": "23718", "link": "/find?type=1&query=delicately", "word": "delicately"}, {"id": "23719", "link": "/find?type=1&query=delicateness", "word": "delicateness"}, {"id": "23720", "link": "/find?type=1&query=delicatessen", "word": "delicatessen"}], "data": {}}, "en_en": {"suggests": [{"id": "7561", "link": "/find?type=3&query=delicate", "word": "delicate"}, {"id": "7562", "link": "/find?type=3&query=delicates", "word": "delicates"}, {"id": "7563", "link": "/find?type=3&query=delicatessen", "word": "delicatessen"}], "data": {}}, "synonyms": {"suggests": [{"id": "1515", "link": "/find?type=4&query=delicate", "word": "delicate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7561",
+                "link": "/find?type=3&query=delicate",
+                "word": "delicate"
+            },
+            {
+                "id": "7562",
+                "link": "/find?type=3&query=delicates",
+                "word": "delicates"
+            },
+            {
+                "id": "7563",
+                "link": "/find?type=3&query=delicatessen",
+                "word": "delicatessen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23717",
+                "link": "/find?type=1&query=delicate",
+                "word": "delicate"
+            },
+            {
+                "id": "23718",
+                "link": "/find?type=1&query=delicately",
+                "word": "delicately"
+            },
+            {
+                "id": "23719",
+                "link": "/find?type=1&query=delicateness",
+                "word": "delicateness"
+            },
+            {
+                "id": "23720",
+                "link": "/find?type=1&query=delicatessen",
+                "word": "delicatessen"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1515",
+                "link": "/find?type=4&query=delicate",
+                "word": "delicate"
+            }
+        ]
+    }
+}
