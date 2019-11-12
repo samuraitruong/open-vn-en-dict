@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "34919", "link": "/find?type=1&query=feu+de+joie", "word": "feu de joie"}, {"id": "34919", "link": "/find?type=1&query=feuar", "word": "feuar"}, {"id": "34919", "link": "/find?type=1&query=feud", "word": "feud"}, {"id": "34919", "link": "/find?type=1&query=feudal", "word": "feudal"}, {"id": "34919", "link": "/find?type=1&query=feudalise", "word": "feudalise"}, {"id": "34919", "link": "/find?type=1&query=feudalism", "word": "feudalism"}, {"id": "34919", "link": "/find?type=1&query=feudalist", "word": "feudalist"}, {"id": "34919", "link": "/find?type=1&query=feudalistic", "word": "feudalistic"}, {"id": "34919", "link": "/find?type=1&query=feudality", "word": "feudality"}], "data": {"word": "feu", "id": "34919", "pronounce": "/fju:/", "type": "Danh t\u1eeb (\u1eda-c\u1ed1t)", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb (\u1eda-c\u1ed1t)</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ee3p \u0111\u1ed3ng thu\u00ea (\u0111\u1ea5t) v\u0129nh vi\u1ec5n</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea5t thu\u00ea v\u0129nh vi\u1ec5n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10517", "link": "/find?type=3&query=feud", "word": "feud"}, {"id": "10518", "link": "/find?type=3&query=feudal", "word": "feudal"}, {"id": "10519", "link": "/find?type=3&query=feudalism", "word": "feudalism"}], "data": {}}, "synonyms": {"suggests": [{"id": "2587", "link": "/find?type=4&query=feud", "word": "feud"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10517",
+                "link": "/find?type=3&query=feud",
+                "word": "feud"
+            },
+            {
+                "id": "10518",
+                "link": "/find?type=3&query=feudal",
+                "word": "feudal"
+            },
+            {
+                "id": "10519",
+                "link": "/find?type=3&query=feudalism",
+                "word": "feudalism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb (\u1eda-c\u1ed1t)</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ee3p \u0111\u1ed3ng thu\u00ea (\u0111\u1ea5t) v\u0129nh vi\u1ec5n</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea5t thu\u00ea v\u0129nh vi\u1ec5n</div>",
+            "id": "34919",
+            "mean": [],
+            "pronounce": "/fju:/",
+            "speak": {},
+            "type": "Danh t\u1eeb (\u1eda-c\u1ed1t)",
+            "word": "feu"
+        },
+        "suggests": [
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feu+de+joie",
+                "word": "feu de joie"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feuar",
+                "word": "feuar"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feud",
+                "word": "feud"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feudal",
+                "word": "feudal"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feudalise",
+                "word": "feudalise"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feudalism",
+                "word": "feudalism"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feudalist",
+                "word": "feudalist"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feudalistic",
+                "word": "feudalistic"
+            },
+            {
+                "id": "34919",
+                "link": "/find?type=1&query=feudality",
+                "word": "feudality"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2587",
+                "link": "/find?type=4&query=feud",
+                "word": "feud"
+            }
+        ]
+    }
+}
