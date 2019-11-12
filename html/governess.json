@@ -1,1 +1,39 @@
-{"error": 0, "query": "governess", "enViData": {"suggests": [{"id": "40875", "link": "/find?type=1&query=governess-car", "word": "governess-car"}, {"id": "40875", "link": "/find?type=1&query=governess-cart", "word": "governess-cart"}], "best": {"id": "40875", "details": "\n<div id=\"find_word_40875\" class=\"world word_en\" rel=\"governess\">\n    <h2 class=\"fl\">governess <span class=\"color-black\">/'g\u028cv\u0259nis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40875\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40875\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4 gia s\u01b0</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">serve (act) as [a] governess to a family</div>\n    \n    <div class=\"margin25\">l\u00e0m gia s\u01b0 cho m\u1ed9t gia \u0111\u00ecnh</div>\n    \n</div>\n", "link": "/find?type=1&query=governess", "word": "governess"}}, "mUrl": "/find?type=1&query=governess", "enEnData": {"suggests": [], "best": {"id": "12398", "details": "\n<div id=\"find_word_12398\" class=\"world word_en\" rel=\"governess\">\n    <h2 class=\"fl\">governess <span class=\"color-black\">/\u02c8g\u028cv\u025an\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12398\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12398\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -esses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a woman who is paid to care for and teach a child in the child's house</div>\n    \n</div>\n", "link": "/find?type=3&query=governess", "word": "governess"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -esses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a woman who is paid to care for and teach a child in the child's house</div>",
+            "id": "12398",
+            "mean": [],
+            "pronounce": "/\u02c8g\u028cv\u025an\u0259s/",
+            "type": "noun",
+            "word": "governess"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4 gia s\u01b0</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">serve (act) as [a] governess to a family</div>\n    \n    <div class=\"margin25\">l\u00e0m gia s\u01b0 cho m\u1ed9t gia \u0111\u00ecnh</div>",
+            "id": "40875",
+            "mean": [],
+            "pronounce": "/'g\u028cv\u0259nis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1020c6749707f7342a12cc821d6fa68b/16e611a9da2/G/governess.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2948060ace2d5c33706b43f38743bde1/16e611a9539/G/governess.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "governess"
+        },
+        "suggests": [
+            {
+                "id": "40875",
+                "link": "/find?type=1&query=governess-car",
+                "word": "governess-car"
+            },
+            {
+                "id": "40875",
+                "link": "/find?type=1&query=governess-cart",
+                "word": "governess-cart"
+            }
+        ]
+    }
+}
