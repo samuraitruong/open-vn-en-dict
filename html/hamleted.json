@@ -1,1 +1,28 @@
-{"error": 0, "query": "hamleted", "enViData": {"suggests": [], "best": {"id": "42590", "details": "\n<div id=\"find_word_42590\" class=\"world word_en\" rel=\"hamlet\">\n    <h2 class=\"fl\">hamlet <span class=\"color-black\">/'h\u00e6mlit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42590\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42590\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f4n x\u00f3m</div>\n    \n</div>\n", "link": "/find?type=1&query=hamlet", "word": "hamlet"}}, "mUrl": "/find?type=1&query=hamleted", "enEnData": {"suggests": [], "best": {"id": "12955", "details": "\n<div id=\"find_word_12955\" class=\"world word_en\" rel=\"hamlet\">\n    <h2 class=\"fl\">hamlet <span class=\"color-black\">/\u02c8h\u00e6ml\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12955\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12955\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small village</div>\n    \n</div>\n", "link": "/find?type=3&query=hamlet", "word": "hamlet"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small village</div>",
+            "id": "12955",
+            "mean": [],
+            "pronounce": "/\u02c8h\u00e6ml\u0259t/",
+            "type": "noun",
+            "word": "hamlet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f4n x\u00f3m</div>",
+            "id": "42590",
+            "mean": [],
+            "pronounce": "/'h\u00e6mlit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7ba2fddce2acda4f456d00a18a95b705/16e615b0e4f/H/hamlet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e6b284535e6e5b0a48a68acaadbd804b/16e615b0507/H/hamlet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hamlet"
+        },
+        "suggests": []
+    }
+}
