@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "33929", "link": "/find?type=1&query=fairly", "word": "fairly"}, {"id": "33930", "link": "/find?type=1&query=fairly+and+squarely", "word": "fairly and squarely"}], "data": {}}, "en_en": {"suggests": [{"id": "10223", "link": "/find?type=3&query=fairly", "word": "fairly"}], "data": {}}, "synonyms": {"suggests": [{"id": "2476", "link": "/find?type=4&query=fairly", "word": "fairly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10223",
+                "link": "/find?type=3&query=fairly",
+                "word": "fairly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33929",
+                "link": "/find?type=1&query=fairly",
+                "word": "fairly"
+            },
+            {
+                "id": "33930",
+                "link": "/find?type=1&query=fairly+and+squarely",
+                "word": "fairly and squarely"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2476",
+                "link": "/find?type=4&query=fairly",
+                "word": "fairly"
+            }
+        ]
+    }
+}
