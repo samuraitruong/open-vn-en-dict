@@ -114,8 +114,10 @@ def getWord(word):
     return html("#column-content").html()
 
 
-logs = json.load("logs.json")
-print("Proceeded : %d" % (len(logs)))
+logs = {}
+with open('data.txt') as json_file:
+    logs = json.load(json_file)
+    print("Proceeded : %d" % (len(logs)))
 
 if len(sys.argv) > 1:
     pprint.pprint(getWordFromLaban(sys.argv[1]))
