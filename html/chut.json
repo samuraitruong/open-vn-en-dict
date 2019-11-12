@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "15391", "link": "/find?type=1&query=chute", "word": "chute"}, {"id": "15392", "link": "/find?type=1&query=chute-the-chute", "word": "chute-the-chute"}, {"id": "15393", "link": "/find?type=1&query=chutnee", "word": "chutnee"}, {"id": "15394", "link": "/find?type=1&query=chutney", "word": "chutney"}, {"id": "15395", "link": "/find?type=1&query=chutzpah", "word": "chutzpah"}, {"id": "104799", "link": "/find?type=1&query=%27chutist", "word": "'chutist"}], "data": {}}, "en_en": {"suggests": [{"id": "4957", "link": "/find?type=3&query=chute", "word": "chute"}, {"id": "4958", "link": "/find?type=3&query=chutney", "word": "chutney"}, {"id": "4959", "link": "/find?type=3&query=chutzpah", "word": "chutzpah"}], "data": {}}, "synonyms": {"suggests": [{"id": "1005", "link": "/find?type=4&query=chute", "word": "chute"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4957",
+                "link": "/find?type=3&query=chute",
+                "word": "chute"
+            },
+            {
+                "id": "4958",
+                "link": "/find?type=3&query=chutney",
+                "word": "chutney"
+            },
+            {
+                "id": "4959",
+                "link": "/find?type=3&query=chutzpah",
+                "word": "chutzpah"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15391",
+                "link": "/find?type=1&query=chute",
+                "word": "chute"
+            },
+            {
+                "id": "15392",
+                "link": "/find?type=1&query=chute-the-chute",
+                "word": "chute-the-chute"
+            },
+            {
+                "id": "15393",
+                "link": "/find?type=1&query=chutnee",
+                "word": "chutnee"
+            },
+            {
+                "id": "15394",
+                "link": "/find?type=1&query=chutney",
+                "word": "chutney"
+            },
+            {
+                "id": "15395",
+                "link": "/find?type=1&query=chutzpah",
+                "word": "chutzpah"
+            },
+            {
+                "id": "104799",
+                "link": "/find?type=1&query=%27chutist",
+                "word": "'chutist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1005",
+                "link": "/find?type=4&query=chute",
+                "word": "chute"
+            }
+        ]
+    }
+}

@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "15356", "link": "/find?type=1&query=chunder", "word": "chunder"}, {"id": "15357", "link": "/find?type=1&query=chunk", "word": "chunk"}, {"id": "15358", "link": "/find?type=1&query=chunkily", "word": "chunkily"}, {"id": "15359", "link": "/find?type=1&query=chunkiness", "word": "chunkiness"}, {"id": "15360", "link": "/find?type=1&query=chunking", "word": "chunking"}, {"id": "15361", "link": "/find?type=1&query=chunky", "word": "chunky"}, {"id": "15362", "link": "/find?type=1&query=chunnel", "word": "chunnel"}, {"id": "15363", "link": "/find?type=1&query=chunter", "word": "chunter"}], "data": {}}, "en_en": {"suggests": [{"id": "4946", "link": "/find?type=3&query=chunk", "word": "chunk"}, {"id": "4947", "link": "/find?type=3&query=chunky", "word": "chunky"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4946",
+                "link": "/find?type=3&query=chunk",
+                "word": "chunk"
+            },
+            {
+                "id": "4947",
+                "link": "/find?type=3&query=chunky",
+                "word": "chunky"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15356",
+                "link": "/find?type=1&query=chunder",
+                "word": "chunder"
+            },
+            {
+                "id": "15357",
+                "link": "/find?type=1&query=chunk",
+                "word": "chunk"
+            },
+            {
+                "id": "15358",
+                "link": "/find?type=1&query=chunkily",
+                "word": "chunkily"
+            },
+            {
+                "id": "15359",
+                "link": "/find?type=1&query=chunkiness",
+                "word": "chunkiness"
+            },
+            {
+                "id": "15360",
+                "link": "/find?type=1&query=chunking",
+                "word": "chunking"
+            },
+            {
+                "id": "15361",
+                "link": "/find?type=1&query=chunky",
+                "word": "chunky"
+            },
+            {
+                "id": "15362",
+                "link": "/find?type=1&query=chunnel",
+                "word": "chunnel"
+            },
+            {
+                "id": "15363",
+                "link": "/find?type=1&query=chunter",
+                "word": "chunter"
+            }
+        ]
+    }
+}

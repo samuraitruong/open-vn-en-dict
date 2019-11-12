@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "15381", "link": "/find?type=1&query=churlish", "word": "churlish"}, {"id": "15381", "link": "/find?type=1&query=churlishly", "word": "churlishly"}, {"id": "15381", "link": "/find?type=1&query=churlishness", "word": "churlishness"}], "data": {"word": "churl", "id": "15381", "pronounce": "/'t\u222b\u025c:l/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169) ng\u01b0\u1eddi c\u1ee5c c\u1eb1n; ng\u01b0\u1eddi b\u1ea9n t\u00ednh</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4955", "link": "/find?type=3&query=churlish", "word": "churlish"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4955",
+                "link": "/find?type=3&query=churlish",
+                "word": "churlish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169) ng\u01b0\u1eddi c\u1ee5c c\u1eb1n; ng\u01b0\u1eddi b\u1ea9n t\u00ednh</div>",
+            "id": "15381",
+            "mean": [],
+            "pronounce": "/'t\u222b\u025c:l/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "churl"
+        },
+        "suggests": [
+            {
+                "id": "15381",
+                "link": "/find?type=1&query=churlish",
+                "word": "churlish"
+            },
+            {
+                "id": "15381",
+                "link": "/find?type=1&query=churlishly",
+                "word": "churlishly"
+            },
+            {
+                "id": "15381",
+                "link": "/find?type=1&query=churlishness",
+                "word": "churlishness"
+            }
+        ]
+    }
+}
