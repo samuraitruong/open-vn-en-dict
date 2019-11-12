@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "4988", "link": "/find?type=1&query=appalling", "word": "appalling"}, {"id": "4989", "link": "/find?type=1&query=appallingly", "word": "appallingly"}], "data": {}}, "en_en": {"suggests": [{"id": "1141", "link": "/find?type=3&query=appalling", "word": "appalling"}], "data": {"word": "appall", "id": "1141", "pronounce": "/\u0259\u02c8p\u0251\u02d0l/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">US or Brit appal   -palls; -palled; -palling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to cause (someone) to feel fear, shock, or disgust</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The thought of war appalls me.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">It appalls me to think of the way those children have been treated. - often used as (be) appalled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We were appalled at how long it took for our food to be served. = We were appalled that it took so long.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was appalled by/at their behavior.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">US or Brit appal   -palls; -palled; -palling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to cause (someone) to feel fear, shock, or disgust</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The thought of war appalls me.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">It appalls me to think of the way those children have been treated. - often used as (be) appalled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We were appalled at how long it took for our food to be served. = We were appalled that it took so long.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was appalled by/at their behavior.</div>",
+            "id": "1141",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8p\u0251\u02d0l/",
+            "type": "verb",
+            "word": "appall"
+        },
+        "suggests": [
+            {
+                "id": "1141",
+                "link": "/find?type=3&query=appalling",
+                "word": "appalling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4988",
+                "link": "/find?type=1&query=appalling",
+                "word": "appalling"
+            },
+            {
+                "id": "4989",
+                "link": "/find?type=1&query=appallingly",
+                "word": "appallingly"
+            }
+        ]
+    }
+}

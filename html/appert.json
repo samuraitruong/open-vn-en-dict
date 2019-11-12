@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "5038", "link": "/find?type=1&query=appertain", "word": "appertain"}], "data": {}}, "en_en": {"suggests": [{"id": "1163", "link": "/find?type=3&query=appertain", "word": "appertain"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1163",
+                "link": "/find?type=3&query=appertain",
+                "word": "appertain"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5038",
+                "link": "/find?type=1&query=appertain",
+                "word": "appertain"
+            }
+        ]
+    }
+}

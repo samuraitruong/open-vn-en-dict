@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "4997", "link": "/find?type=1&query=apparent", "word": "apparent"}, {"id": "4998", "link": "/find?type=1&query=apparently", "word": "apparently"}, {"id": "4999", "link": "/find?type=1&query=apparentness", "word": "apparentness"}], "data": {}}, "en_en": {"suggests": [{"id": "1146", "link": "/find?type=3&query=apparent", "word": "apparent"}, {"id": "1147", "link": "/find?type=3&query=apparently", "word": "apparently"}], "data": {}}, "synonyms": {"suggests": [{"id": "281", "link": "/find?type=4&query=apparent", "word": "apparent"}, {"id": "282", "link": "/find?type=4&query=apparently", "word": "apparently"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1146",
+                "link": "/find?type=3&query=apparent",
+                "word": "apparent"
+            },
+            {
+                "id": "1147",
+                "link": "/find?type=3&query=apparently",
+                "word": "apparently"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4997",
+                "link": "/find?type=1&query=apparent",
+                "word": "apparent"
+            },
+            {
+                "id": "4998",
+                "link": "/find?type=1&query=apparently",
+                "word": "apparently"
+            },
+            {
+                "id": "4999",
+                "link": "/find?type=1&query=apparentness",
+                "word": "apparentness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "281",
+                "link": "/find?type=4&query=apparent",
+                "word": "apparent"
+            },
+            {
+                "id": "282",
+                "link": "/find?type=4&query=apparently",
+                "word": "apparently"
+            }
+        ]
+    }
+}

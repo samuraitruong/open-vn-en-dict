@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "4971", "link": "/find?type=1&query=apothecaries%27+weight", "word": "apothecaries' weight"}, {"id": "4972", "link": "/find?type=1&query=apothecary", "word": "apothecary"}, {"id": "4973", "link": "/find?type=1&query=apothecia", "word": "apothecia"}, {"id": "4974", "link": "/find?type=1&query=apothecial", "word": "apothecial"}, {"id": "4975", "link": "/find?type=1&query=apothecium", "word": "apothecium"}], "data": {}}, "en_en": {"suggests": [{"id": "1138", "link": "/find?type=3&query=apothecary", "word": "apothecary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1138",
+                "link": "/find?type=3&query=apothecary",
+                "word": "apothecary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4971",
+                "link": "/find?type=1&query=apothecaries%27+weight",
+                "word": "apothecaries' weight"
+            },
+            {
+                "id": "4972",
+                "link": "/find?type=1&query=apothecary",
+                "word": "apothecary"
+            },
+            {
+                "id": "4973",
+                "link": "/find?type=1&query=apothecia",
+                "word": "apothecia"
+            },
+            {
+                "id": "4974",
+                "link": "/find?type=1&query=apothecial",
+                "word": "apothecial"
+            },
+            {
+                "id": "4975",
+                "link": "/find?type=1&query=apothecium",
+                "word": "apothecium"
+            }
+        ]
+    }
+}

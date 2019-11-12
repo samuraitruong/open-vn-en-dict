@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "5041", "link": "/find?type=1&query=appetite", "word": "appetite"}, {"id": "5042", "link": "/find?type=1&query=appetitive", "word": "appetitive"}], "data": {}}, "en_en": {"suggests": [{"id": "1164", "link": "/find?type=3&query=appetite", "word": "appetite"}], "data": {}}, "synonyms": {"suggests": [{"id": "286", "link": "/find?type=4&query=appetite", "word": "appetite"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1164",
+                "link": "/find?type=3&query=appetite",
+                "word": "appetite"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5041",
+                "link": "/find?type=1&query=appetite",
+                "word": "appetite"
+            },
+            {
+                "id": "5042",
+                "link": "/find?type=1&query=appetitive",
+                "word": "appetitive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "286",
+                "link": "/find?type=4&query=appetite",
+                "word": "appetite"
+            }
+        ]
+    }
+}
