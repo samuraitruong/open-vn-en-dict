@@ -117,9 +117,9 @@ def getWord(word):
 if len(sys.argv) > 1:
     pprint.pprint(getWordFromLaban(sys.argv[1]))
     exit()
-print ("Retrive list of all english words")
+print("Retrive list of all english words")
 words = getWordList()
-print("Total english words")
+print("Total english words %d".format(len(words)))
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words}
