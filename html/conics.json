@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "18643", "link": "/find?type=1&query=conical", "word": "conical"}, {"id": "18643", "link": "/find?type=1&query=conical+helix", "word": "conical helix"}, {"id": "18643", "link": "/find?type=1&query=conical+horn", "word": "conical horn"}, {"id": "18643", "link": "/find?type=1&query=conical+projection", "word": "conical projection"}, {"id": "18643", "link": "/find?type=1&query=conical+scan", "word": "conical scan"}, {"id": "18643", "link": "/find?type=1&query=conical+scanning", "word": "conical scanning"}, {"id": "18643", "link": "/find?type=1&query=conical+waveguide", "word": "conical waveguide"}, {"id": "18643", "link": "/find?type=1&query=conicalness", "word": "conicalness"}, {"id": "18643", "link": "/find?type=1&query=conicity", "word": "conicity"}], "data": {"word": "conic", "id": "18643", "pronounce": "/'k\u028anik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(to\u00e1n)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c h\u00ecnh] n\u00f3n</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5952", "link": "/find?type=3&query=conical", "word": "conical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5952",
+                "link": "/find?type=3&query=conical",
+                "word": "conical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(to\u00e1n)</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c h\u00ecnh] n\u00f3n</div>",
+            "id": "18643",
+            "mean": [],
+            "pronounce": "/'k\u028anik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "conic"
+        },
+        "suggests": [
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical",
+                "word": "conical"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical+helix",
+                "word": "conical helix"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical+horn",
+                "word": "conical horn"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical+projection",
+                "word": "conical projection"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical+scan",
+                "word": "conical scan"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical+scanning",
+                "word": "conical scanning"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conical+waveguide",
+                "word": "conical waveguide"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conicalness",
+                "word": "conicalness"
+            },
+            {
+                "id": "18643",
+                "link": "/find?type=1&query=conicity",
+                "word": "conicity"
+            }
+        ]
+    }
+}

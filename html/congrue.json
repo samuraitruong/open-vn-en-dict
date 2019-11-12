@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "18636", "link": "/find?type=1&query=congruence", "word": "congruence"}, {"id": "18637", "link": "/find?type=1&query=congruent", "word": "congruent"}, {"id": "18638", "link": "/find?type=1&query=congruently", "word": "congruently"}], "data": {}}, "en_en": {"suggests": [{"id": "5951", "link": "/find?type=3&query=congruent", "word": "congruent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5951",
+                "link": "/find?type=3&query=congruent",
+                "word": "congruent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18636",
+                "link": "/find?type=1&query=congruence",
+                "word": "congruence"
+            },
+            {
+                "id": "18637",
+                "link": "/find?type=1&query=congruent",
+                "word": "congruent"
+            },
+            {
+                "id": "18638",
+                "link": "/find?type=1&query=congruently",
+                "word": "congruently"
+            }
+        ]
+    }
+}
