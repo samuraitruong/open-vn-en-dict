@@ -1,1 +1,22 @@
-{"error": 0, "query": "grasshop", "enViData": {"suggests": [{"id": "41234", "link": "/find?type=1&query=grasshopper", "word": "grasshopper"}]}, "mUrl": "/find?type=1&query=grasshop", "enEnData": {"suggests": [{"id": "12508", "link": "/find?type=3&query=grasshopper", "word": "grasshopper"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12508",
+                "link": "/find?type=3&query=grasshopper",
+                "word": "grasshopper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41234",
+                "link": "/find?type=1&query=grasshopper",
+                "word": "grasshopper"
+            }
+        ]
+    }
+}
