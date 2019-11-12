@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "10901", "link": "/find?type=1&query=bragger", "word": "bragger"}], "data": {}}, "en_en": {"suggests": [{"id": "3301", "link": "/find?type=3&query=bragging+rights", "word": "bragging rights"}], "data": {}}, "synonyms": {"suggests": [{"id": "673", "link": "/find?type=4&query=braggart", "word": "braggart"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3301",
+                "link": "/find?type=3&query=bragging+rights",
+                "word": "bragging rights"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10901",
+                "link": "/find?type=1&query=bragger",
+                "word": "bragger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "673",
+                "link": "/find?type=4&query=braggart",
+                "word": "braggart"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "10752", "link": "/find?type=1&query=bouton", "word": "bouton"}, {"id": "10753", "link": "/find?type=1&query=boutonniere", "word": "boutonniere"}], "data": {}}, "en_en": {"suggests": [{"id": "3252", "link": "/find?type=3&query=boutonniere", "word": "boutonniere"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3252",
+                "link": "/find?type=3&query=boutonniere",
+                "word": "boutonniere"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10752",
+                "link": "/find?type=1&query=bouton",
+                "word": "bouton"
+            },
+            {
+                "id": "10753",
+                "link": "/find?type=1&query=boutonniere",
+                "word": "boutonniere"
+            }
+        ]
+    }
+}

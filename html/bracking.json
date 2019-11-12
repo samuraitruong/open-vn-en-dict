@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "10885", "link": "/find?type=1&query=bracken", "word": "bracken"}, {"id": "10886", "link": "/find?type=1&query=bracket", "word": "bracket"}, {"id": "10887", "link": "/find?type=1&query=bracket+standard", "word": "bracket standard"}], "data": {}}, "en_en": {"suggests": [{"id": "3295", "link": "/find?type=3&query=bracken", "word": "bracken"}, {"id": "3296", "link": "/find?type=3&query=bracket", "word": "bracket"}], "data": {}}, "synonyms": {"suggests": [{"id": "671", "link": "/find?type=4&query=bracket", "word": "bracket"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3295",
+                "link": "/find?type=3&query=bracken",
+                "word": "bracken"
+            },
+            {
+                "id": "3296",
+                "link": "/find?type=3&query=bracket",
+                "word": "bracket"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10885",
+                "link": "/find?type=1&query=bracken",
+                "word": "bracken"
+            },
+            {
+                "id": "10886",
+                "link": "/find?type=1&query=bracket",
+                "word": "bracket"
+            },
+            {
+                "id": "10887",
+                "link": "/find?type=1&query=bracket+standard",
+                "word": "bracket standard"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "671",
+                "link": "/find?type=4&query=bracket",
+                "word": "bracket"
+            }
+        ]
+    }
+}
