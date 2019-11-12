@@ -1,1 +1,55 @@
-{"error": 0, "query": "harl", "enViData": {"suggests": [{"id": "42872", "link": "/find?type=1&query=harle", "word": "harle"}, {"id": "42872", "link": "/find?type=1&query=harlequin", "word": "harlequin"}, {"id": "42872", "link": "/find?type=1&query=harlequinade", "word": "harlequinade"}, {"id": "42872", "link": "/find?type=1&query=harlot", "word": "harlot"}, {"id": "42872", "link": "/find?type=1&query=harlotry", "word": "harlotry"}], "best": {"id": "42872", "details": "\n<div id=\"find_word_42872\" class=\"world word_en\" rel=\"harl\">\n    <h2 class=\"fl\">harl <span class=\"color-black\">/h\u0251:l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42872\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42872\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb (\u1eda-c\u1ed1t)</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u00e9o l\u00ea tr\u00ean m\u1eb7t \u0111\u1ea5t; \u0111i k\u00e9o l\u00ea</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e1t b\u1eb1ng v\u00f4i v\u00e0 \u0111\u00e1 cu\u1ed9i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb+ (harle) /h\u0251:l/ (herl) /h\u0259:l/</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u01a1 l\u00f4ng (chim)</div>\n    \n</div>\n", "link": "/find?type=1&query=harl", "word": "harl"}}, "mUrl": "/find?type=1&query=harl", "enEnData": {"suggests": [{"id": "13117", "link": "/find?type=3&query=harlequin", "word": "harlequin"}, {"id": "13118", "link": "/find?type=3&query=harlot", "word": "harlot"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13117",
+                "link": "/find?type=3&query=harlequin",
+                "word": "harlequin"
+            },
+            {
+                "id": "13118",
+                "link": "/find?type=3&query=harlot",
+                "word": "harlot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb (\u1eda-c\u1ed1t)</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u00e9o l\u00ea tr\u00ean m\u1eb7t \u0111\u1ea5t; \u0111i k\u00e9o l\u00ea</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e1t b\u1eb1ng v\u00f4i v\u00e0 \u0111\u00e1 cu\u1ed9i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb+ (harle) /h\u0251:l/ (herl) /h\u0259:l/</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u01a1 l\u00f4ng (chim)</div>",
+            "id": "42872",
+            "mean": [],
+            "pronounce": "/h\u0251:l/",
+            "speak": {},
+            "type": "\u0110\u1ed9ng t\u1eeb (\u1eda-c\u1ed1t) Danh t\u1eeb+ (harle) /h\u0251:l/ (herl) /h\u0259:l/",
+            "word": "harl"
+        },
+        "suggests": [
+            {
+                "id": "42872",
+                "link": "/find?type=1&query=harle",
+                "word": "harle"
+            },
+            {
+                "id": "42872",
+                "link": "/find?type=1&query=harlequin",
+                "word": "harlequin"
+            },
+            {
+                "id": "42872",
+                "link": "/find?type=1&query=harlequinade",
+                "word": "harlequinade"
+            },
+            {
+                "id": "42872",
+                "link": "/find?type=1&query=harlot",
+                "word": "harlot"
+            },
+            {
+                "id": "42872",
+                "link": "/find?type=1&query=harlotry",
+                "word": "harlotry"
+            }
+        ]
+    }
+}
