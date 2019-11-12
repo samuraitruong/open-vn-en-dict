@@ -1,1 +1,28 @@
-{"error": 0, "query": "gondola", "enViData": {"suggests": [], "best": {"id": "40675", "details": "\n<div id=\"find_word_40675\" class=\"world word_en\" rel=\"gondola\">\n    <h2 class=\"fl\">gondola <span class=\"color-black\">/'g\u0254nd\u0259l\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"40675\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"40675\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thuy\u1ec1n \u0111\u00e1y b\u1eb1ng (\u0111\u1ec3 \u0111i tr\u00ean c\u00e1c k\u00eanh \u1edf Vencie)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ecf kh\u00ed c\u1ea7u</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e1 b\u00e0y h\u00e0ng (\u1edf c\u00e1c c\u1eeda ti\u1ec7m t\u1ef1 ph\u1ee5c v\u1ee5)</div>\n    \n</div>\n", "link": "/find?type=1&query=gondola", "word": "gondola"}}, "mUrl": "/find?type=1&query=gondola", "enEnData": {"suggests": [], "best": {"id": "12306", "details": "\n<div id=\"find_word_12306\" class=\"world word_en\" rel=\"gondola\">\n    <h2 class=\"fl\">gondola <span class=\"color-black\">/\u02c8g\u0251\u02d0nd\u0259l\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12306\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12306\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -las</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a long narrow boat used on the canals of Venice</div>\n    \n    <div class=\"green margin25 m-top15\">the part of a balloon or airship in which passengers or instruments are carried</div>\n    \n    <div class=\"green margin25 m-top15\">a vehicle that hangs from a cable and is used for carrying passengers (such as skiers) especially up a mountain</div>\n    \n</div>\n", "link": "/find?type=3&query=gondola", "word": "gondola"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -las</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a long narrow boat used on the canals of Venice</div>\n    \n    <div class=\"green margin25 m-top15\">the part of a balloon or airship in which passengers or instruments are carried</div>\n    \n    <div class=\"green margin25 m-top15\">a vehicle that hangs from a cable and is used for carrying passengers (such as skiers) especially up a mountain</div>",
+            "id": "12306",
+            "mean": [],
+            "pronounce": "/\u02c8g\u0251\u02d0nd\u0259l\u0259/",
+            "type": "noun",
+            "word": "gondola"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">thuy\u1ec1n \u0111\u00e1y b\u1eb1ng (\u0111\u1ec3 \u0111i tr\u00ean c\u00e1c k\u00eanh \u1edf Vencie)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ecf kh\u00ed c\u1ea7u</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e1 b\u00e0y h\u00e0ng (\u1edf c\u00e1c c\u1eeda ti\u1ec7m t\u1ef1 ph\u1ee5c v\u1ee5)</div>",
+            "id": "40675",
+            "mean": [],
+            "pronounce": "/'g\u0254nd\u0259l\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ba82afd9f7f40e73d5afc00753405f5c/16e6111cf8d/G/gondola.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/983eff784e3d7a5fe5545dcddc9d660a/16e6111c7ad/G/gondola.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gondola"
+        },
+        "suggests": []
+    }
+}
