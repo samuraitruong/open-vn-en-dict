@@ -1,1 +1,60 @@
-{"error": 0, "query": "frivols", "enViData": {"suggests": [{"id": "38070", "link": "/find?type=1&query=frivolity", "word": "frivolity"}, {"id": "38070", "link": "/find?type=1&query=frivolness", "word": "frivolness"}, {"id": "38070", "link": "/find?type=1&query=frivolous", "word": "frivolous"}, {"id": "38070", "link": "/find?type=1&query=frivolously", "word": "frivolously"}], "best": {"id": "38070", "details": "\n<div id=\"find_word_38070\" class=\"world word_en\" rel=\"frivol\">\n    <h2 class=\"fl\">frivol <span class=\"color-black\">/'friv\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38070\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38070\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e3ng ph\u00ed (th\u1eddi gi\u1edd, ti\u1ec1n c\u1ee7a...)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u01a1i phi\u1ebfm, l\u00e0m nh\u1eefng chuy\u1ec7n v\u1edb v\u1ea9n v\u00f4 \u00edch</div>\n    \n</div>\n", "link": "/find?type=1&query=frivol", "word": "frivol"}}, "mUrl": "/find?type=1&query=frivols", "enEnData": {"suggests": [{"id": "11505", "link": "/find?type=3&query=frivolity", "word": "frivolity"}, {"id": "11506", "link": "/find?type=3&query=frivolous", "word": "frivolous"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2868", "link": "/find?type=4&query=frivolous", "word": "frivolous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11505",
+                "link": "/find?type=3&query=frivolity",
+                "word": "frivolity"
+            },
+            {
+                "id": "11506",
+                "link": "/find?type=3&query=frivolous",
+                "word": "frivolous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e3ng ph\u00ed (th\u1eddi gi\u1edd, ti\u1ec1n c\u1ee7a...)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u01a1i phi\u1ebfm, l\u00e0m nh\u1eefng chuy\u1ec7n v\u1edb v\u1ea9n v\u00f4 \u00edch</div>",
+            "id": "38070",
+            "mean": [],
+            "pronounce": "/'friv\u0259l/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb N\u1ed9i \u0111\u1ed9ng t\u1eeb",
+            "word": "frivol"
+        },
+        "suggests": [
+            {
+                "id": "38070",
+                "link": "/find?type=1&query=frivolity",
+                "word": "frivolity"
+            },
+            {
+                "id": "38070",
+                "link": "/find?type=1&query=frivolness",
+                "word": "frivolness"
+            },
+            {
+                "id": "38070",
+                "link": "/find?type=1&query=frivolous",
+                "word": "frivolous"
+            },
+            {
+                "id": "38070",
+                "link": "/find?type=1&query=frivolously",
+                "word": "frivolously"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2868",
+                "link": "/find?type=4&query=frivolous",
+                "word": "frivolous"
+            }
+        ]
+    }
+}
