@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "24520", "link": "/find?type=1&query=despondency", "word": "despondency"}, {"id": "24520", "link": "/find?type=1&query=despondent", "word": "despondent"}, {"id": "24520", "link": "/find?type=1&query=despondently", "word": "despondently"}, {"id": "24520", "link": "/find?type=1&query=despondingly", "word": "despondingly"}], "data": {"word": "despond", "id": "24520", "pronounce": "/dis'p\u0254nd/", "type": "N\u1ed9i \u0111\u1ed9ng t\u1eeb Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ea3n l\u00f2ng, ng\u00e3 l\u00f2ng; th\u1ea5t v\u1ecdng, ch\u00e1n n\u1ea3n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5) (nh\u01b0) despondency</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7792", "link": "/find?type=3&query=despondent", "word": "despondent"}], "data": {}}, "synonyms": {"suggests": [{"id": "1590", "link": "/find?type=4&query=despondent", "word": "despondent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7792",
+                "link": "/find?type=3&query=despondent",
+                "word": "despondent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>N\u1ed9i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u1ea3n l\u00f2ng, ng\u00e3 l\u00f2ng; th\u1ea5t v\u1ecdng, ch\u00e1n n\u1ea3n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5) (nh\u01b0) despondency</div>",
+            "id": "24520",
+            "mean": [],
+            "pronounce": "/dis'p\u0254nd/",
+            "speak": {},
+            "type": "N\u1ed9i \u0111\u1ed9ng t\u1eeb Danh t\u1eeb",
+            "word": "despond"
+        },
+        "suggests": [
+            {
+                "id": "24520",
+                "link": "/find?type=1&query=despondency",
+                "word": "despondency"
+            },
+            {
+                "id": "24520",
+                "link": "/find?type=1&query=despondent",
+                "word": "despondent"
+            },
+            {
+                "id": "24520",
+                "link": "/find?type=1&query=despondently",
+                "word": "despondently"
+            },
+            {
+                "id": "24520",
+                "link": "/find?type=1&query=despondingly",
+                "word": "despondingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1590",
+                "link": "/find?type=4&query=despondent",
+                "word": "despondent"
+            }
+        ]
+    }
+}
