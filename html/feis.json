@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "34598", "link": "/find?type=1&query=feist", "word": "feist"}, {"id": "34599", "link": "/find?type=1&query=feisty", "word": "feisty"}], "data": {}}, "en_en": {"suggests": [{"id": "10446", "link": "/find?type=3&query=feisty", "word": "feisty"}], "data": {}}, "synonyms": {"suggests": [{"id": "2567", "link": "/find?type=4&query=feint", "word": "feint"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10446",
+                "link": "/find?type=3&query=feisty",
+                "word": "feisty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34598",
+                "link": "/find?type=1&query=feist",
+                "word": "feist"
+            },
+            {
+                "id": "34599",
+                "link": "/find?type=1&query=feisty",
+                "word": "feisty"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2567",
+                "link": "/find?type=4&query=feint",
+                "word": "feint"
+            }
+        ]
+    }
+}
