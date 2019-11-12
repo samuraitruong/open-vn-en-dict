@@ -1,1 +1,28 @@
-{"error": 0, "query": "hemoglobin", "enViData": {"suggests": [], "best": {"id": "43537", "details": "\n<div id=\"find_word_43537\" class=\"world word_en\" rel=\"hemoglobin\">\n    <h2 class=\"fl\">hemoglobin <span class=\"color-black\">/hi:mou'gloubin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43537\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43537\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Hemoglobin</div>\n    \n</div>\n", "link": "/find?type=1&query=hemoglobin", "word": "hemoglobin"}}, "mUrl": "/find?type=1&query=hemoglobin", "enEnData": {"suggests": [], "best": {"id": "13414", "details": "\n<div id=\"find_word_13414\" class=\"world word_en\" rel=\"hemoglobin\">\n    <h2 class=\"fl\">hemoglobin <span class=\"color-black\">/\u02c8hi\u02d0m\u0259\u02ccglo\u028ab\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13414\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13414\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">US or Brit haemoglobin</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :the part of blood that contains iron, carries oxygen through the body, and gives blood its red color</div>\n    \n</div>\n", "link": "/find?type=3&query=hemoglobin", "word": "hemoglobin"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">US or Brit haemoglobin</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :the part of blood that contains iron, carries oxygen through the body, and gives blood its red color</div>",
+            "id": "13414",
+            "mean": [],
+            "pronounce": "/\u02c8hi\u02d0m\u0259\u02ccglo\u028ab\u0259n/",
+            "type": "noun",
+            "word": "hemoglobin"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Hemoglobin</div>",
+            "id": "43537",
+            "mean": [],
+            "pronounce": "/hi:mou'gloubin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b9eaddf1587c569f859a0df551701761/16e61890593/H/hemoglobin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e51b6e51f48322f6ad45a5ba41309435/16e6188fce2/H/hemoglobin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hemoglobin"
+        },
+        "suggests": []
+    }
+}
