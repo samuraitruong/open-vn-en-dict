@@ -1,1 +1,28 @@
-{"error": 0, "query": "headland", "enViData": {"suggests": [], "best": {"id": "43132", "details": "\n<div id=\"find_word_43132\" class=\"world word_en\" rel=\"headland\">\n    <h2 class=\"fl\">headland <span class=\"color-black\">/'hedl\u0259nd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43132\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43132\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u0169i \u0111\u1ea5t</div>\n    \n</div>\n", "link": "/find?type=1&query=headland", "word": "headland"}}, "mUrl": "/find?type=1&query=headland", "enEnData": {"suggests": [], "best": {"id": "13234", "details": "\n<div id=\"find_word_13234\" class=\"world word_en\" rel=\"headland\">\n    <h2 class=\"fl\">headland <span class=\"color-black\">/\u02c8h\u025bdl\u0259nd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13234\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13234\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lands</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a narrow area of land that sticks out into the sea :promontory</div>\n    \n</div>\n", "link": "/find?type=3&query=headland", "word": "headland"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lands</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a narrow area of land that sticks out into the sea :promontory</div>",
+            "id": "13234",
+            "mean": [],
+            "pronounce": "/\u02c8h\u025bdl\u0259nd/",
+            "type": "noun",
+            "word": "headland"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u0169i \u0111\u1ea5t</div>",
+            "id": "43132",
+            "mean": [],
+            "pronounce": "/'hedl\u0259nd/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ef49419eada08ba41ba870ff129f8a68/16e61741c0c/H/headland.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6f84e81e27d5b6b815ab8782461c98cf/16e6174141e/H/headland.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "headland"
+        },
+        "suggests": []
+    }
+}
