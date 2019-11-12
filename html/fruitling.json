@@ -1,1 +1,47 @@
-{"error": 0, "query": "fruitling", "enViData": {"suggests": [{"id": "38230", "link": "/find?type=1&query=fruitless", "word": "fruitless"}, {"id": "38231", "link": "/find?type=1&query=fruitlessly", "word": "fruitlessly"}, {"id": "38232", "link": "/find?type=1&query=fruitlessness", "word": "fruitlessness"}, {"id": "38233", "link": "/find?type=1&query=fruitlet", "word": "fruitlet"}]}, "mUrl": "/find?type=1&query=fruitling", "enEnData": {"suggests": [{"id": "11558", "link": "/find?type=3&query=fruitless", "word": "fruitless"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2879", "link": "/find?type=4&query=fruitless", "word": "fruitless"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11558",
+                "link": "/find?type=3&query=fruitless",
+                "word": "fruitless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38230",
+                "link": "/find?type=1&query=fruitless",
+                "word": "fruitless"
+            },
+            {
+                "id": "38231",
+                "link": "/find?type=1&query=fruitlessly",
+                "word": "fruitlessly"
+            },
+            {
+                "id": "38232",
+                "link": "/find?type=1&query=fruitlessness",
+                "word": "fruitlessness"
+            },
+            {
+                "id": "38233",
+                "link": "/find?type=1&query=fruitlet",
+                "word": "fruitlet"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2879",
+                "link": "/find?type=4&query=fruitless",
+                "word": "fruitless"
+            }
+        ]
+    }
+}
