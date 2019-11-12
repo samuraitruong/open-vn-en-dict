@@ -112,7 +112,7 @@ def getWord(word):
     # print(html("#column-content").html())
     return html("#column-content").html()
 
-
+if len(argv)
 pprint.pprint(getWordFromLaban("agromania"))
 exit()
 words = getWordList()
