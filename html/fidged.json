@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "35062", "link": "/find?type=1&query=fidget", "word": "fidget"}, {"id": "35063", "link": "/find?type=1&query=fidgetiness", "word": "fidgetiness"}, {"id": "35064", "link": "/find?type=1&query=fidgety", "word": "fidgety"}], "data": {}}, "en_en": {"suggests": [{"id": "10547", "link": "/find?type=3&query=fidget", "word": "fidget"}, {"id": "10548", "link": "/find?type=3&query=fidgety", "word": "fidgety"}], "data": {}}, "synonyms": {"suggests": [{"id": "2599", "link": "/find?type=4&query=fidget", "word": "fidget"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10547",
+                "link": "/find?type=3&query=fidget",
+                "word": "fidget"
+            },
+            {
+                "id": "10548",
+                "link": "/find?type=3&query=fidgety",
+                "word": "fidgety"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35062",
+                "link": "/find?type=1&query=fidget",
+                "word": "fidget"
+            },
+            {
+                "id": "35063",
+                "link": "/find?type=1&query=fidgetiness",
+                "word": "fidgetiness"
+            },
+            {
+                "id": "35064",
+                "link": "/find?type=1&query=fidgety",
+                "word": "fidgety"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2599",
+                "link": "/find?type=4&query=fidget",
+                "word": "fidget"
+            }
+        ]
+    }
+}
