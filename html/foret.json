@@ -1,1 +1,87 @@
-{"error": 0, "query": "foret", "enViData": {"suggests": [{"id": "37174", "link": "/find?type=1&query=foretaste", "word": "foretaste"}, {"id": "37175", "link": "/find?type=1&query=foreteeth", "word": "foreteeth"}, {"id": "37176", "link": "/find?type=1&query=foretell", "word": "foretell"}, {"id": "37177", "link": "/find?type=1&query=foretelling", "word": "foretelling"}, {"id": "37178", "link": "/find?type=1&query=forethought", "word": "forethought"}, {"id": "37179", "link": "/find?type=1&query=forethoughtfulness", "word": "forethoughtfulness"}, {"id": "37180", "link": "/find?type=1&query=foretime", "word": "foretime"}, {"id": "37181", "link": "/find?type=1&query=foretoken", "word": "foretoken"}, {"id": "37182", "link": "/find?type=1&query=foretold", "word": "foretold"}, {"id": "37183", "link": "/find?type=1&query=foretooth", "word": "foretooth"}]}, "mUrl": "/find?type=1&query=foret", "enEnData": {"suggests": [{"id": "11213", "link": "/find?type=3&query=foretaste", "word": "foretaste"}, {"id": "11214", "link": "/find?type=3&query=foretell", "word": "foretell"}, {"id": "11215", "link": "/find?type=3&query=forethought", "word": "forethought"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2779", "link": "/find?type=4&query=forethought", "word": "forethought"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11213",
+                "link": "/find?type=3&query=foretaste",
+                "word": "foretaste"
+            },
+            {
+                "id": "11214",
+                "link": "/find?type=3&query=foretell",
+                "word": "foretell"
+            },
+            {
+                "id": "11215",
+                "link": "/find?type=3&query=forethought",
+                "word": "forethought"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37174",
+                "link": "/find?type=1&query=foretaste",
+                "word": "foretaste"
+            },
+            {
+                "id": "37175",
+                "link": "/find?type=1&query=foreteeth",
+                "word": "foreteeth"
+            },
+            {
+                "id": "37176",
+                "link": "/find?type=1&query=foretell",
+                "word": "foretell"
+            },
+            {
+                "id": "37177",
+                "link": "/find?type=1&query=foretelling",
+                "word": "foretelling"
+            },
+            {
+                "id": "37178",
+                "link": "/find?type=1&query=forethought",
+                "word": "forethought"
+            },
+            {
+                "id": "37179",
+                "link": "/find?type=1&query=forethoughtfulness",
+                "word": "forethoughtfulness"
+            },
+            {
+                "id": "37180",
+                "link": "/find?type=1&query=foretime",
+                "word": "foretime"
+            },
+            {
+                "id": "37181",
+                "link": "/find?type=1&query=foretoken",
+                "word": "foretoken"
+            },
+            {
+                "id": "37182",
+                "link": "/find?type=1&query=foretold",
+                "word": "foretold"
+            },
+            {
+                "id": "37183",
+                "link": "/find?type=1&query=foretooth",
+                "word": "foretooth"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2779",
+                "link": "/find?type=4&query=forethought",
+                "word": "forethought"
+            }
+        ]
+    }
+}
