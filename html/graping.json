@@ -1,1 +1,95 @@
-{"error": 0, "query": "graping", "enViData": {"suggests": [{"id": "41134", "link": "/find?type=1&query=grape+sugar", "word": "grape sugar"}, {"id": "41134", "link": "/find?type=1&query=grape-basket", "word": "grape-basket"}, {"id": "41134", "link": "/find?type=1&query=grape-cure", "word": "grape-cure"}, {"id": "41134", "link": "/find?type=1&query=grape-gatherer", "word": "grape-gatherer"}, {"id": "41134", "link": "/find?type=1&query=grape-gatherering", "word": "grape-gatherering"}, {"id": "41134", "link": "/find?type=1&query=grape-gleaning", "word": "grape-gleaning"}, {"id": "41134", "link": "/find?type=1&query=grape-house", "word": "grape-house"}, {"id": "41134", "link": "/find?type=1&query=grape-hyacinth", "word": "grape-hyacinth"}, {"id": "41134", "link": "/find?type=1&query=grape-juice", "word": "grape-juice"}], "best": {"id": "41134", "details": "\n<div id=\"find_word_41134\" class=\"world word_en\" rel=\"grape\">\n    <h2 class=\"fl\">grape <span class=\"color-black\">/greip/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41134\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41134\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 nho</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bunch of grapes</div>\n    \n    <div class=\"margin25\">m\u1ed9t ch\u00f9m nho</div>\n    \n</div>\n", "link": "/find?type=1&query=grape", "word": "grape"}}, "mUrl": "/find?type=1&query=graping", "enEnData": {"suggests": [{"id": "12490", "link": "/find?type=3&query=grapefruit", "word": "grapefruit"}, {"id": "12490", "link": "/find?type=3&query=grapevine", "word": "grapevine"}], "best": {"id": "12490", "details": "\n<div id=\"find_word_12490\" class=\"world word_en\" rel=\"grape\">\n    <h2 class=\"fl\">grape <span class=\"color-black\">/\u02c8gre\u026ap/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12490\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12490\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural grapes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a green, dark red, or purplish-black berry that is used to make wine or is eaten as a fruit</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a bunch of seedless grapes</div>\n    \n    <div class=\"green margin25 m-top15\">see color picture - see also sour grapes</div>\n    \n</div>\n", "link": "/find?type=3&query=grape", "word": "grape"}}, "ftype": "1", "synData": {"suggests": [{"id": "3081", "link": "/find?type=4&query=grapevine", "word": "grapevine"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural grapes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a green, dark red, or purplish-black berry that is used to make wine or is eaten as a fruit</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a bunch of seedless grapes</div>\n    \n    <div class=\"green margin25 m-top15\">see color picture - see also sour grapes</div>",
+            "id": "12490",
+            "mean": [],
+            "pronounce": "/\u02c8gre\u026ap/",
+            "type": "noun",
+            "word": "grape"
+        },
+        "suggests": [
+            {
+                "id": "12490",
+                "link": "/find?type=3&query=grapefruit",
+                "word": "grapefruit"
+            },
+            {
+                "id": "12490",
+                "link": "/find?type=3&query=grapevine",
+                "word": "grapevine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 nho</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bunch of grapes</div>\n    \n    <div class=\"margin25\">m\u1ed9t ch\u00f9m nho</div>",
+            "id": "41134",
+            "mean": [],
+            "pronounce": "/greip/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/64460a283ce468918a2bd5111720e8b7/16e61241763/G/grape.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/593e3fab99088fc544203a12d13e3340/16e61240d4b/G/grape.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "grape"
+        },
+        "suggests": [
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape+sugar",
+                "word": "grape sugar"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-basket",
+                "word": "grape-basket"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-cure",
+                "word": "grape-cure"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-gatherer",
+                "word": "grape-gatherer"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-gatherering",
+                "word": "grape-gatherering"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-gleaning",
+                "word": "grape-gleaning"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-house",
+                "word": "grape-house"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-hyacinth",
+                "word": "grape-hyacinth"
+            },
+            {
+                "id": "41134",
+                "link": "/find?type=1&query=grape-juice",
+                "word": "grape-juice"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3081",
+                "link": "/find?type=4&query=grapevine",
+                "word": "grapevine"
+            }
+        ]
+    }
+}
