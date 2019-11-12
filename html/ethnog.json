@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "32138", "link": "/find?type=1&query=ethnogenic", "word": "ethnogenic"}, {"id": "32139", "link": "/find?type=1&query=ethnogeny", "word": "ethnogeny"}, {"id": "32140", "link": "/find?type=1&query=ethnographer", "word": "ethnographer"}, {"id": "32141", "link": "/find?type=1&query=ethnographic", "word": "ethnographic"}, {"id": "32142", "link": "/find?type=1&query=ethnographical", "word": "ethnographical"}, {"id": "32143", "link": "/find?type=1&query=ethnographically", "word": "ethnographically"}, {"id": "32144", "link": "/find?type=1&query=ethnography", "word": "ethnography"}], "data": {}}, "en_en": {"suggests": [{"id": "9823", "link": "/find?type=3&query=ethnography", "word": "ethnography"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9823",
+                "link": "/find?type=3&query=ethnography",
+                "word": "ethnography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32138",
+                "link": "/find?type=1&query=ethnogenic",
+                "word": "ethnogenic"
+            },
+            {
+                "id": "32139",
+                "link": "/find?type=1&query=ethnogeny",
+                "word": "ethnogeny"
+            },
+            {
+                "id": "32140",
+                "link": "/find?type=1&query=ethnographer",
+                "word": "ethnographer"
+            },
+            {
+                "id": "32141",
+                "link": "/find?type=1&query=ethnographic",
+                "word": "ethnographic"
+            },
+            {
+                "id": "32142",
+                "link": "/find?type=1&query=ethnographical",
+                "word": "ethnographical"
+            },
+            {
+                "id": "32143",
+                "link": "/find?type=1&query=ethnographically",
+                "word": "ethnographically"
+            },
+            {
+                "id": "32144",
+                "link": "/find?type=1&query=ethnography",
+                "word": "ethnography"
+            }
+        ]
+    }
+}
