@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "32530", "link": "/find?type=1&query=evildoer", "word": "evildoer"}], "data": {}}, "en_en": {"suggests": [{"id": "9887", "link": "/find?type=3&query=evildoer", "word": "evildoer"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9887",
+                "link": "/find?type=3&query=evildoer",
+                "word": "evildoer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32530",
+                "link": "/find?type=1&query=evildoer",
+                "word": "evildoer"
+            }
+        ]
+    }
+}
