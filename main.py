@@ -133,7 +133,7 @@ print("Total english words %d" % (len(words)))
 #     outfile.truncate()
 #     json.dump(logs, outfile, indent=4, sort_keys=True)
 #  exit()
-delta  =0;
+delta = 0
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
         getWordFromLaban, key): key for key in words if logs.get}
@@ -143,20 +143,20 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
             fileName = "html/" + url+".json"
             html = future.result()
             if html != None:
-                
 
                 with open(fileName, 'w+') as outfile:
                     outfile.seek(0)
                     outfile.truncate()
                     json.dump(html, outfile, indent=4, sort_keys=True)
-                logs[url] = 1;
-                delta++;
-                if delta >1000:
-                    delta = 0;
+                logs[url] = 1
+                delta++
+                if delta > 1000:
+                    delta = 0
+                    print ("Update logs files")
                     with open(fileName, 'w+') as logFile:
-                    logFile.seek(0)
-                    logFile.truncate()
-                    json.dump(logs, logFile, indent=4, sort_keys=True) 
+                        logFile.seek(0)
+                        logFile.truncate()
+                        json.dump(logs, logFile, indent=4, sort_keys=True)
         # except requests..exceptions.ConnectionError:
         #    print('%r generated an exception: %s' % (url, exc))
         except Exception as exc:
