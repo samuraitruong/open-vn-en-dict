@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "14563", "link": "/find?type=1&query=chasse", "word": "chasse"}, {"id": "14564", "link": "/find?type=1&query=chass%C3%A9", "word": "chass\u00e9"}, {"id": "14565", "link": "/find?type=1&query=chassepot", "word": "chassepot"}, {"id": "14566", "link": "/find?type=1&query=chasseur", "word": "chasseur"}, {"id": "14567", "link": "/find?type=1&query=chassis", "word": "chassis"}], "data": {}}, "en_en": {"suggests": [{"id": "4635", "link": "/find?type=3&query=chassis", "word": "chassis"}], "data": {}}, "synonyms": {"suggests": [{"id": "958", "link": "/find?type=4&query=chase", "word": "chase"}, {"id": "959", "link": "/find?type=4&query=chaste", "word": "chaste"}, {"id": "960", "link": "/find?type=4&query=chasten", "word": "chasten"}, {"id": "961", "link": "/find?type=4&query=chastise", "word": "chastise"}, {"id": "962", "link": "/find?type=4&query=chastity", "word": "chastity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4635",
+                "link": "/find?type=3&query=chassis",
+                "word": "chassis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14563",
+                "link": "/find?type=1&query=chasse",
+                "word": "chasse"
+            },
+            {
+                "id": "14564",
+                "link": "/find?type=1&query=chass%C3%A9",
+                "word": "chass\u00e9"
+            },
+            {
+                "id": "14565",
+                "link": "/find?type=1&query=chassepot",
+                "word": "chassepot"
+            },
+            {
+                "id": "14566",
+                "link": "/find?type=1&query=chasseur",
+                "word": "chasseur"
+            },
+            {
+                "id": "14567",
+                "link": "/find?type=1&query=chassis",
+                "word": "chassis"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "958",
+                "link": "/find?type=4&query=chase",
+                "word": "chase"
+            },
+            {
+                "id": "959",
+                "link": "/find?type=4&query=chaste",
+                "word": "chaste"
+            },
+            {
+                "id": "960",
+                "link": "/find?type=4&query=chasten",
+                "word": "chasten"
+            },
+            {
+                "id": "961",
+                "link": "/find?type=4&query=chastise",
+                "word": "chastise"
+            },
+            {
+                "id": "962",
+                "link": "/find?type=4&query=chastity",
+                "word": "chastity"
+            }
+        ]
+    }
+}
