@@ -1,1 +1,85 @@
-{"en_vn": {"suggests": [{"id": "25452", "link": "/find?type=1&query=Dillon+Round", "word": "Dillon Round"}, {"id": "25452", "link": "/find?type=1&query=dilly", "word": "dilly"}, {"id": "25452", "link": "/find?type=1&query=dilly-dally", "word": "dilly-dally"}], "data": {"word": "dill", "id": "25452", "pronounce": "/dil/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y th\u00ec l\u00e0</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f7509ec2bb07c997cb5c3fbd13ec0fdb/16e5e07d10e/D/dill.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5cd9fd49b05430501b0adb1024addf1c/16e5e07d6dd/D/dill.mp3"}}}, "en_en": {"suggests": [{"id": "8003", "link": "/find?type=3&query=dill+pickle", "word": "dill pickle"}, {"id": "8003", "link": "/find?type=3&query=dillydally", "word": "dillydally"}], "data": {"word": "dill", "id": "8003", "pronounce": "/\u02c8d\u026al/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :an herb with leaves that are used in cooking and with seeds that are used in flavoring foods such as pickles - called also (US) dill weed</div>\n    \n    <div class=\"green margin25 m-top15\">see color picture</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1673", "link": "/find?type=4&query=dilapidated", "word": "dilapidated"}, {"id": "1674", "link": "/find?type=4&query=dilemma", "word": "dilemma"}, {"id": "1675", "link": "/find?type=4&query=dilettante", "word": "dilettante"}, {"id": "1676", "link": "/find?type=4&query=diligent", "word": "diligent"}, {"id": "1677", "link": "/find?type=4&query=dilute", "word": "dilute"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :an herb with leaves that are used in cooking and with seeds that are used in flavoring foods such as pickles - called also (US) dill weed</div>\n    \n    <div class=\"green margin25 m-top15\">see color picture</div>",
+            "id": "8003",
+            "mean": [],
+            "pronounce": "/\u02c8d\u026al/",
+            "type": "noun",
+            "word": "dill"
+        },
+        "suggests": [
+            {
+                "id": "8003",
+                "link": "/find?type=3&query=dill+pickle",
+                "word": "dill pickle"
+            },
+            {
+                "id": "8003",
+                "link": "/find?type=3&query=dillydally",
+                "word": "dillydally"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y th\u00ec l\u00e0</div>",
+            "id": "25452",
+            "mean": [],
+            "pronounce": "/dil/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1029eab501ab5d8854e944a168a1ebf1/16e5ef1d274/D/dill.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/40010ee840220e871430db69352b737f/16e5ef1c955/D/dill.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "dill"
+        },
+        "suggests": [
+            {
+                "id": "25452",
+                "link": "/find?type=1&query=Dillon+Round",
+                "word": "Dillon Round"
+            },
+            {
+                "id": "25452",
+                "link": "/find?type=1&query=dilly",
+                "word": "dilly"
+            },
+            {
+                "id": "25452",
+                "link": "/find?type=1&query=dilly-dally",
+                "word": "dilly-dally"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1673",
+                "link": "/find?type=4&query=dilapidated",
+                "word": "dilapidated"
+            },
+            {
+                "id": "1674",
+                "link": "/find?type=4&query=dilemma",
+                "word": "dilemma"
+            },
+            {
+                "id": "1675",
+                "link": "/find?type=4&query=dilettante",
+                "word": "dilettante"
+            },
+            {
+                "id": "1676",
+                "link": "/find?type=4&query=diligent",
+                "word": "diligent"
+            },
+            {
+                "id": "1677",
+                "link": "/find?type=4&query=dilute",
+                "word": "dilute"
+            }
+        ]
+    }
+}

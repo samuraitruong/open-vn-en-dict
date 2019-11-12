@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "28306", "link": "/find?type=1&query=dynastic", "word": "dynastic"}, {"id": "28306", "link": "/find?type=1&query=dynasty", "word": "dynasty"}], "data": {"word": "dynast", "id": "28306", "pronounce": "/'din\u0259st/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tr\u1ecb v\u00ec vua (c\u1ee7a m\u1ed9t tri\u1ec1u \u0111\u1ea1i)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9085", "link": "/find?type=3&query=dynasty", "word": "dynasty"}], "data": {}}, "synonyms": {"suggests": [{"id": "1991", "link": "/find?type=4&query=dynasty", "word": "dynasty"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9085",
+                "link": "/find?type=3&query=dynasty",
+                "word": "dynasty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tr\u1ecb v\u00ec vua (c\u1ee7a m\u1ed9t tri\u1ec1u \u0111\u1ea1i)</div>",
+            "id": "28306",
+            "mean": [],
+            "pronounce": "/'din\u0259st/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "dynast"
+        },
+        "suggests": [
+            {
+                "id": "28306",
+                "link": "/find?type=1&query=dynastic",
+                "word": "dynastic"
+            },
+            {
+                "id": "28306",
+                "link": "/find?type=1&query=dynasty",
+                "word": "dynasty"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1991",
+                "link": "/find?type=4&query=dynasty",
+                "word": "dynasty"
+            }
+        ]
+    }
+}

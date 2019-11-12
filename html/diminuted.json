@@ -1,1 +1,62 @@
-{"en_vn": {"suggests": [{"id": "25493", "link": "/find?type=1&query=diminution", "word": "diminution"}, {"id": "25494", "link": "/find?type=1&query=diminutival", "word": "diminutival"}, {"id": "25495", "link": "/find?type=1&query=diminutival", "word": "diminutival"}, {"id": "25496", "link": "/find?type=1&query=diminutive", "word": "diminutive"}, {"id": "25497", "link": "/find?type=1&query=diminutively", "word": "diminutively"}, {"id": "25498", "link": "/find?type=1&query=diminutiveness", "word": "diminutiveness"}], "data": {}}, "en_en": {"suggests": [{"id": "8015", "link": "/find?type=3&query=diminution", "word": "diminution"}, {"id": "8016", "link": "/find?type=3&query=diminutive", "word": "diminutive"}], "data": {}}, "synonyms": {"suggests": [{"id": "1680", "link": "/find?type=4&query=diminutive", "word": "diminutive"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8015",
+                "link": "/find?type=3&query=diminution",
+                "word": "diminution"
+            },
+            {
+                "id": "8016",
+                "link": "/find?type=3&query=diminutive",
+                "word": "diminutive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25493",
+                "link": "/find?type=1&query=diminution",
+                "word": "diminution"
+            },
+            {
+                "id": "25494",
+                "link": "/find?type=1&query=diminutival",
+                "word": "diminutival"
+            },
+            {
+                "id": "25495",
+                "link": "/find?type=1&query=diminutival",
+                "word": "diminutival"
+            },
+            {
+                "id": "25496",
+                "link": "/find?type=1&query=diminutive",
+                "word": "diminutive"
+            },
+            {
+                "id": "25497",
+                "link": "/find?type=1&query=diminutively",
+                "word": "diminutively"
+            },
+            {
+                "id": "25498",
+                "link": "/find?type=1&query=diminutiveness",
+                "word": "diminutiveness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1680",
+                "link": "/find?type=4&query=diminutive",
+                "word": "diminutive"
+            }
+        ]
+    }
+}

@@ -1,1 +1,107 @@
-{"en_vn": {"suggests": [{"id": "28268", "link": "/find?type=1&query=dynamic", "word": "dynamic"}, {"id": "28269", "link": "/find?type=1&query=dynamic+address+translation", "word": "dynamic address translation"}, {"id": "28270", "link": "/find?type=1&query=dynamic+allocation", "word": "dynamic allocation"}, {"id": "28271", "link": "/find?type=1&query=dynamic+allocation+interface+routine+%28DAIR%29", "word": "dynamic allocation interface routine (DAIR)"}, {"id": "28272", "link": "/find?type=1&query=dynamic+data+exchange+%28%C4%90E%29", "word": "dynamic data exchange (\u0110E)"}, {"id": "28273", "link": "/find?type=1&query=dynamic+device+reconfiguration", "word": "dynamic device reconfiguration"}, {"id": "28274", "link": "/find?type=1&query=Dynamic+economics", "word": "Dynamic economics"}, {"id": "28275", "link": "/find?type=1&query=dynamic+element", "word": "dynamic element"}, {"id": "28276", "link": "/find?type=1&query=Dynamic+externalities", "word": "Dynamic externalities"}, {"id": "28277", "link": "/find?type=1&query=dynamic+link+library+%28DLL%29", "word": "dynamic link library (DLL)"}], "data": {}}, "en_en": {"suggests": [{"id": "9081", "link": "/find?type=3&query=dynamic", "word": "dynamic"}, {"id": "9082", "link": "/find?type=3&query=dynamism", "word": "dynamism"}, {"id": "9083", "link": "/find?type=3&query=dynamite", "word": "dynamite"}, {"id": "9084", "link": "/find?type=3&query=dynamo", "word": "dynamo"}, {"id": "9085", "link": "/find?type=3&query=dynasty", "word": "dynasty"}], "data": {}}, "synonyms": {"suggests": [{"id": "1989", "link": "/find?type=4&query=dynamic", "word": "dynamic"}, {"id": "1990", "link": "/find?type=4&query=dynamism", "word": "dynamism"}, {"id": "1991", "link": "/find?type=4&query=dynasty", "word": "dynasty"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9081",
+                "link": "/find?type=3&query=dynamic",
+                "word": "dynamic"
+            },
+            {
+                "id": "9082",
+                "link": "/find?type=3&query=dynamism",
+                "word": "dynamism"
+            },
+            {
+                "id": "9083",
+                "link": "/find?type=3&query=dynamite",
+                "word": "dynamite"
+            },
+            {
+                "id": "9084",
+                "link": "/find?type=3&query=dynamo",
+                "word": "dynamo"
+            },
+            {
+                "id": "9085",
+                "link": "/find?type=3&query=dynasty",
+                "word": "dynasty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28268",
+                "link": "/find?type=1&query=dynamic",
+                "word": "dynamic"
+            },
+            {
+                "id": "28269",
+                "link": "/find?type=1&query=dynamic+address+translation",
+                "word": "dynamic address translation"
+            },
+            {
+                "id": "28270",
+                "link": "/find?type=1&query=dynamic+allocation",
+                "word": "dynamic allocation"
+            },
+            {
+                "id": "28271",
+                "link": "/find?type=1&query=dynamic+allocation+interface+routine+%28DAIR%29",
+                "word": "dynamic allocation interface routine (DAIR)"
+            },
+            {
+                "id": "28272",
+                "link": "/find?type=1&query=dynamic+data+exchange+%28%C4%90E%29",
+                "word": "dynamic data exchange (\u0110E)"
+            },
+            {
+                "id": "28273",
+                "link": "/find?type=1&query=dynamic+device+reconfiguration",
+                "word": "dynamic device reconfiguration"
+            },
+            {
+                "id": "28274",
+                "link": "/find?type=1&query=Dynamic+economics",
+                "word": "Dynamic economics"
+            },
+            {
+                "id": "28275",
+                "link": "/find?type=1&query=dynamic+element",
+                "word": "dynamic element"
+            },
+            {
+                "id": "28276",
+                "link": "/find?type=1&query=Dynamic+externalities",
+                "word": "Dynamic externalities"
+            },
+            {
+                "id": "28277",
+                "link": "/find?type=1&query=dynamic+link+library+%28DLL%29",
+                "word": "dynamic link library (DLL)"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1989",
+                "link": "/find?type=4&query=dynamic",
+                "word": "dynamic"
+            },
+            {
+                "id": "1990",
+                "link": "/find?type=4&query=dynamism",
+                "word": "dynamism"
+            },
+            {
+                "id": "1991",
+                "link": "/find?type=4&query=dynasty",
+                "word": "dynasty"
+            }
+        ]
+    }
+}
