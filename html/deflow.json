@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "23534", "link": "/find?type=1&query=deflower", "word": "deflower"}, {"id": "23535", "link": "/find?type=1&query=deflowerer", "word": "deflowerer"}, {"id": "23536", "link": "/find?type=1&query=deflowering", "word": "deflowering"}], "data": {}}, "en_en": {"suggests": [{"id": "7510", "link": "/find?type=3&query=deflower", "word": "deflower"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7510",
+                "link": "/find?type=3&query=deflower",
+                "word": "deflower"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23534",
+                "link": "/find?type=1&query=deflower",
+                "word": "deflower"
+            },
+            {
+                "id": "23535",
+                "link": "/find?type=1&query=deflowerer",
+                "word": "deflowerer"
+            },
+            {
+                "id": "23536",
+                "link": "/find?type=1&query=deflowering",
+                "word": "deflowering"
+            }
+        ]
+    }
+}
