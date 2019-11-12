@@ -1,1 +1,32 @@
-{"error": 0, "query": "incivil", "enViData": {"suggests": [{"id": "47198", "link": "/find?type=1&query=incivility", "word": "incivility"}]}, "mUrl": "/find?type=1&query=incivil", "enEnData": {"suggests": [{"id": "14636", "link": "/find?type=3&query=incivility", "word": "incivility"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3615", "link": "/find?type=4&query=incivility", "word": "incivility"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14636",
+                "link": "/find?type=3&query=incivility",
+                "word": "incivility"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47198",
+                "link": "/find?type=1&query=incivility",
+                "word": "incivility"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3615",
+                "link": "/find?type=4&query=incivility",
+                "word": "incivility"
+            }
+        ]
+    }
+}

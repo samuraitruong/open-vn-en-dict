@@ -1,1 +1,27 @@
-{"error": 0, "query": "incend", "enViData": {"suggests": [{"id": "47138", "link": "/find?type=1&query=incendiarism", "word": "incendiarism"}, {"id": "47139", "link": "/find?type=1&query=incendiary", "word": "incendiary"}]}, "mUrl": "/find?type=1&query=incend", "enEnData": {"suggests": [{"id": "14615", "link": "/find?type=3&query=incendiary", "word": "incendiary"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14615",
+                "link": "/find?type=3&query=incendiary",
+                "word": "incendiary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47138",
+                "link": "/find?type=1&query=incendiarism",
+                "word": "incendiarism"
+            },
+            {
+                "id": "47139",
+                "link": "/find?type=1&query=incendiary",
+                "word": "incendiary"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"error": 0, "query": "incohering", "enViData": {"suggests": [{"id": "47237", "link": "/find?type=1&query=incoherence", "word": "incoherence"}, {"id": "47238", "link": "/find?type=1&query=incoherency", "word": "incoherency"}, {"id": "47239", "link": "/find?type=1&query=incoherent", "word": "incoherent"}, {"id": "47240", "link": "/find?type=1&query=incoherently", "word": "incoherently"}, {"id": "47241", "link": "/find?type=1&query=incoherentness", "word": "incoherentness"}]}, "mUrl": "/find?type=1&query=incohering", "enEnData": {"suggests": [{"id": "14647", "link": "/find?type=3&query=incoherent", "word": "incoherent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3624", "link": "/find?type=4&query=incoherent", "word": "incoherent"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14647",
+                "link": "/find?type=3&query=incoherent",
+                "word": "incoherent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47237",
+                "link": "/find?type=1&query=incoherence",
+                "word": "incoherence"
+            },
+            {
+                "id": "47238",
+                "link": "/find?type=1&query=incoherency",
+                "word": "incoherency"
+            },
+            {
+                "id": "47239",
+                "link": "/find?type=1&query=incoherent",
+                "word": "incoherent"
+            },
+            {
+                "id": "47240",
+                "link": "/find?type=1&query=incoherently",
+                "word": "incoherently"
+            },
+            {
+                "id": "47241",
+                "link": "/find?type=1&query=incoherentness",
+                "word": "incoherentness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3624",
+                "link": "/find?type=4&query=incoherent",
+                "word": "incoherent"
+            }
+        ]
+    }
+}

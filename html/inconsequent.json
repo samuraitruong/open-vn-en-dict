@@ -1,1 +1,65 @@
-{"error": 0, "query": "inconsequent", "enViData": {"suggests": [{"id": "47358", "link": "/find?type=1&query=inconsequentia", "word": "inconsequentia"}, {"id": "47358", "link": "/find?type=1&query=inconsequential", "word": "inconsequential"}, {"id": "47358", "link": "/find?type=1&query=inconsequentiality", "word": "inconsequentiality"}, {"id": "47358", "link": "/find?type=1&query=inconsequentially", "word": "inconsequentially"}, {"id": "47358", "link": "/find?type=1&query=inconsequently", "word": "inconsequently"}, {"id": "47358", "link": "/find?type=1&query=inconsequentness", "word": "inconsequentness"}], "best": {"id": "47358", "details": "\n<div id=\"find_word_47358\" class=\"world word_en\" rel=\"inconsequent\">\n    <h2 class=\"fl\">inconsequent <span class=\"color-black\">/in'k\u0252nsikw\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"47358\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"47358\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng l\u00f4gic</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 inconsequential</div>\n    \n</div>\n", "link": "/find?type=1&query=inconsequent", "word": "inconsequent"}}, "mUrl": "/find?type=1&query=inconsequent", "enEnData": {"suggests": [{"id": "14664", "link": "/find?type=3&query=inconsequential", "word": "inconsequential"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3637", "link": "/find?type=4&query=inconsequential", "word": "inconsequential"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14664",
+                "link": "/find?type=3&query=inconsequential",
+                "word": "inconsequential"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng l\u00f4gic</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 inconsequential</div>",
+            "id": "47358",
+            "mean": [],
+            "pronounce": "/in'k\u0252nsikw\u0259nt/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "inconsequent"
+        },
+        "suggests": [
+            {
+                "id": "47358",
+                "link": "/find?type=1&query=inconsequentia",
+                "word": "inconsequentia"
+            },
+            {
+                "id": "47358",
+                "link": "/find?type=1&query=inconsequential",
+                "word": "inconsequential"
+            },
+            {
+                "id": "47358",
+                "link": "/find?type=1&query=inconsequentiality",
+                "word": "inconsequentiality"
+            },
+            {
+                "id": "47358",
+                "link": "/find?type=1&query=inconsequentially",
+                "word": "inconsequentially"
+            },
+            {
+                "id": "47358",
+                "link": "/find?type=1&query=inconsequently",
+                "word": "inconsequently"
+            },
+            {
+                "id": "47358",
+                "link": "/find?type=1&query=inconsequentness",
+                "word": "inconsequentness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3637",
+                "link": "/find?type=4&query=inconsequential",
+                "word": "inconsequential"
+            }
+        ]
+    }
+}
