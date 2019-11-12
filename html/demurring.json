@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "23987", "link": "/find?type=1&query=demurrer", "word": "demurrer"}], "data": {}}, "en_en": {"suggests": [{"id": "7634", "link": "/find?type=3&query=demurral", "word": "demurral"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7634",
+                "link": "/find?type=3&query=demurral",
+                "word": "demurral"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23987",
+                "link": "/find?type=1&query=demurrer",
+                "word": "demurrer"
+            }
+        ]
+    }
+}
