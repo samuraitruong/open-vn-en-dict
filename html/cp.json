@@ -1,1 +1,95 @@
-{"en_vn": {"suggests": [{"id": "20661", "link": "/find?type=1&query=CP", "word": "CP"}, {"id": "20661", "link": "/find?type=1&query=cpi", "word": "cpi"}, {"id": "20661", "link": "/find?type=1&query=Cpl", "word": "Cpl"}, {"id": "20661", "link": "/find?type=1&query=cpm", "word": "cpm"}, {"id": "20661", "link": "/find?type=1&query=CPRS", "word": "CPRS"}, {"id": "20661", "link": "/find?type=1&query=cps", "word": "cps"}, {"id": "20661", "link": "/find?type=1&query=cpu", "word": "cpu"}, {"id": "20661", "link": "/find?type=1&query=CPU+%28central+processing+unit%29", "word": "CPU (central processing unit)"}, {"id": "20661", "link": "/find?type=1&query=CPU+time", "word": "CPU time"}], "data": {"word": "cp", "id": "20661", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a compare)</div>\n    \n    <div class=\"green margin25 m-top15\">so s\u00e1nh</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6592", "link": "/find?type=3&query=CPA", "word": "CPA"}, {"id": "6593", "link": "/find?type=3&query=CPI", "word": "CPI"}, {"id": "6594", "link": "/find?type=3&query=Cpl.", "word": "Cpl."}, {"id": "6595", "link": "/find?type=3&query=CPR", "word": "CPR"}, {"id": "6596", "link": "/find?type=3&query=Cpt.", "word": "Cpt."}, {"id": "6597", "link": "/find?type=3&query=CPU", "word": "CPU"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6592",
+                "link": "/find?type=3&query=CPA",
+                "word": "CPA"
+            },
+            {
+                "id": "6593",
+                "link": "/find?type=3&query=CPI",
+                "word": "CPI"
+            },
+            {
+                "id": "6594",
+                "link": "/find?type=3&query=Cpl.",
+                "word": "Cpl."
+            },
+            {
+                "id": "6595",
+                "link": "/find?type=3&query=CPR",
+                "word": "CPR"
+            },
+            {
+                "id": "6596",
+                "link": "/find?type=3&query=Cpt.",
+                "word": "Cpt."
+            },
+            {
+                "id": "6597",
+                "link": "/find?type=3&query=CPU",
+                "word": "CPU"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a compare)</div>\n    \n    <div class=\"green margin25 m-top15\">so s\u00e1nh</div>",
+            "id": "20661",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cp"
+        },
+        "suggests": [
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=CP",
+                "word": "CP"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=cpi",
+                "word": "cpi"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=Cpl",
+                "word": "Cpl"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=cpm",
+                "word": "cpm"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=CPRS",
+                "word": "CPRS"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=cps",
+                "word": "cps"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=cpu",
+                "word": "cpu"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=CPU+%28central+processing+unit%29",
+                "word": "CPU (central processing unit)"
+            },
+            {
+                "id": "20661",
+                "link": "/find?type=1&query=CPU+time",
+                "word": "CPU time"
+            }
+        ]
+    }
+}

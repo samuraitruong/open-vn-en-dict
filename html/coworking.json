@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "20627", "link": "/find?type=1&query=coworker", "word": "coworker"}], "data": {}}, "en_en": {"suggests": [{"id": "6579", "link": "/find?type=3&query=coworker", "word": "coworker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6579",
+                "link": "/find?type=3&query=coworker",
+                "word": "coworker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20627",
+                "link": "/find?type=1&query=coworker",
+                "word": "coworker"
+            }
+        ]
+    }
+}

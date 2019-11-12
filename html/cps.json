@@ -1,1 +1,49 @@
-{"en_vn": {"suggests": [], "data": {"word": "cps", "id": "20666", "pronounce": "/,si:pi:'es/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c c/s) (v\u1eadt l\u00fd) (vi\u1ebft t\u1eaft c\u1ee7a cyles per second)</div>\n    \n    <div class=\"green margin25 m-top15\">chu k\u1ef3/gi\u00e2y</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "6592", "link": "/find?type=3&query=CPA", "word": "CPA"}, {"id": "6593", "link": "/find?type=3&query=CPI", "word": "CPI"}, {"id": "6594", "link": "/find?type=3&query=Cpl.", "word": "Cpl."}, {"id": "6595", "link": "/find?type=3&query=CPR", "word": "CPR"}, {"id": "6596", "link": "/find?type=3&query=Cpt.", "word": "Cpt."}, {"id": "6597", "link": "/find?type=3&query=CPU", "word": "CPU"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6592",
+                "link": "/find?type=3&query=CPA",
+                "word": "CPA"
+            },
+            {
+                "id": "6593",
+                "link": "/find?type=3&query=CPI",
+                "word": "CPI"
+            },
+            {
+                "id": "6594",
+                "link": "/find?type=3&query=Cpl.",
+                "word": "Cpl."
+            },
+            {
+                "id": "6595",
+                "link": "/find?type=3&query=CPR",
+                "word": "CPR"
+            },
+            {
+                "id": "6596",
+                "link": "/find?type=3&query=Cpt.",
+                "word": "Cpt."
+            },
+            {
+                "id": "6597",
+                "link": "/find?type=3&query=CPU",
+                "word": "CPU"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c c/s) (v\u1eadt l\u00fd) (vi\u1ebft t\u1eaft c\u1ee7a cyles per second)</div>\n    \n    <div class=\"green margin25 m-top15\">chu k\u1ef3/gi\u00e2y</div>",
+            "id": "20666",
+            "mean": [],
+            "pronounce": "/,si:pi:'es/",
+            "speak": {},
+            "type": "",
+            "word": "cps"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "20667", "link": "/find?type=1&query=CPU+%28central+processing+unit%29", "word": "CPU (central processing unit)"}, {"id": "20667", "link": "/find?type=1&query=CPU+time", "word": "CPU time"}], "data": {"word": "cpu", "id": "20667", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">\u0110\u01a1n v\u1ecb x\u1eed l\u00fd trung t\u00e2m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "CPU", "id": "6597", "pronounce": "/\u02ccsi\u02d0\u02ccpi\u02d0\u02c8ju\u02d0/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural CPUs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] computers :the part of a computer system that performs the computer's main functions and controls the other parts of the system - called also processor</div>\n    \n    <div class=\"green margin25 m-top15\">CPU is an abbreviation for central processing unit.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural CPUs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] computers :the part of a computer system that performs the computer's main functions and controls the other parts of the system - called also processor</div>\n    \n    <div class=\"green margin25 m-top15\">CPU is an abbreviation for central processing unit.</div>",
+            "id": "6597",
+            "mean": [],
+            "pronounce": "/\u02ccsi\u02d0\u02ccpi\u02d0\u02c8ju\u02d0/",
+            "type": "noun",
+            "word": "CPU"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u0110\u01a1n v\u1ecb x\u1eed l\u00fd trung t\u00e2m</div>",
+            "id": "20667",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "cpu"
+        },
+        "suggests": [
+            {
+                "id": "20667",
+                "link": "/find?type=1&query=CPU+%28central+processing+unit%29",
+                "word": "CPU (central processing unit)"
+            },
+            {
+                "id": "20667",
+                "link": "/find?type=1&query=CPU+time",
+                "word": "CPU time"
+            }
+        ]
+    }
+}
