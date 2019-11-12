@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "36", "link": "/find?type=1&query=AAA", "word": "AAA"}, {"id": "36", "link": "/find?type=1&query=aard-wolf", "word": "aard-wolf"}, {"id": "36", "link": "/find?type=1&query=aardvark", "word": "aardvark"}, {"id": "36", "link": "/find?type=1&query=aasvogel", "word": "aasvogel"}], "data": {"word": "AA", "id": "36", "pronounce": "/,eiei'/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Alcoholic Anonymous) h\u1ed9i cai r\u01b0\u1ee3u</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Automobile Association) H\u1ed9i xe h\u01a1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">members of the AA</div>\n    \n    <div class=\"margin25\">h\u1ed9i vi\u00ean H\u1ed9i xe h\u01a1i</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/527d94894b937142f707b6bc1f14af17/16e5db3f0ba/A/AA.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/cf1d10fd1a63f5bb76aad6193f2def81/16e5db3f91e/A/AA.mp3"}}}, "en_en": {"suggests": [{"id": "18", "link": "/find?type=3&query=AAA", "word": "AAA"}, {"id": "18", "link": "/find?type=3&query=aah", "word": "aah"}, {"id": "18", "link": "/find?type=3&query=aardvark", "word": "aardvark"}, {"id": "18", "link": "/find?type=3&query=AARP", "word": "AARP"}], "data": {"word": "AA", "id": "18", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Alcoholics Anonymous</div>\n    \n    <div class=\"green margin25 m-top15\">Brit Automobile Association</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Alcoholics Anonymous</div>\n    \n    <div class=\"green margin25 m-top15\">Brit Automobile Association</div>",
+            "id": "18",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "AA"
+        },
+        "suggests": [
+            {
+                "id": "18",
+                "link": "/find?type=3&query=AAA",
+                "word": "AAA"
+            },
+            {
+                "id": "18",
+                "link": "/find?type=3&query=aah",
+                "word": "aah"
+            },
+            {
+                "id": "18",
+                "link": "/find?type=3&query=aardvark",
+                "word": "aardvark"
+            },
+            {
+                "id": "18",
+                "link": "/find?type=3&query=AARP",
+                "word": "AARP"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Alcoholic Anonymous) h\u1ed9i cai r\u01b0\u1ee3u</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Automobile Association) H\u1ed9i xe h\u01a1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">members of the AA</div>\n    \n    <div class=\"margin25\">h\u1ed9i vi\u00ean H\u1ed9i xe h\u01a1i</div>",
+            "id": "36",
+            "mean": [],
+            "pronounce": "/,eiei'/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ad20d2f84d18fe897e28e9e33327f200/16e5e9e08cf/A/AA.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b1ef9e326e1440f2bb6465e6c0acf315/16e5e9e0047/A/AA.mp3"
+            },
+            "type": "",
+            "word": "AA"
+        },
+        "suggests": [
+            {
+                "id": "36",
+                "link": "/find?type=1&query=AAA",
+                "word": "AAA"
+            },
+            {
+                "id": "36",
+                "link": "/find?type=1&query=aard-wolf",
+                "word": "aard-wolf"
+            },
+            {
+                "id": "36",
+                "link": "/find?type=1&query=aardvark",
+                "word": "aardvark"
+            },
+            {
+                "id": "36",
+                "link": "/find?type=1&query=aasvogel",
+                "word": "aasvogel"
+            }
+        ]
+    }
+}

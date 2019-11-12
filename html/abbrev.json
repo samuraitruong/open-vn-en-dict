@@ -1,1 +1,67 @@
-{"en_vn": {"suggests": [{"id": "88", "link": "/find?type=1&query=abbreviate", "word": "abbreviate"}, {"id": "89", "link": "/find?type=1&query=abbreviated", "word": "abbreviated"}, {"id": "90", "link": "/find?type=1&query=abbreviated+address", "word": "abbreviated address"}, {"id": "91", "link": "/find?type=1&query=abbreviation", "word": "abbreviation"}, {"id": "92", "link": "/find?type=1&query=abbreviator", "word": "abbreviator"}], "data": {}}, "en_en": {"suggests": [{"id": "38", "link": "/find?type=3&query=abbreviate", "word": "abbreviate"}, {"id": "39", "link": "/find?type=3&query=abbreviation", "word": "abbreviation"}], "data": {}}, "synonyms": {"suggests": [{"id": "3", "link": "/find?type=4&query=abbreviate", "word": "abbreviate"}, {"id": "4", "link": "/find?type=4&query=abbreviated", "word": "abbreviated"}, {"id": "5", "link": "/find?type=4&query=abbreviation", "word": "abbreviation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38",
+                "link": "/find?type=3&query=abbreviate",
+                "word": "abbreviate"
+            },
+            {
+                "id": "39",
+                "link": "/find?type=3&query=abbreviation",
+                "word": "abbreviation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "88",
+                "link": "/find?type=1&query=abbreviate",
+                "word": "abbreviate"
+            },
+            {
+                "id": "89",
+                "link": "/find?type=1&query=abbreviated",
+                "word": "abbreviated"
+            },
+            {
+                "id": "90",
+                "link": "/find?type=1&query=abbreviated+address",
+                "word": "abbreviated address"
+            },
+            {
+                "id": "91",
+                "link": "/find?type=1&query=abbreviation",
+                "word": "abbreviation"
+            },
+            {
+                "id": "92",
+                "link": "/find?type=1&query=abbreviator",
+                "word": "abbreviator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3",
+                "link": "/find?type=4&query=abbreviate",
+                "word": "abbreviate"
+            },
+            {
+                "id": "4",
+                "link": "/find?type=4&query=abbreviated",
+                "word": "abbreviated"
+            },
+            {
+                "id": "5",
+                "link": "/find?type=4&query=abbreviation",
+                "word": "abbreviation"
+            }
+        ]
+    }
+}

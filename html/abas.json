@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "42", "link": "/find?type=1&query=abac%2C+abacus", "word": "abac, abacus"}, {"id": "42", "link": "/find?type=1&query=abaca", "word": "abaca"}, {"id": "42", "link": "/find?type=1&query=abaci", "word": "abaci"}, {"id": "42", "link": "/find?type=1&query=abacist", "word": "abacist"}, {"id": "42", "link": "/find?type=1&query=aback", "word": "aback"}, {"id": "42", "link": "/find?type=1&query=abacterial", "word": "abacterial"}, {"id": "42", "link": "/find?type=1&query=abaction", "word": "abaction"}, {"id": "42", "link": "/find?type=1&query=abactus", "word": "abactus"}, {"id": "42", "link": "/find?type=1&query=abacus", "word": "abacus"}], "data": {"word": "aba", "id": "42", "pronounce": "/'\u0251:b\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o aba (\u00e1o ngo\u00e0i gi\u1ed1ng h\u00ecnh c\u00e1i t\u00fai ng\u01b0\u1eddi A-R\u1eadp)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "30", "link": "/find?type=3&query=abase", "word": "abase"}, {"id": "31", "link": "/find?type=3&query=abashed", "word": "abashed"}], "data": {}}, "synonyms": {"suggests": [{"id": "1", "link": "/find?type=4&query=abandon", "word": "abandon"}, {"id": "2", "link": "/find?type=4&query=abandoned", "word": "abandoned"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30",
+                "link": "/find?type=3&query=abase",
+                "word": "abase"
+            },
+            {
+                "id": "31",
+                "link": "/find?type=3&query=abashed",
+                "word": "abashed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1o aba (\u00e1o ngo\u00e0i gi\u1ed1ng h\u00ecnh c\u00e1i t\u00fai ng\u01b0\u1eddi A-R\u1eadp)</div>",
+            "id": "42",
+            "mean": [],
+            "pronounce": "/'\u0251:b\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "aba"
+        },
+        "suggests": [
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abac%2C+abacus",
+                "word": "abac, abacus"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abaca",
+                "word": "abaca"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abaci",
+                "word": "abaci"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abacist",
+                "word": "abacist"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=aback",
+                "word": "aback"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abacterial",
+                "word": "abacterial"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abaction",
+                "word": "abaction"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abactus",
+                "word": "abactus"
+            },
+            {
+                "id": "42",
+                "link": "/find?type=1&query=abacus",
+                "word": "abacus"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1",
+                "link": "/find?type=4&query=abandon",
+                "word": "abandon"
+            },
+            {
+                "id": "2",
+                "link": "/find?type=4&query=abandoned",
+                "word": "abandoned"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "101", "link": "/find?type=1&query=abdomen", "word": "abdomen"}, {"id": "102", "link": "/find?type=1&query=abdominal", "word": "abdominal"}, {"id": "103", "link": "/find?type=1&query=abdominally", "word": "abdominally"}, {"id": "104", "link": "/find?type=1&query=abdominous", "word": "abdominous"}], "data": {}}, "en_en": {"suggests": [{"id": "42", "link": "/find?type=3&query=abdomen", "word": "abdomen"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42",
+                "link": "/find?type=3&query=abdomen",
+                "word": "abdomen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "101",
+                "link": "/find?type=1&query=abdomen",
+                "word": "abdomen"
+            },
+            {
+                "id": "102",
+                "link": "/find?type=1&query=abdominal",
+                "word": "abdominal"
+            },
+            {
+                "id": "103",
+                "link": "/find?type=1&query=abdominally",
+                "word": "abdominally"
+            },
+            {
+                "id": "104",
+                "link": "/find?type=1&query=abdominous",
+                "word": "abdominous"
+            }
+        ]
+    }
+}

@@ -1,1 +1,115 @@
-{"en_vn": {"suggests": [{"id": "80", "link": "/find?type=1&query=abbacy", "word": "abbacy"}, {"id": "80", "link": "/find?type=1&query=abbatial", "word": "abbatial"}, {"id": "80", "link": "/find?type=1&query=abbess", "word": "abbess"}, {"id": "80", "link": "/find?type=1&query=abbey", "word": "abbey"}, {"id": "80", "link": "/find?type=1&query=abbo", "word": "abbo"}, {"id": "80", "link": "/find?type=1&query=abbot", "word": "abbot"}, {"id": "80", "link": "/find?type=1&query=abbr", "word": "abbr"}, {"id": "80", "link": "/find?type=1&query=abbreviate", "word": "abbreviate"}, {"id": "80", "link": "/find?type=1&query=abbreviated", "word": "abbreviated"}], "data": {"word": "abb", "id": "80", "pronounce": "/\u00e6b/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ngh\u00e0nh d\u1ec7t)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ee3i canh, s\u1ee3i kh\u1ed5 (c\u1ee7a t\u1ea5m v\u1ea3i)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "34", "link": "/find?type=3&query=abbess", "word": "abbess"}, {"id": "35", "link": "/find?type=3&query=abbey", "word": "abbey"}, {"id": "36", "link": "/find?type=3&query=abbot", "word": "abbot"}, {"id": "37", "link": "/find?type=3&query=abbr", "word": "abbr"}, {"id": "38", "link": "/find?type=3&query=abbreviate", "word": "abbreviate"}, {"id": "39", "link": "/find?type=3&query=abbreviation", "word": "abbreviation"}], "data": {}}, "synonyms": {"suggests": [{"id": "3", "link": "/find?type=4&query=abbreviate", "word": "abbreviate"}, {"id": "4", "link": "/find?type=4&query=abbreviated", "word": "abbreviated"}, {"id": "5", "link": "/find?type=4&query=abbreviation", "word": "abbreviation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34",
+                "link": "/find?type=3&query=abbess",
+                "word": "abbess"
+            },
+            {
+                "id": "35",
+                "link": "/find?type=3&query=abbey",
+                "word": "abbey"
+            },
+            {
+                "id": "36",
+                "link": "/find?type=3&query=abbot",
+                "word": "abbot"
+            },
+            {
+                "id": "37",
+                "link": "/find?type=3&query=abbr",
+                "word": "abbr"
+            },
+            {
+                "id": "38",
+                "link": "/find?type=3&query=abbreviate",
+                "word": "abbreviate"
+            },
+            {
+                "id": "39",
+                "link": "/find?type=3&query=abbreviation",
+                "word": "abbreviation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ngh\u00e0nh d\u1ec7t)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ee3i canh, s\u1ee3i kh\u1ed5 (c\u1ee7a t\u1ea5m v\u1ea3i)</div>",
+            "id": "80",
+            "mean": [],
+            "pronounce": "/\u00e6b/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "abb"
+        },
+        "suggests": [
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbacy",
+                "word": "abbacy"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbatial",
+                "word": "abbatial"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbess",
+                "word": "abbess"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbey",
+                "word": "abbey"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbo",
+                "word": "abbo"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbot",
+                "word": "abbot"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbr",
+                "word": "abbr"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbreviate",
+                "word": "abbreviate"
+            },
+            {
+                "id": "80",
+                "link": "/find?type=1&query=abbreviated",
+                "word": "abbreviated"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3",
+                "link": "/find?type=4&query=abbreviate",
+                "word": "abbreviate"
+            },
+            {
+                "id": "4",
+                "link": "/find?type=4&query=abbreviated",
+                "word": "abbreviated"
+            },
+            {
+                "id": "5",
+                "link": "/find?type=4&query=abbreviation",
+                "word": "abbreviation"
+            }
+        ]
+    }
+}
