@@ -1,1 +1,30 @@
-{"error": 0, "query": "frankfurt", "enViData": {"suggests": [{"id": "37678", "link": "/find?type=1&query=frankfurter", "word": "frankfurter"}], "best": {"id": "37678", "details": "\n<div id=\"find_word_37678\" class=\"world word_en\" rel=\"frankfurt\">\n    <h2 class=\"fl\">frankfurt <span class=\"color-black\">/'fr\u00e6\u0273kf\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"37678\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"37678\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) x\u00fac x\u00edch \u0110\u1ee9c</div>\n    \n</div>\n", "link": "/find?type=1&query=frankfurt", "word": "frankfurt"}}, "mUrl": "/find?type=1&query=frankfurt", "enEnData": {"suggests": [{"id": "11372", "link": "/find?type=3&query=frankfurter", "word": "frankfurter"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11372",
+                "link": "/find?type=3&query=frankfurter",
+                "word": "frankfurter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) x\u00fac x\u00edch \u0110\u1ee9c</div>",
+            "id": "37678",
+            "mean": [],
+            "pronounce": "/'fr\u00e6\u0273kf\u0259t/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "frankfurt"
+        },
+        "suggests": [
+            {
+                "id": "37678",
+                "link": "/find?type=1&query=frankfurter",
+                "word": "frankfurter"
+            }
+        ]
+    }
+}
