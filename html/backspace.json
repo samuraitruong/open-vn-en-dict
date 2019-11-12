@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "7627", "link": "/find?type=1&query=backspace+character", "word": "backspace character"}, {"id": "7627", "link": "/find?type=1&query=backspace+key", "word": "backspace key"}, {"id": "7627", "link": "/find?type=1&query=BACKSPACE+statement", "word": "BACKSPACE statement"}], "data": {"word": "backspace", "id": "7627", "pronounce": "/'b\u00e6kspeis/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea5m l\u00f9i l\u1ea1i (khi \u0111\u00e1nh m\u00e1y)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/28988bb9b53b579a46c10f2772cd94e3/16e5dcf8edf/B/backspace.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/62f8edce543deff61f8fe404eab71acd/16e5dcf9486/B/backspace.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "backspace", "id": "1835", "pronounce": "/\u02c8b\u00e6k\u02ccspe\u026as/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -spaces</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a key that is pressed on a typewriter or computer keyboard to move back toward the beginning of a line of text - usually singular</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">press the backspace</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -spaces</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a key that is pressed on a typewriter or computer keyboard to move back toward the beginning of a line of text - usually singular</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">press the backspace</div>",
+            "id": "1835",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6k\u02ccspe\u026as/",
+            "type": "noun",
+            "word": "backspace"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea5m l\u00f9i l\u1ea1i (khi \u0111\u00e1nh m\u00e1y)</div>",
+            "id": "7627",
+            "mean": [],
+            "pronounce": "/'b\u00e6kspeis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/77b664f8ab6b1d188a46f63762f500d8/16e5eb298f1/B/backspace.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c0e83f7988a51db32505c6fc9a31b697/16e5eb290d0/B/backspace.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "backspace"
+        },
+        "suggests": [
+            {
+                "id": "7627",
+                "link": "/find?type=1&query=backspace+character",
+                "word": "backspace character"
+            },
+            {
+                "id": "7627",
+                "link": "/find?type=1&query=backspace+key",
+                "word": "backspace key"
+            },
+            {
+                "id": "7627",
+                "link": "/find?type=1&query=BACKSPACE+statement",
+                "word": "BACKSPACE statement"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "7509", "link": "/find?type=1&query=bacillary", "word": "bacillary"}, {"id": "7510", "link": "/find?type=1&query=bacilli", "word": "bacilli"}, {"id": "7511", "link": "/find?type=1&query=bacilliform", "word": "bacilliform"}, {"id": "7512", "link": "/find?type=1&query=bacillus", "word": "bacillus"}, {"id": "7513", "link": "/find?type=1&query=bacitracin", "word": "bacitracin"}], "data": {}}, "en_en": {"suggests": [{"id": "1787", "link": "/find?type=3&query=bacillus", "word": "bacillus"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1787",
+                "link": "/find?type=3&query=bacillus",
+                "word": "bacillus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7509",
+                "link": "/find?type=1&query=bacillary",
+                "word": "bacillary"
+            },
+            {
+                "id": "7510",
+                "link": "/find?type=1&query=bacilli",
+                "word": "bacilli"
+            },
+            {
+                "id": "7511",
+                "link": "/find?type=1&query=bacilliform",
+                "word": "bacilliform"
+            },
+            {
+                "id": "7512",
+                "link": "/find?type=1&query=bacillus",
+                "word": "bacillus"
+            },
+            {
+                "id": "7513",
+                "link": "/find?type=1&query=bacitracin",
+                "word": "bacitracin"
+            }
+        ]
+    }
+}

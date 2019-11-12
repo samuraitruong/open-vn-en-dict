@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "7462", "link": "/find?type=1&query=baboonery", "word": "baboonery"}, {"id": "7462", "link": "/find?type=1&query=baboonish", "word": "baboonish"}], "data": {"word": "baboon", "id": "7462", "pronounce": "/b\u0259'bu:n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u1ec9 \u0111\u1ea7u ch\u00f3</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/89be50b437dcaefdb05d85e1f5f5a211/16e5dcf3772/B/baboon.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/0970397777626258b8e9420586e97e58/16e5dcf3d2e/B/baboon.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "baboon", "id": "1773", "pronounce": "/b\u00e6\u02c8bu\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -boons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large African or Asian monkey</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -boons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large African or Asian monkey</div>",
+            "id": "1773",
+            "mean": [],
+            "pronounce": "/b\u00e6\u02c8bu\u02d0n/",
+            "type": "noun",
+            "word": "baboon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u1ec9 \u0111\u1ea7u ch\u00f3</div>",
+            "id": "7462",
+            "mean": [],
+            "pronounce": "/b\u0259'bu:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7531ca81b07bd4da35f9bbb890680017/16e5eb241f9/B/baboon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c0b20dbb65350b1740deae54dbb0230a/16e5eb23c10/B/baboon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "baboon"
+        },
+        "suggests": [
+            {
+                "id": "7462",
+                "link": "/find?type=1&query=baboonery",
+                "word": "baboonery"
+            },
+            {
+                "id": "7462",
+                "link": "/find?type=1&query=baboonish",
+                "word": "baboonish"
+            }
+        ]
+    }
+}

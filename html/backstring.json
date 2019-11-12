@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "7635", "link": "/find?type=1&query=backstreet", "word": "backstreet"}], "data": {}}, "en_en": {"suggests": [{"id": "1842", "link": "/find?type=3&query=backstreet", "word": "backstreet"}, {"id": "1843", "link": "/find?type=3&query=backstretch", "word": "backstretch"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1842",
+                "link": "/find?type=3&query=backstreet",
+                "word": "backstreet"
+            },
+            {
+                "id": "1843",
+                "link": "/find?type=3&query=backstretch",
+                "word": "backstretch"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7635",
+                "link": "/find?type=1&query=backstreet",
+                "word": "backstreet"
+            }
+        ]
+    }
+}

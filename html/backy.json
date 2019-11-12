@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7671", "link": "/find?type=1&query=backyard", "word": "backyard"}], "data": {}}, "en_en": {"suggests": [{"id": "1854", "link": "/find?type=3&query=backyard", "word": "backyard"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1854",
+                "link": "/find?type=3&query=backyard",
+                "word": "backyard"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7671",
+                "link": "/find?type=1&query=backyard",
+                "word": "backyard"
+            }
+        ]
+    }
+}
