@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "8056", "link": "/find?type=1&query=bantam+tube", "word": "bantam tube"}, {"id": "8056", "link": "/find?type=1&query=bantam+weight", "word": "bantam weight"}, {"id": "8056", "link": "/find?type=1&query=bantamweight", "word": "bantamweight"}], "data": {"word": "bantam", "id": "8056", "pronounce": "/'b\u00e6nt\u0259m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e0 ri Bantam (g\u1ed1c \u1edf Java)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/b6b9a1d4796369c6b8f0303f8b6b3e32/16e5dd12154/B/bantam.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a63ef7f4dc7aec09d69002659efeeae4/16e5dd12764/B/bantam.mp3"}}}, "en_en": {"suggests": [{"id": "2014", "link": "/find?type=3&query=bantamweight", "word": "bantamweight"}], "data": {"word": "bantam", "id": "2014", "pronounce": "/\u02c8b\u00e6nt\u0259m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tams</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a kind of small chicken</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tams</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a kind of small chicken</div>",
+            "id": "2014",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6nt\u0259m/",
+            "type": "noun",
+            "word": "bantam"
+        },
+        "suggests": [
+            {
+                "id": "2014",
+                "link": "/find?type=3&query=bantamweight",
+                "word": "bantamweight"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u00e0 ri Bantam (g\u1ed1c \u1edf Java)</div>",
+            "id": "8056",
+            "mean": [],
+            "pronounce": "/'b\u00e6nt\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/14e0b60bc98bdb5af20de07011994d59/16e5eb3fb67/B/bantam.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d0553b49a6b61ae4b50ad7f3cb435108/16e5eb3f61c/B/bantam.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bantam"
+        },
+        "suggests": [
+            {
+                "id": "8056",
+                "link": "/find?type=1&query=bantam+tube",
+                "word": "bantam tube"
+            },
+            {
+                "id": "8056",
+                "link": "/find?type=1&query=bantam+weight",
+                "word": "bantam weight"
+            },
+            {
+                "id": "8056",
+                "link": "/find?type=1&query=bantamweight",
+                "word": "bantamweight"
+            }
+        ]
+    }
+}

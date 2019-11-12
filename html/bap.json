@@ -1,1 +1,90 @@
-{"en_vn": {"suggests": [{"id": "8071", "link": "/find?type=1&query=baptise", "word": "baptise"}, {"id": "8071", "link": "/find?type=1&query=baptism", "word": "baptism"}, {"id": "8071", "link": "/find?type=1&query=baptismal", "word": "baptismal"}, {"id": "8071", "link": "/find?type=1&query=baptismally", "word": "baptismally"}, {"id": "8071", "link": "/find?type=1&query=Baptist", "word": "Baptist"}, {"id": "8071", "link": "/find?type=1&query=baptistery", "word": "baptistery"}, {"id": "8071", "link": "/find?type=1&query=baptistry", "word": "baptistry"}, {"id": "8071", "link": "/find?type=1&query=baptize", "word": "baptize"}, {"id": "8071", "link": "/find?type=1&query=baptize%2C+baptise", "word": "baptize, baptise"}], "data": {"word": "bap", "id": "8071", "pronounce": "/b\u00e6p/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00ca-c\u1ed1t) \u1ed5 b\u00e1nh nh\u1ecf</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/3fe94211eb80213e84a4957ad2bf1117/16e5dd12d88/B/bap.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/9058dc558191f4de8266847cfa123f22/16e5dd1332e/B/bap.mp3"}}}, "en_en": {"suggests": [{"id": "2018", "link": "/find?type=3&query=baptism", "word": "baptism"}, {"id": "2018", "link": "/find?type=3&query=Baptist", "word": "Baptist"}, {"id": "2018", "link": "/find?type=3&query=baptize", "word": "baptize"}], "data": {"word": "bap", "id": "2018", "pronounce": "/\u02c8b\u00e6p/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural baps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit :bun</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural baps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit :bun</div>",
+            "id": "2018",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6p/",
+            "type": "noun",
+            "word": "bap"
+        },
+        "suggests": [
+            {
+                "id": "2018",
+                "link": "/find?type=3&query=baptism",
+                "word": "baptism"
+            },
+            {
+                "id": "2018",
+                "link": "/find?type=3&query=Baptist",
+                "word": "Baptist"
+            },
+            {
+                "id": "2018",
+                "link": "/find?type=3&query=baptize",
+                "word": "baptize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00ca-c\u1ed1t) \u1ed5 b\u00e1nh nh\u1ecf</div>",
+            "id": "8071",
+            "mean": [],
+            "pronounce": "/b\u00e6p/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9eba59758400cb5da327a6f20e3a3d6f/16e5eb404ac/B/bap.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ed52e9649336bd768f9de84ce31da659/16e5eb3ff12/B/bap.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bap"
+        },
+        "suggests": [
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptise",
+                "word": "baptise"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptism",
+                "word": "baptism"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptismal",
+                "word": "baptismal"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptismally",
+                "word": "baptismally"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=Baptist",
+                "word": "Baptist"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptistery",
+                "word": "baptistery"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptistry",
+                "word": "baptistry"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptize",
+                "word": "baptize"
+            },
+            {
+                "id": "8071",
+                "link": "/find?type=1&query=baptize%2C+baptise",
+                "word": "baptize, baptise"
+            }
+        ]
+    }
+}

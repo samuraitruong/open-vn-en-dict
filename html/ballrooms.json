@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "7905", "link": "/find?type=1&query=ballroom+dancing", "word": "ballroom dancing"}], "data": {"word": "ballroom", "id": "7905", "pronounce": "/'b\u0254:lr\u028am/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f2ng khi\u00eau v\u0169, ph\u00f2ng nh\u1ea3y</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/958761dca88685ce340efe4cb0fc945b/16e5dd0916e/B/ballroom.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ff0adb1210feb3da7205c3e2eaa7c2c4/16e5dd0974e/B/ballroom.mp3"}}}, "en_en": {"suggests": [{"id": "1945", "link": "/find?type=3&query=ballroom+dancing", "word": "ballroom dancing"}], "data": {"word": "ballroom", "id": "1945", "pronounce": "/\u02c8b\u0251\u02d0l\u02ccru\u02d0m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rooms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large room used for dances</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rooms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large room used for dances</div>",
+            "id": "1945",
+            "mean": [],
+            "pronounce": "/\u02c8b\u0251\u02d0l\u02ccru\u02d0m/",
+            "type": "noun",
+            "word": "ballroom"
+        },
+        "suggests": [
+            {
+                "id": "1945",
+                "link": "/find?type=3&query=ballroom+dancing",
+                "word": "ballroom dancing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00f2ng khi\u00eau v\u0169, ph\u00f2ng nh\u1ea3y</div>",
+            "id": "7905",
+            "mean": [],
+            "pronounce": "/'b\u0254:lr\u028am/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/059b076047e3df315cfcf74fac9ba297/16e5eb37e8a/B/ballroom.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9ffec04f8b9a46571cfdd3f74562e433/16e5eb37983/B/ballroom.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ballroom"
+        },
+        "suggests": [
+            {
+                "id": "7905",
+                "link": "/find?type=1&query=ballroom+dancing",
+                "word": "ballroom dancing"
+            }
+        ]
+    }
+}

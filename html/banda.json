@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "7954", "link": "/find?type=1&query=bandage", "word": "bandage"}, {"id": "7955", "link": "/find?type=1&query=bandager", "word": "bandager"}, {"id": "7956", "link": "/find?type=1&query=bandaid", "word": "bandaid"}, {"id": "7957", "link": "/find?type=1&query=bandana", "word": "bandana"}, {"id": "7958", "link": "/find?type=1&query=bandanna", "word": "bandanna"}], "data": {}}, "en_en": {"suggests": [{"id": "1972", "link": "/find?type=3&query=bandage", "word": "bandage"}, {"id": "1974", "link": "/find?type=3&query=bandanna", "word": "bandanna"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1972",
+                "link": "/find?type=3&query=bandage",
+                "word": "bandage"
+            },
+            {
+                "id": "1974",
+                "link": "/find?type=3&query=bandanna",
+                "word": "bandanna"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7954",
+                "link": "/find?type=1&query=bandage",
+                "word": "bandage"
+            },
+            {
+                "id": "7955",
+                "link": "/find?type=1&query=bandager",
+                "word": "bandager"
+            },
+            {
+                "id": "7956",
+                "link": "/find?type=1&query=bandaid",
+                "word": "bandaid"
+            },
+            {
+                "id": "7957",
+                "link": "/find?type=1&query=bandana",
+                "word": "bandana"
+            },
+            {
+                "id": "7958",
+                "link": "/find?type=1&query=bandanna",
+                "word": "bandanna"
+            }
+        ]
+    }
+}

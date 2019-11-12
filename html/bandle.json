@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7972", "link": "/find?type=1&query=bandleader", "word": "bandleader"}], "data": {}}, "en_en": {"suggests": [{"id": "1977", "link": "/find?type=3&query=bandleader", "word": "bandleader"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1977",
+                "link": "/find?type=3&query=bandleader",
+                "word": "bandleader"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7972",
+                "link": "/find?type=1&query=bandleader",
+                "word": "bandleader"
+            }
+        ]
+    }
+}

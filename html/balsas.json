@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "7919", "link": "/find?type=1&query=balsam", "word": "balsam"}, {"id": "7919", "link": "/find?type=1&query=balsamic", "word": "balsamic"}, {"id": "7919", "link": "/find?type=1&query=balsaminaceous", "word": "balsaminaceous"}], "data": {"word": "balsa", "id": "7919", "pronounce": "/'b\u0254:ls\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00f4ng b\u1ea5c (c\u00e2y, g\u1ed7)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a8704d3ad68c0e1dadbeec13a1261628/16e5dd0a094/B/balsa.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/4cdb2547ce3264f6cb5456a0e155249c/16e5dd0a63e/B/balsa.mp3"}}}, "en_en": {"suggests": [{"id": "1954", "link": "/find?type=3&query=balsam", "word": "balsam"}, {"id": "1954", "link": "/find?type=3&query=balsam+fir", "word": "balsam fir"}, {"id": "1954", "link": "/find?type=3&query=balsamic+vinegar", "word": "balsamic vinegar"}], "data": {"word": "balsa", "id": "1954", "pronounce": "/\u02c8b\u0251\u02d0ls\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the very light wood of a tropical American tree</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the very light wood of a tropical American tree</div>",
+            "id": "1954",
+            "mean": [],
+            "pronounce": "/\u02c8b\u0251\u02d0ls\u0259/",
+            "type": "noun",
+            "word": "balsa"
+        },
+        "suggests": [
+            {
+                "id": "1954",
+                "link": "/find?type=3&query=balsam",
+                "word": "balsam"
+            },
+            {
+                "id": "1954",
+                "link": "/find?type=3&query=balsam+fir",
+                "word": "balsam fir"
+            },
+            {
+                "id": "1954",
+                "link": "/find?type=3&query=balsamic+vinegar",
+                "word": "balsamic vinegar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00f4ng b\u1ea5c (c\u00e2y, g\u1ed7)</div>",
+            "id": "7919",
+            "mean": [],
+            "pronounce": "/'b\u0254:ls\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/08433f42adb43c587ae314616333ebc7/16e5eb38bb2/B/balsa.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bc638fb75bdf4524acbb53a155c0b099/16e5eb38699/B/balsa.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "balsa"
+        },
+        "suggests": [
+            {
+                "id": "7919",
+                "link": "/find?type=1&query=balsam",
+                "word": "balsam"
+            },
+            {
+                "id": "7919",
+                "link": "/find?type=1&query=balsamic",
+                "word": "balsamic"
+            },
+            {
+                "id": "7919",
+                "link": "/find?type=1&query=balsaminaceous",
+                "word": "balsaminaceous"
+            }
+        ]
+    }
+}

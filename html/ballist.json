@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "7884", "link": "/find?type=1&query=ballista", "word": "ballista"}, {"id": "7885", "link": "/find?type=1&query=ballistic+method", "word": "ballistic method"}, {"id": "7886", "link": "/find?type=1&query=ballistic+missile", "word": "ballistic missile"}, {"id": "7887", "link": "/find?type=1&query=ballistician", "word": "ballistician"}, {"id": "7888", "link": "/find?type=1&query=ballistics", "word": "ballistics"}, {"id": "7889", "link": "/find?type=1&query=ballistocardiogram", "word": "ballistocardiogram"}], "data": {}}, "en_en": {"suggests": [{"id": "1933", "link": "/find?type=3&query=ballistic", "word": "ballistic"}, {"id": "1934", "link": "/find?type=3&query=ballistic+missile", "word": "ballistic missile"}, {"id": "1935", "link": "/find?type=3&query=ballistics", "word": "ballistics"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1933",
+                "link": "/find?type=3&query=ballistic",
+                "word": "ballistic"
+            },
+            {
+                "id": "1934",
+                "link": "/find?type=3&query=ballistic+missile",
+                "word": "ballistic missile"
+            },
+            {
+                "id": "1935",
+                "link": "/find?type=3&query=ballistics",
+                "word": "ballistics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7884",
+                "link": "/find?type=1&query=ballista",
+                "word": "ballista"
+            },
+            {
+                "id": "7885",
+                "link": "/find?type=1&query=ballistic+method",
+                "word": "ballistic method"
+            },
+            {
+                "id": "7886",
+                "link": "/find?type=1&query=ballistic+missile",
+                "word": "ballistic missile"
+            },
+            {
+                "id": "7887",
+                "link": "/find?type=1&query=ballistician",
+                "word": "ballistician"
+            },
+            {
+                "id": "7888",
+                "link": "/find?type=1&query=ballistics",
+                "word": "ballistics"
+            },
+            {
+                "id": "7889",
+                "link": "/find?type=1&query=ballistocardiogram",
+                "word": "ballistocardiogram"
+            }
+        ]
+    }
+}

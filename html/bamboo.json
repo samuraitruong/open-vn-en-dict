@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "7929", "link": "/find?type=1&query=bamboozle", "word": "bamboozle"}, {"id": "7929", "link": "/find?type=1&query=bamboozlement", "word": "bamboozlement"}, {"id": "7929", "link": "/find?type=1&query=bamboozler", "word": "bamboozler"}], "data": {"word": "bamboo", "id": "7929", "pronounce": "/b\u00e6m'bu:/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y tre</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9ede75ed75331802556f93ff37ae0464/16e5dd0b1ab/B/bamboo.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/68e5f1bc20e42d8705fa5088e9e3c753/16e5dd0b764/B/bamboo.mp3"}}}, "en_en": {"suggests": [{"id": "1961", "link": "/find?type=3&query=bamboozle", "word": "bamboozle"}], "data": {"word": "bamboo", "id": "1961", "pronounce": "/b\u00e6m\u02c8bu\u02d0/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -boos</div>\n    \n    <div class=\"green margin25 m-top15\">a tall plant with hard hollow stems that are used for building and to make furniture, tools, etc. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Bamboo grows in the grove near the house. [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We cut down some bamboos.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -boos</div>\n    \n    <div class=\"green margin25 m-top15\">a tall plant with hard hollow stems that are used for building and to make furniture, tools, etc. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Bamboo grows in the grove near the house. [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We cut down some bamboos.</div>",
+            "id": "1961",
+            "mean": [],
+            "pronounce": "/b\u00e6m\u02c8bu\u02d0/",
+            "type": "noun",
+            "word": "bamboo"
+        },
+        "suggests": [
+            {
+                "id": "1961",
+                "link": "/find?type=3&query=bamboozle",
+                "word": "bamboozle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y tre</div>",
+            "id": "7929",
+            "mean": [],
+            "pronounce": "/b\u00e6m'bu:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4808fb867d6a2f9d60d0f4debb371776/16e5eb39904/B/bamboo.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e4f3e82d767d55e39ccfb702f4118889/16e5eb393ea/B/bamboo.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bamboo"
+        },
+        "suggests": [
+            {
+                "id": "7929",
+                "link": "/find?type=1&query=bamboozle",
+                "word": "bamboozle"
+            },
+            {
+                "id": "7929",
+                "link": "/find?type=1&query=bamboozlement",
+                "word": "bamboozlement"
+            },
+            {
+                "id": "7929",
+                "link": "/find?type=1&query=bamboozler",
+                "word": "bamboozler"
+            }
+        ]
+    }
+}

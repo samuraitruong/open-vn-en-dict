@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "7994", "link": "/find?type=1&query=banger", "word": "banger"}], "data": {}}, "en_en": {"suggests": [{"id": "1988", "link": "/find?type=3&query=banger", "word": "banger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1988",
+                "link": "/find?type=3&query=banger",
+                "word": "banger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7994",
+                "link": "/find?type=1&query=banger",
+                "word": "banger"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "7960", "link": "/find?type=1&query=bandeau", "word": "bandeau"}, {"id": "7961", "link": "/find?type=1&query=bandeaux", "word": "bandeaux"}, {"id": "7962", "link": "/find?type=1&query=banded", "word": "banded"}, {"id": "7963", "link": "/find?type=1&query=banderilla", "word": "banderilla"}, {"id": "7964", "link": "/find?type=1&query=banderillero", "word": "banderillero"}, {"id": "7965", "link": "/find?type=1&query=banderol", "word": "banderol"}, {"id": "7966", "link": "/find?type=1&query=banderole", "word": "banderole"}], "data": {}}, "en_en": {"suggests": [{"id": "1975", "link": "/find?type=3&query=banded", "word": "banded"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1975",
+                "link": "/find?type=3&query=banded",
+                "word": "banded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7960",
+                "link": "/find?type=1&query=bandeau",
+                "word": "bandeau"
+            },
+            {
+                "id": "7961",
+                "link": "/find?type=1&query=bandeaux",
+                "word": "bandeaux"
+            },
+            {
+                "id": "7962",
+                "link": "/find?type=1&query=banded",
+                "word": "banded"
+            },
+            {
+                "id": "7963",
+                "link": "/find?type=1&query=banderilla",
+                "word": "banderilla"
+            },
+            {
+                "id": "7964",
+                "link": "/find?type=1&query=banderillero",
+                "word": "banderillero"
+            },
+            {
+                "id": "7965",
+                "link": "/find?type=1&query=banderol",
+                "word": "banderol"
+            },
+            {
+                "id": "7966",
+                "link": "/find?type=1&query=banderole",
+                "word": "banderole"
+            }
+        ]
+    }
+}
