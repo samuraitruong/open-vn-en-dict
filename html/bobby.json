@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "10239", "link": "/find?type=1&query=bobby+pin", "word": "bobby pin"}, {"id": "10239", "link": "/find?type=1&query=bobby-socks", "word": "bobby-socks"}, {"id": "10239", "link": "/find?type=1&query=bobby-sox", "word": "bobby-sox"}, {"id": "10239", "link": "/find?type=1&query=bobby-soxer", "word": "bobby-soxer"}], "data": {"word": "bobby", "id": "10239", "pronounce": "/'b\u0252bi/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(Anh, kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3nh s\u00e1t</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/644f98a96957131b2caa4e61a1a2cdec/16e5dd97220/B/bobby.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d15b03d6d4f264ed436f8393932dad58/16e5dd97821/B/bobby.mp3"}}}, "en_en": {"suggests": [{"id": "2995", "link": "/find?type=3&query=bobby+pin", "word": "bobby pin"}, {"id": "2995", "link": "/find?type=3&query=bobby+socks", "word": "bobby socks"}], "data": {"word": "bobby", "id": "2995", "pronounce": "/\u02c8b\u0251\u02d0bi/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural bobbies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit old-fashioned + informal :police officer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a bobby on his beat</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural bobbies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit old-fashioned + informal :police officer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a bobby on his beat</div>",
+            "id": "2995",
+            "mean": [],
+            "pronounce": "/\u02c8b\u0251\u02d0bi/",
+            "type": "noun",
+            "word": "bobby"
+        },
+        "suggests": [
+            {
+                "id": "2995",
+                "link": "/find?type=3&query=bobby+pin",
+                "word": "bobby pin"
+            },
+            {
+                "id": "2995",
+                "link": "/find?type=3&query=bobby+socks",
+                "word": "bobby socks"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(Anh, kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea3nh s\u00e1t</div>",
+            "id": "10239",
+            "mean": [],
+            "pronounce": "/'b\u0252bi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fe8c903ef68b71b232623fe2293e6f5d/16e5ebb5ce8/B/bobby.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e31d6d2d3bca26467f4663400c54bd4a/16e5ebb579c/B/bobby.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bobby"
+        },
+        "suggests": [
+            {
+                "id": "10239",
+                "link": "/find?type=1&query=bobby+pin",
+                "word": "bobby pin"
+            },
+            {
+                "id": "10239",
+                "link": "/find?type=1&query=bobby-socks",
+                "word": "bobby-socks"
+            },
+            {
+                "id": "10239",
+                "link": "/find?type=1&query=bobby-sox",
+                "word": "bobby-sox"
+            },
+            {
+                "id": "10239",
+                "link": "/find?type=1&query=bobby-soxer",
+                "word": "bobby-soxer"
+            }
+        ]
+    }
+}

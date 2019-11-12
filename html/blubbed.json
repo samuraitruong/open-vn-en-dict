@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "10086", "link": "/find?type=1&query=blubber", "word": "blubber"}, {"id": "10087", "link": "/find?type=1&query=blubberer", "word": "blubberer"}, {"id": "10088", "link": "/find?type=1&query=blubberingly", "word": "blubberingly"}, {"id": "10089", "link": "/find?type=1&query=blubbery", "word": "blubbery"}], "data": {}}, "en_en": {"suggests": [{"id": "2932", "link": "/find?type=3&query=blubber", "word": "blubber"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2932",
+                "link": "/find?type=3&query=blubber",
+                "word": "blubber"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10086",
+                "link": "/find?type=1&query=blubber",
+                "word": "blubber"
+            },
+            {
+                "id": "10087",
+                "link": "/find?type=1&query=blubberer",
+                "word": "blubberer"
+            },
+            {
+                "id": "10088",
+                "link": "/find?type=1&query=blubberingly",
+                "word": "blubberingly"
+            },
+            {
+                "id": "10089",
+                "link": "/find?type=1&query=blubbery",
+                "word": "blubbery"
+            }
+        ]
+    }
+}

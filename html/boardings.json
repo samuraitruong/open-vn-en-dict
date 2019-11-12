@@ -1,1 +1,63 @@
-{"en_vn": {"suggests": [{"id": "10202", "link": "/find?type=1&query=boarding+card", "word": "boarding card"}, {"id": "10202", "link": "/find?type=1&query=boarding-house", "word": "boarding-house"}, {"id": "10202", "link": "/find?type=1&query=boarding-out", "word": "boarding-out"}, {"id": "10202", "link": "/find?type=1&query=boarding-school", "word": "boarding-school"}, {"id": "10202", "link": "/find?type=1&query=boarding-ship", "word": "boarding-ship"}], "data": {"word": "boarding", "id": "10202", "pronounce": "/'b\u0254:di\u014b/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebft c\u1ea5u v\u00e1n; c\u1ea5u tr\u00fac gh\u00e9p v\u00e1n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ca30af62fdcdd266f1ed17ce133b2aa8/16e5dd953db/B/boarding.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/784a5fcd0c4918c4544556c184d12252/16e5dd95996/B/boarding.mp3"}}}, "en_en": {"suggests": [{"id": "2976", "link": "/find?type=3&query=boarding+pass", "word": "boarding pass"}, {"id": "2977", "link": "/find?type=3&query=boarding+school", "word": "boarding school"}, {"id": "2978", "link": "/find?type=3&query=boardinghouse", "word": "boardinghouse"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2976",
+                "link": "/find?type=3&query=boarding+pass",
+                "word": "boarding pass"
+            },
+            {
+                "id": "2977",
+                "link": "/find?type=3&query=boarding+school",
+                "word": "boarding school"
+            },
+            {
+                "id": "2978",
+                "link": "/find?type=3&query=boardinghouse",
+                "word": "boardinghouse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebft c\u1ea5u v\u00e1n; c\u1ea5u tr\u00fac gh\u00e9p v\u00e1n</div>",
+            "id": "10202",
+            "mean": [],
+            "pronounce": "/'b\u0254:di\u014b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/39d9fe5ca8364e3d6e0c81c3334db657/16e5ebb415b/B/boarding.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b025ba5120b2d89daf59114f845b34a2/16e5ebb3c00/B/boarding.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "boarding"
+        },
+        "suggests": [
+            {
+                "id": "10202",
+                "link": "/find?type=1&query=boarding+card",
+                "word": "boarding card"
+            },
+            {
+                "id": "10202",
+                "link": "/find?type=1&query=boarding-house",
+                "word": "boarding-house"
+            },
+            {
+                "id": "10202",
+                "link": "/find?type=1&query=boarding-out",
+                "word": "boarding-out"
+            },
+            {
+                "id": "10202",
+                "link": "/find?type=1&query=boarding-school",
+                "word": "boarding-school"
+            },
+            {
+                "id": "10202",
+                "link": "/find?type=1&query=boarding-ship",
+                "word": "boarding-ship"
+            }
+        ]
+    }
+}
