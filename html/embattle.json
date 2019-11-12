@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "29953", "link": "/find?type=1&query=embattled", "word": "embattled"}], "data": {"word": "embattle", "id": "29953", "pronounce": "/im'b\u00e6tl/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e0n (qu\u00e2n) th\u00e0nh th\u1ebf tr\u1eadn</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m l\u1ed7 ch\u00e2u mai \u1edf (th\u00e0nh, t\u01b0\u1eddng...)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9398", "link": "/find?type=3&query=embattled", "word": "embattled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9398",
+                "link": "/find?type=3&query=embattled",
+                "word": "embattled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e0n (qu\u00e2n) th\u00e0nh th\u1ebf tr\u1eadn</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m l\u1ed7 ch\u00e2u mai \u1edf (th\u00e0nh, t\u01b0\u1eddng...)</div>",
+            "id": "29953",
+            "mean": [],
+            "pronounce": "/im'b\u00e6tl/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "embattle"
+        },
+        "suggests": [
+            {
+                "id": "29953",
+                "link": "/find?type=1&query=embattled",
+                "word": "embattled"
+            }
+        ]
+    }
+}

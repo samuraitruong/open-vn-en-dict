@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "29979", "link": "/find?type=1&query=emblazon", "word": "emblazon"}, {"id": "29980", "link": "/find?type=1&query=emblazoner", "word": "emblazoner"}, {"id": "29981", "link": "/find?type=1&query=emblazonment", "word": "emblazonment"}, {"id": "29982", "link": "/find?type=1&query=emblazonry", "word": "emblazonry"}], "data": {}}, "en_en": {"suggests": [{"id": "9404", "link": "/find?type=3&query=emblazon", "word": "emblazon"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9404",
+                "link": "/find?type=3&query=emblazon",
+                "word": "emblazon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29979",
+                "link": "/find?type=1&query=emblazon",
+                "word": "emblazon"
+            },
+            {
+                "id": "29980",
+                "link": "/find?type=1&query=emblazoner",
+                "word": "emblazoner"
+            },
+            {
+                "id": "29981",
+                "link": "/find?type=1&query=emblazonment",
+                "word": "emblazonment"
+            },
+            {
+                "id": "29982",
+                "link": "/find?type=1&query=emblazonry",
+                "word": "emblazonry"
+            }
+        ]
+    }
+}

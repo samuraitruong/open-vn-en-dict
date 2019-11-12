@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "29890", "link": "/find?type=1&query=elver", "word": "elver"}, {"id": "29891", "link": "/find?type=1&query=elves", "word": "elves"}], "data": {}}, "en_en": {"suggests": [{"id": "9383", "link": "/find?type=3&query=elves", "word": "elves"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9383",
+                "link": "/find?type=3&query=elves",
+                "word": "elves"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "29890",
+                "link": "/find?type=1&query=elver",
+                "word": "elver"
+            },
+            {
+                "id": "29891",
+                "link": "/find?type=1&query=elves",
+                "word": "elves"
+            }
+        ]
+    }
+}
