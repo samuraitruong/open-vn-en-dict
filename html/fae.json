@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "33861", "link": "/find?type=1&query=faecal", "word": "faecal"}, {"id": "33862", "link": "/find?type=1&query=faeces", "word": "faeces"}, {"id": "33863", "link": "/find?type=1&query=faena", "word": "faena"}, {"id": "33864", "link": "/find?type=1&query=faerie", "word": "faerie"}, {"id": "33865", "link": "/find?type=1&query=faery", "word": "faery"}], "data": {}}, "en_en": {"suggests": [{"id": "10204", "link": "/find?type=3&query=faeces", "word": "faeces"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10204",
+                "link": "/find?type=3&query=faeces",
+                "word": "faeces"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "33861",
+                "link": "/find?type=1&query=faecal",
+                "word": "faecal"
+            },
+            {
+                "id": "33862",
+                "link": "/find?type=1&query=faeces",
+                "word": "faeces"
+            },
+            {
+                "id": "33863",
+                "link": "/find?type=1&query=faena",
+                "word": "faena"
+            },
+            {
+                "id": "33864",
+                "link": "/find?type=1&query=faerie",
+                "word": "faerie"
+            },
+            {
+                "id": "33865",
+                "link": "/find?type=1&query=faery",
+                "word": "faery"
+            }
+        ]
+    }
+}
