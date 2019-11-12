@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "13103", "link": "/find?type=1&query=carbonated", "word": "carbonated"}], "data": {"word": "carbonate", "id": "13103", "pronounce": "/'k\u0251:b\u0259nit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) cacbonat</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4110", "link": "/find?type=3&query=carbonated", "word": "carbonated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4110",
+                "link": "/find?type=3&query=carbonated",
+                "word": "carbonated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) cacbonat</div>",
+            "id": "13103",
+            "mean": [],
+            "pronounce": "/'k\u0251:b\u0259nit/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "carbonate"
+        },
+        "suggests": [
+            {
+                "id": "13103",
+                "link": "/find?type=1&query=carbonated",
+                "word": "carbonated"
+            }
+        ]
+    }
+}

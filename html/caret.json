@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "13221", "link": "/find?type=1&query=caretaker", "word": "caretaker"}, {"id": "13221", "link": "/find?type=1&query=caretaker+government", "word": "caretaker government"}], "data": {"word": "caret", "id": "13221", "pronounce": "/'k\u00e6r\u0259t/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea5u s\u00f3t (^) (\u0111\u00e1nh d\u1ea5u ch\u1ed7 ph\u1ea3i th\u00eam ch\u1eef hay t\u1eeb c\u00f2n s\u00f3t)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4149", "link": "/find?type=3&query=caretaker", "word": "caretaker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4149",
+                "link": "/find?type=3&query=caretaker",
+                "word": "caretaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea5u s\u00f3t (^) (\u0111\u00e1nh d\u1ea5u ch\u1ed7 ph\u1ea3i th\u00eam ch\u1eef hay t\u1eeb c\u00f2n s\u00f3t)</div>",
+            "id": "13221",
+            "mean": [],
+            "pronounce": "/'k\u00e6r\u0259t/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "caret"
+        },
+        "suggests": [
+            {
+                "id": "13221",
+                "link": "/find?type=1&query=caretaker",
+                "word": "caretaker"
+            },
+            {
+                "id": "13221",
+                "link": "/find?type=1&query=caretaker+government",
+                "word": "caretaker government"
+            }
+        ]
+    }
+}

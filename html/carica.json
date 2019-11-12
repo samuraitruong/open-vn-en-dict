@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "13237", "link": "/find?type=1&query=caricatural", "word": "caricatural"}, {"id": "13238", "link": "/find?type=1&query=caricature", "word": "caricature"}, {"id": "13239", "link": "/find?type=1&query=caricaturist", "word": "caricaturist"}], "data": {}}, "en_en": {"suggests": [{"id": "4155", "link": "/find?type=3&query=caricature", "word": "caricature"}], "data": {}}, "synonyms": {"suggests": [{"id": "871", "link": "/find?type=4&query=caricature", "word": "caricature"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4155",
+                "link": "/find?type=3&query=caricature",
+                "word": "caricature"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13237",
+                "link": "/find?type=1&query=caricatural",
+                "word": "caricatural"
+            },
+            {
+                "id": "13238",
+                "link": "/find?type=1&query=caricature",
+                "word": "caricature"
+            },
+            {
+                "id": "13239",
+                "link": "/find?type=1&query=caricaturist",
+                "word": "caricaturist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "871",
+                "link": "/find?type=4&query=caricature",
+                "word": "caricature"
+            }
+        ]
+    }
+}

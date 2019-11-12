@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "13084", "link": "/find?type=1&query=carbineer", "word": "carbineer"}], "data": {"word": "carbine", "id": "13084", "pronounce": "/'k\u0251:bin/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00fang c\u00e1c-bin</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/6948fb7b475a57fff8a3f68428134c2d/16e5de357b1/C/carbine.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/7fb6cf8d8a0a694934ee7226f093d37e/16e5de35d86/C/carbine.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "carbine", "id": "4102", "pronounce": "/\u02c8k\u0251\u025a\u02ccbi\u02d0n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bines</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a short, light rifle</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bines</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a short, light rifle</div>",
+            "id": "4102",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u025a\u02ccbi\u02d0n/",
+            "type": "noun",
+            "word": "carbine"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00fang c\u00e1c-bin</div>",
+            "id": "13084",
+            "mean": [],
+            "pronounce": "/'k\u0251:bin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1ecfe6e8c57309dbd9eac7b0c377c6d1/16e5ec455ab/C/carbine.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/20b8ebee57ddff160dafd01f9790b221/16e5ec450b8/C/carbine.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "carbine"
+        },
+        "suggests": [
+            {
+                "id": "13084",
+                "link": "/find?type=1&query=carbineer",
+                "word": "carbineer"
+            }
+        ]
+    }
+}

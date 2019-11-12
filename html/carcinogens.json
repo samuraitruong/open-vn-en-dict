@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "13134", "link": "/find?type=1&query=carcinogenesis", "word": "carcinogenesis"}, {"id": "13134", "link": "/find?type=1&query=carcinogenic", "word": "carcinogenic"}, {"id": "13134", "link": "/find?type=1&query=carcinogenicity", "word": "carcinogenicity"}], "data": {"word": "carcinogen", "id": "13134", "pronounce": "/k\u0251:'sin\u0259d\u0292\u0259n/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) ch\u1ea5t sinh ung th\u01b0</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/dddda966b392ec4449be8a3755e08003/16e5de38785/C/carcinogen.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/d93a0cd4ebcf39a2fb65d106088c4b54/16e5de38d30/C/carcinogen.mp3"}}}, "en_en": {"suggests": [{"id": "4114", "link": "/find?type=3&query=carcinogenic", "word": "carcinogenic"}], "data": {"word": "carcinogen", "id": "4114", "pronounce": "/k\u0251\u025a\u02c8s\u026an\u0259\u02a4\u0259n/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a substance that can cause cancer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cigarette smoke contains known carcinogens.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] medical :a substance that can cause cancer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Cigarette smoke contains known carcinogens.</div>",
+            "id": "4114",
+            "mean": [],
+            "pronounce": "/k\u0251\u025a\u02c8s\u026an\u0259\u02a4\u0259n/",
+            "type": "noun",
+            "word": "carcinogen"
+        },
+        "suggests": [
+            {
+                "id": "4114",
+                "link": "/find?type=3&query=carcinogenic",
+                "word": "carcinogenic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) ch\u1ea5t sinh ung th\u01b0</div>",
+            "id": "13134",
+            "mean": [],
+            "pronounce": "/k\u0251:'sin\u0259d\u0292\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/80083fd7815abd428ae6912de2fe3656/16e5ec481c9/C/carcinogen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/055ebf1d9d95b91df20f34edc823d016/16e5ec47c98/C/carcinogen.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "carcinogen"
+        },
+        "suggests": [
+            {
+                "id": "13134",
+                "link": "/find?type=1&query=carcinogenesis",
+                "word": "carcinogenesis"
+            },
+            {
+                "id": "13134",
+                "link": "/find?type=1&query=carcinogenic",
+                "word": "carcinogenic"
+            },
+            {
+                "id": "13134",
+                "link": "/find?type=1&query=carcinogenicity",
+                "word": "carcinogenicity"
+            }
+        ]
+    }
+}
