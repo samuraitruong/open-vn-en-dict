@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "35067", "link": "/find?type=1&query=fiducial", "word": "fiducial"}, {"id": "35068", "link": "/find?type=1&query=fiduciary", "word": "fiduciary"}, {"id": "35069", "link": "/find?type=1&query=Fiduciary+issue", "word": "Fiduciary issue"}], "data": {}}, "en_en": {"suggests": [{"id": "10549", "link": "/find?type=3&query=fiduciary", "word": "fiduciary"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10549",
+                "link": "/find?type=3&query=fiduciary",
+                "word": "fiduciary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35067",
+                "link": "/find?type=1&query=fiducial",
+                "word": "fiducial"
+            },
+            {
+                "id": "35068",
+                "link": "/find?type=1&query=fiduciary",
+                "word": "fiduciary"
+            },
+            {
+                "id": "35069",
+                "link": "/find?type=1&query=Fiduciary+issue",
+                "word": "Fiduciary issue"
+            }
+        ]
+    }
+}
