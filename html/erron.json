@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "31785", "link": "/find?type=1&query=erroneous", "word": "erroneous"}, {"id": "31786", "link": "/find?type=1&query=erroneously", "word": "erroneously"}, {"id": "31787", "link": "/find?type=1&query=erroneousness", "word": "erroneousness"}], "data": {}}, "en_en": {"suggests": [{"id": "9745", "link": "/find?type=3&query=erroneous", "word": "erroneous"}], "data": {}}, "synonyms": {"suggests": [{"id": "2248", "link": "/find?type=4&query=erroneous", "word": "erroneous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9745",
+                "link": "/find?type=3&query=erroneous",
+                "word": "erroneous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31785",
+                "link": "/find?type=1&query=erroneous",
+                "word": "erroneous"
+            },
+            {
+                "id": "31786",
+                "link": "/find?type=1&query=erroneously",
+                "word": "erroneously"
+            },
+            {
+                "id": "31787",
+                "link": "/find?type=1&query=erroneousness",
+                "word": "erroneousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2248",
+                "link": "/find?type=4&query=erroneous",
+                "word": "erroneous"
+            }
+        ]
+    }
+}
