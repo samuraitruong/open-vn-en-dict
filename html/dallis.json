@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "22308", "link": "/find?type=1&query=dalliance", "word": "dalliance"}, {"id": "22309", "link": "/find?type=1&query=dallier", "word": "dallier"}], "data": {}}, "en_en": {"suggests": [{"id": "7159", "link": "/find?type=3&query=dalliance", "word": "dalliance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7159",
+                "link": "/find?type=3&query=dalliance",
+                "word": "dalliance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22308",
+                "link": "/find?type=1&query=dalliance",
+                "word": "dalliance"
+            },
+            {
+                "id": "22309",
+                "link": "/find?type=1&query=dallier",
+                "word": "dallier"
+            }
+        ]
+    }
+}

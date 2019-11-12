@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "22272", "link": "/find?type=1&query=dagger", "word": "dagger"}], "data": {}}, "en_en": {"suggests": [{"id": "7143", "link": "/find?type=3&query=dagger", "word": "dagger"}], "data": {}}, "synonyms": {"suggests": [{"id": "1386", "link": "/find?type=4&query=dagger", "word": "dagger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7143",
+                "link": "/find?type=3&query=dagger",
+                "word": "dagger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22272",
+                "link": "/find?type=1&query=dagger",
+                "word": "dagger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1386",
+                "link": "/find?type=4&query=dagger",
+                "word": "dagger"
+            }
+        ]
+    }
+}

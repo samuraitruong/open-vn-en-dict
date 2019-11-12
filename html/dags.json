@@ -1,1 +1,75 @@
-{"en_vn": {"suggests": [{"id": "22271", "link": "/find?type=1&query=dagger", "word": "dagger"}, {"id": "22271", "link": "/find?type=1&query=daggle", "word": "daggle"}, {"id": "22271", "link": "/find?type=1&query=dago", "word": "dago"}, {"id": "22271", "link": "/find?type=1&query=daguerreotype", "word": "daguerreotype"}, {"id": "22271", "link": "/find?type=1&query=daguerreotyper", "word": "daguerreotyper"}, {"id": "22271", "link": "/find?type=1&query=daguerreotypy", "word": "daguerreotypy"}], "data": {"word": "dag", "id": "22271", "pronounce": "", "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111o\u1ea3n ki\u1ebfm, \u0111o\u1ea3n dao</div>\n    \n    <div class=\"green margin25 m-top15\">(l\u1ecbch s\u1eed) s\u00fang c\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">ph\u1ea7n cu\u1ed1i s\u1ee3i d\u00e2y \u0111ang \u0111u \u0111\u01b0a</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111ai da</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eaft l\u00f4ng c\u1eebu</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "7143", "link": "/find?type=3&query=dagger", "word": "dagger"}, {"id": "7144", "link": "/find?type=3&query=dago", "word": "dago"}, {"id": "7145", "link": "/find?type=3&query=daguerreotype", "word": "daguerreotype"}], "data": {}}, "synonyms": {"suggests": [{"id": "1386", "link": "/find?type=4&query=dagger", "word": "dagger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7143",
+                "link": "/find?type=3&query=dagger",
+                "word": "dagger"
+            },
+            {
+                "id": "7144",
+                "link": "/find?type=3&query=dago",
+                "word": "dago"
+            },
+            {
+                "id": "7145",
+                "link": "/find?type=3&query=daguerreotype",
+                "word": "daguerreotype"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111o\u1ea3n ki\u1ebfm, \u0111o\u1ea3n dao</div>\n    \n    <div class=\"green margin25 m-top15\">(l\u1ecbch s\u1eed) s\u00fang c\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">ph\u1ea7n cu\u1ed1i s\u1ee3i d\u00e2y \u0111ang \u0111u \u0111\u01b0a</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111ai da</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eaft l\u00f4ng c\u1eebu</div>",
+            "id": "22271",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "dag"
+        },
+        "suggests": [
+            {
+                "id": "22271",
+                "link": "/find?type=1&query=dagger",
+                "word": "dagger"
+            },
+            {
+                "id": "22271",
+                "link": "/find?type=1&query=daggle",
+                "word": "daggle"
+            },
+            {
+                "id": "22271",
+                "link": "/find?type=1&query=dago",
+                "word": "dago"
+            },
+            {
+                "id": "22271",
+                "link": "/find?type=1&query=daguerreotype",
+                "word": "daguerreotype"
+            },
+            {
+                "id": "22271",
+                "link": "/find?type=1&query=daguerreotyper",
+                "word": "daguerreotyper"
+            },
+            {
+                "id": "22271",
+                "link": "/find?type=1&query=daguerreotypy",
+                "word": "daguerreotypy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1386",
+                "link": "/find?type=4&query=dagger",
+                "word": "dagger"
+            }
+        ]
+    }
+}
