@@ -1,1 +1,47 @@
-{"error": 0, "query": "indistinguished", "enViData": {"suggests": [{"id": "47770", "link": "/find?type=1&query=indistinguishability", "word": "indistinguishability"}, {"id": "47771", "link": "/find?type=1&query=indistinguishable", "word": "indistinguishable"}, {"id": "47772", "link": "/find?type=1&query=indistinguishableness", "word": "indistinguishableness"}, {"id": "47773", "link": "/find?type=1&query=indistinguishably", "word": "indistinguishably"}]}, "mUrl": "/find?type=1&query=indistinguished", "enEnData": {"suggests": [{"id": "14767", "link": "/find?type=3&query=indistinguishable", "word": "indistinguishable"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3696", "link": "/find?type=4&query=indistinguishable", "word": "indistinguishable"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14767",
+                "link": "/find?type=3&query=indistinguishable",
+                "word": "indistinguishable"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47770",
+                "link": "/find?type=1&query=indistinguishability",
+                "word": "indistinguishability"
+            },
+            {
+                "id": "47771",
+                "link": "/find?type=1&query=indistinguishable",
+                "word": "indistinguishable"
+            },
+            {
+                "id": "47772",
+                "link": "/find?type=1&query=indistinguishableness",
+                "word": "indistinguishableness"
+            },
+            {
+                "id": "47773",
+                "link": "/find?type=1&query=indistinguishably",
+                "word": "indistinguishably"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3696",
+                "link": "/find?type=4&query=indistinguishable",
+                "word": "indistinguishable"
+            }
+        ]
+    }
+}

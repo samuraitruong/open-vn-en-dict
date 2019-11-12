@@ -1,1 +1,47 @@
-{"error": 0, "query": "indisputed", "enViData": {"suggests": [{"id": "47756", "link": "/find?type=1&query=indisputability", "word": "indisputability"}, {"id": "47757", "link": "/find?type=1&query=indisputable", "word": "indisputable"}, {"id": "47758", "link": "/find?type=1&query=indisputableness", "word": "indisputableness"}, {"id": "47759", "link": "/find?type=1&query=indisputably", "word": "indisputably"}]}, "mUrl": "/find?type=1&query=indisputed", "enEnData": {"suggests": [{"id": "14764", "link": "/find?type=3&query=indisputable", "word": "indisputable"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3694", "link": "/find?type=4&query=indisputable", "word": "indisputable"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14764",
+                "link": "/find?type=3&query=indisputable",
+                "word": "indisputable"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47756",
+                "link": "/find?type=1&query=indisputability",
+                "word": "indisputability"
+            },
+            {
+                "id": "47757",
+                "link": "/find?type=1&query=indisputable",
+                "word": "indisputable"
+            },
+            {
+                "id": "47758",
+                "link": "/find?type=1&query=indisputableness",
+                "word": "indisputableness"
+            },
+            {
+                "id": "47759",
+                "link": "/find?type=1&query=indisputably",
+                "word": "indisputably"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3694",
+                "link": "/find?type=4&query=indisputable",
+                "word": "indisputable"
+            }
+        ]
+    }
+}

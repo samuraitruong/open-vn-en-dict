@@ -1,1 +1,47 @@
-{"error": 0, "query": "indole", "enViData": {"suggests": [{"id": "47808", "link": "/find?type=1&query=indolence", "word": "indolence"}, {"id": "47809", "link": "/find?type=1&query=indolent", "word": "indolent"}, {"id": "47810", "link": "/find?type=1&query=indolently", "word": "indolently"}]}, "mUrl": "/find?type=1&query=indole", "enEnData": {"suggests": [{"id": "14778", "link": "/find?type=3&query=indolent", "word": "indolent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3701", "link": "/find?type=4&query=indolence", "word": "indolence"}, {"id": "3702", "link": "/find?type=4&query=indolent", "word": "indolent"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14778",
+                "link": "/find?type=3&query=indolent",
+                "word": "indolent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47808",
+                "link": "/find?type=1&query=indolence",
+                "word": "indolence"
+            },
+            {
+                "id": "47809",
+                "link": "/find?type=1&query=indolent",
+                "word": "indolent"
+            },
+            {
+                "id": "47810",
+                "link": "/find?type=1&query=indolently",
+                "word": "indolently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3701",
+                "link": "/find?type=4&query=indolence",
+                "word": "indolence"
+            },
+            {
+                "id": "3702",
+                "link": "/find?type=4&query=indolent",
+                "word": "indolent"
+            }
+        ]
+    }
+}
