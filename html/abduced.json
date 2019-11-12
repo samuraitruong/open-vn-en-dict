@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "105", "link": "/find?type=1&query=abducens", "word": "abducens"}, {"id": "106", "link": "/find?type=1&query=abducent", "word": "abducent"}], "data": {}}, "en_en": {"suggests": [{"id": "43", "link": "/find?type=3&query=abduct", "word": "abduct"}], "data": {}}, "synonyms": {"suggests": [{"id": "7", "link": "/find?type=4&query=abduct", "word": "abduct"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "43",
+                "link": "/find?type=3&query=abduct",
+                "word": "abduct"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "105",
+                "link": "/find?type=1&query=abducens",
+                "word": "abducens"
+            },
+            {
+                "id": "106",
+                "link": "/find?type=1&query=abducent",
+                "word": "abducent"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7",
+                "link": "/find?type=4&query=abduct",
+                "word": "abduct"
+            }
+        ]
+    }
+}

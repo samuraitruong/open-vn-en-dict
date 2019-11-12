@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "132", "link": "/find?type=1&query=abhorrence", "word": "abhorrence"}, {"id": "133", "link": "/find?type=1&query=abhorrent", "word": "abhorrent"}, {"id": "134", "link": "/find?type=1&query=abhorrently", "word": "abhorrently"}, {"id": "135", "link": "/find?type=1&query=abhorrer", "word": "abhorrer"}], "data": {}}, "en_en": {"suggests": [{"id": "50", "link": "/find?type=3&query=abhorrent", "word": "abhorrent"}], "data": {}}, "synonyms": {"suggests": [{"id": "11", "link": "/find?type=4&query=abhorrent", "word": "abhorrent"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50",
+                "link": "/find?type=3&query=abhorrent",
+                "word": "abhorrent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "132",
+                "link": "/find?type=1&query=abhorrence",
+                "word": "abhorrence"
+            },
+            {
+                "id": "133",
+                "link": "/find?type=1&query=abhorrent",
+                "word": "abhorrent"
+            },
+            {
+                "id": "134",
+                "link": "/find?type=1&query=abhorrently",
+                "word": "abhorrently"
+            },
+            {
+                "id": "135",
+                "link": "/find?type=1&query=abhorrer",
+                "word": "abhorrer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11",
+                "link": "/find?type=4&query=abhorrent",
+                "word": "abhorrent"
+            }
+        ]
+    }
+}

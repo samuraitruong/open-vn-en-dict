@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "283", "link": "/find?type=1&query=abreact", "word": "abreact"}, {"id": "284", "link": "/find?type=1&query=abreaction", "word": "abreaction"}, {"id": "285", "link": "/find?type=1&query=abreast", "word": "abreast"}, {"id": "286", "link": "/find?type=1&query=abrego", "word": "abrego"}], "data": {}}, "en_en": {"suggests": [{"id": "92", "link": "/find?type=3&query=abreast", "word": "abreast"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "92",
+                "link": "/find?type=3&query=abreast",
+                "word": "abreast"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "283",
+                "link": "/find?type=1&query=abreact",
+                "word": "abreact"
+            },
+            {
+                "id": "284",
+                "link": "/find?type=1&query=abreaction",
+                "word": "abreaction"
+            },
+            {
+                "id": "285",
+                "link": "/find?type=1&query=abreast",
+                "word": "abreast"
+            },
+            {
+                "id": "286",
+                "link": "/find?type=1&query=abrego",
+                "word": "abrego"
+            }
+        ]
+    }
+}

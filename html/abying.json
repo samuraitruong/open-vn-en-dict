@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "141", "link": "/find?type=1&query=abience", "word": "abience"}, {"id": "142", "link": "/find?type=1&query=abient", "word": "abient"}, {"id": "143", "link": "/find?type=1&query=abies", "word": "abies"}, {"id": "144", "link": "/find?type=1&query=abietene", "word": "abietene"}], "data": {}}, "en_en": {"suggests": [{"id": "134", "link": "/find?type=3&query=abysmal", "word": "abysmal"}, {"id": "135", "link": "/find?type=3&query=abyss", "word": "abyss"}], "data": {}}, "synonyms": {"suggests": [{"id": "48", "link": "/find?type=4&query=abysmal", "word": "abysmal"}, {"id": "49", "link": "/find?type=4&query=abyss", "word": "abyss"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "134",
+                "link": "/find?type=3&query=abysmal",
+                "word": "abysmal"
+            },
+            {
+                "id": "135",
+                "link": "/find?type=3&query=abyss",
+                "word": "abyss"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "141",
+                "link": "/find?type=1&query=abience",
+                "word": "abience"
+            },
+            {
+                "id": "142",
+                "link": "/find?type=1&query=abient",
+                "word": "abient"
+            },
+            {
+                "id": "143",
+                "link": "/find?type=1&query=abies",
+                "word": "abies"
+            },
+            {
+                "id": "144",
+                "link": "/find?type=1&query=abietene",
+                "word": "abietene"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48",
+                "link": "/find?type=4&query=abysmal",
+                "word": "abysmal"
+            },
+            {
+                "id": "49",
+                "link": "/find?type=4&query=abyss",
+                "word": "abyss"
+            }
+        ]
+    }
+}

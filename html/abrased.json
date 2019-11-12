@@ -1,1 +1,29 @@
-{"en_vn": {"suggests": [], "data": {"word": "abrase", "id": "280", "pronounce": "", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eaft m\u1ea5t</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "90", "link": "/find?type=3&query=abrasion", "word": "abrasion"}, {"id": "91", "link": "/find?type=3&query=abrasive", "word": "abrasive"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "90",
+                "link": "/find?type=3&query=abrasion",
+                "word": "abrasion"
+            },
+            {
+                "id": "91",
+                "link": "/find?type=3&query=abrasive",
+                "word": "abrasive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eaft m\u1ea5t</div>",
+            "id": "280",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "abrase"
+        },
+        "suggests": []
+    }
+}

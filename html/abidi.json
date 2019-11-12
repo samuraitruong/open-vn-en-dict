@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "139", "link": "/find?type=1&query=abiding", "word": "abiding"}, {"id": "140", "link": "/find?type=1&query=abidingly", "word": "abidingly"}], "data": {}}, "en_en": {"suggests": [{"id": "52", "link": "/find?type=3&query=abiding", "word": "abiding"}], "data": {}}, "synonyms": {"suggests": [{"id": "13", "link": "/find?type=4&query=abiding", "word": "abiding"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52",
+                "link": "/find?type=3&query=abiding",
+                "word": "abiding"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "139",
+                "link": "/find?type=1&query=abiding",
+                "word": "abiding"
+            },
+            {
+                "id": "140",
+                "link": "/find?type=1&query=abidingly",
+                "word": "abidingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13",
+                "link": "/find?type=4&query=abiding",
+                "word": "abiding"
+            }
+        ]
+    }
+}

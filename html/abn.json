@@ -1,1 +1,87 @@
-{"en_vn": {"suggests": [{"id": "198", "link": "/find?type=1&query=abnegate", "word": "abnegate"}, {"id": "199", "link": "/find?type=1&query=abnegation", "word": "abnegation"}, {"id": "200", "link": "/find?type=1&query=abnegator", "word": "abnegator"}, {"id": "201", "link": "/find?type=1&query=abnormal", "word": "abnormal"}, {"id": "202", "link": "/find?type=1&query=abnormal+end+%28ABEND%29", "word": "abnormal end (ABEND)"}, {"id": "203", "link": "/find?type=1&query=abnormal+end+of+task", "word": "abnormal end of task"}, {"id": "204", "link": "/find?type=1&query=abnormal+end+of+transmission", "word": "abnormal end of transmission"}, {"id": "205", "link": "/find?type=1&query=abnormal+function", "word": "abnormal function"}, {"id": "206", "link": "/find?type=1&query=Abnormal+profits", "word": "Abnormal profits"}, {"id": "207", "link": "/find?type=1&query=abnormal+propagation", "word": "abnormal propagation"}], "data": {}}, "en_en": {"suggests": [{"id": "63", "link": "/find?type=3&query=abnormal", "word": "abnormal"}, {"id": "64", "link": "/find?type=3&query=abnormality", "word": "abnormality"}], "data": {}}, "synonyms": {"suggests": [{"id": "17", "link": "/find?type=4&query=abnormal", "word": "abnormal"}, {"id": "18", "link": "/find?type=4&query=abnormality", "word": "abnormality"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63",
+                "link": "/find?type=3&query=abnormal",
+                "word": "abnormal"
+            },
+            {
+                "id": "64",
+                "link": "/find?type=3&query=abnormality",
+                "word": "abnormality"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "198",
+                "link": "/find?type=1&query=abnegate",
+                "word": "abnegate"
+            },
+            {
+                "id": "199",
+                "link": "/find?type=1&query=abnegation",
+                "word": "abnegation"
+            },
+            {
+                "id": "200",
+                "link": "/find?type=1&query=abnegator",
+                "word": "abnegator"
+            },
+            {
+                "id": "201",
+                "link": "/find?type=1&query=abnormal",
+                "word": "abnormal"
+            },
+            {
+                "id": "202",
+                "link": "/find?type=1&query=abnormal+end+%28ABEND%29",
+                "word": "abnormal end (ABEND)"
+            },
+            {
+                "id": "203",
+                "link": "/find?type=1&query=abnormal+end+of+task",
+                "word": "abnormal end of task"
+            },
+            {
+                "id": "204",
+                "link": "/find?type=1&query=abnormal+end+of+transmission",
+                "word": "abnormal end of transmission"
+            },
+            {
+                "id": "205",
+                "link": "/find?type=1&query=abnormal+function",
+                "word": "abnormal function"
+            },
+            {
+                "id": "206",
+                "link": "/find?type=1&query=Abnormal+profits",
+                "word": "Abnormal profits"
+            },
+            {
+                "id": "207",
+                "link": "/find?type=1&query=abnormal+propagation",
+                "word": "abnormal propagation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17",
+                "link": "/find?type=4&query=abnormal",
+                "word": "abnormal"
+            },
+            {
+                "id": "18",
+                "link": "/find?type=4&query=abnormality",
+                "word": "abnormality"
+            }
+        ]
+    }
+}

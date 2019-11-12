@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "129", "link": "/find?type=1&query=abeyance", "word": "abeyance"}, {"id": "130", "link": "/find?type=1&query=abeyant", "word": "abeyant"}], "data": {}}, "en_en": {"suggests": [{"id": "48", "link": "/find?type=3&query=abeyance", "word": "abeyance"}], "data": {}}, "synonyms": {"suggests": [{"id": "9", "link": "/find?type=4&query=abeyance", "word": "abeyance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48",
+                "link": "/find?type=3&query=abeyance",
+                "word": "abeyance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "129",
+                "link": "/find?type=1&query=abeyance",
+                "word": "abeyance"
+            },
+            {
+                "id": "130",
+                "link": "/find?type=1&query=abeyant",
+                "word": "abeyant"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9",
+                "link": "/find?type=4&query=abeyance",
+                "word": "abeyance"
+            }
+        ]
+    }
+}

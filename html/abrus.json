@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "296", "link": "/find?type=1&query=abrupt", "word": "abrupt"}, {"id": "297", "link": "/find?type=1&query=abrupt+junction", "word": "abrupt junction"}, {"id": "298", "link": "/find?type=1&query=abrupt+junction+diode", "word": "abrupt junction diode"}, {"id": "299", "link": "/find?type=1&query=abruption", "word": "abruption"}, {"id": "300", "link": "/find?type=1&query=abruptly", "word": "abruptly"}, {"id": "301", "link": "/find?type=1&query=abruptness", "word": "abruptness"}], "data": {}}, "en_en": {"suggests": [{"id": "96", "link": "/find?type=3&query=abrupt", "word": "abrupt"}], "data": {}}, "synonyms": {"suggests": [{"id": "32", "link": "/find?type=4&query=abrupt", "word": "abrupt"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "96",
+                "link": "/find?type=3&query=abrupt",
+                "word": "abrupt"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "296",
+                "link": "/find?type=1&query=abrupt",
+                "word": "abrupt"
+            },
+            {
+                "id": "297",
+                "link": "/find?type=1&query=abrupt+junction",
+                "word": "abrupt junction"
+            },
+            {
+                "id": "298",
+                "link": "/find?type=1&query=abrupt+junction+diode",
+                "word": "abrupt junction diode"
+            },
+            {
+                "id": "299",
+                "link": "/find?type=1&query=abruption",
+                "word": "abruption"
+            },
+            {
+                "id": "300",
+                "link": "/find?type=1&query=abruptly",
+                "word": "abruptly"
+            },
+            {
+                "id": "301",
+                "link": "/find?type=1&query=abruptness",
+                "word": "abruptness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32",
+                "link": "/find?type=4&query=abrupt",
+                "word": "abrupt"
+            }
+        ]
+    }
+}

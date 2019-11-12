@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [], "data": {"word": "abies", "id": "143", "pronounce": "", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y linh sam</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "134", "link": "/find?type=3&query=abysmal", "word": "abysmal"}, {"id": "135", "link": "/find?type=3&query=abyss", "word": "abyss"}], "data": {}}, "synonyms": {"suggests": [{"id": "48", "link": "/find?type=4&query=abysmal", "word": "abysmal"}, {"id": "49", "link": "/find?type=4&query=abyss", "word": "abyss"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "134",
+                "link": "/find?type=3&query=abysmal",
+                "word": "abysmal"
+            },
+            {
+                "id": "135",
+                "link": "/find?type=3&query=abyss",
+                "word": "abyss"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y linh sam</div>",
+            "id": "143",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "abies"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48",
+                "link": "/find?type=4&query=abysmal",
+                "word": "abysmal"
+            },
+            {
+                "id": "49",
+                "link": "/find?type=4&query=abyss",
+                "word": "abyss"
+            }
+        ]
+    }
+}
