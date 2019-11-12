@@ -1,1 +1,32 @@
-{"error": 0, "query": "haberdash", "enViData": {"suggests": [{"id": "42234", "link": "/find?type=1&query=haberdasher", "word": "haberdasher"}, {"id": "42235", "link": "/find?type=1&query=haberdashery", "word": "haberdashery"}]}, "mUrl": "/find?type=1&query=haberdash", "enEnData": {"suggests": [{"id": "12844", "link": "/find?type=3&query=haberdasher", "word": "haberdasher"}, {"id": "12845", "link": "/find?type=3&query=haberdashery", "word": "haberdashery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12844",
+                "link": "/find?type=3&query=haberdasher",
+                "word": "haberdasher"
+            },
+            {
+                "id": "12845",
+                "link": "/find?type=3&query=haberdashery",
+                "word": "haberdashery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42234",
+                "link": "/find?type=1&query=haberdasher",
+                "word": "haberdasher"
+            },
+            {
+                "id": "42235",
+                "link": "/find?type=1&query=haberdashery",
+                "word": "haberdashery"
+            }
+        ]
+    }
+}
