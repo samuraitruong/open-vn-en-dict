@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "1031", "link": "/find?type=1&query=acronycal", "word": "acronycal"}, {"id": "1032", "link": "/find?type=1&query=acronychal", "word": "acronychal"}, {"id": "1033", "link": "/find?type=1&query=acronym", "word": "acronym"}, {"id": "1034", "link": "/find?type=1&query=acronymic", "word": "acronymic"}, {"id": "1035", "link": "/find?type=1&query=acronymous", "word": "acronymous"}], "data": {}}, "en_en": {"suggests": [{"id": "249", "link": "/find?type=3&query=acronym", "word": "acronym"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "249",
+                "link": "/find?type=3&query=acronym",
+                "word": "acronym"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1031",
+                "link": "/find?type=1&query=acronycal",
+                "word": "acronycal"
+            },
+            {
+                "id": "1032",
+                "link": "/find?type=1&query=acronychal",
+                "word": "acronychal"
+            },
+            {
+                "id": "1033",
+                "link": "/find?type=1&query=acronym",
+                "word": "acronym"
+            },
+            {
+                "id": "1034",
+                "link": "/find?type=1&query=acronymic",
+                "word": "acronymic"
+            },
+            {
+                "id": "1035",
+                "link": "/find?type=1&query=acronymous",
+                "word": "acronymous"
+            }
+        ]
+    }
+}

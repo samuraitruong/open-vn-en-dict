@@ -1,1 +1,50 @@
-{"en_vn": {"suggests": [{"id": "989", "link": "/find?type=1&query=acquiescence", "word": "acquiescence"}, {"id": "989", "link": "/find?type=1&query=acquiescent", "word": "acquiescent"}, {"id": "989", "link": "/find?type=1&query=acquiescently", "word": "acquiescently"}], "data": {"word": "acquiesce", "id": "989", "pronounce": "/\u00e6kwi'es/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u01b0ng thu\u1eadn, \u0111\u1ed3ng \u00fd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">her parents will never acquiesce in such an unsuitable marriage</div>\n    \n    <div class=\"margin25\">b\u1ed1 m\u1eb9 c\u00f4 ta kh\u00f4ng bao gi\u1edd \u0111\u1ed3ng \u00fd m\u1ed9t cu\u1ed9c h\u00f4n nh\u00e2n kh\u00f4ng x\u1ee9ng \u0111\u00f4i nh\u01b0 v\u1eady</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/281383fac0fce739638a6de499d5e081/16e5db6a539/A/acquiesce.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/296ac0e19ae334906a587cc261d8bdb3/16e5db6aadd/A/acquiesce.mp3"}}}, "en_en": {"suggests": [{"id": "234", "link": "/find?type=3&query=acquiescent", "word": "acquiescent"}], "data": {"word": "acquiesce", "id": "234", "pronounce": "/\u02cc\u00e6kwi\u02c8\u025bs/", "type": "verb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-esces; -esced; -escing</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] formal :to accept, agree, or allow something to happen by staying silent or by not arguing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They demanded it, and he acquiesced. - often + in</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We cannot acquiesce in the killing of innocent people. - often + to</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She acquiesced to her husband's plans.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-esces; -esced; -escing</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] formal :to accept, agree, or allow something to happen by staying silent or by not arguing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They demanded it, and he acquiesced. - often + in</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We cannot acquiesce in the killing of innocent people. - often + to</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She acquiesced to her husband's plans.</div>",
+            "id": "234",
+            "mean": [],
+            "pronounce": "/\u02cc\u00e6kwi\u02c8\u025bs/",
+            "type": "verb",
+            "word": "acquiesce"
+        },
+        "suggests": [
+            {
+                "id": "234",
+                "link": "/find?type=3&query=acquiescent",
+                "word": "acquiescent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u01b0ng thu\u1eadn, \u0111\u1ed3ng \u00fd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">her parents will never acquiesce in such an unsuitable marriage</div>\n    \n    <div class=\"margin25\">b\u1ed1 m\u1eb9 c\u00f4 ta kh\u00f4ng bao gi\u1edd \u0111\u1ed3ng \u00fd m\u1ed9t cu\u1ed9c h\u00f4n nh\u00e2n kh\u00f4ng x\u1ee9ng \u0111\u00f4i nh\u01b0 v\u1eady</div>",
+            "id": "989",
+            "mean": [],
+            "pronounce": "/\u00e6kwi'es/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/72fde43a3bb38692a5dfff18e3048519/16e5ea049d2/A/acquiesce.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3fd63e3e05f17d45a411ea2375af884c/16e5ea044a7/A/acquiesce.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "acquiesce"
+        },
+        "suggests": [
+            {
+                "id": "989",
+                "link": "/find?type=1&query=acquiescence",
+                "word": "acquiescence"
+            },
+            {
+                "id": "989",
+                "link": "/find?type=1&query=acquiescent",
+                "word": "acquiescent"
+            },
+            {
+                "id": "989",
+                "link": "/find?type=1&query=acquiescently",
+                "word": "acquiescently"
+            }
+        ]
+    }
+}

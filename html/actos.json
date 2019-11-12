@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "1144", "link": "/find?type=1&query=actor", "word": "actor"}, {"id": "1145", "link": "/find?type=1&query=actorish", "word": "actorish"}], "data": {}}, "en_en": {"suggests": [{"id": "266", "link": "/find?type=3&query=actor", "word": "actor"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "266",
+                "link": "/find?type=3&query=actor",
+                "word": "actor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1144",
+                "link": "/find?type=1&query=actor",
+                "word": "actor"
+            },
+            {
+                "id": "1145",
+                "link": "/find?type=1&query=actorish",
+                "word": "actorish"
+            }
+        ]
+    }
+}

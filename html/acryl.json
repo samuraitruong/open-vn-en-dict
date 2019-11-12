@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "1051", "link": "/find?type=1&query=acrylic", "word": "acrylic"}], "data": {}}, "en_en": {"suggests": [{"id": "252", "link": "/find?type=3&query=acrylic", "word": "acrylic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "252",
+                "link": "/find?type=3&query=acrylic",
+                "word": "acrylic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1051",
+                "link": "/find?type=1&query=acrylic",
+                "word": "acrylic"
+            }
+        ]
+    }
+}
