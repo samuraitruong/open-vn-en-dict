@@ -1,1 +1,34 @@
-{"error": 0, "query": "herons", "enViData": {"suggests": [{"id": "43728", "link": "/find?type=1&query=heronry", "word": "heronry"}], "best": {"id": "43728", "details": "\n<div id=\"find_word_43728\" class=\"world word_en\" rel=\"heron\">\n    <h2 class=\"fl\">heron <span class=\"color-black\">/'her\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43728\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43728\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) chim di\u1ec7c</div>\n    \n</div>\n", "link": "/find?type=1&query=heron", "word": "heron"}}, "mUrl": "/find?type=1&query=herons", "enEnData": {"suggests": [], "best": {"id": "13477", "details": "\n<div id=\"find_word_13477\" class=\"world word_en\" rel=\"heron\">\n    <h2 class=\"fl\">heron <span class=\"color-black\">/\u02c8her\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13477\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13477\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large bird that has long legs and a long neck and bill - see color picture</div>\n    \n</div>\n", "link": "/find?type=3&query=heron", "word": "heron"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large bird that has long legs and a long neck and bill - see color picture</div>",
+            "id": "13477",
+            "mean": [],
+            "pronounce": "/\u02c8her\u0259n/",
+            "type": "noun",
+            "word": "heron"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) chim di\u1ec7c</div>",
+            "id": "43728",
+            "mean": [],
+            "pronounce": "/'her\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/39b46a3e5264131efdb723f3cbbb0b2b/16e6193091a/H/heron.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9ce5198a3fa8680c61b9444544f44981/16e61930129/H/heron.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "heron"
+        },
+        "suggests": [
+            {
+                "id": "43728",
+                "link": "/find?type=1&query=heronry",
+                "word": "heronry"
+            }
+        ]
+    }
+}
