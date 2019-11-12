@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "26157", "link": "/find?type=1&query=dishwasher", "word": "dishwasher"}], "data": {}}, "en_en": {"suggests": [{"id": "8229", "link": "/find?type=3&query=dishwashing+detergent", "word": "dishwashing detergent"}, {"id": "8230", "link": "/find?type=3&query=dishwashing+liquid", "word": "dishwashing liquid"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8229",
+                "link": "/find?type=3&query=dishwashing+detergent",
+                "word": "dishwashing detergent"
+            },
+            {
+                "id": "8230",
+                "link": "/find?type=3&query=dishwashing+liquid",
+                "word": "dishwashing liquid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26157",
+                "link": "/find?type=1&query=dishwasher",
+                "word": "dishwasher"
+            }
+        ]
+    }
+}

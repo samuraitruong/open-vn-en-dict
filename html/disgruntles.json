@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "26109", "link": "/find?type=1&query=disgruntled", "word": "disgruntled"}, {"id": "26110", "link": "/find?type=1&query=disgruntlement", "word": "disgruntlement"}], "data": {}}, "en_en": {"suggests": [{"id": "8207", "link": "/find?type=3&query=disgruntled", "word": "disgruntled"}], "data": {}}, "synonyms": {"suggests": [{"id": "1755", "link": "/find?type=4&query=disgruntled", "word": "disgruntled"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8207",
+                "link": "/find?type=3&query=disgruntled",
+                "word": "disgruntled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26109",
+                "link": "/find?type=1&query=disgruntled",
+                "word": "disgruntled"
+            },
+            {
+                "id": "26110",
+                "link": "/find?type=1&query=disgruntlement",
+                "word": "disgruntlement"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1755",
+                "link": "/find?type=4&query=disgruntled",
+                "word": "disgruntled"
+            }
+        ]
+    }
+}
