@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "14109", "link": "/find?type=1&query=centripetally", "word": "centripetally"}], "data": {"word": "centripetal", "id": "14109", "pronounce": "/sen'tripitl; ,sentri'pi:tl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u1edbng t\u00e2m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4456", "link": "/find?type=3&query=centripetal+force", "word": "centripetal force"}], "data": {"word": "centripetal", "id": "4456", "pronounce": "/s\u025bn\u02c8tr\u026ap\u0259tn\u0329/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :moving toward a center :acting in a direction toward a center</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :moving toward a center :acting in a direction toward a center</div>",
+            "id": "4456",
+            "mean": [],
+            "pronounce": "/s\u025bn\u02c8tr\u026ap\u0259tn\u0329/",
+            "type": "adjective",
+            "word": "centripetal"
+        },
+        "suggests": [
+            {
+                "id": "4456",
+                "link": "/find?type=3&query=centripetal+force",
+                "word": "centripetal force"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u1edbng t\u00e2m</div>",
+            "id": "14109",
+            "mean": [],
+            "pronounce": "/sen'tripitl; ,sentri'pi:tl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "centripetal"
+        },
+        "suggests": [
+            {
+                "id": "14109",
+                "link": "/find?type=1&query=centripetally",
+                "word": "centripetally"
+            }
+        ]
+    }
+}

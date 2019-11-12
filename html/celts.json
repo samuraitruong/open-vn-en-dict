@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "13974", "link": "/find?type=1&query=Celtic", "word": "Celtic"}, {"id": "13974", "link": "/find?type=1&query=celticism", "word": "celticism"}, {"id": "13974", "link": "/find?type=1&query=celticist", "word": "celticist"}, {"id": "13974", "link": "/find?type=1&query=celtologist", "word": "celtologist"}], "data": {"word": "Celt", "id": "13974", "pronounce": "/kelt/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi Celt (d\u00e2n T\u00e2y \u00c2u x\u01b0a, m\u1ed9t s\u1ed1 \u0111\u1ecbnh c\u01b0 \u1edf Anh tr\u01b0\u1edbc ng\u01b0\u1eddi La M\u00e3, nay \u1edf x\u1ee9 Wales, Ireland, Scotland v\u00e0 Cornwall)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5cde464885b8ca06b2a22e56c2e56547/16e5de64375/C/Celt.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/a3f1e4aa3287e09c9a75c35307934550/16e5de64939/C/Celt.mp3"}}}, "en_en": {"suggests": [{"id": "4409", "link": "/find?type=3&query=Celtic", "word": "Celtic"}], "data": {"word": "Celt", "id": "4409", "pronounce": "/\u02c8k\u025blt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Celts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a member of a group of people (such as the Irish or Welsh) who lived in ancient Britain and parts of western Europe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The Celts defended their lands against the Romans.</div>\n    \n    <div class=\"green margin25 m-top15\">a person whose ancestors were Celts</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Celts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a member of a group of people (such as the Irish or Welsh) who lived in ancient Britain and parts of western Europe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The Celts defended their lands against the Romans.</div>\n    \n    <div class=\"green margin25 m-top15\">a person whose ancestors were Celts</div>",
+            "id": "4409",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025blt/",
+            "type": "noun",
+            "word": "Celt"
+        },
+        "suggests": [
+            {
+                "id": "4409",
+                "link": "/find?type=3&query=Celtic",
+                "word": "Celtic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi Celt (d\u00e2n T\u00e2y \u00c2u x\u01b0a, m\u1ed9t s\u1ed1 \u0111\u1ecbnh c\u01b0 \u1edf Anh tr\u01b0\u1edbc ng\u01b0\u1eddi La M\u00e3, nay \u1edf x\u1ee9 Wales, Ireland, Scotland v\u00e0 Cornwall)</div>",
+            "id": "13974",
+            "mean": [],
+            "pronounce": "/kelt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d9c77069e0da7dd72d6b82e13bed33e2/16e5ec70ad5/C/Celt.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/85fbaa91a00d764a6e484118f3afefed/16e5ec7058c/C/Celt.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Celt"
+        },
+        "suggests": [
+            {
+                "id": "13974",
+                "link": "/find?type=1&query=Celtic",
+                "word": "Celtic"
+            },
+            {
+                "id": "13974",
+                "link": "/find?type=1&query=celticism",
+                "word": "celticism"
+            },
+            {
+                "id": "13974",
+                "link": "/find?type=1&query=celticist",
+                "word": "celticist"
+            },
+            {
+                "id": "13974",
+                "link": "/find?type=1&query=celtologist",
+                "word": "celtologist"
+            }
+        ]
+    }
+}

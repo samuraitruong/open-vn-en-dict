@@ -1,1 +1,95 @@
-{"en_vn": {"suggests": [{"id": "14033", "link": "/find?type=1&query=centibar", "word": "centibar"}, {"id": "14033", "link": "/find?type=1&query=centigrade", "word": "centigrade"}, {"id": "14033", "link": "/find?type=1&query=centigram", "word": "centigram"}, {"id": "14033", "link": "/find?type=1&query=centigram%2C+centigramme", "word": "centigram, centigramme"}, {"id": "14033", "link": "/find?type=1&query=centigramme", "word": "centigramme"}, {"id": "14033", "link": "/find?type=1&query=centile", "word": "centile"}, {"id": "14033", "link": "/find?type=1&query=centiliter", "word": "centiliter"}, {"id": "14033", "link": "/find?type=1&query=centilitre", "word": "centilitre"}, {"id": "14033", "link": "/find?type=1&query=centime", "word": "centime"}], "data": {"word": "centi", "id": "14033", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) ph\u1ea7n tr\u0103m, centi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4435", "link": "/find?type=3&query=centi-", "word": "centi-"}, {"id": "4436", "link": "/find?type=3&query=centigrade", "word": "centigrade"}, {"id": "4437", "link": "/find?type=3&query=centigram", "word": "centigram"}, {"id": "4438", "link": "/find?type=3&query=centiliter", "word": "centiliter"}, {"id": "4439", "link": "/find?type=3&query=centimeter", "word": "centimeter"}, {"id": "4440", "link": "/find?type=3&query=centipede", "word": "centipede"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4435",
+                "link": "/find?type=3&query=centi-",
+                "word": "centi-"
+            },
+            {
+                "id": "4436",
+                "link": "/find?type=3&query=centigrade",
+                "word": "centigrade"
+            },
+            {
+                "id": "4437",
+                "link": "/find?type=3&query=centigram",
+                "word": "centigram"
+            },
+            {
+                "id": "4438",
+                "link": "/find?type=3&query=centiliter",
+                "word": "centiliter"
+            },
+            {
+                "id": "4439",
+                "link": "/find?type=3&query=centimeter",
+                "word": "centimeter"
+            },
+            {
+                "id": "4440",
+                "link": "/find?type=3&query=centipede",
+                "word": "centipede"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(K\u1ef9 thu\u1eadt) ph\u1ea7n tr\u0103m, centi</div>",
+            "id": "14033",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "centi"
+        },
+        "suggests": [
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centibar",
+                "word": "centibar"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centigrade",
+                "word": "centigrade"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centigram",
+                "word": "centigram"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centigram%2C+centigramme",
+                "word": "centigram, centigramme"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centigramme",
+                "word": "centigramme"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centile",
+                "word": "centile"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centiliter",
+                "word": "centiliter"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centilitre",
+                "word": "centilitre"
+            },
+            {
+                "id": "14033",
+                "link": "/find?type=1&query=centime",
+                "word": "centime"
+            }
+        ]
+    }
+}

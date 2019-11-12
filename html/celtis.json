@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "13975", "link": "/find?type=1&query=Celtic", "word": "Celtic"}, {"id": "13976", "link": "/find?type=1&query=celticism", "word": "celticism"}, {"id": "13977", "link": "/find?type=1&query=celticist", "word": "celticist"}], "data": {}}, "en_en": {"suggests": [{"id": "4410", "link": "/find?type=3&query=Celtic", "word": "Celtic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4410",
+                "link": "/find?type=3&query=Celtic",
+                "word": "Celtic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13975",
+                "link": "/find?type=1&query=Celtic",
+                "word": "Celtic"
+            },
+            {
+                "id": "13976",
+                "link": "/find?type=1&query=celticism",
+                "word": "celticism"
+            },
+            {
+                "id": "13977",
+                "link": "/find?type=1&query=celticist",
+                "word": "celticist"
+            }
+        ]
+    }
+}

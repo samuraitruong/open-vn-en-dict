@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "14101", "link": "/find?type=1&query=centrifugal+force", "word": "centrifugal force"}, {"id": "14101", "link": "/find?type=1&query=centrifugalism", "word": "centrifugalism"}, {"id": "14101", "link": "/find?type=1&query=centrifugally", "word": "centrifugally"}], "data": {"word": "centrifugal", "id": "14101", "pronounce": "/sen'trifj\u028agl; ,sentri'fju:gl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ly t\u00e2m</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4453", "link": "/find?type=3&query=centrifugal+force", "word": "centrifugal force"}], "data": {"word": "centrifugal", "id": "4453", "pronounce": "/s\u025bn\u02c8tr\u026afj\u0259g\u0259l/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :moving away from a center :acting in a direction away from a center</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :moving away from a center :acting in a direction away from a center</div>",
+            "id": "4453",
+            "mean": [],
+            "pronounce": "/s\u025bn\u02c8tr\u026afj\u0259g\u0259l/",
+            "type": "adjective",
+            "word": "centrifugal"
+        },
+        "suggests": [
+            {
+                "id": "4453",
+                "link": "/find?type=3&query=centrifugal+force",
+                "word": "centrifugal force"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ly t\u00e2m</div>",
+            "id": "14101",
+            "mean": [],
+            "pronounce": "/sen'trifj\u028agl; ,sentri'fju:gl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "centrifugal"
+        },
+        "suggests": [
+            {
+                "id": "14101",
+                "link": "/find?type=1&query=centrifugal+force",
+                "word": "centrifugal force"
+            },
+            {
+                "id": "14101",
+                "link": "/find?type=1&query=centrifugalism",
+                "word": "centrifugalism"
+            },
+            {
+                "id": "14101",
+                "link": "/find?type=1&query=centrifugally",
+                "word": "centrifugally"
+            }
+        ]
+    }
+}
