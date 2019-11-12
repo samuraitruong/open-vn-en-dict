@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "34142", "link": "/find?type=1&query=fantastic", "word": "fantastic"}, {"id": "34142", "link": "/find?type=1&query=fantasticality", "word": "fantasticality"}, {"id": "34142", "link": "/find?type=1&query=fantastically", "word": "fantastically"}, {"id": "34142", "link": "/find?type=1&query=fantasticism", "word": "fantasticism"}], "data": {"word": "fantast", "id": "34142", "pronounce": "/'f\u00e6nt\u00e6st/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u1ea3o t\u01b0\u1edfng, ng\u01b0\u1eddi m\u01a1 m\u1ed9ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "10299", "link": "/find?type=3&query=fantastic", "word": "fantastic"}], "data": {}}, "synonyms": {"suggests": [{"id": "2506", "link": "/find?type=4&query=fantastic", "word": "fantastic"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10299",
+                "link": "/find?type=3&query=fantastic",
+                "word": "fantastic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u1ea3o t\u01b0\u1edfng, ng\u01b0\u1eddi m\u01a1 m\u1ed9ng</div>",
+            "id": "34142",
+            "mean": [],
+            "pronounce": "/'f\u00e6nt\u00e6st/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "fantast"
+        },
+        "suggests": [
+            {
+                "id": "34142",
+                "link": "/find?type=1&query=fantastic",
+                "word": "fantastic"
+            },
+            {
+                "id": "34142",
+                "link": "/find?type=1&query=fantasticality",
+                "word": "fantasticality"
+            },
+            {
+                "id": "34142",
+                "link": "/find?type=1&query=fantastically",
+                "word": "fantastically"
+            },
+            {
+                "id": "34142",
+                "link": "/find?type=1&query=fantasticism",
+                "word": "fantasticism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2506",
+                "link": "/find?type=4&query=fantastic",
+                "word": "fantastic"
+            }
+        ]
+    }
+}
