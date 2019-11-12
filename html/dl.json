@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "26794", "link": "/find?type=1&query=DLE+%28data+link+escape%29", "word": "DLE (data link escape)"}, {"id": "26794", "link": "/find?type=1&query=DLE+%28Data+Link+Escape%29+character", "word": "DLE (Data Link Escape) character"}], "data": {"word": "dl", "id": "26794", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c dls)</div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a decilitre)</div>\n    \n    <div class=\"green margin25 m-top15\">dexilit</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "DL", "id": "8436", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">disabled list</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was put on the DL for the remainder of the season.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">disabled list</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was put on the DL for the remainder of the season.</div>",
+            "id": "8436",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "DL"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c dls)</div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a decilitre)</div>\n    \n    <div class=\"green margin25 m-top15\">dexilit</div>",
+            "id": "26794",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "dl"
+        },
+        "suggests": [
+            {
+                "id": "26794",
+                "link": "/find?type=1&query=DLE+%28data+link+escape%29",
+                "word": "DLE (data link escape)"
+            },
+            {
+                "id": "26794",
+                "link": "/find?type=1&query=DLE+%28Data+Link+Escape%29+character",
+                "word": "DLE (Data Link Escape) character"
+            }
+        ]
+    }
+}

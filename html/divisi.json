@@ -1,1 +1,97 @@
-{"en_vn": {"suggests": [{"id": "26751", "link": "/find?type=1&query=divisibility", "word": "divisibility"}, {"id": "26752", "link": "/find?type=1&query=divisible", "word": "divisible"}, {"id": "26753", "link": "/find?type=1&query=division", "word": "division"}, {"id": "26754", "link": "/find?type=1&query=division+lobby", "word": "division lobby"}, {"id": "26755", "link": "/find?type=1&query=division+of+labour", "word": "division of labour"}, {"id": "26756", "link": "/find?type=1&query=division+sign", "word": "division sign"}, {"id": "26757", "link": "/find?type=1&query=division-bell", "word": "division-bell"}, {"id": "26758", "link": "/find?type=1&query=divisional", "word": "divisional"}, {"id": "26759", "link": "/find?type=1&query=divisive", "word": "divisive"}, {"id": "26760", "link": "/find?type=1&query=divisively", "word": "divisively"}], "data": {}}, "en_en": {"suggests": [{"id": "8419", "link": "/find?type=3&query=divisible", "word": "divisible"}, {"id": "8420", "link": "/find?type=3&query=division", "word": "division"}, {"id": "8421", "link": "/find?type=3&query=division+sign", "word": "division sign"}, {"id": "8422", "link": "/find?type=3&query=divisional", "word": "divisional"}, {"id": "8423", "link": "/find?type=3&query=divisive", "word": "divisive"}], "data": {}}, "synonyms": {"suggests": [{"id": "1863", "link": "/find?type=4&query=division", "word": "division"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8419",
+                "link": "/find?type=3&query=divisible",
+                "word": "divisible"
+            },
+            {
+                "id": "8420",
+                "link": "/find?type=3&query=division",
+                "word": "division"
+            },
+            {
+                "id": "8421",
+                "link": "/find?type=3&query=division+sign",
+                "word": "division sign"
+            },
+            {
+                "id": "8422",
+                "link": "/find?type=3&query=divisional",
+                "word": "divisional"
+            },
+            {
+                "id": "8423",
+                "link": "/find?type=3&query=divisive",
+                "word": "divisive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26751",
+                "link": "/find?type=1&query=divisibility",
+                "word": "divisibility"
+            },
+            {
+                "id": "26752",
+                "link": "/find?type=1&query=divisible",
+                "word": "divisible"
+            },
+            {
+                "id": "26753",
+                "link": "/find?type=1&query=division",
+                "word": "division"
+            },
+            {
+                "id": "26754",
+                "link": "/find?type=1&query=division+lobby",
+                "word": "division lobby"
+            },
+            {
+                "id": "26755",
+                "link": "/find?type=1&query=division+of+labour",
+                "word": "division of labour"
+            },
+            {
+                "id": "26756",
+                "link": "/find?type=1&query=division+sign",
+                "word": "division sign"
+            },
+            {
+                "id": "26757",
+                "link": "/find?type=1&query=division-bell",
+                "word": "division-bell"
+            },
+            {
+                "id": "26758",
+                "link": "/find?type=1&query=divisional",
+                "word": "divisional"
+            },
+            {
+                "id": "26759",
+                "link": "/find?type=1&query=divisive",
+                "word": "divisive"
+            },
+            {
+                "id": "26760",
+                "link": "/find?type=1&query=divisively",
+                "word": "divisively"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1863",
+                "link": "/find?type=4&query=division",
+                "word": "division"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "26677", "link": "/find?type=1&query=diurnal", "word": "diurnal"}, {"id": "26678", "link": "/find?type=1&query=diurnally", "word": "diurnally"}], "data": {}}, "en_en": {"suggests": [{"id": "8388", "link": "/find?type=3&query=diurnal", "word": "diurnal"}], "data": {}}, "synonyms": {"suggests": [{"id": "1850", "link": "/find?type=4&query=diurnal", "word": "diurnal"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8388",
+                "link": "/find?type=3&query=diurnal",
+                "word": "diurnal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26677",
+                "link": "/find?type=1&query=diurnal",
+                "word": "diurnal"
+            },
+            {
+                "id": "26678",
+                "link": "/find?type=1&query=diurnally",
+                "word": "diurnally"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1850",
+                "link": "/find?type=4&query=diurnal",
+                "word": "diurnal"
+            }
+        ]
+    }
+}

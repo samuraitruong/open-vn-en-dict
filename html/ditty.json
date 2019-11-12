@@ -1,1 +1,28 @@
-{"en_vn": {"suggests": [{"id": "26672", "link": "/find?type=1&query=ditty-bag", "word": "ditty-bag"}, {"id": "26673", "link": "/find?type=1&query=ditty-box", "word": "ditty-box"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "ditty", "id": "8384", "pronounce": "/\u02c8d\u026ati/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ties</div>\n    \n    <div class=\"green margin25 m-top15\">[count] sometimes humorous :a short and simple song</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Play us a little ditty.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ties</div>\n    \n    <div class=\"green margin25 m-top15\">[count] sometimes humorous :a short and simple song</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Play us a little ditty.</div>",
+            "id": "8384",
+            "mean": [],
+            "pronounce": "/\u02c8d\u026ati/",
+            "type": "noun",
+            "word": "ditty"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26672",
+                "link": "/find?type=1&query=ditty-bag",
+                "word": "ditty-bag"
+            },
+            {
+                "id": "26673",
+                "link": "/find?type=1&query=ditty-box",
+                "word": "ditty-box"
+            }
+        ]
+    }
+}

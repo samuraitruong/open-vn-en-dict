@@ -1,1 +1,60 @@
-{"en_vn": {"suggests": [{"id": "26798", "link": "/find?type=1&query=DM", "word": "DM"}, {"id": "26798", "link": "/find?type=1&query=dma", "word": "dma"}, {"id": "26798", "link": "/find?type=1&query=DMA+bus", "word": "DMA bus"}, {"id": "26798", "link": "/find?type=1&query=DMA+interface", "word": "DMA interface"}, {"id": "26798", "link": "/find?type=1&query=DMA+multiplexer", "word": "DMA multiplexer"}, {"id": "26798", "link": "/find?type=1&query=Dmus", "word": "Dmus"}], "data": {"word": "dm", "id": "26798", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a decimetre)</div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i hay dms)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111eximet</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "8437", "link": "/find?type=3&query=DMV", "word": "DMV"}, {"id": "8438", "link": "/find?type=3&query=DMZ", "word": "DMZ"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8437",
+                "link": "/find?type=3&query=DMV",
+                "word": "DMV"
+            },
+            {
+                "id": "8438",
+                "link": "/find?type=3&query=DMZ",
+                "word": "DMZ"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a decimetre)</div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i hay dms)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111eximet</div>",
+            "id": "26798",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "dm"
+        },
+        "suggests": [
+            {
+                "id": "26798",
+                "link": "/find?type=1&query=DM",
+                "word": "DM"
+            },
+            {
+                "id": "26798",
+                "link": "/find?type=1&query=dma",
+                "word": "dma"
+            },
+            {
+                "id": "26798",
+                "link": "/find?type=1&query=DMA+bus",
+                "word": "DMA bus"
+            },
+            {
+                "id": "26798",
+                "link": "/find?type=1&query=DMA+interface",
+                "word": "DMA interface"
+            },
+            {
+                "id": "26798",
+                "link": "/find?type=1&query=DMA+multiplexer",
+                "word": "DMA multiplexer"
+            },
+            {
+                "id": "26798",
+                "link": "/find?type=1&query=Dmus",
+                "word": "Dmus"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "26771", "link": "/find?type=1&query=divulgate", "word": "divulgate"}, {"id": "26772", "link": "/find?type=1&query=divulgation", "word": "divulgation"}, {"id": "26773", "link": "/find?type=1&query=divulge", "word": "divulge"}, {"id": "26774", "link": "/find?type=1&query=divulgement", "word": "divulgement"}, {"id": "26775", "link": "/find?type=1&query=divulgence", "word": "divulgence"}, {"id": "26776", "link": "/find?type=1&query=divulger", "word": "divulger"}, {"id": "26777", "link": "/find?type=1&query=divulsion", "word": "divulsion"}], "data": {}}, "en_en": {"suggests": [{"id": "8428", "link": "/find?type=3&query=divulge", "word": "divulge"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8428",
+                "link": "/find?type=3&query=divulge",
+                "word": "divulge"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26771",
+                "link": "/find?type=1&query=divulgate",
+                "word": "divulgate"
+            },
+            {
+                "id": "26772",
+                "link": "/find?type=1&query=divulgation",
+                "word": "divulgation"
+            },
+            {
+                "id": "26773",
+                "link": "/find?type=1&query=divulge",
+                "word": "divulge"
+            },
+            {
+                "id": "26774",
+                "link": "/find?type=1&query=divulgement",
+                "word": "divulgement"
+            },
+            {
+                "id": "26775",
+                "link": "/find?type=1&query=divulgence",
+                "word": "divulgence"
+            },
+            {
+                "id": "26776",
+                "link": "/find?type=1&query=divulger",
+                "word": "divulger"
+            },
+            {
+                "id": "26777",
+                "link": "/find?type=1&query=divulsion",
+                "word": "divulsion"
+            }
+        ]
+    }
+}

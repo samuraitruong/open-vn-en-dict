@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "26788", "link": "/find?type=1&query=dizzily", "word": "dizzily"}, {"id": "26789", "link": "/find?type=1&query=dizziness", "word": "dizziness"}, {"id": "26790", "link": "/find?type=1&query=dizzy", "word": "dizzy"}], "data": {}}, "en_en": {"suggests": [{"id": "8432", "link": "/find?type=3&query=dizzy", "word": "dizzy"}, {"id": "8433", "link": "/find?type=3&query=dizzying", "word": "dizzying"}], "data": {}}, "synonyms": {"suggests": [{"id": "1865", "link": "/find?type=4&query=dizzy", "word": "dizzy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8432",
+                "link": "/find?type=3&query=dizzy",
+                "word": "dizzy"
+            },
+            {
+                "id": "8433",
+                "link": "/find?type=3&query=dizzying",
+                "word": "dizzying"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26788",
+                "link": "/find?type=1&query=dizzily",
+                "word": "dizzily"
+            },
+            {
+                "id": "26789",
+                "link": "/find?type=1&query=dizziness",
+                "word": "dizziness"
+            },
+            {
+                "id": "26790",
+                "link": "/find?type=1&query=dizzy",
+                "word": "dizzy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1865",
+                "link": "/find?type=4&query=dizzy",
+                "word": "dizzy"
+            }
+        ]
+    }
+}
