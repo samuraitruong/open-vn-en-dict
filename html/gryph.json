@@ -1,1 +1,22 @@
-{"error": 0, "query": "gryph", "enViData": {"suggests": [{"id": "41820", "link": "/find?type=1&query=gryphon", "word": "gryphon"}]}, "mUrl": "/find?type=1&query=gryph", "enEnData": {"suggests": [{"id": "12711", "link": "/find?type=3&query=gryphon", "word": "gryphon"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12711",
+                "link": "/find?type=3&query=gryphon",
+                "word": "gryphon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "41820",
+                "link": "/find?type=1&query=gryphon",
+                "word": "gryphon"
+            }
+        ]
+    }
+}
