@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8257", "link": "/find?type=1&query=barretter", "word": "barretter"}], "data": {}}, "en_en": {"suggests": [{"id": "2102", "link": "/find?type=3&query=barrette", "word": "barrette"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2102",
+                "link": "/find?type=3&query=barrette",
+                "word": "barrette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8257",
+                "link": "/find?type=1&query=barretter",
+                "word": "barretter"
+            }
+        ]
+    }
+}

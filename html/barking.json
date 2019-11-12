@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "8179", "link": "/find?type=1&query=barking+iron", "word": "barking iron"}], "data": {"word": "barking", "id": "8179", "pronounce": "/'b\u0251:ki\u0273/", "type": "Danh t\u1eeb T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng s\u1ee7a</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ee7a</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2069", "link": "/find?type=3&query=barking+mad", "word": "barking mad"}], "data": {"word": "barking", "id": "2069", "pronounce": "", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">Brit informal :barking mad</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">Brit informal :barking mad</div>",
+            "id": "2069",
+            "mean": [],
+            "pronounce": "",
+            "type": "adjective",
+            "word": "barking"
+        },
+        "suggests": [
+            {
+                "id": "2069",
+                "link": "/find?type=3&query=barking+mad",
+                "word": "barking mad"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng s\u1ee7a</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ee7a</div>",
+            "id": "8179",
+            "mean": [],
+            "pronounce": "/'b\u0251:ki\u0273/",
+            "speak": {},
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "barking"
+        },
+        "suggests": [
+            {
+                "id": "8179",
+                "link": "/find?type=1&query=barking+iron",
+                "word": "barking iron"
+            }
+        ]
+    }
+}

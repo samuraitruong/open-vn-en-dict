@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "8221", "link": "/find?type=1&query=baronetage", "word": "baronetage"}, {"id": "8221", "link": "/find?type=1&query=baronetcy", "word": "baronetcy"}], "data": {"word": "baronet", "id": "8221", "pronounce": "/'b\u00e6r\u0259nit/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft Bart, Bt)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00f2ng nam t\u01b0\u1edbc</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ad9f8b2b8459fa4e9f671386ef1d4a0f/16e5dd1bba2/B/baronet.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/ee868408833299e1331224b9165cbf1a/16e5dd1c1b7/B/baronet.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "baronet", "id": "2088", "pronounce": "/\u02c8ber\u0259n\u0259t/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a man who is a member of the British nobility with a rank below a baron</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a man who is a member of the British nobility with a rank below a baron</div>",
+            "id": "2088",
+            "mean": [],
+            "pronounce": "/\u02c8ber\u0259n\u0259t/",
+            "type": "noun",
+            "word": "baronet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft Bart, Bt)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00f2ng nam t\u01b0\u1edbc</div>",
+            "id": "8221",
+            "mean": [],
+            "pronounce": "/'b\u00e6r\u0259nit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ba88e86d20225345d6d38c862fce5a7b/16e5eb47e98/B/baronet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6730998c2b9b08a4252543b30dfa4215/16e5eb47982/B/baronet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "baronet"
+        },
+        "suggests": [
+            {
+                "id": "8221",
+                "link": "/find?type=1&query=baronetage",
+                "word": "baronetage"
+            },
+            {
+                "id": "8221",
+                "link": "/find?type=1&query=baronetcy",
+                "word": "baronetcy"
+            }
+        ]
+    }
+}

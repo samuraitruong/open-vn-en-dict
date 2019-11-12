@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "8225", "link": "/find?type=1&query=baronial", "word": "baronial"}], "data": {}}, "en_en": {"suggests": [{"id": "2089", "link": "/find?type=3&query=baronial", "word": "baronial"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2089",
+                "link": "/find?type=3&query=baronial",
+                "word": "baronial"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8225",
+                "link": "/find?type=1&query=baronial",
+                "word": "baronial"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "8283", "link": "/find?type=1&query=basally", "word": "basally"}, {"id": "8283", "link": "/find?type=1&query=basalt", "word": "basalt"}, {"id": "8283", "link": "/find?type=1&query=basaltic", "word": "basaltic"}], "data": {"word": "basal", "id": "8283", "pronounce": "/'beisl/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u01a1 b\u1ea3n, c\u01a1 s\u1edf</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2115", "link": "/find?type=3&query=basalt", "word": "basalt"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2115",
+                "link": "/find?type=3&query=basalt",
+                "word": "basalt"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u01a1 b\u1ea3n, c\u01a1 s\u1edf</div>",
+            "id": "8283",
+            "mean": [],
+            "pronounce": "/'beisl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "basal"
+        },
+        "suggests": [
+            {
+                "id": "8283",
+                "link": "/find?type=1&query=basally",
+                "word": "basally"
+            },
+            {
+                "id": "8283",
+                "link": "/find?type=1&query=basalt",
+                "word": "basalt"
+            },
+            {
+                "id": "8283",
+                "link": "/find?type=1&query=basaltic",
+                "word": "basaltic"
+            }
+        ]
+    }
+}

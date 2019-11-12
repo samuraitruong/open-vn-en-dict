@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "8173", "link": "/find?type=1&query=barium+meal", "word": "barium meal"}], "data": {"word": "barium", "id": "8173", "pronounce": "/'be\u0259ri\u0259m/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">bari (nguy\u00ean t\u1ed1)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f8215369b96a1981188bebe53fb53c0d/16e5dd188e9/B/barium.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/40b7929a8e66fae54da10c2b944b4505/16e5dd18ed7/B/barium.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "barium", "id": "2065", "pronounce": "/\u02c8berij\u0259m/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical element that is a soft silver-white metal</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical element that is a soft silver-white metal</div>",
+            "id": "2065",
+            "mean": [],
+            "pronounce": "/\u02c8berij\u0259m/",
+            "type": "noun",
+            "word": "barium"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">bari (nguy\u00ean t\u1ed1)</div>",
+            "id": "8173",
+            "mean": [],
+            "pronounce": "/'be\u0259ri\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ff491c559892c3b3c30643a4d64c6745/16e5eb453a5/B/barium.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b5bd4ea965c9b26067f3b6fff4dd7896/16e5eb44e6f/B/barium.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "barium"
+        },
+        "suggests": [
+            {
+                "id": "8173",
+                "link": "/find?type=1&query=barium+meal",
+                "word": "barium meal"
+            }
+        ]
+    }
+}

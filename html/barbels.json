@@ -1,1 +1,30 @@
-{"en_vn": {"suggests": [{"id": "8108", "link": "/find?type=1&query=barbell", "word": "barbell"}], "data": {"word": "barbel", "id": "8108", "pronounce": "/'b\u0251:b\u0259l/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) c\u00e1 r\u00e2u (lo\u00e0i c\u00e1 to thu\u1ed9c h\u1ecd ch\u00e9p, \u1edf ch\u00e2u \u00c2u)</div>\n    \n    <div class=\"green margin25 m-top15\">r\u00e2u (c\u00e1)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2036", "link": "/find?type=3&query=barbell", "word": "barbell"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2036",
+                "link": "/find?type=3&query=barbell",
+                "word": "barbell"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) c\u00e1 r\u00e2u (lo\u00e0i c\u00e1 to thu\u1ed9c h\u1ecd ch\u00e9p, \u1edf ch\u00e2u \u00c2u)</div>\n    \n    <div class=\"green margin25 m-top15\">r\u00e2u (c\u00e1)</div>",
+            "id": "8108",
+            "mean": [],
+            "pronounce": "/'b\u0251:b\u0259l/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "barbel"
+        },
+        "suggests": [
+            {
+                "id": "8108",
+                "link": "/find?type=1&query=barbell",
+                "word": "barbell"
+            }
+        ]
+    }
+}
