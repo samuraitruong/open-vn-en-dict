@@ -1,1 +1,27 @@
-{"error": 0, "query": "geopolitic", "enViData": {"suggests": [{"id": "39705", "link": "/find?type=1&query=geopolitical", "word": "geopolitical"}, {"id": "39706", "link": "/find?type=1&query=geopolitics", "word": "geopolitics"}]}, "mUrl": "/find?type=1&query=geopolitic", "enEnData": {"suggests": [{"id": "11995", "link": "/find?type=3&query=geopolitics", "word": "geopolitics"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11995",
+                "link": "/find?type=3&query=geopolitics",
+                "word": "geopolitics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "39705",
+                "link": "/find?type=1&query=geopolitical",
+                "word": "geopolitical"
+            },
+            {
+                "id": "39706",
+                "link": "/find?type=1&query=geopolitics",
+                "word": "geopolitics"
+            }
+        ]
+    }
+}
