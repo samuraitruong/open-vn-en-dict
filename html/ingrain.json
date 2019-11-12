@@ -1,1 +1,40 @@
-{"error": 0, "query": "ingrain", "enViData": {"suggests": [{"id": "48364", "link": "/find?type=1&query=ingrained", "word": "ingrained"}], "best": {"id": "48364", "details": "\n<div id=\"find_word_48364\" class=\"world word_en\" rel=\"ingrain\">\n    <h2 class=\"fl\">ingrain <span class=\"color-black\">/'in'grein/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48364\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48364\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nhu\u1ed9m ngay t\u1eeb s\u1ee3i</div>\n    \n    <div class=\"green margin25 m-top15\">\u0103n s\u00e2u, th\u00e2m c\u0103n c\u1ed1 \u0111\u1ebf</div>\n    \n</div>\n", "link": "/find?type=1&query=ingrain", "word": "ingrain"}}, "mUrl": "/find?type=1&query=ingrain", "enEnData": {"suggests": [{"id": "14921", "link": "/find?type=3&query=ingrained", "word": "ingrained"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3779", "link": "/find?type=4&query=ingrained", "word": "ingrained"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14921",
+                "link": "/find?type=3&query=ingrained",
+                "word": "ingrained"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nhu\u1ed9m ngay t\u1eeb s\u1ee3i</div>\n    \n    <div class=\"green margin25 m-top15\">\u0103n s\u00e2u, th\u00e2m c\u0103n c\u1ed1 \u0111\u1ebf</div>",
+            "id": "48364",
+            "mean": [],
+            "pronounce": "/'in'grein/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "ingrain"
+        },
+        "suggests": [
+            {
+                "id": "48364",
+                "link": "/find?type=1&query=ingrained",
+                "word": "ingrained"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3779",
+                "link": "/find?type=4&query=ingrained",
+                "word": "ingrained"
+            }
+        ]
+    }
+}

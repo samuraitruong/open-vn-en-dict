@@ -1,1 +1,34 @@
-{"error": 0, "query": "inkies", "enViData": {"suggests": [{"id": "48521", "link": "/find?type=1&query=inky+cap", "word": "inky cap"}], "best": {"id": "48521", "details": "\n<div id=\"find_word_48521\" class=\"world word_en\" rel=\"inky\">\n    <h2 class=\"fl\">inky <span class=\"color-black\">/'i\u014bki/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48521\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48521\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(-ier; iest)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ea5y m\u1ef1c, d\u00ednh m\u1ef1c</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111en nh\u01b0 m\u1ef1c</div>\n    \n</div>\n", "link": "/find?type=1&query=inky", "word": "inky"}}, "mUrl": "/find?type=1&query=inkies", "enEnData": {"suggests": [], "best": {"id": "14975", "details": "\n<div id=\"find_word_14975\" class=\"world word_en\" rel=\"inky\">\n    <h2 class=\"fl\">inky <span class=\"color-black\">/\u02c8\u026a\u014bki/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14975\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14975\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">literary :very dark or black like ink</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the inky blackness/darkness of the sea</div>\n    \n    <div class=\"green margin25 m-top15\">made dirty by ink</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">inky hands</div>\n    \n</div>\n", "link": "/find?type=3&query=inky", "word": "inky"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">literary :very dark or black like ink</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the inky blackness/darkness of the sea</div>\n    \n    <div class=\"green margin25 m-top15\">made dirty by ink</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">inky hands</div>",
+            "id": "14975",
+            "mean": [],
+            "pronounce": "/\u02c8\u026a\u014bki/",
+            "type": "adjective",
+            "word": "inky"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(-ier; iest)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ea5y m\u1ef1c, d\u00ednh m\u1ef1c</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111en nh\u01b0 m\u1ef1c</div>",
+            "id": "48521",
+            "mean": [],
+            "pronounce": "/'i\u014bki/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1c140ea46329d1060180b6e0a285d80d/16e61ce47de/I/inky.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e7264908886396b827fa9d52bc5a7129/16e61ce4253/I/inky.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "inky"
+        },
+        "suggests": [
+            {
+                "id": "48521",
+                "link": "/find?type=1&query=inky+cap",
+                "word": "inky cap"
+            }
+        ]
+    }
+}

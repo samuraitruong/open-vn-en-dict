@@ -1,1 +1,32 @@
-{"error": 0, "query": "injust", "enViData": {"suggests": [{"id": "48501", "link": "/find?type=1&query=injustice", "word": "injustice"}]}, "mUrl": "/find?type=1&query=injust", "enEnData": {"suggests": [{"id": "14968", "link": "/find?type=3&query=injustice", "word": "injustice"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3803", "link": "/find?type=4&query=injustice", "word": "injustice"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14968",
+                "link": "/find?type=3&query=injustice",
+                "word": "injustice"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48501",
+                "link": "/find?type=1&query=injustice",
+                "word": "injustice"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3803",
+                "link": "/find?type=4&query=injustice",
+                "word": "injustice"
+            }
+        ]
+    }
+}

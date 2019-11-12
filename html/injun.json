@@ -1,1 +1,50 @@
-{"error": 0, "query": "injun", "enViData": {"suggests": [{"id": "48489", "link": "/find?type=1&query=injunct", "word": "injunct"}, {"id": "48489", "link": "/find?type=1&query=injunction", "word": "injunction"}, {"id": "48489", "link": "/find?type=1&query=injunctive", "word": "injunctive"}], "best": {"id": "48489", "details": "\n<div id=\"find_word_48489\" class=\"world word_en\" rel=\"injun\">\n    <h2 class=\"fl\">injun <span class=\"color-black\">/'ind\u02a4\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48489\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48489\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c), (ti\u1ebfng \u0111\u1ecba ph\u01b0\u01a1ng) ng\u01b0\u1eddi da \u0111\u1ecf (B\u1eafc M\u1ef9)</div>\n    \n    <div class=\"bold dot-blue m-top15\">honest Injun</div>\n    \n    <div class=\"grey margin25 m-top15\">(xem) honest</div>\n    \n</div>\n", "link": "/find?type=1&query=injun", "word": "injun"}}, "mUrl": "/find?type=1&query=injun", "enEnData": {"suggests": [{"id": "14962", "link": "/find?type=3&query=injunction", "word": "injunction"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3799", "link": "/find?type=4&query=injunction", "word": "injunction"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14962",
+                "link": "/find?type=3&query=injunction",
+                "word": "injunction"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c), (ti\u1ebfng \u0111\u1ecba ph\u01b0\u01a1ng) ng\u01b0\u1eddi da \u0111\u1ecf (B\u1eafc M\u1ef9)</div>\n    \n    <div class=\"bold dot-blue m-top15\">honest Injun</div>\n    \n    <div class=\"grey margin25 m-top15\">(xem) honest</div>",
+            "id": "48489",
+            "mean": [],
+            "pronounce": "/'ind\u02a4\u0259n/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "injun"
+        },
+        "suggests": [
+            {
+                "id": "48489",
+                "link": "/find?type=1&query=injunct",
+                "word": "injunct"
+            },
+            {
+                "id": "48489",
+                "link": "/find?type=1&query=injunction",
+                "word": "injunction"
+            },
+            {
+                "id": "48489",
+                "link": "/find?type=1&query=injunctive",
+                "word": "injunctive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3799",
+                "link": "/find?type=4&query=injunction",
+                "word": "injunction"
+            }
+        ]
+    }
+}
