@@ -21,11 +21,12 @@ def downloadVoice(json, type):
     response = requests.get(
         "https://dict.laban.vn/ajax/getsound?accent="+type+"&word=" + word)
     rawJson = response.json()
-    response = requests.get(rawJson["data"])
-    json["speak"][type] = rawJson["data"]
-    if response.status_code == 200:
-        with open('voice/' + word + "_" + type + ".mp3", 'wb') as f:
-            f.write(response.content)
+    if response.status_code == 200 and rawJson["error"] == 0 and rawJson["data"] != "":
+        response = requests.get(rawJson["data"])
+        json["speak"][type] = rawJson["data"]
+        if response.status_code == 200:
+            with open('voice/' + word + "_" + type + ".mp3", 'wb') as f:
+                f.write(response.content)
 
 
 def parseHtml(best, fetchVoice=False):
@@ -38,7 +39,8 @@ def parseHtml(best, fetchVoice=False):
     json["pronounce"] = html("span.color-black").text()
     json["type"] = html("div.bg-grey.bold.font-large.m-top20").text()
     json["mean"] = html(".green.bold.margin25.m-top15")
-    json["content"] = html.html().replace("https://dict.laban.vn", "")
+    json["content"] = html("#content_selectable").html().replace(
+        "https://dict.laban.vn", "")
     if fetchVoice:
         json["speak"] = {
         }
@@ -49,17 +51,17 @@ def parseHtml(best, fetchVoice=False):
 
 def transformLaban(json):
     output = {}
-    if(json["enViData"]):
+    if "enViData" in json:
         output["en_vn"] = {
             "suggests": json["enViData"]["suggests"],
             "data": parseHtml(json["enViData"]["best"], True)
         }
-    if(json["enEnData"]):
+    if "enEnData" in json:
         output["en_en"] = {
             "suggests": json["enEnData"]["suggests"],
             "data": parseHtml(json["enEnData"]["best"], False)
         }
-    if(json["synData"]):
+    if "synData" in json:
         output["synonyms"] = {
             "suggests": json["synData"]["suggests"],
             "data": parseHtml(json["synData"]["best"], False)
@@ -110,7 +112,7 @@ def getWord(word):
     return html("#column-content").html()
 
 
-# pprint.pprint(getWordFromLaban("School"))
+# pprint.pprint(getWordFromLaban("abdominally"))
 # exit()
 words = getWordList()
 
