@@ -1,1 +1,34 @@
-{"error": 0, "query": "yogi", "enViData": {"suggests": [{"id": "104321", "link": "/find?type=1&query=yogism", "word": "yogism"}], "best": {"id": "104321", "details": "\n<div id=\"find_word_104321\" class=\"world word_en\" rel=\"yogi\">\n    <h2 class=\"fl\">yogi <span class=\"color-black\">/'j\u0259\u028agi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"104321\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"104321\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u yogis)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 du gi\u00e0; ng\u01b0\u1eddi gi\u1ea3ng du gi\u00e0</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi gi\u1ecfi yoga; ng\u01b0\u1eddi luy\u1ec7n yoga (cho ng\u01b0\u1eddi kh\u00e1c)</div>\n    \n</div>\n", "link": "/find?type=1&query=yogi", "word": "yogi"}}, "mUrl": "/find?type=1&query=yogi", "enEnData": {"suggests": [], "best": {"id": "34280", "details": "\n<div id=\"find_word_34280\" class=\"world word_en\" rel=\"yogi\">\n    <h2 class=\"fl\">yogi <span class=\"color-black\">/\u02c8jo\u028agi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"34280\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"34280\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gis</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who practices yoga</div>\n    \n    <div class=\"green margin25 m-top15\">Yogi :a follower of Yoga</div>\n    \n</div>\n", "link": "/find?type=3&query=yogi", "word": "yogi"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gis</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a person who practices yoga</div>\n    \n    <div class=\"green margin25 m-top15\">Yogi :a follower of Yoga</div>",
+            "id": "34280",
+            "mean": [],
+            "pronounce": "/\u02c8jo\u028agi/",
+            "type": "noun",
+            "word": "yogi"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u yogis)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u00e0 du gi\u00e0; ng\u01b0\u1eddi gi\u1ea3ng du gi\u00e0</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi gi\u1ecfi yoga; ng\u01b0\u1eddi luy\u1ec7n yoga (cho ng\u01b0\u1eddi kh\u00e1c)</div>",
+            "id": "104321",
+            "mean": [],
+            "pronounce": "/'j\u0259\u028agi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/854f648a7600f1c0e40ec4697f081a89/16e61d67f7a/Y/yogi.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9a43678e5285086596553c12aee1c43f/16e61d679c5/Y/yogi.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "yogi"
+        },
+        "suggests": [
+            {
+                "id": "104321",
+                "link": "/find?type=1&query=yogism",
+                "word": "yogism"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"error": 0, "query": "yon", "enViData": {"suggests": [{"id": "104334", "link": "/find?type=1&query=yonder", "word": "yonder"}], "best": {"id": "104334", "details": "\n<div id=\"find_word_104334\" class=\"world word_en\" rel=\"yon\">\n    <h2 class=\"fl\">yon <span class=\"color-black\">/j\u0254n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"104334\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"104334\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb & ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5); (th\u01a1 ca) (nh\u01b0) yonder</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">as far as yon tree</div>\n    \n    <div class=\"margin25\">xa t\u1eadn c\u00e1i c\u00e2y \u0111\u1eb1ng kia</div>\n    \n</div>\n", "link": "/find?type=1&query=yon", "word": "yon"}}, "mUrl": "/find?type=1&query=yon", "enEnData": {"suggests": [{"id": "34286", "link": "/find?type=3&query=yonder", "word": "yonder"}, {"id": "34286", "link": "/find?type=3&query=yonks", "word": "yonks"}], "best": {"id": "34286", "details": "\n<div id=\"find_word_34286\" class=\"world word_en\" rel=\"yon\">\n    <h2 class=\"fl\">yon <span class=\"color-black\">/\u02c8j\u0251\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"34286\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"34286\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adverb</span></div>\n    \n    <div class=\"green margin25 m-top15\">old-fashioned + literary :to that place</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They have been traveling hither and yon. [=here and there; traveling to many different places]</div>\n    \n</div>\n", "link": "/find?type=3&query=yon", "word": "yon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adverb</span></div>\n    \n    <div class=\"green margin25 m-top15\">old-fashioned + literary :to that place</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They have been traveling hither and yon. [=here and there; traveling to many different places]</div>",
+            "id": "34286",
+            "mean": [],
+            "pronounce": "/\u02c8j\u0251\u02d0n/",
+            "type": "adverb",
+            "word": "yon"
+        },
+        "suggests": [
+            {
+                "id": "34286",
+                "link": "/find?type=3&query=yonder",
+                "word": "yonder"
+            },
+            {
+                "id": "34286",
+                "link": "/find?type=3&query=yonks",
+                "word": "yonks"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb &amp; ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5); (th\u01a1 ca) (nh\u01b0) yonder</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">as far as yon tree</div>\n    \n    <div class=\"margin25\">xa t\u1eadn c\u00e1i c\u00e2y \u0111\u1eb1ng kia</div>",
+            "id": "104334",
+            "mean": [],
+            "pronounce": "/j\u0254n/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb & ph\u00f3 t\u1eeb",
+            "word": "yon"
+        },
+        "suggests": [
+            {
+                "id": "104334",
+                "link": "/find?type=1&query=yonder",
+                "word": "yonder"
+            }
+        ]
+    }
+}

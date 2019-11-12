@@ -1,1 +1,27 @@
-{"error": 0, "query": "yom", "enViData": {"suggests": [{"id": "104332", "link": "/find?type=1&query=Yom+Kippur", "word": "Yom Kippur"}, {"id": "104333", "link": "/find?type=1&query=yomp", "word": "yomp"}]}, "mUrl": "/find?type=1&query=yom", "enEnData": {"suggests": [{"id": "34285", "link": "/find?type=3&query=Yom+Kippur", "word": "Yom Kippur"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34285",
+                "link": "/find?type=3&query=Yom+Kippur",
+                "word": "Yom Kippur"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104332",
+                "link": "/find?type=1&query=Yom+Kippur",
+                "word": "Yom Kippur"
+            },
+            {
+                "id": "104333",
+                "link": "/find?type=1&query=yomp",
+                "word": "yomp"
+            }
+        ]
+    }
+}
