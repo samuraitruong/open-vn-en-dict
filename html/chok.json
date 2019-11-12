@@ -1,1 +1,92 @@
-{"en_vn": {"suggests": [{"id": "15085", "link": "/find?type=1&query=choke", "word": "choke"}, {"id": "15086", "link": "/find?type=1&query=choke-bore", "word": "choke-bore"}, {"id": "15087", "link": "/find?type=1&query=choke-collar", "word": "choke-collar"}, {"id": "15088", "link": "/find?type=1&query=choke-damp", "word": "choke-damp"}, {"id": "15089", "link": "/find?type=1&query=choke-full", "word": "choke-full"}, {"id": "15090", "link": "/find?type=1&query=choke-input+filter", "word": "choke-input filter"}, {"id": "15091", "link": "/find?type=1&query=choke-pear", "word": "choke-pear"}, {"id": "15092", "link": "/find?type=1&query=chokeberry", "word": "chokeberry"}, {"id": "15093", "link": "/find?type=1&query=choked", "word": "choked"}, {"id": "15094", "link": "/find?type=1&query=choker", "word": "choker"}], "data": {}}, "en_en": {"suggests": [{"id": "4859", "link": "/find?type=3&query=choke", "word": "choke"}, {"id": "4860", "link": "/find?type=3&query=choke+chain", "word": "choke chain"}, {"id": "4861", "link": "/find?type=3&query=choke+hold", "word": "choke hold"}, {"id": "4862", "link": "/find?type=3&query=choker", "word": "choker"}], "data": {}}, "synonyms": {"suggests": [{"id": "993", "link": "/find?type=4&query=choke", "word": "choke"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4859",
+                "link": "/find?type=3&query=choke",
+                "word": "choke"
+            },
+            {
+                "id": "4860",
+                "link": "/find?type=3&query=choke+chain",
+                "word": "choke chain"
+            },
+            {
+                "id": "4861",
+                "link": "/find?type=3&query=choke+hold",
+                "word": "choke hold"
+            },
+            {
+                "id": "4862",
+                "link": "/find?type=3&query=choker",
+                "word": "choker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15085",
+                "link": "/find?type=1&query=choke",
+                "word": "choke"
+            },
+            {
+                "id": "15086",
+                "link": "/find?type=1&query=choke-bore",
+                "word": "choke-bore"
+            },
+            {
+                "id": "15087",
+                "link": "/find?type=1&query=choke-collar",
+                "word": "choke-collar"
+            },
+            {
+                "id": "15088",
+                "link": "/find?type=1&query=choke-damp",
+                "word": "choke-damp"
+            },
+            {
+                "id": "15089",
+                "link": "/find?type=1&query=choke-full",
+                "word": "choke-full"
+            },
+            {
+                "id": "15090",
+                "link": "/find?type=1&query=choke-input+filter",
+                "word": "choke-input filter"
+            },
+            {
+                "id": "15091",
+                "link": "/find?type=1&query=choke-pear",
+                "word": "choke-pear"
+            },
+            {
+                "id": "15092",
+                "link": "/find?type=1&query=chokeberry",
+                "word": "chokeberry"
+            },
+            {
+                "id": "15093",
+                "link": "/find?type=1&query=choked",
+                "word": "choked"
+            },
+            {
+                "id": "15094",
+                "link": "/find?type=1&query=choker",
+                "word": "choker"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "993",
+                "link": "/find?type=4&query=choke",
+                "word": "choke"
+            }
+        ]
+    }
+}

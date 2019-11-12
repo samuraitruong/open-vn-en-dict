@@ -1,1 +1,142 @@
-{"en_vn": {"suggests": [{"id": "15064", "link": "/find?type=1&query=choc", "word": "choc"}, {"id": "15065", "link": "/find?type=1&query=choc-ice", "word": "choc-ice"}, {"id": "15066", "link": "/find?type=1&query=chock", "word": "chock"}, {"id": "15067", "link": "/find?type=1&query=chock-a-block", "word": "chock-a-block"}, {"id": "15068", "link": "/find?type=1&query=chock-full", "word": "chock-full"}, {"id": "15069", "link": "/find?type=1&query=chocolate", "word": "chocolate"}, {"id": "15070", "link": "/find?type=1&query=chocolate-box", "word": "chocolate-box"}, {"id": "15071", "link": "/find?type=1&query=chocolate-soldier", "word": "chocolate-soldier"}, {"id": "15072", "link": "/find?type=1&query=choice", "word": "choice"}, {"id": "15073", "link": "/find?type=1&query=Choice+of+production+technique", "word": "Choice of production technique"}], "data": {}}, "en_en": {"suggests": [{"id": "4847", "link": "/find?type=3&query=choc", "word": "choc"}, {"id": "4848", "link": "/find?type=3&query=chockablock", "word": "chockablock"}, {"id": "4849", "link": "/find?type=3&query=chock-full", "word": "chock-full"}, {"id": "4850", "link": "/find?type=3&query=chocoholic", "word": "chocoholic"}, {"id": "4851", "link": "/find?type=3&query=chocolate", "word": "chocolate"}, {"id": "4852", "link": "/find?type=3&query=chocolate-box", "word": "chocolate-box"}, {"id": "4853", "link": "/find?type=3&query=chocolatier", "word": "chocolatier"}, {"id": "4854", "link": "/find?type=3&query=Choctaw", "word": "Choctaw"}, {"id": "4855", "link": "/find?type=3&query=choice", "word": "choice"}, {"id": "4856", "link": "/find?type=3&query=choir", "word": "choir"}], "data": {}}, "synonyms": {"suggests": [{"id": "992", "link": "/find?type=4&query=choice", "word": "choice"}, {"id": "993", "link": "/find?type=4&query=choke", "word": "choke"}, {"id": "994", "link": "/find?type=4&query=choose", "word": "choose"}, {"id": "995", "link": "/find?type=4&query=choosy", "word": "choosy"}, {"id": "996", "link": "/find?type=4&query=chop", "word": "chop"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4847",
+                "link": "/find?type=3&query=choc",
+                "word": "choc"
+            },
+            {
+                "id": "4848",
+                "link": "/find?type=3&query=chockablock",
+                "word": "chockablock"
+            },
+            {
+                "id": "4849",
+                "link": "/find?type=3&query=chock-full",
+                "word": "chock-full"
+            },
+            {
+                "id": "4850",
+                "link": "/find?type=3&query=chocoholic",
+                "word": "chocoholic"
+            },
+            {
+                "id": "4851",
+                "link": "/find?type=3&query=chocolate",
+                "word": "chocolate"
+            },
+            {
+                "id": "4852",
+                "link": "/find?type=3&query=chocolate-box",
+                "word": "chocolate-box"
+            },
+            {
+                "id": "4853",
+                "link": "/find?type=3&query=chocolatier",
+                "word": "chocolatier"
+            },
+            {
+                "id": "4854",
+                "link": "/find?type=3&query=Choctaw",
+                "word": "Choctaw"
+            },
+            {
+                "id": "4855",
+                "link": "/find?type=3&query=choice",
+                "word": "choice"
+            },
+            {
+                "id": "4856",
+                "link": "/find?type=3&query=choir",
+                "word": "choir"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15064",
+                "link": "/find?type=1&query=choc",
+                "word": "choc"
+            },
+            {
+                "id": "15065",
+                "link": "/find?type=1&query=choc-ice",
+                "word": "choc-ice"
+            },
+            {
+                "id": "15066",
+                "link": "/find?type=1&query=chock",
+                "word": "chock"
+            },
+            {
+                "id": "15067",
+                "link": "/find?type=1&query=chock-a-block",
+                "word": "chock-a-block"
+            },
+            {
+                "id": "15068",
+                "link": "/find?type=1&query=chock-full",
+                "word": "chock-full"
+            },
+            {
+                "id": "15069",
+                "link": "/find?type=1&query=chocolate",
+                "word": "chocolate"
+            },
+            {
+                "id": "15070",
+                "link": "/find?type=1&query=chocolate-box",
+                "word": "chocolate-box"
+            },
+            {
+                "id": "15071",
+                "link": "/find?type=1&query=chocolate-soldier",
+                "word": "chocolate-soldier"
+            },
+            {
+                "id": "15072",
+                "link": "/find?type=1&query=choice",
+                "word": "choice"
+            },
+            {
+                "id": "15073",
+                "link": "/find?type=1&query=Choice+of+production+technique",
+                "word": "Choice of production technique"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "992",
+                "link": "/find?type=4&query=choice",
+                "word": "choice"
+            },
+            {
+                "id": "993",
+                "link": "/find?type=4&query=choke",
+                "word": "choke"
+            },
+            {
+                "id": "994",
+                "link": "/find?type=4&query=choose",
+                "word": "choose"
+            },
+            {
+                "id": "995",
+                "link": "/find?type=4&query=choosy",
+                "word": "choosy"
+            },
+            {
+                "id": "996",
+                "link": "/find?type=4&query=chop",
+                "word": "chop"
+            }
+        ]
+    }
+}

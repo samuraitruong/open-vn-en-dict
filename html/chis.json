@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "15013", "link": "/find?type=1&query=chisel", "word": "chisel"}, {"id": "15014", "link": "/find?type=1&query=chiseler", "word": "chiseler"}, {"id": "15015", "link": "/find?type=1&query=chiselled", "word": "chiselled"}, {"id": "15016", "link": "/find?type=1&query=chiseller", "word": "chiseller"}], "data": {}}, "en_en": {"suggests": [{"id": "4831", "link": "/find?type=3&query=chisel", "word": "chisel"}, {"id": "4832", "link": "/find?type=3&query=chiseled", "word": "chiseled"}], "data": {}}, "synonyms": {"suggests": [{"id": "989", "link": "/find?type=4&query=chisel", "word": "chisel"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4831",
+                "link": "/find?type=3&query=chisel",
+                "word": "chisel"
+            },
+            {
+                "id": "4832",
+                "link": "/find?type=3&query=chiseled",
+                "word": "chiseled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15013",
+                "link": "/find?type=1&query=chisel",
+                "word": "chisel"
+            },
+            {
+                "id": "15014",
+                "link": "/find?type=1&query=chiseler",
+                "word": "chiseler"
+            },
+            {
+                "id": "15015",
+                "link": "/find?type=1&query=chiselled",
+                "word": "chiselled"
+            },
+            {
+                "id": "15016",
+                "link": "/find?type=1&query=chiseller",
+                "word": "chiseller"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "989",
+                "link": "/find?type=4&query=chisel",
+                "word": "chisel"
+            }
+        ]
+    }
+}

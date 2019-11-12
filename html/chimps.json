@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "14940", "link": "/find?type=1&query=chimpanzee", "word": "chimpanzee"}], "data": {"word": "chimp", "id": "14940", "pronounce": "/'t\u222bimp/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc, kh\u1ea9u ng\u1eef) nh\u01b0 chimpanzee</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=chimpanzee\">chimpanzee</a></span></div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4799", "link": "/find?type=3&query=chimpanzee", "word": "chimpanzee"}], "data": {"word": "chimp", "id": "4799", "pronounce": "/\u02c8\u02a7\u026amp/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural chimps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :chimpanzee</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural chimps</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :chimpanzee</div>",
+            "id": "4799",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7\u026amp/",
+            "type": "noun",
+            "word": "chimp"
+        },
+        "suggests": [
+            {
+                "id": "4799",
+                "link": "/find?type=3&query=chimpanzee",
+                "word": "chimpanzee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc, kh\u1ea9u ng\u1eef) nh\u01b0 chimpanzee</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=chimpanzee\">chimpanzee</a></span></div>",
+            "id": "14940",
+            "mean": [],
+            "pronounce": "/'t\u222bimp/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "chimp"
+        },
+        "suggests": [
+            {
+                "id": "14940",
+                "link": "/find?type=1&query=chimpanzee",
+                "word": "chimpanzee"
+            }
+        ]
+    }
+}

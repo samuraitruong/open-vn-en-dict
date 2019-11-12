@@ -1,1 +1,43 @@
-{"en_vn": {"suggests": [{"id": "15066", "link": "/find?type=1&query=chock-a-block", "word": "chock-a-block"}, {"id": "15066", "link": "/find?type=1&query=chock-full", "word": "chock-full"}], "data": {"word": "chock", "id": "15066", "pronounce": "/t\u222b\u0252k/", "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt ch\u00e8n, v\u1eadt k\u00ea</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e8n, k\u00ea (cho kh\u1ecfi l\u0103n, cho ch\u1eb7t\u2026)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/4006e6bc7b20d4e5583ccc6147b1ca92/16e5dea3359/C/chock.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/48b9b44b6e7cef3153163da656664c45/16e5dea390d/C/chock.mp3"}}}, "en_en": {"suggests": [{"id": "4848", "link": "/find?type=3&query=chockablock", "word": "chockablock"}, {"id": "4849", "link": "/find?type=3&query=chock-full", "word": "chock-full"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4848",
+                "link": "/find?type=3&query=chockablock",
+                "word": "chockablock"
+            },
+            {
+                "id": "4849",
+                "link": "/find?type=3&query=chock-full",
+                "word": "chock-full"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt ch\u00e8n, v\u1eadt k\u00ea</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e8n, k\u00ea (cho kh\u1ecfi l\u0103n, cho ch\u1eb7t\u2026)</div>",
+            "id": "15066",
+            "mean": [],
+            "pronounce": "/t\u222b\u0252k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/755b882324d5fcd0cf0c62f4b88c0a9d/16e5ecaac4d/C/chock.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f61c39fd1bca00535894d2a2b9d5fb86/16e5ecaa6f9/C/chock.mp3"
+            },
+            "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "chock"
+        },
+        "suggests": [
+            {
+                "id": "15066",
+                "link": "/find?type=1&query=chock-a-block",
+                "word": "chock-a-block"
+            },
+            {
+                "id": "15066",
+                "link": "/find?type=1&query=chock-full",
+                "word": "chock-full"
+            }
+        ]
+    }
+}

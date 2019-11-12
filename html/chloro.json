@@ -1,1 +1,77 @@
-{"en_vn": {"suggests": [{"id": "15051", "link": "/find?type=1&query=chlorobenzene+method", "word": "chlorobenzene method"}, {"id": "15052", "link": "/find?type=1&query=chloroform", "word": "chloroform"}, {"id": "15053", "link": "/find?type=1&query=chloroformist", "word": "chloroformist"}, {"id": "15054", "link": "/find?type=1&query=chloromycetin", "word": "chloromycetin"}, {"id": "15055", "link": "/find?type=1&query=chlorophyceae", "word": "chlorophyceae"}, {"id": "15056", "link": "/find?type=1&query=chlorophyll", "word": "chlorophyll"}, {"id": "15057", "link": "/find?type=1&query=chloropicrin", "word": "chloropicrin"}, {"id": "15058", "link": "/find?type=1&query=chloroplast", "word": "chloroplast"}, {"id": "15059", "link": "/find?type=1&query=chlorosis", "word": "chlorosis"}, {"id": "15060", "link": "/find?type=1&query=chlorotic", "word": "chlorotic"}], "data": {}}, "en_en": {"suggests": [{"id": "4844", "link": "/find?type=3&query=chlorofluorocarbon", "word": "chlorofluorocarbon"}, {"id": "4845", "link": "/find?type=3&query=chloroform", "word": "chloroform"}, {"id": "4846", "link": "/find?type=3&query=chlorophyll", "word": "chlorophyll"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4844",
+                "link": "/find?type=3&query=chlorofluorocarbon",
+                "word": "chlorofluorocarbon"
+            },
+            {
+                "id": "4845",
+                "link": "/find?type=3&query=chloroform",
+                "word": "chloroform"
+            },
+            {
+                "id": "4846",
+                "link": "/find?type=3&query=chlorophyll",
+                "word": "chlorophyll"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15051",
+                "link": "/find?type=1&query=chlorobenzene+method",
+                "word": "chlorobenzene method"
+            },
+            {
+                "id": "15052",
+                "link": "/find?type=1&query=chloroform",
+                "word": "chloroform"
+            },
+            {
+                "id": "15053",
+                "link": "/find?type=1&query=chloroformist",
+                "word": "chloroformist"
+            },
+            {
+                "id": "15054",
+                "link": "/find?type=1&query=chloromycetin",
+                "word": "chloromycetin"
+            },
+            {
+                "id": "15055",
+                "link": "/find?type=1&query=chlorophyceae",
+                "word": "chlorophyceae"
+            },
+            {
+                "id": "15056",
+                "link": "/find?type=1&query=chlorophyll",
+                "word": "chlorophyll"
+            },
+            {
+                "id": "15057",
+                "link": "/find?type=1&query=chloropicrin",
+                "word": "chloropicrin"
+            },
+            {
+                "id": "15058",
+                "link": "/find?type=1&query=chloroplast",
+                "word": "chloroplast"
+            },
+            {
+                "id": "15059",
+                "link": "/find?type=1&query=chlorosis",
+                "word": "chlorosis"
+            },
+            {
+                "id": "15060",
+                "link": "/find?type=1&query=chlorotic",
+                "word": "chlorotic"
+            }
+        ]
+    }
+}

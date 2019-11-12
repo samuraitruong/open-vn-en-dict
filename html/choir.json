@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "15078", "link": "/find?type=1&query=choir+school", "word": "choir school"}, {"id": "15078", "link": "/find?type=1&query=choir-girl", "word": "choir-girl"}, {"id": "15078", "link": "/find?type=1&query=choir-stall", "word": "choir-stall"}, {"id": "15078", "link": "/find?type=1&query=choirboy", "word": "choirboy"}, {"id": "15078", "link": "/find?type=1&query=choirmaster", "word": "choirmaster"}], "data": {"word": "choir", "id": "15078", "pronounce": "/'kwai\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9i h\u00e1t th\u1edd (\u1edf nh\u00e0 th\u1edd)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 [ng\u1ed3i c\u1ee7a \u0111\u1ed9i] h\u00e1t th\u1edd (trong nh\u00e0 th\u1edd)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/9d5f541c49831a1904cd50ccb0eacc6e/16e5dea39da/C/choir.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/61cc5f62df4dc542b4260f2e71c2e5da/16e5dea3f88/C/choir.mp3"}}}, "en_en": {"suggests": [{"id": "4856", "link": "/find?type=3&query=choirboy", "word": "choirboy"}, {"id": "4856", "link": "/find?type=3&query=choirmaster", "word": "choirmaster"}], "data": {"word": "choir", "id": "4856", "pronounce": "/\u02c8kwaj\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural choirs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a group of singers especially in a church</div>\n    \n    <div class=\"green margin25 m-top15\">the part of a church where the singers sit</div>\n    \n    <div class=\"bold dot-blue m-top15\">preach to the choir</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=3&amp;query=preach\">preach</a></span></div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural choirs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a group of singers especially in a church</div>\n    \n    <div class=\"green margin25 m-top15\">the part of a church where the singers sit</div>\n    \n    <div class=\"bold dot-blue m-top15\">preach to the choir</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=3&amp;query=preach\">preach</a></span></div>",
+            "id": "4856",
+            "mean": [],
+            "pronounce": "/\u02c8kwaj\u025a/",
+            "type": "noun",
+            "word": "choir"
+        },
+        "suggests": [
+            {
+                "id": "4856",
+                "link": "/find?type=3&query=choirboy",
+                "word": "choirboy"
+            },
+            {
+                "id": "4856",
+                "link": "/find?type=3&query=choirmaster",
+                "word": "choirmaster"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9i h\u00e1t th\u1edd (\u1edf nh\u00e0 th\u1edd)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 [ng\u1ed3i c\u1ee7a \u0111\u1ed9i] h\u00e1t th\u1edd (trong nh\u00e0 th\u1edd)</div>",
+            "id": "15078",
+            "mean": [],
+            "pronounce": "/'kwai\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cfb3035a367b59512b70e89da638905d/16e5ecab2d2/C/choir.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/221d4c023cde46e43b070901e0fdda7a/16e5ecaad73/C/choir.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "choir"
+        },
+        "suggests": [
+            {
+                "id": "15078",
+                "link": "/find?type=1&query=choir+school",
+                "word": "choir school"
+            },
+            {
+                "id": "15078",
+                "link": "/find?type=1&query=choir-girl",
+                "word": "choir-girl"
+            },
+            {
+                "id": "15078",
+                "link": "/find?type=1&query=choir-stall",
+                "word": "choir-stall"
+            },
+            {
+                "id": "15078",
+                "link": "/find?type=1&query=choirboy",
+                "word": "choirboy"
+            },
+            {
+                "id": "15078",
+                "link": "/find?type=1&query=choirmaster",
+                "word": "choirmaster"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "15056", "link": "/find?type=1&query=chlorophyll", "word": "chlorophyll"}], "data": {}}, "en_en": {"suggests": [{"id": "4846", "link": "/find?type=3&query=chlorophyll", "word": "chlorophyll"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4846",
+                "link": "/find?type=3&query=chlorophyll",
+                "word": "chlorophyll"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15056",
+                "link": "/find?type=1&query=chlorophyll",
+                "word": "chlorophyll"
+            }
+        ]
+    }
+}

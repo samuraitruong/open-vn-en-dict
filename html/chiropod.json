@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "14997", "link": "/find?type=1&query=chiropodist", "word": "chiropodist"}, {"id": "14998", "link": "/find?type=1&query=chiropody", "word": "chiropody"}], "data": {}}, "en_en": {"suggests": [{"id": "4826", "link": "/find?type=3&query=chiropodist", "word": "chiropodist"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4826",
+                "link": "/find?type=3&query=chiropodist",
+                "word": "chiropodist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14997",
+                "link": "/find?type=1&query=chiropodist",
+                "word": "chiropodist"
+            },
+            {
+                "id": "14998",
+                "link": "/find?type=1&query=chiropody",
+                "word": "chiropody"
+            }
+        ]
+    }
+}
