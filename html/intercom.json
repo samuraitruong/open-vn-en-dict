@@ -1,1 +1,75 @@
-{"error": 0, "query": "intercom", "enViData": {"suggests": [{"id": "49203", "link": "/find?type=1&query=intercommunicability", "word": "intercommunicability"}, {"id": "49203", "link": "/find?type=1&query=intercommunicable", "word": "intercommunicable"}, {"id": "49203", "link": "/find?type=1&query=intercommunicate", "word": "intercommunicate"}, {"id": "49203", "link": "/find?type=1&query=intercommunication", "word": "intercommunication"}, {"id": "49203", "link": "/find?type=1&query=intercommunication+system", "word": "intercommunication system"}, {"id": "49203", "link": "/find?type=1&query=intercommunicative", "word": "intercommunicative"}, {"id": "49203", "link": "/find?type=1&query=intercommunion", "word": "intercommunion"}, {"id": "49203", "link": "/find?type=1&query=intercommunity", "word": "intercommunity"}], "best": {"id": "49203", "details": "\n<div id=\"find_word_49203\" class=\"world word_en\" rel=\"intercom\">\n    <h2 class=\"fl\">intercom <span class=\"color-black\">/'int\u0259k\u0252m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"49203\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"49203\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ec7 th\u1ed1ng th\u00f4ng tin b\u1eb1ng micr\u00f4 v\u00e0 loa (nh\u01b0 \u1edf tr\u00ean m\u00e1y bay, trong m\u1ed9t t\u00f2a nh\u00e0 l\u1edbn\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=intercom", "word": "intercom"}}, "mUrl": "/find?type=1&query=intercom", "enEnData": {"suggests": [{"id": "15190", "link": "/find?type=3&query=intercommunication", "word": "intercommunication"}], "best": {"id": "15190", "details": "\n<div id=\"find_word_15190\" class=\"world word_en\" rel=\"intercom\">\n    <h2 class=\"fl\">intercom <span class=\"color-black\">/\u02c8\u026ant\u025a\u02cck\u0251\u02d0m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15190\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15190\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -coms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a system which allows a person speaking into a microphone to be heard on a speaker by people in a different room or area</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I heard my name called on the intercom.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His secretary's voice came over the intercom, telling him that he had a visitor.</div>\n    \n</div>\n", "link": "/find?type=3&query=intercom", "word": "intercom"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -coms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a system which allows a person speaking into a microphone to be heard on a speaker by people in a different room or area</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I heard my name called on the intercom.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His secretary's voice came over the intercom, telling him that he had a visitor.</div>",
+            "id": "15190",
+            "mean": [],
+            "pronounce": "/\u02c8\u026ant\u025a\u02cck\u0251\u02d0m/",
+            "type": "noun",
+            "word": "intercom"
+        },
+        "suggests": [
+            {
+                "id": "15190",
+                "link": "/find?type=3&query=intercommunication",
+                "word": "intercommunication"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ec7 th\u1ed1ng th\u00f4ng tin b\u1eb1ng micr\u00f4 v\u00e0 loa (nh\u01b0 \u1edf tr\u00ean m\u00e1y bay, trong m\u1ed9t t\u00f2a nh\u00e0 l\u1edbn\u2026)</div>",
+            "id": "49203",
+            "mean": [],
+            "pronounce": "/'int\u0259k\u0252m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5066e1e80189b89f984249df005ad253/16e61d06c38/I/intercom.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f9b7bb81615f0c0751169397bad46ffe/16e61d06664/I/intercom.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "intercom"
+        },
+        "suggests": [
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunicability",
+                "word": "intercommunicability"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunicable",
+                "word": "intercommunicable"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunicate",
+                "word": "intercommunicate"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunication",
+                "word": "intercommunication"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunication+system",
+                "word": "intercommunication system"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunicative",
+                "word": "intercommunicative"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunion",
+                "word": "intercommunion"
+            },
+            {
+                "id": "49203",
+                "link": "/find?type=1&query=intercommunity",
+                "word": "intercommunity"
+            }
+        ]
+    }
+}
