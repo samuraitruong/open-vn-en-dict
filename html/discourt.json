@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "25991", "link": "/find?type=1&query=discourteous", "word": "discourteous"}, {"id": "25992", "link": "/find?type=1&query=discourteously", "word": "discourteously"}, {"id": "25993", "link": "/find?type=1&query=discourtesy", "word": "discourtesy"}], "data": {}}, "en_en": {"suggests": [{"id": "8172", "link": "/find?type=3&query=discourteous", "word": "discourteous"}, {"id": "8173", "link": "/find?type=3&query=discourtesy", "word": "discourtesy"}], "data": {}}, "synonyms": {"suggests": [{"id": "1730", "link": "/find?type=4&query=discourteous", "word": "discourteous"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8172",
+                "link": "/find?type=3&query=discourteous",
+                "word": "discourteous"
+            },
+            {
+                "id": "8173",
+                "link": "/find?type=3&query=discourtesy",
+                "word": "discourtesy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25991",
+                "link": "/find?type=1&query=discourteous",
+                "word": "discourteous"
+            },
+            {
+                "id": "25992",
+                "link": "/find?type=1&query=discourteously",
+                "word": "discourteously"
+            },
+            {
+                "id": "25993",
+                "link": "/find?type=1&query=discourtesy",
+                "word": "discourtesy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1730",
+                "link": "/find?type=4&query=discourteous",
+                "word": "discourteous"
+            }
+        ]
+    }
+}
