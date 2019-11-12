@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "31061", "link": "/find?type=1&query=entrep%C3%B4t", "word": "entrep\u00f4t"}, {"id": "31062", "link": "/find?type=1&query=entrepreneur", "word": "entrepreneur"}, {"id": "31063", "link": "/find?type=1&query=entrepreneurial", "word": "entrepreneurial"}, {"id": "31064", "link": "/find?type=1&query=Entrepreneurial+supply+price", "word": "Entrepreneurial supply price"}, {"id": "31065", "link": "/find?type=1&query=entrepreneurialism", "word": "entrepreneurialism"}, {"id": "31066", "link": "/find?type=1&query=entrepreneurism", "word": "entrepreneurism"}, {"id": "31067", "link": "/find?type=1&query=Entrepreneurship", "word": "Entrepreneurship"}], "data": {}}, "en_en": {"suggests": [{"id": "9641", "link": "/find?type=3&query=entrepreneur", "word": "entrepreneur"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9641",
+                "link": "/find?type=3&query=entrepreneur",
+                "word": "entrepreneur"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31061",
+                "link": "/find?type=1&query=entrep%C3%B4t",
+                "word": "entrep\u00f4t"
+            },
+            {
+                "id": "31062",
+                "link": "/find?type=1&query=entrepreneur",
+                "word": "entrepreneur"
+            },
+            {
+                "id": "31063",
+                "link": "/find?type=1&query=entrepreneurial",
+                "word": "entrepreneurial"
+            },
+            {
+                "id": "31064",
+                "link": "/find?type=1&query=Entrepreneurial+supply+price",
+                "word": "Entrepreneurial supply price"
+            },
+            {
+                "id": "31065",
+                "link": "/find?type=1&query=entrepreneurialism",
+                "word": "entrepreneurialism"
+            },
+            {
+                "id": "31066",
+                "link": "/find?type=1&query=entrepreneurism",
+                "word": "entrepreneurism"
+            },
+            {
+                "id": "31067",
+                "link": "/find?type=1&query=Entrepreneurship",
+                "word": "Entrepreneurship"
+            }
+        ]
+    }
+}

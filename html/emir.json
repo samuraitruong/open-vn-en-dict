@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "30107", "link": "/find?type=1&query=emirate", "word": "emirate"}], "data": {"word": "emir", "id": "30107", "pronounce": "/e'mi\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c amir)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee7 l\u0129nh H\u1ed3i gi\u00e1o, \u00ea-mia</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/074e6f73d93e50c0a785dc8aab325b4d/16e5e14a651/E/emir.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f7926474ba489b0eae3543f16bc652b8/16e5e14ac45/E/emir.mp3"}}}, "en_en": {"suggests": [{"id": "9437", "link": "/find?type=3&query=emirate", "word": "emirate"}], "data": {"word": "emir", "id": "9437", "pronounce": "/\u0259\u02c8mi\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural emirs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a ruler, chief, or commander in an Islamic country</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural emirs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a ruler, chief, or commander in an Islamic country</div>",
+            "id": "9437",
+            "mean": [],
+            "pronounce": "/\u0259\u02c8mi\u025a/",
+            "type": "noun",
+            "word": "emir"
+        },
+        "suggests": [
+            {
+                "id": "9437",
+                "link": "/find?type=3&query=emirate",
+                "word": "emirate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c amir)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee7 l\u0129nh H\u1ed3i gi\u00e1o, \u00ea-mia</div>",
+            "id": "30107",
+            "mean": [],
+            "pronounce": "/e'mi\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e28ff6225598a127944edae2655789c1/16e5f338551/E/emir.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e86cf26a359ceaa86a1ff26dd56c885d/16e5f0631cf/E/emir.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "emir"
+        },
+        "suggests": [
+            {
+                "id": "30107",
+                "link": "/find?type=1&query=emirate",
+                "word": "emirate"
+            }
+        ]
+    }
+}

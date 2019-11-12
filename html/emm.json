@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "30134", "link": "/find?type=1&query=emmenagogue", "word": "emmenagogue"}, {"id": "30134", "link": "/find?type=1&query=emmenology", "word": "emmenology"}, {"id": "30134", "link": "/find?type=1&query=emmet", "word": "emmet"}, {"id": "30134", "link": "/find?type=1&query=emmetrope", "word": "emmetrope"}, {"id": "30134", "link": "/find?type=1&query=emmetropia", "word": "emmetropia"}, {"id": "30134", "link": "/find?type=1&query=emmetropic", "word": "emmetropic"}], "data": {"word": "emm", "id": "30134", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">tr\u00ecnh qu\u1ea3n l\u00fd b\u1ed9 nh\u1edb m\u1edf r\u1ed9ng</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9442", "link": "/find?type=3&query=Emmy", "word": "Emmy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9442",
+                "link": "/find?type=3&query=Emmy",
+                "word": "Emmy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">tr\u00ecnh qu\u1ea3n l\u00fd b\u1ed9 nh\u1edb m\u1edf r\u1ed9ng</div>",
+            "id": "30134",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "emm"
+        },
+        "suggests": [
+            {
+                "id": "30134",
+                "link": "/find?type=1&query=emmenagogue",
+                "word": "emmenagogue"
+            },
+            {
+                "id": "30134",
+                "link": "/find?type=1&query=emmenology",
+                "word": "emmenology"
+            },
+            {
+                "id": "30134",
+                "link": "/find?type=1&query=emmet",
+                "word": "emmet"
+            },
+            {
+                "id": "30134",
+                "link": "/find?type=1&query=emmetrope",
+                "word": "emmetrope"
+            },
+            {
+                "id": "30134",
+                "link": "/find?type=1&query=emmetropia",
+                "word": "emmetropia"
+            },
+            {
+                "id": "30134",
+                "link": "/find?type=1&query=emmetropic",
+                "word": "emmetropic"
+            }
+        ]
+    }
+}

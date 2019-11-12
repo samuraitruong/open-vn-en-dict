@@ -1,1 +1,125 @@
-{"en_vn": {"suggests": [{"id": "30253", "link": "/find?type=1&query=en+bloc", "word": "en bloc"}, {"id": "30253", "link": "/find?type=1&query=en+clair", "word": "en clair"}, {"id": "30253", "link": "/find?type=1&query=en+dash", "word": "en dash"}, {"id": "30253", "link": "/find?type=1&query=en+famille", "word": "en famille"}, {"id": "30253", "link": "/find?type=1&query=en+fraction", "word": "en fraction"}, {"id": "30253", "link": "/find?type=1&query=en+masse", "word": "en masse"}, {"id": "30253", "link": "/find?type=1&query=en+passant", "word": "en passant"}, {"id": "30253", "link": "/find?type=1&query=en+r%C3%A8gle", "word": "en r\u00e8gle"}, {"id": "30253", "link": "/find?type=1&query=en+rgle", "word": "en rgle"}], "data": {"word": "en", "id": "30253", "pronounce": "/en/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">N, n (ch\u1eef c\u00e1i)</div>\n    \n    <div class=\"green margin25 m-top15\">n (\u0111\u01a1n v\u1ecb \u0111o d\u00f2ng ch\u1eef in, h\u1eb9p h\u01a1n m)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9542", "link": "/find?type=3&query=enema", "word": "enema"}, {"id": "9543", "link": "/find?type=3&query=enemy", "word": "enemy"}, {"id": "9544", "link": "/find?type=3&query=energetic", "word": "energetic"}, {"id": "9545", "link": "/find?type=3&query=energize", "word": "energize"}, {"id": "9546", "link": "/find?type=3&query=energy", "word": "energy"}, {"id": "9547", "link": "/find?type=3&query=enervate", "word": "enervate"}], "data": {}}, "synonyms": {"suggests": [{"id": "2151", "link": "/find?type=4&query=enemy", "word": "enemy"}, {"id": "2152", "link": "/find?type=4&query=energetic", "word": "energetic"}, {"id": "2153", "link": "/find?type=4&query=energize", "word": "energize"}, {"id": "2154", "link": "/find?type=4&query=energy", "word": "energy"}, {"id": "2155", "link": "/find?type=4&query=enervate", "word": "enervate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9542",
+                "link": "/find?type=3&query=enema",
+                "word": "enema"
+            },
+            {
+                "id": "9543",
+                "link": "/find?type=3&query=enemy",
+                "word": "enemy"
+            },
+            {
+                "id": "9544",
+                "link": "/find?type=3&query=energetic",
+                "word": "energetic"
+            },
+            {
+                "id": "9545",
+                "link": "/find?type=3&query=energize",
+                "word": "energize"
+            },
+            {
+                "id": "9546",
+                "link": "/find?type=3&query=energy",
+                "word": "energy"
+            },
+            {
+                "id": "9547",
+                "link": "/find?type=3&query=enervate",
+                "word": "enervate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">N, n (ch\u1eef c\u00e1i)</div>\n    \n    <div class=\"green margin25 m-top15\">n (\u0111\u01a1n v\u1ecb \u0111o d\u00f2ng ch\u1eef in, h\u1eb9p h\u01a1n m)</div>",
+            "id": "30253",
+            "mean": [],
+            "pronounce": "/en/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "en"
+        },
+        "suggests": [
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+bloc",
+                "word": "en bloc"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+clair",
+                "word": "en clair"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+dash",
+                "word": "en dash"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+famille",
+                "word": "en famille"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+fraction",
+                "word": "en fraction"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+masse",
+                "word": "en masse"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+passant",
+                "word": "en passant"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+r%C3%A8gle",
+                "word": "en r\u00e8gle"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+rgle",
+                "word": "en rgle"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2151",
+                "link": "/find?type=4&query=enemy",
+                "word": "enemy"
+            },
+            {
+                "id": "2152",
+                "link": "/find?type=4&query=energetic",
+                "word": "energetic"
+            },
+            {
+                "id": "2153",
+                "link": "/find?type=4&query=energize",
+                "word": "energize"
+            },
+            {
+                "id": "2154",
+                "link": "/find?type=4&query=energy",
+                "word": "energy"
+            },
+            {
+                "id": "2155",
+                "link": "/find?type=4&query=enervate",
+                "word": "enervate"
+            }
+        ]
+    }
+}

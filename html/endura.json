@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "30605", "link": "/find?type=1&query=endurability", "word": "endurability"}, {"id": "30606", "link": "/find?type=1&query=endurable", "word": "endurable"}, {"id": "30607", "link": "/find?type=1&query=endurably", "word": "endurably"}, {"id": "30608", "link": "/find?type=1&query=endurance", "word": "endurance"}], "data": {}}, "en_en": {"suggests": [{"id": "9540", "link": "/find?type=3&query=endurance", "word": "endurance"}], "data": {}}, "synonyms": {"suggests": [{"id": "2148", "link": "/find?type=4&query=endurance", "word": "endurance"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9540",
+                "link": "/find?type=3&query=endurance",
+                "word": "endurance"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30605",
+                "link": "/find?type=1&query=endurability",
+                "word": "endurability"
+            },
+            {
+                "id": "30606",
+                "link": "/find?type=1&query=endurable",
+                "word": "endurable"
+            },
+            {
+                "id": "30607",
+                "link": "/find?type=1&query=endurably",
+                "word": "endurably"
+            },
+            {
+                "id": "30608",
+                "link": "/find?type=1&query=endurance",
+                "word": "endurance"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2148",
+                "link": "/find?type=4&query=endurance",
+                "word": "endurance"
+            }
+        ]
+    }
+}

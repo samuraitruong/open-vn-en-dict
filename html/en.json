@@ -1,1 +1,170 @@
-{"en_vn": {"suggests": [{"id": "30253", "link": "/find?type=1&query=en+bloc", "word": "en bloc"}, {"id": "30253", "link": "/find?type=1&query=en+clair", "word": "en clair"}, {"id": "30253", "link": "/find?type=1&query=en+dash", "word": "en dash"}, {"id": "30253", "link": "/find?type=1&query=en+famille", "word": "en famille"}, {"id": "30253", "link": "/find?type=1&query=en+fraction", "word": "en fraction"}, {"id": "30253", "link": "/find?type=1&query=en+masse", "word": "en masse"}, {"id": "30253", "link": "/find?type=1&query=en+passant", "word": "en passant"}, {"id": "30253", "link": "/find?type=1&query=en+r%C3%A8gle", "word": "en r\u00e8gle"}, {"id": "30253", "link": "/find?type=1&query=en+rgle", "word": "en rgle"}], "data": {"word": "en", "id": "30253", "pronounce": "/en/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">N, n (ch\u1eef c\u00e1i)</div>\n    \n    <div class=\"green margin25 m-top15\">n (\u0111\u01a1n v\u1ecb \u0111o d\u00f2ng ch\u1eef in, h\u1eb9p h\u01a1n m)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9480", "link": "/find?type=3&query=en-", "word": "en-"}, {"id": "9481", "link": "/find?type=3&query=-en", "word": "-en"}, {"id": "9482", "link": "/find?type=3&query=en+bloc", "word": "en bloc"}, {"id": "9483", "link": "/find?type=3&query=en+masse", "word": "en masse"}, {"id": "9484", "link": "/find?type=3&query=en+route", "word": "en route"}, {"id": "9485", "link": "/find?type=3&query=en+suite", "word": "en suite"}, {"id": "9486", "link": "/find?type=3&query=enable", "word": "enable"}, {"id": "9487", "link": "/find?type=3&query=enact", "word": "enact"}, {"id": "9488", "link": "/find?type=3&query=enamel", "word": "enamel"}, {"id": "9489", "link": "/find?type=3&query=enameling", "word": "enameling"}], "data": {}}, "synonyms": {"suggests": [{"id": "2123", "link": "/find?type=4&query=enable", "word": "enable"}, {"id": "2124", "link": "/find?type=4&query=enact", "word": "enact"}, {"id": "2125", "link": "/find?type=4&query=enchant", "word": "enchant"}, {"id": "2126", "link": "/find?type=4&query=enchanted", "word": "enchanted"}, {"id": "2127", "link": "/find?type=4&query=enchanting", "word": "enchanting"}, {"id": "2128", "link": "/find?type=4&query=enchantment", "word": "enchantment"}, {"id": "2129", "link": "/find?type=4&query=encircle", "word": "encircle"}, {"id": "2130", "link": "/find?type=4&query=enclose", "word": "enclose"}, {"id": "2131", "link": "/find?type=4&query=enclosure", "word": "enclosure"}, {"id": "2132", "link": "/find?type=4&query=encounter", "word": "encounter"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9480",
+                "link": "/find?type=3&query=en-",
+                "word": "en-"
+            },
+            {
+                "id": "9481",
+                "link": "/find?type=3&query=-en",
+                "word": "-en"
+            },
+            {
+                "id": "9482",
+                "link": "/find?type=3&query=en+bloc",
+                "word": "en bloc"
+            },
+            {
+                "id": "9483",
+                "link": "/find?type=3&query=en+masse",
+                "word": "en masse"
+            },
+            {
+                "id": "9484",
+                "link": "/find?type=3&query=en+route",
+                "word": "en route"
+            },
+            {
+                "id": "9485",
+                "link": "/find?type=3&query=en+suite",
+                "word": "en suite"
+            },
+            {
+                "id": "9486",
+                "link": "/find?type=3&query=enable",
+                "word": "enable"
+            },
+            {
+                "id": "9487",
+                "link": "/find?type=3&query=enact",
+                "word": "enact"
+            },
+            {
+                "id": "9488",
+                "link": "/find?type=3&query=enamel",
+                "word": "enamel"
+            },
+            {
+                "id": "9489",
+                "link": "/find?type=3&query=enameling",
+                "word": "enameling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">N, n (ch\u1eef c\u00e1i)</div>\n    \n    <div class=\"green margin25 m-top15\">n (\u0111\u01a1n v\u1ecb \u0111o d\u00f2ng ch\u1eef in, h\u1eb9p h\u01a1n m)</div>",
+            "id": "30253",
+            "mean": [],
+            "pronounce": "/en/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "en"
+        },
+        "suggests": [
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+bloc",
+                "word": "en bloc"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+clair",
+                "word": "en clair"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+dash",
+                "word": "en dash"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+famille",
+                "word": "en famille"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+fraction",
+                "word": "en fraction"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+masse",
+                "word": "en masse"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+passant",
+                "word": "en passant"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+r%C3%A8gle",
+                "word": "en r\u00e8gle"
+            },
+            {
+                "id": "30253",
+                "link": "/find?type=1&query=en+rgle",
+                "word": "en rgle"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2123",
+                "link": "/find?type=4&query=enable",
+                "word": "enable"
+            },
+            {
+                "id": "2124",
+                "link": "/find?type=4&query=enact",
+                "word": "enact"
+            },
+            {
+                "id": "2125",
+                "link": "/find?type=4&query=enchant",
+                "word": "enchant"
+            },
+            {
+                "id": "2126",
+                "link": "/find?type=4&query=enchanted",
+                "word": "enchanted"
+            },
+            {
+                "id": "2127",
+                "link": "/find?type=4&query=enchanting",
+                "word": "enchanting"
+            },
+            {
+                "id": "2128",
+                "link": "/find?type=4&query=enchantment",
+                "word": "enchantment"
+            },
+            {
+                "id": "2129",
+                "link": "/find?type=4&query=encircle",
+                "word": "encircle"
+            },
+            {
+                "id": "2130",
+                "link": "/find?type=4&query=enclose",
+                "word": "enclose"
+            },
+            {
+                "id": "2131",
+                "link": "/find?type=4&query=enclosure",
+                "word": "enclosure"
+            },
+            {
+                "id": "2132",
+                "link": "/find?type=4&query=encounter",
+                "word": "encounter"
+            }
+        ]
+    }
+}

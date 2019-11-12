@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "31033", "link": "/find?type=1&query=entrails", "word": "entrails"}], "data": {}}, "en_en": {"suggests": [{"id": "9632", "link": "/find?type=3&query=entrails", "word": "entrails"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9632",
+                "link": "/find?type=3&query=entrails",
+                "word": "entrails"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31033",
+                "link": "/find?type=1&query=entrails",
+                "word": "entrails"
+            }
+        ]
+    }
+}
