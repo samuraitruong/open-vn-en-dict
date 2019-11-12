@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "16714", "link": "/find?type=1&query=coefficient", "word": "coefficient"}, {"id": "16715", "link": "/find?type=1&query=Coefficient+of+determination", "word": "Coefficient of determination"}, {"id": "16716", "link": "/find?type=1&query=Coefficient+of+variation", "word": "Coefficient of variation"}], "data": {}}, "en_en": {"suggests": [{"id": "5405", "link": "/find?type=3&query=coefficient", "word": "coefficient"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5405",
+                "link": "/find?type=3&query=coefficient",
+                "word": "coefficient"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16714",
+                "link": "/find?type=1&query=coefficient",
+                "word": "coefficient"
+            },
+            {
+                "id": "16715",
+                "link": "/find?type=1&query=Coefficient+of+determination",
+                "word": "Coefficient of determination"
+            },
+            {
+                "id": "16716",
+                "link": "/find?type=1&query=Coefficient+of+variation",
+                "word": "Coefficient of variation"
+            }
+        ]
+    }
+}

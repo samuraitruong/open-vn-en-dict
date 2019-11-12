@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "16712", "link": "/find?type=1&query=coeducational", "word": "coeducational"}], "data": {"word": "coeducation", "id": "16712", "pronounce": "/,k\u0259\u028aedj\u028a'kei\u0283n/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">ch\u1ebf \u0111\u1ed9 d\u1ea1y chung cho c\u1ea3 nam l\u1eabn n\u1eef, ch\u1ebf \u0111\u1ed9 gi\u00e1o d\u1ee5c h\u1ed7n h\u1ee3p</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c70090c00c573c8fe0f4b3484ac5ec90/16e5defc5fe/C/coeducation.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/21de885541072510496567efb3a2f5c5/16e5defcbcd/C/coeducation.mp3"}}}, "en_en": {"suggests": [{"id": "5404", "link": "/find?type=3&query=coeducational", "word": "coeducational"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5404",
+                "link": "/find?type=3&query=coeducational",
+                "word": "coeducational"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ch\u1ebf \u0111\u1ed9 d\u1ea1y chung cho c\u1ea3 nam l\u1eabn n\u1eef, ch\u1ebf \u0111\u1ed9 gi\u00e1o d\u1ee5c h\u1ed7n h\u1ee3p</div>",
+            "id": "16712",
+            "mean": [],
+            "pronounce": "/,k\u0259\u028aedj\u028a'kei\u0283n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b17cbc0a4ea41d58d7c64596fb7d24d0/16e5ed06236/C/coeducation.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4fc734eec7898598796957018e7c7cff/16e5ed05965/C/coeducation.mp3"
+            },
+            "type": "",
+            "word": "coeducation"
+        },
+        "suggests": [
+            {
+                "id": "16712",
+                "link": "/find?type=1&query=coeducational",
+                "word": "coeducational"
+            }
+        ]
+    }
+}

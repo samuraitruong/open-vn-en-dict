@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "16657", "link": "/find?type=1&query=coconut+palm", "word": "coconut palm"}, {"id": "16657", "link": "/find?type=1&query=coconut+shy", "word": "coconut shy"}, {"id": "16657", "link": "/find?type=1&query=coconut-matting", "word": "coconut-matting"}, {"id": "16657", "link": "/find?type=1&query=coconut-tree", "word": "coconut-tree"}], "data": {"word": "coconut", "id": "16657", "pronounce": "/'k\u0259\u028ak\u0259n\u028ct/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 d\u1eeba</div>\n    \n    <div class=\"green margin25 m-top15\">[c\u01a1m] d\u1eeba</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/ac7bec4748e105be8f5bce949fb32748/16e5def9952/C/coconut.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/61f8ba702b871d46cbe78c49172c7693/16e5def9f73/C/coconut.mp3"}}}, "en_en": {"suggests": [{"id": "5383", "link": "/find?type=3&query=coconut+milk", "word": "coconut milk"}, {"id": "5383", "link": "/find?type=3&query=coconut+oil", "word": "coconut oil"}, {"id": "5383", "link": "/find?type=3&query=coconut+shy", "word": "coconut shy"}], "data": {"word": "coconut", "id": "5383", "pronounce": "/\u02c8ko\u028ak\u0259\u02ccn\u028ct/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nuts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large fruit that has a thick shell with white flesh and liquid inside it and that grows on a palm tree - see color picture</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the white flesh of a coconut</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The pastry is covered with shredded coconut.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a piece of coconut</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nuts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large fruit that has a thick shell with white flesh and liquid inside it and that grows on a palm tree - see color picture</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the white flesh of a coconut</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The pastry is covered with shredded coconut.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a piece of coconut</div>",
+            "id": "5383",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u028ak\u0259\u02ccn\u028ct/",
+            "type": "noun",
+            "word": "coconut"
+        },
+        "suggests": [
+            {
+                "id": "5383",
+                "link": "/find?type=3&query=coconut+milk",
+                "word": "coconut milk"
+            },
+            {
+                "id": "5383",
+                "link": "/find?type=3&query=coconut+oil",
+                "word": "coconut oil"
+            },
+            {
+                "id": "5383",
+                "link": "/find?type=3&query=coconut+shy",
+                "word": "coconut shy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea3 d\u1eeba</div>\n    \n    <div class=\"green margin25 m-top15\">[c\u01a1m] d\u1eeba</div>",
+            "id": "16657",
+            "mean": [],
+            "pronounce": "/'k\u0259\u028ak\u0259n\u028ct/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6446a3632ebf14e719fe1e5f1a3ffcff/16e5ed02320/C/coconut.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/99962de548d8096138299edfffccde37/16e5ed019f6/C/coconut.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "coconut"
+        },
+        "suggests": [
+            {
+                "id": "16657",
+                "link": "/find?type=1&query=coconut+palm",
+                "word": "coconut palm"
+            },
+            {
+                "id": "16657",
+                "link": "/find?type=1&query=coconut+shy",
+                "word": "coconut shy"
+            },
+            {
+                "id": "16657",
+                "link": "/find?type=1&query=coconut-matting",
+                "word": "coconut-matting"
+            },
+            {
+                "id": "16657",
+                "link": "/find?type=1&query=coconut-tree",
+                "word": "coconut-tree"
+            }
+        ]
+    }
+}
