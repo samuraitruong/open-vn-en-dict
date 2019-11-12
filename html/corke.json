@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "19807", "link": "/find?type=1&query=corked", "word": "corked"}, {"id": "19808", "link": "/find?type=1&query=corker", "word": "corker"}], "data": {}}, "en_en": {"suggests": [{"id": "6306", "link": "/find?type=3&query=corked", "word": "corked"}, {"id": "6307", "link": "/find?type=3&query=corker", "word": "corker"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6306",
+                "link": "/find?type=3&query=corked",
+                "word": "corked"
+            },
+            {
+                "id": "6307",
+                "link": "/find?type=3&query=corker",
+                "word": "corker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19807",
+                "link": "/find?type=1&query=corked",
+                "word": "corked"
+            },
+            {
+                "id": "19808",
+                "link": "/find?type=1&query=corker",
+                "word": "corker"
+            }
+        ]
+    }
+}

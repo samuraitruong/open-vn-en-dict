@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "19838", "link": "/find?type=1&query=corneal", "word": "corneal"}], "data": {"word": "cornea", "id": "19838", "pronounce": "/'k\u0254:ni\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e1c m\u1ea1c</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/bb684a4c218adc20c5482f4edb27f9f0/16e5df7bb6a/C/cornea.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/5f527cd110ae67053388cc95fb0ecf18/16e5df7c12a/C/cornea.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cornea", "id": "6321", "pronounce": "/\u02c8ko\u025anij\u0259/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -neas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :the clear outer covering of the eyeball</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -neas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :the clear outer covering of the eyeball</div>",
+            "id": "6321",
+            "mean": [],
+            "pronounce": "/\u02c8ko\u025anij\u0259/",
+            "type": "noun",
+            "word": "cornea"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e1c m\u1ea1c</div>",
+            "id": "19838",
+            "mean": [],
+            "pronounce": "/'k\u0254:ni\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4a459715d7b420415dbcc2277ffd9449/16e5edbb4cb/C/cornea.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0b3690cd3184d3146912ef734c3092da/16e5edbabdf/C/cornea.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "cornea"
+        },
+        "suggests": [
+            {
+                "id": "19838",
+                "link": "/find?type=1&query=corneal",
+                "word": "corneal"
+            }
+        ]
+    }
+}
