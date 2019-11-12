@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "25169", "link": "/find?type=1&query=didn%27t", "word": "didn't"}], "data": {}}, "en_en": {"suggests": [{"id": "7957", "link": "/find?type=3&query=didn%27t", "word": "didn't"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7957",
+                "link": "/find?type=3&query=didn%27t",
+                "word": "didn't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25169",
+                "link": "/find?type=1&query=didn%27t",
+                "word": "didn't"
+            }
+        ]
+    }
+}

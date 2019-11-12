@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "25207", "link": "/find?type=1&query=diesel", "word": "diesel"}, {"id": "25208", "link": "/find?type=1&query=diesel+engine", "word": "diesel engine"}, {"id": "25209", "link": "/find?type=1&query=diesel+fuel", "word": "diesel fuel"}, {"id": "25210", "link": "/find?type=1&query=diesel+oil", "word": "diesel oil"}, {"id": "25211", "link": "/find?type=1&query=diesel-electric", "word": "diesel-electric"}, {"id": "25212", "link": "/find?type=1&query=dieselize", "word": "dieselize"}], "data": {}}, "en_en": {"suggests": [{"id": "7961", "link": "/find?type=3&query=diesel", "word": "diesel"}, {"id": "7962", "link": "/find?type=3&query=diesel+engine", "word": "diesel engine"}, {"id": "7963", "link": "/find?type=3&query=diesel+fuel", "word": "diesel fuel"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7961",
+                "link": "/find?type=3&query=diesel",
+                "word": "diesel"
+            },
+            {
+                "id": "7962",
+                "link": "/find?type=3&query=diesel+engine",
+                "word": "diesel engine"
+            },
+            {
+                "id": "7963",
+                "link": "/find?type=3&query=diesel+fuel",
+                "word": "diesel fuel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25207",
+                "link": "/find?type=1&query=diesel",
+                "word": "diesel"
+            },
+            {
+                "id": "25208",
+                "link": "/find?type=1&query=diesel+engine",
+                "word": "diesel engine"
+            },
+            {
+                "id": "25209",
+                "link": "/find?type=1&query=diesel+fuel",
+                "word": "diesel fuel"
+            },
+            {
+                "id": "25210",
+                "link": "/find?type=1&query=diesel+oil",
+                "word": "diesel oil"
+            },
+            {
+                "id": "25211",
+                "link": "/find?type=1&query=diesel-electric",
+                "word": "diesel-electric"
+            },
+            {
+                "id": "25212",
+                "link": "/find?type=1&query=dieselize",
+                "word": "dieselize"
+            }
+        ]
+    }
+}

@@ -1,1 +1,65 @@
-{"en_vn": {"suggests": [{"id": "25207", "link": "/find?type=1&query=diesel+engine", "word": "diesel engine"}, {"id": "25207", "link": "/find?type=1&query=diesel+fuel", "word": "diesel fuel"}, {"id": "25207", "link": "/find?type=1&query=diesel+oil", "word": "diesel oil"}, {"id": "25207", "link": "/find?type=1&query=diesel-electric", "word": "diesel-electric"}, {"id": "25207", "link": "/find?type=1&query=dieselize", "word": "dieselize"}], "data": {"word": "diesel", "id": "25207", "pronounce": "/'di:zl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c diesel engine) \u0111\u1ed9ng c\u01a1 \u0111iezen</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c diesel fuel, diesel oil) d\u1ea7u \u0111iezen</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8057d18d03c9ce51df8e928562b0bae6/16e5dffa1aa/D/diesel.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/c347672ea2eed1686af441e5506b71ba/16e5dffa1a5/D/diesel.mp3"}}}, "en_en": {"suggests": [{"id": "7961", "link": "/find?type=3&query=diesel+engine", "word": "diesel engine"}, {"id": "7961", "link": "/find?type=3&query=diesel+fuel", "word": "diesel fuel"}], "data": {"word": "diesel", "id": "7961", "pronounce": "/\u02c8di\u02d0z\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a vehicle (such as a truck or bus) that has a diesel engine</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His truck's a diesel.</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :diesel fuel</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Does your car take diesel or gasoline?</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a vehicle (such as a truck or bus) that has a diesel engine</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His truck's a diesel.</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :diesel fuel</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Does your car take diesel or gasoline?</div>",
+            "id": "7961",
+            "mean": [],
+            "pronounce": "/\u02c8di\u02d0z\u0259l/",
+            "type": "noun",
+            "word": "diesel"
+        },
+        "suggests": [
+            {
+                "id": "7961",
+                "link": "/find?type=3&query=diesel+engine",
+                "word": "diesel engine"
+            },
+            {
+                "id": "7961",
+                "link": "/find?type=3&query=diesel+fuel",
+                "word": "diesel fuel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c diesel engine) \u0111\u1ed9ng c\u01a1 \u0111iezen</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c diesel fuel, diesel oil) d\u1ea7u \u0111iezen</div>",
+            "id": "25207",
+            "mean": [],
+            "pronounce": "/'di:zl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e794c41fb3534b5e72240d3cf35a8c35/16e5ef113b0/D/diesel.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c188181d8e7a1b7412f58be59edfe373/16e5ef10ae1/D/diesel.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "diesel"
+        },
+        "suggests": [
+            {
+                "id": "25207",
+                "link": "/find?type=1&query=diesel+engine",
+                "word": "diesel engine"
+            },
+            {
+                "id": "25207",
+                "link": "/find?type=1&query=diesel+fuel",
+                "word": "diesel fuel"
+            },
+            {
+                "id": "25207",
+                "link": "/find?type=1&query=diesel+oil",
+                "word": "diesel oil"
+            },
+            {
+                "id": "25207",
+                "link": "/find?type=1&query=diesel-electric",
+                "word": "diesel-electric"
+            },
+            {
+                "id": "25207",
+                "link": "/find?type=1&query=dieselize",
+                "word": "dieselize"
+            }
+        ]
+    }
+}
