@@ -1,1 +1,37 @@
-{"error": 0, "query": "gung", "enViData": {"suggests": [{"id": "42045", "link": "/find?type=1&query=gunge", "word": "gunge"}, {"id": "42046", "link": "/find?type=1&query=gungho", "word": "gungho"}, {"id": "42047", "link": "/find?type=1&query=gungy", "word": "gungy"}]}, "mUrl": "/find?type=1&query=gung", "enEnData": {"suggests": [{"id": "12791", "link": "/find?type=3&query=gung+ho", "word": "gung ho"}, {"id": "12792", "link": "/find?type=3&query=gunge", "word": "gunge"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12791",
+                "link": "/find?type=3&query=gung+ho",
+                "word": "gung ho"
+            },
+            {
+                "id": "12792",
+                "link": "/find?type=3&query=gunge",
+                "word": "gunge"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42045",
+                "link": "/find?type=1&query=gunge",
+                "word": "gunge"
+            },
+            {
+                "id": "42046",
+                "link": "/find?type=1&query=gungho",
+                "word": "gungho"
+            },
+            {
+                "id": "42047",
+                "link": "/find?type=1&query=gungy",
+                "word": "gungy"
+            }
+        ]
+    }
+}
