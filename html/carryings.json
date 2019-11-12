@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "13368", "link": "/find?type=1&query=carryings-on", "word": "carryings-on"}], "data": {}}, "en_en": {"suggests": [{"id": "4193", "link": "/find?type=3&query=carryings-on", "word": "carryings-on"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4193",
+                "link": "/find?type=3&query=carryings-on",
+                "word": "carryings-on"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13368",
+                "link": "/find?type=1&query=carryings-on",
+                "word": "carryings-on"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "13320", "link": "/find?type=1&query=carpospore", "word": "carpospore"}, {"id": "13321", "link": "/find?type=1&query=carposporic", "word": "carposporic"}], "data": {}}, "en_en": {"suggests": [{"id": "4181", "link": "/find?type=3&query=carport", "word": "carport"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4181",
+                "link": "/find?type=3&query=carport",
+                "word": "carport"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13320",
+                "link": "/find?type=1&query=carpospore",
+                "word": "carpospore"
+            },
+            {
+                "id": "13321",
+                "link": "/find?type=1&query=carposporic",
+                "word": "carposporic"
+            }
+        ]
+    }
+}

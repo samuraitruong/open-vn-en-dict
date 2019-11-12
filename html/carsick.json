@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "13369", "link": "/find?type=1&query=carsickness", "word": "carsickness"}], "data": {"word": "carsick", "id": "13369", "pronounce": "/'k\u0251:,sik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">say xe</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/0d10262986b7eca8a92ca8447e805dce/16e5de45232/C/carsick.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/89960d5aba788ebc59257ccf11ed4ca9/16e5de457d8/C/carsick.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "carsick", "id": "4197", "pronounce": "/\u02c8k\u0251\u025a\u02ccs\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">feeling sick while riding in a car because of the movement of the vehicle</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">feeling sick while riding in a car because of the movement of the vehicle</div>",
+            "id": "4197",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u025a\u02ccs\u026ak/",
+            "type": "adjective",
+            "word": "carsick"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">say xe</div>",
+            "id": "13369",
+            "mean": [],
+            "pronounce": "/'k\u0251:,sik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/29f8780b4753018cf811168bbc77d207/16e5ec53ef1/C/carsick.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d313cf4a38acd68188565156e971b033/16e5ec53992/C/carsick.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "carsick"
+        },
+        "suggests": [
+            {
+                "id": "13369",
+                "link": "/find?type=1&query=carsickness",
+                "word": "carsickness"
+            }
+        ]
+    }
+}
