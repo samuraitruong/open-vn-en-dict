@@ -5,6 +5,7 @@ import json
 import concurrent.futures
 import os.path
 import pprint
+import sys
 
 
 def getWordList():
@@ -113,7 +114,7 @@ def getWord(word):
     return html("#column-content").html()
 
 
-if len(argv) > 1:
+if len(sys.argv) > 1:
     pprint.pprint(getWordFromLaban("agromania"))
     exit()
 words = getWordList()
