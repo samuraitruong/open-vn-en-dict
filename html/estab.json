@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "32001", "link": "/find?type=1&query=establish", "word": "establish"}, {"id": "32002", "link": "/find?type=1&query=established", "word": "established"}, {"id": "32003", "link": "/find?type=1&query=establisher", "word": "establisher"}, {"id": "32004", "link": "/find?type=1&query=establishment", "word": "establishment"}, {"id": "32005", "link": "/find?type=1&query=establishmentarian", "word": "establishmentarian"}, {"id": "32006", "link": "/find?type=1&query=establishmentarianism", "word": "establishmentarianism"}], "data": {}}, "en_en": {"suggests": [{"id": "9790", "link": "/find?type=3&query=establish", "word": "establish"}, {"id": "9791", "link": "/find?type=3&query=established", "word": "established"}, {"id": "9792", "link": "/find?type=3&query=establishment", "word": "establishment"}], "data": {}}, "synonyms": {"suggests": [{"id": "2258", "link": "/find?type=4&query=establish", "word": "establish"}, {"id": "2259", "link": "/find?type=4&query=establishment", "word": "establishment"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9790",
+                "link": "/find?type=3&query=establish",
+                "word": "establish"
+            },
+            {
+                "id": "9791",
+                "link": "/find?type=3&query=established",
+                "word": "established"
+            },
+            {
+                "id": "9792",
+                "link": "/find?type=3&query=establishment",
+                "word": "establishment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32001",
+                "link": "/find?type=1&query=establish",
+                "word": "establish"
+            },
+            {
+                "id": "32002",
+                "link": "/find?type=1&query=established",
+                "word": "established"
+            },
+            {
+                "id": "32003",
+                "link": "/find?type=1&query=establisher",
+                "word": "establisher"
+            },
+            {
+                "id": "32004",
+                "link": "/find?type=1&query=establishment",
+                "word": "establishment"
+            },
+            {
+                "id": "32005",
+                "link": "/find?type=1&query=establishmentarian",
+                "word": "establishmentarian"
+            },
+            {
+                "id": "32006",
+                "link": "/find?type=1&query=establishmentarianism",
+                "word": "establishmentarianism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2258",
+                "link": "/find?type=4&query=establish",
+                "word": "establish"
+            },
+            {
+                "id": "2259",
+                "link": "/find?type=4&query=establishment",
+                "word": "establishment"
+            }
+        ]
+    }
+}
