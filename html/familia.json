@@ -1,1 +1,82 @@
-{"en_vn": {"suggests": [{"id": "34051", "link": "/find?type=1&query=familial", "word": "familial"}, {"id": "34052", "link": "/find?type=1&query=familiar", "word": "familiar"}, {"id": "34053", "link": "/find?type=1&query=familiarity", "word": "familiarity"}, {"id": "34054", "link": "/find?type=1&query=familiarization%2C+familiarisation", "word": "familiarization, familiarisation"}, {"id": "34055", "link": "/find?type=1&query=familiarize%2C+familiarise", "word": "familiarize, familiarise"}, {"id": "34056", "link": "/find?type=1&query=familiarly", "word": "familiarly"}], "data": {}}, "en_en": {"suggests": [{"id": "10263", "link": "/find?type=3&query=familial", "word": "familial"}, {"id": "10264", "link": "/find?type=3&query=familiar", "word": "familiar"}, {"id": "10265", "link": "/find?type=3&query=familiarity", "word": "familiarity"}, {"id": "10266", "link": "/find?type=3&query=familiarize", "word": "familiarize"}], "data": {}}, "synonyms": {"suggests": [{"id": "2489", "link": "/find?type=4&query=familiar", "word": "familiar"}, {"id": "2490", "link": "/find?type=4&query=familiarity", "word": "familiarity"}, {"id": "2491", "link": "/find?type=4&query=familiarize", "word": "familiarize"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10263",
+                "link": "/find?type=3&query=familial",
+                "word": "familial"
+            },
+            {
+                "id": "10264",
+                "link": "/find?type=3&query=familiar",
+                "word": "familiar"
+            },
+            {
+                "id": "10265",
+                "link": "/find?type=3&query=familiarity",
+                "word": "familiarity"
+            },
+            {
+                "id": "10266",
+                "link": "/find?type=3&query=familiarize",
+                "word": "familiarize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34051",
+                "link": "/find?type=1&query=familial",
+                "word": "familial"
+            },
+            {
+                "id": "34052",
+                "link": "/find?type=1&query=familiar",
+                "word": "familiar"
+            },
+            {
+                "id": "34053",
+                "link": "/find?type=1&query=familiarity",
+                "word": "familiarity"
+            },
+            {
+                "id": "34054",
+                "link": "/find?type=1&query=familiarization%2C+familiarisation",
+                "word": "familiarization, familiarisation"
+            },
+            {
+                "id": "34055",
+                "link": "/find?type=1&query=familiarize%2C+familiarise",
+                "word": "familiarize, familiarise"
+            },
+            {
+                "id": "34056",
+                "link": "/find?type=1&query=familiarly",
+                "word": "familiarly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2489",
+                "link": "/find?type=4&query=familiar",
+                "word": "familiar"
+            },
+            {
+                "id": "2490",
+                "link": "/find?type=4&query=familiarity",
+                "word": "familiarity"
+            },
+            {
+                "id": "2491",
+                "link": "/find?type=4&query=familiarize",
+                "word": "familiarize"
+            }
+        ]
+    }
+}
