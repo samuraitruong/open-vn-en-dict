@@ -1,1 +1,22 @@
-{"error": 0, "query": "fondu", "enViData": {"suggests": [{"id": "36833", "link": "/find?type=1&query=fondue", "word": "fondue"}]}, "mUrl": "/find?type=1&query=fondu", "enEnData": {"suggests": [{"id": "11087", "link": "/find?type=3&query=fondue", "word": "fondue"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11087",
+                "link": "/find?type=3&query=fondue",
+                "word": "fondue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "36833",
+                "link": "/find?type=1&query=fondue",
+                "word": "fondue"
+            }
+        ]
+    }
+}
