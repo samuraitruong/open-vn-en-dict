@@ -1,1 +1,32 @@
-{"error": 0, "query": "gump", "enViData": {"suggests": [{"id": "42008", "link": "/find?type=1&query=gumption", "word": "gumption"}]}, "mUrl": "/find?type=1&query=gump", "enEnData": {"suggests": [{"id": "12782", "link": "/find?type=3&query=gumption", "word": "gumption"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3151", "link": "/find?type=4&query=gumption", "word": "gumption"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "12782",
+                "link": "/find?type=3&query=gumption",
+                "word": "gumption"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42008",
+                "link": "/find?type=1&query=gumption",
+                "word": "gumption"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3151",
+                "link": "/find?type=4&query=gumption",
+                "word": "gumption"
+            }
+        ]
+    }
+}
