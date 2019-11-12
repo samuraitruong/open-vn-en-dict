@@ -1,1 +1,44 @@
-{"error": 0, "query": "hernias", "enViData": {"suggests": [{"id": "43706", "link": "/find?type=1&query=hernial", "word": "hernial"}, {"id": "43706", "link": "/find?type=1&query=herniate", "word": "herniate"}, {"id": "43706", "link": "/find?type=1&query=herniated", "word": "herniated"}], "best": {"id": "43706", "details": "\n<div id=\"find_word_43706\" class=\"world word_en\" rel=\"hernia\">\n    <h2 class=\"fl\">hernia <span class=\"color-black\">/'h\u025c:ni\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43706\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43706\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) tho\u00e1t v\u1ecb</div>\n    \n</div>\n", "link": "/find?type=1&query=hernia", "word": "hernia"}}, "mUrl": "/find?type=1&query=hernias", "enEnData": {"suggests": [], "best": {"id": "13468", "details": "\n<div id=\"find_word_13468\" class=\"world word_en\" rel=\"hernia\">\n    <h2 class=\"fl\">hernia <span class=\"color-black\">/\u02c8h\u025anij\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13468\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13468\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nias</div>\n    \n    <div class=\"green margin25 m-top15\">medical :a painful condition in which an organ (such as the intestine) pushes through the muscles that are around it [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He has a hernia. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was treated for hernia. - called also rupture</div>\n    \n</div>\n", "link": "/find?type=3&query=hernia", "word": "hernia"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nias</div>\n    \n    <div class=\"green margin25 m-top15\">medical :a painful condition in which an organ (such as the intestine) pushes through the muscles that are around it [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He has a hernia. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was treated for hernia. - called also rupture</div>",
+            "id": "13468",
+            "mean": [],
+            "pronounce": "/\u02c8h\u025anij\u0259/",
+            "type": "noun",
+            "word": "hernia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) tho\u00e1t v\u1ecb</div>",
+            "id": "43706",
+            "mean": [],
+            "pronounce": "/'h\u025c:ni\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/27038842b8b041b5a528a5e799a6fcc7/16e61921c04/H/hernia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cdd339ea59f8e27c73a7ed1b69eddc1d/16e61921418/H/hernia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hernia"
+        },
+        "suggests": [
+            {
+                "id": "43706",
+                "link": "/find?type=1&query=hernial",
+                "word": "hernial"
+            },
+            {
+                "id": "43706",
+                "link": "/find?type=1&query=herniate",
+                "word": "herniate"
+            },
+            {
+                "id": "43706",
+                "link": "/find?type=1&query=herniated",
+                "word": "herniated"
+            }
+        ]
+    }
+}
