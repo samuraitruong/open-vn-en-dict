@@ -1,1 +1,32 @@
-{"error": 0, "query": "irides", "enViData": {"suggests": [{"id": "50127", "link": "/find?type=1&query=iridescence", "word": "iridescence"}, {"id": "50128", "link": "/find?type=1&query=iridescent", "word": "iridescent"}, {"id": "50129", "link": "/find?type=1&query=iridescently", "word": "iridescently"}]}, "mUrl": "/find?type=1&query=irides", "enEnData": {"suggests": [{"id": "15393", "link": "/find?type=3&query=iridescent", "word": "iridescent"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15393",
+                "link": "/find?type=3&query=iridescent",
+                "word": "iridescent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50127",
+                "link": "/find?type=1&query=iridescence",
+                "word": "iridescence"
+            },
+            {
+                "id": "50128",
+                "link": "/find?type=1&query=iridescent",
+                "word": "iridescent"
+            },
+            {
+                "id": "50129",
+                "link": "/find?type=1&query=iridescently",
+                "word": "iridescently"
+            }
+        ]
+    }
+}
