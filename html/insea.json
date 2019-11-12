@@ -1,1 +1,22 @@
-{"error": 0, "query": "insea", "enViData": {"suggests": [{"id": "48708", "link": "/find?type=1&query=inseam", "word": "inseam"}]}, "mUrl": "/find?type=1&query=insea", "enEnData": {"suggests": [{"id": "15039", "link": "/find?type=3&query=inseam", "word": "inseam"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15039",
+                "link": "/find?type=3&query=inseam",
+                "word": "inseam"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48708",
+                "link": "/find?type=1&query=inseam",
+                "word": "inseam"
+            }
+        ]
+    }
+}

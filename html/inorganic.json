@@ -1,1 +1,45 @@
-{"error": 0, "query": "inorganic", "enViData": {"suggests": [{"id": "48629", "link": "/find?type=1&query=inorganic+chemistry", "word": "inorganic chemistry"}, {"id": "48629", "link": "/find?type=1&query=inorganically", "word": "inorganically"}], "best": {"id": "48629", "details": "\n<div id=\"find_word_48629\" class=\"world word_en\" rel=\"inorganic\">\n    <h2 class=\"fl\">inorganic <span class=\"color-black\">/,in\u0254:'g\u00e6nik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48629\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48629\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00f3a h\u1ecdc) v\u00f4 c\u01a1</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) nh\u00e2n t\u1ea1o</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an inorganic form of society</div>\n    \n    <div class=\"margin25\">m\u1ed9t h\u00ecnh th\u00e1i x\u00e3 h\u1ed9i nh\u00e2n t\u1ea1o</div>\n    \n</div>\n", "link": "/find?type=1&query=inorganic", "word": "inorganic"}}, "mUrl": "/find?type=1&query=inorganic", "enEnData": {"suggests": [{"id": "15016", "link": "/find?type=3&query=inorganic+chemistry", "word": "inorganic chemistry"}], "best": {"id": "15016", "details": "\n<div id=\"find_word_15016\" class=\"world word_en\" rel=\"inorganic\">\n    <h2 class=\"fl\">inorganic <span class=\"color-black\">/\u02cc\u026ano\u025a\u02c8g\u00e6n\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15016\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15016\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">made from or containing material that does not come from plants or animals</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">inorganic fertilizer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">producing energy from inorganic materials - opposite organic</div>\n    \n</div>\n", "link": "/find?type=3&query=inorganic", "word": "inorganic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">made from or containing material that does not come from plants or animals</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">inorganic fertilizer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">producing energy from inorganic materials - opposite organic</div>",
+            "id": "15016",
+            "mean": [],
+            "pronounce": "/\u02cc\u026ano\u025a\u02c8g\u00e6n\u026ak/",
+            "type": "adjective",
+            "word": "inorganic"
+        },
+        "suggests": [
+            {
+                "id": "15016",
+                "link": "/find?type=3&query=inorganic+chemistry",
+                "word": "inorganic chemistry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(h\u00f3a h\u1ecdc) v\u00f4 c\u01a1</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) nh\u00e2n t\u1ea1o</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an inorganic form of society</div>\n    \n    <div class=\"margin25\">m\u1ed9t h\u00ecnh th\u00e1i x\u00e3 h\u1ed9i nh\u00e2n t\u1ea1o</div>",
+            "id": "48629",
+            "mean": [],
+            "pronounce": "/,in\u0254:'g\u00e6nik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/36abea1415dce458d38ef637a2c94f39/16e61cea5a4/I/inorganic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/50c615dc5ad51df44a17201fd5bdca5e/16e61ce9ffa/I/inorganic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "inorganic"
+        },
+        "suggests": [
+            {
+                "id": "48629",
+                "link": "/find?type=1&query=inorganic+chemistry",
+                "word": "inorganic chemistry"
+            },
+            {
+                "id": "48629",
+                "link": "/find?type=1&query=inorganically",
+                "word": "inorganically"
+            }
+        ]
+    }
+}

@@ -1,1 +1,38 @@
-{"error": 0, "query": "innovated", "enViData": {"suggests": [], "best": {"id": "48579", "details": "\n<div id=\"find_word_48579\" class=\"world word_en\" rel=\"innovate\">\n    <h2 class=\"fl\">innovate <span class=\"color-black\">/'in\u0259veit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48579\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48579\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed5i m\u1edbi, canh t\u00e2n</div>\n    \n</div>\n", "link": "/find?type=1&query=innovate", "word": "innovate"}}, "mUrl": "/find?type=1&query=innovated", "enEnData": {"suggests": [], "best": {"id": "15002", "details": "\n<div id=\"find_word_15002\" class=\"world word_en\" rel=\"innovate\">\n    <h2 class=\"fl\">innovate <span class=\"color-black\">/\u02c8\u026an\u0259\u02ccve\u026at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15002\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15002\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-vates; -vated; -vating</div>\n    \n    <div class=\"green margin25 m-top15\">to do something in a new way :to have new ideas about how something can be done [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company plans to continue innovating and experimenting. [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company innovated a new operating system.</div>\n    \n</div>\n", "link": "/find?type=3&query=innovate", "word": "innovate"}}, "ftype": "1", "synData": {"suggests": [{"id": "3807", "link": "/find?type=4&query=innovation", "word": "innovation"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-vates; -vated; -vating</div>\n    \n    <div class=\"green margin25 m-top15\">to do something in a new way :to have new ideas about how something can be done [no obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company plans to continue innovating and experimenting. [+ obj]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company innovated a new operating system.</div>",
+            "id": "15002",
+            "mean": [],
+            "pronounce": "/\u02c8\u026an\u0259\u02ccve\u026at/",
+            "type": "verb",
+            "word": "innovate"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed5i m\u1edbi, canh t\u00e2n</div>",
+            "id": "48579",
+            "mean": [],
+            "pronounce": "/'in\u0259veit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0d83751691cfff737d5dad0952a98d69/16e61ce7b45/I/innovate.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e835dac2f08d81d1c5d2932f5621f2ad/16e61ce7587/I/innovate.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "innovate"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3807",
+                "link": "/find?type=4&query=innovation",
+                "word": "innovation"
+            }
+        ]
+    }
+}

@@ -1,1 +1,122 @@
-{"error": 0, "query": "ino", "enViData": {"suggests": [{"id": "48600", "link": "/find?type=1&query=inobservance", "word": "inobservance"}, {"id": "48601", "link": "/find?type=1&query=inobservant", "word": "inobservant"}, {"id": "48602", "link": "/find?type=1&query=inoccupation", "word": "inoccupation"}, {"id": "48603", "link": "/find?type=1&query=inoculability", "word": "inoculability"}, {"id": "48604", "link": "/find?type=1&query=inoculable", "word": "inoculable"}, {"id": "48605", "link": "/find?type=1&query=inoculant", "word": "inoculant"}, {"id": "48606", "link": "/find?type=1&query=inoculate", "word": "inoculate"}, {"id": "48607", "link": "/find?type=1&query=inoculation", "word": "inoculation"}, {"id": "48608", "link": "/find?type=1&query=inoculative", "word": "inoculative"}, {"id": "48609", "link": "/find?type=1&query=inoculator", "word": "inoculator"}]}, "mUrl": "/find?type=1&query=ino", "enEnData": {"suggests": [{"id": "15010", "link": "/find?type=3&query=inoculate", "word": "inoculate"}, {"id": "15011", "link": "/find?type=3&query=inoffensive", "word": "inoffensive"}, {"id": "15012", "link": "/find?type=3&query=inoperable", "word": "inoperable"}, {"id": "15013", "link": "/find?type=3&query=inoperative", "word": "inoperative"}, {"id": "15014", "link": "/find?type=3&query=inopportune", "word": "inopportune"}, {"id": "15015", "link": "/find?type=3&query=inordinate", "word": "inordinate"}, {"id": "15016", "link": "/find?type=3&query=inorganic", "word": "inorganic"}, {"id": "15017", "link": "/find?type=3&query=inorganic+chemistry", "word": "inorganic chemistry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3809", "link": "/find?type=4&query=inoffensive", "word": "inoffensive"}, {"id": "3810", "link": "/find?type=4&query=inopportune", "word": "inopportune"}, {"id": "3811", "link": "/find?type=4&query=inordinate", "word": "inordinate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15010",
+                "link": "/find?type=3&query=inoculate",
+                "word": "inoculate"
+            },
+            {
+                "id": "15011",
+                "link": "/find?type=3&query=inoffensive",
+                "word": "inoffensive"
+            },
+            {
+                "id": "15012",
+                "link": "/find?type=3&query=inoperable",
+                "word": "inoperable"
+            },
+            {
+                "id": "15013",
+                "link": "/find?type=3&query=inoperative",
+                "word": "inoperative"
+            },
+            {
+                "id": "15014",
+                "link": "/find?type=3&query=inopportune",
+                "word": "inopportune"
+            },
+            {
+                "id": "15015",
+                "link": "/find?type=3&query=inordinate",
+                "word": "inordinate"
+            },
+            {
+                "id": "15016",
+                "link": "/find?type=3&query=inorganic",
+                "word": "inorganic"
+            },
+            {
+                "id": "15017",
+                "link": "/find?type=3&query=inorganic+chemistry",
+                "word": "inorganic chemistry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48600",
+                "link": "/find?type=1&query=inobservance",
+                "word": "inobservance"
+            },
+            {
+                "id": "48601",
+                "link": "/find?type=1&query=inobservant",
+                "word": "inobservant"
+            },
+            {
+                "id": "48602",
+                "link": "/find?type=1&query=inoccupation",
+                "word": "inoccupation"
+            },
+            {
+                "id": "48603",
+                "link": "/find?type=1&query=inoculability",
+                "word": "inoculability"
+            },
+            {
+                "id": "48604",
+                "link": "/find?type=1&query=inoculable",
+                "word": "inoculable"
+            },
+            {
+                "id": "48605",
+                "link": "/find?type=1&query=inoculant",
+                "word": "inoculant"
+            },
+            {
+                "id": "48606",
+                "link": "/find?type=1&query=inoculate",
+                "word": "inoculate"
+            },
+            {
+                "id": "48607",
+                "link": "/find?type=1&query=inoculation",
+                "word": "inoculation"
+            },
+            {
+                "id": "48608",
+                "link": "/find?type=1&query=inoculative",
+                "word": "inoculative"
+            },
+            {
+                "id": "48609",
+                "link": "/find?type=1&query=inoculator",
+                "word": "inoculator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3809",
+                "link": "/find?type=4&query=inoffensive",
+                "word": "inoffensive"
+            },
+            {
+                "id": "3810",
+                "link": "/find?type=4&query=inopportune",
+                "word": "inopportune"
+            },
+            {
+                "id": "3811",
+                "link": "/find?type=4&query=inordinate",
+                "word": "inordinate"
+            }
+        ]
+    }
+}

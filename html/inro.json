@@ -1,1 +1,32 @@
-{"error": 0, "query": "inro", "enViData": {"suggests": [{"id": "48669", "link": "/find?type=1&query=inroad", "word": "inroad"}]}, "mUrl": "/find?type=1&query=inro", "enEnData": {"suggests": [{"id": "15027", "link": "/find?type=3&query=inroad", "word": "inroad"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3815", "link": "/find?type=4&query=inroad", "word": "inroad"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15027",
+                "link": "/find?type=3&query=inroad",
+                "word": "inroad"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48669",
+                "link": "/find?type=1&query=inroad",
+                "word": "inroad"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3815",
+                "link": "/find?type=4&query=inroad",
+                "word": "inroad"
+            }
+        ]
+    }
+}

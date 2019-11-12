@@ -1,1 +1,33 @@
-{"error": 0, "query": "innovator", "enViData": {"suggests": [{"id": "48585", "link": "/find?type=1&query=innovatory", "word": "innovatory"}], "best": {"id": "48585", "details": "\n<div id=\"find_word_48585\" class=\"world word_en\" rel=\"innovator\">\n    <h2 class=\"fl\">innovator <span class=\"color-black\">/'in\u0259veit\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48585\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48585\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111\u1ed5i m\u1edbi, ng\u01b0\u1eddi canh t\u00e2n</div>\n    \n</div>\n", "link": "/find?type=1&query=innovator", "word": "innovator"}}, "mUrl": "/find?type=1&query=innovator", "enEnData": {"suggests": [{"id": "15005", "link": "/find?type=3&query=innovatory", "word": "innovatory"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15005",
+                "link": "/find?type=3&query=innovatory",
+                "word": "innovatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi \u0111\u1ed5i m\u1edbi, ng\u01b0\u1eddi canh t\u00e2n</div>",
+            "id": "48585",
+            "mean": [],
+            "pronounce": "/'in\u0259veit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ec3a729d22bf3d3c712297acce7fc08e/16e61ce7e37/I/innovator.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bcb4a7cff2e8bc4b36782df564a804d7/16e61ce7850/I/innovator.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "innovator"
+        },
+        "suggests": [
+            {
+                "id": "48585",
+                "link": "/find?type=1&query=innovatory",
+                "word": "innovatory"
+            }
+        ]
+    }
+}

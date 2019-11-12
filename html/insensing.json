@@ -1,1 +1,82 @@
-{"error": 0, "query": "insensing", "enViData": {"suggests": [{"id": "48732", "link": "/find?type=1&query=insensate", "word": "insensate"}, {"id": "48733", "link": "/find?type=1&query=insensately", "word": "insensately"}, {"id": "48734", "link": "/find?type=1&query=insensateness", "word": "insensateness"}, {"id": "48735", "link": "/find?type=1&query=insensibility", "word": "insensibility"}, {"id": "48736", "link": "/find?type=1&query=insensible", "word": "insensible"}, {"id": "48737", "link": "/find?type=1&query=insensibleness", "word": "insensibleness"}, {"id": "48738", "link": "/find?type=1&query=insensibly", "word": "insensibly"}, {"id": "48739", "link": "/find?type=1&query=insensitive", "word": "insensitive"}, {"id": "48740", "link": "/find?type=1&query=insensitively", "word": "insensitively"}, {"id": "48741", "link": "/find?type=1&query=insensitiveness", "word": "insensitiveness"}]}, "mUrl": "/find?type=1&query=insensing", "enEnData": {"suggests": [{"id": "15046", "link": "/find?type=3&query=insensible", "word": "insensible"}, {"id": "15047", "link": "/find?type=3&query=insensitive", "word": "insensitive"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3819", "link": "/find?type=4&query=insensible", "word": "insensible"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15046",
+                "link": "/find?type=3&query=insensible",
+                "word": "insensible"
+            },
+            {
+                "id": "15047",
+                "link": "/find?type=3&query=insensitive",
+                "word": "insensitive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "48732",
+                "link": "/find?type=1&query=insensate",
+                "word": "insensate"
+            },
+            {
+                "id": "48733",
+                "link": "/find?type=1&query=insensately",
+                "word": "insensately"
+            },
+            {
+                "id": "48734",
+                "link": "/find?type=1&query=insensateness",
+                "word": "insensateness"
+            },
+            {
+                "id": "48735",
+                "link": "/find?type=1&query=insensibility",
+                "word": "insensibility"
+            },
+            {
+                "id": "48736",
+                "link": "/find?type=1&query=insensible",
+                "word": "insensible"
+            },
+            {
+                "id": "48737",
+                "link": "/find?type=1&query=insensibleness",
+                "word": "insensibleness"
+            },
+            {
+                "id": "48738",
+                "link": "/find?type=1&query=insensibly",
+                "word": "insensibly"
+            },
+            {
+                "id": "48739",
+                "link": "/find?type=1&query=insensitive",
+                "word": "insensitive"
+            },
+            {
+                "id": "48740",
+                "link": "/find?type=1&query=insensitively",
+                "word": "insensitively"
+            },
+            {
+                "id": "48741",
+                "link": "/find?type=1&query=insensitiveness",
+                "word": "insensitiveness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3819",
+                "link": "/find?type=4&query=insensible",
+                "word": "insensible"
+            }
+        ]
+    }
+}

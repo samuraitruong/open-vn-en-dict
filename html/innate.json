@@ -1,1 +1,39 @@
-{"error": 0, "query": "innate", "enViData": {"suggests": [{"id": "48540", "link": "/find?type=1&query=innately", "word": "innately"}, {"id": "48540", "link": "/find?type=1&query=innateness", "word": "innateness"}], "best": {"id": "48540", "details": "\n<div id=\"find_word_48540\" class=\"world word_en\" rel=\"innate\">\n    <h2 class=\"fl\">innate <span class=\"color-black\">/i'neit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"48540\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"48540\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea9m sinh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">innate beauty</div>\n    \n    <div class=\"margin25\">s\u1eafc \u0111\u1eb9p b\u1ea9m sinh</div>\n    \n</div>\n", "link": "/find?type=1&query=innate", "word": "innate"}}, "mUrl": "/find?type=1&query=innate", "enEnData": {"suggests": [], "best": {"id": "14988", "details": "\n<div id=\"find_word_14988\" class=\"world word_en\" rel=\"innate\">\n    <h2 class=\"fl\">innate <span class=\"color-black\">/\u026a\u02c8ne\u026at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14988\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14988\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">existing from the time a person or animal is born</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an innate ability/talent</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has an innate sense of rhythm.</div>\n    \n    <div class=\"green margin25 m-top15\">existing as part of the basic nature of something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the innate problems of wireless communication</div>\n    \n</div>\n", "link": "/find?type=3&query=innate", "word": "innate"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">existing from the time a person or animal is born</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an innate ability/talent</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has an innate sense of rhythm.</div>\n    \n    <div class=\"green margin25 m-top15\">existing as part of the basic nature of something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the innate problems of wireless communication</div>",
+            "id": "14988",
+            "mean": [],
+            "pronounce": "/\u026a\u02c8ne\u026at/",
+            "type": "adjective",
+            "word": "innate"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea9m sinh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">innate beauty</div>\n    \n    <div class=\"margin25\">s\u1eafc \u0111\u1eb9p b\u1ea9m sinh</div>",
+            "id": "48540",
+            "mean": [],
+            "pronounce": "/i'neit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c7252ea57cca7edee4ede15c43aabe79/16e61ce679f/I/innate.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/aa29737b51a1ddbe9c5b9d7bede631af/16e61ce6201/I/innate.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "innate"
+        },
+        "suggests": [
+            {
+                "id": "48540",
+                "link": "/find?type=1&query=innately",
+                "word": "innately"
+            },
+            {
+                "id": "48540",
+                "link": "/find?type=1&query=innateness",
+                "word": "innateness"
+            }
+        ]
+    }
+}
