@@ -1,1 +1,33 @@
-{"en_vn": {"suggests": [{"id": "11883", "link": "/find?type=1&query=burgher", "word": "burgher"}], "data": {"word": "burgh", "id": "11883", "pronounce": "/'b\u028cr\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00ca-c\u1ed1t) th\u1ecb x\u00e3, th\u1ecb tr\u1ea5n</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/a6c82a01f7165638d31a30060bb074a5/16e5ddf443a/B/burgh.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/569f3cecd82fd3ead73d104af78aecf3/16e5ddf4a3c/B/burgh.mp3"}}}, "en_en": {"suggests": [{"id": "3698", "link": "/find?type=3&query=burgher", "word": "burgher"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3698",
+                "link": "/find?type=3&query=burgher",
+                "word": "burgher"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u00ca-c\u1ed1t) th\u1ecb x\u00e3, th\u1ecb tr\u1ea5n</div>",
+            "id": "11883",
+            "mean": [],
+            "pronounce": "/'b\u028cr\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/18d0cc5ffd623a068eba5417adb52eb8/16e5ec0a547/B/burgh.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2a7a4bb62ec1906ff54e105dc4fa6fd3/16e5ec0a02d/B/burgh.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "burgh"
+        },
+        "suggests": [
+            {
+                "id": "11883",
+                "link": "/find?type=1&query=burgher",
+                "word": "burgher"
+            }
+        ]
+    }
+}

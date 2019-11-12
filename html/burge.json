@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "11879", "link": "/find?type=1&query=burgee", "word": "burgee"}, {"id": "11880", "link": "/find?type=1&query=burgeon", "word": "burgeon"}, {"id": "11881", "link": "/find?type=1&query=burger", "word": "burger"}, {"id": "11882", "link": "/find?type=1&query=burgess", "word": "burgess"}, {"id": "104584", "link": "/find?type=1&query=-burger", "word": "-burger"}], "data": {}}, "en_en": {"suggests": [{"id": "3696", "link": "/find?type=3&query=burgeon", "word": "burgeon"}, {"id": "3697", "link": "/find?type=3&query=burger", "word": "burger"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3696",
+                "link": "/find?type=3&query=burgeon",
+                "word": "burgeon"
+            },
+            {
+                "id": "3697",
+                "link": "/find?type=3&query=burger",
+                "word": "burger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11879",
+                "link": "/find?type=1&query=burgee",
+                "word": "burgee"
+            },
+            {
+                "id": "11880",
+                "link": "/find?type=1&query=burgeon",
+                "word": "burgeon"
+            },
+            {
+                "id": "11881",
+                "link": "/find?type=1&query=burger",
+                "word": "burger"
+            },
+            {
+                "id": "11882",
+                "link": "/find?type=1&query=burgess",
+                "word": "burgess"
+            },
+            {
+                "id": "104584",
+                "link": "/find?type=1&query=-burger",
+                "word": "-burger"
+            }
+        ]
+    }
+}

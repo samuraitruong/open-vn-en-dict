@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "11837", "link": "/find?type=1&query=bunny", "word": "bunny"}, {"id": "11838", "link": "/find?type=1&query=bunny-hug", "word": "bunny-hug"}], "data": {}}, "en_en": {"suggests": [{"id": "3679", "link": "/find?type=3&query=bunny", "word": "bunny"}, {"id": "3680", "link": "/find?type=3&query=bunny+slope", "word": "bunny slope"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3679",
+                "link": "/find?type=3&query=bunny",
+                "word": "bunny"
+            },
+            {
+                "id": "3680",
+                "link": "/find?type=3&query=bunny+slope",
+                "word": "bunny slope"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11837",
+                "link": "/find?type=1&query=bunny",
+                "word": "bunny"
+            },
+            {
+                "id": "11838",
+                "link": "/find?type=1&query=bunny-hug",
+                "word": "bunny-hug"
+            }
+        ]
+    }
+}

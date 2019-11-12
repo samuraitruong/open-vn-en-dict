@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "11948", "link": "/find?type=1&query=bursarial", "word": "bursarial"}, {"id": "11948", "link": "/find?type=1&query=bursary", "word": "bursary"}], "data": {"word": "bursar", "id": "11948", "pronounce": "/'b\u025c:s\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi qu\u1ea3n l\u00ed chi ti\u00eau (\u1edf m\u1ed9t tr\u01b0\u1eddng h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">sinh vi\u00ean \u0111\u01b0\u1ee3c h\u1ecdc b\u1ed5ng</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d25de0a6cf882f1dc80a816cfcd04527/16e5ddf899b/B/bursar.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/6a3fcf85cdaebb5ad7635f49fb763fcb/16e5ddf8f77/B/bursar.mp3"}}}, "en_en": {"suggests": [{"id": "3724", "link": "/find?type=3&query=bursary", "word": "bursary"}], "data": {"word": "bursar", "id": "3724", "pronounce": "/\u02c8b\u025as\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sars</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to manage the money of a school, college, or university :treasurer</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sars</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to manage the money of a school, college, or university :treasurer</div>",
+            "id": "3724",
+            "mean": [],
+            "pronounce": "/\u02c8b\u025as\u025a/",
+            "type": "noun",
+            "word": "bursar"
+        },
+        "suggests": [
+            {
+                "id": "3724",
+                "link": "/find?type=3&query=bursary",
+                "word": "bursary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi qu\u1ea3n l\u00ed chi ti\u00eau (\u1edf m\u1ed9t tr\u01b0\u1eddng h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">sinh vi\u00ean \u0111\u01b0\u1ee3c h\u1ecdc b\u1ed5ng</div>",
+            "id": "11948",
+            "mean": [],
+            "pronounce": "/'b\u025c:s\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e9318c30f30af52191cff11840338c04/16e5ec0dfb4/B/bursar.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fe95d53e811bd24036d472f5e5fbd311/16e5ec0daa3/B/bursar.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "bursar"
+        },
+        "suggests": [
+            {
+                "id": "11948",
+                "link": "/find?type=1&query=bursarial",
+                "word": "bursarial"
+            },
+            {
+                "id": "11948",
+                "link": "/find?type=1&query=bursary",
+                "word": "bursary"
+            }
+        ]
+    }
+}

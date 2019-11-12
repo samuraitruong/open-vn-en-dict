@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "11827", "link": "/find?type=1&query=bungalow", "word": "bungalow"}], "data": {}}, "en_en": {"suggests": [{"id": "3668", "link": "/find?type=3&query=bungalow", "word": "bungalow"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3668",
+                "link": "/find?type=3&query=bungalow",
+                "word": "bungalow"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11827",
+                "link": "/find?type=1&query=bungalow",
+                "word": "bungalow"
+            }
+        ]
+    }
+}
