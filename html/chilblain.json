@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "14879", "link": "/find?type=1&query=chilblained", "word": "chilblained"}], "data": {"word": "chilblain", "id": "14879", "pronounce": "/'t\u222bilblein/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u) c\u01b0\u1edbc (\u1edf tay ch\u00e2n do b\u1ecb l\u1ea1nh)</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "chilblain", "id": "4766", "pronounce": "/\u02c8\u02a7\u026al\u02ccble\u026an/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a red and painful swollen area on the feet, hands, etc., that is caused by being exposed to cold - usually plural;</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a red and painful swollen area on the feet, hands, etc., that is caused by being exposed to cold - usually plural;</div>",
+            "id": "4766",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a7\u026al\u02ccble\u026an/",
+            "type": "noun",
+            "word": "chilblain"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u) c\u01b0\u1edbc (\u1edf tay ch\u00e2n do b\u1ecb l\u1ea1nh)</div>",
+            "id": "14879",
+            "mean": [],
+            "pronounce": "/'t\u222bilblein/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "chilblain"
+        },
+        "suggests": [
+            {
+                "id": "14879",
+                "link": "/find?type=1&query=chilblained",
+                "word": "chilblained"
+            }
+        ]
+    }
+}

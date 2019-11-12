@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14890", "link": "/find?type=1&query=childbearing", "word": "childbearing"}], "data": {}}, "en_en": {"suggests": [{"id": "4770", "link": "/find?type=3&query=childbearing", "word": "childbearing"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4770",
+                "link": "/find?type=3&query=childbearing",
+                "word": "childbearing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14890",
+                "link": "/find?type=1&query=childbearing",
+                "word": "childbearing"
+            }
+        ]
+    }
+}

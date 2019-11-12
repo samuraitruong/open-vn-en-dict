@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14854", "link": "/find?type=1&query=chicory", "word": "chicory"}], "data": {}}, "en_en": {"suggests": [{"id": "4751", "link": "/find?type=3&query=chicory", "word": "chicory"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4751",
+                "link": "/find?type=3&query=chicory",
+                "word": "chicory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14854",
+                "link": "/find?type=1&query=chicory",
+                "word": "chicory"
+            }
+        ]
+    }
+}

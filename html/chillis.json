@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "14913", "link": "/find?type=1&query=chilli+corn+carne", "word": "chilli corn carne"}, {"id": "14913", "link": "/find?type=1&query=chillily", "word": "chillily"}, {"id": "14913", "link": "/find?type=1&query=chilliness", "word": "chilliness"}, {"id": "14913", "link": "/find?type=1&query=chilling", "word": "chilling"}, {"id": "14913", "link": "/find?type=1&query=chillingly", "word": "chillingly"}], "data": {"word": "chilli", "id": "14913", "pronounce": "/'t\u222bili/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9 chili) (dt s\u1ed1 nhi\u1ec1u chillies) (t\u1eeb M\u1ef9 chilies) \u1edbt kh\u00f4</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "4787", "link": "/find?type=3&query=chilling", "word": "chilling"}], "data": {"word": "chilli", "id": "4787", "pronounce": "", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">chiefly Brit spelling of chili</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">chiefly Brit spelling of chili</div>",
+            "id": "4787",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "chilli"
+        },
+        "suggests": [
+            {
+                "id": "4787",
+                "link": "/find?type=3&query=chilling",
+                "word": "chilling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9 chili) (dt s\u1ed1 nhi\u1ec1u chillies) (t\u1eeb M\u1ef9 chilies) \u1edbt kh\u00f4</div>",
+            "id": "14913",
+            "mean": [],
+            "pronounce": "/'t\u222bili/",
+            "speak": {},
+            "type": "",
+            "word": "chilli"
+        },
+        "suggests": [
+            {
+                "id": "14913",
+                "link": "/find?type=1&query=chilli+corn+carne",
+                "word": "chilli corn carne"
+            },
+            {
+                "id": "14913",
+                "link": "/find?type=1&query=chillily",
+                "word": "chillily"
+            },
+            {
+                "id": "14913",
+                "link": "/find?type=1&query=chilliness",
+                "word": "chilliness"
+            },
+            {
+                "id": "14913",
+                "link": "/find?type=1&query=chilling",
+                "word": "chilling"
+            },
+            {
+                "id": "14913",
+                "link": "/find?type=1&query=chillingly",
+                "word": "chillingly"
+            }
+        ]
+    }
+}

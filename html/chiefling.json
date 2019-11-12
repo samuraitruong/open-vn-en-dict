@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "14868", "link": "/find?type=1&query=chiefless", "word": "chiefless"}], "data": {}}, "en_en": {"suggests": [{"id": "4760", "link": "/find?type=3&query=chiefly", "word": "chiefly"}], "data": {}}, "synonyms": {"suggests": [{"id": "978", "link": "/find?type=4&query=chiefly", "word": "chiefly"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4760",
+                "link": "/find?type=3&query=chiefly",
+                "word": "chiefly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14868",
+                "link": "/find?type=1&query=chiefless",
+                "word": "chiefless"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "978",
+                "link": "/find?type=4&query=chiefly",
+                "word": "chiefly"
+            }
+        ]
+    }
+}

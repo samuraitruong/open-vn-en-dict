@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14905", "link": "/find?type=1&query=children", "word": "children"}], "data": {}}, "en_en": {"suggests": [{"id": "4780", "link": "/find?type=3&query=children", "word": "children"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4780",
+                "link": "/find?type=3&query=children",
+                "word": "children"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14905",
+                "link": "/find?type=1&query=children",
+                "word": "children"
+            }
+        ]
+    }
+}
