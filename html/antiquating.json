@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "4617", "link": "/find?type=1&query=antiquated", "word": "antiquated"}, {"id": "4617", "link": "/find?type=1&query=antiquatedness", "word": "antiquatedness"}], "data": {"word": "antiquate", "id": "4617", "pronounce": "/'\u00e6ntikweit/", "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m cho th\u00e0nh c\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m cho kh\u00f4ng h\u1ee3p th\u1eddi</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ecf kh\u00f4ng d\u00f9ng v\u00ec kh\u00f4ng h\u1ee3p th\u1eddi</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1071", "link": "/find?type=3&query=antiquated", "word": "antiquated"}], "data": {}}, "synonyms": {"suggests": [{"id": "270", "link": "/find?type=4&query=antiquated", "word": "antiquated"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1071",
+                "link": "/find?type=3&query=antiquated",
+                "word": "antiquated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m cho th\u00e0nh c\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m cho kh\u00f4ng h\u1ee3p th\u1eddi</div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ecf kh\u00f4ng d\u00f9ng v\u00ec kh\u00f4ng h\u1ee3p th\u1eddi</div>",
+            "id": "4617",
+            "mean": [],
+            "pronounce": "/'\u00e6ntikweit/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "antiquate"
+        },
+        "suggests": [
+            {
+                "id": "4617",
+                "link": "/find?type=1&query=antiquated",
+                "word": "antiquated"
+            },
+            {
+                "id": "4617",
+                "link": "/find?type=1&query=antiquatedness",
+                "word": "antiquatedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "270",
+                "link": "/find?type=4&query=antiquated",
+                "word": "antiquated"
+            }
+        ]
+    }
+}

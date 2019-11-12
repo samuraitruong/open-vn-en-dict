@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "4677", "link": "/find?type=1&query=antithetical", "word": "antithetical"}, {"id": "4677", "link": "/find?type=1&query=antithetically", "word": "antithetically"}], "data": {"word": "antithetic", "id": "4677", "pronounce": "/,\u00e6nti'\u03b8etik/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed1i l\u1eadp</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed1i ng\u1eef</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "1081", "link": "/find?type=3&query=antithetical", "word": "antithetical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1081",
+                "link": "/find?type=3&query=antithetical",
+                "word": "antithetical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed1i l\u1eadp</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed1i ng\u1eef</div>",
+            "id": "4677",
+            "mean": [],
+            "pronounce": "/,\u00e6nti'\u03b8etik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "antithetic"
+        },
+        "suggests": [
+            {
+                "id": "4677",
+                "link": "/find?type=1&query=antithetical",
+                "word": "antithetical"
+            },
+            {
+                "id": "4677",
+                "link": "/find?type=1&query=antithetically",
+                "word": "antithetically"
+            }
+        ]
+    }
+}

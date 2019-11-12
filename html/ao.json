@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "4750", "link": "/find?type=1&query=aorist", "word": "aorist"}, {"id": "4751", "link": "/find?type=1&query=aoristic", "word": "aoristic"}, {"id": "4752", "link": "/find?type=1&query=aoristically", "word": "aoristically"}, {"id": "4753", "link": "/find?type=1&query=aorta", "word": "aorta"}, {"id": "4754", "link": "/find?type=1&query=aortal", "word": "aortal"}, {"id": "4755", "link": "/find?type=1&query=aortic", "word": "aortic"}], "data": {}}, "en_en": {"suggests": [{"id": "1102", "link": "/find?type=3&query=AOB", "word": "AOB"}, {"id": "1104", "link": "/find?type=3&query=aorta", "word": "aorta"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1102",
+                "link": "/find?type=3&query=AOB",
+                "word": "AOB"
+            },
+            {
+                "id": "1104",
+                "link": "/find?type=3&query=aorta",
+                "word": "aorta"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4750",
+                "link": "/find?type=1&query=aorist",
+                "word": "aorist"
+            },
+            {
+                "id": "4751",
+                "link": "/find?type=1&query=aoristic",
+                "word": "aoristic"
+            },
+            {
+                "id": "4752",
+                "link": "/find?type=1&query=aoristically",
+                "word": "aoristically"
+            },
+            {
+                "id": "4753",
+                "link": "/find?type=1&query=aorta",
+                "word": "aorta"
+            },
+            {
+                "id": "4754",
+                "link": "/find?type=1&query=aortal",
+                "word": "aortal"
+            },
+            {
+                "id": "4755",
+                "link": "/find?type=1&query=aortic",
+                "word": "aortic"
+            }
+        ]
+    }
+}

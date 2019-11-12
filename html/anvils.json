@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "4729", "link": "/find?type=1&query=anvil-beak", "word": "anvil-beak"}, {"id": "4729", "link": "/find?type=1&query=anvil-bed", "word": "anvil-bed"}, {"id": "4729", "link": "/find?type=1&query=anvil-block", "word": "anvil-block"}], "data": {"word": "anvil", "id": "4729", "pronounce": "/'\u00e6nvil/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i \u0111e (th\u1ee3 r\u00e8n)</div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) x\u01b0\u01a1ng \u0111e (\u1edf tai)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/d6356ec92ea5b6a39b6bc89dd2ab7cce/16e5dc717d7/A/anvil.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/f3b4e43b8187d6fc1877eddc25335872/16e5dc71d9e/A/anvil.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "anvil", "id": "1088", "pronounce": "/\u02c8\u00e6nv\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vils</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a heavy iron block on which heated metal is shaped by hitting it with a hammer</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vils</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a heavy iron block on which heated metal is shaped by hitting it with a hammer</div>",
+            "id": "1088",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6nv\u0259l/",
+            "type": "noun",
+            "word": "anvil"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i \u0111e (th\u1ee3 r\u00e8n)</div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) x\u01b0\u01a1ng \u0111e (\u1edf tai)</div>",
+            "id": "4729",
+            "mean": [],
+            "pronounce": "/'\u00e6nvil/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/47bf15d56332909828ebe51b9538680f/16e5eaa8f8c/A/anvil.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b08a2bddcc2aeee3bf15ff1087bf81e6/16e5eaa8901/A/anvil.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "anvil"
+        },
+        "suggests": [
+            {
+                "id": "4729",
+                "link": "/find?type=1&query=anvil-beak",
+                "word": "anvil-beak"
+            },
+            {
+                "id": "4729",
+                "link": "/find?type=1&query=anvil-bed",
+                "word": "anvil-bed"
+            },
+            {
+                "id": "4729",
+                "link": "/find?type=1&query=anvil-block",
+                "word": "anvil-block"
+            }
+        ]
+    }
+}

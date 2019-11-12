@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "4710", "link": "/find?type=1&query=antler", "word": "antler"}, {"id": "4711", "link": "/find?type=1&query=antlered", "word": "antlered"}], "data": {}}, "en_en": {"suggests": [{"id": "1084", "link": "/find?type=3&query=antler", "word": "antler"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1084",
+                "link": "/find?type=3&query=antler",
+                "word": "antler"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4710",
+                "link": "/find?type=1&query=antler",
+                "word": "antler"
+            },
+            {
+                "id": "4711",
+                "link": "/find?type=1&query=antlered",
+                "word": "antlered"
+            }
+        ]
+    }
+}

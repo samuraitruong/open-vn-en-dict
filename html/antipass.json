@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "4570", "link": "/find?type=1&query=antipasto", "word": "antipasto"}], "data": {}}, "en_en": {"suggests": [{"id": "1064", "link": "/find?type=3&query=antipasto", "word": "antipasto"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1064",
+                "link": "/find?type=3&query=antipasto",
+                "word": "antipasto"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4570",
+                "link": "/find?type=1&query=antipasto",
+                "word": "antipasto"
+            }
+        ]
+    }
+}

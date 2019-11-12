@@ -1,1 +1,34 @@
-{"en_vn": {"suggests": [{"id": "4710", "link": "/find?type=1&query=antlered", "word": "antlered"}], "data": {"word": "antler", "id": "4710", "pronounce": "/'\u00e6ntl\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u1ea1c (h\u01b0\u01a1u, nai)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/49428aacc625e893f633a56f267ee195/16e5dc7047c/A/antler.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/269e6f3fba333a1a50ea595164ba1cff/16e5dc70a4a/A/antler.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "antler", "id": "1084", "pronounce": "/\u02c8\u00e6ntl\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the horn of a deer or similar animal</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the horn of a deer or similar animal</div>",
+            "id": "1084",
+            "mean": [],
+            "pronounce": "/\u02c8\u00e6ntl\u025a/",
+            "type": "noun",
+            "word": "antler"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">g\u1ea1c (h\u01b0\u01a1u, nai)</div>",
+            "id": "4710",
+            "mean": [],
+            "pronounce": "/'\u00e6ntl\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/92a04847f4e61536f6c807cdc81cabb7/16e5eaa7bc2/A/antler.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e1428878f5ff18a42bfed58bce29aa43/16e5eaa7667/A/antler.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "antler"
+        },
+        "suggests": [
+            {
+                "id": "4710",
+                "link": "/find?type=1&query=antlered",
+                "word": "antlered"
+            }
+        ]
+    }
+}

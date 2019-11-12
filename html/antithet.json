@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "4677", "link": "/find?type=1&query=antithetic", "word": "antithetic"}, {"id": "4678", "link": "/find?type=1&query=antithetical", "word": "antithetical"}, {"id": "4679", "link": "/find?type=1&query=antithetically", "word": "antithetically"}], "data": {}}, "en_en": {"suggests": [{"id": "1081", "link": "/find?type=3&query=antithetical", "word": "antithetical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1081",
+                "link": "/find?type=3&query=antithetical",
+                "word": "antithetical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4677",
+                "link": "/find?type=1&query=antithetic",
+                "word": "antithetic"
+            },
+            {
+                "id": "4678",
+                "link": "/find?type=1&query=antithetical",
+                "word": "antithetical"
+            },
+            {
+                "id": "4679",
+                "link": "/find?type=1&query=antithetically",
+                "word": "antithetically"
+            }
+        ]
+    }
+}
