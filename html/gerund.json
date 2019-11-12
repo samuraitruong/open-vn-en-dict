@@ -1,1 +1,44 @@
-{"error": 0, "query": "gerund", "enViData": {"suggests": [{"id": "39798", "link": "/find?type=1&query=gerundial", "word": "gerundial"}, {"id": "39798", "link": "/find?type=1&query=gerundival", "word": "gerundival"}, {"id": "39798", "link": "/find?type=1&query=gerundive", "word": "gerundive"}], "best": {"id": "39798", "details": "\n<div id=\"find_word_39798\" class=\"world word_en\" rel=\"gerund\">\n    <h2 class=\"fl\">gerund <span class=\"color-black\">/'d\u0292er\u0259nd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"39798\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"39798\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ng\u00f4n ng\u1eef h\u1ecdc) (c\u0169ng verbal noun) \u0111\u1ed9ng danh t\u1eeb</div>\n    \n</div>\n", "link": "/find?type=1&query=gerund", "word": "gerund"}}, "mUrl": "/find?type=1&query=gerund", "enEnData": {"suggests": [], "best": {"id": "12013", "details": "\n<div id=\"find_word_12013\" class=\"world word_en\" rel=\"gerund\">\n    <h2 class=\"fl\">gerund <span class=\"color-black\">/\u02c8\u02a4er\u0259nd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12013\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12013\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -unds</div>\n    \n    <div class=\"green margin25 m-top15\">[count] grammar :an English noun formed from a verb by adding -ing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">In the sentence Learning can be fun, learning is a gerund.</div>\n    \n</div>\n", "link": "/find?type=3&query=gerund", "word": "gerund"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -unds</div>\n    \n    <div class=\"green margin25 m-top15\">[count] grammar :an English noun formed from a verb by adding -ing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">In the sentence Learning can be fun, learning is a gerund.</div>",
+            "id": "12013",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4er\u0259nd/",
+            "type": "noun",
+            "word": "gerund"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ng\u00f4n ng\u1eef h\u1ecdc) (c\u0169ng verbal noun) \u0111\u1ed9ng danh t\u1eeb</div>",
+            "id": "39798",
+            "mean": [],
+            "pronounce": "/'d\u0292er\u0259nd/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d1de53c6b6cbf068368fc4f4940b5ad8/16e60e72907/G/gerund.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ddd0f009393ebeacef8978f50dd1e912/16e60e72110/G/gerund.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "gerund"
+        },
+        "suggests": [
+            {
+                "id": "39798",
+                "link": "/find?type=1&query=gerundial",
+                "word": "gerundial"
+            },
+            {
+                "id": "39798",
+                "link": "/find?type=1&query=gerundival",
+                "word": "gerundival"
+            },
+            {
+                "id": "39798",
+                "link": "/find?type=1&query=gerundive",
+                "word": "gerundive"
+            }
+        ]
+    }
+}
