@@ -1,1 +1,34 @@
-{"error": 0, "query": "henna", "enViData": {"suggests": [{"id": "43572", "link": "/find?type=1&query=hennaed", "word": "hennaed"}], "best": {"id": "43572", "details": "\n<div id=\"find_word_43572\" class=\"world word_en\" rel=\"henna\">\n    <h2 class=\"fl\">henna <span class=\"color-black\">/'hen\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43572\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43572\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) c\u00e2y l\u00e1 m\u00f3ng</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ea5t nhu\u1ed9m t\u00f3c n\u00e2u \u0111\u1ecf (l\u1ea5y t\u1eeb c\u00e2y l\u00e1 m\u00f3ng)</div>\n    \n</div>\n", "link": "/find?type=1&query=henna", "word": "henna"}}, "mUrl": "/find?type=1&query=henna", "enEnData": {"suggests": [], "best": {"id": "13427", "details": "\n<div id=\"find_word_13427\" class=\"world word_en\" rel=\"henna\">\n    <h2 class=\"fl\">henna <span class=\"color-black\">/\u02c8h\u025bn\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13427\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13427\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a reddish-brown dye used especially for coloring hair or skin</div>\n    \n</div>\n", "link": "/find?type=3&query=henna", "word": "henna"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a reddish-brown dye used especially for coloring hair or skin</div>",
+            "id": "13427",
+            "mean": [],
+            "pronounce": "/\u02c8h\u025bn\u0259/",
+            "type": "noun",
+            "word": "henna"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ef1c v\u1eadt) c\u00e2y l\u00e1 m\u00f3ng</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ea5t nhu\u1ed9m t\u00f3c n\u00e2u \u0111\u1ecf (l\u1ea5y t\u1eeb c\u00e2y l\u00e1 m\u00f3ng)</div>",
+            "id": "43572",
+            "mean": [],
+            "pronounce": "/'hen\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4bc00149e75ce17d4d889c22e140ba00/16e618aed30/H/henna.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/155f5e795757b5e0615f6d754098bd35/16e618ae543/H/henna.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "henna"
+        },
+        "suggests": [
+            {
+                "id": "43572",
+                "link": "/find?type=1&query=hennaed",
+                "word": "hennaed"
+            }
+        ]
+    }
+}
