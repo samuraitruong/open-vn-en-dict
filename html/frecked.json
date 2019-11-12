@@ -1,1 +1,32 @@
-{"error": 0, "query": "frecked", "enViData": {"suggests": [{"id": "37733", "link": "/find?type=1&query=freckle", "word": "freckle"}, {"id": "37734", "link": "/find?type=1&query=freckled", "word": "freckled"}, {"id": "37735", "link": "/find?type=1&query=freckly", "word": "freckly"}]}, "mUrl": "/find?type=1&query=frecked", "enEnData": {"suggests": [{"id": "11393", "link": "/find?type=3&query=freckle", "word": "freckle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11393",
+                "link": "/find?type=3&query=freckle",
+                "word": "freckle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "37733",
+                "link": "/find?type=1&query=freckle",
+                "word": "freckle"
+            },
+            {
+                "id": "37734",
+                "link": "/find?type=1&query=freckled",
+                "word": "freckled"
+            },
+            {
+                "id": "37735",
+                "link": "/find?type=1&query=freckly",
+                "word": "freckly"
+            }
+        ]
+    }
+}
