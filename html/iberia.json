@@ -1,1 +1,22 @@
-{"error": 0, "query": "iberia", "enViData": {"suggests": [{"id": "45771", "link": "/find?type=1&query=iberian", "word": "iberian"}]}, "mUrl": "/find?type=1&query=iberia", "enEnData": {"suggests": [{"id": "14242", "link": "/find?type=3&query=Iberian", "word": "Iberian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14242",
+                "link": "/find?type=3&query=Iberian",
+                "word": "Iberian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45771",
+                "link": "/find?type=1&query=iberian",
+                "word": "iberian"
+            }
+        ]
+    }
+}

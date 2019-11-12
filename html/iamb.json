@@ -1,1 +1,49 @@
-{"error": 0, "query": "iamb", "enViData": {"suggests": [{"id": "45761", "link": "/find?type=1&query=iambi", "word": "iambi"}, {"id": "45761", "link": "/find?type=1&query=iambic", "word": "iambic"}, {"id": "45761", "link": "/find?type=1&query=iambics", "word": "iambics"}, {"id": "45761", "link": "/find?type=1&query=iambus", "word": "iambus"}], "best": {"id": "45761", "details": "\n<div id=\"find_word_45761\" class=\"world word_en\" rel=\"iamb\">\n    <h2 class=\"fl\">iamb <span class=\"color-black\">/ai'\u00e6mb\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45761\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45761\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u iambi</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1ecbp th\u01a1 iamb\u01a1 (hai \u00e2m ti\u1ebft, m\u1ed9t ng\u1eafn m\u1ed9t d\u00e0i)</div>\n    \n</div>\n", "link": "/find?type=1&query=iamb", "word": "iamb"}}, "mUrl": "/find?type=1&query=iamb", "enEnData": {"suggests": [], "best": {"id": "14240", "details": "\n<div id=\"find_word_14240\" class=\"world word_en\" rel=\"iamb\">\n    <h2 class=\"fl\">iamb <span class=\"color-black\">/\u02c8a\u026a\u02cc\u00e6m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14240\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14240\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural iambs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :a unit of rhythm in poetry that consists of one syllable that is not accented or stressed followed by one syllable that is accented or stressed (as in the words away or above)</div>\n    \n</div>\n", "link": "/find?type=3&query=iamb", "word": "iamb"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural iambs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :a unit of rhythm in poetry that consists of one syllable that is not accented or stressed followed by one syllable that is accented or stressed (as in the words away or above)</div>",
+            "id": "14240",
+            "mean": [],
+            "pronounce": "/\u02c8a\u026a\u02cc\u00e6m/",
+            "type": "noun",
+            "word": "iamb"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u iambi</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1ecbp th\u01a1 iamb\u01a1 (hai \u00e2m ti\u1ebft, m\u1ed9t ng\u1eafn m\u1ed9t d\u00e0i)</div>",
+            "id": "45761",
+            "mean": [],
+            "pronounce": "/ai'\u00e6mb\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c2d8c99a316399f387ff91ee650c7aa4/16e61c5cf6b/I/iamb.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/387d16a76c7184e868928ff4f8628d1c/16e61c5c9a3/I/iamb.mp3"
+            },
+            "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u iambi",
+            "word": "iamb"
+        },
+        "suggests": [
+            {
+                "id": "45761",
+                "link": "/find?type=1&query=iambi",
+                "word": "iambi"
+            },
+            {
+                "id": "45761",
+                "link": "/find?type=1&query=iambic",
+                "word": "iambic"
+            },
+            {
+                "id": "45761",
+                "link": "/find?type=1&query=iambics",
+                "word": "iambics"
+            },
+            {
+                "id": "45761",
+                "link": "/find?type=1&query=iambus",
+                "word": "iambus"
+            }
+        ]
+    }
+}

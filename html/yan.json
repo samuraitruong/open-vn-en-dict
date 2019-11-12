@@ -1,1 +1,67 @@
-{"error": 0, "query": "yan", "enViData": {"suggests": [{"id": "104196", "link": "/find?type=1&query=yang", "word": "yang"}, {"id": "104197", "link": "/find?type=1&query=Yank", "word": "Yank"}, {"id": "104198", "link": "/find?type=1&query=Yankee", "word": "Yankee"}, {"id": "104199", "link": "/find?type=1&query=yankeefied", "word": "yankeefied"}, {"id": "104200", "link": "/find?type=1&query=yankeeism", "word": "yankeeism"}]}, "mUrl": "/find?type=1&query=yan", "enEnData": {"suggests": [{"id": "34213", "link": "/find?type=3&query=yang", "word": "yang"}, {"id": "34214", "link": "/find?type=3&query=yank", "word": "yank"}, {"id": "34215", "link": "/find?type=3&query=Yank", "word": "Yank"}, {"id": "34216", "link": "/find?type=3&query=Yankee", "word": "Yankee"}]}, "ftype": "1", "synData": {"suggests": [{"id": "8952", "link": "/find?type=4&query=yank", "word": "yank"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34213",
+                "link": "/find?type=3&query=yang",
+                "word": "yang"
+            },
+            {
+                "id": "34214",
+                "link": "/find?type=3&query=yank",
+                "word": "yank"
+            },
+            {
+                "id": "34215",
+                "link": "/find?type=3&query=Yank",
+                "word": "Yank"
+            },
+            {
+                "id": "34216",
+                "link": "/find?type=3&query=Yankee",
+                "word": "Yankee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104196",
+                "link": "/find?type=1&query=yang",
+                "word": "yang"
+            },
+            {
+                "id": "104197",
+                "link": "/find?type=1&query=Yank",
+                "word": "Yank"
+            },
+            {
+                "id": "104198",
+                "link": "/find?type=1&query=Yankee",
+                "word": "Yankee"
+            },
+            {
+                "id": "104199",
+                "link": "/find?type=1&query=yankeefied",
+                "word": "yankeefied"
+            },
+            {
+                "id": "104200",
+                "link": "/find?type=1&query=yankeeism",
+                "word": "yankeeism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8952",
+                "link": "/find?type=4&query=yank",
+                "word": "yank"
+            }
+        ]
+    }
+}

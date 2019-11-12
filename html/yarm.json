@@ -1,1 +1,22 @@
-{"error": 0, "query": "yarm", "enViData": {"suggests": [{"id": "104211", "link": "/find?type=1&query=yarmulka", "word": "yarmulka"}]}, "mUrl": "/find?type=1&query=yarm", "enEnData": {"suggests": [{"id": "34224", "link": "/find?type=3&query=yarmulke", "word": "yarmulke"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34224",
+                "link": "/find?type=3&query=yarmulke",
+                "word": "yarmulke"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104211",
+                "link": "/find?type=1&query=yarmulka",
+                "word": "yarmulka"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "ian", "enViData": {"suggests": [{"id": "104652", "link": "/find?type=1&query=-ian", "word": "-ian"}, {"id": "104653", "link": "/find?type=1&query=-iana", "word": "-iana"}]}, "mUrl": "/find?type=1&query=ian", "enEnData": {"suggests": [{"id": "14241", "link": "/find?type=3&query=-ian", "word": "-ian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14241",
+                "link": "/find?type=3&query=-ian",
+                "word": "-ian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104652",
+                "link": "/find?type=1&query=-ian",
+                "word": "-ian"
+            },
+            {
+                "id": "104653",
+                "link": "/find?type=1&query=-iana",
+                "word": "-iana"
+            }
+        ]
+    }
+}

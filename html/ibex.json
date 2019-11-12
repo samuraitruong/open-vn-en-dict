@@ -1,1 +1,34 @@
-{"error": 0, "query": "ibex", "enViData": {"suggests": [{"id": "45772", "link": "/find?type=1&query=ibexes", "word": "ibexes"}], "best": {"id": "45772", "details": "\n<div id=\"find_word_45772\" class=\"world word_en\" rel=\"ibex\">\n    <h2 class=\"fl\">ibex <span class=\"color-black\">/'aibeks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45772\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45772\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c ibexes)</div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) d\u00ea r\u1eebng n\u00fai Alpes</div>\n    \n</div>\n", "link": "/find?type=1&query=ibex", "word": "ibex"}}, "mUrl": "/find?type=1&query=ibex", "enEnData": {"suggests": [], "best": {"id": "14243", "details": "\n<div id=\"find_word_14243\" class=\"world word_en\" rel=\"ibex\">\n    <h2 class=\"fl\">ibex <span class=\"color-black\">/\u02c8a\u026a\u02ccb\u025bks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14243\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14243\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ibex or ibexes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a wild goat that lives chiefly in the mountains of Europe, Asia, and northeastern Africa</div>\n    \n</div>\n", "link": "/find?type=3&query=ibex", "word": "ibex"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural ibex or ibexes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a wild goat that lives chiefly in the mountains of Europe, Asia, and northeastern Africa</div>",
+            "id": "14243",
+            "mean": [],
+            "pronounce": "/\u02c8a\u026a\u02ccb\u025bks/",
+            "type": "noun",
+            "word": "ibex"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u kh\u00f4ng \u0111\u1ed5i ho\u1eb7c ibexes)</div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) d\u00ea r\u1eebng n\u00fai Alpes</div>",
+            "id": "45772",
+            "mean": [],
+            "pronounce": "/'aibeks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/669d6ebbc2c83292c04e54b127d88d61/16e61c61b4a/I/ibex.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7d0f0a4beaafe82c314987b47697bdbc/16e61c6157f/I/ibex.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ibex"
+        },
+        "suggests": [
+            {
+                "id": "45772",
+                "link": "/find?type=1&query=ibexes",
+                "word": "ibexes"
+            }
+        ]
+    }
+}
