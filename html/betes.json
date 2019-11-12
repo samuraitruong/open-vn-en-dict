@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "9063", "link": "/find?type=1&query=betel", "word": "betel"}, {"id": "9064", "link": "/find?type=1&query=betel-nut", "word": "betel-nut"}], "data": {}}, "en_en": {"suggests": [{"id": "2487", "link": "/find?type=3&query=bete+noire", "word": "bete noire"}, {"id": "2488", "link": "/find?type=3&query=betel", "word": "betel"}, {"id": "2489", "link": "/find?type=3&query=betel+nut", "word": "betel nut"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2487",
+                "link": "/find?type=3&query=bete+noire",
+                "word": "bete noire"
+            },
+            {
+                "id": "2488",
+                "link": "/find?type=3&query=betel",
+                "word": "betel"
+            },
+            {
+                "id": "2489",
+                "link": "/find?type=3&query=betel+nut",
+                "word": "betel nut"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9063",
+                "link": "/find?type=1&query=betel",
+                "word": "betel"
+            },
+            {
+                "id": "9064",
+                "link": "/find?type=1&query=betel-nut",
+                "word": "betel-nut"
+            }
+        ]
+    }
+}

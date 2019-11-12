@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "9063", "link": "/find?type=1&query=betel-nut", "word": "betel-nut"}], "data": {"word": "betel", "id": "9063", "pronounce": "/'bi:tl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ea7u [kh\u00f4ng]</div>\n    \n", "speak": {"uk": "https://stream-dict-laban.zdn.vn/uk/4a474e9df76c6357400bca4d8cd01749/16e5dd588e8/B/betel.mp3"}}}, "en_en": {"suggests": [{"id": "2488", "link": "/find?type=3&query=betel+nut", "word": "betel nut"}], "data": {"word": "betel", "id": "2488", "pronounce": "/\u02c8bi\u02d0tn\u0329/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the dried leaves of a climbing plant that are chewed by some people in southeastern Asia</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the dried leaves of a climbing plant that are chewed by some people in southeastern Asia</div>",
+            "id": "2488",
+            "mean": [],
+            "pronounce": "/\u02c8bi\u02d0tn\u0329/",
+            "type": "noun",
+            "word": "betel"
+        },
+        "suggests": [
+            {
+                "id": "2488",
+                "link": "/find?type=3&query=betel+nut",
+                "word": "betel nut"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1ea7u [kh\u00f4ng]</div>",
+            "id": "9063",
+            "mean": [],
+            "pronounce": "/'bi:tl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fe95556b2ffccf994a41f4415f16d4b3/16e5eb7d39d/B/betel.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "betel"
+        },
+        "suggests": [
+            {
+                "id": "9063",
+                "link": "/find?type=1&query=betel-nut",
+                "word": "betel-nut"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "9078", "link": "/find?type=1&query=betrothal", "word": "betrothal"}, {"id": "9078", "link": "/find?type=1&query=betrothed", "word": "betrothed"}], "data": {"word": "betroth", "id": "9078", "pronounce": "/bi'tr\u0259\u028a\u00f0/", "type": "\u0110\u1ed9ng t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ee9a h\u00f4n, \u0111\u00ednh h\u00f4n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">be betrothed to somebody</div>\n    \n    <div class=\"margin25\">h\u1ee9a h\u00f4n v\u1edbi ai</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2493", "link": "/find?type=3&query=betrothal", "word": "betrothal"}, {"id": "2494", "link": "/find?type=3&query=betrothed", "word": "betrothed"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2493",
+                "link": "/find?type=3&query=betrothal",
+                "word": "betrothal"
+            },
+            {
+                "id": "2494",
+                "link": "/find?type=3&query=betrothed",
+                "word": "betrothed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ee9a h\u00f4n, \u0111\u00ednh h\u00f4n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">be betrothed to somebody</div>\n    \n    <div class=\"margin25\">h\u1ee9a h\u00f4n v\u1edbi ai</div>",
+            "id": "9078",
+            "mean": [],
+            "pronounce": "/bi'tr\u0259\u028a\u00f0/",
+            "speak": {},
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "betroth"
+        },
+        "suggests": [
+            {
+                "id": "9078",
+                "link": "/find?type=1&query=betrothal",
+                "word": "betrothal"
+            },
+            {
+                "id": "9078",
+                "link": "/find?type=1&query=betrothed",
+                "word": "betrothed"
+            }
+        ]
+    }
+}

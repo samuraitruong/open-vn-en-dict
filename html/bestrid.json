@@ -1,1 +1,35 @@
-{"en_vn": {"suggests": [{"id": "9049", "link": "/find?type=1&query=bestridden", "word": "bestridden"}, {"id": "9049", "link": "/find?type=1&query=bestride", "word": "bestride"}], "data": {"word": "bestrid", "id": "9049", "pronounce": "/bi'straid/", "type": "(b\u1ea5t qui t\u1eafc) ngo\u1ea1i \u0111\u1ed9ng t\u1eeb bestrode, bestriden, bestrid", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) ngo\u1ea1i \u0111\u1ed9ng t\u1eeb bestrode, bestriden, bestrid</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u1ed3i gi\u1ea1ng ch\u00e2n tr\u00ean, \u0111\u1ee9ng gi\u1ea1ng hai ch\u00e2n tr\u00ean; c\u01b0\u1ee1i; b\u1eafc qua, b\u1eafc ngang</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to bestride a horse</div>\n    \n    <div class=\"margin25\">c\u01b0\u1ee1i ng\u1ef1a</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2481", "link": "/find?type=3&query=bestride", "word": "bestride"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2481",
+                "link": "/find?type=3&query=bestride",
+                "word": "bestride"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>(b\u1ea5t qui t\u1eafc) ngo\u1ea1i \u0111\u1ed9ng t\u1eeb bestrode, bestriden, bestrid</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u1ed3i gi\u1ea1ng ch\u00e2n tr\u00ean, \u0111\u1ee9ng gi\u1ea1ng hai ch\u00e2n tr\u00ean; c\u01b0\u1ee1i; b\u1eafc qua, b\u1eafc ngang</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to bestride a horse</div>\n    \n    <div class=\"margin25\">c\u01b0\u1ee1i ng\u1ef1a</div>",
+            "id": "9049",
+            "mean": [],
+            "pronounce": "/bi'straid/",
+            "speak": {},
+            "type": "(b\u1ea5t qui t\u1eafc) ngo\u1ea1i \u0111\u1ed9ng t\u1eeb bestrode, bestriden, bestrid",
+            "word": "bestrid"
+        },
+        "suggests": [
+            {
+                "id": "9049",
+                "link": "/find?type=1&query=bestridden",
+                "word": "bestridden"
+            },
+            {
+                "id": "9049",
+                "link": "/find?type=1&query=bestride",
+                "word": "bestride"
+            }
+        ]
+    }
+}

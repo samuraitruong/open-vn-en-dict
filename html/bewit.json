@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "9102", "link": "/find?type=1&query=bewitch", "word": "bewitch"}, {"id": "9103", "link": "/find?type=1&query=bewitching", "word": "bewitching"}, {"id": "9104", "link": "/find?type=1&query=bewitchingly", "word": "bewitchingly"}, {"id": "9105", "link": "/find?type=1&query=bewitchment", "word": "bewitchment"}, {"id": "9106", "link": "/find?type=1&query=bewithchingly", "word": "bewithchingly"}], "data": {}}, "en_en": {"suggests": [{"id": "2509", "link": "/find?type=3&query=bewitch", "word": "bewitch"}], "data": {}}, "synonyms": {"suggests": [{"id": "532", "link": "/find?type=4&query=bewitch", "word": "bewitch"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2509",
+                "link": "/find?type=3&query=bewitch",
+                "word": "bewitch"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9102",
+                "link": "/find?type=1&query=bewitch",
+                "word": "bewitch"
+            },
+            {
+                "id": "9103",
+                "link": "/find?type=1&query=bewitching",
+                "word": "bewitching"
+            },
+            {
+                "id": "9104",
+                "link": "/find?type=1&query=bewitchingly",
+                "word": "bewitchingly"
+            },
+            {
+                "id": "9105",
+                "link": "/find?type=1&query=bewitchment",
+                "word": "bewitchment"
+            },
+            {
+                "id": "9106",
+                "link": "/find?type=1&query=bewithchingly",
+                "word": "bewithchingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "532",
+                "link": "/find?type=4&query=bewitch",
+                "word": "bewitch"
+            }
+        ]
+    }
+}
