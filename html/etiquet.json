@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "32176", "link": "/find?type=1&query=etiquette", "word": "etiquette"}], "data": {}}, "en_en": {"suggests": [{"id": "9826", "link": "/find?type=3&query=etiquette", "word": "etiquette"}], "data": {}}, "synonyms": {"suggests": [{"id": "2270", "link": "/find?type=4&query=etiquette", "word": "etiquette"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9826",
+                "link": "/find?type=3&query=etiquette",
+                "word": "etiquette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "32176",
+                "link": "/find?type=1&query=etiquette",
+                "word": "etiquette"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2270",
+                "link": "/find?type=4&query=etiquette",
+                "word": "etiquette"
+            }
+        ]
+    }
+}
