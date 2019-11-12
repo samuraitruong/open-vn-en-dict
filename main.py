@@ -127,8 +127,12 @@ words = getWordList()
 logs = json.load("logs.json")
 print("Total english words %d" % (len(words)))
 for key in words:
-    if key < "hype": 
-        logs[key]=1
+    if key < "hype":
+        logs[key] = 1
+with open("logs.json", 'w+') as outfile:
+    outfile.seek(0)
+    outfile.truncate()
+    json.dump(html, outfile, indent=4, sort_keys=True)
 
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
