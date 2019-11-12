@@ -1,1 +1,22 @@
-{"error": 0, "query": "gamesman", "enViData": {"suggests": [{"id": "38905", "link": "/find?type=1&query=gamesmanship", "word": "gamesmanship"}]}, "mUrl": "/find?type=1&query=gamesman", "enEnData": {"suggests": [{"id": "11777", "link": "/find?type=3&query=gamesmanship", "word": "gamesmanship"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11777",
+                "link": "/find?type=3&query=gamesmanship",
+                "word": "gamesmanship"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38905",
+                "link": "/find?type=1&query=gamesmanship",
+                "word": "gamesmanship"
+            }
+        ]
+    }
+}

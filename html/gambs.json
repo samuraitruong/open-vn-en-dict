@@ -1,1 +1,92 @@
-{"error": 0, "query": "gambs", "enViData": {"suggests": [{"id": "38875", "link": "/find?type=1&query=gambade", "word": "gambade"}, {"id": "38876", "link": "/find?type=1&query=gambado", "word": "gambado"}, {"id": "38877", "link": "/find?type=1&query=gambadoes", "word": "gambadoes"}, {"id": "38878", "link": "/find?type=1&query=gambit", "word": "gambit"}, {"id": "38879", "link": "/find?type=1&query=gamble", "word": "gamble"}, {"id": "38880", "link": "/find?type=1&query=gambler", "word": "gambler"}, {"id": "38881", "link": "/find?type=1&query=gambling", "word": "gambling"}, {"id": "38882", "link": "/find?type=1&query=gambling-den", "word": "gambling-den"}, {"id": "38883", "link": "/find?type=1&query=gambling-house", "word": "gambling-house"}, {"id": "38884", "link": "/find?type=1&query=gamboge", "word": "gamboge"}]}, "mUrl": "/find?type=1&query=gambs", "enEnData": {"suggests": [{"id": "11765", "link": "/find?type=3&query=gambit", "word": "gambit"}, {"id": "11766", "link": "/find?type=3&query=gamble", "word": "gamble"}, {"id": "11767", "link": "/find?type=3&query=gambling", "word": "gambling"}, {"id": "11768", "link": "/find?type=3&query=gambol", "word": "gambol"}]}, "ftype": "1", "synData": {"suggests": [{"id": "2927", "link": "/find?type=4&query=gamble", "word": "gamble"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11765",
+                "link": "/find?type=3&query=gambit",
+                "word": "gambit"
+            },
+            {
+                "id": "11766",
+                "link": "/find?type=3&query=gamble",
+                "word": "gamble"
+            },
+            {
+                "id": "11767",
+                "link": "/find?type=3&query=gambling",
+                "word": "gambling"
+            },
+            {
+                "id": "11768",
+                "link": "/find?type=3&query=gambol",
+                "word": "gambol"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "38875",
+                "link": "/find?type=1&query=gambade",
+                "word": "gambade"
+            },
+            {
+                "id": "38876",
+                "link": "/find?type=1&query=gambado",
+                "word": "gambado"
+            },
+            {
+                "id": "38877",
+                "link": "/find?type=1&query=gambadoes",
+                "word": "gambadoes"
+            },
+            {
+                "id": "38878",
+                "link": "/find?type=1&query=gambit",
+                "word": "gambit"
+            },
+            {
+                "id": "38879",
+                "link": "/find?type=1&query=gamble",
+                "word": "gamble"
+            },
+            {
+                "id": "38880",
+                "link": "/find?type=1&query=gambler",
+                "word": "gambler"
+            },
+            {
+                "id": "38881",
+                "link": "/find?type=1&query=gambling",
+                "word": "gambling"
+            },
+            {
+                "id": "38882",
+                "link": "/find?type=1&query=gambling-den",
+                "word": "gambling-den"
+            },
+            {
+                "id": "38883",
+                "link": "/find?type=1&query=gambling-house",
+                "word": "gambling-house"
+            },
+            {
+                "id": "38884",
+                "link": "/find?type=1&query=gamboge",
+                "word": "gamboge"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2927",
+                "link": "/find?type=4&query=gamble",
+                "word": "gamble"
+            }
+        ]
+    }
+}
