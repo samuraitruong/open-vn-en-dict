@@ -1,1 +1,92 @@
-{"error": 0, "query": "harr", "enViData": {"suggests": [{"id": "42916", "link": "/find?type=1&query=harridan", "word": "harridan"}, {"id": "42917", "link": "/find?type=1&query=harrier", "word": "harrier"}, {"id": "42918", "link": "/find?type=1&query=Harrod+Neutral+Technical+Progress", "word": "Harrod Neutral Technical Progress"}, {"id": "42919", "link": "/find?type=1&query=Harrod-Domar+growth+model", "word": "Harrod-Domar growth model"}, {"id": "42920", "link": "/find?type=1&query=Harrod%2C+Sir+Roy%2C+F", "word": "Harrod, Sir Roy, F"}, {"id": "42921", "link": "/find?type=1&query=harrow", "word": "harrow"}, {"id": "42922", "link": "/find?type=1&query=harrowing", "word": "harrowing"}, {"id": "42923", "link": "/find?type=1&query=harrumph", "word": "harrumph"}, {"id": "42924", "link": "/find?type=1&query=harry", "word": "harry"}]}, "mUrl": "/find?type=1&query=harr", "enEnData": {"suggests": [{"id": "13133", "link": "/find?type=3&query=harridan", "word": "harridan"}, {"id": "13134", "link": "/find?type=3&query=harried", "word": "harried"}, {"id": "13135", "link": "/find?type=3&query=harrier", "word": "harrier"}, {"id": "13136", "link": "/find?type=3&query=harrowing", "word": "harrowing"}, {"id": "13137", "link": "/find?type=3&query=harrumph", "word": "harrumph"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3223", "link": "/find?type=4&query=harrowing", "word": "harrowing"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13133",
+                "link": "/find?type=3&query=harridan",
+                "word": "harridan"
+            },
+            {
+                "id": "13134",
+                "link": "/find?type=3&query=harried",
+                "word": "harried"
+            },
+            {
+                "id": "13135",
+                "link": "/find?type=3&query=harrier",
+                "word": "harrier"
+            },
+            {
+                "id": "13136",
+                "link": "/find?type=3&query=harrowing",
+                "word": "harrowing"
+            },
+            {
+                "id": "13137",
+                "link": "/find?type=3&query=harrumph",
+                "word": "harrumph"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "42916",
+                "link": "/find?type=1&query=harridan",
+                "word": "harridan"
+            },
+            {
+                "id": "42917",
+                "link": "/find?type=1&query=harrier",
+                "word": "harrier"
+            },
+            {
+                "id": "42918",
+                "link": "/find?type=1&query=Harrod+Neutral+Technical+Progress",
+                "word": "Harrod Neutral Technical Progress"
+            },
+            {
+                "id": "42919",
+                "link": "/find?type=1&query=Harrod-Domar+growth+model",
+                "word": "Harrod-Domar growth model"
+            },
+            {
+                "id": "42920",
+                "link": "/find?type=1&query=Harrod%2C+Sir+Roy%2C+F",
+                "word": "Harrod, Sir Roy, F"
+            },
+            {
+                "id": "42921",
+                "link": "/find?type=1&query=harrow",
+                "word": "harrow"
+            },
+            {
+                "id": "42922",
+                "link": "/find?type=1&query=harrowing",
+                "word": "harrowing"
+            },
+            {
+                "id": "42923",
+                "link": "/find?type=1&query=harrumph",
+                "word": "harrumph"
+            },
+            {
+                "id": "42924",
+                "link": "/find?type=1&query=harry",
+                "word": "harry"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3223",
+                "link": "/find?type=4&query=harrowing",
+                "word": "harrowing"
+            }
+        ]
+    }
+}

@@ -1,1 +1,31 @@
-{"error": 0, "query": "harrying", "enViData": {"suggests": [], "best": {"id": "42924", "details": "\n<div id=\"find_word_42924\" class=\"world word_en\" rel=\"harry\">\n    <h2 class=\"fl\">harry <span class=\"color-black\">/'h\u00e6ri/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42924\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42924\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(harried)</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea5y nhi\u1ec5u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">harried by press reporters</div>\n    \n    <div class=\"margin25\">b\u1ecb c\u00e1c ph\u00f3ng vi\u00ean b\u00e1o qu\u1ea5y nhi\u1ec5u</div>\n    \n    <div class=\"green margin25 m-top15\">c\u01b0\u1edbp b\u00f3c, t\u00e0n ph\u00e1</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Vikings harried the English coasts</div>\n    \n    <div class=\"margin25\">b\u1ecdn c\u01b0\u1edbp Vikinh \u0111\u00e3 c\u01b0\u1edbp b\u00f3c v\u00f9ng b\u1edd bi\u1ec3n n\u01b0\u1edbc Anh</div>\n    \n</div>\n", "link": "/find?type=1&query=harry", "word": "harry"}}, "mUrl": "/find?type=1&query=harrying", "enEnData": {"suggests": [{"id": "13134", "link": "/find?type=3&query=harried", "word": "harried"}, {"id": "13135", "link": "/find?type=3&query=harrier", "word": "harrier"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13134",
+                "link": "/find?type=3&query=harried",
+                "word": "harried"
+            },
+            {
+                "id": "13135",
+                "link": "/find?type=3&query=harrier",
+                "word": "harrier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(harried)</div>\n    \n    <div class=\"green margin25 m-top15\">qu\u1ea5y nhi\u1ec5u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">harried by press reporters</div>\n    \n    <div class=\"margin25\">b\u1ecb c\u00e1c ph\u00f3ng vi\u00ean b\u00e1o qu\u1ea5y nhi\u1ec5u</div>\n    \n    <div class=\"green margin25 m-top15\">c\u01b0\u1edbp b\u00f3c, t\u00e0n ph\u00e1</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Vikings harried the English coasts</div>\n    \n    <div class=\"margin25\">b\u1ecdn c\u01b0\u1edbp Vikinh \u0111\u00e3 c\u01b0\u1edbp b\u00f3c v\u00f9ng b\u1edd bi\u1ec3n n\u01b0\u1edbc Anh</div>",
+            "id": "42924",
+            "mean": [],
+            "pronounce": "/'h\u00e6ri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/09dd426c95ae04dacec8ac3bb6ad5586/16e616a0e7a/H/harry.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "harry"
+        },
+        "suggests": []
+    }
+}
