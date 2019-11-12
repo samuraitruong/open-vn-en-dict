@@ -1,1 +1,102 @@
-{"en_vn": {"suggests": [{"id": "3373", "link": "/find?type=1&query=amusable", "word": "amusable"}, {"id": "3374", "link": "/find?type=1&query=amuse", "word": "amuse"}, {"id": "3375", "link": "/find?type=1&query=amusement", "word": "amusement"}, {"id": "3376", "link": "/find?type=1&query=amusement+arcade", "word": "amusement arcade"}, {"id": "3377", "link": "/find?type=1&query=amusement+park", "word": "amusement park"}, {"id": "3378", "link": "/find?type=1&query=amuser", "word": "amuser"}, {"id": "3379", "link": "/find?type=1&query=amusing", "word": "amusing"}, {"id": "3380", "link": "/find?type=1&query=amusingly", "word": "amusingly"}, {"id": "3381", "link": "/find?type=1&query=amusingness", "word": "amusingness"}, {"id": "3382", "link": "/find?type=1&query=amusive", "word": "amusive"}], "data": {}}, "en_en": {"suggests": [{"id": "874", "link": "/find?type=3&query=amuse", "word": "amuse"}, {"id": "875", "link": "/find?type=3&query=amusement", "word": "amusement"}, {"id": "876", "link": "/find?type=3&query=amusement+arcade", "word": "amusement arcade"}, {"id": "877", "link": "/find?type=3&query=amusement+park", "word": "amusement park"}, {"id": "878", "link": "/find?type=3&query=amusing", "word": "amusing"}], "data": {}}, "synonyms": {"suggests": [{"id": "242", "link": "/find?type=4&query=amuse", "word": "amuse"}, {"id": "243", "link": "/find?type=4&query=amusement", "word": "amusement"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "874",
+                "link": "/find?type=3&query=amuse",
+                "word": "amuse"
+            },
+            {
+                "id": "875",
+                "link": "/find?type=3&query=amusement",
+                "word": "amusement"
+            },
+            {
+                "id": "876",
+                "link": "/find?type=3&query=amusement+arcade",
+                "word": "amusement arcade"
+            },
+            {
+                "id": "877",
+                "link": "/find?type=3&query=amusement+park",
+                "word": "amusement park"
+            },
+            {
+                "id": "878",
+                "link": "/find?type=3&query=amusing",
+                "word": "amusing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3373",
+                "link": "/find?type=1&query=amusable",
+                "word": "amusable"
+            },
+            {
+                "id": "3374",
+                "link": "/find?type=1&query=amuse",
+                "word": "amuse"
+            },
+            {
+                "id": "3375",
+                "link": "/find?type=1&query=amusement",
+                "word": "amusement"
+            },
+            {
+                "id": "3376",
+                "link": "/find?type=1&query=amusement+arcade",
+                "word": "amusement arcade"
+            },
+            {
+                "id": "3377",
+                "link": "/find?type=1&query=amusement+park",
+                "word": "amusement park"
+            },
+            {
+                "id": "3378",
+                "link": "/find?type=1&query=amuser",
+                "word": "amuser"
+            },
+            {
+                "id": "3379",
+                "link": "/find?type=1&query=amusing",
+                "word": "amusing"
+            },
+            {
+                "id": "3380",
+                "link": "/find?type=1&query=amusingly",
+                "word": "amusingly"
+            },
+            {
+                "id": "3381",
+                "link": "/find?type=1&query=amusingness",
+                "word": "amusingness"
+            },
+            {
+                "id": "3382",
+                "link": "/find?type=1&query=amusive",
+                "word": "amusive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "242",
+                "link": "/find?type=4&query=amuse",
+                "word": "amuse"
+            },
+            {
+                "id": "243",
+                "link": "/find?type=4&query=amusement",
+                "word": "amusement"
+            }
+        ]
+    }
+}

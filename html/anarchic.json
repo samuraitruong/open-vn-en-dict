@@ -1,1 +1,28 @@
-{"en_vn": {"suggests": [{"id": "3576", "link": "/find?type=1&query=anarchic%2C+anarchical", "word": "anarchic, anarchical"}, {"id": "3577", "link": "/find?type=1&query=anarchically", "word": "anarchically"}], "data": {}}, "en_en": {"suggests": [], "data": {"word": "anarchic", "id": "899", "pronounce": "/\u00e6\u02c8n\u0251\u025ak\u026ak/", "type": "adjective", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :not following or having any laws or rules :wild and uncontrolled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">anarchic behavior</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">anarchic confusion</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :not following or having any laws or rules :wild and uncontrolled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">anarchic behavior</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">anarchic confusion</div>",
+            "id": "899",
+            "mean": [],
+            "pronounce": "/\u00e6\u02c8n\u0251\u025ak\u026ak/",
+            "type": "adjective",
+            "word": "anarchic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3576",
+                "link": "/find?type=1&query=anarchic%2C+anarchical",
+                "word": "anarchic, anarchical"
+            },
+            {
+                "id": "3577",
+                "link": "/find?type=1&query=anarchically",
+                "word": "anarchically"
+            }
+        ]
+    }
+}

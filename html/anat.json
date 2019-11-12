@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "3598", "link": "/find?type=1&query=anatase", "word": "anatase"}, {"id": "3599", "link": "/find?type=1&query=anathema", "word": "anathema"}, {"id": "3600", "link": "/find?type=1&query=anathematic", "word": "anathematic"}, {"id": "3601", "link": "/find?type=1&query=anathematical", "word": "anathematical"}, {"id": "3602", "link": "/find?type=1&query=anathematization", "word": "anathematization"}, {"id": "3603", "link": "/find?type=1&query=anathematize%2C+anathematise", "word": "anathematize, anathematise"}, {"id": "3604", "link": "/find?type=1&query=anatolian", "word": "anatolian"}, {"id": "3605", "link": "/find?type=1&query=anatomical", "word": "anatomical"}, {"id": "3606", "link": "/find?type=1&query=anatomically", "word": "anatomically"}, {"id": "3607", "link": "/find?type=1&query=anatomise", "word": "anatomise"}], "data": {}}, "en_en": {"suggests": [{"id": "903", "link": "/find?type=3&query=anathema", "word": "anathema"}, {"id": "904", "link": "/find?type=3&query=anatomy", "word": "anatomy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "903",
+                "link": "/find?type=3&query=anathema",
+                "word": "anathema"
+            },
+            {
+                "id": "904",
+                "link": "/find?type=3&query=anatomy",
+                "word": "anatomy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3598",
+                "link": "/find?type=1&query=anatase",
+                "word": "anatase"
+            },
+            {
+                "id": "3599",
+                "link": "/find?type=1&query=anathema",
+                "word": "anathema"
+            },
+            {
+                "id": "3600",
+                "link": "/find?type=1&query=anathematic",
+                "word": "anathematic"
+            },
+            {
+                "id": "3601",
+                "link": "/find?type=1&query=anathematical",
+                "word": "anathematical"
+            },
+            {
+                "id": "3602",
+                "link": "/find?type=1&query=anathematization",
+                "word": "anathematization"
+            },
+            {
+                "id": "3603",
+                "link": "/find?type=1&query=anathematize%2C+anathematise",
+                "word": "anathematize, anathematise"
+            },
+            {
+                "id": "3604",
+                "link": "/find?type=1&query=anatolian",
+                "word": "anatolian"
+            },
+            {
+                "id": "3605",
+                "link": "/find?type=1&query=anatomical",
+                "word": "anatomical"
+            },
+            {
+                "id": "3606",
+                "link": "/find?type=1&query=anatomically",
+                "word": "anatomically"
+            },
+            {
+                "id": "3607",
+                "link": "/find?type=1&query=anatomise",
+                "word": "anatomise"
+            }
+        ]
+    }
+}
