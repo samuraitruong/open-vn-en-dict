@@ -1,1 +1,34 @@
-{"error": 0, "query": "herbaceous", "enViData": {"suggests": [{"id": "43623", "link": "/find?type=1&query=herbaceous+border", "word": "herbaceous border"}], "best": {"id": "43623", "details": "\n<div id=\"find_word_43623\" class=\"world word_en\" rel=\"herbaceous\">\n    <h2 class=\"fl\">herbaceous <span class=\"color-black\">/h\u025c:'bei\u222b\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\">/h\u025cr:'bei\u222b\u0259s/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43623\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43623\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u00e2y th\u00e2n th\u1ea3o, [thu\u1ed9c] c\u1ecf</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 d\u1ea1ng c\u00e2y th\u00e2n th\u1ea3o</div>\n    \n</div>\n", "link": "/find?type=1&query=herbaceous", "word": "herbaceous"}}, "mUrl": "/find?type=1&query=herbaceous", "enEnData": {"suggests": [], "best": {"id": "13439", "details": "\n<div id=\"find_word_13439\" class=\"world word_en\" rel=\"herbaceous\">\n    <h2 class=\"fl\">herbaceous <span class=\"color-black\">/h\u025a\u02c8be\u026a\u0283\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13439\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13439\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">relating to herbs</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">herbaceous flavors/aromas</div>\n    \n    <div class=\"green margin25 m-top15\">relating to a type of plant that has a soft stem</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">herbaceous plants/perennials</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a herbaceous border [=a garden of flowering plants that die in the autumn and grow again in the spring]</div>\n    \n</div>\n", "link": "/find?type=3&query=herbaceous", "word": "herbaceous"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">relating to herbs</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">herbaceous flavors/aromas</div>\n    \n    <div class=\"green margin25 m-top15\">relating to a type of plant that has a soft stem</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">herbaceous plants/perennials</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a herbaceous border [=a garden of flowering plants that die in the autumn and grow again in the spring]</div>",
+            "id": "13439",
+            "mean": [],
+            "pronounce": "/h\u025a\u02c8be\u026a\u0283\u0259s/",
+            "type": "adjective",
+            "word": "herbaceous"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u00e2y th\u00e2n th\u1ea3o, [thu\u1ed9c] c\u1ecf</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 d\u1ea1ng c\u00e2y th\u00e2n th\u1ea3o</div>",
+            "id": "43623",
+            "mean": [],
+            "pronounce": "/h\u025c:'bei\u222b\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/907501fdee51add3ff93f110d8ffa22b/16e618e10dc/H/herbaceous.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7f67cd40247db6f0b8899477b4c3f1db/16e618e08dc/H/herbaceous.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "herbaceous"
+        },
+        "suggests": [
+            {
+                "id": "43623",
+                "link": "/find?type=1&query=herbaceous+border",
+                "word": "herbaceous border"
+            }
+        ]
+    }
+}
