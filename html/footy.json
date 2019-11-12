@@ -1,1 +1,28 @@
-{"error": 0, "query": "footy", "enViData": {"suggests": [], "best": {"id": "36952", "details": "\n<div id=\"find_word_36952\" class=\"world word_en\" rel=\"footy\">\n    <h2 class=\"fl\">footy <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"36952\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"36952\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ph\u01b0\u01a1ng ng\u1eef) kh\u00f4ng c\u00f3 gi\u00e1 tr\u1ecb; t\u1ed3i t\u00e0n; kh\u00f4ng \u0111\u00e1ng \u0111\u1ebfm x\u1ec9a</div>\n    \n</div>\n", "link": "/find?type=1&query=footy", "word": "footy"}}, "mUrl": "/find?type=1&query=footy", "enEnData": {"suggests": [], "best": {"id": "11140", "details": "\n<div id=\"find_word_11140\" class=\"world word_en\" rel=\"footy\">\n    <h2 class=\"fl\">footy <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"11140\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"11140\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">Australia spelling of footie</div>\n    \n</div>\n", "link": "/find?type=3&query=footy", "word": "footy"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">Australia spelling of footie</div>",
+            "id": "11140",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "footy"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ph\u01b0\u01a1ng ng\u1eef) kh\u00f4ng c\u00f3 gi\u00e1 tr\u1ecb; t\u1ed3i t\u00e0n; kh\u00f4ng \u0111\u00e1ng \u0111\u1ebfm x\u1ec9a</div>",
+            "id": "36952",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/75eab97a2b117a6b2a978ae5e37c3353/16e6078aea5/F/footy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e139145a973e0726c8660a917093cd6f/16e6078a690/F/footy.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "footy"
+        },
+        "suggests": []
+    }
+}
