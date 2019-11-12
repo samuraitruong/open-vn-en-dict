@@ -1,1 +1,47 @@
-{"error": 0, "query": "incarn", "enViData": {"suggests": [{"id": "47128", "link": "/find?type=1&query=incarnadine", "word": "incarnadine"}, {"id": "47129", "link": "/find?type=1&query=incarnate", "word": "incarnate"}, {"id": "47130", "link": "/find?type=1&query=incarnation", "word": "incarnation"}, {"id": "47131", "link": "/find?type=1&query=incarnational", "word": "incarnational"}, {"id": "47132", "link": "/find?type=1&query=incarnator", "word": "incarnator"}]}, "mUrl": "/find?type=1&query=incarn", "enEnData": {"suggests": [{"id": "14612", "link": "/find?type=3&query=incarnate", "word": "incarnate"}, {"id": "14613", "link": "/find?type=3&query=incarnation", "word": "incarnation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14612",
+                "link": "/find?type=3&query=incarnate",
+                "word": "incarnate"
+            },
+            {
+                "id": "14613",
+                "link": "/find?type=3&query=incarnation",
+                "word": "incarnation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47128",
+                "link": "/find?type=1&query=incarnadine",
+                "word": "incarnadine"
+            },
+            {
+                "id": "47129",
+                "link": "/find?type=1&query=incarnate",
+                "word": "incarnate"
+            },
+            {
+                "id": "47130",
+                "link": "/find?type=1&query=incarnation",
+                "word": "incarnation"
+            },
+            {
+                "id": "47131",
+                "link": "/find?type=1&query=incarnational",
+                "word": "incarnational"
+            },
+            {
+                "id": "47132",
+                "link": "/find?type=1&query=incarnator",
+                "word": "incarnator"
+            }
+        ]
+    }
+}

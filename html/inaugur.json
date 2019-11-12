@@ -1,1 +1,62 @@
-{"error": 0, "query": "inaugur", "enViData": {"suggests": [{"id": "47081", "link": "/find?type=1&query=inaugural", "word": "inaugural"}, {"id": "47082", "link": "/find?type=1&query=inaugurate", "word": "inaugurate"}, {"id": "47083", "link": "/find?type=1&query=inauguration", "word": "inauguration"}, {"id": "47084", "link": "/find?type=1&query=inauguration+day", "word": "inauguration day"}, {"id": "47085", "link": "/find?type=1&query=inaugurator", "word": "inaugurator"}, {"id": "47086", "link": "/find?type=1&query=inauguratory", "word": "inauguratory"}]}, "mUrl": "/find?type=1&query=inaugur", "enEnData": {"suggests": [{"id": "14591", "link": "/find?type=3&query=inaugural", "word": "inaugural"}, {"id": "14592", "link": "/find?type=3&query=inaugurate", "word": "inaugurate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3600", "link": "/find?type=4&query=inaugurate", "word": "inaugurate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14591",
+                "link": "/find?type=3&query=inaugural",
+                "word": "inaugural"
+            },
+            {
+                "id": "14592",
+                "link": "/find?type=3&query=inaugurate",
+                "word": "inaugurate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "47081",
+                "link": "/find?type=1&query=inaugural",
+                "word": "inaugural"
+            },
+            {
+                "id": "47082",
+                "link": "/find?type=1&query=inaugurate",
+                "word": "inaugurate"
+            },
+            {
+                "id": "47083",
+                "link": "/find?type=1&query=inauguration",
+                "word": "inauguration"
+            },
+            {
+                "id": "47084",
+                "link": "/find?type=1&query=inauguration+day",
+                "word": "inauguration day"
+            },
+            {
+                "id": "47085",
+                "link": "/find?type=1&query=inaugurator",
+                "word": "inaugurator"
+            },
+            {
+                "id": "47086",
+                "link": "/find?type=1&query=inauguratory",
+                "word": "inauguratory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3600",
+                "link": "/find?type=4&query=inaugurate",
+                "word": "inaugurate"
+            }
+        ]
+    }
+}

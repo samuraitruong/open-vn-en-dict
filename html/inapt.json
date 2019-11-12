@@ -1,1 +1,44 @@
-{"error": 0, "query": "inapt", "enViData": {"suggests": [{"id": "47053", "link": "/find?type=1&query=inaptitude", "word": "inaptitude"}, {"id": "47053", "link": "/find?type=1&query=inaptly", "word": "inaptly"}, {"id": "47053", "link": "/find?type=1&query=inaptness", "word": "inaptness"}], "best": {"id": "47053", "details": "\n<div id=\"find_word_47053\" class=\"world word_en\" rel=\"inapt\">\n    <h2 class=\"fl\">inapt <span class=\"color-black\">/in'\u00e6pt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"47053\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"47053\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng th\u00edch h\u1ee3p; kh\u00f4ng \u0111\u1ee7 kh\u1ea3 n\u0103ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an inapt remark</div>\n    \n    <div class=\"margin25\">m\u1ed9t nh\u1eadn x\u00e9t kh\u00f4ng th\u00edch h\u1ee3p</div>\n    \n</div>\n", "link": "/find?type=1&query=inapt", "word": "inapt"}}, "mUrl": "/find?type=1&query=inapt", "enEnData": {"suggests": [], "best": {"id": "14585", "details": "\n<div id=\"find_word_14585\" class=\"world word_en\" rel=\"inapt\">\n    <h2 class=\"fl\">inapt <span class=\"color-black\">/\u026an\u02c8\u00e6pt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14585\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14585\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] somewhat formal :not appropriate or suitable :not apt</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an inapt [=inappropriate] analogy/metaphor/comparison</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His description of the experience as weird isn't altogether inapt. [=it is somewhat accurate] - compare inept</div>\n    \n</div>\n", "link": "/find?type=3&query=inapt", "word": "inapt"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] somewhat formal :not appropriate or suitable :not apt</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an inapt [=inappropriate] analogy/metaphor/comparison</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His description of the experience as weird isn't altogether inapt. [=it is somewhat accurate] - compare inept</div>",
+            "id": "14585",
+            "mean": [],
+            "pronounce": "/\u026an\u02c8\u00e6pt/",
+            "type": "adjective",
+            "word": "inapt"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00f4ng th\u00edch h\u1ee3p; kh\u00f4ng \u0111\u1ee7 kh\u1ea3 n\u0103ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an inapt remark</div>\n    \n    <div class=\"margin25\">m\u1ed9t nh\u1eadn x\u00e9t kh\u00f4ng th\u00edch h\u1ee3p</div>",
+            "id": "47053",
+            "mean": [],
+            "pronounce": "/in'\u00e6pt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/01c0f850f35c6153c5b233a36f0d66d7/16e61ca1174/I/inapt.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8c0407a0a627ecd4860a6fe7022c952e/16e61ca0b6e/I/inapt.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "inapt"
+        },
+        "suggests": [
+            {
+                "id": "47053",
+                "link": "/find?type=1&query=inaptitude",
+                "word": "inaptitude"
+            },
+            {
+                "id": "47053",
+                "link": "/find?type=1&query=inaptly",
+                "word": "inaptly"
+            },
+            {
+                "id": "47053",
+                "link": "/find?type=1&query=inaptness",
+                "word": "inaptness"
+            }
+        ]
+    }
+}

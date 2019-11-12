@@ -1,1 +1,82 @@
-{"error": 0, "query": "inact", "enViData": {"suggests": [{"id": "46982", "link": "/find?type=1&query=inaction", "word": "inaction"}, {"id": "46983", "link": "/find?type=1&query=inactivate", "word": "inactivate"}, {"id": "46984", "link": "/find?type=1&query=inactivation", "word": "inactivation"}, {"id": "46985", "link": "/find?type=1&query=inactive", "word": "inactive"}, {"id": "46986", "link": "/find?type=1&query=Inactive+money", "word": "Inactive money"}, {"id": "46987", "link": "/find?type=1&query=inactively", "word": "inactively"}, {"id": "46988", "link": "/find?type=1&query=inactiveness", "word": "inactiveness"}, {"id": "46989", "link": "/find?type=1&query=inactivity", "word": "inactivity"}]}, "mUrl": "/find?type=1&query=inact", "enEnData": {"suggests": [{"id": "14572", "link": "/find?type=3&query=inaction", "word": "inaction"}, {"id": "14573", "link": "/find?type=3&query=inactive", "word": "inactive"}, {"id": "14574", "link": "/find?type=3&query=inactivity", "word": "inactivity"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3587", "link": "/find?type=4&query=inactive", "word": "inactive"}, {"id": "3588", "link": "/find?type=4&query=inactivity", "word": "inactivity"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14572",
+                "link": "/find?type=3&query=inaction",
+                "word": "inaction"
+            },
+            {
+                "id": "14573",
+                "link": "/find?type=3&query=inactive",
+                "word": "inactive"
+            },
+            {
+                "id": "14574",
+                "link": "/find?type=3&query=inactivity",
+                "word": "inactivity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46982",
+                "link": "/find?type=1&query=inaction",
+                "word": "inaction"
+            },
+            {
+                "id": "46983",
+                "link": "/find?type=1&query=inactivate",
+                "word": "inactivate"
+            },
+            {
+                "id": "46984",
+                "link": "/find?type=1&query=inactivation",
+                "word": "inactivation"
+            },
+            {
+                "id": "46985",
+                "link": "/find?type=1&query=inactive",
+                "word": "inactive"
+            },
+            {
+                "id": "46986",
+                "link": "/find?type=1&query=Inactive+money",
+                "word": "Inactive money"
+            },
+            {
+                "id": "46987",
+                "link": "/find?type=1&query=inactively",
+                "word": "inactively"
+            },
+            {
+                "id": "46988",
+                "link": "/find?type=1&query=inactiveness",
+                "word": "inactiveness"
+            },
+            {
+                "id": "46989",
+                "link": "/find?type=1&query=inactivity",
+                "word": "inactivity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3587",
+                "link": "/find?type=4&query=inactive",
+                "word": "inactive"
+            },
+            {
+                "id": "3588",
+                "link": "/find?type=4&query=inactivity",
+                "word": "inactivity"
+            }
+        ]
+    }
+}

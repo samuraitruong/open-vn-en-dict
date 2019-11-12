@@ -1,1 +1,42 @@
-{"error": 0, "query": "improvided", "enViData": {"suggests": [{"id": "46895", "link": "/find?type=1&query=improvidence", "word": "improvidence"}, {"id": "46896", "link": "/find?type=1&query=improvident", "word": "improvident"}, {"id": "46897", "link": "/find?type=1&query=improvidently", "word": "improvidently"}]}, "mUrl": "/find?type=1&query=improvided", "enEnData": {"suggests": [{"id": "14546", "link": "/find?type=3&query=improvident", "word": "improvident"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3574", "link": "/find?type=4&query=improvident", "word": "improvident"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14546",
+                "link": "/find?type=3&query=improvident",
+                "word": "improvident"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "46895",
+                "link": "/find?type=1&query=improvidence",
+                "word": "improvidence"
+            },
+            {
+                "id": "46896",
+                "link": "/find?type=1&query=improvident",
+                "word": "improvident"
+            },
+            {
+                "id": "46897",
+                "link": "/find?type=1&query=improvidently",
+                "word": "improvidently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3574",
+                "link": "/find?type=4&query=improvident",
+                "word": "improvident"
+            }
+        ]
+    }
+}
