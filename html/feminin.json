@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "34672", "link": "/find?type=1&query=feminine", "word": "feminine"}, {"id": "34673", "link": "/find?type=1&query=feminine", "word": "feminine"}, {"id": "34674", "link": "/find?type=1&query=feminineness", "word": "feminineness"}, {"id": "34675", "link": "/find?type=1&query=femininity", "word": "femininity"}], "data": {}}, "en_en": {"suggests": [{"id": "10466", "link": "/find?type=3&query=feminine", "word": "feminine"}], "data": {}}, "synonyms": {"suggests": [{"id": "2572", "link": "/find?type=4&query=feminine", "word": "feminine"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "10466",
+                "link": "/find?type=3&query=feminine",
+                "word": "feminine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34672",
+                "link": "/find?type=1&query=feminine",
+                "word": "feminine"
+            },
+            {
+                "id": "34673",
+                "link": "/find?type=1&query=feminine",
+                "word": "feminine"
+            },
+            {
+                "id": "34674",
+                "link": "/find?type=1&query=feminineness",
+                "word": "feminineness"
+            },
+            {
+                "id": "34675",
+                "link": "/find?type=1&query=femininity",
+                "word": "femininity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2572",
+                "link": "/find?type=4&query=feminine",
+                "word": "feminine"
+            }
+        ]
+    }
+}
