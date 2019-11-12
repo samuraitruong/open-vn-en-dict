@@ -1,1 +1,39 @@
-{"en_vn": {"suggests": [{"id": "17077", "link": "/find?type=1&query=colonelcy", "word": "colonelcy"}, {"id": "17077", "link": "/find?type=1&query=colonelship", "word": "colonelship"}], "data": {"word": "colonel", "id": "17077", "pronounce": "/'k\u025c:nl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(qu\u00e2n \u0111\u1ed9i)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea1i t\u00e1</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/57526041a297ef276372ba7b95cacac6/16e5df107d0/C/colonel.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/b86d1711e21aa51108e141e7074a759b/16e5df10d5f/C/colonel.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "colonel", "id": "5523", "pronounce": "/\u02c8k\u025ann\u0329/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an officer of high rank in the army, air force, or marines :a military officer who ranks above a major</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He retired as a colonel in the air force.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an officer of high rank in the army, air force, or marines :a military officer who ranks above a major</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He retired as a colonel in the air force.</div>",
+            "id": "5523",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025ann\u0329/",
+            "type": "noun",
+            "word": "colonel"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(qu\u00e2n \u0111\u1ed9i)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea1i t\u00e1</div>",
+            "id": "17077",
+            "mean": [],
+            "pronounce": "/'k\u025c:nl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/87f998eca0892150d09dfb09b4f15f5f/16e5ed21f73/C/colonel.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fb9165d13751d6f5e8ddbd2e9354f1c3/16e5ed216ac/C/colonel.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "colonel"
+        },
+        "suggests": [
+            {
+                "id": "17077",
+                "link": "/find?type=1&query=colonelcy",
+                "word": "colonelcy"
+            },
+            {
+                "id": "17077",
+                "link": "/find?type=1&query=colonelship",
+                "word": "colonelship"
+            }
+        ]
+    }
+}

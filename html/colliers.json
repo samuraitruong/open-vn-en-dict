@@ -1,1 +1,40 @@
-{"en_vn": {"suggests": [{"id": "17029", "link": "/find?type=1&query=colliery", "word": "colliery"}], "data": {"word": "collier", "id": "17029", "pronounce": "/'k\u0252li\u0259[r]/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(Anh)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ng nh\u00e2n m\u1ecf than</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0u ch\u1edf than</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/5cb994c59201c5d584b1d799830e17cf/16e5df0d2b7/C/collier.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/30e744b062ffa1ca075e7f65d50fd4da/16e5df0d8b8/C/collier.mp3"}}}, "en_en": {"suggests": [{"id": "5511", "link": "/find?type=3&query=colliery", "word": "colliery"}], "data": {"word": "collier", "id": "5511", "pronounce": "/\u02c8k\u0251\u02d0lj\u025a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -liers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit old-fashioned :a coal miner</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -liers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit old-fashioned :a coal miner</div>",
+            "id": "5511",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0lj\u025a/",
+            "type": "noun",
+            "word": "collier"
+        },
+        "suggests": [
+            {
+                "id": "5511",
+                "link": "/find?type=3&query=colliery",
+                "word": "colliery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(Anh)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ng nh\u00e2n m\u1ecf than</div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0u ch\u1edf than</div>",
+            "id": "17029",
+            "mean": [],
+            "pronounce": "/'k\u0252li\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8d8149154e184d83959699d754573ec3/16e5ed1d5b7/C/collier.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a267611a0c9d3bc8cc8fbcdf6451b1bd/16e5ed1cccf/C/collier.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "collier"
+        },
+        "suggests": [
+            {
+                "id": "17029",
+                "link": "/find?type=1&query=colliery",
+                "word": "colliery"
+            }
+        ]
+    }
+}

@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "17053", "link": "/find?type=1&query=colloquial", "word": "colloquial"}, {"id": "17054", "link": "/find?type=1&query=colloquialism", "word": "colloquialism"}, {"id": "17055", "link": "/find?type=1&query=colloquially", "word": "colloquially"}, {"id": "17056", "link": "/find?type=1&query=colloquialness", "word": "colloquialness"}, {"id": "17057", "link": "/find?type=1&query=colloquist", "word": "colloquist"}, {"id": "17058", "link": "/find?type=1&query=colloquium", "word": "colloquium"}, {"id": "17059", "link": "/find?type=1&query=colloquy", "word": "colloquy"}], "data": {}}, "en_en": {"suggests": [{"id": "5517", "link": "/find?type=3&query=colloquial", "word": "colloquial"}, {"id": "5518", "link": "/find?type=3&query=colloquialism", "word": "colloquialism"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5517",
+                "link": "/find?type=3&query=colloquial",
+                "word": "colloquial"
+            },
+            {
+                "id": "5518",
+                "link": "/find?type=3&query=colloquialism",
+                "word": "colloquialism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17053",
+                "link": "/find?type=1&query=colloquial",
+                "word": "colloquial"
+            },
+            {
+                "id": "17054",
+                "link": "/find?type=1&query=colloquialism",
+                "word": "colloquialism"
+            },
+            {
+                "id": "17055",
+                "link": "/find?type=1&query=colloquially",
+                "word": "colloquially"
+            },
+            {
+                "id": "17056",
+                "link": "/find?type=1&query=colloquialness",
+                "word": "colloquialness"
+            },
+            {
+                "id": "17057",
+                "link": "/find?type=1&query=colloquist",
+                "word": "colloquist"
+            },
+            {
+                "id": "17058",
+                "link": "/find?type=1&query=colloquium",
+                "word": "colloquium"
+            },
+            {
+                "id": "17059",
+                "link": "/find?type=1&query=colloquy",
+                "word": "colloquy"
+            }
+        ]
+    }
+}
