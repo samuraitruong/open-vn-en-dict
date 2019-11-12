@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "8403", "link": "/find?type=1&query=bastille", "word": "bastille"}, {"id": "8404", "link": "/find?type=1&query=bastinado", "word": "bastinado"}, {"id": "8405", "link": "/find?type=1&query=bastion", "word": "bastion"}, {"id": "8406", "link": "/find?type=1&query=bastioned", "word": "bastioned"}], "data": {}}, "en_en": {"suggests": [{"id": "2158", "link": "/find?type=3&query=bastion", "word": "bastion"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2158",
+                "link": "/find?type=3&query=bastion",
+                "word": "bastion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8403",
+                "link": "/find?type=1&query=bastille",
+                "word": "bastille"
+            },
+            {
+                "id": "8404",
+                "link": "/find?type=1&query=bastinado",
+                "word": "bastinado"
+            },
+            {
+                "id": "8405",
+                "link": "/find?type=1&query=bastion",
+                "word": "bastion"
+            },
+            {
+                "id": "8406",
+                "link": "/find?type=1&query=bastioned",
+                "word": "bastioned"
+            }
+        ]
+    }
+}

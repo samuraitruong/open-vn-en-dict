@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "8500", "link": "/find?type=1&query=bawdily", "word": "bawdily"}, {"id": "8500", "link": "/find?type=1&query=bawdiness", "word": "bawdiness"}, {"id": "8500", "link": "/find?type=1&query=bawdy", "word": "bawdy"}, {"id": "8500", "link": "/find?type=1&query=bawdy-house", "word": "bawdy-house"}], "data": {"word": "bawd", "id": "8500", "pronounce": "/b\u0254:d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u00f9m nh\u00e0 th\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">chuy\u1ec7n t\u1ee5c t\u0129u d\u00e2m \u00f4</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "2199", "link": "/find?type=3&query=bawdy", "word": "bawdy"}], "data": {}}, "synonyms": {"suggests": [{"id": "451", "link": "/find?type=4&query=bawdy", "word": "bawdy"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "2199",
+                "link": "/find?type=3&query=bawdy",
+                "word": "bawdy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u00f9m nh\u00e0 th\u1ed5</div>\n    \n    <div class=\"green margin25 m-top15\">chuy\u1ec7n t\u1ee5c t\u0129u d\u00e2m \u00f4</div>",
+            "id": "8500",
+            "mean": [],
+            "pronounce": "/b\u0254:d/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bawd"
+        },
+        "suggests": [
+            {
+                "id": "8500",
+                "link": "/find?type=1&query=bawdily",
+                "word": "bawdily"
+            },
+            {
+                "id": "8500",
+                "link": "/find?type=1&query=bawdiness",
+                "word": "bawdiness"
+            },
+            {
+                "id": "8500",
+                "link": "/find?type=1&query=bawdy",
+                "word": "bawdy"
+            },
+            {
+                "id": "8500",
+                "link": "/find?type=1&query=bawdy-house",
+                "word": "bawdy-house"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "451",
+                "link": "/find?type=4&query=bawdy",
+                "word": "bawdy"
+            }
+        ]
+    }
+}

@@ -1,1 +1,31 @@
-{"en_vn": {"suggests": [{"id": "8382", "link": "/find?type=1&query=bassinette", "word": "bassinette"}], "data": {"word": "bassinet", "id": "8382", "pronounce": "/,b\u00e6si'net/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f4i treo</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "bassinet", "id": "2152", "pronounce": "/\u02ccb\u00e6s\u0259\u02c8n\u025bt/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small bed for a baby that looks like a basket and that usually has a hood or cover over one end</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small bed for a baby that looks like a basket and that usually has a hood or cover over one end</div>",
+            "id": "2152",
+            "mean": [],
+            "pronounce": "/\u02ccb\u00e6s\u0259\u02c8n\u025bt/",
+            "type": "noun",
+            "word": "bassinet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f4i treo</div>",
+            "id": "8382",
+            "mean": [],
+            "pronounce": "/,b\u00e6si'net/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "bassinet"
+        },
+        "suggests": [
+            {
+                "id": "8382",
+                "link": "/find?type=1&query=bassinette",
+                "word": "bassinette"
+            }
+        ]
+    }
+}

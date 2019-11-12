@@ -1,1 +1,70 @@
-{"en_vn": {"suggests": [{"id": "8343", "link": "/find?type=1&query=basilar", "word": "basilar"}, {"id": "8343", "link": "/find?type=1&query=basilary", "word": "basilary"}, {"id": "8343", "link": "/find?type=1&query=basilic", "word": "basilic"}, {"id": "8343", "link": "/find?type=1&query=basilica", "word": "basilica"}, {"id": "8343", "link": "/find?type=1&query=basilican", "word": "basilican"}, {"id": "8343", "link": "/find?type=1&query=basilisk", "word": "basilisk"}], "data": {"word": "basil", "id": "8343", "pronounce": "/'b\u00e6zl/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y h\u00fang d\u1ed5i, c\u00e2y h\u1ea1t \u00e9</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/c6f586ee533c269dc14ecd2747573e51/16e5dd22140/B/basil.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/3ef52e3b9c51c25f7ef84e8be4029a89/16e5dd2272e/B/basil.mp3"}}}, "en_en": {"suggests": [{"id": "2137", "link": "/find?type=3&query=basilica", "word": "basilica"}, {"id": "2137", "link": "/find?type=3&query=basilisk", "word": "basilisk"}], "data": {"word": "basil", "id": "2137", "pronounce": "/\u02c8b\u00e6z\u0259l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :an herb that has a sweet smell and that is used in cooking - see color picture</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :an herb that has a sweet smell and that is used in cooking - see color picture</div>",
+            "id": "2137",
+            "mean": [],
+            "pronounce": "/\u02c8b\u00e6z\u0259l/",
+            "type": "noun",
+            "word": "basil"
+        },
+        "suggests": [
+            {
+                "id": "2137",
+                "link": "/find?type=3&query=basilica",
+                "word": "basilica"
+            },
+            {
+                "id": "2137",
+                "link": "/find?type=3&query=basilisk",
+                "word": "basilisk"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e2y h\u00fang d\u1ed5i, c\u00e2y h\u1ea1t \u00e9</div>",
+            "id": "8343",
+            "mean": [],
+            "pronounce": "/'b\u00e6zl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/751854b1878f6b5107ca0b1463c6ab21/16e5eb09446/B/basil.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/357c22578332ea5299a21438b3ff53fe/16e5eb09445/B/basil.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "basil"
+        },
+        "suggests": [
+            {
+                "id": "8343",
+                "link": "/find?type=1&query=basilar",
+                "word": "basilar"
+            },
+            {
+                "id": "8343",
+                "link": "/find?type=1&query=basilary",
+                "word": "basilary"
+            },
+            {
+                "id": "8343",
+                "link": "/find?type=1&query=basilic",
+                "word": "basilic"
+            },
+            {
+                "id": "8343",
+                "link": "/find?type=1&query=basilica",
+                "word": "basilica"
+            },
+            {
+                "id": "8343",
+                "link": "/find?type=1&query=basilican",
+                "word": "basilican"
+            },
+            {
+                "id": "8343",
+                "link": "/find?type=1&query=basilisk",
+                "word": "basilisk"
+            }
+        ]
+    }
+}
