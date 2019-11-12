@@ -1,1 +1,167 @@
-{"en_vn": {"suggests": [{"id": "26529", "link": "/find?type=1&query=distad", "word": "distad"}, {"id": "26530", "link": "/find?type=1&query=distaff", "word": "distaff"}, {"id": "26531", "link": "/find?type=1&query=distaff+side", "word": "distaff side"}, {"id": "26532", "link": "/find?type=1&query=distain", "word": "distain"}, {"id": "26533", "link": "/find?type=1&query=distal", "word": "distal"}, {"id": "26534", "link": "/find?type=1&query=distance", "word": "distance"}, {"id": "26535", "link": "/find?type=1&query=Distance+cost", "word": "Distance cost"}, {"id": "26536", "link": "/find?type=1&query=distance-piece", "word": "distance-piece"}, {"id": "26537", "link": "/find?type=1&query=distant", "word": "distant"}, {"id": "26538", "link": "/find?type=1&query=distantly", "word": "distantly"}], "data": {}}, "en_en": {"suggests": [{"id": "8343", "link": "/find?type=3&query=distaff", "word": "distaff"}, {"id": "8344", "link": "/find?type=3&query=distance", "word": "distance"}, {"id": "8345", "link": "/find?type=3&query=distance+learning", "word": "distance learning"}, {"id": "8346", "link": "/find?type=3&query=distant", "word": "distant"}, {"id": "8347", "link": "/find?type=3&query=distaste", "word": "distaste"}, {"id": "8348", "link": "/find?type=3&query=distasteful", "word": "distasteful"}, {"id": "8349", "link": "/find?type=3&query=distemper", "word": "distemper"}, {"id": "8350", "link": "/find?type=3&query=distend", "word": "distend"}, {"id": "8351", "link": "/find?type=3&query=distill", "word": "distill"}, {"id": "8352", "link": "/find?type=3&query=distiller", "word": "distiller"}], "data": {}}, "synonyms": {"suggests": [{"id": "1826", "link": "/find?type=4&query=distance", "word": "distance"}, {"id": "1827", "link": "/find?type=4&query=distant", "word": "distant"}, {"id": "1828", "link": "/find?type=4&query=distaste", "word": "distaste"}, {"id": "1829", "link": "/find?type=4&query=distasteful", "word": "distasteful"}, {"id": "1830", "link": "/find?type=4&query=distinct", "word": "distinct"}, {"id": "1831", "link": "/find?type=4&query=distinction", "word": "distinction"}, {"id": "1832", "link": "/find?type=4&query=distinctive", "word": "distinctive"}, {"id": "1833", "link": "/find?type=4&query=distinguish", "word": "distinguish"}, {"id": "1834", "link": "/find?type=4&query=distinguished", "word": "distinguished"}, {"id": "1835", "link": "/find?type=4&query=distort", "word": "distort"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8343",
+                "link": "/find?type=3&query=distaff",
+                "word": "distaff"
+            },
+            {
+                "id": "8344",
+                "link": "/find?type=3&query=distance",
+                "word": "distance"
+            },
+            {
+                "id": "8345",
+                "link": "/find?type=3&query=distance+learning",
+                "word": "distance learning"
+            },
+            {
+                "id": "8346",
+                "link": "/find?type=3&query=distant",
+                "word": "distant"
+            },
+            {
+                "id": "8347",
+                "link": "/find?type=3&query=distaste",
+                "word": "distaste"
+            },
+            {
+                "id": "8348",
+                "link": "/find?type=3&query=distasteful",
+                "word": "distasteful"
+            },
+            {
+                "id": "8349",
+                "link": "/find?type=3&query=distemper",
+                "word": "distemper"
+            },
+            {
+                "id": "8350",
+                "link": "/find?type=3&query=distend",
+                "word": "distend"
+            },
+            {
+                "id": "8351",
+                "link": "/find?type=3&query=distill",
+                "word": "distill"
+            },
+            {
+                "id": "8352",
+                "link": "/find?type=3&query=distiller",
+                "word": "distiller"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26529",
+                "link": "/find?type=1&query=distad",
+                "word": "distad"
+            },
+            {
+                "id": "26530",
+                "link": "/find?type=1&query=distaff",
+                "word": "distaff"
+            },
+            {
+                "id": "26531",
+                "link": "/find?type=1&query=distaff+side",
+                "word": "distaff side"
+            },
+            {
+                "id": "26532",
+                "link": "/find?type=1&query=distain",
+                "word": "distain"
+            },
+            {
+                "id": "26533",
+                "link": "/find?type=1&query=distal",
+                "word": "distal"
+            },
+            {
+                "id": "26534",
+                "link": "/find?type=1&query=distance",
+                "word": "distance"
+            },
+            {
+                "id": "26535",
+                "link": "/find?type=1&query=Distance+cost",
+                "word": "Distance cost"
+            },
+            {
+                "id": "26536",
+                "link": "/find?type=1&query=distance-piece",
+                "word": "distance-piece"
+            },
+            {
+                "id": "26537",
+                "link": "/find?type=1&query=distant",
+                "word": "distant"
+            },
+            {
+                "id": "26538",
+                "link": "/find?type=1&query=distantly",
+                "word": "distantly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1826",
+                "link": "/find?type=4&query=distance",
+                "word": "distance"
+            },
+            {
+                "id": "1827",
+                "link": "/find?type=4&query=distant",
+                "word": "distant"
+            },
+            {
+                "id": "1828",
+                "link": "/find?type=4&query=distaste",
+                "word": "distaste"
+            },
+            {
+                "id": "1829",
+                "link": "/find?type=4&query=distasteful",
+                "word": "distasteful"
+            },
+            {
+                "id": "1830",
+                "link": "/find?type=4&query=distinct",
+                "word": "distinct"
+            },
+            {
+                "id": "1831",
+                "link": "/find?type=4&query=distinction",
+                "word": "distinction"
+            },
+            {
+                "id": "1832",
+                "link": "/find?type=4&query=distinctive",
+                "word": "distinctive"
+            },
+            {
+                "id": "1833",
+                "link": "/find?type=4&query=distinguish",
+                "word": "distinguish"
+            },
+            {
+                "id": "1834",
+                "link": "/find?type=4&query=distinguished",
+                "word": "distinguished"
+            },
+            {
+                "id": "1835",
+                "link": "/find?type=4&query=distort",
+                "word": "distort"
+            }
+        ]
+    }
+}

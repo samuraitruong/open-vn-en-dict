@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "26638", "link": "/find?type=1&query=distrust", "word": "distrust"}, {"id": "26639", "link": "/find?type=1&query=distrustful", "word": "distrustful"}, {"id": "26640", "link": "/find?type=1&query=distrustfully", "word": "distrustfully"}], "data": {}}, "en_en": {"suggests": [{"id": "8372", "link": "/find?type=3&query=distrust", "word": "distrust"}], "data": {}}, "synonyms": {"suggests": [{"id": "1843", "link": "/find?type=4&query=distrust", "word": "distrust"}, {"id": "1844", "link": "/find?type=4&query=distrustful", "word": "distrustful"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8372",
+                "link": "/find?type=3&query=distrust",
+                "word": "distrust"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26638",
+                "link": "/find?type=1&query=distrust",
+                "word": "distrust"
+            },
+            {
+                "id": "26639",
+                "link": "/find?type=1&query=distrustful",
+                "word": "distrustful"
+            },
+            {
+                "id": "26640",
+                "link": "/find?type=1&query=distrustfully",
+                "word": "distrustfully"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1843",
+                "link": "/find?type=4&query=distrust",
+                "word": "distrust"
+            },
+            {
+                "id": "1844",
+                "link": "/find?type=4&query=distrustful",
+                "word": "distrustful"
+            }
+        ]
+    }
+}
