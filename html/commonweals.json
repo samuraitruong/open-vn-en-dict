@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "17449", "link": "/find?type=1&query=Commonwealth", "word": "Commonwealth"}, {"id": "17449", "link": "/find?type=1&query=commonwealth+of+nations", "word": "commonwealth of nations"}], "data": {"word": "commonweal", "id": "17449", "pronounce": "/'k\u0252m\u0259nwi:/", "type": "", "mean": [], "content": "\n    \n    <div class=\"\">(v\u0103n)</div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00fac l\u1ee3i chung</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "5664", "link": "/find?type=3&query=commonwealth", "word": "commonwealth"}], "data": {"word": "commonweal", "id": "5664", "pronounce": "/\u02c8k\u0251\u02d0m\u0259n\u02ccwi\u02d0l/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] old-fashioned + formal :the happiness, health, and safety of all of the people of a community or nation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a President who promotes the commonweal [=common good]</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] old-fashioned + formal :the happiness, health, and safety of all of the people of a community or nation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a President who promotes the commonweal [=common good]</div>",
+            "id": "5664",
+            "mean": [],
+            "pronounce": "/\u02c8k\u0251\u02d0m\u0259n\u02ccwi\u02d0l/",
+            "type": "noun",
+            "word": "commonweal"
+        },
+        "suggests": [
+            {
+                "id": "5664",
+                "link": "/find?type=3&query=commonwealth",
+                "word": "commonwealth"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(v\u0103n)</div>\n    \n    <div class=\"green margin25 m-top15\">ph\u00fac l\u1ee3i chung</div>",
+            "id": "17449",
+            "mean": [],
+            "pronounce": "/'k\u0252m\u0259nwi:/",
+            "speak": {},
+            "type": "",
+            "word": "commonweal"
+        },
+        "suggests": [
+            {
+                "id": "17449",
+                "link": "/find?type=1&query=Commonwealth",
+                "word": "Commonwealth"
+            },
+            {
+                "id": "17449",
+                "link": "/find?type=1&query=commonwealth+of+nations",
+                "word": "commonwealth of nations"
+            }
+        ]
+    }
+}

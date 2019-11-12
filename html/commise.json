@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "17363", "link": "/find?type=1&query=commiserate", "word": "commiserate"}, {"id": "17364", "link": "/find?type=1&query=commiseration", "word": "commiseration"}, {"id": "17365", "link": "/find?type=1&query=commiserative", "word": "commiserative"}, {"id": "17366", "link": "/find?type=1&query=commiseratively", "word": "commiseratively"}, {"id": "17367", "link": "/find?type=1&query=commiserator", "word": "commiserator"}], "data": {}}, "en_en": {"suggests": [{"id": "5635", "link": "/find?type=3&query=commiserate", "word": "commiserate"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5635",
+                "link": "/find?type=3&query=commiserate",
+                "word": "commiserate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17363",
+                "link": "/find?type=1&query=commiserate",
+                "word": "commiserate"
+            },
+            {
+                "id": "17364",
+                "link": "/find?type=1&query=commiseration",
+                "word": "commiseration"
+            },
+            {
+                "id": "17365",
+                "link": "/find?type=1&query=commiserative",
+                "word": "commiserative"
+            },
+            {
+                "id": "17366",
+                "link": "/find?type=1&query=commiseratively",
+                "word": "commiseratively"
+            },
+            {
+                "id": "17367",
+                "link": "/find?type=1&query=commiserator",
+                "word": "commiserator"
+            }
+        ]
+    }
+}

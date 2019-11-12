@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "17453", "link": "/find?type=1&query=communal", "word": "communal"}, {"id": "17454", "link": "/find?type=1&query=communalise", "word": "communalise"}, {"id": "17455", "link": "/find?type=1&query=communality", "word": "communality"}, {"id": "17456", "link": "/find?type=1&query=communally", "word": "communally"}, {"id": "17457", "link": "/find?type=1&query=communard", "word": "communard"}], "data": {}}, "en_en": {"suggests": [{"id": "5667", "link": "/find?type=3&query=communal", "word": "communal"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5667",
+                "link": "/find?type=3&query=communal",
+                "word": "communal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17453",
+                "link": "/find?type=1&query=communal",
+                "word": "communal"
+            },
+            {
+                "id": "17454",
+                "link": "/find?type=1&query=communalise",
+                "word": "communalise"
+            },
+            {
+                "id": "17455",
+                "link": "/find?type=1&query=communality",
+                "word": "communality"
+            },
+            {
+                "id": "17456",
+                "link": "/find?type=1&query=communally",
+                "word": "communally"
+            },
+            {
+                "id": "17457",
+                "link": "/find?type=1&query=communard",
+                "word": "communard"
+            }
+        ]
+    }
+}
