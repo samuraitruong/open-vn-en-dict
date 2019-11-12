@@ -1,1 +1,37 @@
-{"en_vn": {"suggests": [{"id": "17759", "link": "/find?type=1&query=componemtwise", "word": "componemtwise"}, {"id": "17760", "link": "/find?type=1&query=component", "word": "component"}, {"id": "17761", "link": "/find?type=1&query=component+part", "word": "component part"}, {"id": "17762", "link": "/find?type=1&query=componential", "word": "componential"}], "data": {}}, "en_en": {"suggests": [{"id": "5749", "link": "/find?type=3&query=component", "word": "component"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5749",
+                "link": "/find?type=3&query=component",
+                "word": "component"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17759",
+                "link": "/find?type=1&query=componemtwise",
+                "word": "componemtwise"
+            },
+            {
+                "id": "17760",
+                "link": "/find?type=1&query=component",
+                "word": "component"
+            },
+            {
+                "id": "17761",
+                "link": "/find?type=1&query=component+part",
+                "word": "component part"
+            },
+            {
+                "id": "17762",
+                "link": "/find?type=1&query=componential",
+                "word": "componential"
+            }
+        ]
+    }
+}

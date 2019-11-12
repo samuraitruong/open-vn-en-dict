@@ -1,1 +1,52 @@
-{"en_vn": {"suggests": [{"id": "17581", "link": "/find?type=1&query=compartment", "word": "compartment"}, {"id": "17582", "link": "/find?type=1&query=compartmental", "word": "compartmental"}, {"id": "17583", "link": "/find?type=1&query=compartmentalization", "word": "compartmentalization"}, {"id": "17584", "link": "/find?type=1&query=compartmentalize%2C+compartmentalise", "word": "compartmentalize, compartmentalise"}], "data": {}}, "en_en": {"suggests": [{"id": "5701", "link": "/find?type=3&query=compartment", "word": "compartment"}, {"id": "5702", "link": "/find?type=3&query=compartmentalize", "word": "compartmentalize"}], "data": {}}, "synonyms": {"suggests": [{"id": "1128", "link": "/find?type=4&query=compartment", "word": "compartment"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5701",
+                "link": "/find?type=3&query=compartment",
+                "word": "compartment"
+            },
+            {
+                "id": "5702",
+                "link": "/find?type=3&query=compartmentalize",
+                "word": "compartmentalize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17581",
+                "link": "/find?type=1&query=compartment",
+                "word": "compartment"
+            },
+            {
+                "id": "17582",
+                "link": "/find?type=1&query=compartmental",
+                "word": "compartmental"
+            },
+            {
+                "id": "17583",
+                "link": "/find?type=1&query=compartmentalization",
+                "word": "compartmentalization"
+            },
+            {
+                "id": "17584",
+                "link": "/find?type=1&query=compartmentalize%2C+compartmentalise",
+                "word": "compartmentalize, compartmentalise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1128",
+                "link": "/find?type=4&query=compartment",
+                "word": "compartment"
+            }
+        ]
+    }
+}

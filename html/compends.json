@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "17620", "link": "/find?type=1&query=compendia", "word": "compendia"}, {"id": "17621", "link": "/find?type=1&query=compendious", "word": "compendious"}, {"id": "17622", "link": "/find?type=1&query=compendiously", "word": "compendiously"}, {"id": "17623", "link": "/find?type=1&query=compendiousness", "word": "compendiousness"}, {"id": "17624", "link": "/find?type=1&query=compendium", "word": "compendium"}], "data": {}}, "en_en": {"suggests": [{"id": "5711", "link": "/find?type=3&query=compendium", "word": "compendium"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5711",
+                "link": "/find?type=3&query=compendium",
+                "word": "compendium"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17620",
+                "link": "/find?type=1&query=compendia",
+                "word": "compendia"
+            },
+            {
+                "id": "17621",
+                "link": "/find?type=1&query=compendious",
+                "word": "compendious"
+            },
+            {
+                "id": "17622",
+                "link": "/find?type=1&query=compendiously",
+                "word": "compendiously"
+            },
+            {
+                "id": "17623",
+                "link": "/find?type=1&query=compendiousness",
+                "word": "compendiousness"
+            },
+            {
+                "id": "17624",
+                "link": "/find?type=1&query=compendium",
+                "word": "compendium"
+            }
+        ]
+    }
+}
