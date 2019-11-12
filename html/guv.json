@@ -1,1 +1,49 @@
-{"error": 0, "query": "guv", "enViData": {"suggests": [{"id": "42126", "link": "/find?type=1&query=guv%2C+guvnor", "word": "guv, guvnor"}, {"id": "42126", "link": "/find?type=1&query=guv%27nor", "word": "guv'nor"}, {"id": "42126", "link": "/find?type=1&query=guve", "word": "guve"}, {"id": "42126", "link": "/find?type=1&query=guvnor", "word": "guvnor"}], "best": {"id": "42126", "details": "\n<div id=\"find_word_42126\" class=\"world word_en\" rel=\"guv\">\n    <h2 class=\"fl\">guv <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"42126\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"42126\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) th\u01b0a ng\u00e0i (c\u00e1ch x\u01b0ng h\u00f4 v\u1edbi ng\u01b0\u1eddi c\u00f3 quy\u1ec1n th\u1ebf)</div>\n    \n</div>\n", "link": "/find?type=1&query=guv", "word": "guv"}}, "mUrl": "/find?type=1&query=guv", "enEnData": {"suggests": [], "best": {"id": "12824", "details": "\n<div id=\"find_word_12824\" class=\"world word_en\" rel=\"guv\">\n    <h2 class=\"fl\">guv <span class=\"color-black\">/\u02c8g\u028cv/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12824\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12824\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">Brit informal - used by a man to address another man (such as a customer)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Where to, guv? asked the taxi driver.</div>\n    \n</div>\n", "link": "/find?type=3&query=guv", "word": "guv"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">Brit informal - used by a man to address another man (such as a customer)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Where to, guv? asked the taxi driver.</div>",
+            "id": "12824",
+            "mean": [],
+            "pronounce": "/\u02c8g\u028cv/",
+            "type": "noun",
+            "word": "guv"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) th\u01b0a ng\u00e0i (c\u00e1ch x\u01b0ng h\u00f4 v\u1edbi ng\u01b0\u1eddi c\u00f3 quy\u1ec1n th\u1ebf)</div>",
+            "id": "42126",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bcf40562eb047bb3e444fc5e27ab3057/16e614a1cb6/G/guv.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b3c0723a3d0040ed801d0f403ecc006f/16e614a14b7/G/guv.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "guv"
+        },
+        "suggests": [
+            {
+                "id": "42126",
+                "link": "/find?type=1&query=guv%2C+guvnor",
+                "word": "guv, guvnor"
+            },
+            {
+                "id": "42126",
+                "link": "/find?type=1&query=guv%27nor",
+                "word": "guv'nor"
+            },
+            {
+                "id": "42126",
+                "link": "/find?type=1&query=guve",
+                "word": "guve"
+            },
+            {
+                "id": "42126",
+                "link": "/find?type=1&query=guvnor",
+                "word": "guvnor"
+            }
+        ]
+    }
+}
