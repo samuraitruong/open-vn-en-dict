@@ -1,1 +1,27 @@
-{"en_vn": {"suggests": [{"id": "27098", "link": "/find?type=1&query=donnybrook", "word": "donnybrook"}, {"id": "27099", "link": "/find?type=1&query=donnybrook+fair", "word": "donnybrook fair"}], "data": {}}, "en_en": {"suggests": [{"id": "8554", "link": "/find?type=3&query=donnybrook", "word": "donnybrook"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8554",
+                "link": "/find?type=3&query=donnybrook",
+                "word": "donnybrook"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27098",
+                "link": "/find?type=1&query=donnybrook",
+                "word": "donnybrook"
+            },
+            {
+                "id": "27099",
+                "link": "/find?type=1&query=donnybrook+fair",
+                "word": "donnybrook fair"
+            }
+        ]
+    }
+}

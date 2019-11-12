@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "27083", "link": "/find?type=1&query=donation", "word": "donation"}], "data": {}}, "en_en": {"suggests": [{"id": "8546", "link": "/find?type=3&query=donation", "word": "donation"}], "data": {}}, "synonyms": {"suggests": [{"id": "1887", "link": "/find?type=4&query=donation", "word": "donation"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8546",
+                "link": "/find?type=3&query=donation",
+                "word": "donation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27083",
+                "link": "/find?type=1&query=donation",
+                "word": "donation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1887",
+                "link": "/find?type=4&query=donation",
+                "word": "donation"
+            }
+        ]
+    }
+}

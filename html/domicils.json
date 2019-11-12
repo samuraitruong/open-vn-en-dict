@@ -1,1 +1,57 @@
-{"en_vn": {"suggests": [{"id": "27052", "link": "/find?type=1&query=domicile", "word": "domicile"}, {"id": "27053", "link": "/find?type=1&query=domiciled", "word": "domiciled"}, {"id": "27054", "link": "/find?type=1&query=domiciliary", "word": "domiciliary"}, {"id": "27055", "link": "/find?type=1&query=domiciliate", "word": "domiciliate"}, {"id": "27056", "link": "/find?type=1&query=domiciliation", "word": "domiciliation"}], "data": {}}, "en_en": {"suggests": [{"id": "8533", "link": "/find?type=3&query=domicile", "word": "domicile"}, {"id": "8534", "link": "/find?type=3&query=domiciled", "word": "domiciled"}], "data": {}}, "synonyms": {"suggests": [{"id": "1880", "link": "/find?type=4&query=domicile", "word": "domicile"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8533",
+                "link": "/find?type=3&query=domicile",
+                "word": "domicile"
+            },
+            {
+                "id": "8534",
+                "link": "/find?type=3&query=domiciled",
+                "word": "domiciled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27052",
+                "link": "/find?type=1&query=domicile",
+                "word": "domicile"
+            },
+            {
+                "id": "27053",
+                "link": "/find?type=1&query=domiciled",
+                "word": "domiciled"
+            },
+            {
+                "id": "27054",
+                "link": "/find?type=1&query=domiciliary",
+                "word": "domiciliary"
+            },
+            {
+                "id": "27055",
+                "link": "/find?type=1&query=domiciliate",
+                "word": "domiciliate"
+            },
+            {
+                "id": "27056",
+                "link": "/find?type=1&query=domiciliation",
+                "word": "domiciliation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1880",
+                "link": "/find?type=4&query=domicile",
+                "word": "domicile"
+            }
+        ]
+    }
+}

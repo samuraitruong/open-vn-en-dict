@@ -1,1 +1,47 @@
-{"en_vn": {"suggests": [{"id": "27091", "link": "/find?type=1&query=donkey", "word": "donkey"}, {"id": "27092", "link": "/find?type=1&query=donkey+engine", "word": "donkey engine"}, {"id": "27093", "link": "/find?type=1&query=donkey+jacket", "word": "donkey jacket"}, {"id": "27094", "link": "/find?type=1&query=donkeywork", "word": "donkeywork"}], "data": {}}, "en_en": {"suggests": [{"id": "8550", "link": "/find?type=3&query=donkey", "word": "donkey"}, {"id": "8551", "link": "/find?type=3&query=donkey+work", "word": "donkey work"}, {"id": "8552", "link": "/find?type=3&query=donkey%27s+years", "word": "donkey's years"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8550",
+                "link": "/find?type=3&query=donkey",
+                "word": "donkey"
+            },
+            {
+                "id": "8551",
+                "link": "/find?type=3&query=donkey+work",
+                "word": "donkey work"
+            },
+            {
+                "id": "8552",
+                "link": "/find?type=3&query=donkey%27s+years",
+                "word": "donkey's years"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27091",
+                "link": "/find?type=1&query=donkey",
+                "word": "donkey"
+            },
+            {
+                "id": "27092",
+                "link": "/find?type=1&query=donkey+engine",
+                "word": "donkey engine"
+            },
+            {
+                "id": "27093",
+                "link": "/find?type=1&query=donkey+jacket",
+                "word": "donkey jacket"
+            },
+            {
+                "id": "27094",
+                "link": "/find?type=1&query=donkeywork",
+                "word": "donkeywork"
+            }
+        ]
+    }
+}

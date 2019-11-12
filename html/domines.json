@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "27062", "link": "/find?type=1&query=domineer", "word": "domineer"}, {"id": "27063", "link": "/find?type=1&query=domineering", "word": "domineering"}, {"id": "27064", "link": "/find?type=1&query=domineeringly", "word": "domineeringly"}], "data": {}}, "en_en": {"suggests": [{"id": "8538", "link": "/find?type=3&query=domineering", "word": "domineering"}], "data": {}}, "synonyms": {"suggests": [{"id": "1884", "link": "/find?type=4&query=domineering", "word": "domineering"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8538",
+                "link": "/find?type=3&query=domineering",
+                "word": "domineering"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "27062",
+                "link": "/find?type=1&query=domineer",
+                "word": "domineer"
+            },
+            {
+                "id": "27063",
+                "link": "/find?type=1&query=domineering",
+                "word": "domineering"
+            },
+            {
+                "id": "27064",
+                "link": "/find?type=1&query=domineeringly",
+                "word": "domineeringly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1884",
+                "link": "/find?type=4&query=domineering",
+                "word": "domineering"
+            }
+        ]
+    }
+}
