@@ -1,1 +1,35 @@
-{"error": 0, "query": "galosh", "enViData": {"suggests": [{"id": "38849", "link": "/find?type=1&query=galoshed", "word": "galoshed"}, {"id": "38849", "link": "/find?type=1&query=galoshes", "word": "galoshes"}], "best": {"id": "38849", "details": "\n<div id=\"find_word_38849\" class=\"world word_en\" rel=\"galosh\">\n    <h2 class=\"fl\">galosh <span class=\"color-black\">/g\u0259'l\u0254\u0283/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"38849\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"38849\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e0y cao su (\u0111\u1ec3 \u0111i m\u01b0a, \u0111i tuy\u1ebft, th\u01b0\u1eddng \u0111i ra ngo\u00e0i gi\u00e0y kh\u00e1c)</div>\n    \n</div>\n", "link": "/find?type=1&query=galosh", "word": "galosh"}}, "mUrl": "/find?type=1&query=galosh", "enEnData": {"suggests": [{"id": "11761", "link": "/find?type=3&query=galoshes", "word": "galoshes"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "11761",
+                "link": "/find?type=3&query=galoshes",
+                "word": "galoshes"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e0y cao su (\u0111\u1ec3 \u0111i m\u01b0a, \u0111i tuy\u1ebft, th\u01b0\u1eddng \u0111i ra ngo\u00e0i gi\u00e0y kh\u00e1c)</div>",
+            "id": "38849",
+            "mean": [],
+            "pronounce": "/g\u0259'l\u0254\u0283/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "galosh"
+        },
+        "suggests": [
+            {
+                "id": "38849",
+                "link": "/find?type=1&query=galoshed",
+                "word": "galoshed"
+            },
+            {
+                "id": "38849",
+                "link": "/find?type=1&query=galoshes",
+                "word": "galoshes"
+            }
+        ]
+    }
+}
