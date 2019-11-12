@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "28557", "link": "/find?type=1&query=ebonite", "word": "ebonite"}, {"id": "28557", "link": "/find?type=1&query=ebonize", "word": "ebonize"}, {"id": "28557", "link": "/find?type=1&query=ebony", "word": "ebony"}, {"id": "28557", "link": "/find?type=1&query=ebony-tree", "word": "ebony-tree"}], "data": {"word": "ebon", "id": "28557", "pronounce": "/'eb\u0259n/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01a1 ca) (nh\u01b0) ebony</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [{"id": "9167", "link": "/find?type=3&query=ebony", "word": "ebony"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9167",
+                "link": "/find?type=3&query=ebony",
+                "word": "ebony"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01a1 ca) (nh\u01b0) ebony</div>",
+            "id": "28557",
+            "mean": [],
+            "pronounce": "/'eb\u0259n/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "ebon"
+        },
+        "suggests": [
+            {
+                "id": "28557",
+                "link": "/find?type=1&query=ebonite",
+                "word": "ebonite"
+            },
+            {
+                "id": "28557",
+                "link": "/find?type=1&query=ebonize",
+                "word": "ebonize"
+            },
+            {
+                "id": "28557",
+                "link": "/find?type=1&query=ebony",
+                "word": "ebony"
+            },
+            {
+                "id": "28557",
+                "link": "/find?type=1&query=ebony-tree",
+                "word": "ebony-tree"
+            }
+        ]
+    }
+}

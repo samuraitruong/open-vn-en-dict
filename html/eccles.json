@@ -1,1 +1,72 @@
-{"en_vn": {"suggests": [{"id": "28588", "link": "/find?type=1&query=Eccles-Jordan+circuit", "word": "Eccles-Jordan circuit"}, {"id": "28589", "link": "/find?type=1&query=ecclesia", "word": "ecclesia"}, {"id": "28590", "link": "/find?type=1&query=ecclesiast", "word": "ecclesiast"}, {"id": "28591", "link": "/find?type=1&query=ecclesiastic", "word": "ecclesiastic"}, {"id": "28592", "link": "/find?type=1&query=ecclesiastical", "word": "ecclesiastical"}, {"id": "28593", "link": "/find?type=1&query=ecclesiastically", "word": "ecclesiastically"}, {"id": "28594", "link": "/find?type=1&query=ecclesiasticism", "word": "ecclesiasticism"}, {"id": "28595", "link": "/find?type=1&query=ecclesiasticus", "word": "ecclesiasticus"}, {"id": "28596", "link": "/find?type=1&query=ecclesiography", "word": "ecclesiography"}, {"id": "28597", "link": "/find?type=1&query=ecclesiological", "word": "ecclesiological"}], "data": {}}, "en_en": {"suggests": [{"id": "9172", "link": "/find?type=3&query=ecclesiastic", "word": "ecclesiastic"}, {"id": "9173", "link": "/find?type=3&query=ecclesiastical", "word": "ecclesiastical"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "9172",
+                "link": "/find?type=3&query=ecclesiastic",
+                "word": "ecclesiastic"
+            },
+            {
+                "id": "9173",
+                "link": "/find?type=3&query=ecclesiastical",
+                "word": "ecclesiastical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "28588",
+                "link": "/find?type=1&query=Eccles-Jordan+circuit",
+                "word": "Eccles-Jordan circuit"
+            },
+            {
+                "id": "28589",
+                "link": "/find?type=1&query=ecclesia",
+                "word": "ecclesia"
+            },
+            {
+                "id": "28590",
+                "link": "/find?type=1&query=ecclesiast",
+                "word": "ecclesiast"
+            },
+            {
+                "id": "28591",
+                "link": "/find?type=1&query=ecclesiastic",
+                "word": "ecclesiastic"
+            },
+            {
+                "id": "28592",
+                "link": "/find?type=1&query=ecclesiastical",
+                "word": "ecclesiastical"
+            },
+            {
+                "id": "28593",
+                "link": "/find?type=1&query=ecclesiastically",
+                "word": "ecclesiastically"
+            },
+            {
+                "id": "28594",
+                "link": "/find?type=1&query=ecclesiasticism",
+                "word": "ecclesiasticism"
+            },
+            {
+                "id": "28595",
+                "link": "/find?type=1&query=ecclesiasticus",
+                "word": "ecclesiasticus"
+            },
+            {
+                "id": "28596",
+                "link": "/find?type=1&query=ecclesiography",
+                "word": "ecclesiography"
+            },
+            {
+                "id": "28597",
+                "link": "/find?type=1&query=ecclesiological",
+                "word": "ecclesiological"
+            }
+        ]
+    }
+}

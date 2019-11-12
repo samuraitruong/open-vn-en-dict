@@ -1,1 +1,55 @@
-{"en_vn": {"suggests": [{"id": "28591", "link": "/find?type=1&query=ecclesiastical", "word": "ecclesiastical"}, {"id": "28591", "link": "/find?type=1&query=ecclesiastically", "word": "ecclesiastically"}, {"id": "28591", "link": "/find?type=1&query=ecclesiasticism", "word": "ecclesiasticism"}, {"id": "28591", "link": "/find?type=1&query=ecclesiasticus", "word": "ecclesiasticus"}], "data": {"word": "ecclesiastic", "id": "28591", "pronounce": "/i,kli:zi'\u00e6stik/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tu s\u0129 (c\u00f4ng gi\u00e1o)</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/cac159186748b4ef2f9643d27b404ba7/16e5e11523d/E/ecclesiastic.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/504e8922e954ce77de6839f17c5a6e55/16e5e115809/E/ecclesiastic.mp3"}}}, "en_en": {"suggests": [{"id": "9172", "link": "/find?type=3&query=ecclesiastical", "word": "ecclesiastical"}], "data": {"word": "ecclesiastic", "id": "9172", "pronounce": "/\u026a\u02cckli\u02d0zi\u02c8\u00e6st\u026ak/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] formal :a Christian priest or minister</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] formal :a Christian priest or minister</div>",
+            "id": "9172",
+            "mean": [],
+            "pronounce": "/\u026a\u02cckli\u02d0zi\u02c8\u00e6st\u026ak/",
+            "type": "noun",
+            "word": "ecclesiastic"
+        },
+        "suggests": [
+            {
+                "id": "9172",
+                "link": "/find?type=3&query=ecclesiastical",
+                "word": "ecclesiastical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tu s\u0129 (c\u00f4ng gi\u00e1o)</div>",
+            "id": "28591",
+            "mean": [],
+            "pronounce": "/i,kli:zi'\u00e6stik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fdf7757252cc4b4deafd58b10a0f335e/16e5effdfa9/E/ecclesiastic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1d8322f9a7a1c59f3f8f8756583448ed/16e5effc228/E/ecclesiastic.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ecclesiastic"
+        },
+        "suggests": [
+            {
+                "id": "28591",
+                "link": "/find?type=1&query=ecclesiastical",
+                "word": "ecclesiastical"
+            },
+            {
+                "id": "28591",
+                "link": "/find?type=1&query=ecclesiastically",
+                "word": "ecclesiastically"
+            },
+            {
+                "id": "28591",
+                "link": "/find?type=1&query=ecclesiasticism",
+                "word": "ecclesiasticism"
+            },
+            {
+                "id": "28591",
+                "link": "/find?type=1&query=ecclesiasticus",
+                "word": "ecclesiasticus"
+            }
+        ]
+    }
+}
