@@ -1,1 +1,36 @@
-{"en_vn": {"suggests": [{"id": "14245", "link": "/find?type=1&query=cfc", "word": "cfc"}, {"id": "14245", "link": "/find?type=1&query=CFE", "word": "CFE"}], "data": {"word": "cf", "id": "14245", "pronounce": "/,si:'ef/", "type": "", "mean": [], "content": "\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a ti\u1ebfng La tinh confer) so s\u00e1nh, \u0111\u1ed1i chi\u1ebfu</div>\n    \n", "speak": {}}}, "en_en": {"suggests": [], "data": {"word": "CFS", "id": "4499", "pronounce": "", "type": "abbreviation", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">chronic fatigue syndrome</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">chronic fatigue syndrome</div>",
+            "id": "4499",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "CFS"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a ti\u1ebfng La tinh confer) so s\u00e1nh, \u0111\u1ed1i chi\u1ebfu</div>",
+            "id": "14245",
+            "mean": [],
+            "pronounce": "/,si:'ef/",
+            "speak": {},
+            "type": "",
+            "word": "cf"
+        },
+        "suggests": [
+            {
+                "id": "14245",
+                "link": "/find?type=1&query=cfc",
+                "word": "cfc"
+            },
+            {
+                "id": "14245",
+                "link": "/find?type=1&query=CFE",
+                "word": "CFE"
+            }
+        ]
+    }
+}

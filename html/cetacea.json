@@ -1,1 +1,22 @@
-{"en_vn": {"suggests": [{"id": "14237", "link": "/find?type=1&query=cetacean", "word": "cetacean"}], "data": {}}, "en_en": {"suggests": [{"id": "4495", "link": "/find?type=3&query=cetacean", "word": "cetacean"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4495",
+                "link": "/find?type=3&query=cetacean",
+                "word": "cetacean"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14237",
+                "link": "/find?type=1&query=cetacean",
+                "word": "cetacean"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"en_vn": {"suggests": [{"id": "14310", "link": "/find?type=1&query=chaise", "word": "chaise"}, {"id": "14311", "link": "/find?type=1&query=chaise+longue", "word": "chaise longue"}], "data": {}}, "en_en": {"suggests": [{"id": "4526", "link": "/find?type=3&query=chaise+longue", "word": "chaise longue"}], "data": {}}, "synonyms": {"suggests": [{"id": "932", "link": "/find?type=4&query=chain", "word": "chain"}, {"id": "933", "link": "/find?type=4&query=chair", "word": "chair"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4526",
+                "link": "/find?type=3&query=chaise+longue",
+                "word": "chaise longue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14310",
+                "link": "/find?type=1&query=chaise",
+                "word": "chaise"
+            },
+            {
+                "id": "14311",
+                "link": "/find?type=1&query=chaise+longue",
+                "word": "chaise longue"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "932",
+                "link": "/find?type=4&query=chain",
+                "word": "chain"
+            },
+            {
+                "id": "933",
+                "link": "/find?type=4&query=chair",
+                "word": "chair"
+            }
+        ]
+    }
+}
