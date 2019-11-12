@@ -149,10 +149,10 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                     outfile.truncate()
                     json.dump(html, outfile, indent=4, sort_keys=True)
                 logs[url] = 1
-                delta++
+                delta = delta + 1
                 if delta > 1000:
                     delta = 0
-                    print ("Update logs files")
+                    print("Update logs files")
                     with open(fileName, 'w+') as logFile:
                         logFile.seek(0)
                         logFile.truncate()
