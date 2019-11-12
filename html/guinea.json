@@ -1,1 +1,80 @@
-{"error": 0, "query": "guinea", "enViData": {"suggests": [{"id": "41956", "link": "/find?type=1&query=guinea-cock", "word": "guinea-cock"}, {"id": "41956", "link": "/find?type=1&query=guinea-fowl", "word": "guinea-fowl"}, {"id": "41956", "link": "/find?type=1&query=guinea-goose", "word": "guinea-goose"}, {"id": "41956", "link": "/find?type=1&query=guinea-hen", "word": "guinea-hen"}, {"id": "41956", "link": "/find?type=1&query=guinea-pig", "word": "guinea-pig"}, {"id": "41956", "link": "/find?type=1&query=guinea-poult", "word": "guinea-poult"}, {"id": "41956", "link": "/find?type=1&query=guinea-squash", "word": "guinea-squash"}], "best": {"id": "41956", "details": "\n<div id=\"find_word_41956\" class=\"world word_en\" rel=\"guinea\">\n    <h2 class=\"fl\">guinea <span class=\"color-black\">/'gini/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"41956\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"41956\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3ng ghin\u00ea (ti\u1ec1n v\u00e0ng c\u1ee7a n\u01b0\u1edbc Anh, gi\u00e1 tr\u1ecb t\u01b0\u01a1ng \u0111\u01b0\u01a1ng 21 silinh)</div>\n    \n</div>\n", "link": "/find?type=1&query=guinea", "word": "guinea"}}, "mUrl": "/find?type=1&query=guinea", "enEnData": {"suggests": [{"id": "12762", "link": "/find?type=3&query=guinea+fowl", "word": "guinea fowl"}, {"id": "12762", "link": "/find?type=3&query=guinea+hen", "word": "guinea hen"}, {"id": "12762", "link": "/find?type=3&query=guinea+pig", "word": "guinea pig"}], "best": {"id": "12762", "details": "\n<div id=\"find_word_12762\" class=\"world word_en\" rel=\"guinea\">\n    <h2 class=\"fl\">guinea <span class=\"color-black\">/\u02c8g\u026ani/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"12762\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"12762\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -eas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an old British coin worth 21 shillings</div>\n    \n</div>\n", "link": "/find?type=3&query=guinea", "word": "guinea"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -eas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :an old British coin worth 21 shillings</div>",
+            "id": "12762",
+            "mean": [],
+            "pronounce": "/\u02c8g\u026ani/",
+            "type": "noun",
+            "word": "guinea"
+        },
+        "suggests": [
+            {
+                "id": "12762",
+                "link": "/find?type=3&query=guinea+fowl",
+                "word": "guinea fowl"
+            },
+            {
+                "id": "12762",
+                "link": "/find?type=3&query=guinea+hen",
+                "word": "guinea hen"
+            },
+            {
+                "id": "12762",
+                "link": "/find?type=3&query=guinea+pig",
+                "word": "guinea pig"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3ng ghin\u00ea (ti\u1ec1n v\u00e0ng c\u1ee7a n\u01b0\u1edbc Anh, gi\u00e1 tr\u1ecb t\u01b0\u01a1ng \u0111\u01b0\u01a1ng 21 silinh)</div>",
+            "id": "41956",
+            "mean": [],
+            "pronounce": "/'gini/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f17bb9f81fe530dfd2ef42291edff3c4/16e6141e8f8/G/guinea.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/95282c8fe58f115ea4d6a0c5f2194b73/16e6141e0ea/G/guinea.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "guinea"
+        },
+        "suggests": [
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-cock",
+                "word": "guinea-cock"
+            },
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-fowl",
+                "word": "guinea-fowl"
+            },
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-goose",
+                "word": "guinea-goose"
+            },
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-hen",
+                "word": "guinea-hen"
+            },
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-pig",
+                "word": "guinea-pig"
+            },
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-poult",
+                "word": "guinea-poult"
+            },
+            {
+                "id": "41956",
+                "link": "/find?type=1&query=guinea-squash",
+                "word": "guinea-squash"
+            }
+        ]
+    }
+}
