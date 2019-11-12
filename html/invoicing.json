@@ -1,1 +1,28 @@
-{"error": 0, "query": "invoicing", "enViData": {"suggests": [], "best": {"id": "50038", "details": "\n<div id=\"find_word_50038\" class=\"world word_en\" rel=\"invoice\">\n    <h2 class=\"fl\">invoice <span class=\"color-black\">/'inv\u0254is/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50038\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50038\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u1eadp h\u00f3a \u0111\u01a1n</div>\n    \n    <div class=\"green margin25 m-top15\">g\u1eedi h\u00f3a \u0111\u01a1n \u0111\u00f2i ti\u1ec1n</div>\n    \n</div>\n", "link": "/find?type=1&query=invoice", "word": "invoice"}}, "mUrl": "/find?type=1&query=invoicing", "enEnData": {"suggests": [], "best": {"id": "15370", "details": "\n<div id=\"find_word_15370\" class=\"world word_en\" rel=\"invoice\">\n    <h2 class=\"fl\">invoice <span class=\"color-black\">/\u02c8\u026an\u02ccvo\u026as/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15370\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15370\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -voices</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a document that shows a list of goods or services and the prices to be paid for them :bill</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Payment is due within 30 days after receipt of the invoice. - see also pro forma invoice</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-voices; -voiced; -voicing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to send or give (someone) a bill for a purchase or service :to submit an invoice to (someone)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They will invoice you directly.</div>\n    \n</div>\n", "link": "/find?type=3&query=invoice", "word": "invoice"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -voices</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a document that shows a list of goods or services and the prices to be paid for them :bill</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Payment is due within 30 days after receipt of the invoice. - see also pro forma invoice</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-voices; -voiced; -voicing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to send or give (someone) a bill for a purchase or service :to submit an invoice to (someone)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They will invoice you directly.</div>",
+            "id": "15370",
+            "mean": [],
+            "pronounce": "/\u02c8\u026an\u02ccvo\u026as/",
+            "type": "noun verb",
+            "word": "invoice"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u1eadp h\u00f3a \u0111\u01a1n</div>\n    \n    <div class=\"green margin25 m-top15\">g\u1eedi h\u00f3a \u0111\u01a1n \u0111\u00f2i ti\u1ec1n</div>",
+            "id": "50038",
+            "mean": [],
+            "pronounce": "/'inv\u0254is/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6267adf41e3a24ec4275d76b0e0e0cef/16e61d4a5b6/I/invoice.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/69dc70e74e1b4257f864801c065bc87d/16e61d49e2e/I/invoice.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "invoice"
+        },
+        "suggests": []
+    }
+}
