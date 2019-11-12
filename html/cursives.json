@@ -1,1 +1,44 @@
-{"en_vn": {"suggests": [{"id": "21862", "link": "/find?type=1&query=cursive+scanning", "word": "cursive scanning"}, {"id": "21862", "link": "/find?type=1&query=cursively", "word": "cursively"}, {"id": "21862", "link": "/find?type=1&query=cursiveness", "word": "cursiveness"}], "data": {"word": "cursive", "id": "21862", "pronounce": "/'k\u025c:siv/", "type": "T\u00ednh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ki\u1ec3u ch\u1eef vi\u1ebft th\u1ea3o</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/f945a84d002dd37eae46ae3149b0671b/16e5dfd9d99/C/cursive.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/3427c170ecf2cb6bdc5a5fa2dcab832f/16e5dfda373/C/cursive.mp3"}}}, "en_en": {"suggests": [], "data": {"word": "cursive", "id": "7029", "pronounce": "/\u02c8k\u025as\u026av/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a type of handwriting in which all the letters in a word are connected to each other</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He writes in cursive when he takes notes.</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a type of handwriting in which all the letters in a word are connected to each other</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He writes in cursive when he takes notes.</div>",
+            "id": "7029",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025as\u026av/",
+            "type": "noun",
+            "word": "cursive"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ki\u1ec3u ch\u1eef vi\u1ebft th\u1ea3o</div>",
+            "id": "21862",
+            "mean": [],
+            "pronounce": "/'k\u025c:siv/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9021674c481da15313e91d257ca9adbd/16e5ee3b7b2/C/cursive.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f80667d7bef09a294e22568334f3eb37/16e5ee3ae8d/C/cursive.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "cursive"
+        },
+        "suggests": [
+            {
+                "id": "21862",
+                "link": "/find?type=1&query=cursive+scanning",
+                "word": "cursive scanning"
+            },
+            {
+                "id": "21862",
+                "link": "/find?type=1&query=cursively",
+                "word": "cursively"
+            },
+            {
+                "id": "21862",
+                "link": "/find?type=1&query=cursiveness",
+                "word": "cursiveness"
+            }
+        ]
+    }
+}

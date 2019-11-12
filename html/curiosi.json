@@ -1,1 +1,32 @@
-{"en_vn": {"suggests": [{"id": "21768", "link": "/find?type=1&query=curiosity", "word": "curiosity"}], "data": {}}, "en_en": {"suggests": [{"id": "7005", "link": "/find?type=3&query=curiosity", "word": "curiosity"}], "data": {}}, "synonyms": {"suggests": [{"id": "1364", "link": "/find?type=4&query=curiosity", "word": "curiosity"}], "data": {}}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "7005",
+                "link": "/find?type=3&query=curiosity",
+                "word": "curiosity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21768",
+                "link": "/find?type=1&query=curiosity",
+                "word": "curiosity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1364",
+                "link": "/find?type=4&query=curiosity",
+                "word": "curiosity"
+            }
+        ]
+    }
+}

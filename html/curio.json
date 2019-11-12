@@ -1,1 +1,80 @@
-{"en_vn": {"suggests": [{"id": "21766", "link": "/find?type=1&query=curiosa", "word": "curiosa"}, {"id": "21766", "link": "/find?type=1&query=curiosity", "word": "curiosity"}, {"id": "21766", "link": "/find?type=1&query=curious", "word": "curious"}, {"id": "21766", "link": "/find?type=1&query=curiously", "word": "curiously"}, {"id": "21766", "link": "/find?type=1&query=curiousness", "word": "curiousness"}], "data": {"word": "curio", "id": "21766", "pronounce": "/'kj\u028a\u0259ri\u0259/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u curios)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1o v\u1eadt, \u0111\u1ed3 qu\u00fd</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/7771fe680b577a440409f3904d87c050/16e5dfd7457/C/curio.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/8bb88c724c81fed68c24a7a0ec227c06/16e5dfd7b8e/C/curio.mp3"}}}, "en_en": {"suggests": [{"id": "7004", "link": "/find?type=3&query=curiosity", "word": "curiosity"}, {"id": "7004", "link": "/find?type=3&query=curious", "word": "curious"}], "data": {"word": "curio", "id": "7004", "pronounce": "/\u02c8kj\u025ari\u02cco\u028a/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rios</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small and unusual object that is considered interesting or attractive</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She loves to browse the shops in small towns, looking for curios.</div>\n    \n"}}, "synonyms": {"suggests": [{"id": "1364", "link": "/find?type=4&query=curiosity", "word": "curiosity"}, {"id": "1365", "link": "/find?type=4&query=curious", "word": "curious"}], "data": {}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -rios</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small and unusual object that is considered interesting or attractive</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She loves to browse the shops in small towns, looking for curios.</div>",
+            "id": "7004",
+            "mean": [],
+            "pronounce": "/\u02c8kj\u025ari\u02cco\u028a/",
+            "type": "noun",
+            "word": "curio"
+        },
+        "suggests": [
+            {
+                "id": "7004",
+                "link": "/find?type=3&query=curiosity",
+                "word": "curiosity"
+            },
+            {
+                "id": "7004",
+                "link": "/find?type=3&query=curious",
+                "word": "curious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u curios)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1o v\u1eadt, \u0111\u1ed3 qu\u00fd</div>",
+            "id": "21766",
+            "mean": [],
+            "pronounce": "/'kj\u028a\u0259ri\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2e8e706951db3e3383e126d1aa31b9c0/16e5ee37ed2/C/curio.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1036e127c1eca308b3fbbee25692e9dd/16e5ee3761a/C/curio.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "curio"
+        },
+        "suggests": [
+            {
+                "id": "21766",
+                "link": "/find?type=1&query=curiosa",
+                "word": "curiosa"
+            },
+            {
+                "id": "21766",
+                "link": "/find?type=1&query=curiosity",
+                "word": "curiosity"
+            },
+            {
+                "id": "21766",
+                "link": "/find?type=1&query=curious",
+                "word": "curious"
+            },
+            {
+                "id": "21766",
+                "link": "/find?type=1&query=curiously",
+                "word": "curiously"
+            },
+            {
+                "id": "21766",
+                "link": "/find?type=1&query=curiousness",
+                "word": "curiousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "1364",
+                "link": "/find?type=4&query=curiosity",
+                "word": "curiosity"
+            },
+            {
+                "id": "1365",
+                "link": "/find?type=4&query=curious",
+                "word": "curious"
+            }
+        ]
+    }
+}

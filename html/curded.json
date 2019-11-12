@@ -1,1 +1,45 @@
-{"en_vn": {"suggests": [{"id": "21750", "link": "/find?type=1&query=curdle", "word": "curdle"}, {"id": "21750", "link": "/find?type=1&query=curdy", "word": "curdy"}], "data": {"word": "curd", "id": "21750", "pronounce": "/k\u025c:d/", "type": "Danh t\u1eeb", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01b0\u1eddng curds) (s\u1ed1 nhi\u1ec1u) s\u1eefa \u0111\u00f4ng (d\u00f9ng l\u00e0m pho m\u00e1t)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ea5t \u0111\u00f4ng c\u1ee5c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">soya-bean curd</div>\n    \n    <div class=\"margin25\">\u0111\u1eadu ph\u1ee5</div>\n    \n", "speak": {"us": "https://stream-dict-laban.zdn.vn/us/8da804caba398e89c173384688c3345e/16e5dfd6214/C/curd.mp3", "uk": "https://stream-dict-laban.zdn.vn/uk/54e135dd987520857b57f402b57d0e95/16e5dfd67fa/C/curd.mp3"}}}, "en_en": {"suggests": [{"id": "6999", "link": "/find?type=3&query=curdle", "word": "curdle"}], "data": {"word": "curd", "id": "6999", "pronounce": "/\u02c8k\u025ad/", "type": "noun", "mean": [], "content": "\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural curds</div>\n    \n    <div class=\"green margin25 m-top15\">a thick substance that forms when milk becomes sour and that is used to make cheese [plural]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The curds have separated from the whey. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The curd has separated from the whey. - see also bean curd, lemon curd</div>\n    \n"}}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural curds</div>\n    \n    <div class=\"green margin25 m-top15\">a thick substance that forms when milk becomes sour and that is used to make cheese [plural]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The curds have separated from the whey. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The curd has separated from the whey. - see also bean curd, lemon curd</div>",
+            "id": "6999",
+            "mean": [],
+            "pronounce": "/\u02c8k\u025ad/",
+            "type": "noun",
+            "word": "curd"
+        },
+        "suggests": [
+            {
+                "id": "6999",
+                "link": "/find?type=3&query=curdle",
+                "word": "curdle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01b0\u1eddng curds) (s\u1ed1 nhi\u1ec1u) s\u1eefa \u0111\u00f4ng (d\u00f9ng l\u00e0m pho m\u00e1t)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ea5t \u0111\u00f4ng c\u1ee5c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">soya-bean curd</div>\n    \n    <div class=\"margin25\">\u0111\u1eadu ph\u1ee5</div>",
+            "id": "21750",
+            "mean": [],
+            "pronounce": "/k\u025c:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1014b7194962f50bda68654678870ee0/16e5ee36472/C/curd.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/091b24d507cbc61866e3897ffd6b09ee/16e5ee35b40/C/curd.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "curd"
+        },
+        "suggests": [
+            {
+                "id": "21750",
+                "link": "/find?type=1&query=curdle",
+                "word": "curdle"
+            },
+            {
+                "id": "21750",
+                "link": "/find?type=1&query=curdy",
+                "word": "curdy"
+            }
+        ]
+    }
+}
