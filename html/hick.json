@@ -1,1 +1,60 @@
-{"error": 0, "query": "hick", "enViData": {"suggests": [{"id": "43889", "link": "/find?type=1&query=hickey", "word": "hickey"}, {"id": "43889", "link": "/find?type=1&query=hickory", "word": "hickory"}, {"id": "43889", "link": "/find?type=1&query=Hicks+Neutral+Technical+Progress", "word": "Hicks Neutral Technical Progress"}, {"id": "43889", "link": "/find?type=1&query=Hicks-Hansen+diagram", "word": "Hicks-Hansen diagram"}, {"id": "43889", "link": "/find?type=1&query=Hicks.+Sir+John+R", "word": "Hicks. Sir John R"}], "best": {"id": "43889", "details": "\n<div id=\"find_word_43889\" class=\"world word_en\" rel=\"hick\">\n    <h2 class=\"fl\">hick <span class=\"color-black\">/hik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43889\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43889\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(M\u1ef9, kh\u1ea9u ng\u1eef, x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi qu\u00ea m\u00f9a ng\u1ed1c ngh\u1ebfch</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00e0nh ng\u1eef) [c\u00f3 t\u00ednh ch\u1ea5t] t\u1ec9nh l\u1ebb, qu\u00fdch</div>\n    \n</div>\n", "link": "/find?type=1&query=hick", "word": "hick"}}, "mUrl": "/find?type=1&query=hick", "enEnData": {"suggests": [{"id": "13507", "link": "/find?type=3&query=hickory", "word": "hickory"}], "best": {"id": "13507", "details": "\n<div id=\"find_word_13507\" class=\"world word_en\" rel=\"hick\">\n    <h2 class=\"fl\">hick <span class=\"color-black\">/\u02c8h\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13507\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13507\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural hicks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US informal + disapproving :an uneducated person from a small town or the country</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We felt like a bunch of hicks when we went to the city for the first time. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a hick town [=a town where the people are hicks]</div>\n    \n</div>\n", "link": "/find?type=3&query=hick", "word": "hick"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural hicks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US informal + disapproving :an uneducated person from a small town or the country</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We felt like a bunch of hicks when we went to the city for the first time. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a hick town [=a town where the people are hicks]</div>",
+            "id": "13507",
+            "mean": [],
+            "pronounce": "/\u02c8h\u026ak/",
+            "type": "noun",
+            "word": "hick"
+        },
+        "suggests": [
+            {
+                "id": "13507",
+                "link": "/find?type=3&query=hickory",
+                "word": "hickory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(M\u1ef9, kh\u1ea9u ng\u1eef, x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi qu\u00ea m\u00f9a ng\u1ed1c ngh\u1ebfch</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00e0nh ng\u1eef) [c\u00f3 t\u00ednh ch\u1ea5t] t\u1ec9nh l\u1ebb, qu\u00fdch</div>",
+            "id": "43889",
+            "mean": [],
+            "pronounce": "/hik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/654bc4291144701e1938e8518db34719/16e619d0e11/H/hick.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e165886999c96d793de7fb667dab9859/16e619d05a1/H/hick.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "hick"
+        },
+        "suggests": [
+            {
+                "id": "43889",
+                "link": "/find?type=1&query=hickey",
+                "word": "hickey"
+            },
+            {
+                "id": "43889",
+                "link": "/find?type=1&query=hickory",
+                "word": "hickory"
+            },
+            {
+                "id": "43889",
+                "link": "/find?type=1&query=Hicks+Neutral+Technical+Progress",
+                "word": "Hicks Neutral Technical Progress"
+            },
+            {
+                "id": "43889",
+                "link": "/find?type=1&query=Hicks-Hansen+diagram",
+                "word": "Hicks-Hansen diagram"
+            },
+            {
+                "id": "43889",
+                "link": "/find?type=1&query=Hicks.+Sir+John+R",
+                "word": "Hicks. Sir John R"
+            }
+        ]
+    }
+}
