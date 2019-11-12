@@ -1,1 +1,30 @@
-{"error": 0, "query": "hg", "enViData": {"suggests": [{"id": "43871", "link": "/find?type=1&query=HGV", "word": "HGV"}], "best": {"id": "43871", "details": "\n<div id=\"find_word_43871\" class=\"world word_en\" rel=\"HG\">\n    <h2 class=\"fl\">HG <span class=\"color-black\">/eit\u222bd\u0292i:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"43871\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"43871\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Her (His) Grace)</div>\n    \n    <div class=\"green margin25 m-top15\">phu nh\u00e2n, ng\u00e0i</div>\n    \n</div>\n", "link": "/find?type=1&query=HG", "word": "HG"}}, "mUrl": "/find?type=1&query=hg", "enEnData": {"suggests": [{"id": "13499", "link": "/find?type=3&query=HGV", "word": "HGV"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13499",
+                "link": "/find?type=3&query=HGV",
+                "word": "HGV"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a Her (His) Grace)</div>\n    \n    <div class=\"green margin25 m-top15\">phu nh\u00e2n, ng\u00e0i</div>",
+            "id": "43871",
+            "mean": [],
+            "pronounce": "/eit\u222bd\u0292i:/",
+            "speak": {},
+            "type": "",
+            "word": "HG"
+        },
+        "suggests": [
+            {
+                "id": "43871",
+                "link": "/find?type=1&query=HGV",
+                "word": "HGV"
+            }
+        ]
+    }
+}
