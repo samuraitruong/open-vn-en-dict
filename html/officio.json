@@ -1,1 +1,42 @@
-{"error": 0, "query": "officio", "enViData": {"suggests": [{"id": "62012", "link": "/find?type=1&query=officious", "word": "officious"}, {"id": "62013", "link": "/find?type=1&query=officiously", "word": "officiously"}, {"id": "62014", "link": "/find?type=1&query=officiousness", "word": "officiousness"}]}, "mUrl": "/find?type=1&query=officio", "enEnData": {"suggests": [{"id": "19907", "link": "/find?type=3&query=officious", "word": "officious"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5022", "link": "/find?type=4&query=officious", "word": "officious"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19907",
+                "link": "/find?type=3&query=officious",
+                "word": "officious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62012",
+                "link": "/find?type=1&query=officious",
+                "word": "officious"
+            },
+            {
+                "id": "62013",
+                "link": "/find?type=1&query=officiously",
+                "word": "officiously"
+            },
+            {
+                "id": "62014",
+                "link": "/find?type=1&query=officiousness",
+                "word": "officiousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5022",
+                "link": "/find?type=4&query=officious",
+                "word": "officious"
+            }
+        ]
+    }
+}

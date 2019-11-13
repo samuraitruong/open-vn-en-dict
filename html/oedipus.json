@@ -1,1 +1,30 @@
-{"error": 0, "query": "oedipus", "enViData": {"suggests": [{"id": "61890", "link": "/find?type=1&query=Oedipus+complex", "word": "Oedipus complex"}], "best": {"id": "61890", "details": "\n<div id=\"find_word_61890\" class=\"world word_en\" rel=\"oedipus\">\n    <h2 class=\"fl\">oedipus <span class=\"color-black\">/'i:dip\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61890\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61890\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi gi\u1ea3i \u0111\u00e1p c\u00e2u \u0111\u1ed1</div>\n    \n</div>\n", "link": "/find?type=1&query=oedipus", "word": "oedipus"}}, "mUrl": "/find?type=1&query=oedipus", "enEnData": {"suggests": [{"id": "19870", "link": "/find?type=3&query=Oedipus+complex", "word": "Oedipus complex"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19870",
+                "link": "/find?type=3&query=Oedipus+complex",
+                "word": "Oedipus complex"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi gi\u1ea3i \u0111\u00e1p c\u00e2u \u0111\u1ed1</div>",
+            "id": "61890",
+            "mean": [],
+            "pronounce": "/'i:dip\u0259s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "oedipus"
+        },
+        "suggests": [
+            {
+                "id": "61890",
+                "link": "/find?type=1&query=Oedipus+complex",
+                "word": "Oedipus complex"
+            }
+        ]
+    }
+}

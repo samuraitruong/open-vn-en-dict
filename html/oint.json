@@ -1,1 +1,32 @@
-{"error": 0, "query": "oint", "enViData": {"suggests": [{"id": "62120", "link": "/find?type=1&query=ointment", "word": "ointment"}]}, "mUrl": "/find?type=1&query=oint", "enEnData": {"suggests": [{"id": "19964", "link": "/find?type=3&query=ointment", "word": "ointment"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5031", "link": "/find?type=4&query=ointment", "word": "ointment"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19964",
+                "link": "/find?type=3&query=ointment",
+                "word": "ointment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62120",
+                "link": "/find?type=1&query=ointment",
+                "word": "ointment"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5031",
+                "link": "/find?type=4&query=ointment",
+                "word": "ointment"
+            }
+        ]
+    }
+}

@@ -1,1 +1,38 @@
-{"error": 0, "query": "oestrogen", "enViData": {"suggests": [{"id": "61912", "link": "/find?type=1&query=oestrogenic", "word": "oestrogenic"}, {"id": "61912", "link": "/find?type=1&query=oestrogenically", "word": "oestrogenically"}], "best": {"id": "61912", "details": "\n<div id=\"find_word_61912\" class=\"world word_en\" rel=\"oestrogen\">\n    <h2 class=\"fl\">oestrogen <span class=\"color-black\">/'i:str\u0259d\u0292\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61912\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61912\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">extrogen, h\u00f3c m\u00f4n g\u00e2y \u0111\u1ed9ng d\u1ee5c</div>\n    \n</div>\n", "link": "/find?type=1&query=oestrogen", "word": "oestrogen"}}, "mUrl": "/find?type=1&query=oestrogen", "enEnData": {"suggests": [], "best": {"id": "19873", "details": "\n<div id=\"find_word_19873\" class=\"world word_en\" rel=\"oestrogen\">\n    <h2 class=\"fl\">oestrogen <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19873\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19873\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">Brit spelling of estrogen</div>\n    \n</div>\n", "link": "/find?type=3&query=oestrogen", "word": "oestrogen"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">Brit spelling of estrogen</div>",
+            "id": "19873",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "oestrogen"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">extrogen, h\u00f3c m\u00f4n g\u00e2y \u0111\u1ed9ng d\u1ee5c</div>",
+            "id": "61912",
+            "mean": [],
+            "pronounce": "/'i:str\u0259d\u0292\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bc7c414b961bfb3242b95ea75753dffa/16e62b229cd/O/oestrogen.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "oestrogen"
+        },
+        "suggests": [
+            {
+                "id": "61912",
+                "link": "/find?type=1&query=oestrogenic",
+                "word": "oestrogenic"
+            },
+            {
+                "id": "61912",
+                "link": "/find?type=1&query=oestrogenically",
+                "word": "oestrogenically"
+            }
+        ]
+    }
+}
