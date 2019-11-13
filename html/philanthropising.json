@@ -1,1 +1,37 @@
-{"error": 0, "query": "philanthropising", "enViData": {"suggests": [{"id": "67324", "link": "/find?type=1&query=philanthropism", "word": "philanthropism"}, {"id": "67325", "link": "/find?type=1&query=philanthropist", "word": "philanthropist"}]}, "mUrl": "/find?type=1&query=philanthropising", "enEnData": {"suggests": [{"id": "21599", "link": "/find?type=3&query=philanthropist", "word": "philanthropist"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5497", "link": "/find?type=4&query=philanthropist", "word": "philanthropist"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21599",
+                "link": "/find?type=3&query=philanthropist",
+                "word": "philanthropist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67324",
+                "link": "/find?type=1&query=philanthropism",
+                "word": "philanthropism"
+            },
+            {
+                "id": "67325",
+                "link": "/find?type=1&query=philanthropist",
+                "word": "philanthropist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5497",
+                "link": "/find?type=4&query=philanthropist",
+                "word": "philanthropist"
+            }
+        ]
+    }
+}

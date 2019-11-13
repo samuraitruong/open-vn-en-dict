@@ -1,1 +1,50 @@
-{"error": 0, "query": "philosophic", "enViData": {"suggests": [{"id": "67367", "link": "/find?type=1&query=philosophical", "word": "philosophical"}, {"id": "67367", "link": "/find?type=1&query=philosophical%2C+philosophic", "word": "philosophical, philosophic"}, {"id": "67367", "link": "/find?type=1&query=philosophically", "word": "philosophically"}], "best": {"id": "67367", "details": "\n<div id=\"find_word_67367\" class=\"world word_en\" rel=\"philosophic\">\n    <h2 class=\"fl\">philosophic <span class=\"color-black\">/fil\u0259's\u0254fik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67367\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67367\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) tri\u1ebft h\u1ecdc; theo tri\u1ebft h\u1ecdc; h\u1ee3p v\u1edbi tri\u1ebft h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ecfi tri\u1ebft h\u1ecdc; d\u00e0nh cho vi\u1ec7c nghi\u00ean c\u1ee9u tri\u1ebft h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00ecnh th\u1ea3nh, kh\u00f4n ngoan, th\u00f4ng th\u00e1i</div>\n    \n</div>\n", "link": "/find?type=1&query=philosophic", "word": "philosophic"}}, "mUrl": "/find?type=1&query=philosophic", "enEnData": {"suggests": [{"id": "21613", "link": "/find?type=3&query=philosophical", "word": "philosophical"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5500", "link": "/find?type=4&query=philosophical", "word": "philosophical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21613",
+                "link": "/find?type=3&query=philosophical",
+                "word": "philosophical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) tri\u1ebft h\u1ecdc; theo tri\u1ebft h\u1ecdc; h\u1ee3p v\u1edbi tri\u1ebft h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1ecfi tri\u1ebft h\u1ecdc; d\u00e0nh cho vi\u1ec7c nghi\u00ean c\u1ee9u tri\u1ebft h\u1ecdc</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00ecnh th\u1ea3nh, kh\u00f4n ngoan, th\u00f4ng th\u00e1i</div>",
+            "id": "67367",
+            "mean": [],
+            "pronounce": "/fil\u0259's\u0254fik/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "philosophic"
+        },
+        "suggests": [
+            {
+                "id": "67367",
+                "link": "/find?type=1&query=philosophical",
+                "word": "philosophical"
+            },
+            {
+                "id": "67367",
+                "link": "/find?type=1&query=philosophical%2C+philosophic",
+                "word": "philosophical, philosophic"
+            },
+            {
+                "id": "67367",
+                "link": "/find?type=1&query=philosophically",
+                "word": "philosophically"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5500",
+                "link": "/find?type=4&query=philosophical",
+                "word": "philosophical"
+            }
+        ]
+    }
+}

@@ -1,1 +1,104 @@
-{"error": 0, "query": "phenoms", "enViData": {"suggests": [{"id": "67293", "link": "/find?type=1&query=phenomena", "word": "phenomena"}, {"id": "67294", "link": "/find?type=1&query=phenomenal", "word": "phenomenal"}, {"id": "67295", "link": "/find?type=1&query=phenomenalism", "word": "phenomenalism"}, {"id": "67296", "link": "/find?type=1&query=phenomenalist", "word": "phenomenalist"}, {"id": "67297", "link": "/find?type=1&query=phenomenalistic", "word": "phenomenalistic"}, {"id": "67298", "link": "/find?type=1&query=phenomenalistically", "word": "phenomenalistically"}, {"id": "67299", "link": "/find?type=1&query=phenomenalize", "word": "phenomenalize"}, {"id": "67300", "link": "/find?type=1&query=phenomenally", "word": "phenomenally"}, {"id": "67301", "link": "/find?type=1&query=phenomenism", "word": "phenomenism"}, {"id": "67302", "link": "/find?type=1&query=phenomenist", "word": "phenomenist"}]}, "mUrl": "/find?type=1&query=phenoms", "enEnData": {"suggests": [{"id": "21589", "link": "/find?type=3&query=phenomena", "word": "phenomena"}, {"id": "21589", "link": "/find?type=3&query=phenomenal", "word": "phenomenal"}, {"id": "21589", "link": "/find?type=3&query=phenomenally", "word": "phenomenally"}, {"id": "21589", "link": "/find?type=3&query=phenomenon", "word": "phenomenon"}], "best": {"id": "21589", "details": "\n<div id=\"find_word_21589\" class=\"world word_en\" rel=\"phenom\">\n    <h2 class=\"fl\">phenom <span class=\"color-black\">/\u02c8fi\u02d0\u02ccn\u0251\u02d0m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21589\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21589\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -noms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US informal :a person who is very good at doing something (such as a sport)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a football/baseball phenom [=(more formally) phenomenon]</div>\n    \n</div>\n", "link": "/find?type=3&query=phenom", "word": "phenom"}}, "ftype": "1", "synData": {"suggests": [{"id": "5493", "link": "/find?type=4&query=phenomenal", "word": "phenomenal"}, {"id": "5494", "link": "/find?type=4&query=phenomenon", "word": "phenomenon"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -noms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US informal :a person who is very good at doing something (such as a sport)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a football/baseball phenom [=(more formally) phenomenon]</div>",
+            "id": "21589",
+            "mean": [],
+            "pronounce": "/\u02c8fi\u02d0\u02ccn\u0251\u02d0m/",
+            "type": "noun",
+            "word": "phenom"
+        },
+        "suggests": [
+            {
+                "id": "21589",
+                "link": "/find?type=3&query=phenomena",
+                "word": "phenomena"
+            },
+            {
+                "id": "21589",
+                "link": "/find?type=3&query=phenomenal",
+                "word": "phenomenal"
+            },
+            {
+                "id": "21589",
+                "link": "/find?type=3&query=phenomenally",
+                "word": "phenomenally"
+            },
+            {
+                "id": "21589",
+                "link": "/find?type=3&query=phenomenon",
+                "word": "phenomenon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67293",
+                "link": "/find?type=1&query=phenomena",
+                "word": "phenomena"
+            },
+            {
+                "id": "67294",
+                "link": "/find?type=1&query=phenomenal",
+                "word": "phenomenal"
+            },
+            {
+                "id": "67295",
+                "link": "/find?type=1&query=phenomenalism",
+                "word": "phenomenalism"
+            },
+            {
+                "id": "67296",
+                "link": "/find?type=1&query=phenomenalist",
+                "word": "phenomenalist"
+            },
+            {
+                "id": "67297",
+                "link": "/find?type=1&query=phenomenalistic",
+                "word": "phenomenalistic"
+            },
+            {
+                "id": "67298",
+                "link": "/find?type=1&query=phenomenalistically",
+                "word": "phenomenalistically"
+            },
+            {
+                "id": "67299",
+                "link": "/find?type=1&query=phenomenalize",
+                "word": "phenomenalize"
+            },
+            {
+                "id": "67300",
+                "link": "/find?type=1&query=phenomenally",
+                "word": "phenomenally"
+            },
+            {
+                "id": "67301",
+                "link": "/find?type=1&query=phenomenism",
+                "word": "phenomenism"
+            },
+            {
+                "id": "67302",
+                "link": "/find?type=1&query=phenomenist",
+                "word": "phenomenist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5493",
+                "link": "/find?type=4&query=phenomenal",
+                "word": "phenomenal"
+            },
+            {
+                "id": "5494",
+                "link": "/find?type=4&query=phenomenon",
+                "word": "phenomenon"
+            }
+        ]
+    }
+}

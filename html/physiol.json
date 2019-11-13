@@ -1,1 +1,42 @@
-{"error": 0, "query": "physiol", "enViData": {"suggests": [{"id": "67784", "link": "/find?type=1&query=physiologic", "word": "physiologic"}, {"id": "67785", "link": "/find?type=1&query=physiological", "word": "physiological"}, {"id": "67786", "link": "/find?type=1&query=physiologically", "word": "physiologically"}, {"id": "67787", "link": "/find?type=1&query=physiologist", "word": "physiologist"}, {"id": "67788", "link": "/find?type=1&query=physiology", "word": "physiology"}]}, "mUrl": "/find?type=1&query=physiol", "enEnData": {"suggests": [{"id": "21699", "link": "/find?type=3&query=physiology", "word": "physiology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21699",
+                "link": "/find?type=3&query=physiology",
+                "word": "physiology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67784",
+                "link": "/find?type=1&query=physiologic",
+                "word": "physiologic"
+            },
+            {
+                "id": "67785",
+                "link": "/find?type=1&query=physiological",
+                "word": "physiological"
+            },
+            {
+                "id": "67786",
+                "link": "/find?type=1&query=physiologically",
+                "word": "physiologically"
+            },
+            {
+                "id": "67787",
+                "link": "/find?type=1&query=physiologist",
+                "word": "physiologist"
+            },
+            {
+                "id": "67788",
+                "link": "/find?type=1&query=physiology",
+                "word": "physiology"
+            }
+        ]
+    }
+}

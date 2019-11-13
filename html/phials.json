@@ -1,1 +1,43 @@
-{"error": 0, "query": "phials", "enViData": {"suggests": [{"id": "67313", "link": "/find?type=1&query=phialaeform", "word": "phialaeform"}, {"id": "67313", "link": "/find?type=1&query=phialiform", "word": "phialiform"}, {"id": "67313", "link": "/find?type=1&query=phialophore", "word": "phialophore"}], "best": {"id": "67313", "details": "\n<div id=\"find_word_67313\" class=\"world word_en\" rel=\"phial\">\n    <h2 class=\"fl\">phial <span class=\"color-black\">/'fai\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67313\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67313\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c vial)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u1ecd th\u1ee7y tinh (\u0111\u1ef1ng thu\u1ed1c n\u01b0\u1edbc, n\u01b0\u1edbc hoa\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=phial", "word": "phial"}}, "mUrl": "/find?type=1&query=phials", "enEnData": {"suggests": [], "best": {"id": "21597", "details": "\n<div id=\"find_word_21597\" class=\"world word_en\" rel=\"phial\">\n    <h2 class=\"fl\">phial <span class=\"color-black\">/\u02c8faj\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21597\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21597\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -als</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit :vial</div>\n    \n</div>\n", "link": "/find?type=3&query=phial", "word": "phial"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -als</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Brit :vial</div>",
+            "id": "21597",
+            "mean": [],
+            "pronounce": "/\u02c8faj\u0259l/",
+            "type": "noun",
+            "word": "phial"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c vial)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u1ecd th\u1ee7y tinh (\u0111\u1ef1ng thu\u1ed1c n\u01b0\u1edbc, n\u01b0\u1edbc hoa\u2026)</div>",
+            "id": "67313",
+            "mean": [],
+            "pronounce": "/'fai\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a5981a68d460bee67bd29667cdd13d9b/16e62c54723/P/phial.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "phial"
+        },
+        "suggests": [
+            {
+                "id": "67313",
+                "link": "/find?type=1&query=phialaeform",
+                "word": "phialaeform"
+            },
+            {
+                "id": "67313",
+                "link": "/find?type=1&query=phialiform",
+                "word": "phialiform"
+            },
+            {
+                "id": "67313",
+                "link": "/find?type=1&query=phialophore",
+                "word": "phialophore"
+            }
+        ]
+    }
+}

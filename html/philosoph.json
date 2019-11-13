@@ -1,1 +1,102 @@
-{"error": 0, "query": "philosoph", "enViData": {"suggests": [{"id": "67364", "link": "/find?type=1&query=philosopher", "word": "philosopher"}, {"id": "67365", "link": "/find?type=1&query=philosopher%27s+stone", "word": "philosopher's stone"}, {"id": "67366", "link": "/find?type=1&query=philosophers%27stone", "word": "philosophers'stone"}, {"id": "67367", "link": "/find?type=1&query=philosophic", "word": "philosophic"}, {"id": "67368", "link": "/find?type=1&query=philosophical", "word": "philosophical"}, {"id": "67369", "link": "/find?type=1&query=philosophical%2C+philosophic", "word": "philosophical, philosophic"}, {"id": "67370", "link": "/find?type=1&query=philosophically", "word": "philosophically"}, {"id": "67371", "link": "/find?type=1&query=philosophise", "word": "philosophise"}, {"id": "67372", "link": "/find?type=1&query=philosophism", "word": "philosophism"}, {"id": "67373", "link": "/find?type=1&query=philosophist", "word": "philosophist"}]}, "mUrl": "/find?type=1&query=philosoph", "enEnData": {"suggests": [{"id": "21611", "link": "/find?type=3&query=philosopher", "word": "philosopher"}, {"id": "21612", "link": "/find?type=3&query=philosopher%27s+stone", "word": "philosopher's stone"}, {"id": "21613", "link": "/find?type=3&query=philosophical", "word": "philosophical"}, {"id": "21614", "link": "/find?type=3&query=philosophize", "word": "philosophize"}, {"id": "21615", "link": "/find?type=3&query=philosophy", "word": "philosophy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5500", "link": "/find?type=4&query=philosophical", "word": "philosophical"}, {"id": "5501", "link": "/find?type=4&query=philosophy", "word": "philosophy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21611",
+                "link": "/find?type=3&query=philosopher",
+                "word": "philosopher"
+            },
+            {
+                "id": "21612",
+                "link": "/find?type=3&query=philosopher%27s+stone",
+                "word": "philosopher's stone"
+            },
+            {
+                "id": "21613",
+                "link": "/find?type=3&query=philosophical",
+                "word": "philosophical"
+            },
+            {
+                "id": "21614",
+                "link": "/find?type=3&query=philosophize",
+                "word": "philosophize"
+            },
+            {
+                "id": "21615",
+                "link": "/find?type=3&query=philosophy",
+                "word": "philosophy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67364",
+                "link": "/find?type=1&query=philosopher",
+                "word": "philosopher"
+            },
+            {
+                "id": "67365",
+                "link": "/find?type=1&query=philosopher%27s+stone",
+                "word": "philosopher's stone"
+            },
+            {
+                "id": "67366",
+                "link": "/find?type=1&query=philosophers%27stone",
+                "word": "philosophers'stone"
+            },
+            {
+                "id": "67367",
+                "link": "/find?type=1&query=philosophic",
+                "word": "philosophic"
+            },
+            {
+                "id": "67368",
+                "link": "/find?type=1&query=philosophical",
+                "word": "philosophical"
+            },
+            {
+                "id": "67369",
+                "link": "/find?type=1&query=philosophical%2C+philosophic",
+                "word": "philosophical, philosophic"
+            },
+            {
+                "id": "67370",
+                "link": "/find?type=1&query=philosophically",
+                "word": "philosophically"
+            },
+            {
+                "id": "67371",
+                "link": "/find?type=1&query=philosophise",
+                "word": "philosophise"
+            },
+            {
+                "id": "67372",
+                "link": "/find?type=1&query=philosophism",
+                "word": "philosophism"
+            },
+            {
+                "id": "67373",
+                "link": "/find?type=1&query=philosophist",
+                "word": "philosophist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5500",
+                "link": "/find?type=4&query=philosophical",
+                "word": "philosophical"
+            },
+            {
+                "id": "5501",
+                "link": "/find?type=4&query=philosophy",
+                "word": "philosophy"
+            }
+        ]
+    }
+}

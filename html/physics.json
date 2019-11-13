@@ -1,1 +1,43 @@
-{"error": 0, "query": "physics", "enViData": {"suggests": [], "best": {"id": "67769", "details": "\n<div id=\"find_word_67769\" class=\"world word_en\" rel=\"physics\">\n    <h2 class=\"fl\">physics <span class=\"color-black\">/'fiziks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67769\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67769\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng t\u1eeb s\u1ed1 \u00edt)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt l\u00fd [h\u1ecdc]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">nuclear physics</div>\n    \n    <div class=\"margin25\">v\u1eady l\u00fd h\u1ea1t nh\u00e2n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a physics textbook</div>\n    \n    <div class=\"margin25\">s\u00e1ch gi\u00e1o khoa v\u1eadt l\u00fd</div>\n    \n</div>\n", "link": "/find?type=1&query=physics", "word": "physics"}}, "mUrl": "/find?type=1&query=physics", "enEnData": {"suggests": [], "best": {"id": "21695", "details": "\n<div id=\"find_word_21695\" class=\"world word_en\" rel=\"physics\">\n    <h2 class=\"fl\">physics <span class=\"color-black\">/\u02c8f\u026az\u026aks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21695\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21695\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a science that deals with matter and energy and the way they act on each other in heat, light, electricity, and sound</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">high-energy/nuclear/modern/particle physics</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laws of physics - see also astrophysics, geophysics</div>\n    \n</div>\n", "link": "/find?type=3&query=physics", "word": "physics"}}, "ftype": "1", "synData": {"suggests": [{"id": "5509", "link": "/find?type=4&query=physical", "word": "physical"}, {"id": "5510", "link": "/find?type=4&query=physician", "word": "physician"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a science that deals with matter and energy and the way they act on each other in heat, light, electricity, and sound</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">high-energy/nuclear/modern/particle physics</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laws of physics - see also astrophysics, geophysics</div>",
+            "id": "21695",
+            "mean": [],
+            "pronounce": "/\u02c8f\u026az\u026aks/",
+            "type": "noun",
+            "word": "physics"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng t\u1eeb s\u1ed1 \u00edt)</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt l\u00fd [h\u1ecdc]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">nuclear physics</div>\n    \n    <div class=\"margin25\">v\u1eady l\u00fd h\u1ea1t nh\u00e2n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a physics textbook</div>\n    \n    <div class=\"margin25\">s\u00e1ch gi\u00e1o khoa v\u1eadt l\u00fd</div>",
+            "id": "67769",
+            "mean": [],
+            "pronounce": "/'fiziks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/41e1c6a14687f7514403d2d2ae802c66/16e62c5c83e/P/physics.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a99b0a7210eed726efa62559110c899f/16e62c5c283/P/physics.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "physics"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5509",
+                "link": "/find?type=4&query=physical",
+                "word": "physical"
+            },
+            {
+                "id": "5510",
+                "link": "/find?type=4&query=physician",
+                "word": "physician"
+            }
+        ]
+    }
+}
