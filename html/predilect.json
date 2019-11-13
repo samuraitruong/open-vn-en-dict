@@ -1,1 +1,22 @@
-{"error": 0, "query": "predilect", "enViData": {"suggests": [{"id": "70642", "link": "/find?type=1&query=predilection", "word": "predilection"}]}, "mUrl": "/find?type=1&query=predilect", "enEnData": {"suggests": [{"id": "22692", "link": "/find?type=3&query=predilection", "word": "predilection"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22692",
+                "link": "/find?type=3&query=predilection",
+                "word": "predilection"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70642",
+                "link": "/find?type=1&query=predilection",
+                "word": "predilection"
+            }
+        ]
+    }
+}

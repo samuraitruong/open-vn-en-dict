@@ -1,1 +1,47 @@
-{"error": 0, "query": "precured", "enViData": {"suggests": [{"id": "70574", "link": "/find?type=1&query=precuring", "word": "precuring"}, {"id": "70575", "link": "/find?type=1&query=precursive", "word": "precursive"}, {"id": "70576", "link": "/find?type=1&query=precursor", "word": "precursor"}, {"id": "70577", "link": "/find?type=1&query=precursory", "word": "precursory"}]}, "mUrl": "/find?type=1&query=precured", "enEnData": {"suggests": [{"id": "22673", "link": "/find?type=3&query=precursor", "word": "precursor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5758", "link": "/find?type=4&query=precursor", "word": "precursor"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22673",
+                "link": "/find?type=3&query=precursor",
+                "word": "precursor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70574",
+                "link": "/find?type=1&query=precuring",
+                "word": "precuring"
+            },
+            {
+                "id": "70575",
+                "link": "/find?type=1&query=precursive",
+                "word": "precursive"
+            },
+            {
+                "id": "70576",
+                "link": "/find?type=1&query=precursor",
+                "word": "precursor"
+            },
+            {
+                "id": "70577",
+                "link": "/find?type=1&query=precursory",
+                "word": "precursory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5758",
+                "link": "/find?type=4&query=precursor",
+                "word": "precursor"
+            }
+        ]
+    }
+}

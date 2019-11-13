@@ -1,1 +1,39 @@
-{"error": 0, "query": "predictive", "enViData": {"suggests": [{"id": "70635", "link": "/find?type=1&query=predictively", "word": "predictively"}, {"id": "70635", "link": "/find?type=1&query=predictiveness", "word": "predictiveness"}], "best": {"id": "70635", "details": "\n<div id=\"find_word_70635\" class=\"world word_en\" rel=\"predictive\">\n    <h2 class=\"fl\">predictive <span class=\"color-black\">/pri'diktiv/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70635\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70635\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i tr\u01b0\u1edbc; \u0111o\u00e1n tr\u01b0\u1edbc, d\u1ef1 \u0111o\u00e1n</div>\n    \n</div>\n", "link": "/find?type=1&query=predictive", "word": "predictive"}}, "mUrl": "/find?type=1&query=predictive", "enEnData": {"suggests": [], "best": {"id": "22690", "details": "\n<div id=\"find_word_22690\" class=\"world word_en\" rel=\"predictive\">\n    <h2 class=\"fl\">predictive <span class=\"color-black\">/pr\u026a\u02c8d\u026akt\u026av/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22690\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22690\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :making it possible to predict what will happen :useful in the prediction of something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The test does not have much predictive value.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">High blood pressure is predictive of future heart problems.</div>\n    \n</div>\n", "link": "/find?type=3&query=predictive", "word": "predictive"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal :making it possible to predict what will happen :useful in the prediction of something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The test does not have much predictive value.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">High blood pressure is predictive of future heart problems.</div>",
+            "id": "22690",
+            "mean": [],
+            "pronounce": "/pr\u026a\u02c8d\u026akt\u026av/",
+            "type": "adjective",
+            "word": "predictive"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i tr\u01b0\u1edbc; \u0111o\u00e1n tr\u01b0\u1edbc, d\u1ef1 \u0111o\u00e1n</div>",
+            "id": "70635",
+            "mean": [],
+            "pronounce": "/pri'diktiv/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/565d953025e509fabe68204b0ad6375a/16e62d13c7e/P/predictive.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0e9d35993a11be3177038d5e9871fa2b/16e62d1368e/P/predictive.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "predictive"
+        },
+        "suggests": [
+            {
+                "id": "70635",
+                "link": "/find?type=1&query=predictively",
+                "word": "predictively"
+            },
+            {
+                "id": "70635",
+                "link": "/find?type=1&query=predictiveness",
+                "word": "predictiveness"
+            }
+        ]
+    }
+}

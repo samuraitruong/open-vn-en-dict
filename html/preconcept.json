@@ -1,1 +1,32 @@
-{"error": 0, "query": "preconcept", "enViData": {"suggests": [{"id": "70548", "link": "/find?type=1&query=preconception", "word": "preconception"}]}, "mUrl": "/find?type=1&query=preconcept", "enEnData": {"suggests": [{"id": "22670", "link": "/find?type=3&query=preconception", "word": "preconception"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5756", "link": "/find?type=4&query=preconception", "word": "preconception"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22670",
+                "link": "/find?type=3&query=preconception",
+                "word": "preconception"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70548",
+                "link": "/find?type=1&query=preconception",
+                "word": "preconception"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5756",
+                "link": "/find?type=4&query=preconception",
+                "word": "preconception"
+            }
+        ]
+    }
+}

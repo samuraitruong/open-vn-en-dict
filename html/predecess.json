@@ -1,1 +1,32 @@
-{"error": 0, "query": "predecess", "enViData": {"suggests": [{"id": "70594", "link": "/find?type=1&query=predecessor", "word": "predecessor"}]}, "mUrl": "/find?type=1&query=predecess", "enEnData": {"suggests": [{"id": "22679", "link": "/find?type=3&query=predecessor", "word": "predecessor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5760", "link": "/find?type=4&query=predecessor", "word": "predecessor"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22679",
+                "link": "/find?type=3&query=predecessor",
+                "word": "predecessor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70594",
+                "link": "/find?type=1&query=predecessor",
+                "word": "predecessor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5760",
+                "link": "/find?type=4&query=predecessor",
+                "word": "predecessor"
+            }
+        ]
+    }
+}
