@@ -1,1 +1,62 @@
-{"error": 0, "query": "protei", "enViData": {"suggests": [{"id": "72272", "link": "/find?type=1&query=proteid", "word": "proteid"}, {"id": "72273", "link": "/find?type=1&query=proteiform", "word": "proteiform"}, {"id": "72274", "link": "/find?type=1&query=protein", "word": "protein"}, {"id": "72275", "link": "/find?type=1&query=protein-free", "word": "protein-free"}, {"id": "72276", "link": "/find?type=1&query=protein-rich", "word": "protein-rich"}, {"id": "72277", "link": "/find?type=1&query=proteinaceous", "word": "proteinaceous"}, {"id": "72278", "link": "/find?type=1&query=proteinic", "word": "proteinic"}, {"id": "72279", "link": "/find?type=1&query=proteinous", "word": "proteinous"}, {"id": "72280", "link": "/find?type=1&query=proteinuria", "word": "proteinuria"}]}, "mUrl": "/find?type=1&query=protei", "enEnData": {"suggests": [{"id": "23204", "link": "/find?type=3&query=protein", "word": "protein"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23204",
+                "link": "/find?type=3&query=protein",
+                "word": "protein"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72272",
+                "link": "/find?type=1&query=proteid",
+                "word": "proteid"
+            },
+            {
+                "id": "72273",
+                "link": "/find?type=1&query=proteiform",
+                "word": "proteiform"
+            },
+            {
+                "id": "72274",
+                "link": "/find?type=1&query=protein",
+                "word": "protein"
+            },
+            {
+                "id": "72275",
+                "link": "/find?type=1&query=protein-free",
+                "word": "protein-free"
+            },
+            {
+                "id": "72276",
+                "link": "/find?type=1&query=protein-rich",
+                "word": "protein-rich"
+            },
+            {
+                "id": "72277",
+                "link": "/find?type=1&query=proteinaceous",
+                "word": "proteinaceous"
+            },
+            {
+                "id": "72278",
+                "link": "/find?type=1&query=proteinic",
+                "word": "proteinic"
+            },
+            {
+                "id": "72279",
+                "link": "/find?type=1&query=proteinous",
+                "word": "proteinous"
+            },
+            {
+                "id": "72280",
+                "link": "/find?type=1&query=proteinuria",
+                "word": "proteinuria"
+            }
+        ]
+    }
+}
