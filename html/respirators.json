@@ -1,1 +1,45 @@
-{"error": 0, "query": "respirators", "enViData": {"suggests": [{"id": "76647", "link": "/find?type=1&query=respiratorium", "word": "respiratorium"}, {"id": "76647", "link": "/find?type=1&query=respiratory", "word": "respiratory"}], "best": {"id": "76647", "details": "\n<div id=\"find_word_76647\" class=\"world word_en\" rel=\"respirator\">\n    <h2 class=\"fl\">respirator <span class=\"color-black\">/'resp\u0259reit\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"76647\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"76647\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">( y) m\u00e1y h\u00f4 h\u1ea5p</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eb7t n\u1ea1 ph\u00f2ng h\u01a1i \u0111\u1ed9c (c\u1ee7a l\u00ednh c\u1ee9u h\u1ecfa\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=respirator", "word": "respirator"}}, "mUrl": "/find?type=1&query=respirators", "enEnData": {"suggests": [{"id": "24674", "link": "/find?type=3&query=respiratory", "word": "respiratory"}], "best": {"id": "24674", "details": "\n<div id=\"find_word_24674\" class=\"world word_en\" rel=\"respirator\">\n    <h2 class=\"fl\">respirator <span class=\"color-black\">/\u02c8r\u025bsp\u0259\u02ccre\u026at\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24674\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24674\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a device that you wear over your mouth and nose so that you can breathe when there is a lot of dust, smoke, etc., in the air</div>\n    \n    <div class=\"green margin25 m-top15\">medical :a device that helps people to breathe when they are not able to breathe naturally</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The doctors put her on a respirator.</div>\n    \n</div>\n", "link": "/find?type=3&query=respirator", "word": "respirator"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a device that you wear over your mouth and nose so that you can breathe when there is a lot of dust, smoke, etc., in the air</div>\n    \n    <div class=\"green margin25 m-top15\">medical :a device that helps people to breathe when they are not able to breathe naturally</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The doctors put her on a respirator.</div>",
+            "id": "24674",
+            "mean": [],
+            "pronounce": "/\u02c8r\u025bsp\u0259\u02ccre\u026at\u025a/",
+            "type": "noun",
+            "word": "respirator"
+        },
+        "suggests": [
+            {
+                "id": "24674",
+                "link": "/find?type=3&query=respiratory",
+                "word": "respiratory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">( y) m\u00e1y h\u00f4 h\u1ea5p</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1eb7t n\u1ea1 ph\u00f2ng h\u01a1i \u0111\u1ed9c (c\u1ee7a l\u00ednh c\u1ee9u h\u1ecfa\u2026)</div>",
+            "id": "76647",
+            "mean": [],
+            "pronounce": "/'resp\u0259reit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/062f4ba2afea303e7dd06be627cd84f5/16e62e7028b/R/respirator.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4c9e335fc01c4d1e4670a43ad70f99b1/16e62e6fc73/R/respirator.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "respirator"
+        },
+        "suggests": [
+            {
+                "id": "76647",
+                "link": "/find?type=1&query=respiratorium",
+                "word": "respiratorium"
+            },
+            {
+                "id": "76647",
+                "link": "/find?type=1&query=respiratory",
+                "word": "respiratory"
+            }
+        ]
+    }
+}

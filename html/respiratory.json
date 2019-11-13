@@ -1,1 +1,28 @@
-{"error": 0, "query": "respiratory", "enViData": {"suggests": [], "best": {"id": "76649", "details": "\n<div id=\"find_word_76649\" class=\"world word_en\" rel=\"respiratory\">\n    <h2 class=\"fl\">respiratory <span class=\"color-black\">/ri'spai\u0259r\u0259tri/</span>&nbsp;&nbsp;<span class=\"color-orange\">/'respir\u0259tri, ri'spai\u0259t\u0254:ri/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"76649\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"76649\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">[v\u1ec1] h\u00f4 h\u1ea5p, [\u0111\u1ec3] h\u00f4 h\u1ea5p</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">respiratory diseases</div>\n    \n    <div class=\"margin25\">b\u1ec7nh h\u00f4 h\u1ea5p</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">respiratory organs</div>\n    \n    <div class=\"margin25\">c\u01a1 quan h\u00f4 h\u1ea5p</div>\n    \n</div>\n", "link": "/find?type=1&query=respiratory", "word": "respiratory"}}, "mUrl": "/find?type=1&query=respiratory", "enEnData": {"suggests": [], "best": {"id": "24675", "details": "\n<div id=\"find_word_24675\" class=\"world word_en\" rel=\"respiratory\">\n    <h2 class=\"fl\">respiratory <span class=\"color-black\">/\u02c8r\u025bsp\u0259r\u0259\u02cctori/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit r\u026a\u02c8sp\u026ar\u0259tri/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24675\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24675\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">medical :of or relating to breathing or the organs of the body that are used in breathing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">respiratory diseases/illnesses/infections</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the respiratory system [=the lungs or other organs used in respiration]</div>\n    \n</div>\n", "link": "/find?type=3&query=respiratory", "word": "respiratory"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">medical :of or relating to breathing or the organs of the body that are used in breathing</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">respiratory diseases/illnesses/infections</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the respiratory system [=the lungs or other organs used in respiration]</div>",
+            "id": "24675",
+            "mean": [],
+            "pronounce": "/\u02c8r\u025bsp\u0259r\u0259\u02cctori/",
+            "type": "adjective",
+            "word": "respiratory"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">[v\u1ec1] h\u00f4 h\u1ea5p, [\u0111\u1ec3] h\u00f4 h\u1ea5p</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">respiratory diseases</div>\n    \n    <div class=\"margin25\">b\u1ec7nh h\u00f4 h\u1ea5p</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">respiratory organs</div>\n    \n    <div class=\"margin25\">c\u01a1 quan h\u00f4 h\u1ea5p</div>",
+            "id": "76649",
+            "mean": [],
+            "pronounce": "/ri'spai\u0259r\u0259tri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6e95a70d5301b19e3d7a73dab682295c/16e62e70394/R/respiratory.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1255ca9c776465c454398ef02a26f613/16e62e6fdf1/R/respiratory.mp3"
+            },
+            "type": "",
+            "word": "respiratory"
+        },
+        "suggests": []
+    }
+}

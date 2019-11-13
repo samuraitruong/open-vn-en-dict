@@ -1,1 +1,37 @@
-{"error": 0, "query": "resplend", "enViData": {"suggests": [{"id": "76653", "link": "/find?type=1&query=resplendence", "word": "resplendence"}, {"id": "76654", "link": "/find?type=1&query=resplendency", "word": "resplendency"}, {"id": "76655", "link": "/find?type=1&query=resplendent", "word": "resplendent"}, {"id": "76656", "link": "/find?type=1&query=resplendently", "word": "resplendently"}]}, "mUrl": "/find?type=1&query=resplend", "enEnData": {"suggests": [{"id": "24678", "link": "/find?type=3&query=resplendent", "word": "resplendent"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24678",
+                "link": "/find?type=3&query=resplendent",
+                "word": "resplendent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76653",
+                "link": "/find?type=1&query=resplendence",
+                "word": "resplendence"
+            },
+            {
+                "id": "76654",
+                "link": "/find?type=1&query=resplendency",
+                "word": "resplendency"
+            },
+            {
+                "id": "76655",
+                "link": "/find?type=1&query=resplendent",
+                "word": "resplendent"
+            },
+            {
+                "id": "76656",
+                "link": "/find?type=1&query=resplendently",
+                "word": "resplendently"
+            }
+        ]
+    }
+}

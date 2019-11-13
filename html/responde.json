@@ -1,1 +1,22 @@
-{"error": 0, "query": "responde", "enViData": {"suggests": [{"id": "76658", "link": "/find?type=1&query=respondent", "word": "respondent"}]}, "mUrl": "/find?type=1&query=responde", "enEnData": {"suggests": [{"id": "24680", "link": "/find?type=3&query=respondent", "word": "respondent"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24680",
+                "link": "/find?type=3&query=respondent",
+                "word": "respondent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76658",
+                "link": "/find?type=1&query=respondent",
+                "word": "respondent"
+            }
+        ]
+    }
+}

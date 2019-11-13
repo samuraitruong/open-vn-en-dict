@@ -1,1 +1,47 @@
-{"error": 0, "query": "restaur", "enViData": {"suggests": [{"id": "76685", "link": "/find?type=1&query=restaurant", "word": "restaurant"}, {"id": "76686", "link": "/find?type=1&query=restaurant+car", "word": "restaurant car"}, {"id": "76687", "link": "/find?type=1&query=restauranteur", "word": "restauranteur"}, {"id": "76688", "link": "/find?type=1&query=restaurateur", "word": "restaurateur"}]}, "mUrl": "/find?type=1&query=restaur", "enEnData": {"suggests": [{"id": "24691", "link": "/find?type=3&query=restaurant", "word": "restaurant"}, {"id": "24692", "link": "/find?type=3&query=restaurant+car", "word": "restaurant car"}, {"id": "24693", "link": "/find?type=3&query=restaurateur", "word": "restaurateur"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24691",
+                "link": "/find?type=3&query=restaurant",
+                "word": "restaurant"
+            },
+            {
+                "id": "24692",
+                "link": "/find?type=3&query=restaurant+car",
+                "word": "restaurant car"
+            },
+            {
+                "id": "24693",
+                "link": "/find?type=3&query=restaurateur",
+                "word": "restaurateur"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76685",
+                "link": "/find?type=1&query=restaurant",
+                "word": "restaurant"
+            },
+            {
+                "id": "76686",
+                "link": "/find?type=1&query=restaurant+car",
+                "word": "restaurant car"
+            },
+            {
+                "id": "76687",
+                "link": "/find?type=1&query=restauranteur",
+                "word": "restauranteur"
+            },
+            {
+                "id": "76688",
+                "link": "/find?type=1&query=restaurateur",
+                "word": "restaurateur"
+            }
+        ]
+    }
+}

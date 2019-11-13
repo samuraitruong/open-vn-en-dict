@@ -1,1 +1,97 @@
-{"error": 0, "query": "restis", "enViData": {"suggests": [{"id": "76693", "link": "/find?type=1&query=restibilis", "word": "restibilis"}, {"id": "76694", "link": "/find?type=1&query=restibrachium", "word": "restibrachium"}, {"id": "76695", "link": "/find?type=1&query=restif", "word": "restif"}, {"id": "76696", "link": "/find?type=1&query=restiform", "word": "restiform"}, {"id": "76697", "link": "/find?type=1&query=resting", "word": "resting"}, {"id": "76698", "link": "/find?type=1&query=resting-place", "word": "resting-place"}, {"id": "76699", "link": "/find?type=1&query=resting-spore", "word": "resting-spore"}, {"id": "76700", "link": "/find?type=1&query=restitute", "word": "restitute"}, {"id": "76701", "link": "/find?type=1&query=restitution", "word": "restitution"}, {"id": "76702", "link": "/find?type=1&query=restive", "word": "restive"}]}, "mUrl": "/find?type=1&query=restis", "enEnData": {"suggests": [{"id": "24696", "link": "/find?type=3&query=resting", "word": "resting"}, {"id": "24697", "link": "/find?type=3&query=resting+place", "word": "resting place"}, {"id": "24698", "link": "/find?type=3&query=restitution", "word": "restitution"}, {"id": "24699", "link": "/find?type=3&query=restive", "word": "restive"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6566", "link": "/find?type=4&query=restitution", "word": "restitution"}, {"id": "6567", "link": "/find?type=4&query=restive", "word": "restive"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24696",
+                "link": "/find?type=3&query=resting",
+                "word": "resting"
+            },
+            {
+                "id": "24697",
+                "link": "/find?type=3&query=resting+place",
+                "word": "resting place"
+            },
+            {
+                "id": "24698",
+                "link": "/find?type=3&query=restitution",
+                "word": "restitution"
+            },
+            {
+                "id": "24699",
+                "link": "/find?type=3&query=restive",
+                "word": "restive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76693",
+                "link": "/find?type=1&query=restibilis",
+                "word": "restibilis"
+            },
+            {
+                "id": "76694",
+                "link": "/find?type=1&query=restibrachium",
+                "word": "restibrachium"
+            },
+            {
+                "id": "76695",
+                "link": "/find?type=1&query=restif",
+                "word": "restif"
+            },
+            {
+                "id": "76696",
+                "link": "/find?type=1&query=restiform",
+                "word": "restiform"
+            },
+            {
+                "id": "76697",
+                "link": "/find?type=1&query=resting",
+                "word": "resting"
+            },
+            {
+                "id": "76698",
+                "link": "/find?type=1&query=resting-place",
+                "word": "resting-place"
+            },
+            {
+                "id": "76699",
+                "link": "/find?type=1&query=resting-spore",
+                "word": "resting-spore"
+            },
+            {
+                "id": "76700",
+                "link": "/find?type=1&query=restitute",
+                "word": "restitute"
+            },
+            {
+                "id": "76701",
+                "link": "/find?type=1&query=restitution",
+                "word": "restitution"
+            },
+            {
+                "id": "76702",
+                "link": "/find?type=1&query=restive",
+                "word": "restive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6566",
+                "link": "/find?type=4&query=restitution",
+                "word": "restitution"
+            },
+            {
+                "id": "6567",
+                "link": "/find?type=4&query=restive",
+                "word": "restive"
+            }
+        ]
+    }
+}
