@@ -1,1 +1,77 @@
-{"error": 0, "query": "palli", "enViData": {"suggests": [{"id": "64417", "link": "/find?type=1&query=pallia", "word": "pallia"}, {"id": "64418", "link": "/find?type=1&query=pallial", "word": "pallial"}, {"id": "64419", "link": "/find?type=1&query=palliasse", "word": "palliasse"}, {"id": "64420", "link": "/find?type=1&query=palliate", "word": "palliate"}, {"id": "64421", "link": "/find?type=1&query=palliation", "word": "palliation"}, {"id": "64422", "link": "/find?type=1&query=palliative", "word": "palliative"}, {"id": "64423", "link": "/find?type=1&query=palliatively", "word": "palliatively"}, {"id": "64424", "link": "/find?type=1&query=palliator", "word": "palliator"}, {"id": "64425", "link": "/find?type=1&query=pallid", "word": "pallid"}, {"id": "64426", "link": "/find?type=1&query=pallidly", "word": "pallidly"}]}, "mUrl": "/find?type=1&query=palli", "enEnData": {"suggests": [{"id": "20757", "link": "/find?type=3&query=palliate", "word": "palliate"}, {"id": "20758", "link": "/find?type=3&query=palliative", "word": "palliative"}, {"id": "20759", "link": "/find?type=3&query=pallid", "word": "pallid"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20757",
+                "link": "/find?type=3&query=palliate",
+                "word": "palliate"
+            },
+            {
+                "id": "20758",
+                "link": "/find?type=3&query=palliative",
+                "word": "palliative"
+            },
+            {
+                "id": "20759",
+                "link": "/find?type=3&query=pallid",
+                "word": "pallid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64417",
+                "link": "/find?type=1&query=pallia",
+                "word": "pallia"
+            },
+            {
+                "id": "64418",
+                "link": "/find?type=1&query=pallial",
+                "word": "pallial"
+            },
+            {
+                "id": "64419",
+                "link": "/find?type=1&query=palliasse",
+                "word": "palliasse"
+            },
+            {
+                "id": "64420",
+                "link": "/find?type=1&query=palliate",
+                "word": "palliate"
+            },
+            {
+                "id": "64421",
+                "link": "/find?type=1&query=palliation",
+                "word": "palliation"
+            },
+            {
+                "id": "64422",
+                "link": "/find?type=1&query=palliative",
+                "word": "palliative"
+            },
+            {
+                "id": "64423",
+                "link": "/find?type=1&query=palliatively",
+                "word": "palliatively"
+            },
+            {
+                "id": "64424",
+                "link": "/find?type=1&query=palliator",
+                "word": "palliator"
+            },
+            {
+                "id": "64425",
+                "link": "/find?type=1&query=pallid",
+                "word": "pallid"
+            },
+            {
+                "id": "64426",
+                "link": "/find?type=1&query=pallidly",
+                "word": "pallidly"
+            }
+        ]
+    }
+}

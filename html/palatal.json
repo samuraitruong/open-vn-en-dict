@@ -1,1 +1,41 @@
-{"error": 0, "query": "palatal", "enViData": {"suggests": [{"id": "64322", "link": "/find?type=1&query=palatalization", "word": "palatalization"}, {"id": "64322", "link": "/find?type=1&query=palatalize", "word": "palatalize"}, {"id": "64322", "link": "/find?type=1&query=palatally", "word": "palatally"}], "best": {"id": "64322", "details": "\n<div id=\"find_word_64322\" class=\"world word_en\" rel=\"palatal\">\n    <h2 class=\"fl\">palatal <span class=\"color-black\">/'p\u00e6l\u0259tl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64322\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64322\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] v\u00f2m mi\u1ec7ng</div>\n    \n    <div class=\"green margin25 m-top15\">(ng\u00f4n ng\u1eef h\u1ecdc) [thu\u1ed9c] v\u00f2m</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">palatal sound</div>\n    \n    <div class=\"margin25\">\u00e2m v\u00f2m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ng\u00f4n ng\u1eef h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e2m v\u00f2m</div>\n    \n</div>\n", "link": "/find?type=1&query=palatal", "word": "palatal"}}, "mUrl": "/find?type=1&query=palatal", "enEnData": {"suggests": [], "best": {"id": "20739", "details": "\n<div id=\"find_word_20739\" class=\"world word_en\" rel=\"palatal\">\n    <h2 class=\"fl\">palatal <span class=\"color-black\">/\u02c8p\u00e6l\u0259tn\u0329/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20739\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20739\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">linguistics of a speech sound :made by placing the tongue so that it is near or touching the top surface (called the palate) of your mouth</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The first sound in the English word jar is a palatal sound.</div>\n    \n</div>\n", "link": "/find?type=3&query=palatal", "word": "palatal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">linguistics of a speech sound :made by placing the tongue so that it is near or touching the top surface (called the palate) of your mouth</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The first sound in the English word jar is a palatal sound.</div>",
+            "id": "20739",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6l\u0259tn\u0329/",
+            "type": "adjective",
+            "word": "palatal"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] v\u00f2m mi\u1ec7ng</div>\n    \n    <div class=\"green margin25 m-top15\">(ng\u00f4n ng\u1eef h\u1ecdc) [thu\u1ed9c] v\u00f2m</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">palatal sound</div>\n    \n    <div class=\"margin25\">\u00e2m v\u00f2m</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ng\u00f4n ng\u1eef h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e2m v\u00f2m</div>",
+            "id": "64322",
+            "mean": [],
+            "pronounce": "/'p\u00e6l\u0259tl/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "palatal"
+        },
+        "suggests": [
+            {
+                "id": "64322",
+                "link": "/find?type=1&query=palatalization",
+                "word": "palatalization"
+            },
+            {
+                "id": "64322",
+                "link": "/find?type=1&query=palatalize",
+                "word": "palatalize"
+            },
+            {
+                "id": "64322",
+                "link": "/find?type=1&query=palatally",
+                "word": "palatally"
+            }
+        ]
+    }
+}
