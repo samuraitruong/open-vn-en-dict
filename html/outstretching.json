@@ -1,1 +1,22 @@
-{"error": 0, "query": "outstretching", "enViData": {"suggests": [{"id": "63669", "link": "/find?type=1&query=outstretched", "word": "outstretched"}]}, "mUrl": "/find?type=1&query=outstretching", "enEnData": {"suggests": [{"id": "20442", "link": "/find?type=3&query=outstretched", "word": "outstretched"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20442",
+                "link": "/find?type=3&query=outstretched",
+                "word": "outstretched"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63669",
+                "link": "/find?type=1&query=outstretched",
+                "word": "outstretched"
+            }
+        ]
+    }
+}

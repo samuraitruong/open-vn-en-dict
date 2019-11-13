@@ -1,1 +1,32 @@
-{"error": 0, "query": "outlies", "enViData": {"suggests": [{"id": "63624", "link": "/find?type=1&query=outlying", "word": "outlying"}]}, "mUrl": "/find?type=1&query=outlies", "enEnData": {"suggests": [{"id": "20398", "link": "/find?type=3&query=outlying", "word": "outlying"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5134", "link": "/find?type=4&query=outlying", "word": "outlying"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20398",
+                "link": "/find?type=3&query=outlying",
+                "word": "outlying"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63624",
+                "link": "/find?type=1&query=outlying",
+                "word": "outlying"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5134",
+                "link": "/find?type=4&query=outlying",
+                "word": "outlying"
+            }
+        ]
+    }
+}

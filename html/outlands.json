@@ -1,1 +1,42 @@
-{"error": 0, "query": "outlands", "enViData": {"suggests": [{"id": "63614", "link": "/find?type=1&query=outlandish", "word": "outlandish"}, {"id": "63615", "link": "/find?type=1&query=outlandishly", "word": "outlandishly"}, {"id": "63616", "link": "/find?type=1&query=outlandishness", "word": "outlandishness"}]}, "mUrl": "/find?type=1&query=outlands", "enEnData": {"suggests": [{"id": "20390", "link": "/find?type=3&query=outlandish", "word": "outlandish"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5127", "link": "/find?type=4&query=outlandish", "word": "outlandish"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20390",
+                "link": "/find?type=3&query=outlandish",
+                "word": "outlandish"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63614",
+                "link": "/find?type=1&query=outlandish",
+                "word": "outlandish"
+            },
+            {
+                "id": "63615",
+                "link": "/find?type=1&query=outlandishly",
+                "word": "outlandishly"
+            },
+            {
+                "id": "63616",
+                "link": "/find?type=1&query=outlandishness",
+                "word": "outlandishness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5127",
+                "link": "/find?type=4&query=outlandish",
+                "word": "outlandish"
+            }
+        ]
+    }
+}

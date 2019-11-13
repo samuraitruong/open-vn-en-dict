@@ -1,1 +1,22 @@
-{"error": 0, "query": "outmanned", "enViData": {"suggests": [{"id": "63625", "link": "/find?type=1&query=outmanoeuvre", "word": "outmanoeuvre"}]}, "mUrl": "/find?type=1&query=outmanned", "enEnData": {"suggests": [{"id": "20399", "link": "/find?type=3&query=outmaneuver", "word": "outmaneuver"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20399",
+                "link": "/find?type=3&query=outmaneuver",
+                "word": "outmaneuver"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63625",
+                "link": "/find?type=1&query=outmanoeuvre",
+                "word": "outmanoeuvre"
+            }
+        ]
+    }
+}

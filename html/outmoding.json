@@ -1,1 +1,22 @@
-{"error": 0, "query": "outmoding", "enViData": {"suggests": [{"id": "63626", "link": "/find?type=1&query=outmoded", "word": "outmoded"}]}, "mUrl": "/find?type=1&query=outmoding", "enEnData": {"suggests": [{"id": "20400", "link": "/find?type=3&query=outmoded", "word": "outmoded"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20400",
+                "link": "/find?type=3&query=outmoded",
+                "word": "outmoded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63626",
+                "link": "/find?type=1&query=outmoded",
+                "word": "outmoded"
+            }
+        ]
+    }
+}
