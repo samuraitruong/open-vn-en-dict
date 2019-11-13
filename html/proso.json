@@ -1,1 +1,67 @@
-{"error": 0, "query": "proso", "enViData": {"suggests": [{"id": "72191", "link": "/find?type=1&query=prosobranch", "word": "prosobranch"}, {"id": "72192", "link": "/find?type=1&query=prosodiacal", "word": "prosodiacal"}, {"id": "72193", "link": "/find?type=1&query=prosodial", "word": "prosodial"}, {"id": "72194", "link": "/find?type=1&query=prosodian", "word": "prosodian"}, {"id": "72195", "link": "/find?type=1&query=prosodic", "word": "prosodic"}, {"id": "72196", "link": "/find?type=1&query=prosodically", "word": "prosodically"}, {"id": "72197", "link": "/find?type=1&query=prosodist", "word": "prosodist"}, {"id": "72198", "link": "/find?type=1&query=prosody", "word": "prosody"}, {"id": "72199", "link": "/find?type=1&query=prosopoplegia", "word": "prosopoplegia"}, {"id": "72200", "link": "/find?type=1&query=prosopopoeia", "word": "prosopopoeia"}]}, "mUrl": "/find?type=1&query=proso", "enEnData": {"suggests": [{"id": "23181", "link": "/find?type=3&query=prosody", "word": "prosody"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23181",
+                "link": "/find?type=3&query=prosody",
+                "word": "prosody"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72191",
+                "link": "/find?type=1&query=prosobranch",
+                "word": "prosobranch"
+            },
+            {
+                "id": "72192",
+                "link": "/find?type=1&query=prosodiacal",
+                "word": "prosodiacal"
+            },
+            {
+                "id": "72193",
+                "link": "/find?type=1&query=prosodial",
+                "word": "prosodial"
+            },
+            {
+                "id": "72194",
+                "link": "/find?type=1&query=prosodian",
+                "word": "prosodian"
+            },
+            {
+                "id": "72195",
+                "link": "/find?type=1&query=prosodic",
+                "word": "prosodic"
+            },
+            {
+                "id": "72196",
+                "link": "/find?type=1&query=prosodically",
+                "word": "prosodically"
+            },
+            {
+                "id": "72197",
+                "link": "/find?type=1&query=prosodist",
+                "word": "prosodist"
+            },
+            {
+                "id": "72198",
+                "link": "/find?type=1&query=prosody",
+                "word": "prosody"
+            },
+            {
+                "id": "72199",
+                "link": "/find?type=1&query=prosopoplegia",
+                "word": "prosopoplegia"
+            },
+            {
+                "id": "72200",
+                "link": "/find?type=1&query=prosopopoeia",
+                "word": "prosopopoeia"
+            }
+        ]
+    }
+}

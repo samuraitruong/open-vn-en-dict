@@ -1,1 +1,45 @@
-{"error": 0, "query": "prostates", "enViData": {"suggests": [{"id": "72213", "link": "/find?type=1&query=prostate+gland", "word": "prostate gland"}, {"id": "72213", "link": "/find?type=1&query=prostatectomy", "word": "prostatectomy"}], "best": {"id": "72213", "details": "\n<div id=\"find_word_72213\" class=\"world word_en\" rel=\"prostate\">\n    <h2 class=\"fl\">prostate <span class=\"color-black\">/'pr\u0252steit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"72213\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"72213\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">tuy\u1ebfn ti\u1ec1n li\u1ec7t</div>\n    \n</div>\n", "link": "/find?type=1&query=prostate", "word": "prostate"}}, "mUrl": "/find?type=1&query=prostates", "enEnData": {"suggests": [{"id": "23188", "link": "/find?type=3&query=prostate+gland", "word": "prostate gland"}], "best": {"id": "23188", "details": "\n<div id=\"find_word_23188\" class=\"world word_en\" rel=\"prostate\">\n    <h2 class=\"fl\">prostate <span class=\"color-black\">/\u02c8pr\u0251\u02d0\u02ccste\u026at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23188\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23188\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tates</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :prostate gland</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">enlargement of the prostate - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">prostate cancer</div>\n    \n</div>\n", "link": "/find?type=3&query=prostate", "word": "prostate"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tates</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :prostate gland</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">enlargement of the prostate - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">prostate cancer</div>",
+            "id": "23188",
+            "mean": [],
+            "pronounce": "/\u02c8pr\u0251\u02d0\u02ccste\u026at/",
+            "type": "noun",
+            "word": "prostate"
+        },
+        "suggests": [
+            {
+                "id": "23188",
+                "link": "/find?type=3&query=prostate+gland",
+                "word": "prostate gland"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">tuy\u1ebfn ti\u1ec1n li\u1ec7t</div>",
+            "id": "72213",
+            "mean": [],
+            "pronounce": "/'pr\u0252steit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/198802a7e4e1c14532c092815eac2162/16e62d6e74e/P/prostate.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8eede1cf901b458df063d70c2a994f8f/16e62d6e174/P/prostate.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "prostate"
+        },
+        "suggests": [
+            {
+                "id": "72213",
+                "link": "/find?type=1&query=prostate+gland",
+                "word": "prostate gland"
+            },
+            {
+                "id": "72213",
+                "link": "/find?type=1&query=prostatectomy",
+                "word": "prostatectomy"
+            }
+        ]
+    }
+}

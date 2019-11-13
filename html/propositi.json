@@ -1,1 +1,42 @@
-{"error": 0, "query": "propositi", "enViData": {"suggests": [{"id": "72101", "link": "/find?type=1&query=proposition", "word": "proposition"}, {"id": "72102", "link": "/find?type=1&query=propositional", "word": "propositional"}, {"id": "72103", "link": "/find?type=1&query=propositionally", "word": "propositionally"}]}, "mUrl": "/find?type=1&query=propositi", "enEnData": {"suggests": [{"id": "23162", "link": "/find?type=3&query=proposition", "word": "proposition"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5980", "link": "/find?type=4&query=proposition", "word": "proposition"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23162",
+                "link": "/find?type=3&query=proposition",
+                "word": "proposition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72101",
+                "link": "/find?type=1&query=proposition",
+                "word": "proposition"
+            },
+            {
+                "id": "72102",
+                "link": "/find?type=1&query=propositional",
+                "word": "propositional"
+            },
+            {
+                "id": "72103",
+                "link": "/find?type=1&query=propositionally",
+                "word": "propositionally"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5980",
+                "link": "/find?type=4&query=proposition",
+                "word": "proposition"
+            }
+        ]
+    }
+}
