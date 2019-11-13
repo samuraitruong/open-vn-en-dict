@@ -1,1 +1,102 @@
-{"error": 0, "query": "primar", "enViData": {"suggests": [{"id": "71285", "link": "/find?type=1&query=primarily", "word": "primarily"}, {"id": "71286", "link": "/find?type=1&query=primariness", "word": "primariness"}, {"id": "71287", "link": "/find?type=1&query=primary", "word": "primary"}, {"id": "71288", "link": "/find?type=1&query=primary+colour", "word": "primary colour"}, {"id": "71289", "link": "/find?type=1&query=Primary+commodities", "word": "Primary commodities"}, {"id": "71290", "link": "/find?type=1&query=primary+education", "word": "primary education"}, {"id": "71291", "link": "/find?type=1&query=Primary+goods", "word": "Primary goods"}, {"id": "71292", "link": "/find?type=1&query=Primary+market", "word": "Primary market"}, {"id": "71293", "link": "/find?type=1&query=Primary+money", "word": "Primary money"}, {"id": "71294", "link": "/find?type=1&query=Primary+of+targeting", "word": "Primary of targeting"}]}, "mUrl": "/find?type=1&query=primar", "enEnData": {"suggests": [{"id": "22904", "link": "/find?type=3&query=primarily", "word": "primarily"}, {"id": "22905", "link": "/find?type=3&query=primary", "word": "primary"}, {"id": "22906", "link": "/find?type=3&query=primary+care", "word": "primary care"}, {"id": "22907", "link": "/find?type=3&query=primary+color", "word": "primary color"}, {"id": "22908", "link": "/find?type=3&query=primary+school", "word": "primary school"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5858", "link": "/find?type=4&query=primarily", "word": "primarily"}, {"id": "5859", "link": "/find?type=4&query=primary", "word": "primary"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22904",
+                "link": "/find?type=3&query=primarily",
+                "word": "primarily"
+            },
+            {
+                "id": "22905",
+                "link": "/find?type=3&query=primary",
+                "word": "primary"
+            },
+            {
+                "id": "22906",
+                "link": "/find?type=3&query=primary+care",
+                "word": "primary care"
+            },
+            {
+                "id": "22907",
+                "link": "/find?type=3&query=primary+color",
+                "word": "primary color"
+            },
+            {
+                "id": "22908",
+                "link": "/find?type=3&query=primary+school",
+                "word": "primary school"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71285",
+                "link": "/find?type=1&query=primarily",
+                "word": "primarily"
+            },
+            {
+                "id": "71286",
+                "link": "/find?type=1&query=primariness",
+                "word": "primariness"
+            },
+            {
+                "id": "71287",
+                "link": "/find?type=1&query=primary",
+                "word": "primary"
+            },
+            {
+                "id": "71288",
+                "link": "/find?type=1&query=primary+colour",
+                "word": "primary colour"
+            },
+            {
+                "id": "71289",
+                "link": "/find?type=1&query=Primary+commodities",
+                "word": "Primary commodities"
+            },
+            {
+                "id": "71290",
+                "link": "/find?type=1&query=primary+education",
+                "word": "primary education"
+            },
+            {
+                "id": "71291",
+                "link": "/find?type=1&query=Primary+goods",
+                "word": "Primary goods"
+            },
+            {
+                "id": "71292",
+                "link": "/find?type=1&query=Primary+market",
+                "word": "Primary market"
+            },
+            {
+                "id": "71293",
+                "link": "/find?type=1&query=Primary+money",
+                "word": "Primary money"
+            },
+            {
+                "id": "71294",
+                "link": "/find?type=1&query=Primary+of+targeting",
+                "word": "Primary of targeting"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5858",
+                "link": "/find?type=4&query=primarily",
+                "word": "primarily"
+            },
+            {
+                "id": "5859",
+                "link": "/find?type=4&query=primary",
+                "word": "primary"
+            }
+        ]
+    }
+}

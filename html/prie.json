@@ -1,1 +1,97 @@
-{"error": 0, "query": "prie", "enViData": {"suggests": [{"id": "71258", "link": "/find?type=1&query=prie-dieu", "word": "prie-dieu"}, {"id": "71259", "link": "/find?type=1&query=pried", "word": "pried"}, {"id": "71260", "link": "/find?type=1&query=prier", "word": "prier"}, {"id": "71261", "link": "/find?type=1&query=priest", "word": "priest"}, {"id": "71262", "link": "/find?type=1&query=priest-ridden", "word": "priest-ridden"}, {"id": "71263", "link": "/find?type=1&query=priestcraft", "word": "priestcraft"}, {"id": "71264", "link": "/find?type=1&query=priestess", "word": "priestess"}, {"id": "71265", "link": "/find?type=1&query=priesthood", "word": "priesthood"}, {"id": "71266", "link": "/find?type=1&query=priestlike", "word": "priestlike"}, {"id": "71267", "link": "/find?type=1&query=priestliness", "word": "priestliness"}]}, "mUrl": "/find?type=1&query=prie", "enEnData": {"suggests": [{"id": "22892", "link": "/find?type=3&query=priest", "word": "priest"}, {"id": "22893", "link": "/find?type=3&query=priestess", "word": "priestess"}, {"id": "22894", "link": "/find?type=3&query=priesthood", "word": "priesthood"}, {"id": "22895", "link": "/find?type=3&query=priestly", "word": "priestly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5854", "link": "/find?type=4&query=priest", "word": "priest"}, {"id": "5855", "link": "/find?type=4&query=priestly", "word": "priestly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22892",
+                "link": "/find?type=3&query=priest",
+                "word": "priest"
+            },
+            {
+                "id": "22893",
+                "link": "/find?type=3&query=priestess",
+                "word": "priestess"
+            },
+            {
+                "id": "22894",
+                "link": "/find?type=3&query=priesthood",
+                "word": "priesthood"
+            },
+            {
+                "id": "22895",
+                "link": "/find?type=3&query=priestly",
+                "word": "priestly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71258",
+                "link": "/find?type=1&query=prie-dieu",
+                "word": "prie-dieu"
+            },
+            {
+                "id": "71259",
+                "link": "/find?type=1&query=pried",
+                "word": "pried"
+            },
+            {
+                "id": "71260",
+                "link": "/find?type=1&query=prier",
+                "word": "prier"
+            },
+            {
+                "id": "71261",
+                "link": "/find?type=1&query=priest",
+                "word": "priest"
+            },
+            {
+                "id": "71262",
+                "link": "/find?type=1&query=priest-ridden",
+                "word": "priest-ridden"
+            },
+            {
+                "id": "71263",
+                "link": "/find?type=1&query=priestcraft",
+                "word": "priestcraft"
+            },
+            {
+                "id": "71264",
+                "link": "/find?type=1&query=priestess",
+                "word": "priestess"
+            },
+            {
+                "id": "71265",
+                "link": "/find?type=1&query=priesthood",
+                "word": "priesthood"
+            },
+            {
+                "id": "71266",
+                "link": "/find?type=1&query=priestlike",
+                "word": "priestlike"
+            },
+            {
+                "id": "71267",
+                "link": "/find?type=1&query=priestliness",
+                "word": "priestliness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5854",
+                "link": "/find?type=4&query=priest",
+                "word": "priest"
+            },
+            {
+                "id": "5855",
+                "link": "/find?type=4&query=priestly",
+                "word": "priestly"
+            }
+        ]
+    }
+}
