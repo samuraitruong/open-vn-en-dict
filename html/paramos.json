@@ -1,1 +1,75 @@
-{"error": 0, "query": "paramos", "enViData": {"suggests": [{"id": "64981", "link": "/find?type=1&query=paramorph", "word": "paramorph"}, {"id": "64981", "link": "/find?type=1&query=paramorphism", "word": "paramorphism"}, {"id": "64981", "link": "/find?type=1&query=paramount", "word": "paramount"}, {"id": "64981", "link": "/find?type=1&query=paramountcy", "word": "paramountcy"}, {"id": "64981", "link": "/find?type=1&query=paramountly", "word": "paramountly"}, {"id": "64981", "link": "/find?type=1&query=paramour", "word": "paramour"}], "best": {"id": "64981", "details": "\n<div id=\"find_word_64981\" class=\"world word_en\" rel=\"paramo\">\n    <h2 class=\"fl\">paramo <span class=\"color-black\">/'p\u00e6r\u0259mou/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64981\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64981\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3i tr\u1ecdc (\u1edf Nam m\u1ef9)</div>\n    \n</div>\n", "link": "/find?type=1&query=paramo", "word": "paramo"}}, "mUrl": "/find?type=1&query=paramos", "enEnData": {"suggests": [{"id": "20887", "link": "/find?type=3&query=paramount", "word": "paramount"}, {"id": "20888", "link": "/find?type=3&query=paramour", "word": "paramour"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5254", "link": "/find?type=4&query=paramount", "word": "paramount"}, {"id": "5255", "link": "/find?type=4&query=paramour", "word": "paramour"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20887",
+                "link": "/find?type=3&query=paramount",
+                "word": "paramount"
+            },
+            {
+                "id": "20888",
+                "link": "/find?type=3&query=paramour",
+                "word": "paramour"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3i tr\u1ecdc (\u1edf Nam m\u1ef9)</div>",
+            "id": "64981",
+            "mean": [],
+            "pronounce": "/'p\u00e6r\u0259mou/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "paramo"
+        },
+        "suggests": [
+            {
+                "id": "64981",
+                "link": "/find?type=1&query=paramorph",
+                "word": "paramorph"
+            },
+            {
+                "id": "64981",
+                "link": "/find?type=1&query=paramorphism",
+                "word": "paramorphism"
+            },
+            {
+                "id": "64981",
+                "link": "/find?type=1&query=paramount",
+                "word": "paramount"
+            },
+            {
+                "id": "64981",
+                "link": "/find?type=1&query=paramountcy",
+                "word": "paramountcy"
+            },
+            {
+                "id": "64981",
+                "link": "/find?type=1&query=paramountly",
+                "word": "paramountly"
+            },
+            {
+                "id": "64981",
+                "link": "/find?type=1&query=paramour",
+                "word": "paramour"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5254",
+                "link": "/find?type=4&query=paramount",
+                "word": "paramount"
+            },
+            {
+                "id": "5255",
+                "link": "/find?type=4&query=paramour",
+                "word": "paramour"
+            }
+        ]
+    }
+}

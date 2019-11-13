@@ -1,1 +1,112 @@
-{"error": 0, "query": "parc", "enViData": {"suggests": [{"id": "65097", "link": "/find?type=1&query=parcel", "word": "parcel"}, {"id": "65098", "link": "/find?type=1&query=parcel+bomb", "word": "parcel bomb"}, {"id": "65099", "link": "/find?type=1&query=parcel+post", "word": "parcel post"}, {"id": "65100", "link": "/find?type=1&query=parcelling", "word": "parcelling"}, {"id": "65101", "link": "/find?type=1&query=parcenary", "word": "parcenary"}, {"id": "65102", "link": "/find?type=1&query=parcener", "word": "parcener"}, {"id": "65103", "link": "/find?type=1&query=parch", "word": "parch"}, {"id": "65104", "link": "/find?type=1&query=parchment", "word": "parchment"}, {"id": "65105", "link": "/find?type=1&query=parchmenty", "word": "parchmenty"}, {"id": "65106", "link": "/find?type=1&query=parchmoid", "word": "parchmoid"}]}, "mUrl": "/find?type=1&query=parc", "enEnData": {"suggests": [{"id": "20906", "link": "/find?type=3&query=parcel", "word": "parcel"}, {"id": "20907", "link": "/find?type=3&query=parcel+bomb", "word": "parcel bomb"}, {"id": "20908", "link": "/find?type=3&query=parcel+post", "word": "parcel post"}, {"id": "20909", "link": "/find?type=3&query=parch", "word": "parch"}, {"id": "20910", "link": "/find?type=3&query=parched", "word": "parched"}, {"id": "20911", "link": "/find?type=3&query=Parcheesi", "word": "Parcheesi"}, {"id": "20912", "link": "/find?type=3&query=parchment", "word": "parchment"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5259", "link": "/find?type=4&query=parcel", "word": "parcel"}, {"id": "5260", "link": "/find?type=4&query=parch", "word": "parch"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20906",
+                "link": "/find?type=3&query=parcel",
+                "word": "parcel"
+            },
+            {
+                "id": "20907",
+                "link": "/find?type=3&query=parcel+bomb",
+                "word": "parcel bomb"
+            },
+            {
+                "id": "20908",
+                "link": "/find?type=3&query=parcel+post",
+                "word": "parcel post"
+            },
+            {
+                "id": "20909",
+                "link": "/find?type=3&query=parch",
+                "word": "parch"
+            },
+            {
+                "id": "20910",
+                "link": "/find?type=3&query=parched",
+                "word": "parched"
+            },
+            {
+                "id": "20911",
+                "link": "/find?type=3&query=Parcheesi",
+                "word": "Parcheesi"
+            },
+            {
+                "id": "20912",
+                "link": "/find?type=3&query=parchment",
+                "word": "parchment"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65097",
+                "link": "/find?type=1&query=parcel",
+                "word": "parcel"
+            },
+            {
+                "id": "65098",
+                "link": "/find?type=1&query=parcel+bomb",
+                "word": "parcel bomb"
+            },
+            {
+                "id": "65099",
+                "link": "/find?type=1&query=parcel+post",
+                "word": "parcel post"
+            },
+            {
+                "id": "65100",
+                "link": "/find?type=1&query=parcelling",
+                "word": "parcelling"
+            },
+            {
+                "id": "65101",
+                "link": "/find?type=1&query=parcenary",
+                "word": "parcenary"
+            },
+            {
+                "id": "65102",
+                "link": "/find?type=1&query=parcener",
+                "word": "parcener"
+            },
+            {
+                "id": "65103",
+                "link": "/find?type=1&query=parch",
+                "word": "parch"
+            },
+            {
+                "id": "65104",
+                "link": "/find?type=1&query=parchment",
+                "word": "parchment"
+            },
+            {
+                "id": "65105",
+                "link": "/find?type=1&query=parchmenty",
+                "word": "parchmenty"
+            },
+            {
+                "id": "65106",
+                "link": "/find?type=1&query=parchmoid",
+                "word": "parchmoid"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5259",
+                "link": "/find?type=4&query=parcel",
+                "word": "parcel"
+            },
+            {
+                "id": "5260",
+                "link": "/find?type=4&query=parch",
+                "word": "parch"
+            }
+        ]
+    }
+}

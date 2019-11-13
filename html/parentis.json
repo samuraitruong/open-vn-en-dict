@@ -1,1 +1,37 @@
-{"error": 0, "query": "parentis", "enViData": {"suggests": [{"id": "65139", "link": "/find?type=1&query=parenticide", "word": "parenticide"}, {"id": "65140", "link": "/find?type=1&query=parenting", "word": "parenting"}]}, "mUrl": "/find?type=1&query=parentis", "enEnData": {"suggests": [{"id": "20921", "link": "/find?type=3&query=parenting", "word": "parenting"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5265", "link": "/find?type=4&query=parenting", "word": "parenting"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20921",
+                "link": "/find?type=3&query=parenting",
+                "word": "parenting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65139",
+                "link": "/find?type=1&query=parenticide",
+                "word": "parenticide"
+            },
+            {
+                "id": "65140",
+                "link": "/find?type=1&query=parenting",
+                "word": "parenting"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5265",
+                "link": "/find?type=4&query=parenting",
+                "word": "parenting"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "parkinson", "enViData": {"suggests": [{"id": "65200", "link": "/find?type=1&query=Parkinson%27s+disease", "word": "Parkinson's disease"}, {"id": "65201", "link": "/find?type=1&query=parkinson%27s+law", "word": "parkinson's law"}, {"id": "65202", "link": "/find?type=1&query=parkinsonism", "word": "parkinsonism"}, {"id": "65203", "link": "/find?type=1&query=Parkinsonisme", "word": "Parkinsonisme"}]}, "mUrl": "/find?type=1&query=parkinson", "enEnData": {"suggests": [{"id": "20944", "link": "/find?type=3&query=Parkinson%27s+disease", "word": "Parkinson's disease"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20944",
+                "link": "/find?type=3&query=Parkinson%27s+disease",
+                "word": "Parkinson's disease"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65200",
+                "link": "/find?type=1&query=Parkinson%27s+disease",
+                "word": "Parkinson's disease"
+            },
+            {
+                "id": "65201",
+                "link": "/find?type=1&query=parkinson%27s+law",
+                "word": "parkinson's law"
+            },
+            {
+                "id": "65202",
+                "link": "/find?type=1&query=parkinsonism",
+                "word": "parkinsonism"
+            },
+            {
+                "id": "65203",
+                "link": "/find?type=1&query=Parkinsonisme",
+                "word": "Parkinsonisme"
+            }
+        ]
+    }
+}

@@ -1,1 +1,87 @@
-{"error": 0, "query": "paris", "enViData": {"suggests": [{"id": "65176", "link": "/find?type=1&query=Paris+Club", "word": "Paris Club"}, {"id": "65177", "link": "/find?type=1&query=paris+doll", "word": "paris doll"}, {"id": "65178", "link": "/find?type=1&query=parish", "word": "parish"}, {"id": "65179", "link": "/find?type=1&query=parish+clerk", "word": "parish clerk"}, {"id": "65180", "link": "/find?type=1&query=parish+council", "word": "parish council"}, {"id": "65181", "link": "/find?type=1&query=parish+lantern", "word": "parish lantern"}, {"id": "65182", "link": "/find?type=1&query=parish+register", "word": "parish register"}, {"id": "65183", "link": "/find?type=1&query=parish-rigged", "word": "parish-rigged"}, {"id": "65184", "link": "/find?type=1&query=parishional", "word": "parishional"}, {"id": "65185", "link": "/find?type=1&query=parishioner", "word": "parishioner"}]}, "mUrl": "/find?type=1&query=paris", "enEnData": {"suggests": [{"id": "20929", "link": "/find?type=3&query=parish", "word": "parish"}, {"id": "20930", "link": "/find?type=3&query=parishioner", "word": "parishioner"}, {"id": "20931", "link": "/find?type=3&query=parish-pump", "word": "parish-pump"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5266", "link": "/find?type=4&query=parity", "word": "parity"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20929",
+                "link": "/find?type=3&query=parish",
+                "word": "parish"
+            },
+            {
+                "id": "20930",
+                "link": "/find?type=3&query=parishioner",
+                "word": "parishioner"
+            },
+            {
+                "id": "20931",
+                "link": "/find?type=3&query=parish-pump",
+                "word": "parish-pump"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65176",
+                "link": "/find?type=1&query=Paris+Club",
+                "word": "Paris Club"
+            },
+            {
+                "id": "65177",
+                "link": "/find?type=1&query=paris+doll",
+                "word": "paris doll"
+            },
+            {
+                "id": "65178",
+                "link": "/find?type=1&query=parish",
+                "word": "parish"
+            },
+            {
+                "id": "65179",
+                "link": "/find?type=1&query=parish+clerk",
+                "word": "parish clerk"
+            },
+            {
+                "id": "65180",
+                "link": "/find?type=1&query=parish+council",
+                "word": "parish council"
+            },
+            {
+                "id": "65181",
+                "link": "/find?type=1&query=parish+lantern",
+                "word": "parish lantern"
+            },
+            {
+                "id": "65182",
+                "link": "/find?type=1&query=parish+register",
+                "word": "parish register"
+            },
+            {
+                "id": "65183",
+                "link": "/find?type=1&query=parish-rigged",
+                "word": "parish-rigged"
+            },
+            {
+                "id": "65184",
+                "link": "/find?type=1&query=parishional",
+                "word": "parishional"
+            },
+            {
+                "id": "65185",
+                "link": "/find?type=1&query=parishioner",
+                "word": "parishioner"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5266",
+                "link": "/find?type=4&query=parity",
+                "word": "parity"
+            }
+        ]
+    }
+}

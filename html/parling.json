@@ -1,1 +1,42 @@
-{"error": 0, "query": "parling", "enViData": {"suggests": [{"id": "65212", "link": "/find?type=1&query=parlement", "word": "parlement"}, {"id": "65213", "link": "/find?type=1&query=parley", "word": "parley"}, {"id": "65214", "link": "/find?type=1&query=parleyvoo", "word": "parleyvoo"}]}, "mUrl": "/find?type=1&query=parling", "enEnData": {"suggests": [{"id": "20950", "link": "/find?type=3&query=parley", "word": "parley"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5269", "link": "/find?type=4&query=parley", "word": "parley"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20950",
+                "link": "/find?type=3&query=parley",
+                "word": "parley"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65212",
+                "link": "/find?type=1&query=parlement",
+                "word": "parlement"
+            },
+            {
+                "id": "65213",
+                "link": "/find?type=1&query=parley",
+                "word": "parley"
+            },
+            {
+                "id": "65214",
+                "link": "/find?type=1&query=parleyvoo",
+                "word": "parleyvoo"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5269",
+                "link": "/find?type=4&query=parley",
+                "word": "parley"
+            }
+        ]
+    }
+}

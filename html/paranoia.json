@@ -1,1 +1,34 @@
-{"error": 0, "query": "paranoia", "enViData": {"suggests": [{"id": "64999", "link": "/find?type=1&query=paranoiac", "word": "paranoiac"}], "best": {"id": "64999", "details": "\n<div id=\"find_word_64999\" class=\"world word_en\" rel=\"paranoia\">\n    <h2 class=\"fl\">paranoia <span class=\"color-black\">/p\u00e6r\u0259'n\u0254i\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64999\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64999\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">hoang t\u01b0\u1edfng b\u1ecb b\u1ea1c \u0111\u00e3i; hoang t\u01b0\u1edfng \u0111a nghi; paranoia</div>\n    \n</div>\n", "link": "/find?type=1&query=paranoia", "word": "paranoia"}}, "mUrl": "/find?type=1&query=paranoia", "enEnData": {"suggests": [], "best": {"id": "20889", "details": "\n<div id=\"find_word_20889\" class=\"world word_en\" rel=\"paranoia\">\n    <h2 class=\"fl\">paranoia <span class=\"color-black\">/\u02ccper\u0259\u02c8noj\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20889\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20889\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a serious mental illness that causes you to falsely believe that other people are trying to harm you</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was diagnosed with delusional paranoia.</div>\n    \n    <div class=\"green margin25 m-top15\">an unreasonable feeling that people are trying to harm you, do not like you, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I had to admit that my fears were just paranoia.</div>\n    \n</div>\n", "link": "/find?type=3&query=paranoia", "word": "paranoia"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a serious mental illness that causes you to falsely believe that other people are trying to harm you</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was diagnosed with delusional paranoia.</div>\n    \n    <div class=\"green margin25 m-top15\">an unreasonable feeling that people are trying to harm you, do not like you, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I had to admit that my fears were just paranoia.</div>",
+            "id": "20889",
+            "mean": [],
+            "pronounce": "/\u02ccper\u0259\u02c8noj\u0259/",
+            "type": "noun",
+            "word": "paranoia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">hoang t\u01b0\u1edfng b\u1ecb b\u1ea1c \u0111\u00e3i; hoang t\u01b0\u1edfng \u0111a nghi; paranoia</div>",
+            "id": "64999",
+            "mean": [],
+            "pronounce": "/p\u00e6r\u0259'n\u0254i\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/340c1910b6ded0974ac1c0266e9d2a46/16e62bdf832/P/paranoia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/dd2da999b4a0b5749f67e6e651451ce0/16e62bdf274/P/paranoia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "paranoia"
+        },
+        "suggests": [
+            {
+                "id": "64999",
+                "link": "/find?type=1&query=paranoiac",
+                "word": "paranoiac"
+            }
+        ]
+    }
+}
