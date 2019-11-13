@@ -1,1 +1,27 @@
-{"error": 0, "query": "promissor", "enViData": {"suggests": [{"id": "71940", "link": "/find?type=1&query=promissory", "word": "promissory"}, {"id": "71941", "link": "/find?type=1&query=promissory+note", "word": "promissory note"}]}, "mUrl": "/find?type=1&query=promissor", "enEnData": {"suggests": [{"id": "23105", "link": "/find?type=3&query=promissory+note", "word": "promissory note"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23105",
+                "link": "/find?type=3&query=promissory+note",
+                "word": "promissory note"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71940",
+                "link": "/find?type=1&query=promissory",
+                "word": "promissory"
+            },
+            {
+                "id": "71941",
+                "link": "/find?type=1&query=promissory+note",
+                "word": "promissory note"
+            }
+        ]
+    }
+}

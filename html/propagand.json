@@ -1,1 +1,77 @@
-{"error": 0, "query": "propagand", "enViData": {"suggests": [{"id": "72021", "link": "/find?type=1&query=propaganda", "word": "propaganda"}, {"id": "72022", "link": "/find?type=1&query=propagandic", "word": "propagandic"}, {"id": "72023", "link": "/find?type=1&query=propagandise", "word": "propagandise"}, {"id": "72024", "link": "/find?type=1&query=propagandism", "word": "propagandism"}, {"id": "72025", "link": "/find?type=1&query=propagandist", "word": "propagandist"}, {"id": "72026", "link": "/find?type=1&query=propagandistic", "word": "propagandistic"}, {"id": "72027", "link": "/find?type=1&query=propagandistically", "word": "propagandistically"}, {"id": "72028", "link": "/find?type=1&query=propagandize", "word": "propagandize"}, {"id": "72029", "link": "/find?type=1&query=propagandizer", "word": "propagandizer"}]}, "mUrl": "/find?type=1&query=propagand", "enEnData": {"suggests": [{"id": "23131", "link": "/find?type=3&query=propaganda", "word": "propaganda"}, {"id": "23132", "link": "/find?type=3&query=propagandize", "word": "propagandize"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5963", "link": "/find?type=4&query=propaganda", "word": "propaganda"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23131",
+                "link": "/find?type=3&query=propaganda",
+                "word": "propaganda"
+            },
+            {
+                "id": "23132",
+                "link": "/find?type=3&query=propagandize",
+                "word": "propagandize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72021",
+                "link": "/find?type=1&query=propaganda",
+                "word": "propaganda"
+            },
+            {
+                "id": "72022",
+                "link": "/find?type=1&query=propagandic",
+                "word": "propagandic"
+            },
+            {
+                "id": "72023",
+                "link": "/find?type=1&query=propagandise",
+                "word": "propagandise"
+            },
+            {
+                "id": "72024",
+                "link": "/find?type=1&query=propagandism",
+                "word": "propagandism"
+            },
+            {
+                "id": "72025",
+                "link": "/find?type=1&query=propagandist",
+                "word": "propagandist"
+            },
+            {
+                "id": "72026",
+                "link": "/find?type=1&query=propagandistic",
+                "word": "propagandistic"
+            },
+            {
+                "id": "72027",
+                "link": "/find?type=1&query=propagandistically",
+                "word": "propagandistically"
+            },
+            {
+                "id": "72028",
+                "link": "/find?type=1&query=propagandize",
+                "word": "propagandize"
+            },
+            {
+                "id": "72029",
+                "link": "/find?type=1&query=propagandizer",
+                "word": "propagandizer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5963",
+                "link": "/find?type=4&query=propaganda",
+                "word": "propaganda"
+            }
+        ]
+    }
+}

@@ -1,1 +1,60 @@
-{"error": 0, "query": "prongs", "enViData": {"suggests": [{"id": "71978", "link": "/find?type=1&query=prongbuck", "word": "prongbuck"}, {"id": "71978", "link": "/find?type=1&query=pronged", "word": "pronged"}, {"id": "71978", "link": "/find?type=1&query=pronghorn", "word": "pronghorn"}, {"id": "71978", "link": "/find?type=1&query=-pronged", "word": "-pronged"}], "best": {"id": "71978", "details": "\n<div id=\"find_word_71978\" class=\"world word_en\" rel=\"prong\">\n    <h2 class=\"fl\">prong <span class=\"color-black\">/pr\u0252\u014b/</span>&nbsp;&nbsp;<span class=\"color-orange\">/pr\u0254:\u014b/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"71978\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"71978\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u0103ng (c\u1ee7a c\u00e1i ch\u0129a g\u1ea9y r\u01a1m\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=prong", "word": "prong"}}, "mUrl": "/find?type=1&query=prongs", "enEnData": {"suggests": [{"id": "23116", "link": "/find?type=3&query=pronged", "word": "pronged"}, {"id": "23116", "link": "/find?type=3&query=pronghorn", "word": "pronghorn"}], "best": {"id": "23116", "details": "\n<div id=\"find_word_23116\" class=\"world word_en\" rel=\"prong\">\n    <h2 class=\"fl\">prong <span class=\"color-black\">/\u02c8pr\u0251\u02d0\u014b/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23116\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23116\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural prongs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] one of the long points of a fork or similar object :tine</div>\n    \n    <div class=\"green margin25 m-top15\">one of the small metal parts of an electrical plug that fit into the holes in an outlet</div>\n    \n</div>\n", "link": "/find?type=3&query=prong", "word": "prong"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural prongs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] one of the long points of a fork or similar object :tine</div>\n    \n    <div class=\"green margin25 m-top15\">one of the small metal parts of an electrical plug that fit into the holes in an outlet</div>",
+            "id": "23116",
+            "mean": [],
+            "pronounce": "/\u02c8pr\u0251\u02d0\u014b/",
+            "type": "noun",
+            "word": "prong"
+        },
+        "suggests": [
+            {
+                "id": "23116",
+                "link": "/find?type=3&query=pronged",
+                "word": "pronged"
+            },
+            {
+                "id": "23116",
+                "link": "/find?type=3&query=pronghorn",
+                "word": "pronghorn"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u0103ng (c\u1ee7a c\u00e1i ch\u0129a g\u1ea9y r\u01a1m\u2026)</div>",
+            "id": "71978",
+            "mean": [],
+            "pronounce": "/pr\u0252\u014b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/77e0fc618c0bf099bc13ad7321919474/16e62d612d7/P/prong.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/773a6b7aa4151e05d58ed92a156967c0/16e62d60cb7/P/prong.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "prong"
+        },
+        "suggests": [
+            {
+                "id": "71978",
+                "link": "/find?type=1&query=prongbuck",
+                "word": "prongbuck"
+            },
+            {
+                "id": "71978",
+                "link": "/find?type=1&query=pronged",
+                "word": "pronged"
+            },
+            {
+                "id": "71978",
+                "link": "/find?type=1&query=pronghorn",
+                "word": "pronghorn"
+            },
+            {
+                "id": "71978",
+                "link": "/find?type=1&query=-pronged",
+                "word": "-pronged"
+            }
+        ]
+    }
+}
