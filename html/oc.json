@@ -1,1 +1,170 @@
-{"error": 0, "query": "oc", "enViData": {"suggests": [{"id": "61639", "link": "/find?type=1&query=ocarina", "word": "ocarina"}, {"id": "61639", "link": "/find?type=1&query=occasion", "word": "occasion"}, {"id": "61639", "link": "/find?type=1&query=occasional", "word": "occasional"}, {"id": "61639", "link": "/find?type=1&query=occasional+table", "word": "occasional table"}, {"id": "61639", "link": "/find?type=1&query=occasionalism", "word": "occasionalism"}, {"id": "61639", "link": "/find?type=1&query=occasionalist", "word": "occasionalist"}, {"id": "61639", "link": "/find?type=1&query=occasionality", "word": "occasionality"}, {"id": "61639", "link": "/find?type=1&query=occasionally", "word": "occasionally"}, {"id": "61639", "link": "/find?type=1&query=Occident", "word": "Occident"}], "best": {"id": "61639", "details": "\n<div id=\"find_word_61639\" class=\"world word_en\" rel=\"oc\">\n    <h2 class=\"fl\">oc <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61639\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61639\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>(vi\u1ebft t\u1eaft)</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u0129 quan ch\u1ec9 huy (Officer Commanding)</div>\n    \n</div>\n", "link": "/find?type=1&query=oc", "word": "oc"}}, "mUrl": "/find?type=1&query=oc", "enEnData": {"suggests": [{"id": "19821", "link": "/find?type=3&query=occasion", "word": "occasion"}, {"id": "19822", "link": "/find?type=3&query=occasional", "word": "occasional"}, {"id": "19823", "link": "/find?type=3&query=occasionally", "word": "occasionally"}, {"id": "19824", "link": "/find?type=3&query=Occident", "word": "Occident"}, {"id": "19825", "link": "/find?type=3&query=occult", "word": "occult"}, {"id": "19826", "link": "/find?type=3&query=occultism", "word": "occultism"}, {"id": "19827", "link": "/find?type=3&query=occupancy", "word": "occupancy"}, {"id": "19828", "link": "/find?type=3&query=occupant", "word": "occupant"}, {"id": "19829", "link": "/find?type=3&query=occupation", "word": "occupation"}, {"id": "19830", "link": "/find?type=3&query=occupational", "word": "occupational"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4992", "link": "/find?type=4&query=occasion", "word": "occasion"}, {"id": "4993", "link": "/find?type=4&query=occasional", "word": "occasional"}, {"id": "4994", "link": "/find?type=4&query=occasionally", "word": "occasionally"}, {"id": "4995", "link": "/find?type=4&query=occult", "word": "occult"}, {"id": "4996", "link": "/find?type=4&query=occupant", "word": "occupant"}, {"id": "4997", "link": "/find?type=4&query=occupation", "word": "occupation"}, {"id": "4998", "link": "/find?type=4&query=occupy", "word": "occupy"}, {"id": "4999", "link": "/find?type=4&query=occur", "word": "occur"}, {"id": "5000", "link": "/find?type=4&query=occurrence", "word": "occurrence"}, {"id": "5001", "link": "/find?type=4&query=ocean", "word": "ocean"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19821",
+                "link": "/find?type=3&query=occasion",
+                "word": "occasion"
+            },
+            {
+                "id": "19822",
+                "link": "/find?type=3&query=occasional",
+                "word": "occasional"
+            },
+            {
+                "id": "19823",
+                "link": "/find?type=3&query=occasionally",
+                "word": "occasionally"
+            },
+            {
+                "id": "19824",
+                "link": "/find?type=3&query=Occident",
+                "word": "Occident"
+            },
+            {
+                "id": "19825",
+                "link": "/find?type=3&query=occult",
+                "word": "occult"
+            },
+            {
+                "id": "19826",
+                "link": "/find?type=3&query=occultism",
+                "word": "occultism"
+            },
+            {
+                "id": "19827",
+                "link": "/find?type=3&query=occupancy",
+                "word": "occupancy"
+            },
+            {
+                "id": "19828",
+                "link": "/find?type=3&query=occupant",
+                "word": "occupant"
+            },
+            {
+                "id": "19829",
+                "link": "/find?type=3&query=occupation",
+                "word": "occupation"
+            },
+            {
+                "id": "19830",
+                "link": "/find?type=3&query=occupational",
+                "word": "occupational"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>(vi\u1ebft t\u1eaft)</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u0129 quan ch\u1ec9 huy (Officer Commanding)</div>",
+            "id": "61639",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "(vi\u1ebft t\u1eaft)",
+            "word": "oc"
+        },
+        "suggests": [
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=ocarina",
+                "word": "ocarina"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasion",
+                "word": "occasion"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasional",
+                "word": "occasional"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasional+table",
+                "word": "occasional table"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasionalism",
+                "word": "occasionalism"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasionalist",
+                "word": "occasionalist"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasionality",
+                "word": "occasionality"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=occasionally",
+                "word": "occasionally"
+            },
+            {
+                "id": "61639",
+                "link": "/find?type=1&query=Occident",
+                "word": "Occident"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4992",
+                "link": "/find?type=4&query=occasion",
+                "word": "occasion"
+            },
+            {
+                "id": "4993",
+                "link": "/find?type=4&query=occasional",
+                "word": "occasional"
+            },
+            {
+                "id": "4994",
+                "link": "/find?type=4&query=occasionally",
+                "word": "occasionally"
+            },
+            {
+                "id": "4995",
+                "link": "/find?type=4&query=occult",
+                "word": "occult"
+            },
+            {
+                "id": "4996",
+                "link": "/find?type=4&query=occupant",
+                "word": "occupant"
+            },
+            {
+                "id": "4997",
+                "link": "/find?type=4&query=occupation",
+                "word": "occupation"
+            },
+            {
+                "id": "4998",
+                "link": "/find?type=4&query=occupy",
+                "word": "occupy"
+            },
+            {
+                "id": "4999",
+                "link": "/find?type=4&query=occur",
+                "word": "occur"
+            },
+            {
+                "id": "5000",
+                "link": "/find?type=4&query=occurrence",
+                "word": "occurrence"
+            },
+            {
+                "id": "5001",
+                "link": "/find?type=4&query=ocean",
+                "word": "ocean"
+            }
+        ]
+    }
+}

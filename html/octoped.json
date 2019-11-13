@@ -1,1 +1,32 @@
-{"error": 0, "query": "octoped", "enViData": {"suggests": [{"id": "61779", "link": "/find?type=1&query=octopoda", "word": "octopoda"}, {"id": "61780", "link": "/find?type=1&query=octopodous", "word": "octopodous"}, {"id": "61781", "link": "/find?type=1&query=octopus", "word": "octopus"}]}, "mUrl": "/find?type=1&query=octoped", "enEnData": {"suggests": [{"id": "19852", "link": "/find?type=3&query=octopus", "word": "octopus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19852",
+                "link": "/find?type=3&query=octopus",
+                "word": "octopus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61779",
+                "link": "/find?type=1&query=octopoda",
+                "word": "octopoda"
+            },
+            {
+                "id": "61780",
+                "link": "/find?type=1&query=octopodous",
+                "word": "octopodous"
+            },
+            {
+                "id": "61781",
+                "link": "/find?type=1&query=octopus",
+                "word": "octopus"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "octans", "enViData": {"suggests": [{"id": "61762", "link": "/find?type=1&query=octandrous", "word": "octandrous"}, {"id": "61763", "link": "/find?type=1&query=octane", "word": "octane"}, {"id": "61764", "link": "/find?type=1&query=octane+number", "word": "octane number"}, {"id": "61765", "link": "/find?type=1&query=octangle", "word": "octangle"}, {"id": "61766", "link": "/find?type=1&query=octangular", "word": "octangular"}, {"id": "61767", "link": "/find?type=1&query=octant", "word": "octant"}]}, "mUrl": "/find?type=1&query=octans", "enEnData": {"suggests": [{"id": "19847", "link": "/find?type=3&query=octane", "word": "octane"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19847",
+                "link": "/find?type=3&query=octane",
+                "word": "octane"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61762",
+                "link": "/find?type=1&query=octandrous",
+                "word": "octandrous"
+            },
+            {
+                "id": "61763",
+                "link": "/find?type=1&query=octane",
+                "word": "octane"
+            },
+            {
+                "id": "61764",
+                "link": "/find?type=1&query=octane+number",
+                "word": "octane number"
+            },
+            {
+                "id": "61765",
+                "link": "/find?type=1&query=octangle",
+                "word": "octangle"
+            },
+            {
+                "id": "61766",
+                "link": "/find?type=1&query=octangular",
+                "word": "octangular"
+            },
+            {
+                "id": "61767",
+                "link": "/find?type=1&query=octant",
+                "word": "octant"
+            }
+        ]
+    }
+}

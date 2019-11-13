@@ -1,1 +1,39 @@
-{"error": 0, "query": "octagons", "enViData": {"suggests": [{"id": "61753", "link": "/find?type=1&query=octagonal", "word": "octagonal"}, {"id": "61753", "link": "/find?type=1&query=octagonally", "word": "octagonally"}], "best": {"id": "61753", "details": "\n<div id=\"find_word_61753\" class=\"world word_en\" rel=\"octagon\">\n    <h2 class=\"fl\">octagon <span class=\"color-black\">/'\u0252kt\u0259g\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\">/'\u0252kt\u0259g\u0252n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61753\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61753\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(to\u00e1n h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh b\u00e1t gi\u00e1c</div>\n    \n</div>\n", "link": "/find?type=1&query=octagon", "word": "octagon"}}, "mUrl": "/find?type=1&query=octagons", "enEnData": {"suggests": [], "best": {"id": "19846", "details": "\n<div id=\"find_word_19846\" class=\"world word_en\" rel=\"octagon\">\n    <h2 class=\"fl\">octagon <span class=\"color-black\">/\u02c8\u0251\u02d0kt\u0259\u02ccg\u0251\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19846\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19846\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] mathematics :a flat shape that has eight sides and eight angles - see picture at geometry</div>\n    \n</div>\n", "link": "/find?type=3&query=octagon", "word": "octagon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] mathematics :a flat shape that has eight sides and eight angles - see picture at geometry</div>",
+            "id": "19846",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0kt\u0259\u02ccg\u0251\u02d0n/",
+            "type": "noun",
+            "word": "octagon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(to\u00e1n h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh b\u00e1t gi\u00e1c</div>",
+            "id": "61753",
+            "mean": [],
+            "pronounce": "/'\u0252kt\u0259g\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5e649e950ade6437ff3d3fbae451f3b4/16e62b1ad2d/O/octagon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c17036d52677ae1699cd73f22ccc84d2/16e62b1a768/O/octagon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "octagon"
+        },
+        "suggests": [
+            {
+                "id": "61753",
+                "link": "/find?type=1&query=octagonal",
+                "word": "octagonal"
+            },
+            {
+                "id": "61753",
+                "link": "/find?type=1&query=octagonally",
+                "word": "octagonally"
+            }
+        ]
+    }
+}

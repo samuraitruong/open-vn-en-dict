@@ -1,1 +1,42 @@
-{"error": 0, "query": "oceanog", "enViData": {"suggests": [{"id": "61703", "link": "/find?type=1&query=oceanographer", "word": "oceanographer"}, {"id": "61704", "link": "/find?type=1&query=oceanographic", "word": "oceanographic"}, {"id": "61705", "link": "/find?type=1&query=oceanographical", "word": "oceanographical"}, {"id": "61706", "link": "/find?type=1&query=oceanographically", "word": "oceanographically"}, {"id": "61707", "link": "/find?type=1&query=oceanography", "word": "oceanography"}]}, "mUrl": "/find?type=1&query=oceanog", "enEnData": {"suggests": [{"id": "19841", "link": "/find?type=3&query=oceanography", "word": "oceanography"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19841",
+                "link": "/find?type=3&query=oceanography",
+                "word": "oceanography"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61703",
+                "link": "/find?type=1&query=oceanographer",
+                "word": "oceanographer"
+            },
+            {
+                "id": "61704",
+                "link": "/find?type=1&query=oceanographic",
+                "word": "oceanographic"
+            },
+            {
+                "id": "61705",
+                "link": "/find?type=1&query=oceanographical",
+                "word": "oceanographical"
+            },
+            {
+                "id": "61706",
+                "link": "/find?type=1&query=oceanographically",
+                "word": "oceanographically"
+            },
+            {
+                "id": "61707",
+                "link": "/find?type=1&query=oceanography",
+                "word": "oceanography"
+            }
+        ]
+    }
+}

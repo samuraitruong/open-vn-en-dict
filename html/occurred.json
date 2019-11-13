@@ -1,1 +1,32 @@
-{"error": 0, "query": "occurred", "enViData": {"suggests": [{"id": "61688", "link": "/find?type=1&query=occurrence", "word": "occurrence"}]}, "mUrl": "/find?type=1&query=occurred", "enEnData": {"suggests": [{"id": "19836", "link": "/find?type=3&query=occurrence", "word": "occurrence"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5000", "link": "/find?type=4&query=occurrence", "word": "occurrence"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19836",
+                "link": "/find?type=3&query=occurrence",
+                "word": "occurrence"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61688",
+                "link": "/find?type=1&query=occurrence",
+                "word": "occurrence"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5000",
+                "link": "/find?type=4&query=occurrence",
+                "word": "occurrence"
+            }
+        ]
+    }
+}
