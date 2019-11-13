@@ -1,1 +1,37 @@
-{"error": 0, "query": "prefator", "enViData": {"suggests": [{"id": "70666", "link": "/find?type=1&query=prefatorily", "word": "prefatorily"}, {"id": "70667", "link": "/find?type=1&query=prefatory", "word": "prefatory"}]}, "mUrl": "/find?type=1&query=prefator", "enEnData": {"suggests": [{"id": "22709", "link": "/find?type=3&query=prefatory", "word": "prefatory"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5776", "link": "/find?type=4&query=prefatory", "word": "prefatory"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22709",
+                "link": "/find?type=3&query=prefatory",
+                "word": "prefatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70666",
+                "link": "/find?type=1&query=prefatorily",
+                "word": "prefatorily"
+            },
+            {
+                "id": "70667",
+                "link": "/find?type=1&query=prefatory",
+                "word": "prefatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5776",
+                "link": "/find?type=4&query=prefatory",
+                "word": "prefatory"
+            }
+        ]
+    }
+}

@@ -1,1 +1,87 @@
-{"error": 0, "query": "preeing", "enViData": {"suggests": [{"id": "70654", "link": "/find?type=1&query=preeminence", "word": "preeminence"}, {"id": "70655", "link": "/find?type=1&query=preempy", "word": "preempy"}, {"id": "70656", "link": "/find?type=1&query=preen", "word": "preen"}, {"id": "70657", "link": "/find?type=1&query=preener", "word": "preener"}]}, "mUrl": "/find?type=1&query=preeing", "enEnData": {"suggests": [{"id": "22697", "link": "/find?type=3&query=preeclampsia", "word": "preeclampsia"}, {"id": "22698", "link": "/find?type=3&query=preemie", "word": "preemie"}, {"id": "22699", "link": "/find?type=3&query=preeminent", "word": "preeminent"}, {"id": "22700", "link": "/find?type=3&query=preeminently", "word": "preeminently"}, {"id": "22701", "link": "/find?type=3&query=preempt", "word": "preempt"}, {"id": "22702", "link": "/find?type=3&query=preemptive", "word": "preemptive"}, {"id": "22703", "link": "/find?type=3&query=preen", "word": "preen"}, {"id": "22704", "link": "/find?type=3&query=preexistent", "word": "preexistent"}, {"id": "22705", "link": "/find?type=3&query=preexisting", "word": "preexisting"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5774", "link": "/find?type=4&query=preen", "word": "preen"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22697",
+                "link": "/find?type=3&query=preeclampsia",
+                "word": "preeclampsia"
+            },
+            {
+                "id": "22698",
+                "link": "/find?type=3&query=preemie",
+                "word": "preemie"
+            },
+            {
+                "id": "22699",
+                "link": "/find?type=3&query=preeminent",
+                "word": "preeminent"
+            },
+            {
+                "id": "22700",
+                "link": "/find?type=3&query=preeminently",
+                "word": "preeminently"
+            },
+            {
+                "id": "22701",
+                "link": "/find?type=3&query=preempt",
+                "word": "preempt"
+            },
+            {
+                "id": "22702",
+                "link": "/find?type=3&query=preemptive",
+                "word": "preemptive"
+            },
+            {
+                "id": "22703",
+                "link": "/find?type=3&query=preen",
+                "word": "preen"
+            },
+            {
+                "id": "22704",
+                "link": "/find?type=3&query=preexistent",
+                "word": "preexistent"
+            },
+            {
+                "id": "22705",
+                "link": "/find?type=3&query=preexisting",
+                "word": "preexisting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70654",
+                "link": "/find?type=1&query=preeminence",
+                "word": "preeminence"
+            },
+            {
+                "id": "70655",
+                "link": "/find?type=1&query=preempy",
+                "word": "preempy"
+            },
+            {
+                "id": "70656",
+                "link": "/find?type=1&query=preen",
+                "word": "preen"
+            },
+            {
+                "id": "70657",
+                "link": "/find?type=1&query=preener",
+                "word": "preener"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5774",
+                "link": "/find?type=4&query=preen",
+                "word": "preen"
+            }
+        ]
+    }
+}
