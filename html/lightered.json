@@ -1,1 +1,50 @@
-{"error": 0, "query": "lightered", "enViData": {"suggests": [{"id": "53708", "link": "/find?type=1&query=lighter-than-air", "word": "lighter-than-air"}, {"id": "53708", "link": "/find?type=1&query=lighterage", "word": "lighterage"}, {"id": "53708", "link": "/find?type=1&query=lighterman", "word": "lighterman"}], "best": {"id": "53708", "details": "\n<div id=\"find_word_53708\" class=\"world word_en\" rel=\"lighter\">\n    <h2 class=\"fl\">lighter <span class=\"color-black\">/'lait\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53708\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53708\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i b\u1eadt l\u1eeda</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e0 lan, thuy\u1ec1n b\u1ed1c d\u1ee1 h\u00e0ng</div>\n    \n</div>\n", "link": "/find?type=1&query=lighter", "word": "lighter"}}, "mUrl": "/find?type=1&query=lightered", "enEnData": {"suggests": [{"id": "16663", "link": "/find?type=3&query=lighter-than-air", "word": "lighter-than-air"}], "best": {"id": "16663", "details": "\n<div id=\"find_word_16663\" class=\"world word_en\" rel=\"lighter\">\n    <h2 class=\"fl\">lighter <span class=\"color-black\">/\u02c8la\u026at\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16663\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16663\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small device that produces a flame used for lighting something (such as a cigarette)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cigarette lighter</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">lighter fluid [=the liquid in a lighter that is its fuel]</div>\n    \n</div>\n", "link": "/find?type=3&query=lighter", "word": "lighter"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small device that produces a flame used for lighting something (such as a cigarette)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cigarette lighter</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">lighter fluid [=the liquid in a lighter that is its fuel]</div>",
+            "id": "16663",
+            "mean": [],
+            "pronounce": "/\u02c8la\u026at\u025a/",
+            "type": "noun",
+            "word": "lighter"
+        },
+        "suggests": [
+            {
+                "id": "16663",
+                "link": "/find?type=3&query=lighter-than-air",
+                "word": "lighter-than-air"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i b\u1eadt l\u1eeda</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e0 lan, thuy\u1ec1n b\u1ed1c d\u1ee1 h\u00e0ng</div>",
+            "id": "53708",
+            "mean": [],
+            "pronounce": "/'lait\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/571276b5e149d1878b633ce18bf66de3/16e6290dc70/L/lighter.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/519f96fdcf805a15ff643a83e19eab65/16e6290d693/L/lighter.mp3"
+            },
+            "type": "Danh t\u1eeb Danh t\u1eeb",
+            "word": "lighter"
+        },
+        "suggests": [
+            {
+                "id": "53708",
+                "link": "/find?type=1&query=lighter-than-air",
+                "word": "lighter-than-air"
+            },
+            {
+                "id": "53708",
+                "link": "/find?type=1&query=lighterage",
+                "word": "lighterage"
+            },
+            {
+                "id": "53708",
+                "link": "/find?type=1&query=lighterman",
+                "word": "lighterman"
+            }
+        ]
+    }
+}

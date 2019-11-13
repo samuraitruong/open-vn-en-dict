@@ -1,1 +1,32 @@
-{"error": 0, "query": "likin", "enViData": {"suggests": [{"id": "53759", "link": "/find?type=1&query=liking", "word": "liking"}]}, "mUrl": "/find?type=1&query=likin", "enEnData": {"suggests": [{"id": "16691", "link": "/find?type=3&query=liking", "word": "liking"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4221", "link": "/find?type=4&query=liking", "word": "liking"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16691",
+                "link": "/find?type=3&query=liking",
+                "word": "liking"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53759",
+                "link": "/find?type=1&query=liking",
+                "word": "liking"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4221",
+                "link": "/find?type=4&query=liking",
+                "word": "liking"
+            }
+        ]
+    }
+}

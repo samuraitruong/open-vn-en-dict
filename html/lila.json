@@ -1,1 +1,22 @@
-{"error": 0, "query": "lila", "enViData": {"suggests": [{"id": "53760", "link": "/find?type=1&query=lilac", "word": "lilac"}]}, "mUrl": "/find?type=1&query=lila", "enEnData": {"suggests": [{"id": "16692", "link": "/find?type=3&query=lilac", "word": "lilac"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16692",
+                "link": "/find?type=3&query=lilac",
+                "word": "lilac"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53760",
+                "link": "/find?type=1&query=lilac",
+                "word": "lilac"
+            }
+        ]
+    }
+}

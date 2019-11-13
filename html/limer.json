@@ -1,1 +1,22 @@
-{"error": 0, "query": "limer", "enViData": {"suggests": [{"id": "53801", "link": "/find?type=1&query=limerick", "word": "limerick"}]}, "mUrl": "/find?type=1&query=limer", "enEnData": {"suggests": [{"id": "16706", "link": "/find?type=3&query=limerick", "word": "limerick"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16706",
+                "link": "/find?type=3&query=limerick",
+                "word": "limerick"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53801",
+                "link": "/find?type=1&query=limerick",
+                "word": "limerick"
+            }
+        ]
+    }
+}

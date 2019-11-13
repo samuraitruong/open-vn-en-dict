@@ -1,1 +1,45 @@
-{"error": 0, "query": "lynched", "enViData": {"suggests": [{"id": "55149", "link": "/find?type=1&query=lynch+law", "word": "lynch law"}], "best": {"id": "55149", "details": "\n<div id=\"find_word_55149\" class=\"world word_en\" rel=\"lynch\">\n    <h2 class=\"fl\">lynch <span class=\"color-black\">/lint\u222b/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55149\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55149\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00e0nh h\u00ecnh ki\u1ec3u lin-s\u01a1 (do qu\u1ea7n ch\u00fang quy\u1ebft \u0111\u1ecbnh, kh\u00f4ng qua x\u00e9t x\u1eed)</div>\n    \n</div>\n", "link": "/find?type=1&query=lynch", "word": "lynch"}}, "mUrl": "/find?type=1&query=lynched", "enEnData": {"suggests": [{"id": "17208", "link": "/find?type=3&query=lynch+mob", "word": "lynch mob"}, {"id": "17208", "link": "/find?type=3&query=lynchpin", "word": "lynchpin"}], "best": {"id": "17208", "details": "\n<div id=\"find_word_17208\" class=\"world word_en\" rel=\"lynch\">\n    <h2 class=\"fl\">lynch <span class=\"color-black\">/\u02c8l\u026an\u02a7/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17208\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17208\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">lynches; lynched; lynching</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to kill (someone) illegally as punishment for a crime</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The accused killer was lynched by an angry mob.</div>\n    \n</div>\n", "link": "/find?type=3&query=lynch", "word": "lynch"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">lynches; lynched; lynching</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to kill (someone) illegally as punishment for a crime</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The accused killer was lynched by an angry mob.</div>",
+            "id": "17208",
+            "mean": [],
+            "pronounce": "/\u02c8l\u026an\u02a7/",
+            "type": "verb",
+            "word": "lynch"
+        },
+        "suggests": [
+            {
+                "id": "17208",
+                "link": "/find?type=3&query=lynch+mob",
+                "word": "lynch mob"
+            },
+            {
+                "id": "17208",
+                "link": "/find?type=3&query=lynchpin",
+                "word": "lynchpin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00e0nh h\u00ecnh ki\u1ec3u lin-s\u01a1 (do qu\u1ea7n ch\u00fang quy\u1ebft \u0111\u1ecbnh, kh\u00f4ng qua x\u00e9t x\u1eed)</div>",
+            "id": "55149",
+            "mean": [],
+            "pronounce": "/lint\u222b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e0e4e5342ff5e3c1d51f481056b17127/16e62916d4d/L/lynch.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9ae0e2dcf1cd57e0cf9db32ecb5b6430/16e6291674c/L/lynch.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "lynch"
+        },
+        "suggests": [
+            {
+                "id": "55149",
+                "link": "/find?type=1&query=lynch+law",
+                "word": "lynch law"
+            }
+        ]
+    }
+}

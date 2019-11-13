@@ -1,1 +1,67 @@
-{"error": 0, "query": "linge", "enViData": {"suggests": [{"id": "53894", "link": "/find?type=1&query=lingel", "word": "lingel"}, {"id": "53895", "link": "/find?type=1&query=linger", "word": "linger"}, {"id": "53896", "link": "/find?type=1&query=lingerer", "word": "lingerer"}, {"id": "53897", "link": "/find?type=1&query=lingerie", "word": "lingerie"}, {"id": "53898", "link": "/find?type=1&query=lingering", "word": "lingering"}, {"id": "53899", "link": "/find?type=1&query=lingeringly", "word": "lingeringly"}]}, "mUrl": "/find?type=1&query=linge", "enEnData": {"suggests": [{"id": "16742", "link": "/find?type=3&query=linger", "word": "linger"}, {"id": "16743", "link": "/find?type=3&query=lingerie", "word": "lingerie"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4231", "link": "/find?type=4&query=linger", "word": "linger"}, {"id": "4232", "link": "/find?type=4&query=lingering", "word": "lingering"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16742",
+                "link": "/find?type=3&query=linger",
+                "word": "linger"
+            },
+            {
+                "id": "16743",
+                "link": "/find?type=3&query=lingerie",
+                "word": "lingerie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53894",
+                "link": "/find?type=1&query=lingel",
+                "word": "lingel"
+            },
+            {
+                "id": "53895",
+                "link": "/find?type=1&query=linger",
+                "word": "linger"
+            },
+            {
+                "id": "53896",
+                "link": "/find?type=1&query=lingerer",
+                "word": "lingerer"
+            },
+            {
+                "id": "53897",
+                "link": "/find?type=1&query=lingerie",
+                "word": "lingerie"
+            },
+            {
+                "id": "53898",
+                "link": "/find?type=1&query=lingering",
+                "word": "lingering"
+            },
+            {
+                "id": "53899",
+                "link": "/find?type=1&query=lingeringly",
+                "word": "lingeringly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4231",
+                "link": "/find?type=4&query=linger",
+                "word": "linger"
+            },
+            {
+                "id": "4232",
+                "link": "/find?type=4&query=lingering",
+                "word": "lingering"
+            }
+        ]
+    }
+}

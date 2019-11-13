@@ -1,1 +1,22 @@
-{"error": 0, "query": "linch", "enViData": {"suggests": [{"id": "53848", "link": "/find?type=1&query=linchpin", "word": "linchpin"}]}, "mUrl": "/find?type=1&query=linch", "enEnData": {"suggests": [{"id": "16720", "link": "/find?type=3&query=linchpin", "word": "linchpin"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16720",
+                "link": "/find?type=3&query=linchpin",
+                "word": "linchpin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53848",
+                "link": "/find?type=1&query=linchpin",
+                "word": "linchpin"
+            }
+        ]
+    }
+}
