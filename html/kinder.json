@@ -1,1 +1,37 @@
-{"error": 0, "query": "kinder", "enViData": {"suggests": [{"id": "51718", "link": "/find?type=1&query=kindergarener", "word": "kindergarener"}, {"id": "51719", "link": "/find?type=1&query=kindergarner", "word": "kindergarner"}, {"id": "51720", "link": "/find?type=1&query=kindergarten", "word": "kindergarten"}, {"id": "51721", "link": "/find?type=1&query=kindergartener", "word": "kindergartener"}]}, "mUrl": "/find?type=1&query=kinder", "enEnData": {"suggests": [{"id": "15909", "link": "/find?type=3&query=kindergarten", "word": "kindergarten"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15909",
+                "link": "/find?type=3&query=kindergarten",
+                "word": "kindergarten"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51718",
+                "link": "/find?type=1&query=kindergarener",
+                "word": "kindergarener"
+            },
+            {
+                "id": "51719",
+                "link": "/find?type=1&query=kindergarner",
+                "word": "kindergarner"
+            },
+            {
+                "id": "51720",
+                "link": "/find?type=1&query=kindergarten",
+                "word": "kindergarten"
+            },
+            {
+                "id": "51721",
+                "link": "/find?type=1&query=kindergartener",
+                "word": "kindergartener"
+            }
+        ]
+    }
+}

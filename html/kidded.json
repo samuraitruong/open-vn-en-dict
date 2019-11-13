@@ -1,1 +1,27 @@
-{"error": 0, "query": "kidded", "enViData": {"suggests": [{"id": "51643", "link": "/find?type=1&query=kidder", "word": "kidder"}]}, "mUrl": "/find?type=1&query=kidded", "enEnData": {"suggests": [{"id": "15878", "link": "/find?type=3&query=kiddie", "word": "kiddie"}, {"id": "15879", "link": "/find?type=3&query=kiddo", "word": "kiddo"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15878",
+                "link": "/find?type=3&query=kiddie",
+                "word": "kiddie"
+            },
+            {
+                "id": "15879",
+                "link": "/find?type=3&query=kiddo",
+                "word": "kiddo"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51643",
+                "link": "/find?type=1&query=kidder",
+                "word": "kidder"
+            }
+        ]
+    }
+}
