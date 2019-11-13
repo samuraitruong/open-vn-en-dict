@@ -1,1 +1,37 @@
-{"error": 0, "query": "medicating", "enViData": {"suggests": [{"id": "56816", "link": "/find?type=1&query=medicated", "word": "medicated"}], "best": {"id": "56816", "details": "\n<div id=\"find_word_56816\" class=\"world word_en\" rel=\"medicate\">\n    <h2 class=\"fl\">medicate <span class=\"color-black\">/'medikeit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56816\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56816\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed1c thu\u1ed1c, cho thu\u1ed1c</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ea9m thu\u1ed1c, ng\u00e2m thu\u1ed1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medicated gauze</div>\n    \n    <div class=\"margin25\">g\u1ea1c c\u00f3 t\u1ea9m thu\u1ed1c</div>\n    \n</div>\n", "link": "/find?type=1&query=medicate", "word": "medicate"}}, "mUrl": "/find?type=1&query=medicating", "enEnData": {"suggests": [{"id": "17825", "link": "/find?type=3&query=medicated", "word": "medicated"}], "best": {"id": "17825", "details": "\n<div id=\"find_word_17825\" class=\"world word_en\" rel=\"medicate\">\n    <h2 class=\"fl\">medicate <span class=\"color-black\">/\u02c8m\u025bd\u026a\u02ccke\u026at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17825\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17825\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-cates; -cated; -cating</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to treat (a person or disease) with medicine and especially with drugs</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medicate an illness</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The patient had been heavily medicated.</div>\n    \n</div>\n", "link": "/find?type=3&query=medicate", "word": "medicate"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-cates; -cated; -cating</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to treat (a person or disease) with medicine and especially with drugs</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medicate an illness</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The patient had been heavily medicated.</div>",
+            "id": "17825",
+            "mean": [],
+            "pronounce": "/\u02c8m\u025bd\u026a\u02ccke\u026at/",
+            "type": "verb",
+            "word": "medicate"
+        },
+        "suggests": [
+            {
+                "id": "17825",
+                "link": "/find?type=3&query=medicated",
+                "word": "medicated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ed1c thu\u1ed1c, cho thu\u1ed1c</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ea9m thu\u1ed1c, ng\u00e2m thu\u1ed1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medicated gauze</div>\n    \n    <div class=\"margin25\">g\u1ea1c c\u00f3 t\u1ea9m thu\u1ed1c</div>",
+            "id": "56816",
+            "mean": [],
+            "pronounce": "/'medikeit/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "medicate"
+        },
+        "suggests": [
+            {
+                "id": "56816",
+                "link": "/find?type=1&query=medicated",
+                "word": "medicated"
+            }
+        ]
+    }
+}

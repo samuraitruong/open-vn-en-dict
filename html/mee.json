@@ -1,1 +1,102 @@
-{"error": 0, "query": "mee", "enViData": {"suggests": [{"id": "56866", "link": "/find?type=1&query=meed", "word": "meed"}, {"id": "56867", "link": "/find?type=1&query=meek", "word": "meek"}, {"id": "56868", "link": "/find?type=1&query=meekly", "word": "meekly"}, {"id": "56869", "link": "/find?type=1&query=meekness", "word": "meekness"}, {"id": "56870", "link": "/find?type=1&query=meerschaum", "word": "meerschaum"}, {"id": "56871", "link": "/find?type=1&query=meet", "word": "meet"}, {"id": "56872", "link": "/find?type=1&query=meeting", "word": "meeting"}, {"id": "56873", "link": "/find?type=1&query=meeting+house", "word": "meeting house"}, {"id": "56874", "link": "/find?type=1&query=meeting+place", "word": "meeting place"}, {"id": "56875", "link": "/find?type=1&query=meeting-hall", "word": "meeting-hall"}]}, "mUrl": "/find?type=1&query=mee", "enEnData": {"suggests": [{"id": "17847", "link": "/find?type=3&query=meek", "word": "meek"}, {"id": "17848", "link": "/find?type=3&query=meet", "word": "meet"}, {"id": "17849", "link": "/find?type=3&query=meeting", "word": "meeting"}, {"id": "17850", "link": "/find?type=3&query=meetinghouse", "word": "meetinghouse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4488", "link": "/find?type=4&query=meek", "word": "meek"}, {"id": "4489", "link": "/find?type=4&query=meet", "word": "meet"}, {"id": "4490", "link": "/find?type=4&query=meeting", "word": "meeting"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17847",
+                "link": "/find?type=3&query=meek",
+                "word": "meek"
+            },
+            {
+                "id": "17848",
+                "link": "/find?type=3&query=meet",
+                "word": "meet"
+            },
+            {
+                "id": "17849",
+                "link": "/find?type=3&query=meeting",
+                "word": "meeting"
+            },
+            {
+                "id": "17850",
+                "link": "/find?type=3&query=meetinghouse",
+                "word": "meetinghouse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56866",
+                "link": "/find?type=1&query=meed",
+                "word": "meed"
+            },
+            {
+                "id": "56867",
+                "link": "/find?type=1&query=meek",
+                "word": "meek"
+            },
+            {
+                "id": "56868",
+                "link": "/find?type=1&query=meekly",
+                "word": "meekly"
+            },
+            {
+                "id": "56869",
+                "link": "/find?type=1&query=meekness",
+                "word": "meekness"
+            },
+            {
+                "id": "56870",
+                "link": "/find?type=1&query=meerschaum",
+                "word": "meerschaum"
+            },
+            {
+                "id": "56871",
+                "link": "/find?type=1&query=meet",
+                "word": "meet"
+            },
+            {
+                "id": "56872",
+                "link": "/find?type=1&query=meeting",
+                "word": "meeting"
+            },
+            {
+                "id": "56873",
+                "link": "/find?type=1&query=meeting+house",
+                "word": "meeting house"
+            },
+            {
+                "id": "56874",
+                "link": "/find?type=1&query=meeting+place",
+                "word": "meeting place"
+            },
+            {
+                "id": "56875",
+                "link": "/find?type=1&query=meeting-hall",
+                "word": "meeting-hall"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4488",
+                "link": "/find?type=4&query=meek",
+                "word": "meek"
+            },
+            {
+                "id": "4489",
+                "link": "/find?type=4&query=meet",
+                "word": "meet"
+            },
+            {
+                "id": "4490",
+                "link": "/find?type=4&query=meeting",
+                "word": "meeting"
+            }
+        ]
+    }
+}

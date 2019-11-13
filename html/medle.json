@@ -1,1 +1,32 @@
-{"error": 0, "query": "medle", "enViData": {"suggests": [{"id": "56857", "link": "/find?type=1&query=medley", "word": "medley"}]}, "mUrl": "/find?type=1&query=medle", "enEnData": {"suggests": [{"id": "17846", "link": "/find?type=3&query=medley", "word": "medley"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4487", "link": "/find?type=4&query=medley", "word": "medley"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17846",
+                "link": "/find?type=3&query=medley",
+                "word": "medley"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56857",
+                "link": "/find?type=1&query=medley",
+                "word": "medley"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4487",
+                "link": "/find?type=4&query=medley",
+                "word": "medley"
+            }
+        ]
+    }
+}

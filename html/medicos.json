@@ -1,1 +1,37 @@
-{"error": 0, "query": "medicos", "enViData": {"suggests": [{"id": "56829", "link": "/find?type=1&query=medicosocial", "word": "medicosocial"}], "best": {"id": "56829", "details": "\n<div id=\"find_word_56829\" class=\"world word_en\" rel=\"medicos\">\n    <h2 class=\"fl\">medicos <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56829\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56829\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thgt) th\u1ea7y thu\u1ed1c</div>\n    \n</div>\n", "link": "/find?type=1&query=medicos", "word": "medicos"}}, "mUrl": "/find?type=1&query=medicos", "enEnData": {"suggests": [{"id": "17833", "link": "/find?type=3&query=medicolegal", "word": "medicolegal"}], "best": {"id": "17833", "details": "\n<div id=\"find_word_17833\" class=\"world word_en\" rel=\"medico\">\n    <h2 class=\"fl\">medico <span class=\"color-black\">/\u02c8m\u025bd\u026a\u02ccko\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17833\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17833\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cos</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :1doctor</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She proved the medicos wrong by recovering quickly from her injuries.</div>\n    \n</div>\n", "link": "/find?type=3&query=medico", "word": "medico"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cos</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :1doctor</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She proved the medicos wrong by recovering quickly from her injuries.</div>",
+            "id": "17833",
+            "mean": [],
+            "pronounce": "/\u02c8m\u025bd\u026a\u02ccko\u028a/",
+            "type": "noun",
+            "word": "medico"
+        },
+        "suggests": [
+            {
+                "id": "17833",
+                "link": "/find?type=3&query=medicolegal",
+                "word": "medicolegal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thgt) th\u1ea7y thu\u1ed1c</div>",
+            "id": "56829",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "medicos"
+        },
+        "suggests": [
+            {
+                "id": "56829",
+                "link": "/find?type=1&query=medicosocial",
+                "word": "medicosocial"
+            }
+        ]
+    }
+}

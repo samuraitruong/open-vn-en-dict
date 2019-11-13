@@ -1,1 +1,42 @@
-{"error": 0, "query": "medio", "enViData": {"suggests": [{"id": "56836", "link": "/find?type=1&query=mediocre", "word": "mediocre"}, {"id": "56837", "link": "/find?type=1&query=mediocrity", "word": "mediocrity"}]}, "mUrl": "/find?type=1&query=medio", "enEnData": {"suggests": [{"id": "17836", "link": "/find?type=3&query=mediocre", "word": "mediocre"}, {"id": "17837", "link": "/find?type=3&query=mediocrity", "word": "mediocrity"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4483", "link": "/find?type=4&query=mediocre", "word": "mediocre"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17836",
+                "link": "/find?type=3&query=mediocre",
+                "word": "mediocre"
+            },
+            {
+                "id": "17837",
+                "link": "/find?type=3&query=mediocrity",
+                "word": "mediocrity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56836",
+                "link": "/find?type=1&query=mediocre",
+                "word": "mediocre"
+            },
+            {
+                "id": "56837",
+                "link": "/find?type=1&query=mediocrity",
+                "word": "mediocrity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4483",
+                "link": "/find?type=4&query=mediocre",
+                "word": "mediocre"
+            }
+        ]
+    }
+}

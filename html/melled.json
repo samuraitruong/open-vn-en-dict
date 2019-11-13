@@ -1,1 +1,82 @@
-{"error": 0, "query": "melled", "enViData": {"suggests": [{"id": "56965", "link": "/find?type=1&query=melliferous", "word": "melliferous"}, {"id": "56966", "link": "/find?type=1&query=mellifluence", "word": "mellifluence"}, {"id": "56967", "link": "/find?type=1&query=mellifluent", "word": "mellifluent"}, {"id": "56968", "link": "/find?type=1&query=mellifluently", "word": "mellifluently"}, {"id": "56969", "link": "/find?type=1&query=mellifluous", "word": "mellifluous"}, {"id": "56970", "link": "/find?type=1&query=mellifluously", "word": "mellifluously"}, {"id": "56971", "link": "/find?type=1&query=mellifluousness", "word": "mellifluousness"}, {"id": "56972", "link": "/find?type=1&query=mellow", "word": "mellow"}, {"id": "56973", "link": "/find?type=1&query=mellowly", "word": "mellowly"}, {"id": "56974", "link": "/find?type=1&query=mellowness", "word": "mellowness"}]}, "mUrl": "/find?type=1&query=melled", "enEnData": {"suggests": [{"id": "17881", "link": "/find?type=3&query=mellifluous", "word": "mellifluous"}, {"id": "17882", "link": "/find?type=3&query=mellow", "word": "mellow"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4492", "link": "/find?type=4&query=mellow", "word": "mellow"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17881",
+                "link": "/find?type=3&query=mellifluous",
+                "word": "mellifluous"
+            },
+            {
+                "id": "17882",
+                "link": "/find?type=3&query=mellow",
+                "word": "mellow"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56965",
+                "link": "/find?type=1&query=melliferous",
+                "word": "melliferous"
+            },
+            {
+                "id": "56966",
+                "link": "/find?type=1&query=mellifluence",
+                "word": "mellifluence"
+            },
+            {
+                "id": "56967",
+                "link": "/find?type=1&query=mellifluent",
+                "word": "mellifluent"
+            },
+            {
+                "id": "56968",
+                "link": "/find?type=1&query=mellifluently",
+                "word": "mellifluently"
+            },
+            {
+                "id": "56969",
+                "link": "/find?type=1&query=mellifluous",
+                "word": "mellifluous"
+            },
+            {
+                "id": "56970",
+                "link": "/find?type=1&query=mellifluously",
+                "word": "mellifluously"
+            },
+            {
+                "id": "56971",
+                "link": "/find?type=1&query=mellifluousness",
+                "word": "mellifluousness"
+            },
+            {
+                "id": "56972",
+                "link": "/find?type=1&query=mellow",
+                "word": "mellow"
+            },
+            {
+                "id": "56973",
+                "link": "/find?type=1&query=mellowly",
+                "word": "mellowly"
+            },
+            {
+                "id": "56974",
+                "link": "/find?type=1&query=mellowness",
+                "word": "mellowness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4492",
+                "link": "/find?type=4&query=mellow",
+                "word": "mellow"
+            }
+        ]
+    }
+}

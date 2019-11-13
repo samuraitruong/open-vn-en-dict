@@ -1,1 +1,37 @@
-{"error": 0, "query": "megalops", "enViData": {"suggests": [{"id": "56898", "link": "/find?type=1&query=megalopolis", "word": "megalopolis"}, {"id": "56899", "link": "/find?type=1&query=megalopolistic", "word": "megalopolistic"}, {"id": "56900", "link": "/find?type=1&query=megalopolitan", "word": "megalopolitan"}, {"id": "56901", "link": "/find?type=1&query=megalopteran", "word": "megalopteran"}]}, "mUrl": "/find?type=1&query=megalops", "enEnData": {"suggests": [{"id": "17863", "link": "/find?type=3&query=megalopolis", "word": "megalopolis"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17863",
+                "link": "/find?type=3&query=megalopolis",
+                "word": "megalopolis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56898",
+                "link": "/find?type=1&query=megalopolis",
+                "word": "megalopolis"
+            },
+            {
+                "id": "56899",
+                "link": "/find?type=1&query=megalopolistic",
+                "word": "megalopolistic"
+            },
+            {
+                "id": "56900",
+                "link": "/find?type=1&query=megalopolitan",
+                "word": "megalopolitan"
+            },
+            {
+                "id": "56901",
+                "link": "/find?type=1&query=megalopteran",
+                "word": "megalopteran"
+            }
+        ]
+    }
+}

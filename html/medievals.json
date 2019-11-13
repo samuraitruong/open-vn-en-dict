@@ -1,1 +1,43 @@
-{"error": 0, "query": "medievals", "enViData": {"suggests": [{"id": "56831", "link": "/find?type=1&query=medieval%2C+mediaeval", "word": "medieval, mediaeval"}, {"id": "56831", "link": "/find?type=1&query=medievalism", "word": "medievalism"}, {"id": "56831", "link": "/find?type=1&query=medievalist", "word": "medievalist"}], "best": {"id": "56831", "details": "\n<div id=\"find_word_56831\" class=\"world word_en\" rel=\"medieval\">\n    <h2 class=\"fl\">medieval <span class=\"color-black\">/medi'i:v\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56831\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56831\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) th\u1eddi Trung c\u1ed5; ki\u1ec3u trung c\u1ed5</div>\n    \n</div>\n", "link": "/find?type=1&query=medieval", "word": "medieval"}}, "mUrl": "/find?type=1&query=medievals", "enEnData": {"suggests": [], "best": {"id": "17835", "details": "\n<div id=\"find_word_17835\" class=\"world word_en\" rel=\"medieval\">\n    <h2 class=\"fl\">medieval <span class=\"color-black\">/\u02ccmi\u02d0di\u02c8i\u02d0v\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02ccm\u025bdi\u02c8i\u02d0v\u0259l/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17835\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17835\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">also mediaeval</div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~]</div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to the Middle Ages :of or relating to the period of European history from about A.D. 500 to about</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medieval music/history/warriors</div>\n    \n    <div class=\"green margin25 m-top15\">informal :very old :too old to be useful or acceptable</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They're using a computer system that seems positively medieval by today's standards.</div>\n    \n</div>\n", "link": "/find?type=3&query=medieval", "word": "medieval"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">also mediaeval</div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~]</div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to the Middle Ages :of or relating to the period of European history from about A.D. 500 to about</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medieval music/history/warriors</div>\n    \n    <div class=\"green margin25 m-top15\">informal :very old :too old to be useful or acceptable</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They're using a computer system that seems positively medieval by today's standards.</div>",
+            "id": "17835",
+            "mean": [],
+            "pronounce": "/\u02ccmi\u02d0di\u02c8i\u02d0v\u0259l/",
+            "type": "adjective",
+            "word": "medieval"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) th\u1eddi Trung c\u1ed5; ki\u1ec3u trung c\u1ed5</div>",
+            "id": "56831",
+            "mean": [],
+            "pronounce": "/medi'i:v\u0259l/",
+            "speak": {
+                "us": "https://stream-dict-laban.zdn.vn/us/6aa1a8d5bd1d226e17c194062e8b95fd/16e629af823/M/medieval.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "medieval"
+        },
+        "suggests": [
+            {
+                "id": "56831",
+                "link": "/find?type=1&query=medieval%2C+mediaeval",
+                "word": "medieval, mediaeval"
+            },
+            {
+                "id": "56831",
+                "link": "/find?type=1&query=medievalism",
+                "word": "medievalism"
+            },
+            {
+                "id": "56831",
+                "link": "/find?type=1&query=medievalist",
+                "word": "medievalist"
+            }
+        ]
+    }
+}

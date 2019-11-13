@@ -1,1 +1,107 @@
-{"error": 0, "query": "melas", "enViData": {"suggests": [{"id": "56924", "link": "/find?type=1&query=melamine", "word": "melamine"}, {"id": "56925", "link": "/find?type=1&query=melancholia", "word": "melancholia"}, {"id": "56926", "link": "/find?type=1&query=melancholiac", "word": "melancholiac"}, {"id": "56927", "link": "/find?type=1&query=melancholic", "word": "melancholic"}, {"id": "56928", "link": "/find?type=1&query=melancholically", "word": "melancholically"}, {"id": "56929", "link": "/find?type=1&query=melancholy", "word": "melancholy"}, {"id": "56930", "link": "/find?type=1&query=melanesian", "word": "melanesian"}, {"id": "56931", "link": "/find?type=1&query=melange", "word": "melange"}, {"id": "56932", "link": "/find?type=1&query=melanic", "word": "melanic"}, {"id": "56933", "link": "/find?type=1&query=melanin", "word": "melanin"}]}, "mUrl": "/find?type=1&query=melas", "enEnData": {"suggests": [{"id": "17872", "link": "/find?type=3&query=melamine", "word": "melamine"}, {"id": "17873", "link": "/find?type=3&query=melancholia", "word": "melancholia"}, {"id": "17874", "link": "/find?type=3&query=melancholic", "word": "melancholic"}, {"id": "17875", "link": "/find?type=3&query=melancholy", "word": "melancholy"}, {"id": "17876", "link": "/find?type=3&query=melange", "word": "melange"}, {"id": "17877", "link": "/find?type=3&query=melanin", "word": "melanin"}, {"id": "17878", "link": "/find?type=3&query=melanoma", "word": "melanoma"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4491", "link": "/find?type=4&query=melancholy", "word": "melancholy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17872",
+                "link": "/find?type=3&query=melamine",
+                "word": "melamine"
+            },
+            {
+                "id": "17873",
+                "link": "/find?type=3&query=melancholia",
+                "word": "melancholia"
+            },
+            {
+                "id": "17874",
+                "link": "/find?type=3&query=melancholic",
+                "word": "melancholic"
+            },
+            {
+                "id": "17875",
+                "link": "/find?type=3&query=melancholy",
+                "word": "melancholy"
+            },
+            {
+                "id": "17876",
+                "link": "/find?type=3&query=melange",
+                "word": "melange"
+            },
+            {
+                "id": "17877",
+                "link": "/find?type=3&query=melanin",
+                "word": "melanin"
+            },
+            {
+                "id": "17878",
+                "link": "/find?type=3&query=melanoma",
+                "word": "melanoma"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56924",
+                "link": "/find?type=1&query=melamine",
+                "word": "melamine"
+            },
+            {
+                "id": "56925",
+                "link": "/find?type=1&query=melancholia",
+                "word": "melancholia"
+            },
+            {
+                "id": "56926",
+                "link": "/find?type=1&query=melancholiac",
+                "word": "melancholiac"
+            },
+            {
+                "id": "56927",
+                "link": "/find?type=1&query=melancholic",
+                "word": "melancholic"
+            },
+            {
+                "id": "56928",
+                "link": "/find?type=1&query=melancholically",
+                "word": "melancholically"
+            },
+            {
+                "id": "56929",
+                "link": "/find?type=1&query=melancholy",
+                "word": "melancholy"
+            },
+            {
+                "id": "56930",
+                "link": "/find?type=1&query=melanesian",
+                "word": "melanesian"
+            },
+            {
+                "id": "56931",
+                "link": "/find?type=1&query=melange",
+                "word": "melange"
+            },
+            {
+                "id": "56932",
+                "link": "/find?type=1&query=melanic",
+                "word": "melanic"
+            },
+            {
+                "id": "56933",
+                "link": "/find?type=1&query=melanin",
+                "word": "melanin"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4491",
+                "link": "/find?type=4&query=melancholy",
+                "word": "melancholy"
+            }
+        ]
+    }
+}

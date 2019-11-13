@@ -1,1 +1,22 @@
-{"error": 0, "query": "meditatio", "enViData": {"suggests": [{"id": "56840", "link": "/find?type=1&query=meditation", "word": "meditation"}]}, "mUrl": "/find?type=1&query=meditatio", "enEnData": {"suggests": [{"id": "17839", "link": "/find?type=3&query=meditation", "word": "meditation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17839",
+                "link": "/find?type=3&query=meditation",
+                "word": "meditation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56840",
+                "link": "/find?type=1&query=meditation",
+                "word": "meditation"
+            }
+        ]
+    }
+}
