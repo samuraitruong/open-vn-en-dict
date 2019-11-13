@@ -1,1 +1,27 @@
-{"error": 0, "query": "myrt", "enViData": {"suggests": [{"id": "59579", "link": "/find?type=1&query=myrtaceous", "word": "myrtaceous"}, {"id": "59580", "link": "/find?type=1&query=myrtle", "word": "myrtle"}]}, "mUrl": "/find?type=1&query=myrt", "enEnData": {"suggests": [{"id": "18938", "link": "/find?type=3&query=myrtle", "word": "myrtle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18938",
+                "link": "/find?type=3&query=myrtle",
+                "word": "myrtle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59579",
+                "link": "/find?type=1&query=myrtaceous",
+                "word": "myrtaceous"
+            },
+            {
+                "id": "59580",
+                "link": "/find?type=1&query=myrtle",
+                "word": "myrtle"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "myops", "enViData": {"suggests": [{"id": "59567", "link": "/find?type=1&query=myope", "word": "myope"}, {"id": "59568", "link": "/find?type=1&query=myopia", "word": "myopia"}, {"id": "59569", "link": "/find?type=1&query=myopic", "word": "myopic"}, {"id": "59570", "link": "/find?type=1&query=myopically", "word": "myopically"}, {"id": "59571", "link": "/find?type=1&query=myopy", "word": "myopy"}]}, "mUrl": "/find?type=1&query=myops", "enEnData": {"suggests": [{"id": "18934", "link": "/find?type=3&query=myopia", "word": "myopia"}, {"id": "18935", "link": "/find?type=3&query=myopic", "word": "myopic"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18934",
+                "link": "/find?type=3&query=myopia",
+                "word": "myopia"
+            },
+            {
+                "id": "18935",
+                "link": "/find?type=3&query=myopic",
+                "word": "myopic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59567",
+                "link": "/find?type=1&query=myope",
+                "word": "myope"
+            },
+            {
+                "id": "59568",
+                "link": "/find?type=1&query=myopia",
+                "word": "myopia"
+            },
+            {
+                "id": "59569",
+                "link": "/find?type=1&query=myopic",
+                "word": "myopic"
+            },
+            {
+                "id": "59570",
+                "link": "/find?type=1&query=myopically",
+                "word": "myopically"
+            },
+            {
+                "id": "59571",
+                "link": "/find?type=1&query=myopy",
+                "word": "myopy"
+            }
+        ]
+    }
+}

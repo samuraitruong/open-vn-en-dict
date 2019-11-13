@@ -1,1 +1,47 @@
-{"error": 0, "query": "miscellane", "enViData": {"suggests": [{"id": "58009", "link": "/find?type=1&query=miscellanea", "word": "miscellanea"}, {"id": "58010", "link": "/find?type=1&query=miscellaneity", "word": "miscellaneity"}, {"id": "58011", "link": "/find?type=1&query=miscellaneous", "word": "miscellaneous"}, {"id": "58012", "link": "/find?type=1&query=miscellaneousness", "word": "miscellaneousness"}]}, "mUrl": "/find?type=1&query=miscellane", "enEnData": {"suggests": [{"id": "18292", "link": "/find?type=3&query=miscellaneous", "word": "miscellaneous"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4589", "link": "/find?type=4&query=miscellaneous", "word": "miscellaneous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18292",
+                "link": "/find?type=3&query=miscellaneous",
+                "word": "miscellaneous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58009",
+                "link": "/find?type=1&query=miscellanea",
+                "word": "miscellanea"
+            },
+            {
+                "id": "58010",
+                "link": "/find?type=1&query=miscellaneity",
+                "word": "miscellaneity"
+            },
+            {
+                "id": "58011",
+                "link": "/find?type=1&query=miscellaneous",
+                "word": "miscellaneous"
+            },
+            {
+                "id": "58012",
+                "link": "/find?type=1&query=miscellaneousness",
+                "word": "miscellaneousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4589",
+                "link": "/find?type=4&query=miscellaneous",
+                "word": "miscellaneous"
+            }
+        ]
+    }
+}
