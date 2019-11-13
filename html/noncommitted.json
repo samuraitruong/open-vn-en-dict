@@ -1,1 +1,22 @@
-{"error": 0, "query": "noncommitted", "mUrl": "/find?type=1&query=noncommitted", "enEnData": {"suggests": [{"id": "19428", "link": "/find?type=3&query=noncommittal", "word": "noncommittal"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4880", "link": "/find?type=4&query=noncommittal", "word": "noncommittal"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19428",
+                "link": "/find?type=3&query=noncommittal",
+                "word": "noncommittal"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4880",
+                "link": "/find?type=4&query=noncommittal",
+                "word": "noncommittal"
+            }
+        ]
+    }
+}

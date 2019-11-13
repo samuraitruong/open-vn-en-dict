@@ -1,1 +1,22 @@
-{"error": 0, "query": "nonbeing", "enViData": {"suggests": [{"id": "60912", "link": "/find?type=1&query=nonbearing", "word": "nonbearing"}]}, "mUrl": "/find?type=1&query=nonbeing", "enEnData": {"suggests": [{"id": "19418", "link": "/find?type=3&query=nonbeliever", "word": "nonbeliever"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19418",
+                "link": "/find?type=3&query=nonbeliever",
+                "word": "nonbeliever"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60912",
+                "link": "/find?type=1&query=nonbearing",
+                "word": "nonbearing"
+            }
+        ]
+    }
+}

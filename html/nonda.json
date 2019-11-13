@@ -1,1 +1,22 @@
-{"error": 0, "query": "nonda", "enViData": {"suggests": [{"id": "60922", "link": "/find?type=1&query=nondazzle", "word": "nondazzle"}]}, "mUrl": "/find?type=1&query=nonda", "enEnData": {"suggests": [{"id": "19442", "link": "/find?type=3&query=nondairy", "word": "nondairy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19442",
+                "link": "/find?type=3&query=nondairy",
+                "word": "nondairy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60922",
+                "link": "/find?type=1&query=nondazzle",
+                "word": "nondazzle"
+            }
+        ]
+    }
+}
