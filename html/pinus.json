@@ -1,1 +1,22 @@
-{"error": 0, "query": "pinus", "enViData": {"suggests": [{"id": "68154", "link": "/find?type=1&query=pinup", "word": "pinup"}]}, "mUrl": "/find?type=1&query=pinus", "enEnData": {"suggests": [{"id": "21865", "link": "/find?type=3&query=pinup", "word": "pinup"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21865",
+                "link": "/find?type=3&query=pinup",
+                "word": "pinup"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68154",
+                "link": "/find?type=1&query=pinup",
+                "word": "pinup"
+            }
+        ]
+    }
+}

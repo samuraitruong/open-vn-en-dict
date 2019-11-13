@@ -1,1 +1,32 @@
-{"error": 0, "query": "pinnings", "enViData": {"suggests": [{"id": "68146", "link": "/find?type=1&query=pins+and+needles", "word": "pins and needles"}, {"id": "68147", "link": "/find?type=1&query=pinstripe", "word": "pinstripe"}]}, "mUrl": "/find?type=1&query=pinnings", "enEnData": {"suggests": [{"id": "21859", "link": "/find?type=3&query=pins+and+needles", "word": "pins and needles"}, {"id": "21860", "link": "/find?type=3&query=pinstripe", "word": "pinstripe"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21859",
+                "link": "/find?type=3&query=pins+and+needles",
+                "word": "pins and needles"
+            },
+            {
+                "id": "21860",
+                "link": "/find?type=3&query=pinstripe",
+                "word": "pinstripe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68146",
+                "link": "/find?type=1&query=pins+and+needles",
+                "word": "pins and needles"
+            },
+            {
+                "id": "68147",
+                "link": "/find?type=1&query=pinstripe",
+                "word": "pinstripe"
+            }
+        ]
+    }
+}

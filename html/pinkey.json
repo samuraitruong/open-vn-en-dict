@@ -1,1 +1,22 @@
-{"error": 0, "query": "pinkey", "enViData": {"suggests": [{"id": "68118", "link": "/find?type=1&query=pinkeye", "word": "pinkeye"}]}, "mUrl": "/find?type=1&query=pinkey", "enEnData": {"suggests": [{"id": "21847", "link": "/find?type=3&query=pinkeye", "word": "pinkeye"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21847",
+                "link": "/find?type=3&query=pinkeye",
+                "word": "pinkeye"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68118",
+                "link": "/find?type=1&query=pinkeye",
+                "word": "pinkeye"
+            }
+        ]
+    }
+}

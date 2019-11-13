@@ -1,1 +1,37 @@
-{"error": 0, "query": "pipi", "enViData": {"suggests": [{"id": "68182", "link": "/find?type=1&query=piping", "word": "piping"}, {"id": "68183", "link": "/find?type=1&query=pipistrel", "word": "pipistrel"}, {"id": "68184", "link": "/find?type=1&query=pipit", "word": "pipit"}]}, "mUrl": "/find?type=1&query=pipi", "enEnData": {"suggests": [{"id": "21879", "link": "/find?type=3&query=piping", "word": "piping"}, {"id": "21880", "link": "/find?type=3&query=piping+hot", "word": "piping hot"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21879",
+                "link": "/find?type=3&query=piping",
+                "word": "piping"
+            },
+            {
+                "id": "21880",
+                "link": "/find?type=3&query=piping+hot",
+                "word": "piping hot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68182",
+                "link": "/find?type=1&query=piping",
+                "word": "piping"
+            },
+            {
+                "id": "68183",
+                "link": "/find?type=1&query=pipistrel",
+                "word": "pipistrel"
+            },
+            {
+                "id": "68184",
+                "link": "/find?type=1&query=pipit",
+                "word": "pipit"
+            }
+        ]
+    }
+}

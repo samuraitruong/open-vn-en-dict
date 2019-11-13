@@ -1,1 +1,34 @@
-{"error": 0, "query": "pinheads", "enViData": {"suggests": [], "best": {"id": "68113", "details": "\n<div id=\"find_word_68113\" class=\"world word_en\" rel=\"pinhead\">\n    <h2 class=\"fl\">pinhead <span class=\"color-black\">/'pinhed/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68113\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68113\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a x\u1ea5u) ng\u01b0\u1eddi ng\u1edb ng\u1ea9n</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt nh\u1ecf x\u00edu; ch\u1ea5m nh\u1ecf x\u00edu</div>\n    \n</div>\n", "link": "/find?type=1&query=pinhead", "word": "pinhead"}}, "mUrl": "/find?type=1&query=pinheads", "enEnData": {"suggests": [{"id": "21840", "link": "/find?type=3&query=pinheaded", "word": "pinheaded"}], "best": {"id": "21840", "details": "\n<div id=\"find_word_21840\" class=\"world word_en\" rel=\"pinhead\">\n    <h2 class=\"fl\">pinhead <span class=\"color-black\">/\u02c8p\u026an\u02cch\u025bd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21840\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21840\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -heads</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the rounded end of a pin</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The insect is the size of a pinhead.</div>\n    \n    <div class=\"green margin25 m-top15\">US informal :a stupid or foolish person</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her boss is a real pinhead.</div>\n    \n</div>\n", "link": "/find?type=3&query=pinhead", "word": "pinhead"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -heads</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the rounded end of a pin</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The insect is the size of a pinhead.</div>\n    \n    <div class=\"green margin25 m-top15\">US informal :a stupid or foolish person</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Her boss is a real pinhead.</div>",
+            "id": "21840",
+            "mean": [],
+            "pronounce": "/\u02c8p\u026an\u02cch\u025bd/",
+            "type": "noun",
+            "word": "pinhead"
+        },
+        "suggests": [
+            {
+                "id": "21840",
+                "link": "/find?type=3&query=pinheaded",
+                "word": "pinheaded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a x\u1ea5u) ng\u01b0\u1eddi ng\u1edb ng\u1ea9n</div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eadt nh\u1ecf x\u00edu; ch\u1ea5m nh\u1ecf x\u00edu</div>",
+            "id": "68113",
+            "mean": [],
+            "pronounce": "/'pinhed/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f86b0bd1005261cc6791e7f0fe2c0eb8/16e62c84f53/P/pinhead.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2488c57da2d2ed0a9624c443ecf12851/16e62c84998/P/pinhead.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pinhead"
+        },
+        "suggests": []
+    }
+}

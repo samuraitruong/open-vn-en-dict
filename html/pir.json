@@ -1,1 +1,92 @@
-{"error": 0, "query": "pir", "enViData": {"suggests": [{"id": "68196", "link": "/find?type=1&query=piracy", "word": "piracy"}, {"id": "68197", "link": "/find?type=1&query=piragua", "word": "piragua"}, {"id": "68198", "link": "/find?type=1&query=piranha", "word": "piranha"}, {"id": "68199", "link": "/find?type=1&query=pirate", "word": "pirate"}, {"id": "68200", "link": "/find?type=1&query=piratic", "word": "piratic"}, {"id": "68201", "link": "/find?type=1&query=piratical", "word": "piratical"}, {"id": "68202", "link": "/find?type=1&query=piratically", "word": "piratically"}, {"id": "68203", "link": "/find?type=1&query=pirogue", "word": "pirogue"}, {"id": "68204", "link": "/find?type=1&query=pirouette", "word": "pirouette"}]}, "mUrl": "/find?type=1&query=pir", "enEnData": {"suggests": [{"id": "21884", "link": "/find?type=3&query=piracy", "word": "piracy"}, {"id": "21885", "link": "/find?type=3&query=piranha", "word": "piranha"}, {"id": "21886", "link": "/find?type=3&query=pirate", "word": "pirate"}, {"id": "21887", "link": "/find?type=3&query=pirouette", "word": "pirouette"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5545", "link": "/find?type=4&query=pirate", "word": "pirate"}, {"id": "5546", "link": "/find?type=4&query=pirouette", "word": "pirouette"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21884",
+                "link": "/find?type=3&query=piracy",
+                "word": "piracy"
+            },
+            {
+                "id": "21885",
+                "link": "/find?type=3&query=piranha",
+                "word": "piranha"
+            },
+            {
+                "id": "21886",
+                "link": "/find?type=3&query=pirate",
+                "word": "pirate"
+            },
+            {
+                "id": "21887",
+                "link": "/find?type=3&query=pirouette",
+                "word": "pirouette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68196",
+                "link": "/find?type=1&query=piracy",
+                "word": "piracy"
+            },
+            {
+                "id": "68197",
+                "link": "/find?type=1&query=piragua",
+                "word": "piragua"
+            },
+            {
+                "id": "68198",
+                "link": "/find?type=1&query=piranha",
+                "word": "piranha"
+            },
+            {
+                "id": "68199",
+                "link": "/find?type=1&query=pirate",
+                "word": "pirate"
+            },
+            {
+                "id": "68200",
+                "link": "/find?type=1&query=piratic",
+                "word": "piratic"
+            },
+            {
+                "id": "68201",
+                "link": "/find?type=1&query=piratical",
+                "word": "piratical"
+            },
+            {
+                "id": "68202",
+                "link": "/find?type=1&query=piratically",
+                "word": "piratically"
+            },
+            {
+                "id": "68203",
+                "link": "/find?type=1&query=pirogue",
+                "word": "pirogue"
+            },
+            {
+                "id": "68204",
+                "link": "/find?type=1&query=pirouette",
+                "word": "pirouette"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5545",
+                "link": "/find?type=4&query=pirate",
+                "word": "pirate"
+            },
+            {
+                "id": "5546",
+                "link": "/find?type=4&query=pirouette",
+                "word": "pirouette"
+            }
+        ]
+    }
+}
