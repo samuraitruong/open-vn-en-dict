@@ -1,1 +1,27 @@
-{"error": 0, "query": "nonpros", "enViData": {"suggests": [{"id": "60936", "link": "/find?type=1&query=nonprofit", "word": "nonprofit"}]}, "mUrl": "/find?type=1&query=nonpros", "enEnData": {"suggests": [{"id": "19476", "link": "/find?type=3&query=nonprofit", "word": "nonprofit"}, {"id": "19478", "link": "/find?type=3&query=nonproliferation", "word": "nonproliferation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19476",
+                "link": "/find?type=3&query=nonprofit",
+                "word": "nonprofit"
+            },
+            {
+                "id": "19478",
+                "link": "/find?type=3&query=nonproliferation",
+                "word": "nonproliferation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60936",
+                "link": "/find?type=1&query=nonprofit",
+                "word": "nonprofit"
+            }
+        ]
+    }
+}

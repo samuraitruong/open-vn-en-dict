@@ -1,1 +1,37 @@
-{"error": 0, "query": "nonpar", "enViData": {"suggests": [{"id": "60932", "link": "/find?type=1&query=nonpareil", "word": "nonpareil"}]}, "mUrl": "/find?type=1&query=nonpar", "enEnData": {"suggests": [{"id": "19468", "link": "/find?type=3&query=nonpareil", "word": "nonpareil"}, {"id": "19469", "link": "/find?type=3&query=nonpartisan", "word": "nonpartisan"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4892", "link": "/find?type=4&query=nonpareil", "word": "nonpareil"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19468",
+                "link": "/find?type=3&query=nonpareil",
+                "word": "nonpareil"
+            },
+            {
+                "id": "19469",
+                "link": "/find?type=3&query=nonpartisan",
+                "word": "nonpartisan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60932",
+                "link": "/find?type=1&query=nonpareil",
+                "word": "nonpareil"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4892",
+                "link": "/find?type=4&query=nonpareil",
+                "word": "nonpareil"
+            }
+        ]
+    }
+}
