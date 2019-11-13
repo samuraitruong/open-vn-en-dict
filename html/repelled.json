@@ -1,1 +1,37 @@
-{"error": 0, "query": "repelled", "enViData": {"suggests": [{"id": "76284", "link": "/find?type=1&query=repellent", "word": "repellent"}, {"id": "76285", "link": "/find?type=1&query=repeller", "word": "repeller"}]}, "mUrl": "/find?type=1&query=repelled", "enEnData": {"suggests": [{"id": "24537", "link": "/find?type=3&query=repellent", "word": "repellent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6481", "link": "/find?type=4&query=repellent", "word": "repellent"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24537",
+                "link": "/find?type=3&query=repellent",
+                "word": "repellent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76284",
+                "link": "/find?type=1&query=repellent",
+                "word": "repellent"
+            },
+            {
+                "id": "76285",
+                "link": "/find?type=1&query=repeller",
+                "word": "repeller"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6481",
+                "link": "/find?type=4&query=repellent",
+                "word": "repellent"
+            }
+        ]
+    }
+}

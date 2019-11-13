@@ -1,1 +1,32 @@
-{"error": 0, "query": "repercuss", "enViData": {"suggests": [{"id": "76290", "link": "/find?type=1&query=repercussion", "word": "repercussion"}]}, "mUrl": "/find?type=1&query=repercuss", "enEnData": {"suggests": [{"id": "24539", "link": "/find?type=3&query=repercussion", "word": "repercussion"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6484", "link": "/find?type=4&query=repercussion", "word": "repercussion"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24539",
+                "link": "/find?type=3&query=repercussion",
+                "word": "repercussion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76290",
+                "link": "/find?type=1&query=repercussion",
+                "word": "repercussion"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6484",
+                "link": "/find?type=4&query=repercussion",
+                "word": "repercussion"
+            }
+        ]
+    }
+}

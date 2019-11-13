@@ -1,1 +1,47 @@
-{"error": 0, "query": "repenning", "enViData": {"suggests": [{"id": "76286", "link": "/find?type=1&query=repent", "word": "repent"}, {"id": "76287", "link": "/find?type=1&query=repentance", "word": "repentance"}, {"id": "76288", "link": "/find?type=1&query=repentant", "word": "repentant"}]}, "mUrl": "/find?type=1&query=repenning", "enEnData": {"suggests": [{"id": "24538", "link": "/find?type=3&query=repent", "word": "repent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6482", "link": "/find?type=4&query=repent", "word": "repent"}, {"id": "6483", "link": "/find?type=4&query=repentant", "word": "repentant"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24538",
+                "link": "/find?type=3&query=repent",
+                "word": "repent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76286",
+                "link": "/find?type=1&query=repent",
+                "word": "repent"
+            },
+            {
+                "id": "76287",
+                "link": "/find?type=1&query=repentance",
+                "word": "repentance"
+            },
+            {
+                "id": "76288",
+                "link": "/find?type=1&query=repentant",
+                "word": "repentant"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6482",
+                "link": "/find?type=4&query=repent",
+                "word": "repent"
+            },
+            {
+                "id": "6483",
+                "link": "/find?type=4&query=repentant",
+                "word": "repentant"
+            }
+        ]
+    }
+}

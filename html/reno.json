@@ -1,1 +1,107 @@
-{"error": 0, "query": "reno", "enViData": {"suggests": [{"id": "76197", "link": "/find?type=1&query=renominate", "word": "renominate"}, {"id": "76198", "link": "/find?type=1&query=renounce", "word": "renounce"}, {"id": "76199", "link": "/find?type=1&query=renouncement", "word": "renouncement"}, {"id": "76200", "link": "/find?type=1&query=renouncer", "word": "renouncer"}, {"id": "76201", "link": "/find?type=1&query=renovate", "word": "renovate"}, {"id": "76202", "link": "/find?type=1&query=renovation", "word": "renovation"}, {"id": "76203", "link": "/find?type=1&query=renovator", "word": "renovator"}, {"id": "76204", "link": "/find?type=1&query=renown", "word": "renown"}, {"id": "76205", "link": "/find?type=1&query=renowned", "word": "renowned"}]}, "mUrl": "/find?type=1&query=reno", "enEnData": {"suggests": [{"id": "24506", "link": "/find?type=3&query=renominate", "word": "renominate"}, {"id": "24507", "link": "/find?type=3&query=renounce", "word": "renounce"}, {"id": "24508", "link": "/find?type=3&query=renovate", "word": "renovate"}, {"id": "24509", "link": "/find?type=3&query=renown", "word": "renown"}, {"id": "24510", "link": "/find?type=3&query=renowned", "word": "renowned"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6469", "link": "/find?type=4&query=renounce", "word": "renounce"}, {"id": "6470", "link": "/find?type=4&query=renovate", "word": "renovate"}, {"id": "6471", "link": "/find?type=4&query=renown", "word": "renown"}, {"id": "6472", "link": "/find?type=4&query=renowned", "word": "renowned"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24506",
+                "link": "/find?type=3&query=renominate",
+                "word": "renominate"
+            },
+            {
+                "id": "24507",
+                "link": "/find?type=3&query=renounce",
+                "word": "renounce"
+            },
+            {
+                "id": "24508",
+                "link": "/find?type=3&query=renovate",
+                "word": "renovate"
+            },
+            {
+                "id": "24509",
+                "link": "/find?type=3&query=renown",
+                "word": "renown"
+            },
+            {
+                "id": "24510",
+                "link": "/find?type=3&query=renowned",
+                "word": "renowned"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76197",
+                "link": "/find?type=1&query=renominate",
+                "word": "renominate"
+            },
+            {
+                "id": "76198",
+                "link": "/find?type=1&query=renounce",
+                "word": "renounce"
+            },
+            {
+                "id": "76199",
+                "link": "/find?type=1&query=renouncement",
+                "word": "renouncement"
+            },
+            {
+                "id": "76200",
+                "link": "/find?type=1&query=renouncer",
+                "word": "renouncer"
+            },
+            {
+                "id": "76201",
+                "link": "/find?type=1&query=renovate",
+                "word": "renovate"
+            },
+            {
+                "id": "76202",
+                "link": "/find?type=1&query=renovation",
+                "word": "renovation"
+            },
+            {
+                "id": "76203",
+                "link": "/find?type=1&query=renovator",
+                "word": "renovator"
+            },
+            {
+                "id": "76204",
+                "link": "/find?type=1&query=renown",
+                "word": "renown"
+            },
+            {
+                "id": "76205",
+                "link": "/find?type=1&query=renowned",
+                "word": "renowned"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6469",
+                "link": "/find?type=4&query=renounce",
+                "word": "renounce"
+            },
+            {
+                "id": "6470",
+                "link": "/find?type=4&query=renovate",
+                "word": "renovate"
+            },
+            {
+                "id": "6471",
+                "link": "/find?type=4&query=renown",
+                "word": "renown"
+            },
+            {
+                "id": "6472",
+                "link": "/find?type=4&query=renowned",
+                "word": "renowned"
+            }
+        ]
+    }
+}

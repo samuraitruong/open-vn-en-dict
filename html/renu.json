@@ -1,1 +1,37 @@
-{"error": 0, "query": "renu", "enViData": {"suggests": [{"id": "76227", "link": "/find?type=1&query=renumber", "word": "renumber"}, {"id": "76228", "link": "/find?type=1&query=renunciation", "word": "renunciation"}, {"id": "76229", "link": "/find?type=1&query=renunciative", "word": "renunciative"}, {"id": "76230", "link": "/find?type=1&query=renunciatory", "word": "renunciatory"}]}, "mUrl": "/find?type=1&query=renu", "enEnData": {"suggests": [{"id": "24514", "link": "/find?type=3&query=renunciation", "word": "renunciation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24514",
+                "link": "/find?type=3&query=renunciation",
+                "word": "renunciation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76227",
+                "link": "/find?type=1&query=renumber",
+                "word": "renumber"
+            },
+            {
+                "id": "76228",
+                "link": "/find?type=1&query=renunciation",
+                "word": "renunciation"
+            },
+            {
+                "id": "76229",
+                "link": "/find?type=1&query=renunciative",
+                "word": "renunciative"
+            },
+            {
+                "id": "76230",
+                "link": "/find?type=1&query=renunciatory",
+                "word": "renunciatory"
+            }
+        ]
+    }
+}
