@@ -1,1 +1,45 @@
-{"error": 0, "query": "nib", "enViData": {"suggests": [{"id": "60383", "link": "/find?type=1&query=nibble", "word": "nibble"}, {"id": "60383", "link": "/find?type=1&query=nibs", "word": "nibs"}], "best": {"id": "60383", "details": "\n<div id=\"find_word_60383\" class=\"world word_en\" rel=\"nib\">\n    <h2 class=\"fl\">nib <span class=\"color-black\">/nib/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60383\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60383\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea7u ng\u00f2i b\u00fat</div>\n    \n</div>\n", "link": "/find?type=1&query=nib", "word": "nib"}}, "mUrl": "/find?type=1&query=nib", "enEnData": {"suggests": [{"id": "19280", "link": "/find?type=3&query=nibble", "word": "nibble"}], "best": {"id": "19280", "details": "\n<div id=\"find_word_19280\" class=\"world word_en\" rel=\"nib\">\n    <h2 class=\"fl\">nib <span class=\"color-black\">/\u02c8n\u026ab/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19280\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19280\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural nibs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the pointed metal tip of a pen</div>\n    \n</div>\n", "link": "/find?type=3&query=nib", "word": "nib"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural nibs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the pointed metal tip of a pen</div>",
+            "id": "19280",
+            "mean": [],
+            "pronounce": "/\u02c8n\u026ab/",
+            "type": "noun",
+            "word": "nib"
+        },
+        "suggests": [
+            {
+                "id": "19280",
+                "link": "/find?type=3&query=nibble",
+                "word": "nibble"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea7u ng\u00f2i b\u00fat</div>",
+            "id": "60383",
+            "mean": [],
+            "pronounce": "/nib/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/704331f6b5bc569afb77ae35ab956ee2/16e62aa1bec/N/nib.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fc554d05cf265f3da9f4b39f95718da1/16e62aa163c/N/nib.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "nib"
+        },
+        "suggests": [
+            {
+                "id": "60383",
+                "link": "/find?type=1&query=nibble",
+                "word": "nibble"
+            },
+            {
+                "id": "60383",
+                "link": "/find?type=1&query=nibs",
+                "word": "nibs"
+            }
+        ]
+    }
+}

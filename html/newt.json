@@ -1,1 +1,34 @@
-{"error": 0, "query": "newt", "enViData": {"suggests": [{"id": "60372", "link": "/find?type=1&query=Newtonian", "word": "Newtonian"}], "best": {"id": "60372", "details": "\n<div id=\"find_word_60372\" class=\"world word_en\" rel=\"newt\">\n    <h2 class=\"fl\">newt <span class=\"color-black\">/nju:t/</span>&nbsp;&nbsp;<span class=\"color-orange\">/nu:t/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60372\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60372\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">sa gi\u00f4ng</div>\n    \n    <div class=\"bold dot-blue m-top15\">pissed as a newt</div>\n    \n    <div class=\"grey margin25 m-top15\">say kh\u01b0\u1edbt</div>\n    \n</div>\n", "link": "/find?type=1&query=newt", "word": "newt"}}, "mUrl": "/find?type=1&query=newt", "enEnData": {"suggests": [], "best": {"id": "19269", "details": "\n<div id=\"find_word_19269\" class=\"world word_en\" rel=\"newt\">\n    <h2 class=\"fl\">newt <span class=\"color-black\">/\u02c8nu\u02d0t/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8nju\u02d0t/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19269\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19269\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural newts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small animal that lives mostly in water and that has four short legs, a long, low body and tail, and soft, wet skin</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a bright orange newt</div>\n    \n</div>\n", "link": "/find?type=3&query=newt", "word": "newt"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural newts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small animal that lives mostly in water and that has four short legs, a long, low body and tail, and soft, wet skin</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a bright orange newt</div>",
+            "id": "19269",
+            "mean": [],
+            "pronounce": "/\u02c8nu\u02d0t/",
+            "type": "noun",
+            "word": "newt"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">sa gi\u00f4ng</div>\n    \n    <div class=\"bold dot-blue m-top15\">pissed as a newt</div>\n    \n    <div class=\"grey margin25 m-top15\">say kh\u01b0\u1edbt</div>",
+            "id": "60372",
+            "mean": [],
+            "pronounce": "/nju:t/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5e9fdb9b337d0f0b7a198fe802dcfb9b/16e62aa10b3/N/newt.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4b1167512ea4de0605748d2349577f38/16e62aa0a7a/N/newt.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "newt"
+        },
+        "suggests": [
+            {
+                "id": "60372",
+                "link": "/find?type=1&query=Newtonian",
+                "word": "Newtonian"
+            }
+        ]
+    }
+}

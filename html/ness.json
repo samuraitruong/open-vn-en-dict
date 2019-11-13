@@ -1,1 +1,37 @@
-{"error": 0, "query": "ness", "enViData": {"suggests": [{"id": "104713", "link": "/find?type=1&query=-ness", "word": "-ness"}]}, "mUrl": "/find?type=1&query=ness", "enEnData": {"suggests": [{"id": "19189", "link": "/find?type=3&query=-ness", "word": "-ness"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4840", "link": "/find?type=4&query=nest", "word": "nest"}, {"id": "4841", "link": "/find?type=4&query=nestle", "word": "nestle"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19189",
+                "link": "/find?type=3&query=-ness",
+                "word": "-ness"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104713",
+                "link": "/find?type=1&query=-ness",
+                "word": "-ness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4840",
+                "link": "/find?type=4&query=nest",
+                "word": "nest"
+            },
+            {
+                "id": "4841",
+                "link": "/find?type=4&query=nestle",
+                "word": "nestle"
+            }
+        ]
+    }
+}

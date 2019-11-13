@@ -1,1 +1,31 @@
-{"error": 0, "query": "nibs", "enViData": {"suggests": [], "best": {"id": "60385", "details": "\n<div id=\"find_word_60385\" class=\"world word_en\" rel=\"nibs\">\n    <h2 class=\"fl\">nibs <span class=\"color-black\">/nibz/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60385\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60385\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">his bibs</div>\n    \n    <div class=\"grey margin25 m-top15\">(kh\u1ea9u ng\u1eef, \u0111\u00f9a) t\u01b0\u1edbng c\u00f4ng (n\u00f3i v\u1edbi m\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u00f3i t\u01b0\u1edfng m\u00ecnh l\u00e0 quan tr\u1ecdng)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">please tell his nibs that we'd like his help with the washing up</div>\n    \n    <div class=\"margin25\">phi\u1ec1n th\u01b0a v\u1edbi t\u01b0\u1edbng c\u00f4ng l\u00e0 ch\u00fang t\u00f4i mu\u1ed1n ng\u00e0i gi\u00fap r\u1eeda b\u00e1t \u0111\u0129a cho \u0111\u1ea5y</div>\n    \n</div>\n", "link": "/find?type=1&query=nibs", "word": "nibs"}}, "mUrl": "/find?type=1&query=nibs", "enEnData": {"suggests": [{"id": "19280", "link": "/find?type=3&query=nibble", "word": "nibble"}], "best": {"id": "19280", "details": "\n<div id=\"find_word_19280\" class=\"world word_en\" rel=\"nib\">\n    <h2 class=\"fl\">nib <span class=\"color-black\">/\u02c8n\u026ab/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19280\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19280\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural nibs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the pointed metal tip of a pen</div>\n    \n</div>\n", "link": "/find?type=3&query=nib", "word": "nib"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural nibs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the pointed metal tip of a pen</div>",
+            "id": "19280",
+            "mean": [],
+            "pronounce": "/\u02c8n\u026ab/",
+            "type": "noun",
+            "word": "nib"
+        },
+        "suggests": [
+            {
+                "id": "19280",
+                "link": "/find?type=3&query=nibble",
+                "word": "nibble"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">his bibs</div>\n    \n    <div class=\"grey margin25 m-top15\">(kh\u1ea9u ng\u1eef, \u0111\u00f9a) t\u01b0\u1edbng c\u00f4ng (n\u00f3i v\u1edbi m\u1ed9t ng\u01b0\u1eddi c\u00f3 th\u00f3i t\u01b0\u1edfng m\u00ecnh l\u00e0 quan tr\u1ecdng)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">please tell his nibs that we'd like his help with the washing up</div>\n    \n    <div class=\"margin25\">phi\u1ec1n th\u01b0a v\u1edbi t\u01b0\u1edbng c\u00f4ng l\u00e0 ch\u00fang t\u00f4i mu\u1ed1n ng\u00e0i gi\u00fap r\u1eeda b\u00e1t \u0111\u0129a cho \u0111\u1ea5y</div>",
+            "id": "60385",
+            "mean": [],
+            "pronounce": "/nibz/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "nibs"
+        },
+        "suggests": []
+    }
+}

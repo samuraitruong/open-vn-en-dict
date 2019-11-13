@@ -1,1 +1,37 @@
-{"error": 0, "query": "neurol", "enViData": {"suggests": [{"id": "60249", "link": "/find?type=1&query=neuroleptic", "word": "neuroleptic"}, {"id": "60250", "link": "/find?type=1&query=neurological", "word": "neurological"}, {"id": "60251", "link": "/find?type=1&query=neurologist", "word": "neurologist"}, {"id": "60252", "link": "/find?type=1&query=neurology", "word": "neurology"}]}, "mUrl": "/find?type=1&query=neurol", "enEnData": {"suggests": [{"id": "19207", "link": "/find?type=3&query=neurology", "word": "neurology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19207",
+                "link": "/find?type=3&query=neurology",
+                "word": "neurology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60249",
+                "link": "/find?type=1&query=neuroleptic",
+                "word": "neuroleptic"
+            },
+            {
+                "id": "60250",
+                "link": "/find?type=1&query=neurological",
+                "word": "neurological"
+            },
+            {
+                "id": "60251",
+                "link": "/find?type=1&query=neurologist",
+                "word": "neurologist"
+            },
+            {
+                "id": "60252",
+                "link": "/find?type=1&query=neurology",
+                "word": "neurology"
+            }
+        ]
+    }
+}

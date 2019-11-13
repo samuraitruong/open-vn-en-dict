@@ -1,1 +1,22 @@
-{"error": 0, "query": "newfangle", "enViData": {"suggests": [{"id": "60320", "link": "/find?type=1&query=newfangled", "word": "newfangled"}]}, "mUrl": "/find?type=1&query=newfangle", "enEnData": {"suggests": [{"id": "19241", "link": "/find?type=3&query=newfangled", "word": "newfangled"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19241",
+                "link": "/find?type=3&query=newfangled",
+                "word": "newfangled"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60320",
+                "link": "/find?type=1&query=newfangled",
+                "word": "newfangled"
+            }
+        ]
+    }
+}

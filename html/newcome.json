@@ -1,1 +1,32 @@
-{"error": 0, "query": "newcome", "enViData": {"suggests": [{"id": "60318", "link": "/find?type=1&query=newcomer", "word": "newcomer"}]}, "mUrl": "/find?type=1&query=newcome", "enEnData": {"suggests": [{"id": "19240", "link": "/find?type=3&query=newcomer", "word": "newcomer"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4851", "link": "/find?type=4&query=newcomer", "word": "newcomer"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19240",
+                "link": "/find?type=3&query=newcomer",
+                "word": "newcomer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60318",
+                "link": "/find?type=1&query=newcomer",
+                "word": "newcomer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4851",
+                "link": "/find?type=4&query=newcomer",
+                "word": "newcomer"
+            }
+        ]
+    }
+}
