@@ -1,1 +1,27 @@
-{"error": 0, "query": "plott", "enViData": {"suggests": [{"id": "68814", "link": "/find?type=1&query=plotter", "word": "plotter"}, {"id": "68815", "link": "/find?type=1&query=plotting+paper", "word": "plotting paper"}]}, "mUrl": "/find?type=1&query=plott", "enEnData": {"suggests": [{"id": "22104", "link": "/find?type=3&query=plotter", "word": "plotter"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22104",
+                "link": "/find?type=3&query=plotter",
+                "word": "plotter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68814",
+                "link": "/find?type=1&query=plotter",
+                "word": "plotter"
+            },
+            {
+                "id": "68815",
+                "link": "/find?type=1&query=plotting+paper",
+                "word": "plotting paper"
+            }
+        ]
+    }
+}

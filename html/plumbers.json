@@ -1,1 +1,40 @@
-{"error": 0, "query": "plumbers", "enViData": {"suggests": [{"id": "68871", "link": "/find?type=1&query=plumbery", "word": "plumbery"}], "best": {"id": "68871", "details": "\n<div id=\"find_word_68871\" class=\"world word_en\" rel=\"plumber\">\n    <h2 class=\"fl\">plumber <span class=\"color-black\">/'pl\u028cm\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68871\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68871\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 \u1ed1ng n\u01b0\u1edbc (\u0111\u1eb7t v\u00e0 s\u1eeda ch\u1eefa \u1ed1ng n\u01b0\u1edbc)</div>\n    \n</div>\n", "link": "/find?type=1&query=plumber", "word": "plumber"}}, "mUrl": "/find?type=1&query=plumbers", "enEnData": {"suggests": [{"id": "22123", "link": "/find?type=3&query=plumber%27s+snake", "word": "plumber's snake"}], "best": {"id": "22123", "details": "\n<div id=\"find_word_22123\" class=\"world word_en\" rel=\"plumber\">\n    <h2 class=\"fl\">plumber <span class=\"color-black\">/\u02c8pl\u028cm\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22123\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22123\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to install or repair sinks, toilets, water pipes, etc.</div>\n    \n</div>\n", "link": "/find?type=3&query=plumber", "word": "plumber"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to install or repair sinks, toilets, water pipes, etc.</div>",
+            "id": "22123",
+            "mean": [],
+            "pronounce": "/\u02c8pl\u028cm\u025a/",
+            "type": "noun",
+            "word": "plumber"
+        },
+        "suggests": [
+            {
+                "id": "22123",
+                "link": "/find?type=3&query=plumber%27s+snake",
+                "word": "plumber's snake"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 \u1ed1ng n\u01b0\u1edbc (\u0111\u1eb7t v\u00e0 s\u1eeda ch\u1eefa \u1ed1ng n\u01b0\u1edbc)</div>",
+            "id": "68871",
+            "mean": [],
+            "pronounce": "/'pl\u028cm\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/86cd28a46c133085fc3a9d87d642cddd/16e62cb575f/P/plumber.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0b25e0b36ca1986759f41eedb662a110/16e62cb4f74/P/plumber.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "plumber"
+        },
+        "suggests": [
+            {
+                "id": "68871",
+                "link": "/find?type=1&query=plumbery",
+                "word": "plumbery"
+            }
+        ]
+    }
+}

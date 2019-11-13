@@ -1,1 +1,32 @@
-{"error": 0, "query": "plimsols", "enViData": {"suggests": [{"id": "68792", "link": "/find?type=1&query=plimsoll", "word": "plimsoll"}, {"id": "68793", "link": "/find?type=1&query=Plimsoll+line", "word": "Plimsoll line"}, {"id": "68794", "link": "/find?type=1&query=plimsolls", "word": "plimsolls"}]}, "mUrl": "/find?type=1&query=plimsols", "enEnData": {"suggests": [{"id": "22095", "link": "/find?type=3&query=plimsoll", "word": "plimsoll"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22095",
+                "link": "/find?type=3&query=plimsoll",
+                "word": "plimsoll"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68792",
+                "link": "/find?type=1&query=plimsoll",
+                "word": "plimsoll"
+            },
+            {
+                "id": "68793",
+                "link": "/find?type=1&query=Plimsoll+line",
+                "word": "Plimsoll line"
+            },
+            {
+                "id": "68794",
+                "link": "/find?type=1&query=plimsolls",
+                "word": "plimsolls"
+            }
+        ]
+    }
+}

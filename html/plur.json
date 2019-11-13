@@ -1,1 +1,77 @@
-{"error": 0, "query": "plur", "enViData": {"suggests": [{"id": "68918", "link": "/find?type=1&query=plural", "word": "plural"}, {"id": "68919", "link": "/find?type=1&query=pluralise", "word": "pluralise"}, {"id": "68920", "link": "/find?type=1&query=pluralism", "word": "pluralism"}, {"id": "68921", "link": "/find?type=1&query=pluralist", "word": "pluralist"}, {"id": "68922", "link": "/find?type=1&query=pluralistic", "word": "pluralistic"}, {"id": "68923", "link": "/find?type=1&query=pluralistically", "word": "pluralistically"}, {"id": "68924", "link": "/find?type=1&query=plurality", "word": "plurality"}, {"id": "68925", "link": "/find?type=1&query=pluralization", "word": "pluralization"}, {"id": "68926", "link": "/find?type=1&query=pluralize", "word": "pluralize"}, {"id": "68927", "link": "/find?type=1&query=plurally", "word": "plurally"}]}, "mUrl": "/find?type=1&query=plur", "enEnData": {"suggests": [{"id": "22135", "link": "/find?type=3&query=plural", "word": "plural"}, {"id": "22136", "link": "/find?type=3&query=pluralism", "word": "pluralism"}, {"id": "22137", "link": "/find?type=3&query=plurality", "word": "plurality"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22135",
+                "link": "/find?type=3&query=plural",
+                "word": "plural"
+            },
+            {
+                "id": "22136",
+                "link": "/find?type=3&query=pluralism",
+                "word": "pluralism"
+            },
+            {
+                "id": "22137",
+                "link": "/find?type=3&query=plurality",
+                "word": "plurality"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68918",
+                "link": "/find?type=1&query=plural",
+                "word": "plural"
+            },
+            {
+                "id": "68919",
+                "link": "/find?type=1&query=pluralise",
+                "word": "pluralise"
+            },
+            {
+                "id": "68920",
+                "link": "/find?type=1&query=pluralism",
+                "word": "pluralism"
+            },
+            {
+                "id": "68921",
+                "link": "/find?type=1&query=pluralist",
+                "word": "pluralist"
+            },
+            {
+                "id": "68922",
+                "link": "/find?type=1&query=pluralistic",
+                "word": "pluralistic"
+            },
+            {
+                "id": "68923",
+                "link": "/find?type=1&query=pluralistically",
+                "word": "pluralistically"
+            },
+            {
+                "id": "68924",
+                "link": "/find?type=1&query=plurality",
+                "word": "plurality"
+            },
+            {
+                "id": "68925",
+                "link": "/find?type=1&query=pluralization",
+                "word": "pluralization"
+            },
+            {
+                "id": "68926",
+                "link": "/find?type=1&query=pluralize",
+                "word": "pluralize"
+            },
+            {
+                "id": "68927",
+                "link": "/find?type=1&query=plurally",
+                "word": "plurally"
+            }
+        ]
+    }
+}

@@ -1,1 +1,62 @@
-{"error": 0, "query": "plex", "enViData": {"suggests": [{"id": "68764", "link": "/find?type=1&query=plexal", "word": "plexal"}, {"id": "68765", "link": "/find?type=1&query=plexiform", "word": "plexiform"}, {"id": "68766", "link": "/find?type=1&query=plexiglass", "word": "plexiglass"}, {"id": "68767", "link": "/find?type=1&query=pleximeter", "word": "pleximeter"}, {"id": "68768", "link": "/find?type=1&query=pleximetric", "word": "pleximetric"}, {"id": "68769", "link": "/find?type=1&query=pleximetry", "word": "pleximetry"}, {"id": "68770", "link": "/find?type=1&query=plexor", "word": "plexor"}, {"id": "68771", "link": "/find?type=1&query=plexus", "word": "plexus"}]}, "mUrl": "/find?type=1&query=plex", "enEnData": {"suggests": [{"id": "22089", "link": "/find?type=3&query=Plexiglas", "word": "Plexiglas"}, {"id": "22090", "link": "/find?type=3&query=plexus", "word": "plexus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22089",
+                "link": "/find?type=3&query=Plexiglas",
+                "word": "Plexiglas"
+            },
+            {
+                "id": "22090",
+                "link": "/find?type=3&query=plexus",
+                "word": "plexus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68764",
+                "link": "/find?type=1&query=plexal",
+                "word": "plexal"
+            },
+            {
+                "id": "68765",
+                "link": "/find?type=1&query=plexiform",
+                "word": "plexiform"
+            },
+            {
+                "id": "68766",
+                "link": "/find?type=1&query=plexiglass",
+                "word": "plexiglass"
+            },
+            {
+                "id": "68767",
+                "link": "/find?type=1&query=pleximeter",
+                "word": "pleximeter"
+            },
+            {
+                "id": "68768",
+                "link": "/find?type=1&query=pleximetric",
+                "word": "pleximetric"
+            },
+            {
+                "id": "68769",
+                "link": "/find?type=1&query=pleximetry",
+                "word": "pleximetry"
+            },
+            {
+                "id": "68770",
+                "link": "/find?type=1&query=plexor",
+                "word": "plexor"
+            },
+            {
+                "id": "68771",
+                "link": "/find?type=1&query=plexus",
+                "word": "plexus"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"error": 0, "query": "plie", "enViData": {"suggests": [{"id": "68788", "link": "/find?type=1&query=pliers", "word": "pliers"}]}, "mUrl": "/find?type=1&query=plie", "enEnData": {"suggests": [{"id": "22093", "link": "/find?type=3&query=pliers", "word": "pliers"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22093",
+                "link": "/find?type=3&query=pliers",
+                "word": "pliers"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68788",
+                "link": "/find?type=1&query=pliers",
+                "word": "pliers"
+            }
+        ]
+    }
+}
