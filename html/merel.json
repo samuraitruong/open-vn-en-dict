@@ -1,1 +1,32 @@
-{"error": 0, "query": "merel", "enViData": {"suggests": [{"id": "57204", "link": "/find?type=1&query=merely", "word": "merely"}]}, "mUrl": "/find?type=1&query=merel", "enEnData": {"suggests": [{"id": "17957", "link": "/find?type=3&query=merely", "word": "merely"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4521", "link": "/find?type=4&query=merely", "word": "merely"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17957",
+                "link": "/find?type=3&query=merely",
+                "word": "merely"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57204",
+                "link": "/find?type=1&query=merely",
+                "word": "merely"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4521",
+                "link": "/find?type=4&query=merely",
+                "word": "merely"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "mescals", "enViData": {"suggests": [{"id": "57253", "link": "/find?type=1&query=mescalin", "word": "mescalin"}, {"id": "57254", "link": "/find?type=1&query=mescaline", "word": "mescaline"}]}, "mUrl": "/find?type=1&query=mescals", "enEnData": {"suggests": [{"id": "17971", "link": "/find?type=3&query=mescaline", "word": "mescaline"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17971",
+                "link": "/find?type=3&query=mescaline",
+                "word": "mescaline"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57253",
+                "link": "/find?type=1&query=mescalin",
+                "word": "mescalin"
+            },
+            {
+                "id": "57254",
+                "link": "/find?type=1&query=mescaline",
+                "word": "mescaline"
+            }
+        ]
+    }
+}
