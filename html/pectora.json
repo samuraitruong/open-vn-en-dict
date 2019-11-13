@@ -1,1 +1,32 @@
-{"error": 0, "query": "pectora", "enViData": {"suggests": [{"id": "65965", "link": "/find?type=1&query=pectoral", "word": "pectoral"}, {"id": "65966", "link": "/find?type=1&query=pectorals", "word": "pectorals"}]}, "mUrl": "/find?type=1&query=pectora", "enEnData": {"suggests": [{"id": "21209", "link": "/find?type=3&query=pectoral", "word": "pectoral"}, {"id": "21210", "link": "/find?type=3&query=pectorals", "word": "pectorals"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21209",
+                "link": "/find?type=3&query=pectoral",
+                "word": "pectoral"
+            },
+            {
+                "id": "21210",
+                "link": "/find?type=3&query=pectorals",
+                "word": "pectorals"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65965",
+                "link": "/find?type=1&query=pectoral",
+                "word": "pectoral"
+            },
+            {
+                "id": "65966",
+                "link": "/find?type=1&query=pectorals",
+                "word": "pectorals"
+            }
+        ]
+    }
+}

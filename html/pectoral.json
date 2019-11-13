@@ -1,1 +1,37 @@
-{"error": 0, "query": "pectoral", "enViData": {"suggests": [{"id": "65965", "link": "/find?type=1&query=pectorals", "word": "pectorals"}], "best": {"id": "65965", "details": "\n<div id=\"find_word_65965\" class=\"world word_en\" rel=\"pectoral\">\n    <h2 class=\"fl\">pectoral <span class=\"color-black\">/'pekt\u0259r\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65965\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65965\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] ng\u1ef1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">pectoral muscles</div>\n    \n    <div class=\"margin25\">c\u01a1 ng\u1ef1c</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111eo \u1edf ng\u1ef1c, mang \u1edf ng\u1ef1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pectoral cross</div>\n    \n    <div class=\"margin25\">th\u00e1nh gi\u00e1 \u0111eo \u1edf ng\u1ef1c (c\u1ee7a gi\u00e1m m\u1ee5c\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=pectoral", "word": "pectoral"}}, "mUrl": "/find?type=1&query=pectoral", "enEnData": {"suggests": [{"id": "21209", "link": "/find?type=3&query=pectorals", "word": "pectorals"}], "best": {"id": "21209", "details": "\n<div id=\"find_word_21209\" class=\"world word_en\" rel=\"pectoral\">\n    <h2 class=\"fl\">pectoral <span class=\"color-black\">/\u02c8p\u025bkt\u0259r\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21209\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21209\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :relating to or located on the chest</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">pectoral muscles</div>\n    \n</div>\n", "link": "/find?type=3&query=pectoral", "word": "pectoral"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :relating to or located on the chest</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">pectoral muscles</div>",
+            "id": "21209",
+            "mean": [],
+            "pronounce": "/\u02c8p\u025bkt\u0259r\u0259l/",
+            "type": "adjective",
+            "word": "pectoral"
+        },
+        "suggests": [
+            {
+                "id": "21209",
+                "link": "/find?type=3&query=pectorals",
+                "word": "pectorals"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] ng\u1ef1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">pectoral muscles</div>\n    \n    <div class=\"margin25\">c\u01a1 ng\u1ef1c</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111eo \u1edf ng\u1ef1c, mang \u1edf ng\u1ef1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pectoral cross</div>\n    \n    <div class=\"margin25\">th\u00e1nh gi\u00e1 \u0111eo \u1edf ng\u1ef1c (c\u1ee7a gi\u00e1m m\u1ee5c\u2026)</div>",
+            "id": "65965",
+            "mean": [],
+            "pronounce": "/'pekt\u0259r\u0259l/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "pectoral"
+        },
+        "suggests": [
+            {
+                "id": "65965",
+                "link": "/find?type=1&query=pectorals",
+                "word": "pectorals"
+            }
+        ]
+    }
+}

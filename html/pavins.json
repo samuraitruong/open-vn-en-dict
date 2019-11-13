@@ -1,1 +1,32 @@
-{"error": 0, "query": "pavins", "enViData": {"suggests": [{"id": "65745", "link": "/find?type=1&query=paving", "word": "paving"}, {"id": "65746", "link": "/find?type=1&query=paving+stone", "word": "paving stone"}]}, "mUrl": "/find?type=1&query=pavins", "enEnData": {"suggests": [{"id": "21120", "link": "/find?type=3&query=paving", "word": "paving"}, {"id": "21121", "link": "/find?type=3&query=paving+stone", "word": "paving stone"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21120",
+                "link": "/find?type=3&query=paving",
+                "word": "paving"
+            },
+            {
+                "id": "21121",
+                "link": "/find?type=3&query=paving+stone",
+                "word": "paving stone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65745",
+                "link": "/find?type=1&query=paving",
+                "word": "paving"
+            },
+            {
+                "id": "65746",
+                "link": "/find?type=1&query=paving+stone",
+                "word": "paving stone"
+            }
+        ]
+    }
+}

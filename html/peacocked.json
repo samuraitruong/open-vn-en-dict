@@ -1,1 +1,49 @@
-{"error": 0, "query": "peacocked", "enViData": {"suggests": [{"id": "65865", "link": "/find?type=1&query=peacock+blue", "word": "peacock blue"}, {"id": "65865", "link": "/find?type=1&query=peacockery", "word": "peacockery"}, {"id": "65865", "link": "/find?type=1&query=peacockish", "word": "peacockish"}, {"id": "65865", "link": "/find?type=1&query=peacocky", "word": "peacocky"}], "best": {"id": "65865", "details": "\n<div id=\"find_word_65865\" class=\"world word_en\" rel=\"peacock\">\n    <h2 class=\"fl\">peacock <span class=\"color-black\">/'pi:k\u0252k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65865\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65865\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">[con] c\u00f4ng [tr\u1ed1ng]</div>\n    \n    <div class=\"bold dot-blue m-top15\">proud as a peacock</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=proud\">proud</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=peacock", "word": "peacock"}}, "mUrl": "/find?type=1&query=peacocked", "enEnData": {"suggests": [], "best": {"id": "21182", "details": "\n<div id=\"find_word_21182\" class=\"world word_en\" rel=\"peacock\">\n    <h2 class=\"fl\">peacock <span class=\"color-black\">/\u02c8pi\u02d0\u02cck\u0251\u02d0k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21182\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21182\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cocks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large male bird that has a very long bright blue and green tail that it can lift up and spread apart like a fan - see color picture</div>\n    \n</div>\n", "link": "/find?type=3&query=peacock", "word": "peacock"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cocks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large male bird that has a very long bright blue and green tail that it can lift up and spread apart like a fan - see color picture</div>",
+            "id": "21182",
+            "mean": [],
+            "pronounce": "/\u02c8pi\u02d0\u02cck\u0251\u02d0k/",
+            "type": "noun",
+            "word": "peacock"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">[con] c\u00f4ng [tr\u1ed1ng]</div>\n    \n    <div class=\"bold dot-blue m-top15\">proud as a peacock</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=proud\">proud</a></span></div>",
+            "id": "65865",
+            "mean": [],
+            "pronounce": "/'pi:k\u0252k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d037e52e186930743f942e0d9b287277/16e62c07e5e/P/peacock.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1c946849badfa22bb2d42eec0cf8473f/16e62c07872/P/peacock.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "peacock"
+        },
+        "suggests": [
+            {
+                "id": "65865",
+                "link": "/find?type=1&query=peacock+blue",
+                "word": "peacock blue"
+            },
+            {
+                "id": "65865",
+                "link": "/find?type=1&query=peacockery",
+                "word": "peacockery"
+            },
+            {
+                "id": "65865",
+                "link": "/find?type=1&query=peacockish",
+                "word": "peacockish"
+            },
+            {
+                "id": "65865",
+                "link": "/find?type=1&query=peacocky",
+                "word": "peacocky"
+            }
+        ]
+    }
+}

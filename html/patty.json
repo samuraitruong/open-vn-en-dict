@@ -1,1 +1,40 @@
-{"error": 0, "query": "patty", "enViData": {"suggests": [{"id": "65711", "link": "/find?type=1&query=pattypan", "word": "pattypan"}], "best": {"id": "65711", "details": "\n<div id=\"find_word_65711\" class=\"world word_en\" rel=\"patty\">\n    <h2 class=\"fl\">patty <span class=\"color-black\">/'p\u00e6ti/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65711\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65711\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i ch\u1ea3 nh\u1ecf; ch\u1ea3 bao b\u1ed9t nh\u1ecf</div>\n    \n    <div class=\"green margin25 m-top15\">k\u1eb9o vi\u00ean d\u1eb9t</div>\n    \n</div>\n", "link": "/find?type=1&query=patty", "word": "patty"}}, "mUrl": "/find?type=1&query=patty", "enEnData": {"suggests": [{"id": "21111", "link": "/find?type=3&query=patty-cake", "word": "patty-cake"}], "best": {"id": "21111", "details": "\n<div id=\"find_word_21111\" class=\"world word_en\" rel=\"patty\">\n    <h2 class=\"fl\">patty <span class=\"color-black\">/\u02c8p\u00e6ti/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21111\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21111\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">also pattie  , pl patties</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly US :a small, flat cake of chopped food</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">hamburger/beef/chicken patties</div>\n    \n    <div class=\"green margin25 m-top15\">US :a soft, flat candy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a peppermint patty</div>\n    \n</div>\n", "link": "/find?type=3&query=patty", "word": "patty"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">also pattie  , pl patties</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly US :a small, flat cake of chopped food</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">hamburger/beef/chicken patties</div>\n    \n    <div class=\"green margin25 m-top15\">US :a soft, flat candy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a peppermint patty</div>",
+            "id": "21111",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6ti/",
+            "type": "noun",
+            "word": "patty"
+        },
+        "suggests": [
+            {
+                "id": "21111",
+                "link": "/find?type=3&query=patty-cake",
+                "word": "patty-cake"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00e1i ch\u1ea3 nh\u1ecf; ch\u1ea3 bao b\u1ed9t nh\u1ecf</div>\n    \n    <div class=\"green margin25 m-top15\">k\u1eb9o vi\u00ean d\u1eb9t</div>",
+            "id": "65711",
+            "mean": [],
+            "pronounce": "/'p\u00e6ti/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/34899844b0bdae83b0469f973fe20c44/16e62c025e1/P/patty.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/77bf21fe24793aa7f0ee49ab162a8eee/16e62c02035/P/patty.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "patty"
+        },
+        "suggests": [
+            {
+                "id": "65711",
+                "link": "/find?type=1&query=pattypan",
+                "word": "pattypan"
+            }
+        ]
+    }
+}
