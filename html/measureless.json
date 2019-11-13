@@ -1,1 +1,39 @@
-{"error": 0, "query": "measureless", "enViData": {"suggests": [{"id": "56730", "link": "/find?type=1&query=measurelessly", "word": "measurelessly"}, {"id": "56730", "link": "/find?type=1&query=measurelessness", "word": "measurelessness"}], "best": {"id": "56730", "details": "\n<div id=\"find_word_56730\" class=\"world word_en\" rel=\"measureless\">\n    <h2 class=\"fl\">measureless <span class=\"color-black\">/'me\u0292\u0259lis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56730\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56730\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f4 t\u1eadn</div>\n    \n</div>\n", "link": "/find?type=1&query=measureless", "word": "measureless"}}, "mUrl": "/find?type=1&query=measureless", "enEnData": {"suggests": [], "best": {"id": "17780", "details": "\n<div id=\"find_word_17780\" class=\"world word_en\" rel=\"measureless\">\n    <h2 class=\"fl\">measureless <span class=\"color-black\">/\u02c8m\u025b\u0292\u025al\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17780\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17780\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">too great or large to be measured</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the measureless [=immeasurable] universe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She seems to have measureless [=boundless] energy.</div>\n    \n</div>\n", "link": "/find?type=3&query=measureless", "word": "measureless"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">too great or large to be measured</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the measureless [=immeasurable] universe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She seems to have measureless [=boundless] energy.</div>",
+            "id": "17780",
+            "mean": [],
+            "pronounce": "/\u02c8m\u025b\u0292\u025al\u0259s/",
+            "type": "adjective",
+            "word": "measureless"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f4 t\u1eadn</div>",
+            "id": "56730",
+            "mean": [],
+            "pronounce": "/'me\u0292\u0259lis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e8ca19e90d78fa75f4e0d27513014fa3/16e629aa447/M/measureless.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d5235d703e8245fe467fe8ae45b582b4/16e629a9dec/M/measureless.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "measureless"
+        },
+        "suggests": [
+            {
+                "id": "56730",
+                "link": "/find?type=1&query=measurelessly",
+                "word": "measurelessly"
+            },
+            {
+                "id": "56730",
+                "link": "/find?type=1&query=measurelessness",
+                "word": "measurelessness"
+            }
+        ]
+    }
+}

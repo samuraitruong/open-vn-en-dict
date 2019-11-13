@@ -1,1 +1,117 @@
-{"error": 0, "query": "mech", "enViData": {"suggests": [{"id": "56746", "link": "/find?type=1&query=mechan", "word": "mechan"}, {"id": "56747", "link": "/find?type=1&query=mechanic", "word": "mechanic"}, {"id": "56748", "link": "/find?type=1&query=mechanical", "word": "mechanical"}, {"id": "56749", "link": "/find?type=1&query=mechanically", "word": "mechanically"}, {"id": "56750", "link": "/find?type=1&query=mechanician", "word": "mechanician"}, {"id": "56751", "link": "/find?type=1&query=mechanics", "word": "mechanics"}, {"id": "56752", "link": "/find?type=1&query=mechanisation", "word": "mechanisation"}, {"id": "56753", "link": "/find?type=1&query=mechanise", "word": "mechanise"}, {"id": "56754", "link": "/find?type=1&query=mechanism", "word": "mechanism"}, {"id": "56755", "link": "/find?type=1&query=mechanist", "word": "mechanist"}]}, "mUrl": "/find?type=1&query=mech", "enEnData": {"suggests": [{"id": "17795", "link": "/find?type=3&query=mechanic", "word": "mechanic"}, {"id": "17796", "link": "/find?type=3&query=mechanical", "word": "mechanical"}, {"id": "17797", "link": "/find?type=3&query=mechanical+drawing", "word": "mechanical drawing"}, {"id": "17798", "link": "/find?type=3&query=mechanical+engineering", "word": "mechanical engineering"}, {"id": "17799", "link": "/find?type=3&query=mechanical+pencil", "word": "mechanical pencil"}, {"id": "17800", "link": "/find?type=3&query=mechanics", "word": "mechanics"}, {"id": "17801", "link": "/find?type=3&query=mechanism", "word": "mechanism"}, {"id": "17802", "link": "/find?type=3&query=mechanize", "word": "mechanize"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4477", "link": "/find?type=4&query=mechanical", "word": "mechanical"}, {"id": "4478", "link": "/find?type=4&query=mechanism", "word": "mechanism"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17795",
+                "link": "/find?type=3&query=mechanic",
+                "word": "mechanic"
+            },
+            {
+                "id": "17796",
+                "link": "/find?type=3&query=mechanical",
+                "word": "mechanical"
+            },
+            {
+                "id": "17797",
+                "link": "/find?type=3&query=mechanical+drawing",
+                "word": "mechanical drawing"
+            },
+            {
+                "id": "17798",
+                "link": "/find?type=3&query=mechanical+engineering",
+                "word": "mechanical engineering"
+            },
+            {
+                "id": "17799",
+                "link": "/find?type=3&query=mechanical+pencil",
+                "word": "mechanical pencil"
+            },
+            {
+                "id": "17800",
+                "link": "/find?type=3&query=mechanics",
+                "word": "mechanics"
+            },
+            {
+                "id": "17801",
+                "link": "/find?type=3&query=mechanism",
+                "word": "mechanism"
+            },
+            {
+                "id": "17802",
+                "link": "/find?type=3&query=mechanize",
+                "word": "mechanize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56746",
+                "link": "/find?type=1&query=mechan",
+                "word": "mechan"
+            },
+            {
+                "id": "56747",
+                "link": "/find?type=1&query=mechanic",
+                "word": "mechanic"
+            },
+            {
+                "id": "56748",
+                "link": "/find?type=1&query=mechanical",
+                "word": "mechanical"
+            },
+            {
+                "id": "56749",
+                "link": "/find?type=1&query=mechanically",
+                "word": "mechanically"
+            },
+            {
+                "id": "56750",
+                "link": "/find?type=1&query=mechanician",
+                "word": "mechanician"
+            },
+            {
+                "id": "56751",
+                "link": "/find?type=1&query=mechanics",
+                "word": "mechanics"
+            },
+            {
+                "id": "56752",
+                "link": "/find?type=1&query=mechanisation",
+                "word": "mechanisation"
+            },
+            {
+                "id": "56753",
+                "link": "/find?type=1&query=mechanise",
+                "word": "mechanise"
+            },
+            {
+                "id": "56754",
+                "link": "/find?type=1&query=mechanism",
+                "word": "mechanism"
+            },
+            {
+                "id": "56755",
+                "link": "/find?type=1&query=mechanist",
+                "word": "mechanist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4477",
+                "link": "/find?type=4&query=mechanical",
+                "word": "mechanical"
+            },
+            {
+                "id": "4478",
+                "link": "/find?type=4&query=mechanism",
+                "word": "mechanism"
+            }
+        ]
+    }
+}

@@ -1,1 +1,59 @@
-{"error": 0, "query": "maxis", "enViData": {"suggests": [], "best": {"id": "56620", "details": "\n<div id=\"find_word_56620\" class=\"world word_en\" rel=\"maxis\">\n    <h2 class=\"fl\">maxis <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56620\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56620\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u c\u1ee7a maxi</div>\n    \n</div>\n", "link": "/find?type=1&query=maxis", "word": "maxis"}}, "mUrl": "/find?type=1&query=maxis", "enEnData": {"suggests": [{"id": "17726", "link": "/find?type=3&query=maxim", "word": "maxim"}, {"id": "17727", "link": "/find?type=3&query=maximal", "word": "maximal"}, {"id": "17728", "link": "/find?type=3&query=maximize", "word": "maximize"}, {"id": "17729", "link": "/find?type=3&query=maximum", "word": "maximum"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4453", "link": "/find?type=4&query=maxim", "word": "maxim"}, {"id": "4454", "link": "/find?type=4&query=maximize", "word": "maximize"}, {"id": "4455", "link": "/find?type=4&query=maximum", "word": "maximum"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17726",
+                "link": "/find?type=3&query=maxim",
+                "word": "maxim"
+            },
+            {
+                "id": "17727",
+                "link": "/find?type=3&query=maximal",
+                "word": "maximal"
+            },
+            {
+                "id": "17728",
+                "link": "/find?type=3&query=maximize",
+                "word": "maximize"
+            },
+            {
+                "id": "17729",
+                "link": "/find?type=3&query=maximum",
+                "word": "maximum"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u c\u1ee7a maxi</div>",
+            "id": "56620",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "maxis"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4453",
+                "link": "/find?type=4&query=maxim",
+                "word": "maxim"
+            },
+            {
+                "id": "4454",
+                "link": "/find?type=4&query=maximize",
+                "word": "maximize"
+            },
+            {
+                "id": "4455",
+                "link": "/find?type=4&query=maximum",
+                "word": "maximum"
+            }
+        ]
+    }
+}

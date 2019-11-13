@@ -1,1 +1,22 @@
-{"error": 0, "query": "mausole", "enViData": {"suggests": [{"id": "56585", "link": "/find?type=1&query=mausoleum", "word": "mausoleum"}]}, "mUrl": "/find?type=1&query=mausole", "enEnData": {"suggests": [{"id": "17719", "link": "/find?type=3&query=mausoleum", "word": "mausoleum"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17719",
+                "link": "/find?type=3&query=mausoleum",
+                "word": "mausoleum"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56585",
+                "link": "/find?type=1&query=mausoleum",
+                "word": "mausoleum"
+            }
+        ]
+    }
+}

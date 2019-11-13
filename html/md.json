@@ -1,1 +1,39 @@
-{"error": 0, "query": "md", "enViData": {"suggests": [{"id": "56670", "link": "/find?type=1&query=mda", "word": "mda"}, {"id": "56670", "link": "/find?type=1&query=MDT", "word": "MDT"}], "best": {"id": "56670", "details": "\n<div id=\"find_word_56670\" class=\"world word_en\" rel=\"MD\">\n    <h2 class=\"fl\">MD <span class=\"color-black\">/,em 'di:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56670\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56670\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Doctor of Medicine) (ti\u1ebfng Lating l\u00e0 Medicinae Doctor) b\u00e1c s\u0129 y khoa</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Managing Director) gi\u00e1m \u0111\u1ed1c \u0111i\u1ec1u h\u00e0nh</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a mentally deficient) gi\u1ea3m s\u00fat t\u00e2m th\u1ea7n</div>\n    \n</div>\n", "link": "/find?type=1&query=MD", "word": "MD"}}, "mUrl": "/find?type=1&query=md", "enEnData": {"suggests": [], "best": {"id": "17749", "details": "\n<div id=\"find_word_17749\" class=\"world word_en\" rel=\"MD\">\n    <h2 class=\"fl\">MD <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17749\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17749\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">or US M.D. Doctor of Medicine</div>\n    \n    <div class=\"green margin25 m-top15\">Maryland</div>\n    \n    <div class=\"green margin25 m-top15\">Brit Managing Director</div>\n    \n</div>\n", "link": "/find?type=3&query=MD", "word": "MD"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">or US M.D. Doctor of Medicine</div>\n    \n    <div class=\"green margin25 m-top15\">Maryland</div>\n    \n    <div class=\"green margin25 m-top15\">Brit Managing Director</div>",
+            "id": "17749",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "MD"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Doctor of Medicine) (ti\u1ebfng Lating l\u00e0 Medicinae Doctor) b\u00e1c s\u0129 y khoa</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a Managing Director) gi\u00e1m \u0111\u1ed1c \u0111i\u1ec1u h\u00e0nh</div>\n    \n    <div class=\"green margin25 m-top15\">(vi\u1ebft t\u1eaft c\u1ee7a mentally deficient) gi\u1ea3m s\u00fat t\u00e2m th\u1ea7n</div>",
+            "id": "56670",
+            "mean": [],
+            "pronounce": "/,em 'di:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/11d97cba38ae4de218ad5b439f74a959/16e629a7af5/M/MD.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0d6b6cc9928585bde395da5dae7224c1/16e629a74cf/M/MD.mp3"
+            },
+            "type": "",
+            "word": "MD"
+        },
+        "suggests": [
+            {
+                "id": "56670",
+                "link": "/find?type=1&query=mda",
+                "word": "mda"
+            },
+            {
+                "id": "56670",
+                "link": "/find?type=1&query=MDT",
+                "word": "MDT"
+            }
+        ]
+    }
+}

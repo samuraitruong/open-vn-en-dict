@@ -1,1 +1,22 @@
-{"error": 0, "query": "measle", "enViData": {"suggests": [{"id": "56720", "link": "/find?type=1&query=measles", "word": "measles"}]}, "mUrl": "/find?type=1&query=measle", "enEnData": {"suggests": [{"id": "17775", "link": "/find?type=3&query=measles", "word": "measles"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17775",
+                "link": "/find?type=3&query=measles",
+                "word": "measles"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56720",
+                "link": "/find?type=1&query=measles",
+                "word": "measles"
+            }
+        ]
+    }
+}

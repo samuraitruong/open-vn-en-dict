@@ -1,1 +1,32 @@
-{"error": 0, "query": "measled", "enViData": {"suggests": [{"id": "56720", "link": "/find?type=1&query=measles", "word": "measles"}]}, "mUrl": "/find?type=1&query=measled", "enEnData": {"suggests": [{"id": "17775", "link": "/find?type=3&query=measles", "word": "measles"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4472", "link": "/find?type=4&query=measly", "word": "measly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17775",
+                "link": "/find?type=3&query=measles",
+                "word": "measles"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56720",
+                "link": "/find?type=1&query=measles",
+                "word": "measles"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4472",
+                "link": "/find?type=4&query=measly",
+                "word": "measly"
+            }
+        ]
+    }
+}

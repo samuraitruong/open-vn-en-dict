@@ -1,1 +1,37 @@
-{"error": 0, "query": "maund", "enViData": {"suggests": [{"id": "56581", "link": "/find?type=1&query=maunder", "word": "maunder"}, {"id": "56582", "link": "/find?type=1&query=maunderer", "word": "maunderer"}, {"id": "56583", "link": "/find?type=1&query=Maundy+Thursday", "word": "Maundy Thursday"}]}, "mUrl": "/find?type=1&query=maund", "enEnData": {"suggests": [{"id": "17717", "link": "/find?type=3&query=maunder", "word": "maunder"}, {"id": "17718", "link": "/find?type=3&query=Maundy+Thursday", "word": "Maundy Thursday"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17717",
+                "link": "/find?type=3&query=maunder",
+                "word": "maunder"
+            },
+            {
+                "id": "17718",
+                "link": "/find?type=3&query=Maundy+Thursday",
+                "word": "Maundy Thursday"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56581",
+                "link": "/find?type=1&query=maunder",
+                "word": "maunder"
+            },
+            {
+                "id": "56582",
+                "link": "/find?type=1&query=maunderer",
+                "word": "maunderer"
+            },
+            {
+                "id": "56583",
+                "link": "/find?type=1&query=Maundy+Thursday",
+                "word": "Maundy Thursday"
+            }
+        ]
+    }
+}

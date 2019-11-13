@@ -1,1 +1,80 @@
-{"error": 0, "query": "mead", "enViData": {"suggests": [{"id": "56675", "link": "/find?type=1&query=Meade%2C+James+Edward", "word": "Meade, James Edward"}, {"id": "56675", "link": "/find?type=1&query=meadow", "word": "meadow"}, {"id": "56675", "link": "/find?type=1&query=meadow+lark", "word": "meadow lark"}, {"id": "56675", "link": "/find?type=1&query=meadowland", "word": "meadowland"}, {"id": "56675", "link": "/find?type=1&query=meadowsweet", "word": "meadowsweet"}, {"id": "56675", "link": "/find?type=1&query=meadowy", "word": "meadowy"}], "best": {"id": "56675", "details": "\n<div id=\"find_word_56675\" class=\"world word_en\" rel=\"mead\">\n    <h2 class=\"fl\">mead <span class=\"color-black\">/mi:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56675\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56675\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u1ef1\u01a1u m\u1eadt ong</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u1ed5)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 meadow</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=meadow\">meadow</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=mead", "word": "mead"}}, "mUrl": "/find?type=1&query=mead", "enEnData": {"suggests": [{"id": "17753", "link": "/find?type=3&query=meadow", "word": "meadow"}, {"id": "17753", "link": "/find?type=3&query=meadowlark", "word": "meadowlark"}], "best": {"id": "17753", "details": "\n<div id=\"find_word_17753\" class=\"world word_en\" rel=\"mead\">\n    <h2 class=\"fl\">mead <span class=\"color-black\">/\u02c8mi\u02d0d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17753\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17753\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :an alcoholic drink made from honey</div>\n    \n</div>\n", "link": "/find?type=3&query=mead", "word": "mead"}}, "ftype": "1", "synData": {"suggests": [{"id": "4459", "link": "/find?type=4&query=meadow", "word": "meadow"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :an alcoholic drink made from honey</div>",
+            "id": "17753",
+            "mean": [],
+            "pronounce": "/\u02c8mi\u02d0d/",
+            "type": "noun",
+            "word": "mead"
+        },
+        "suggests": [
+            {
+                "id": "17753",
+                "link": "/find?type=3&query=meadow",
+                "word": "meadow"
+            },
+            {
+                "id": "17753",
+                "link": "/find?type=3&query=meadowlark",
+                "word": "meadowlark"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">r\u1ef1\u01a1u m\u1eadt ong</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u1ed5)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 meadow</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=meadow\">meadow</a></span></div>",
+            "id": "56675",
+            "mean": [],
+            "pronounce": "/mi:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e520b6ef842607f2cc72bc0e5d9c0f34/16e629a7e76/M/mead.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f453f9397e6312b2aa918d50a4f43980/16e629a7873/M/mead.mp3"
+            },
+            "type": "Danh t\u1eeb Danh t\u1eeb",
+            "word": "mead"
+        },
+        "suggests": [
+            {
+                "id": "56675",
+                "link": "/find?type=1&query=Meade%2C+James+Edward",
+                "word": "Meade, James Edward"
+            },
+            {
+                "id": "56675",
+                "link": "/find?type=1&query=meadow",
+                "word": "meadow"
+            },
+            {
+                "id": "56675",
+                "link": "/find?type=1&query=meadow+lark",
+                "word": "meadow lark"
+            },
+            {
+                "id": "56675",
+                "link": "/find?type=1&query=meadowland",
+                "word": "meadowland"
+            },
+            {
+                "id": "56675",
+                "link": "/find?type=1&query=meadowsweet",
+                "word": "meadowsweet"
+            },
+            {
+                "id": "56675",
+                "link": "/find?type=1&query=meadowy",
+                "word": "meadowy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4459",
+                "link": "/find?type=4&query=meadow",
+                "word": "meadow"
+            }
+        ]
+    }
+}

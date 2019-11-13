@@ -1,1 +1,39 @@
-{"error": 0, "query": "maximals", "enViData": {"suggests": [{"id": "56606", "link": "/find?type=1&query=maximalism", "word": "maximalism"}, {"id": "56606", "link": "/find?type=1&query=maximalist", "word": "maximalist"}], "best": {"id": "56606", "details": "\n<div id=\"find_word_56606\" class=\"world word_en\" rel=\"maximal\">\n    <h2 class=\"fl\">maximal <span class=\"color-black\">/'m\u00e6ksiml/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56606\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56606\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed1i \u0111a, t\u1ed9t \u0111\u1ed9</div>\n    \n</div>\n", "link": "/find?type=1&query=maximal", "word": "maximal"}}, "mUrl": "/find?type=1&query=maximals", "enEnData": {"suggests": [], "best": {"id": "17727", "details": "\n<div id=\"find_word_17727\" class=\"world word_en\" rel=\"maximal\">\n    <h2 class=\"fl\">maximal <span class=\"color-black\">/\u02c8m\u00e6ks\u0259m\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17727\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17727\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :greatest or highest possible</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a maximal heart rate</div>\n    \n</div>\n", "link": "/find?type=3&query=maximal", "word": "maximal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">technical :greatest or highest possible</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a maximal heart rate</div>",
+            "id": "17727",
+            "mean": [],
+            "pronounce": "/\u02c8m\u00e6ks\u0259m\u0259l/",
+            "type": "adjective",
+            "word": "maximal"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed1i \u0111a, t\u1ed9t \u0111\u1ed9</div>",
+            "id": "56606",
+            "mean": [],
+            "pronounce": "/'m\u00e6ksiml/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a47f44a13a56ff67a701e156e6e98250/16e629a5ed7/M/maximal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/839ec6808ba4a6311fb5a93fe618c6a8/16e629a58b3/M/maximal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "maximal"
+        },
+        "suggests": [
+            {
+                "id": "56606",
+                "link": "/find?type=1&query=maximalism",
+                "word": "maximalism"
+            },
+            {
+                "id": "56606",
+                "link": "/find?type=1&query=maximalist",
+                "word": "maximalist"
+            }
+        ]
+    }
+}

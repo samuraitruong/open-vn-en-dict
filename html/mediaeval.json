@@ -1,1 +1,39 @@
-{"error": 0, "query": "mediaeval", "enViData": {"suggests": [{"id": "56785", "link": "/find?type=1&query=mediaevalism", "word": "mediaevalism"}, {"id": "56785", "link": "/find?type=1&query=mediaevalist", "word": "mediaevalist"}], "best": {"id": "56785", "details": "\n<div id=\"find_word_56785\" class=\"world word_en\" rel=\"mediaeval\">\n    <h2 class=\"fl\">mediaeval <span class=\"color-black\">/,medi'i:vl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56785\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56785\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u00f4\u0323c] th\u01a1\u0300i trung \u0111a\u0323i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medieval literature</div>\n    \n    <div class=\"margin25\">v\u0103n ho\u0323c trung \u0111a\u0323i</div>\n    \n</div>\n", "link": "/find?type=1&query=mediaeval", "word": "mediaeval"}}, "mUrl": "/find?type=1&query=mediaeval", "enEnData": {"suggests": [], "best": {"id": "17815", "details": "\n<div id=\"find_word_17815\" class=\"world word_en\" rel=\"mediaeval\">\n    <h2 class=\"fl\">mediaeval <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17815\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17815\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">variant spelling of medieval</div>\n    \n</div>\n", "link": "/find?type=3&query=mediaeval", "word": "mediaeval"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">variant spelling of medieval</div>",
+            "id": "17815",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "mediaeval"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u00f4\u0323c] th\u01a1\u0300i trung \u0111a\u0323i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">medieval literature</div>\n    \n    <div class=\"margin25\">v\u0103n ho\u0323c trung \u0111a\u0323i</div>",
+            "id": "56785",
+            "mean": [],
+            "pronounce": "/,medi'i:vl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f247ed69788f27ed9e8aba9f236b5fae/16e629ad9c8/M/mediaeval.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/92505a26129d188342cc8e792e3cb033/16e629ad411/M/mediaeval.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "mediaeval"
+        },
+        "suggests": [
+            {
+                "id": "56785",
+                "link": "/find?type=1&query=mediaevalism",
+                "word": "mediaevalism"
+            },
+            {
+                "id": "56785",
+                "link": "/find?type=1&query=mediaevalist",
+                "word": "mediaevalist"
+            }
+        ]
+    }
+}
