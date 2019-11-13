@@ -1,1 +1,54 @@
-{"error": 0, "query": "polygon", "enViData": {"suggests": [{"id": "69485", "link": "/find?type=1&query=polygonal", "word": "polygonal"}, {"id": "69485", "link": "/find?type=1&query=polygonally", "word": "polygonally"}, {"id": "69485", "link": "/find?type=1&query=polygonometry", "word": "polygonometry"}, {"id": "69485", "link": "/find?type=1&query=polygonous", "word": "polygonous"}, {"id": "69485", "link": "/find?type=1&query=polygonum", "word": "polygonum"}], "best": {"id": "69485", "details": "\n<div id=\"find_word_69485\" class=\"world word_en\" rel=\"polygon\">\n    <h2 class=\"fl\">polygon <span class=\"color-black\">/'p\u0252lig\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69485\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69485\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(to\u00e1n h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111a gi\u00e1c, h\u00ecnh nhi\u1ec1u c\u1ea1nh</div>\n    \n</div>\n", "link": "/find?type=1&query=polygon", "word": "polygon"}}, "mUrl": "/find?type=1&query=polygon", "enEnData": {"suggests": [], "best": {"id": "22295", "details": "\n<div id=\"find_word_22295\" class=\"world word_en\" rel=\"polygon\">\n    <h2 class=\"fl\">polygon <span class=\"color-black\">/\u02c8p\u0251\u02d0li\u02ccg\u0251\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22295\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22295\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] mathematics :a flat shape that has three or more straight lines and angles</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Pentagons, hexagons, and octagons are all kinds of polygons.</div>\n    \n</div>\n", "link": "/find?type=3&query=polygon", "word": "polygon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] mathematics :a flat shape that has three or more straight lines and angles</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Pentagons, hexagons, and octagons are all kinds of polygons.</div>",
+            "id": "22295",
+            "mean": [],
+            "pronounce": "/\u02c8p\u0251\u02d0li\u02ccg\u0251\u02d0n/",
+            "type": "noun",
+            "word": "polygon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(to\u00e1n h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111a gi\u00e1c, h\u00ecnh nhi\u1ec1u c\u1ea1nh</div>",
+            "id": "69485",
+            "mean": [],
+            "pronounce": "/'p\u0252lig\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0b0740ddf9277dc50b4bb3ee5786afd6/16e62cce59b/P/polygon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3033f9046b36a73dc051d6f33f4aeef2/16e62ccdfb6/P/polygon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "polygon"
+        },
+        "suggests": [
+            {
+                "id": "69485",
+                "link": "/find?type=1&query=polygonal",
+                "word": "polygonal"
+            },
+            {
+                "id": "69485",
+                "link": "/find?type=1&query=polygonally",
+                "word": "polygonally"
+            },
+            {
+                "id": "69485",
+                "link": "/find?type=1&query=polygonometry",
+                "word": "polygonometry"
+            },
+            {
+                "id": "69485",
+                "link": "/find?type=1&query=polygonous",
+                "word": "polygonous"
+            },
+            {
+                "id": "69485",
+                "link": "/find?type=1&query=polygonum",
+                "word": "polygonum"
+            }
+        ]
+    }
+}
