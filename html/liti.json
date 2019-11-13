@@ -1,1 +1,72 @@
-{"error": 0, "query": "liti", "enViData": {"suggests": [{"id": "54089", "link": "/find?type=1&query=litigable", "word": "litigable"}, {"id": "54090", "link": "/find?type=1&query=litigant", "word": "litigant"}, {"id": "54091", "link": "/find?type=1&query=litigate", "word": "litigate"}, {"id": "54092", "link": "/find?type=1&query=litigation", "word": "litigation"}, {"id": "54093", "link": "/find?type=1&query=litigious", "word": "litigious"}, {"id": "54094", "link": "/find?type=1&query=litigiousness", "word": "litigiousness"}]}, "mUrl": "/find?type=1&query=liti", "enEnData": {"suggests": [{"id": "16817", "link": "/find?type=3&query=litigant", "word": "litigant"}, {"id": "16818", "link": "/find?type=3&query=litigate", "word": "litigate"}, {"id": "16819", "link": "/find?type=3&query=litigious", "word": "litigious"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4245", "link": "/find?type=4&query=litigant", "word": "litigant"}, {"id": "4246", "link": "/find?type=4&query=litigation", "word": "litigation"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16817",
+                "link": "/find?type=3&query=litigant",
+                "word": "litigant"
+            },
+            {
+                "id": "16818",
+                "link": "/find?type=3&query=litigate",
+                "word": "litigate"
+            },
+            {
+                "id": "16819",
+                "link": "/find?type=3&query=litigious",
+                "word": "litigious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54089",
+                "link": "/find?type=1&query=litigable",
+                "word": "litigable"
+            },
+            {
+                "id": "54090",
+                "link": "/find?type=1&query=litigant",
+                "word": "litigant"
+            },
+            {
+                "id": "54091",
+                "link": "/find?type=1&query=litigate",
+                "word": "litigate"
+            },
+            {
+                "id": "54092",
+                "link": "/find?type=1&query=litigation",
+                "word": "litigation"
+            },
+            {
+                "id": "54093",
+                "link": "/find?type=1&query=litigious",
+                "word": "litigious"
+            },
+            {
+                "id": "54094",
+                "link": "/find?type=1&query=litigiousness",
+                "word": "litigiousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4245",
+                "link": "/find?type=4&query=litigant",
+                "word": "litigant"
+            },
+            {
+                "id": "4246",
+                "link": "/find?type=4&query=litigation",
+                "word": "litigation"
+            }
+        ]
+    }
+}

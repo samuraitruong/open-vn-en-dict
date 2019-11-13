@@ -1,1 +1,52 @@
-{"error": 0, "query": "lobbing", "enViData": {"suggests": [{"id": "54232", "link": "/find?type=1&query=lobby", "word": "lobby"}, {"id": "54233", "link": "/find?type=1&query=lobbying", "word": "lobbying"}, {"id": "54234", "link": "/find?type=1&query=lobbyism", "word": "lobbyism"}, {"id": "54235", "link": "/find?type=1&query=lobbyist", "word": "lobbyist"}, {"id": "54236", "link": "/find?type=1&query=lobbyman", "word": "lobbyman"}]}, "mUrl": "/find?type=1&query=lobbing", "enEnData": {"suggests": [{"id": "16884", "link": "/find?type=3&query=lobby", "word": "lobby"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4262", "link": "/find?type=4&query=lobby", "word": "lobby"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16884",
+                "link": "/find?type=3&query=lobby",
+                "word": "lobby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54232",
+                "link": "/find?type=1&query=lobby",
+                "word": "lobby"
+            },
+            {
+                "id": "54233",
+                "link": "/find?type=1&query=lobbying",
+                "word": "lobbying"
+            },
+            {
+                "id": "54234",
+                "link": "/find?type=1&query=lobbyism",
+                "word": "lobbyism"
+            },
+            {
+                "id": "54235",
+                "link": "/find?type=1&query=lobbyist",
+                "word": "lobbyist"
+            },
+            {
+                "id": "54236",
+                "link": "/find?type=1&query=lobbyman",
+                "word": "lobbyman"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4262",
+                "link": "/find?type=4&query=lobby",
+                "word": "lobby"
+            }
+        ]
+    }
+}

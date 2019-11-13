@@ -1,1 +1,32 @@
-{"error": 0, "query": "lobo", "enViData": {"suggests": [{"id": "54245", "link": "/find?type=1&query=lobotomize", "word": "lobotomize"}, {"id": "54246", "link": "/find?type=1&query=lobotomized", "word": "lobotomized"}, {"id": "54247", "link": "/find?type=1&query=lobotomy", "word": "lobotomy"}]}, "mUrl": "/find?type=1&query=lobo", "enEnData": {"suggests": [{"id": "16886", "link": "/find?type=3&query=lobotomy", "word": "lobotomy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16886",
+                "link": "/find?type=3&query=lobotomy",
+                "word": "lobotomy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54245",
+                "link": "/find?type=1&query=lobotomize",
+                "word": "lobotomize"
+            },
+            {
+                "id": "54246",
+                "link": "/find?type=1&query=lobotomized",
+                "word": "lobotomized"
+            },
+            {
+                "id": "54247",
+                "link": "/find?type=1&query=lobotomy",
+                "word": "lobotomy"
+            }
+        ]
+    }
+}

@@ -1,1 +1,23 @@
-{"error": 0, "query": "liturgical", "enViData": {"suggests": [{"id": "54117", "link": "/find?type=1&query=liturgically", "word": "liturgically"}], "best": {"id": "54117", "details": "\n<div id=\"find_word_54117\" class=\"world word_en\" rel=\"liturgical\">\n    <h2 class=\"fl\">liturgical <span class=\"color-black\">/li't\u025c:d\u0292ikl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54117\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54117\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] nghi th\u1ee9c t\u1ebf l\u1ec5</div>\n    \n</div>\n", "link": "/find?type=1&query=liturgical", "word": "liturgical"}}, "mUrl": "/find?type=1&query=liturgical", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] nghi th\u1ee9c t\u1ebf l\u1ec5</div>",
+            "id": "54117",
+            "mean": [],
+            "pronounce": "/li't\u025c:d\u0292ikl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1f33d5453e5647aa48e4803afc879783/16e629297e1/L/liturgical.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1fedee74c9e7196bb2b46c3d6f2fde19/16e629291f3/L/liturgical.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "liturgical"
+        },
+        "suggests": [
+            {
+                "id": "54117",
+                "link": "/find?type=1&query=liturgically",
+                "word": "liturgically"
+            }
+        ]
+    }
+}

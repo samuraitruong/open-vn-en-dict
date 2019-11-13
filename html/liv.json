@@ -1,1 +1,132 @@
-{"error": 0, "query": "liv", "enViData": {"suggests": [{"id": "54125", "link": "/find?type=1&query=livability", "word": "livability"}, {"id": "54126", "link": "/find?type=1&query=livable", "word": "livable"}, {"id": "54127", "link": "/find?type=1&query=livable-in", "word": "livable-in"}, {"id": "54128", "link": "/find?type=1&query=livable-with", "word": "livable-with"}, {"id": "54129", "link": "/find?type=1&query=livableness", "word": "livableness"}, {"id": "54130", "link": "/find?type=1&query=live", "word": "live"}, {"id": "54131", "link": "/find?type=1&query=live+birth", "word": "live birth"}, {"id": "54132", "link": "/find?type=1&query=liveable", "word": "liveable"}, {"id": "54133", "link": "/find?type=1&query=liveable-in", "word": "liveable-in"}, {"id": "54134", "link": "/find?type=1&query=liveable-with", "word": "liveable-with"}]}, "mUrl": "/find?type=1&query=liv", "enEnData": {"suggests": [{"id": "16838", "link": "/find?type=3&query=livable", "word": "livable"}, {"id": "16839", "link": "/find?type=3&query=live", "word": "live"}, {"id": "16840", "link": "/find?type=3&query=live+action", "word": "live action"}, {"id": "16841", "link": "/find?type=3&query=live+oak", "word": "live oak"}, {"id": "16842", "link": "/find?type=3&query=live+wire", "word": "live wire"}, {"id": "16843", "link": "/find?type=3&query=liveable", "word": "liveable"}, {"id": "16844", "link": "/find?type=3&query=-lived", "word": "-lived"}, {"id": "16845", "link": "/find?type=3&query=lived-in", "word": "lived-in"}, {"id": "16846", "link": "/find?type=3&query=live-in", "word": "live-in"}, {"id": "16847", "link": "/find?type=3&query=livelihood", "word": "livelihood"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4249", "link": "/find?type=4&query=live", "word": "live"}, {"id": "4250", "link": "/find?type=4&query=lively", "word": "lively"}, {"id": "4251", "link": "/find?type=4&query=liven", "word": "liven"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16838",
+                "link": "/find?type=3&query=livable",
+                "word": "livable"
+            },
+            {
+                "id": "16839",
+                "link": "/find?type=3&query=live",
+                "word": "live"
+            },
+            {
+                "id": "16840",
+                "link": "/find?type=3&query=live+action",
+                "word": "live action"
+            },
+            {
+                "id": "16841",
+                "link": "/find?type=3&query=live+oak",
+                "word": "live oak"
+            },
+            {
+                "id": "16842",
+                "link": "/find?type=3&query=live+wire",
+                "word": "live wire"
+            },
+            {
+                "id": "16843",
+                "link": "/find?type=3&query=liveable",
+                "word": "liveable"
+            },
+            {
+                "id": "16844",
+                "link": "/find?type=3&query=-lived",
+                "word": "-lived"
+            },
+            {
+                "id": "16845",
+                "link": "/find?type=3&query=lived-in",
+                "word": "lived-in"
+            },
+            {
+                "id": "16846",
+                "link": "/find?type=3&query=live-in",
+                "word": "live-in"
+            },
+            {
+                "id": "16847",
+                "link": "/find?type=3&query=livelihood",
+                "word": "livelihood"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54125",
+                "link": "/find?type=1&query=livability",
+                "word": "livability"
+            },
+            {
+                "id": "54126",
+                "link": "/find?type=1&query=livable",
+                "word": "livable"
+            },
+            {
+                "id": "54127",
+                "link": "/find?type=1&query=livable-in",
+                "word": "livable-in"
+            },
+            {
+                "id": "54128",
+                "link": "/find?type=1&query=livable-with",
+                "word": "livable-with"
+            },
+            {
+                "id": "54129",
+                "link": "/find?type=1&query=livableness",
+                "word": "livableness"
+            },
+            {
+                "id": "54130",
+                "link": "/find?type=1&query=live",
+                "word": "live"
+            },
+            {
+                "id": "54131",
+                "link": "/find?type=1&query=live+birth",
+                "word": "live birth"
+            },
+            {
+                "id": "54132",
+                "link": "/find?type=1&query=liveable",
+                "word": "liveable"
+            },
+            {
+                "id": "54133",
+                "link": "/find?type=1&query=liveable-in",
+                "word": "liveable-in"
+            },
+            {
+                "id": "54134",
+                "link": "/find?type=1&query=liveable-with",
+                "word": "liveable-with"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4249",
+                "link": "/find?type=4&query=live",
+                "word": "live"
+            },
+            {
+                "id": "4250",
+                "link": "/find?type=4&query=lively",
+                "word": "lively"
+            },
+            {
+                "id": "4251",
+                "link": "/find?type=4&query=liven",
+                "word": "liven"
+            }
+        ]
+    }
+}
