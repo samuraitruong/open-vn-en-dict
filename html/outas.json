@@ -1,1 +1,32 @@
-{"error": 0, "query": "outas", "enViData": {"suggests": [{"id": "63518", "link": "/find?type=1&query=outact", "word": "outact"}, {"id": "63519", "link": "/find?type=1&query=outage", "word": "outage"}, {"id": "63520", "link": "/find?type=1&query=outate", "word": "outate"}]}, "mUrl": "/find?type=1&query=outas", "enEnData": {"suggests": [{"id": "20349", "link": "/find?type=3&query=outage", "word": "outage"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20349",
+                "link": "/find?type=3&query=outage",
+                "word": "outage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63518",
+                "link": "/find?type=1&query=outact",
+                "word": "outact"
+            },
+            {
+                "id": "63519",
+                "link": "/find?type=1&query=outage",
+                "word": "outage"
+            },
+            {
+                "id": "63520",
+                "link": "/find?type=1&query=outate",
+                "word": "outate"
+            }
+        ]
+    }
+}

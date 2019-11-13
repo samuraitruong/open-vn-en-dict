@@ -1,1 +1,34 @@
-{"error": 0, "query": "outbound", "enViData": {"suggests": [{"id": "63532", "link": "/find?type=1&query=outbounds", "word": "outbounds"}], "best": {"id": "63532", "details": "\n<div id=\"find_word_63532\" class=\"world word_en\" rel=\"outbound\">\n    <h2 class=\"fl\">outbound <span class=\"color-black\">/'autbaund/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"63532\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"63532\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i \u0111\u1ebfn m\u1ed9t h\u1ea3i c\u1ea3ng n\u01b0\u1edbc ngo\u00e0i, \u0111i ra n\u01b0\u1edbc ngo\u00e0i</div>\n    \n</div>\n", "link": "/find?type=1&query=outbound", "word": "outbound"}}, "mUrl": "/find?type=1&query=outbound", "enEnData": {"suggests": [], "best": {"id": "20355", "details": "\n<div id=\"find_word_20355\" class=\"world word_en\" rel=\"outbound\">\n    <h2 class=\"fl\">outbound <span class=\"color-black\">/\u02c8a\u028at\u02ccba\u028and/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20355\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20355\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">traveling away from a place :outward bound</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The airline has canceled all outbound flights.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bridge is closed to outbound traffic. [=the bridge is closed to traffic going away from a city or town] - opposite inbound</div>\n    \n</div>\n", "link": "/find?type=3&query=outbound", "word": "outbound"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">traveling away from a place :outward bound</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The airline has canceled all outbound flights.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bridge is closed to outbound traffic. [=the bridge is closed to traffic going away from a city or town] - opposite inbound</div>",
+            "id": "20355",
+            "mean": [],
+            "pronounce": "/\u02c8a\u028at\u02ccba\u028and/",
+            "type": "adjective",
+            "word": "outbound"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i \u0111\u1ebfn m\u1ed9t h\u1ea3i c\u1ea3ng n\u01b0\u1edbc ngo\u00e0i, \u0111i ra n\u01b0\u1edbc ngo\u00e0i</div>",
+            "id": "63532",
+            "mean": [],
+            "pronounce": "/'autbaund/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/aba3ceb17c6ea7e7627b0b3183b0d65b/16e62b67ebe/O/outbound.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/048058c969ee41274ed88cecea15f511/16e62b67890/O/outbound.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "outbound"
+        },
+        "suggests": [
+            {
+                "id": "63532",
+                "link": "/find?type=1&query=outbounds",
+                "word": "outbounds"
+            }
+        ]
+    }
+}

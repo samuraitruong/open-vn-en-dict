@@ -1,1 +1,32 @@
-{"error": 0, "query": "ough", "enViData": {"suggests": [{"id": "63476", "link": "/find?type=1&query=ought", "word": "ought"}, {"id": "63477", "link": "/find?type=1&query=ought+to", "word": "ought to"}]}, "mUrl": "/find?type=1&query=ough", "enEnData": {"suggests": [{"id": "20334", "link": "/find?type=3&query=ought", "word": "ought"}, {"id": "20335", "link": "/find?type=3&query=oughtn%27t", "word": "oughtn't"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20334",
+                "link": "/find?type=3&query=ought",
+                "word": "ought"
+            },
+            {
+                "id": "20335",
+                "link": "/find?type=3&query=oughtn%27t",
+                "word": "oughtn't"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63476",
+                "link": "/find?type=1&query=ought",
+                "word": "ought"
+            },
+            {
+                "id": "63477",
+                "link": "/find?type=1&query=ought+to",
+                "word": "ought to"
+            }
+        ]
+    }
+}

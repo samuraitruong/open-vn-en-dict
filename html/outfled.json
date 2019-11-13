@@ -1,1 +1,27 @@
-{"error": 0, "query": "outfled", "enViData": {"suggests": [{"id": "63599", "link": "/find?type=1&query=outflew", "word": "outflew"}]}, "mUrl": "/find?type=1&query=outfled", "enEnData": {"suggests": [{"id": "20380", "link": "/find?type=3&query=outflank", "word": "outflank"}, {"id": "20381", "link": "/find?type=3&query=outflow", "word": "outflow"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20380",
+                "link": "/find?type=3&query=outflank",
+                "word": "outflank"
+            },
+            {
+                "id": "20381",
+                "link": "/find?type=3&query=outflow",
+                "word": "outflow"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63599",
+                "link": "/find?type=1&query=outflew",
+                "word": "outflew"
+            }
+        ]
+    }
+}

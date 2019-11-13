@@ -1,1 +1,22 @@
-{"error": 0, "query": "oui", "enViData": {"suggests": [{"id": "63478", "link": "/find?type=1&query=Ouija", "word": "Ouija"}]}, "mUrl": "/find?type=1&query=oui", "enEnData": {"suggests": [{"id": "20336", "link": "/find?type=3&query=Ouija", "word": "Ouija"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20336",
+                "link": "/find?type=3&query=Ouija",
+                "word": "Ouija"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63478",
+                "link": "/find?type=1&query=Ouija",
+                "word": "Ouija"
+            }
+        ]
+    }
+}
