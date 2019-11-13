@@ -1,1 +1,32 @@
-{"error": 0, "query": "ladyling", "enViData": {"suggests": [{"id": "52326", "link": "/find?type=1&query=ladylike", "word": "ladylike"}]}, "mUrl": "/find?type=1&query=ladyling", "enEnData": {"suggests": [{"id": "16118", "link": "/find?type=3&query=ladylike", "word": "ladylike"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4085", "link": "/find?type=4&query=ladylike", "word": "ladylike"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16118",
+                "link": "/find?type=3&query=ladylike",
+                "word": "ladylike"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52326",
+                "link": "/find?type=1&query=ladylike",
+                "word": "ladylike"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4085",
+                "link": "/find?type=4&query=ladylike",
+                "word": "ladylike"
+            }
+        ]
+    }
+}

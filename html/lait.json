@@ -1,1 +1,27 @@
-{"error": 0, "query": "lait", "enViData": {"suggests": [{"id": "52374", "link": "/find?type=1&query=laitance", "word": "laitance"}, {"id": "52375", "link": "/find?type=1&query=laity", "word": "laity"}]}, "mUrl": "/find?type=1&query=lait", "enEnData": {"suggests": [{"id": "16133", "link": "/find?type=3&query=laity", "word": "laity"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16133",
+                "link": "/find?type=3&query=laity",
+                "word": "laity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52374",
+                "link": "/find?type=1&query=laitance",
+                "word": "laitance"
+            },
+            {
+                "id": "52375",
+                "link": "/find?type=1&query=laity",
+                "word": "laity"
+            }
+        ]
+    }
+}

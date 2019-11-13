@@ -1,1 +1,32 @@
-{"error": 0, "query": "lambasts", "enViData": {"suggests": [{"id": "52400", "link": "/find?type=1&query=lambaste", "word": "lambaste"}]}, "mUrl": "/find?type=1&query=lambasts", "enEnData": {"suggests": [{"id": "16143", "link": "/find?type=3&query=lambaste", "word": "lambaste"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4090", "link": "/find?type=4&query=lambaste", "word": "lambaste"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16143",
+                "link": "/find?type=3&query=lambaste",
+                "word": "lambaste"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52400",
+                "link": "/find?type=1&query=lambaste",
+                "word": "lambaste"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4090",
+                "link": "/find?type=4&query=lambaste",
+                "word": "lambaste"
+            }
+        ]
+    }
+}

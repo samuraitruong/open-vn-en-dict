@@ -1,1 +1,47 @@
-{"error": 0, "query": "lacto", "enViData": {"suggests": [{"id": "52274", "link": "/find?type=1&query=lacto-vegetarianism", "word": "lacto-vegetarianism"}, {"id": "52275", "link": "/find?type=1&query=lactobacillus", "word": "lactobacillus"}, {"id": "52276", "link": "/find?type=1&query=lactogenic", "word": "lactogenic"}, {"id": "52277", "link": "/find?type=1&query=lactoglobulin", "word": "lactoglobulin"}, {"id": "52278", "link": "/find?type=1&query=lactometer", "word": "lactometer"}, {"id": "52279", "link": "/find?type=1&query=lactose", "word": "lactose"}]}, "mUrl": "/find?type=1&query=lacto", "enEnData": {"suggests": [{"id": "16100", "link": "/find?type=3&query=lactose", "word": "lactose"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16100",
+                "link": "/find?type=3&query=lactose",
+                "word": "lactose"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52274",
+                "link": "/find?type=1&query=lacto-vegetarianism",
+                "word": "lacto-vegetarianism"
+            },
+            {
+                "id": "52275",
+                "link": "/find?type=1&query=lactobacillus",
+                "word": "lactobacillus"
+            },
+            {
+                "id": "52276",
+                "link": "/find?type=1&query=lactogenic",
+                "word": "lactogenic"
+            },
+            {
+                "id": "52277",
+                "link": "/find?type=1&query=lactoglobulin",
+                "word": "lactoglobulin"
+            },
+            {
+                "id": "52278",
+                "link": "/find?type=1&query=lactometer",
+                "word": "lactometer"
+            },
+            {
+                "id": "52279",
+                "link": "/find?type=1&query=lactose",
+                "word": "lactose"
+            }
+        ]
+    }
+}
