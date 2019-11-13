@@ -1,1 +1,34 @@
-{"error": 0, "query": "kayak", "enViData": {"suggests": [{"id": "51452", "link": "/find?type=1&query=kayaker", "word": "kayaker"}], "best": {"id": "51452", "details": "\n<div id=\"find_word_51452\" class=\"world word_en\" rel=\"kayak\">\n    <h2 class=\"fl\">kayak <span class=\"color-black\">/'kai\u00e6k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51452\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51452\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">xu\u1ed3ng b\u1ecdc da h\u1ea3i c\u1ea9u (c\u1ee7a ng\u01b0\u1eddi Etkimo)</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ec3 thao) xu\u1ed3ng kaiac</div>\n    \n</div>\n", "link": "/find?type=1&query=kayak", "word": "kayak"}}, "mUrl": "/find?type=1&query=kayak", "enEnData": {"suggests": [], "best": {"id": "15818", "details": "\n<div id=\"find_word_15818\" class=\"world word_en\" rel=\"kayak\">\n    <h2 class=\"fl\">kayak <span class=\"color-black\">/\u02c8ka\u026a\u02cc\u00e6k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15818\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15818\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -aks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a long narrow boat that is pointed at both ends and that is moved by a paddle with two blades - see picture at boat; compare canoe</div>\n    \n</div>\n", "link": "/find?type=3&query=kayak", "word": "kayak"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -aks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a long narrow boat that is pointed at both ends and that is moved by a paddle with two blades - see picture at boat; compare canoe</div>",
+            "id": "15818",
+            "mean": [],
+            "pronounce": "/\u02c8ka\u026a\u02cc\u00e6k/",
+            "type": "noun",
+            "word": "kayak"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">xu\u1ed3ng b\u1ecdc da h\u1ea3i c\u1ea9u (c\u1ee7a ng\u01b0\u1eddi Etkimo)</div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ec3 thao) xu\u1ed3ng kaiac</div>",
+            "id": "51452",
+            "mean": [],
+            "pronounce": "/'kai\u00e6k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9c3b8e234557e2592e8f25cac4afa796/16e63affcce/K/kayak.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c27566b362cfa64f1f9406d55ddc7dbe/16e63aff3fb/K/kayak.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "kayak"
+        },
+        "suggests": [
+            {
+                "id": "51452",
+                "link": "/find?type=1&query=kayaker",
+                "word": "kayaker"
+            }
+        ]
+    }
+}
