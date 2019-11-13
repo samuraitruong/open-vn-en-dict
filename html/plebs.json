@@ -1,1 +1,56 @@
-{"error": 0, "query": "plebs", "enViData": {"suggests": [], "best": {"id": "68652", "details": "\n<div id=\"find_word_68652\" class=\"world word_en\" rel=\"plebs\">\n    <h2 class=\"fl\">plebs <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68652\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68652\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u plebes</div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1eed h\u1ecdc) b\u00ecnh d\u00e2n La M\u00e3</div>\n    \n</div>\n", "link": "/find?type=1&query=plebs", "word": "plebs"}}, "mUrl": "/find?type=1&query=plebs", "enEnData": {"suggests": [{"id": "22075", "link": "/find?type=3&query=plebe", "word": "plebe"}, {"id": "22075", "link": "/find?type=3&query=plebeian", "word": "plebeian"}, {"id": "22075", "link": "/find?type=3&query=plebiscite", "word": "plebiscite"}], "best": {"id": "22075", "details": "\n<div id=\"find_word_22075\" class=\"world word_en\" rel=\"pleb\">\n    <h2 class=\"fl\">pleb <span class=\"color-black\">/\u02c8pl\u025bb/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22075\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22075\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural plebs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit informal + disapproving :an ordinary person who has low social status - usually plural</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They think they're too important to waste time on plebs like us.</div>\n    \n</div>\n", "link": "/find?type=3&query=pleb", "word": "pleb"}}, "ftype": "1", "synData": {"suggests": [{"id": "5599", "link": "/find?type=4&query=plebeian", "word": "plebeian"}, {"id": "5600", "link": "/find?type=4&query=plebiscite", "word": "plebiscite"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural plebs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit informal + disapproving :an ordinary person who has low social status - usually plural</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They think they're too important to waste time on plebs like us.</div>",
+            "id": "22075",
+            "mean": [],
+            "pronounce": "/\u02c8pl\u025bb/",
+            "type": "noun",
+            "word": "pleb"
+        },
+        "suggests": [
+            {
+                "id": "22075",
+                "link": "/find?type=3&query=plebe",
+                "word": "plebe"
+            },
+            {
+                "id": "22075",
+                "link": "/find?type=3&query=plebeian",
+                "word": "plebeian"
+            },
+            {
+                "id": "22075",
+                "link": "/find?type=3&query=plebiscite",
+                "word": "plebiscite"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u plebes</div>\n    \n    <div class=\"green margin25 m-top15\">(s\u1eed h\u1ecdc) b\u00ecnh d\u00e2n La M\u00e3</div>",
+            "id": "68652",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "plebs"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5599",
+                "link": "/find?type=4&query=plebeian",
+                "word": "plebeian"
+            },
+            {
+                "id": "5600",
+                "link": "/find?type=4&query=plebiscite",
+                "word": "plebiscite"
+            }
+        ]
+    }
+}

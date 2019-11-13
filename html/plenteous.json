@@ -1,1 +1,39 @@
-{"error": 0, "query": "plenteous", "enViData": {"suggests": [{"id": "68700", "link": "/find?type=1&query=plenteously", "word": "plenteously"}, {"id": "68700", "link": "/find?type=1&query=plenteousness", "word": "plenteousness"}], "best": {"id": "68700", "details": "\n<div id=\"find_word_68700\" class=\"world word_en\" rel=\"plenteous\">\n    <h2 class=\"fl\">plenteous <span class=\"color-black\">/'plenti\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68700\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68700\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 plentiful</div>\n    \n</div>\n", "link": "/find?type=1&query=plenteous", "word": "plenteous"}}, "mUrl": "/find?type=1&query=plenteous", "enEnData": {"suggests": [], "best": {"id": "22084", "details": "\n<div id=\"find_word_22084\" class=\"world word_en\" rel=\"plenteous\">\n    <h2 class=\"fl\">plenteous <span class=\"color-black\">/\u02c8pl\u025bntij\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22084\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22084\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal + literary :existing in large amounts :plentiful or abundant</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a plenteous [=copious] harvest</div>\n    \n</div>\n", "link": "/find?type=3&query=plenteous", "word": "plenteous"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] formal + literary :existing in large amounts :plentiful or abundant</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a plenteous [=copious] harvest</div>",
+            "id": "22084",
+            "mean": [],
+            "pronounce": "/\u02c8pl\u025bntij\u0259s/",
+            "type": "adjective",
+            "word": "plenteous"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 plentiful</div>",
+            "id": "68700",
+            "mean": [],
+            "pronounce": "/'plenti\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fa3454a2cafe4af5f963e85913d52bb0/16e62cac3e7/P/plenteous.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/20d30a00bab24e60d353076c40651e5b/16e62cabe15/P/plenteous.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "plenteous"
+        },
+        "suggests": [
+            {
+                "id": "68700",
+                "link": "/find?type=1&query=plenteously",
+                "word": "plenteously"
+            },
+            {
+                "id": "68700",
+                "link": "/find?type=1&query=plenteousness",
+                "word": "plenteousness"
+            }
+        ]
+    }
+}

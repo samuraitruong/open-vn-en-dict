@@ -1,1 +1,22 @@
-{"error": 0, "query": "plenipo", "enViData": {"suggests": [{"id": "68695", "link": "/find?type=1&query=plenipotentiary", "word": "plenipotentiary"}]}, "mUrl": "/find?type=1&query=plenipo", "enEnData": {"suggests": [{"id": "22082", "link": "/find?type=3&query=plenipotentiary", "word": "plenipotentiary"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22082",
+                "link": "/find?type=3&query=plenipotentiary",
+                "word": "plenipotentiary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68695",
+                "link": "/find?type=1&query=plenipotentiary",
+                "word": "plenipotentiary"
+            }
+        ]
+    }
+}

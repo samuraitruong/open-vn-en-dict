@@ -1,1 +1,37 @@
-{"error": 0, "query": "platea", "enViData": {"suggests": [{"id": "68505", "link": "/find?type=1&query=plateau", "word": "plateau"}, {"id": "68506", "link": "/find?type=1&query=plateaux", "word": "plateaux"}]}, "mUrl": "/find?type=1&query=platea", "enEnData": {"suggests": [{"id": "22012", "link": "/find?type=3&query=plateau", "word": "plateau"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5578", "link": "/find?type=4&query=plateau", "word": "plateau"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22012",
+                "link": "/find?type=3&query=plateau",
+                "word": "plateau"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68505",
+                "link": "/find?type=1&query=plateau",
+                "word": "plateau"
+            },
+            {
+                "id": "68506",
+                "link": "/find?type=1&query=plateaux",
+                "word": "plateaux"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5578",
+                "link": "/find?type=4&query=plateau",
+                "word": "plateau"
+            }
+        ]
+    }
+}

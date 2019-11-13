@@ -1,1 +1,37 @@
-{"error": 0, "query": "platt", "enViData": {"suggests": [{"id": "68548", "link": "/find?type=1&query=platten", "word": "platten"}, {"id": "68549", "link": "/find?type=1&query=platter", "word": "platter"}]}, "mUrl": "/find?type=1&query=platt", "enEnData": {"suggests": [{"id": "22023", "link": "/find?type=3&query=platter", "word": "platter"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5582", "link": "/find?type=4&query=platter", "word": "platter"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22023",
+                "link": "/find?type=3&query=platter",
+                "word": "platter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68548",
+                "link": "/find?type=1&query=platten",
+                "word": "platten"
+            },
+            {
+                "id": "68549",
+                "link": "/find?type=1&query=platter",
+                "word": "platter"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5582",
+                "link": "/find?type=4&query=platter",
+                "word": "platter"
+            }
+        ]
+    }
+}

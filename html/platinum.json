@@ -1,1 +1,60 @@
-{"error": 0, "query": "platinum", "enViData": {"suggests": [{"id": "68527", "link": "/find?type=1&query=platinum+black", "word": "platinum black"}, {"id": "68527", "link": "/find?type=1&query=platinum+blonde", "word": "platinum blonde"}, {"id": "68527", "link": "/find?type=1&query=platinum+foil", "word": "platinum foil"}, {"id": "68527", "link": "/find?type=1&query=platinum+metal", "word": "platinum metal"}], "best": {"id": "68527", "details": "\n<div id=\"find_word_68527\" class=\"world word_en\" rel=\"platinum\">\n    <h2 class=\"fl\">platinum <span class=\"color-black\">/'pl\u00e6tin\u0259m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68527\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68527\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">platin, b\u1ea1ch kim</div>\n    \n</div>\n", "link": "/find?type=1&query=platinum", "word": "platinum"}}, "mUrl": "/find?type=1&query=platinum", "enEnData": {"suggests": [{"id": "22017", "link": "/find?type=3&query=platinum+blonde", "word": "platinum blonde"}, {"id": "22017", "link": "/find?type=3&query=platinum+record", "word": "platinum record"}], "best": {"id": "22017", "details": "\n<div id=\"find_word_22017\" class=\"world word_en\" rel=\"platinum\">\n    <h2 class=\"fl\">platinum <span class=\"color-black\">/\u02c8pl\u00e6tn\u0259m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22017\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22017\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a heavy, silver-colored metal that is difficult to melt and that is used especially in expensive jewelry</div>\n    \n</div>\n", "link": "/find?type=3&query=platinum", "word": "platinum"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a heavy, silver-colored metal that is difficult to melt and that is used especially in expensive jewelry</div>",
+            "id": "22017",
+            "mean": [],
+            "pronounce": "/\u02c8pl\u00e6tn\u0259m/",
+            "type": "noun",
+            "word": "platinum"
+        },
+        "suggests": [
+            {
+                "id": "22017",
+                "link": "/find?type=3&query=platinum+blonde",
+                "word": "platinum blonde"
+            },
+            {
+                "id": "22017",
+                "link": "/find?type=3&query=platinum+record",
+                "word": "platinum record"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">platin, b\u1ea1ch kim</div>",
+            "id": "68527",
+            "mean": [],
+            "pronounce": "/'pl\u00e6tin\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d33011478484d7e50b29f63fdc073f88/16e62ca5e2b/P/platinum.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/08c5b8df29acad7ee33ee2961c03bbb5/16e62ca5827/P/platinum.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "platinum"
+        },
+        "suggests": [
+            {
+                "id": "68527",
+                "link": "/find?type=1&query=platinum+black",
+                "word": "platinum black"
+            },
+            {
+                "id": "68527",
+                "link": "/find?type=1&query=platinum+blonde",
+                "word": "platinum blonde"
+            },
+            {
+                "id": "68527",
+                "link": "/find?type=1&query=platinum+foil",
+                "word": "platinum foil"
+            },
+            {
+                "id": "68527",
+                "link": "/find?type=1&query=platinum+metal",
+                "word": "platinum metal"
+            }
+        ]
+    }
+}
