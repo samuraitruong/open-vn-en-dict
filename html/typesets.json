@@ -1,0 +1,35 @@
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "31588",
+                "link": "/find?type=3&query=typesetting",
+                "word": "typesetting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1eafp ch\u1eef</div>",
+            "id": "95712",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "typeset"
+        },
+        "suggests": [
+            {
+                "id": "95712",
+                "link": "/find?type=1&query=typesetter",
+                "word": "typesetter"
+            },
+            {
+                "id": "95712",
+                "link": "/find?type=1&query=typesetting",
+                "word": "typesetting"
+            }
+        ]
+    }
+}
