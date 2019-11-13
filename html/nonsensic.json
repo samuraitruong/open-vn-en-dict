@@ -1,1 +1,47 @@
-{"error": 0, "query": "nonsensic", "enViData": {"suggests": [{"id": "60939", "link": "/find?type=1&query=nonsensical", "word": "nonsensical"}, {"id": "60940", "link": "/find?type=1&query=nonsensicality", "word": "nonsensicality"}, {"id": "60941", "link": "/find?type=1&query=nonsensically", "word": "nonsensically"}, {"id": "60942", "link": "/find?type=1&query=nonsensicalness", "word": "nonsensicalness"}]}, "mUrl": "/find?type=1&query=nonsensic", "enEnData": {"suggests": [{"id": "19487", "link": "/find?type=3&query=nonsensical", "word": "nonsensical"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4897", "link": "/find?type=4&query=nonsensical", "word": "nonsensical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19487",
+                "link": "/find?type=3&query=nonsensical",
+                "word": "nonsensical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60939",
+                "link": "/find?type=1&query=nonsensical",
+                "word": "nonsensical"
+            },
+            {
+                "id": "60940",
+                "link": "/find?type=1&query=nonsensicality",
+                "word": "nonsensicality"
+            },
+            {
+                "id": "60941",
+                "link": "/find?type=1&query=nonsensically",
+                "word": "nonsensically"
+            },
+            {
+                "id": "60942",
+                "link": "/find?type=1&query=nonsensicalness",
+                "word": "nonsensicalness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4897",
+                "link": "/find?type=4&query=nonsensical",
+                "word": "nonsensical"
+            }
+        ]
+    }
+}
