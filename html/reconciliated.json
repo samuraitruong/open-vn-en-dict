@@ -1,1 +1,37 @@
-{"error": 0, "query": "reconciliated", "enViData": {"suggests": [{"id": "75288", "link": "/find?type=1&query=reconciliation", "word": "reconciliation"}, {"id": "75289", "link": "/find?type=1&query=reconciliatory", "word": "reconciliatory"}]}, "mUrl": "/find?type=1&query=reconciliated", "enEnData": {"suggests": [{"id": "24120", "link": "/find?type=3&query=reconciliation", "word": "reconciliation"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6330", "link": "/find?type=4&query=reconciliation", "word": "reconciliation"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24120",
+                "link": "/find?type=3&query=reconciliation",
+                "word": "reconciliation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75288",
+                "link": "/find?type=1&query=reconciliation",
+                "word": "reconciliation"
+            },
+            {
+                "id": "75289",
+                "link": "/find?type=1&query=reconciliatory",
+                "word": "reconciliatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6330",
+                "link": "/find?type=4&query=reconciliation",
+                "word": "reconciliation"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "recours", "enViData": {"suggests": [{"id": "75330", "link": "/find?type=1&query=recourse", "word": "recourse"}]}, "mUrl": "/find?type=1&query=recours", "enEnData": {"suggests": [{"id": "24142", "link": "/find?type=3&query=recourse", "word": "recourse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6337", "link": "/find?type=4&query=recourse", "word": "recourse"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24142",
+                "link": "/find?type=3&query=recourse",
+                "word": "recourse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75330",
+                "link": "/find?type=1&query=recourse",
+                "word": "recourse"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6337",
+                "link": "/find?type=4&query=recourse",
+                "word": "recourse"
+            }
+        ]
+    }
+}

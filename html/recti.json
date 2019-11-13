@@ -1,1 +1,92 @@
-{"error": 0, "query": "recti", "enViData": {"suggests": [{"id": "75364", "link": "/find?type=1&query=recti-nerved", "word": "recti-nerved"}, {"id": "75365", "link": "/find?type=1&query=rectifi", "word": "rectifi"}, {"id": "75366", "link": "/find?type=1&query=rectifiable", "word": "rectifiable"}, {"id": "75367", "link": "/find?type=1&query=rectification", "word": "rectification"}, {"id": "75368", "link": "/find?type=1&query=rectifier", "word": "rectifier"}, {"id": "75369", "link": "/find?type=1&query=rectify", "word": "rectify"}, {"id": "75370", "link": "/find?type=1&query=rectilineal", "word": "rectilineal"}, {"id": "75371", "link": "/find?type=1&query=rectilinear", "word": "rectilinear"}, {"id": "75372", "link": "/find?type=1&query=rectilinearity", "word": "rectilinearity"}, {"id": "75373", "link": "/find?type=1&query=rectitis", "word": "rectitis"}]}, "mUrl": "/find?type=1&query=recti", "enEnData": {"suggests": [{"id": "24158", "link": "/find?type=3&query=rectify", "word": "rectify"}, {"id": "24159", "link": "/find?type=3&query=rectilinear", "word": "rectilinear"}, {"id": "24160", "link": "/find?type=3&query=rectitude", "word": "rectitude"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6343", "link": "/find?type=4&query=rectify", "word": "rectify"}, {"id": "6344", "link": "/find?type=4&query=rectitude", "word": "rectitude"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24158",
+                "link": "/find?type=3&query=rectify",
+                "word": "rectify"
+            },
+            {
+                "id": "24159",
+                "link": "/find?type=3&query=rectilinear",
+                "word": "rectilinear"
+            },
+            {
+                "id": "24160",
+                "link": "/find?type=3&query=rectitude",
+                "word": "rectitude"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75364",
+                "link": "/find?type=1&query=recti-nerved",
+                "word": "recti-nerved"
+            },
+            {
+                "id": "75365",
+                "link": "/find?type=1&query=rectifi",
+                "word": "rectifi"
+            },
+            {
+                "id": "75366",
+                "link": "/find?type=1&query=rectifiable",
+                "word": "rectifiable"
+            },
+            {
+                "id": "75367",
+                "link": "/find?type=1&query=rectification",
+                "word": "rectification"
+            },
+            {
+                "id": "75368",
+                "link": "/find?type=1&query=rectifier",
+                "word": "rectifier"
+            },
+            {
+                "id": "75369",
+                "link": "/find?type=1&query=rectify",
+                "word": "rectify"
+            },
+            {
+                "id": "75370",
+                "link": "/find?type=1&query=rectilineal",
+                "word": "rectilineal"
+            },
+            {
+                "id": "75371",
+                "link": "/find?type=1&query=rectilinear",
+                "word": "rectilinear"
+            },
+            {
+                "id": "75372",
+                "link": "/find?type=1&query=rectilinearity",
+                "word": "rectilinearity"
+            },
+            {
+                "id": "75373",
+                "link": "/find?type=1&query=rectitis",
+                "word": "rectitis"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6343",
+                "link": "/find?type=4&query=rectify",
+                "word": "rectify"
+            },
+            {
+                "id": "6344",
+                "link": "/find?type=4&query=rectitude",
+                "word": "rectitude"
+            }
+        ]
+    }
+}

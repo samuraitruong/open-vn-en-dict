@@ -1,1 +1,22 @@
-{"error": 0, "query": "rectus", "enViData": {"suggests": [{"id": "75384", "link": "/find?type=1&query=rectum", "word": "rectum"}]}, "mUrl": "/find?type=1&query=rectus", "enEnData": {"suggests": [{"id": "24163", "link": "/find?type=3&query=rectum", "word": "rectum"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24163",
+                "link": "/find?type=3&query=rectum",
+                "word": "rectum"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75384",
+                "link": "/find?type=1&query=rectum",
+                "word": "rectum"
+            }
+        ]
+    }
+}

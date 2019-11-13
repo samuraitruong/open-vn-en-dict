@@ -1,1 +1,52 @@
-{"error": 0, "query": "recond", "enViData": {"suggests": [{"id": "75290", "link": "/find?type=1&query=recondense", "word": "recondense"}, {"id": "75291", "link": "/find?type=1&query=recondite", "word": "recondite"}, {"id": "75292", "link": "/find?type=1&query=reconditeness", "word": "reconditeness"}, {"id": "75293", "link": "/find?type=1&query=recondition", "word": "recondition"}]}, "mUrl": "/find?type=1&query=recond", "enEnData": {"suggests": [{"id": "24121", "link": "/find?type=3&query=recondite", "word": "recondite"}, {"id": "24122", "link": "/find?type=3&query=recondition", "word": "recondition"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6331", "link": "/find?type=4&query=recondite", "word": "recondite"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24121",
+                "link": "/find?type=3&query=recondite",
+                "word": "recondite"
+            },
+            {
+                "id": "24122",
+                "link": "/find?type=3&query=recondition",
+                "word": "recondition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75290",
+                "link": "/find?type=1&query=recondense",
+                "word": "recondense"
+            },
+            {
+                "id": "75291",
+                "link": "/find?type=1&query=recondite",
+                "word": "recondite"
+            },
+            {
+                "id": "75292",
+                "link": "/find?type=1&query=reconditeness",
+                "word": "reconditeness"
+            },
+            {
+                "id": "75293",
+                "link": "/find?type=1&query=recondition",
+                "word": "recondition"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6331",
+                "link": "/find?type=4&query=recondite",
+                "word": "recondite"
+            }
+        ]
+    }
+}
