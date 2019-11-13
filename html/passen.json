@@ -1,1 +1,57 @@
-{"error": 0, "query": "passen", "enViData": {"suggests": [{"id": "65447", "link": "/find?type=1&query=passenger", "word": "passenger"}, {"id": "65448", "link": "/find?type=1&query=passenger-boat", "word": "passenger-boat"}, {"id": "65449", "link": "/find?type=1&query=passenger-pigeon", "word": "passenger-pigeon"}, {"id": "65450", "link": "/find?type=1&query=passenger-train", "word": "passenger-train"}]}, "mUrl": "/find?type=1&query=passen", "enEnData": {"suggests": [{"id": "21018", "link": "/find?type=3&query=passenger", "word": "passenger"}, {"id": "21019", "link": "/find?type=3&query=passenger+car", "word": "passenger car"}, {"id": "21020", "link": "/find?type=3&query=passenger+seat", "word": "passenger seat"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5299", "link": "/find?type=4&query=passenger", "word": "passenger"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21018",
+                "link": "/find?type=3&query=passenger",
+                "word": "passenger"
+            },
+            {
+                "id": "21019",
+                "link": "/find?type=3&query=passenger+car",
+                "word": "passenger car"
+            },
+            {
+                "id": "21020",
+                "link": "/find?type=3&query=passenger+seat",
+                "word": "passenger seat"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65447",
+                "link": "/find?type=1&query=passenger",
+                "word": "passenger"
+            },
+            {
+                "id": "65448",
+                "link": "/find?type=1&query=passenger-boat",
+                "word": "passenger-boat"
+            },
+            {
+                "id": "65449",
+                "link": "/find?type=1&query=passenger-pigeon",
+                "word": "passenger-pigeon"
+            },
+            {
+                "id": "65450",
+                "link": "/find?type=1&query=passenger-train",
+                "word": "passenger-train"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5299",
+                "link": "/find?type=4&query=passenger",
+                "word": "passenger"
+            }
+        ]
+    }
+}

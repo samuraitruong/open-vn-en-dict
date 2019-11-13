@@ -1,1 +1,37 @@
-{"error": 0, "query": "parodi", "enViData": {"suggests": [{"id": "65248", "link": "/find?type=1&query=parodic", "word": "parodic"}, {"id": "65249", "link": "/find?type=1&query=parodical", "word": "parodical"}, {"id": "65250", "link": "/find?type=1&query=parodist", "word": "parodist"}, {"id": "65251", "link": "/find?type=1&query=parodistic", "word": "parodistic"}]}, "mUrl": "/find?type=1&query=parodi", "enEnData": {"suggests": [{"id": "20960", "link": "/find?type=3&query=parodist", "word": "parodist"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20960",
+                "link": "/find?type=3&query=parodist",
+                "word": "parodist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65248",
+                "link": "/find?type=1&query=parodic",
+                "word": "parodic"
+            },
+            {
+                "id": "65249",
+                "link": "/find?type=1&query=parodical",
+                "word": "parodical"
+            },
+            {
+                "id": "65250",
+                "link": "/find?type=1&query=parodist",
+                "word": "parodist"
+            },
+            {
+                "id": "65251",
+                "link": "/find?type=1&query=parodistic",
+                "word": "parodistic"
+            }
+        ]
+    }
+}

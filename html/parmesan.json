@@ -1,1 +1,34 @@
-{"error": 0, "query": "parmesan", "enViData": {"suggests": [{"id": "65233", "link": "/find?type=1&query=Parmesan+cheese", "word": "Parmesan cheese"}], "best": {"id": "65233", "details": "\n<div id=\"find_word_65233\" class=\"world word_en\" rel=\"Parmesan\">\n    <h2 class=\"fl\">Parmesan <span class=\"color-black\">/'p\u0251: miz\u00e6n/</span>&nbsp;&nbsp;<span class=\"color-orange\">/p\u0251:rmi'z\u00e6n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65233\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65233\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c Parmesan cheese)</div>\n    \n    <div class=\"green margin25 m-top15\">pho m\u00e1t Parmesan (c\u1ee7a Italia, th\u01b0\u1eddng n\u1ea1o ra v\u00e0 d\u1ecdn v\u1edbi m\u00f3n m\u00ec \u1ed1ng, m\u00ec \u0111\u0169a\u2026)</div>\n    \n</div>\n", "link": "/find?type=1&query=Parmesan", "word": "Parmesan"}}, "mUrl": "/find?type=1&query=parmesan", "enEnData": {"suggests": [], "best": {"id": "20957", "details": "\n<div id=\"find_word_20957\" class=\"world word_en\" rel=\"Parmesan\">\n    <h2 class=\"fl\">Parmesan <span class=\"color-black\">/\u02c8p\u0251\u025am\u0259\u02ccz\u0251\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02ccp\u0251\u02d0m\u0259\u02c8z\u00e6n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20957\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20957\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a hard Italian cheese - called also Parmesan cheese</div>\n    \n</div>\n", "link": "/find?type=3&query=Parmesan", "word": "Parmesan"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a hard Italian cheese - called also Parmesan cheese</div>",
+            "id": "20957",
+            "mean": [],
+            "pronounce": "/\u02c8p\u0251\u025am\u0259\u02ccz\u0251\u02d0n/",
+            "type": "noun",
+            "word": "Parmesan"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u00e1ch vi\u1ebft kh\u00e1c Parmesan cheese)</div>\n    \n    <div class=\"green margin25 m-top15\">pho m\u00e1t Parmesan (c\u1ee7a Italia, th\u01b0\u1eddng n\u1ea1o ra v\u00e0 d\u1ecdn v\u1edbi m\u00f3n m\u00ec \u1ed1ng, m\u00ec \u0111\u0169a\u2026)</div>",
+            "id": "65233",
+            "mean": [],
+            "pronounce": "/'p\u0251: miz\u00e6n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/dc18d03c6c06397c184c1429db0bd9a3/16e62beabfc/P/Parmesan.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/235cf41b9f48ad9438e5c52169297b44/16e62bea62f/P/Parmesan.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Parmesan"
+        },
+        "suggests": [
+            {
+                "id": "65233",
+                "link": "/find?type=1&query=Parmesan+cheese",
+                "word": "Parmesan cheese"
+            }
+        ]
+    }
+}
