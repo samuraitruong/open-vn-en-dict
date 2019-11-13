@@ -1,1 +1,40 @@
-{"error": 0, "query": "kiwi", "enViData": {"suggests": [{"id": "51852", "link": "/find?type=1&query=kiwi+fruit", "word": "kiwi fruit"}], "best": {"id": "51852", "details": "\n<div id=\"find_word_51852\" class=\"world word_en\" rel=\"kiwi\">\n    <h2 class=\"fl\">kiwi <span class=\"color-black\">/'ki:wi:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51852\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51852\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) chim kivi (kh\u00f4ng bay \u0111\u01b0\u1ee3c)</div>\n    \n    <div class=\"bold dot-blue m-top15\">kiwi</div>\n    \n    <div class=\"color-light-grey margin25\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"grey margin25 m-top15\">l\u00ednh T\u00e2n T\u00e2y Lan; \u0111\u1ed9i vi\u00ean \u0111\u1ed9i th\u1ec3 thao T\u00e2n T\u00e2y Lan</div>\n    \n</div>\n", "link": "/find?type=1&query=kiwi", "word": "kiwi"}}, "mUrl": "/find?type=1&query=kiwi", "enEnData": {"suggests": [{"id": "15960", "link": "/find?type=3&query=kiwifruit", "word": "kiwifruit"}], "best": {"id": "15960", "details": "\n<div id=\"find_word_15960\" class=\"world word_en\" rel=\"kiwi\">\n    <h2 class=\"fl\">kiwi <span class=\"color-black\">/\u02c8ki\u02d0\u02ccwi\u02d0/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15960\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15960\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -wis</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Kiwi informal :a person who lives in or is from New Zealand</div>\n    \n    <div class=\"green margin25 m-top15\">a bird from New Zealand that cannot fly and that has a long bill</div>\n    \n    <div class=\"green margin25 m-top15\">kiwifruit</div>\n    \n</div>\n", "link": "/find?type=3&query=kiwi", "word": "kiwi"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -wis</div>\n    \n    <div class=\"green margin25 m-top15\">[count] Kiwi informal :a person who lives in or is from New Zealand</div>\n    \n    <div class=\"green margin25 m-top15\">a bird from New Zealand that cannot fly and that has a long bill</div>\n    \n    <div class=\"green margin25 m-top15\">kiwifruit</div>",
+            "id": "15960",
+            "mean": [],
+            "pronounce": "/\u02c8ki\u02d0\u02ccwi\u02d0/",
+            "type": "noun",
+            "word": "kiwi"
+        },
+        "suggests": [
+            {
+                "id": "15960",
+                "link": "/find?type=3&query=kiwifruit",
+                "word": "kiwifruit"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt) chim kivi (kh\u00f4ng bay \u0111\u01b0\u1ee3c)</div>\n    \n    <div class=\"bold dot-blue m-top15\">kiwi</div>\n    \n    <div class=\"color-light-grey margin25\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"grey margin25 m-top15\">l\u00ednh T\u00e2n T\u00e2y Lan; \u0111\u1ed9i vi\u00ean \u0111\u1ed9i th\u1ec3 thao T\u00e2n T\u00e2y Lan</div>",
+            "id": "51852",
+            "mean": [],
+            "pronounce": "/'ki:wi:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0a1c66b5faeeeeca1636b9395cab0a28/16e628a43e4/K/kiwi.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/05bc752858b8621ff5f3002891da116c/16e628a3c93/K/kiwi.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "kiwi"
+        },
+        "suggests": [
+            {
+                "id": "51852",
+                "link": "/find?type=1&query=kiwi+fruit",
+                "word": "kiwi fruit"
+            }
+        ]
+    }
+}

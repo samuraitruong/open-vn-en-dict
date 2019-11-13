@@ -1,1 +1,22 @@
-{"error": 0, "query": "kingling", "enViData": {"suggests": [{"id": "51769", "link": "/find?type=1&query=kinglet", "word": "kinglet"}]}, "mUrl": "/find?type=1&query=kingling", "enEnData": {"suggests": [{"id": "15922", "link": "/find?type=3&query=kingly", "word": "kingly"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15922",
+                "link": "/find?type=3&query=kingly",
+                "word": "kingly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51769",
+                "link": "/find?type=1&query=kinglet",
+                "word": "kinglet"
+            }
+        ]
+    }
+}
