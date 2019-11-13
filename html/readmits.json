@@ -1,1 +1,31 @@
-{"error": 0, "query": "readmits", "enViData": {"suggests": [{"id": "74962", "link": "/find?type=1&query=readmittance", "word": "readmittance"}], "best": {"id": "74962", "details": "\n<div id=\"find_word_74962\" class=\"world word_en\" rel=\"readmit\">\n    <h2 class=\"fl\">readmit <span class=\"color-black\">/'ri:\u0259d'mit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74962\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74962\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ec3 cho (ai) v\u00e0o l\u1ea1i (n\u01a1i n\u00e0o)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1eadn l\u1ea1i, k\u1ebft n\u1ea1p l\u1ea1i</div>\n    \n</div>\n", "link": "/find?type=1&query=readmit", "word": "readmit"}}, "mUrl": "/find?type=1&query=readmits", "enEnData": {"suggests": [], "best": {"id": "23982", "details": "\n<div id=\"find_word_23982\" class=\"world word_en\" rel=\"readmit\">\n    <h2 class=\"fl\">readmit <span class=\"color-black\">/\u02ccri\u02d0j\u0259d\u02c8m\u026at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23982\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23982\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-mits; -mitted; -mitting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to allow (someone) to again join a club, group, etc., or enter a place</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They refused to readmit her to/into the club.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Only people who have ticket stubs will be readmitted (to the theater).</div>\n    \n    <div class=\"green margin25 m-top15\">to take (someone) into a hospital as a patient again</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was readmitted soon after being discharged.</div>\n    \n</div>\n", "link": "/find?type=3&query=readmit", "word": "readmit"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-mits; -mitted; -mitting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] to allow (someone) to again join a club, group, etc., or enter a place</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">They refused to readmit her to/into the club.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Only people who have ticket stubs will be readmitted (to the theater).</div>\n    \n    <div class=\"green margin25 m-top15\">to take (someone) into a hospital as a patient again</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was readmitted soon after being discharged.</div>",
+            "id": "23982",
+            "mean": [],
+            "pronounce": "/\u02ccri\u02d0j\u0259d\u02c8m\u026at/",
+            "type": "verb",
+            "word": "readmit"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ec3 cho (ai) v\u00e0o l\u1ea1i (n\u01a1i n\u00e0o)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1eadn l\u1ea1i, k\u1ebft n\u1ea1p l\u1ea1i</div>",
+            "id": "74962",
+            "mean": [],
+            "pronounce": "/'ri:\u0259d'mit/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "readmit"
+        },
+        "suggests": [
+            {
+                "id": "74962",
+                "link": "/find?type=1&query=readmittance",
+                "word": "readmittance"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "rearguing", "enViData": {"suggests": [{"id": "75046", "link": "/find?type=1&query=rearguard", "word": "rearguard"}, {"id": "75047", "link": "/find?type=1&query=rearguard+action", "word": "rearguard action"}]}, "mUrl": "/find?type=1&query=rearguing", "enEnData": {"suggests": [{"id": "24023", "link": "/find?type=3&query=rearguard", "word": "rearguard"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24023",
+                "link": "/find?type=3&query=rearguard",
+                "word": "rearguard"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75046",
+                "link": "/find?type=1&query=rearguard",
+                "word": "rearguard"
+            },
+            {
+                "id": "75047",
+                "link": "/find?type=1&query=rearguard+action",
+                "word": "rearguard action"
+            }
+        ]
+    }
+}
