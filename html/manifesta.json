@@ -1,1 +1,42 @@
-{"error": 0, "query": "manifesta", "enViData": {"suggests": [{"id": "55904", "link": "/find?type=1&query=manifestable", "word": "manifestable"}, {"id": "55905", "link": "/find?type=1&query=manifestant", "word": "manifestant"}, {"id": "55906", "link": "/find?type=1&query=manifestation", "word": "manifestation"}]}, "mUrl": "/find?type=1&query=manifesta", "enEnData": {"suggests": [{"id": "17476", "link": "/find?type=3&query=manifestation", "word": "manifestation"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4397", "link": "/find?type=4&query=manifestation", "word": "manifestation"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17476",
+                "link": "/find?type=3&query=manifestation",
+                "word": "manifestation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55904",
+                "link": "/find?type=1&query=manifestable",
+                "word": "manifestable"
+            },
+            {
+                "id": "55905",
+                "link": "/find?type=1&query=manifestant",
+                "word": "manifestant"
+            },
+            {
+                "id": "55906",
+                "link": "/find?type=1&query=manifestation",
+                "word": "manifestation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4397",
+                "link": "/find?type=4&query=manifestation",
+                "word": "manifestation"
+            }
+        ]
+    }
+}

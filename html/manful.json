@@ -1,1 +1,35 @@
-{"error": 0, "query": "manful", "enViData": {"suggests": [{"id": "55867", "link": "/find?type=1&query=manfully", "word": "manfully"}, {"id": "55867", "link": "/find?type=1&query=manfulness", "word": "manfulness"}], "best": {"id": "55867", "details": "\n<div id=\"find_word_55867\" class=\"world word_en\" rel=\"manful\">\n    <h2 class=\"fl\">manful <span class=\"color-black\">/'m\u00e6nful/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55867\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55867\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u0169ng m\u00e3nh; can tr\u01b0\u1eddng; ki\u00ean quy\u1ebft</div>\n    \n</div>\n", "link": "/find?type=1&query=manful", "word": "manful"}}, "mUrl": "/find?type=1&query=manful", "enEnData": {"suggests": [{"id": "17452", "link": "/find?type=3&query=manfully", "word": "manfully"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17452",
+                "link": "/find?type=3&query=manfully",
+                "word": "manfully"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u0169ng m\u00e3nh; can tr\u01b0\u1eddng; ki\u00ean quy\u1ebft</div>",
+            "id": "55867",
+            "mean": [],
+            "pronounce": "/'m\u00e6nful/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "manful"
+        },
+        "suggests": [
+            {
+                "id": "55867",
+                "link": "/find?type=1&query=manfully",
+                "word": "manfully"
+            },
+            {
+                "id": "55867",
+                "link": "/find?type=1&query=manfulness",
+                "word": "manfulness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "mamas", "enViData": {"suggests": [], "best": {"id": "55754", "details": "\n<div id=\"find_word_55754\" class=\"world word_en\" rel=\"mama\">\n    <h2 class=\"fl\">mama <span class=\"color-black\">/m\u0259'm\u0251:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55754\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55754\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169, Anh, kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1, m\u1ea1, m\u1eb9</div>\n    \n</div>\n", "link": "/find?type=1&query=mama", "word": "mama"}}, "mUrl": "/find?type=1&query=mamas", "enEnData": {"suggests": [{"id": "17416", "link": "/find?type=3&query=mama%27s+boy", "word": "mama's boy"}], "best": {"id": "17416", "details": "\n<div id=\"find_word_17416\" class=\"world word_en\" rel=\"mama\">\n    <h2 class=\"fl\">mama <span class=\"color-black\">/\u02c8m\u0251\u02d0m\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17416\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17416\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or mamma also momma  , pl -mas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :a person's mother - used especially by young children</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Where's mama?</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Read me a story, Mama! - compare papa</div>\n    \n</div>\n", "link": "/find?type=3&query=mama", "word": "mama"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">or mamma also momma  , pl -mas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :a person's mother - used especially by young children</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Where's mama?</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Read me a story, Mama! - compare papa</div>",
+            "id": "17416",
+            "mean": [],
+            "pronounce": "/\u02c8m\u0251\u02d0m\u0259/",
+            "type": "noun",
+            "word": "mama"
+        },
+        "suggests": [
+            {
+                "id": "17416",
+                "link": "/find?type=3&query=mama%27s+boy",
+                "word": "mama's boy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169, Anh, kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1, m\u1ea1, m\u1eb9</div>",
+            "id": "55754",
+            "mean": [],
+            "pronounce": "/m\u0259'm\u0251:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d62371943ad6ef6fedb2c3b29a1a2797/16e62976d4d/M/mama.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0667611a8302d2825e2500c8f24b3581/16e6297674b/M/mama.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mama"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,57 @@
-{"error": 0, "query": "mandat", "enViData": {"suggests": [{"id": "55844", "link": "/find?type=1&query=mandatary", "word": "mandatary"}, {"id": "55845", "link": "/find?type=1&query=mandate", "word": "mandate"}, {"id": "55846", "link": "/find?type=1&query=mandator", "word": "mandator"}, {"id": "55847", "link": "/find?type=1&query=mandatorily", "word": "mandatorily"}, {"id": "55848", "link": "/find?type=1&query=mandatory", "word": "mandatory"}]}, "mUrl": "/find?type=1&query=mandat", "enEnData": {"suggests": [{"id": "17444", "link": "/find?type=3&query=mandate", "word": "mandate"}, {"id": "17445", "link": "/find?type=3&query=mandatory", "word": "mandatory"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4387", "link": "/find?type=4&query=mandatory", "word": "mandatory"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17444",
+                "link": "/find?type=3&query=mandate",
+                "word": "mandate"
+            },
+            {
+                "id": "17445",
+                "link": "/find?type=3&query=mandatory",
+                "word": "mandatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55844",
+                "link": "/find?type=1&query=mandatary",
+                "word": "mandatary"
+            },
+            {
+                "id": "55845",
+                "link": "/find?type=1&query=mandate",
+                "word": "mandate"
+            },
+            {
+                "id": "55846",
+                "link": "/find?type=1&query=mandator",
+                "word": "mandator"
+            },
+            {
+                "id": "55847",
+                "link": "/find?type=1&query=mandatorily",
+                "word": "mandatorily"
+            },
+            {
+                "id": "55848",
+                "link": "/find?type=1&query=mandatory",
+                "word": "mandatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4387",
+                "link": "/find?type=4&query=mandatory",
+                "word": "mandatory"
+            }
+        ]
+    }
+}

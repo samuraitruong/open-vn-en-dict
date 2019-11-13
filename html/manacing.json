@@ -1,1 +1,32 @@
-{"error": 0, "query": "manacing", "enViData": {"suggests": [{"id": "55809", "link": "/find?type=1&query=manacle", "word": "manacle"}]}, "mUrl": "/find?type=1&query=manacing", "enEnData": {"suggests": [{"id": "17433", "link": "/find?type=3&query=manacle", "word": "manacle"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4382", "link": "/find?type=4&query=manacle", "word": "manacle"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17433",
+                "link": "/find?type=3&query=manacle",
+                "word": "manacle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55809",
+                "link": "/find?type=1&query=manacle",
+                "word": "manacle"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4382",
+                "link": "/find?type=4&query=manacle",
+                "word": "manacle"
+            }
+        ]
+    }
+}

@@ -1,1 +1,54 @@
-{"error": 0, "query": "mammals", "enViData": {"suggests": [{"id": "55763", "link": "/find?type=1&query=mammalian", "word": "mammalian"}, {"id": "55763", "link": "/find?type=1&query=mammaliferous", "word": "mammaliferous"}, {"id": "55763", "link": "/find?type=1&query=mammalogical", "word": "mammalogical"}, {"id": "55763", "link": "/find?type=1&query=mammalogist", "word": "mammalogist"}, {"id": "55763", "link": "/find?type=1&query=mammalogy", "word": "mammalogy"}], "best": {"id": "55763", "details": "\n<div id=\"find_word_55763\" class=\"world word_en\" rel=\"mammal\">\n    <h2 class=\"fl\">mammal <span class=\"color-black\">/'m\u00e6ml/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55763\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55763\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng v\u1eadt c\u00f3 v\u00fa, lo\u00e0i th\u00fa</div>\n    \n</div>\n", "link": "/find?type=1&query=mammal", "word": "mammal"}}, "mUrl": "/find?type=1&query=mammals", "enEnData": {"suggests": [], "best": {"id": "17419", "details": "\n<div id=\"find_word_17419\" class=\"world word_en\" rel=\"mammal\">\n    <h2 class=\"fl\">mammal <span class=\"color-black\">/\u02c8m\u00e6m\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17419\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17419\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of animal that feeds milk to its young and that usually has hair or fur covering most of its skin</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Human beings, dogs, and cats are all mammals.</div>\n    \n</div>\n", "link": "/find?type=3&query=mammal", "word": "mammal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mals</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a type of animal that feeds milk to its young and that usually has hair or fur covering most of its skin</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Human beings, dogs, and cats are all mammals.</div>",
+            "id": "17419",
+            "mean": [],
+            "pronounce": "/\u02c8m\u00e6m\u0259l/",
+            "type": "noun",
+            "word": "mammal"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng v\u1eadt c\u00f3 v\u00fa, lo\u00e0i th\u00fa</div>",
+            "id": "55763",
+            "mean": [],
+            "pronounce": "/'m\u00e6ml/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4747dbb272f433816b2f81e48e3b91f6/16e62977674/M/mammal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1745496113915085a0ff52f96bfe9fa2/16e62977072/M/mammal.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mammal"
+        },
+        "suggests": [
+            {
+                "id": "55763",
+                "link": "/find?type=1&query=mammalian",
+                "word": "mammalian"
+            },
+            {
+                "id": "55763",
+                "link": "/find?type=1&query=mammaliferous",
+                "word": "mammaliferous"
+            },
+            {
+                "id": "55763",
+                "link": "/find?type=1&query=mammalogical",
+                "word": "mammalogical"
+            },
+            {
+                "id": "55763",
+                "link": "/find?type=1&query=mammalogist",
+                "word": "mammalogist"
+            },
+            {
+                "id": "55763",
+                "link": "/find?type=1&query=mammalogy",
+                "word": "mammalogy"
+            }
+        ]
+    }
+}

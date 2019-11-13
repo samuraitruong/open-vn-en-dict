@@ -1,1 +1,39 @@
-{"error": 0, "query": "mandolin", "enViData": {"suggests": [{"id": "55853", "link": "/find?type=1&query=mandoline", "word": "mandoline"}, {"id": "55853", "link": "/find?type=1&query=mandolinist", "word": "mandolinist"}], "best": {"id": "55853", "details": "\n<div id=\"find_word_55853\" class=\"world word_en\" rel=\"mandolin\">\n    <h2 class=\"fl\">mandolin <span class=\"color-black\">/'m\u00e6nd\u0259lin/</span>&nbsp;&nbsp;<span class=\"color-orange\">/,m\u00e6nd\u0259'lin/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55853\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55853\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e0n m\u0103ng-\u0111\u00f4-lin</div>\n    \n</div>\n", "link": "/find?type=1&query=mandolin", "word": "mandolin"}}, "mUrl": "/find?type=1&query=mandolin", "enEnData": {"suggests": [], "best": {"id": "17447", "details": "\n<div id=\"find_word_17447\" class=\"world word_en\" rel=\"mandolin\">\n    <h2 class=\"fl\">mandolin <span class=\"color-black\">/\u02ccm\u00e6nd\u0259\u02c8l\u026an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17447\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17447\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small musical instrument that has a long neck, a body that is shaped like a pear, and usually four pairs of strings</div>\n    \n</div>\n", "link": "/find?type=3&query=mandolin", "word": "mandolin"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small musical instrument that has a long neck, a body that is shaped like a pear, and usually four pairs of strings</div>",
+            "id": "17447",
+            "mean": [],
+            "pronounce": "/\u02ccm\u00e6nd\u0259\u02c8l\u026an/",
+            "type": "noun",
+            "word": "mandolin"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(nh\u1ea1c)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e0n m\u0103ng-\u0111\u00f4-lin</div>",
+            "id": "55853",
+            "mean": [],
+            "pronounce": "/'m\u00e6nd\u0259lin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/da734bd5c09d50c9351a744574867ea5/16e6297beec/M/mandolin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/26cf7549865c821f4309c6b12b863a11/16e6297b79a/M/mandolin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mandolin"
+        },
+        "suggests": [
+            {
+                "id": "55853",
+                "link": "/find?type=1&query=mandoline",
+                "word": "mandoline"
+            },
+            {
+                "id": "55853",
+                "link": "/find?type=1&query=mandolinist",
+                "word": "mandolinist"
+            }
+        ]
+    }
+}

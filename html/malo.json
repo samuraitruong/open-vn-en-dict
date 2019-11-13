@@ -1,1 +1,42 @@
-{"error": 0, "query": "malo", "enViData": {"suggests": [{"id": "55729", "link": "/find?type=1&query=malodorant", "word": "malodorant"}, {"id": "55730", "link": "/find?type=1&query=malodorous", "word": "malodorous"}, {"id": "55731", "link": "/find?type=1&query=malodorously", "word": "malodorously"}, {"id": "55732", "link": "/find?type=1&query=malodorousness", "word": "malodorousness"}, {"id": "55733", "link": "/find?type=1&query=malodour", "word": "malodour"}]}, "mUrl": "/find?type=1&query=malo", "enEnData": {"suggests": [{"id": "17407", "link": "/find?type=3&query=malodorous", "word": "malodorous"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17407",
+                "link": "/find?type=3&query=malodorous",
+                "word": "malodorous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55729",
+                "link": "/find?type=1&query=malodorant",
+                "word": "malodorant"
+            },
+            {
+                "id": "55730",
+                "link": "/find?type=1&query=malodorous",
+                "word": "malodorous"
+            },
+            {
+                "id": "55731",
+                "link": "/find?type=1&query=malodorously",
+                "word": "malodorously"
+            },
+            {
+                "id": "55732",
+                "link": "/find?type=1&query=malodorousness",
+                "word": "malodorousness"
+            },
+            {
+                "id": "55733",
+                "link": "/find?type=1&query=malodour",
+                "word": "malodour"
+            }
+        ]
+    }
+}

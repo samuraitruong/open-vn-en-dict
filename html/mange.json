@@ -1,1 +1,55 @@
-{"error": 0, "query": "mange", "enViData": {"suggests": [{"id": "55875", "link": "/find?type=1&query=mangel", "word": "mangel"}, {"id": "55875", "link": "/find?type=1&query=mangel-wurzel", "word": "mangel-wurzel"}, {"id": "55875", "link": "/find?type=1&query=manger", "word": "manger"}], "best": {"id": "55875", "details": "\n<div id=\"find_word_55875\" class=\"world word_en\" rel=\"mange\">\n    <h2 class=\"fl\">mange <span class=\"color-black\">/meind\u0292/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55875\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55875\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh l\u1edf gh\u1ebb (\u1edf th\u00fa c\u00f3 l\u00f4ng)</div>\n    \n</div>\n", "link": "/find?type=1&query=mange", "word": "mange"}}, "mUrl": "/find?type=1&query=mange", "enEnData": {"suggests": [{"id": "17454", "link": "/find?type=3&query=manger", "word": "manger"}, {"id": "17454", "link": "/find?type=3&query=mangetout", "word": "mangetout"}], "best": {"id": "17454", "details": "\n<div id=\"find_word_17454\" class=\"world word_en\" rel=\"mange\">\n    <h2 class=\"fl\">mange <span class=\"color-black\">/\u02c8me\u026an\u02a4/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17454\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17454\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a skin disease of animals (such as cats and dogs) and sometimes people that causes itching and loss of hair</div>\n    \n</div>\n", "link": "/find?type=3&query=mange", "word": "mange"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a skin disease of animals (such as cats and dogs) and sometimes people that causes itching and loss of hair</div>",
+            "id": "17454",
+            "mean": [],
+            "pronounce": "/\u02c8me\u026an\u02a4/",
+            "type": "noun",
+            "word": "mange"
+        },
+        "suggests": [
+            {
+                "id": "17454",
+                "link": "/find?type=3&query=manger",
+                "word": "manger"
+            },
+            {
+                "id": "17454",
+                "link": "/find?type=3&query=mangetout",
+                "word": "mangetout"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh l\u1edf gh\u1ebb (\u1edf th\u00fa c\u00f3 l\u00f4ng)</div>",
+            "id": "55875",
+            "mean": [],
+            "pronounce": "/meind\u0292/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e9710f7ace5dc86a36984850c564ce97/16e6297d734/M/mange.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/09ccc749067306d9d807cef21584f262/16e6297d161/M/mange.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mange"
+        },
+        "suggests": [
+            {
+                "id": "55875",
+                "link": "/find?type=1&query=mangel",
+                "word": "mangel"
+            },
+            {
+                "id": "55875",
+                "link": "/find?type=1&query=mangel-wurzel",
+                "word": "mangel-wurzel"
+            },
+            {
+                "id": "55875",
+                "link": "/find?type=1&query=manger",
+                "word": "manger"
+            }
+        ]
+    }
+}
