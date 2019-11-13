@@ -1,1 +1,52 @@
-{"error": 0, "query": "liss", "enViData": {"suggests": [{"id": "54021", "link": "/find?type=1&query=lissom", "word": "lissom"}, {"id": "54022", "link": "/find?type=1&query=lissome", "word": "lissome"}, {"id": "54023", "link": "/find?type=1&query=lissomness", "word": "lissomness"}]}, "mUrl": "/find?type=1&query=liss", "enEnData": {"suggests": [{"id": "16791", "link": "/find?type=3&query=lissome", "word": "lissome"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4237", "link": "/find?type=4&query=list", "word": "list"}, {"id": "4238", "link": "/find?type=4&query=listen", "word": "listen"}, {"id": "4239", "link": "/find?type=4&query=listless", "word": "listless"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16791",
+                "link": "/find?type=3&query=lissome",
+                "word": "lissome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54021",
+                "link": "/find?type=1&query=lissom",
+                "word": "lissom"
+            },
+            {
+                "id": "54022",
+                "link": "/find?type=1&query=lissome",
+                "word": "lissome"
+            },
+            {
+                "id": "54023",
+                "link": "/find?type=1&query=lissomness",
+                "word": "lissomness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4237",
+                "link": "/find?type=4&query=list",
+                "word": "list"
+            },
+            {
+                "id": "4238",
+                "link": "/find?type=4&query=listen",
+                "word": "listen"
+            },
+            {
+                "id": "4239",
+                "link": "/find?type=4&query=listless",
+                "word": "listless"
+            }
+        ]
+    }
+}

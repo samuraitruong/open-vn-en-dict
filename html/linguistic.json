@@ -1,1 +1,45 @@
-{"error": 0, "query": "linguistic", "enViData": {"suggests": [{"id": "53905", "link": "/find?type=1&query=linguistician", "word": "linguistician"}, {"id": "53905", "link": "/find?type=1&query=linguistics", "word": "linguistics"}], "best": {"id": "53905", "details": "\n<div id=\"find_word_53905\" class=\"world word_en\" rel=\"linguistic\">\n    <h2 class=\"fl\">linguistic <span class=\"color-black\">/li\u03b7'gwistik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53905\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53905\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] ng\u00f4n ng\u1eef h\u1ecdc</div>\n    \n</div>\n", "link": "/find?type=1&query=linguistic", "word": "linguistic"}}, "mUrl": "/find?type=1&query=linguistic", "enEnData": {"suggests": [{"id": "16748", "link": "/find?type=3&query=linguistics", "word": "linguistics"}], "best": {"id": "16748", "details": "\n<div id=\"find_word_16748\" class=\"world word_en\" rel=\"linguistic\">\n    <h2 class=\"fl\">linguistic <span class=\"color-black\">/l\u026a\u014b\u02c8gw\u026ast\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16748\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16748\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to language or linguistics</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">linguistic differences/development</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">learning about linguistic theory</div>\n    \n</div>\n", "link": "/find?type=3&query=linguistic", "word": "linguistic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to language or linguistics</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">linguistic differences/development</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">learning about linguistic theory</div>",
+            "id": "16748",
+            "mean": [],
+            "pronounce": "/l\u026a\u014b\u02c8gw\u026ast\u026ak/",
+            "type": "adjective",
+            "word": "linguistic"
+        },
+        "suggests": [
+            {
+                "id": "16748",
+                "link": "/find?type=3&query=linguistics",
+                "word": "linguistics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] ng\u00f4n ng\u1eef h\u1ecdc</div>",
+            "id": "53905",
+            "mean": [],
+            "pronounce": "/li\u03b7'gwistik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a814a52db3d9cb543035f039600e644c/16e6291a33a/L/linguistic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/16278a3df4d0187bdf16e633849fbbbf/16e62919c3f/L/linguistic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "linguistic"
+        },
+        "suggests": [
+            {
+                "id": "53905",
+                "link": "/find?type=1&query=linguistician",
+                "word": "linguistician"
+            },
+            {
+                "id": "53905",
+                "link": "/find?type=1&query=linguistics",
+                "word": "linguistics"
+            }
+        ]
+    }
+}

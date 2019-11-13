@@ -1,1 +1,31 @@
-{"error": 0, "query": "lisping", "enViData": {"suggests": [{"id": "54019", "link": "/find?type=1&query=lispingly", "word": "lispingly"}], "best": {"id": "54019", "details": "\n<div id=\"find_word_54019\" class=\"world word_en\" rel=\"lisping\">\n    <h2 class=\"fl\">lisping <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54019\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54019\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i \u0111\u1edbt</div>\n    \n</div>\n", "link": "/find?type=1&query=lisping", "word": "lisping"}}, "mUrl": "/find?type=1&query=lisping", "enEnData": {"suggests": [], "best": {"id": "16790", "details": "\n<div id=\"find_word_16790\" class=\"world word_en\" rel=\"lisp\">\n    <h2 class=\"fl\">lisp <span class=\"color-black\">/\u02c8l\u026asp/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16790\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16790\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :a speech problem that causes someone to pronounce the letters s and z like th</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He spoke with a lisp.</div>\n    \n</div>\n", "link": "/find?type=3&query=lisp", "word": "lisp"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :a speech problem that causes someone to pronounce the letters s and z like th</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He spoke with a lisp.</div>",
+            "id": "16790",
+            "mean": [],
+            "pronounce": "/\u02c8l\u026asp/",
+            "type": "noun",
+            "word": "lisp"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i \u0111\u1edbt</div>",
+            "id": "54019",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "lisping"
+        },
+        "suggests": [
+            {
+                "id": "54019",
+                "link": "/find?type=1&query=lispingly",
+                "word": "lispingly"
+            }
+        ]
+    }
+}

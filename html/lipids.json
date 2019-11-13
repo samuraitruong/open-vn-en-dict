@@ -1,1 +1,34 @@
-{"error": 0, "query": "lipids", "enViData": {"suggests": [{"id": "53962", "link": "/find?type=1&query=lipide", "word": "lipide"}], "best": {"id": "53962", "details": "\n<div id=\"find_word_53962\" class=\"world word_en\" rel=\"lipid\">\n    <h2 class=\"fl\">lipid <span class=\"color-black\">/'lipid/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53962\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53962\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) Lipit</div>\n    \n</div>\n", "link": "/find?type=1&query=lipid", "word": "lipid"}}, "mUrl": "/find?type=1&query=lipids", "enEnData": {"suggests": [], "best": {"id": "16772", "details": "\n<div id=\"find_word_16772\" class=\"world word_en\" rel=\"lipid\">\n    <h2 class=\"fl\">lipid <span class=\"color-black\">/\u02c8l\u026ap\u0259d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16772\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16772\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ids</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :any one of various substances that contain fat and that are important parts of living cells</div>\n    \n</div>\n", "link": "/find?type=3&query=lipid", "word": "lipid"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ids</div>\n    \n    <div class=\"green margin25 m-top15\">[count] technical :any one of various substances that contain fat and that are important parts of living cells</div>",
+            "id": "16772",
+            "mean": [],
+            "pronounce": "/\u02c8l\u026ap\u0259d/",
+            "type": "noun",
+            "word": "lipid"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ho\u00e1 h\u1ecdc) Lipit</div>",
+            "id": "53962",
+            "mean": [],
+            "pronounce": "/'lipid/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/675229892bc20548b746183bc927b038/16e6291debe/L/lipid.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c59695eb7e95cc3b626daa9fb8b7a7a0/16e6291d8e9/L/lipid.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lipid"
+        },
+        "suggests": [
+            {
+                "id": "53962",
+                "link": "/find?type=1&query=lipide",
+                "word": "lipide"
+            }
+        ]
+    }
+}

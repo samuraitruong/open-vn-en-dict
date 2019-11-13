@@ -1,1 +1,22 @@
-{"error": 0, "query": "linins", "enViData": {"suggests": [{"id": "53910", "link": "/find?type=1&query=lining", "word": "lining"}]}, "mUrl": "/find?type=1&query=linins", "enEnData": {"suggests": [{"id": "16751", "link": "/find?type=3&query=lining", "word": "lining"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16751",
+                "link": "/find?type=3&query=lining",
+                "word": "lining"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53910",
+                "link": "/find?type=1&query=lining",
+                "word": "lining"
+            }
+        ]
+    }
+}

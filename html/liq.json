@@ -1,1 +1,127 @@
-{"error": 0, "query": "liq", "enViData": {"suggests": [{"id": "53980", "link": "/find?type=1&query=liquate", "word": "liquate"}, {"id": "53981", "link": "/find?type=1&query=liquation", "word": "liquation"}, {"id": "53982", "link": "/find?type=1&query=liquefacient", "word": "liquefacient"}, {"id": "53983", "link": "/find?type=1&query=liquefaction", "word": "liquefaction"}, {"id": "53984", "link": "/find?type=1&query=liquefiable", "word": "liquefiable"}, {"id": "53985", "link": "/find?type=1&query=liquefy", "word": "liquefy"}, {"id": "53986", "link": "/find?type=1&query=liquesce", "word": "liquesce"}, {"id": "53987", "link": "/find?type=1&query=liquescency", "word": "liquescency"}, {"id": "53988", "link": "/find?type=1&query=liquescense", "word": "liquescense"}, {"id": "53989", "link": "/find?type=1&query=liquescent", "word": "liquescent"}]}, "mUrl": "/find?type=1&query=liq", "enEnData": {"suggests": [{"id": "16779", "link": "/find?type=3&query=liquefy", "word": "liquefy"}, {"id": "16780", "link": "/find?type=3&query=liqueur", "word": "liqueur"}, {"id": "16781", "link": "/find?type=3&query=liquid", "word": "liquid"}, {"id": "16782", "link": "/find?type=3&query=liquid+crystal+display", "word": "liquid crystal display"}, {"id": "16783", "link": "/find?type=3&query=liquidate", "word": "liquidate"}, {"id": "16784", "link": "/find?type=3&query=liquidity", "word": "liquidity"}, {"id": "16785", "link": "/find?type=3&query=liquidizer", "word": "liquidizer"}, {"id": "16786", "link": "/find?type=3&query=liquify", "word": "liquify"}, {"id": "16787", "link": "/find?type=3&query=liquor", "word": "liquor"}, {"id": "16788", "link": "/find?type=3&query=liquorice", "word": "liquorice"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4235", "link": "/find?type=4&query=liquid", "word": "liquid"}, {"id": "4236", "link": "/find?type=4&query=liquor", "word": "liquor"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16779",
+                "link": "/find?type=3&query=liquefy",
+                "word": "liquefy"
+            },
+            {
+                "id": "16780",
+                "link": "/find?type=3&query=liqueur",
+                "word": "liqueur"
+            },
+            {
+                "id": "16781",
+                "link": "/find?type=3&query=liquid",
+                "word": "liquid"
+            },
+            {
+                "id": "16782",
+                "link": "/find?type=3&query=liquid+crystal+display",
+                "word": "liquid crystal display"
+            },
+            {
+                "id": "16783",
+                "link": "/find?type=3&query=liquidate",
+                "word": "liquidate"
+            },
+            {
+                "id": "16784",
+                "link": "/find?type=3&query=liquidity",
+                "word": "liquidity"
+            },
+            {
+                "id": "16785",
+                "link": "/find?type=3&query=liquidizer",
+                "word": "liquidizer"
+            },
+            {
+                "id": "16786",
+                "link": "/find?type=3&query=liquify",
+                "word": "liquify"
+            },
+            {
+                "id": "16787",
+                "link": "/find?type=3&query=liquor",
+                "word": "liquor"
+            },
+            {
+                "id": "16788",
+                "link": "/find?type=3&query=liquorice",
+                "word": "liquorice"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53980",
+                "link": "/find?type=1&query=liquate",
+                "word": "liquate"
+            },
+            {
+                "id": "53981",
+                "link": "/find?type=1&query=liquation",
+                "word": "liquation"
+            },
+            {
+                "id": "53982",
+                "link": "/find?type=1&query=liquefacient",
+                "word": "liquefacient"
+            },
+            {
+                "id": "53983",
+                "link": "/find?type=1&query=liquefaction",
+                "word": "liquefaction"
+            },
+            {
+                "id": "53984",
+                "link": "/find?type=1&query=liquefiable",
+                "word": "liquefiable"
+            },
+            {
+                "id": "53985",
+                "link": "/find?type=1&query=liquefy",
+                "word": "liquefy"
+            },
+            {
+                "id": "53986",
+                "link": "/find?type=1&query=liquesce",
+                "word": "liquesce"
+            },
+            {
+                "id": "53987",
+                "link": "/find?type=1&query=liquescency",
+                "word": "liquescency"
+            },
+            {
+                "id": "53988",
+                "link": "/find?type=1&query=liquescense",
+                "word": "liquescense"
+            },
+            {
+                "id": "53989",
+                "link": "/find?type=1&query=liquescent",
+                "word": "liquescent"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4235",
+                "link": "/find?type=4&query=liquid",
+                "word": "liquid"
+            },
+            {
+                "id": "4236",
+                "link": "/find?type=4&query=liquor",
+                "word": "liquor"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "lynx", "enViData": {"suggests": [{"id": "55151", "link": "/find?type=1&query=lynx-eyed", "word": "lynx-eyed"}], "best": {"id": "55151", "details": "\n<div id=\"find_word_55151\" class=\"world word_en\" rel=\"lynx\">\n    <h2 class=\"fl\">lynx <span class=\"color-black\">/li\u03b7ks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55151\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55151\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e8o linh, linh mi\u00eau</div>\n    \n</div>\n", "link": "/find?type=1&query=lynx", "word": "lynx"}}, "mUrl": "/find?type=1&query=lynx", "enEnData": {"suggests": [], "best": {"id": "17211", "details": "\n<div id=\"find_word_17211\" class=\"world word_en\" rel=\"lynx\">\n    <h2 class=\"fl\">lynx <span class=\"color-black\">/\u02c8l\u026a\u014bks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17211\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17211\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural lynx or lynxes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large wild cat of North America - see picture at cat</div>\n    \n</div>\n", "link": "/find?type=3&query=lynx", "word": "lynx"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural lynx or lynxes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large wild cat of North America - see picture at cat</div>",
+            "id": "17211",
+            "mean": [],
+            "pronounce": "/\u02c8l\u026a\u014bks/",
+            "type": "noun",
+            "word": "lynx"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e8o linh, linh mi\u00eau</div>",
+            "id": "55151",
+            "mean": [],
+            "pronounce": "/li\u03b7ks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4c75e92438aac0c097240c4e297e42ff/16e6291c925/L/lynx.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9882b4bf2ca1a6edadb2ae91823beb19/16e6291c32d/L/lynx.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lynx"
+        },
+        "suggests": [
+            {
+                "id": "55151",
+                "link": "/find?type=1&query=lynx-eyed",
+                "word": "lynx-eyed"
+            }
+        ]
+    }
+}

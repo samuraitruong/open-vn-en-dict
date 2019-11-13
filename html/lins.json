@@ -1,1 +1,97 @@
-{"error": 0, "query": "lins", "enViData": {"suggests": [{"id": "53927", "link": "/find?type=1&query=linsang", "word": "linsang"}, {"id": "53928", "link": "/find?type=1&query=linseed", "word": "linseed"}, {"id": "53929", "link": "/find?type=1&query=linseed+oil", "word": "linseed oil"}, {"id": "53930", "link": "/find?type=1&query=linseed-cake", "word": "linseed-cake"}, {"id": "53931", "link": "/find?type=1&query=linsey-woolsey", "word": "linsey-woolsey"}, {"id": "53932", "link": "/find?type=1&query=linstock", "word": "linstock"}]}, "mUrl": "/find?type=1&query=lins", "enEnData": {"suggests": [{"id": "16760", "link": "/find?type=3&query=linseed", "word": "linseed"}, {"id": "16761", "link": "/find?type=3&query=linseed+oil", "word": "linseed oil"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4227", "link": "/find?type=4&query=line", "word": "line"}, {"id": "4228", "link": "/find?type=4&query=line", "word": "line"}, {"id": "4229", "link": "/find?type=4&query=lineage", "word": "lineage"}, {"id": "4230", "link": "/find?type=4&query=linen", "word": "linen"}, {"id": "4231", "link": "/find?type=4&query=linger", "word": "linger"}, {"id": "4232", "link": "/find?type=4&query=lingering", "word": "lingering"}, {"id": "4233", "link": "/find?type=4&query=lingo", "word": "lingo"}, {"id": "4234", "link": "/find?type=4&query=link", "word": "link"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16760",
+                "link": "/find?type=3&query=linseed",
+                "word": "linseed"
+            },
+            {
+                "id": "16761",
+                "link": "/find?type=3&query=linseed+oil",
+                "word": "linseed oil"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53927",
+                "link": "/find?type=1&query=linsang",
+                "word": "linsang"
+            },
+            {
+                "id": "53928",
+                "link": "/find?type=1&query=linseed",
+                "word": "linseed"
+            },
+            {
+                "id": "53929",
+                "link": "/find?type=1&query=linseed+oil",
+                "word": "linseed oil"
+            },
+            {
+                "id": "53930",
+                "link": "/find?type=1&query=linseed-cake",
+                "word": "linseed-cake"
+            },
+            {
+                "id": "53931",
+                "link": "/find?type=1&query=linsey-woolsey",
+                "word": "linsey-woolsey"
+            },
+            {
+                "id": "53932",
+                "link": "/find?type=1&query=linstock",
+                "word": "linstock"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4227",
+                "link": "/find?type=4&query=line",
+                "word": "line"
+            },
+            {
+                "id": "4228",
+                "link": "/find?type=4&query=line",
+                "word": "line"
+            },
+            {
+                "id": "4229",
+                "link": "/find?type=4&query=lineage",
+                "word": "lineage"
+            },
+            {
+                "id": "4230",
+                "link": "/find?type=4&query=linen",
+                "word": "linen"
+            },
+            {
+                "id": "4231",
+                "link": "/find?type=4&query=linger",
+                "word": "linger"
+            },
+            {
+                "id": "4232",
+                "link": "/find?type=4&query=lingering",
+                "word": "lingering"
+            },
+            {
+                "id": "4233",
+                "link": "/find?type=4&query=lingo",
+                "word": "lingo"
+            },
+            {
+                "id": "4234",
+                "link": "/find?type=4&query=link",
+                "word": "link"
+            }
+        ]
+    }
+}

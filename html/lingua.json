@@ -1,1 +1,27 @@
-{"error": 0, "query": "lingua", "enViData": {"suggests": [{"id": "53901", "link": "/find?type=1&query=lingua+franca", "word": "lingua franca"}, {"id": "53902", "link": "/find?type=1&query=lingual", "word": "lingual"}]}, "mUrl": "/find?type=1&query=lingua", "enEnData": {"suggests": [{"id": "16745", "link": "/find?type=3&query=lingua+franca", "word": "lingua franca"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16745",
+                "link": "/find?type=3&query=lingua+franca",
+                "word": "lingua franca"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53901",
+                "link": "/find?type=1&query=lingua+franca",
+                "word": "lingua franca"
+            },
+            {
+                "id": "53902",
+                "link": "/find?type=1&query=lingual",
+                "word": "lingual"
+            }
+        ]
+    }
+}

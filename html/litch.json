@@ -1,1 +1,22 @@
-{"error": 0, "query": "litch", "enViData": {"suggests": [{"id": "54044", "link": "/find?type=1&query=litchi", "word": "litchi"}]}, "mUrl": "/find?type=1&query=litch", "enEnData": {"suggests": [{"id": "16802", "link": "/find?type=3&query=litchi", "word": "litchi"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16802",
+                "link": "/find?type=3&query=litchi",
+                "word": "litchi"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54044",
+                "link": "/find?type=1&query=litchi",
+                "word": "litchi"
+            }
+        ]
+    }
+}

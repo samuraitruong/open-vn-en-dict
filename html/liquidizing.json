@@ -1,1 +1,38 @@
-{"error": 0, "query": "liquidizing", "enViData": {"suggests": [{"id": "54004", "link": "/find?type=1&query=liquidize%2C+liquidise", "word": "liquidize, liquidise"}, {"id": "54004", "link": "/find?type=1&query=liquidizer", "word": "liquidizer"}], "best": {"id": "54004", "details": "\n<div id=\"find_word_54004\" class=\"world word_en\" rel=\"liquidize\">\n    <h2 class=\"fl\">liquidize <span class=\"color-black\">/'likwidaiz/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54004\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54004\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cho ho\u00e1 l\u1ecfng</div>\n    \n</div>\n", "link": "/find?type=1&query=liquidize", "word": "liquidize"}}, "mUrl": "/find?type=1&query=liquidizing", "enEnData": {"suggests": [{"id": "16785", "link": "/find?type=3&query=liquidizer", "word": "liquidizer"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16785",
+                "link": "/find?type=3&query=liquidizer",
+                "word": "liquidizer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cho ho\u00e1 l\u1ecfng</div>",
+            "id": "54004",
+            "mean": [],
+            "pronounce": "/'likwidaiz/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5fa32ffbef6f113defad9967057071fd/16e629204bf/L/liquidize.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/264a9da31b6579fc7fd7114ee2dd322a/16e6291fed8/L/liquidize.mp3"
+            },
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "liquidize"
+        },
+        "suggests": [
+            {
+                "id": "54004",
+                "link": "/find?type=1&query=liquidize%2C+liquidise",
+                "word": "liquidize, liquidise"
+            },
+            {
+                "id": "54004",
+                "link": "/find?type=1&query=liquidizer",
+                "word": "liquidizer"
+            }
+        ]
+    }
+}

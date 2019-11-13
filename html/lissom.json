@@ -1,1 +1,38 @@
-{"error": 0, "query": "lissom", "enViData": {"suggests": [{"id": "54021", "link": "/find?type=1&query=lissome", "word": "lissome"}, {"id": "54021", "link": "/find?type=1&query=lissomness", "word": "lissomness"}], "best": {"id": "54021", "details": "\n<div id=\"find_word_54021\" class=\"world word_en\" rel=\"lissom\">\n    <h2 class=\"fl\">lissom <span class=\"color-black\">/'lis\u0259m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54021\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54021\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng lissome)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1ec1m m\u1ea1i, uy\u1ec3n chuy\u1ec3n</div>\n    \n</div>\n", "link": "/find?type=1&query=lissom", "word": "lissom"}}, "mUrl": "/find?type=1&query=lissom", "enEnData": {"suggests": [{"id": "16791", "link": "/find?type=3&query=lissome", "word": "lissome"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16791",
+                "link": "/find?type=3&query=lissome",
+                "word": "lissome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng lissome)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u1ec1m m\u1ea1i, uy\u1ec3n chuy\u1ec3n</div>",
+            "id": "54021",
+            "mean": [],
+            "pronounce": "/'lis\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6fe24fa1288e517a83464a241fbc3410/16e62922f64/L/lissom.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/91fd21a012a60062389b83456fb06e01/16e62922970/L/lissom.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "lissom"
+        },
+        "suggests": [
+            {
+                "id": "54021",
+                "link": "/find?type=1&query=lissome",
+                "word": "lissome"
+            },
+            {
+                "id": "54021",
+                "link": "/find?type=1&query=lissomness",
+                "word": "lissomness"
+            }
+        ]
+    }
+}
