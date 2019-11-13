@@ -1,1 +1,32 @@
-{"error": 0, "query": "mumbo", "enViData": {"suggests": [{"id": "59333", "link": "/find?type=1&query=mumbo+jumbo", "word": "mumbo jumbo"}]}, "mUrl": "/find?type=1&query=mumbo", "enEnData": {"suggests": [{"id": "18842", "link": "/find?type=3&query=mumbo+jumbo", "word": "mumbo jumbo"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4741", "link": "/find?type=4&query=mumbo-jumbo", "word": "mumbo-jumbo"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18842",
+                "link": "/find?type=3&query=mumbo+jumbo",
+                "word": "mumbo jumbo"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59333",
+                "link": "/find?type=1&query=mumbo+jumbo",
+                "word": "mumbo jumbo"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4741",
+                "link": "/find?type=4&query=mumbo-jumbo",
+                "word": "mumbo-jumbo"
+            }
+        ]
+    }
+}

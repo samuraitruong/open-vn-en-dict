@@ -1,1 +1,27 @@
-{"error": 0, "query": "mund", "enViData": {"suggests": [{"id": "59346", "link": "/find?type=1&query=mundane", "word": "mundane"}, {"id": "59347", "link": "/find?type=1&query=Mundell+-+Fleming+model", "word": "Mundell - Fleming model"}]}, "mUrl": "/find?type=1&query=mund", "enEnData": {"suggests": [{"id": "18849", "link": "/find?type=3&query=mundane", "word": "mundane"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18849",
+                "link": "/find?type=3&query=mundane",
+                "word": "mundane"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59346",
+                "link": "/find?type=1&query=mundane",
+                "word": "mundane"
+            },
+            {
+                "id": "59347",
+                "link": "/find?type=1&query=Mundell+-+Fleming+model",
+                "word": "Mundell - Fleming model"
+            }
+        ]
+    }
+}

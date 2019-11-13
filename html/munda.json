@@ -1,1 +1,22 @@
-{"error": 0, "query": "munda", "enViData": {"suggests": [{"id": "59346", "link": "/find?type=1&query=mundane", "word": "mundane"}]}, "mUrl": "/find?type=1&query=munda", "enEnData": {"suggests": [{"id": "18849", "link": "/find?type=3&query=mundane", "word": "mundane"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18849",
+                "link": "/find?type=3&query=mundane",
+                "word": "mundane"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59346",
+                "link": "/find?type=1&query=mundane",
+                "word": "mundane"
+            }
+        ]
+    }
+}

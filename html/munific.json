@@ -1,1 +1,32 @@
-{"error": 0, "query": "munific", "enViData": {"suggests": [{"id": "59357", "link": "/find?type=1&query=munificence", "word": "munificence"}, {"id": "59358", "link": "/find?type=1&query=munificent", "word": "munificent"}, {"id": "59359", "link": "/find?type=1&query=munificently", "word": "munificently"}]}, "mUrl": "/find?type=1&query=munific", "enEnData": {"suggests": [{"id": "18853", "link": "/find?type=3&query=munificent", "word": "munificent"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18853",
+                "link": "/find?type=3&query=munificent",
+                "word": "munificent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59357",
+                "link": "/find?type=1&query=munificence",
+                "word": "munificence"
+            },
+            {
+                "id": "59358",
+                "link": "/find?type=1&query=munificent",
+                "word": "munificent"
+            },
+            {
+                "id": "59359",
+                "link": "/find?type=1&query=munificently",
+                "word": "munificently"
+            }
+        ]
+    }
+}

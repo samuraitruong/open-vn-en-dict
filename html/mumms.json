@@ -1,1 +1,57 @@
-{"error": 0, "query": "mumms", "enViData": {"suggests": [{"id": "59334", "link": "/find?type=1&query=mummer", "word": "mummer"}, {"id": "59335", "link": "/find?type=1&query=mummery", "word": "mummery"}, {"id": "59336", "link": "/find?type=1&query=mummification", "word": "mummification"}, {"id": "59337", "link": "/find?type=1&query=mummify", "word": "mummify"}, {"id": "59338", "link": "/find?type=1&query=mumming", "word": "mumming"}, {"id": "59339", "link": "/find?type=1&query=mummy", "word": "mummy"}, {"id": "59340", "link": "/find?type=1&query=mummy-case", "word": "mummy-case"}]}, "mUrl": "/find?type=1&query=mumms", "enEnData": {"suggests": [{"id": "18843", "link": "/find?type=3&query=mummify", "word": "mummify"}, {"id": "18844", "link": "/find?type=3&query=mummy", "word": "mummy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18843",
+                "link": "/find?type=3&query=mummify",
+                "word": "mummify"
+            },
+            {
+                "id": "18844",
+                "link": "/find?type=3&query=mummy",
+                "word": "mummy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59334",
+                "link": "/find?type=1&query=mummer",
+                "word": "mummer"
+            },
+            {
+                "id": "59335",
+                "link": "/find?type=1&query=mummery",
+                "word": "mummery"
+            },
+            {
+                "id": "59336",
+                "link": "/find?type=1&query=mummification",
+                "word": "mummification"
+            },
+            {
+                "id": "59337",
+                "link": "/find?type=1&query=mummify",
+                "word": "mummify"
+            },
+            {
+                "id": "59338",
+                "link": "/find?type=1&query=mumming",
+                "word": "mumming"
+            },
+            {
+                "id": "59339",
+                "link": "/find?type=1&query=mummy",
+                "word": "mummy"
+            },
+            {
+                "id": "59340",
+                "link": "/find?type=1&query=mummy-case",
+                "word": "mummy-case"
+            }
+        ]
+    }
+}

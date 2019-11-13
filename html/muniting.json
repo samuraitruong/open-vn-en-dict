@@ -1,1 +1,42 @@
-{"error": 0, "query": "muniting", "enViData": {"suggests": [{"id": "59362", "link": "/find?type=1&query=munition", "word": "munition"}, {"id": "59363", "link": "/find?type=1&query=munition-factory", "word": "munition-factory"}, {"id": "59364", "link": "/find?type=1&query=munition-worker", "word": "munition-worker"}, {"id": "59365", "link": "/find?type=1&query=munitioneer", "word": "munitioneer"}, {"id": "59366", "link": "/find?type=1&query=munitions", "word": "munitions"}]}, "mUrl": "/find?type=1&query=muniting", "enEnData": {"suggests": [{"id": "18854", "link": "/find?type=3&query=munitions", "word": "munitions"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18854",
+                "link": "/find?type=3&query=munitions",
+                "word": "munitions"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59362",
+                "link": "/find?type=1&query=munition",
+                "word": "munition"
+            },
+            {
+                "id": "59363",
+                "link": "/find?type=1&query=munition-factory",
+                "word": "munition-factory"
+            },
+            {
+                "id": "59364",
+                "link": "/find?type=1&query=munition-worker",
+                "word": "munition-worker"
+            },
+            {
+                "id": "59365",
+                "link": "/find?type=1&query=munitioneer",
+                "word": "munitioneer"
+            },
+            {
+                "id": "59366",
+                "link": "/find?type=1&query=munitions",
+                "word": "munitions"
+            }
+        ]
+    }
+}

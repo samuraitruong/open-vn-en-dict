@@ -1,1 +1,72 @@
-{"error": 0, "query": "munic", "enViData": {"suggests": [{"id": "59350", "link": "/find?type=1&query=municipal", "word": "municipal"}, {"id": "59351", "link": "/find?type=1&query=municipalise", "word": "municipalise"}, {"id": "59352", "link": "/find?type=1&query=municipalism", "word": "municipalism"}, {"id": "59353", "link": "/find?type=1&query=municipalist", "word": "municipalist"}, {"id": "59354", "link": "/find?type=1&query=municipality", "word": "municipality"}, {"id": "59355", "link": "/find?type=1&query=municipalization", "word": "municipalization"}, {"id": "59356", "link": "/find?type=1&query=municipalize", "word": "municipalize"}]}, "mUrl": "/find?type=1&query=munic", "enEnData": {"suggests": [{"id": "18851", "link": "/find?type=3&query=municipal", "word": "municipal"}, {"id": "18852", "link": "/find?type=3&query=municipality", "word": "municipality"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4743", "link": "/find?type=4&query=municipal", "word": "municipal"}, {"id": "4744", "link": "/find?type=4&query=municipality", "word": "municipality"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18851",
+                "link": "/find?type=3&query=municipal",
+                "word": "municipal"
+            },
+            {
+                "id": "18852",
+                "link": "/find?type=3&query=municipality",
+                "word": "municipality"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59350",
+                "link": "/find?type=1&query=municipal",
+                "word": "municipal"
+            },
+            {
+                "id": "59351",
+                "link": "/find?type=1&query=municipalise",
+                "word": "municipalise"
+            },
+            {
+                "id": "59352",
+                "link": "/find?type=1&query=municipalism",
+                "word": "municipalism"
+            },
+            {
+                "id": "59353",
+                "link": "/find?type=1&query=municipalist",
+                "word": "municipalist"
+            },
+            {
+                "id": "59354",
+                "link": "/find?type=1&query=municipality",
+                "word": "municipality"
+            },
+            {
+                "id": "59355",
+                "link": "/find?type=1&query=municipalization",
+                "word": "municipalization"
+            },
+            {
+                "id": "59356",
+                "link": "/find?type=1&query=municipalize",
+                "word": "municipalize"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4743",
+                "link": "/find?type=4&query=municipal",
+                "word": "municipal"
+            },
+            {
+                "id": "4744",
+                "link": "/find?type=4&query=municipality",
+                "word": "municipality"
+            }
+        ]
+    }
+}
