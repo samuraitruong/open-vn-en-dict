@@ -1,1 +1,57 @@
-{"error": 0, "query": "kaf", "enViData": {"suggests": [{"id": "51338", "link": "/find?type=1&query=kaff", "word": "kaff"}, {"id": "51339", "link": "/find?type=1&query=kaffeeklatsch", "word": "kaffeeklatsch"}, {"id": "51340", "link": "/find?type=1&query=kaffir", "word": "kaffir"}, {"id": "51341", "link": "/find?type=1&query=kaffiyeh", "word": "kaffiyeh"}, {"id": "51342", "link": "/find?type=1&query=kafir", "word": "kafir"}, {"id": "51343", "link": "/find?type=1&query=kafiri", "word": "kafiri"}, {"id": "51344", "link": "/find?type=1&query=kafkaesque", "word": "kafkaesque"}, {"id": "51345", "link": "/find?type=1&query=kaftan", "word": "kaftan"}]}, "mUrl": "/find?type=1&query=kaf", "enEnData": {"suggests": [{"id": "15805", "link": "/find?type=3&query=kaftan", "word": "kaftan"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15805",
+                "link": "/find?type=3&query=kaftan",
+                "word": "kaftan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51338",
+                "link": "/find?type=1&query=kaff",
+                "word": "kaff"
+            },
+            {
+                "id": "51339",
+                "link": "/find?type=1&query=kaffeeklatsch",
+                "word": "kaffeeklatsch"
+            },
+            {
+                "id": "51340",
+                "link": "/find?type=1&query=kaffir",
+                "word": "kaffir"
+            },
+            {
+                "id": "51341",
+                "link": "/find?type=1&query=kaffiyeh",
+                "word": "kaffiyeh"
+            },
+            {
+                "id": "51342",
+                "link": "/find?type=1&query=kafir",
+                "word": "kafir"
+            },
+            {
+                "id": "51343",
+                "link": "/find?type=1&query=kafiri",
+                "word": "kafiri"
+            },
+            {
+                "id": "51344",
+                "link": "/find?type=1&query=kafkaesque",
+                "word": "kafkaesque"
+            },
+            {
+                "id": "51345",
+                "link": "/find?type=1&query=kaftan",
+                "word": "kaftan"
+            }
+        ]
+    }
+}

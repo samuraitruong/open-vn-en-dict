@@ -1,1 +1,42 @@
-{"error": 0, "query": "kab", "enViData": {"suggests": [{"id": "51332", "link": "/find?type=1&query=kabbalah", "word": "kabbalah"}, {"id": "51333", "link": "/find?type=1&query=kabob", "word": "kabob"}, {"id": "51334", "link": "/find?type=1&query=kabuki", "word": "kabuki"}, {"id": "51335", "link": "/find?type=1&query=kabyle", "word": "kabyle"}]}, "mUrl": "/find?type=1&query=kab", "enEnData": {"suggests": [{"id": "15803", "link": "/find?type=3&query=kabob", "word": "kabob"}, {"id": "15804", "link": "/find?type=3&query=Kabuki", "word": "Kabuki"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15803",
+                "link": "/find?type=3&query=kabob",
+                "word": "kabob"
+            },
+            {
+                "id": "15804",
+                "link": "/find?type=3&query=Kabuki",
+                "word": "Kabuki"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51332",
+                "link": "/find?type=1&query=kabbalah",
+                "word": "kabbalah"
+            },
+            {
+                "id": "51333",
+                "link": "/find?type=1&query=kabob",
+                "word": "kabob"
+            },
+            {
+                "id": "51334",
+                "link": "/find?type=1&query=kabuki",
+                "word": "kabuki"
+            },
+            {
+                "id": "51335",
+                "link": "/find?type=1&query=kabyle",
+                "word": "kabyle"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "kays", "enViData": {"suggests": [{"id": "51452", "link": "/find?type=1&query=kayak", "word": "kayak"}, {"id": "51453", "link": "/find?type=1&query=kayaker", "word": "kayaker"}, {"id": "51454", "link": "/find?type=1&query=kayo", "word": "kayo"}]}, "mUrl": "/find?type=1&query=kays", "enEnData": {"suggests": [{"id": "15818", "link": "/find?type=3&query=kayak", "word": "kayak"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15818",
+                "link": "/find?type=3&query=kayak",
+                "word": "kayak"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51452",
+                "link": "/find?type=1&query=kayak",
+                "word": "kayak"
+            },
+            {
+                "id": "51453",
+                "link": "/find?type=1&query=kayaker",
+                "word": "kayaker"
+            },
+            {
+                "id": "51454",
+                "link": "/find?type=1&query=kayo",
+                "word": "kayo"
+            }
+        ]
+    }
+}

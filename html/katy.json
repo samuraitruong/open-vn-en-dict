@@ -1,1 +1,22 @@
-{"error": 0, "query": "katy", "enViData": {"suggests": [{"id": "51448", "link": "/find?type=1&query=katytid", "word": "katytid"}]}, "mUrl": "/find?type=1&query=katy", "enEnData": {"suggests": [{"id": "15817", "link": "/find?type=3&query=katydid", "word": "katydid"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15817",
+                "link": "/find?type=3&query=katydid",
+                "word": "katydid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51448",
+                "link": "/find?type=1&query=katytid",
+                "word": "katytid"
+            }
+        ]
+    }
+}

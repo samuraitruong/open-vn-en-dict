@@ -1,1 +1,32 @@
-{"error": 0, "query": "kang", "enViData": {"suggests": [{"id": "51390", "link": "/find?type=1&query=kangaroo", "word": "kangaroo"}, {"id": "51391", "link": "/find?type=1&query=kangaroo+court", "word": "kangaroo court"}]}, "mUrl": "/find?type=1&query=kang", "enEnData": {"suggests": [{"id": "15810", "link": "/find?type=3&query=kangaroo", "word": "kangaroo"}, {"id": "15811", "link": "/find?type=3&query=kangaroo+court", "word": "kangaroo court"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15810",
+                "link": "/find?type=3&query=kangaroo",
+                "word": "kangaroo"
+            },
+            {
+                "id": "15811",
+                "link": "/find?type=3&query=kangaroo+court",
+                "word": "kangaroo court"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51390",
+                "link": "/find?type=1&query=kangaroo",
+                "word": "kangaroo"
+            },
+            {
+                "id": "51391",
+                "link": "/find?type=1&query=kangaroo+court",
+                "word": "kangaroo court"
+            }
+        ]
+    }
+}

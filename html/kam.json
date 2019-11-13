@@ -1,1 +1,37 @@
-{"error": 0, "query": "kam", "enViData": {"suggests": [{"id": "51383", "link": "/find?type=1&query=kamikaze", "word": "kamikaze"}, {"id": "51384", "link": "/find?type=1&query=kampometer", "word": "kampometer"}, {"id": "51385", "link": "/find?type=1&query=kampong", "word": "kampong"}, {"id": "51386", "link": "/find?type=1&query=kampuchean", "word": "kampuchean"}]}, "mUrl": "/find?type=1&query=kam", "enEnData": {"suggests": [{"id": "15809", "link": "/find?type=3&query=kamikaze", "word": "kamikaze"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15809",
+                "link": "/find?type=3&query=kamikaze",
+                "word": "kamikaze"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51383",
+                "link": "/find?type=1&query=kamikaze",
+                "word": "kamikaze"
+            },
+            {
+                "id": "51384",
+                "link": "/find?type=1&query=kampometer",
+                "word": "kampometer"
+            },
+            {
+                "id": "51385",
+                "link": "/find?type=1&query=kampong",
+                "word": "kampong"
+            },
+            {
+                "id": "51386",
+                "link": "/find?type=1&query=kampuchean",
+                "word": "kampuchean"
+            }
+        ]
+    }
+}

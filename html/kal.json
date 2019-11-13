@@ -1,1 +1,72 @@
-{"error": 0, "query": "kal", "enViData": {"suggests": [{"id": "51362", "link": "/find?type=1&query=kala-azar", "word": "kala-azar"}, {"id": "51363", "link": "/find?type=1&query=Kaldor+-+Hicks+test", "word": "Kaldor - Hicks test"}, {"id": "51364", "link": "/find?type=1&query=Kaldor%2C+Nicholas", "word": "Kaldor, Nicholas"}, {"id": "51365", "link": "/find?type=1&query=kale", "word": "kale"}, {"id": "51366", "link": "/find?type=1&query=Kalecki%2C+Micheal", "word": "Kalecki, Micheal"}, {"id": "51367", "link": "/find?type=1&query=kaleidoscope", "word": "kaleidoscope"}, {"id": "51368", "link": "/find?type=1&query=kaleidoscopic", "word": "kaleidoscopic"}, {"id": "51369", "link": "/find?type=1&query=kaleidoscopical", "word": "kaleidoscopical"}, {"id": "51370", "link": "/find?type=1&query=kaleidoscopically", "word": "kaleidoscopically"}, {"id": "51371", "link": "/find?type=1&query=kalends", "word": "kalends"}]}, "mUrl": "/find?type=1&query=kal", "enEnData": {"suggests": [{"id": "15807", "link": "/find?type=3&query=kale", "word": "kale"}, {"id": "15808", "link": "/find?type=3&query=kaleidoscope", "word": "kaleidoscope"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15807",
+                "link": "/find?type=3&query=kale",
+                "word": "kale"
+            },
+            {
+                "id": "15808",
+                "link": "/find?type=3&query=kaleidoscope",
+                "word": "kaleidoscope"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51362",
+                "link": "/find?type=1&query=kala-azar",
+                "word": "kala-azar"
+            },
+            {
+                "id": "51363",
+                "link": "/find?type=1&query=Kaldor+-+Hicks+test",
+                "word": "Kaldor - Hicks test"
+            },
+            {
+                "id": "51364",
+                "link": "/find?type=1&query=Kaldor%2C+Nicholas",
+                "word": "Kaldor, Nicholas"
+            },
+            {
+                "id": "51365",
+                "link": "/find?type=1&query=kale",
+                "word": "kale"
+            },
+            {
+                "id": "51366",
+                "link": "/find?type=1&query=Kalecki%2C+Micheal",
+                "word": "Kalecki, Micheal"
+            },
+            {
+                "id": "51367",
+                "link": "/find?type=1&query=kaleidoscope",
+                "word": "kaleidoscope"
+            },
+            {
+                "id": "51368",
+                "link": "/find?type=1&query=kaleidoscopic",
+                "word": "kaleidoscopic"
+            },
+            {
+                "id": "51369",
+                "link": "/find?type=1&query=kaleidoscopical",
+                "word": "kaleidoscopical"
+            },
+            {
+                "id": "51370",
+                "link": "/find?type=1&query=kaleidoscopically",
+                "word": "kaleidoscopically"
+            },
+            {
+                "id": "51371",
+                "link": "/find?type=1&query=kalends",
+                "word": "kalends"
+            }
+        ]
+    }
+}
