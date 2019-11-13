@@ -1,1 +1,52 @@
-{"error": 0, "query": "reim", "enViData": {"suggests": [{"id": "75889", "link": "/find?type=1&query=reimbursable", "word": "reimbursable"}, {"id": "75890", "link": "/find?type=1&query=reimburse", "word": "reimburse"}, {"id": "75891", "link": "/find?type=1&query=reimbursement", "word": "reimbursement"}, {"id": "75892", "link": "/find?type=1&query=reimport", "word": "reimport"}, {"id": "75893", "link": "/find?type=1&query=reimportation", "word": "reimportation"}]}, "mUrl": "/find?type=1&query=reim", "enEnData": {"suggests": [{"id": "24367", "link": "/find?type=3&query=reimburse", "word": "reimburse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6399", "link": "/find?type=4&query=reimburse", "word": "reimburse"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24367",
+                "link": "/find?type=3&query=reimburse",
+                "word": "reimburse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75889",
+                "link": "/find?type=1&query=reimbursable",
+                "word": "reimbursable"
+            },
+            {
+                "id": "75890",
+                "link": "/find?type=1&query=reimburse",
+                "word": "reimburse"
+            },
+            {
+                "id": "75891",
+                "link": "/find?type=1&query=reimbursement",
+                "word": "reimbursement"
+            },
+            {
+                "id": "75892",
+                "link": "/find?type=1&query=reimport",
+                "word": "reimport"
+            },
+            {
+                "id": "75893",
+                "link": "/find?type=1&query=reimportation",
+                "word": "reimportation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6399",
+                "link": "/find?type=4&query=reimburse",
+                "word": "reimburse"
+            }
+        ]
+    }
+}

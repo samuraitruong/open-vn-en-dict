@@ -1,1 +1,40 @@
-{"error": 0, "query": "regent", "enViData": {"suggests": [{"id": "75771", "link": "/find?type=1&query=regentship", "word": "regentship"}], "best": {"id": "75771", "details": "\n<div id=\"find_word_75771\" class=\"world word_en\" rel=\"regent\">\n    <h2 class=\"fl\">regent <span class=\"color-black\">/'ri:d\u0292\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75771\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75771\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng Regent)</div>\n    \n    <div class=\"green margin25 m-top15\">quan nhi\u1ebfp ch\u00ednh</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng Regent)</div>\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ebfp ch\u00ednh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Prince Regent</div>\n    \n    <div class=\"margin25\">ho\u00e0ng th\u00e2n nhi\u1ebfp ch\u00ednh</div>\n    \n</div>\n", "link": "/find?type=1&query=regent", "word": "regent"}}, "mUrl": "/find?type=1&query=regent", "enEnData": {"suggests": [{"id": "24320", "link": "/find?type=3&query=Regent", "word": "Regent"}], "best": {"id": "24320", "details": "\n<div id=\"find_word_24320\" class=\"world word_en\" rel=\"regent\">\n    <h2 class=\"fl\">regent <span class=\"color-black\">/\u02c8ri\u02d0\u02a4\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24320\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24320\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gents</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who rules a kingdom when the king or queen is not able to rule because he or she is sick, too young, etc.</div>\n    \n</div>\n", "link": "/find?type=3&query=regent", "word": "regent"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gents</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who rules a kingdom when the king or queen is not able to rule because he or she is sick, too young, etc.</div>",
+            "id": "24320",
+            "mean": [],
+            "pronounce": "/\u02c8ri\u02d0\u02a4\u0259nt/",
+            "type": "noun",
+            "word": "regent"
+        },
+        "suggests": [
+            {
+                "id": "24320",
+                "link": "/find?type=3&query=Regent",
+                "word": "Regent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng Regent)</div>\n    \n    <div class=\"green margin25 m-top15\">quan nhi\u1ebfp ch\u00ednh</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng Regent)</div>\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ebfp ch\u00ednh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Prince Regent</div>\n    \n    <div class=\"margin25\">ho\u00e0ng th\u00e2n nhi\u1ebfp ch\u00ednh</div>",
+            "id": "75771",
+            "mean": [],
+            "pronounce": "/'ri:d\u0292\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9f41efbb65150175fe728f1391236fe2/16e62e2cce0/R/regent.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4a9fc911fe6f0b4e23c95fd0cc14f116/16e62e2c711/R/regent.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "regent"
+        },
+        "suggests": [
+            {
+                "id": "75771",
+                "link": "/find?type=1&query=regentship",
+                "word": "regentship"
+            }
+        ]
+    }
+}

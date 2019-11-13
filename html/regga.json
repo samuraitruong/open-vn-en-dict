@@ -1,1 +1,22 @@
-{"error": 0, "query": "regga", "enViData": {"suggests": [{"id": "75776", "link": "/find?type=1&query=reggae", "word": "reggae"}]}, "mUrl": "/find?type=1&query=regga", "enEnData": {"suggests": [{"id": "24322", "link": "/find?type=3&query=reggae", "word": "reggae"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24322",
+                "link": "/find?type=3&query=reggae",
+                "word": "reggae"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75776",
+                "link": "/find?type=1&query=reggae",
+                "word": "reggae"
+            }
+        ]
+    }
+}

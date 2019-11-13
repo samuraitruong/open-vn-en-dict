@@ -1,1 +1,42 @@
-{"error": 0, "query": "regur", "enViData": {"suggests": [{"id": "75860", "link": "/find?type=1&query=regurgitant", "word": "regurgitant"}, {"id": "75861", "link": "/find?type=1&query=regurgitate", "word": "regurgitate"}, {"id": "75862", "link": "/find?type=1&query=regurgitation", "word": "regurgitation"}]}, "mUrl": "/find?type=1&query=regur", "enEnData": {"suggests": [{"id": "24354", "link": "/find?type=3&query=regurgitate", "word": "regurgitate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6393", "link": "/find?type=4&query=regurgitate", "word": "regurgitate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24354",
+                "link": "/find?type=3&query=regurgitate",
+                "word": "regurgitate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75860",
+                "link": "/find?type=1&query=regurgitant",
+                "word": "regurgitant"
+            },
+            {
+                "id": "75861",
+                "link": "/find?type=1&query=regurgitate",
+                "word": "regurgitate"
+            },
+            {
+                "id": "75862",
+                "link": "/find?type=1&query=regurgitation",
+                "word": "regurgitation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6393",
+                "link": "/find?type=4&query=regurgitate",
+                "word": "regurgitate"
+            }
+        ]
+    }
+}

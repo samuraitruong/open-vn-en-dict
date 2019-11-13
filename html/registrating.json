@@ -1,1 +1,32 @@
-{"error": 0, "query": "registrating", "enViData": {"suggests": [{"id": "75817", "link": "/find?type=1&query=registration", "word": "registration"}, {"id": "75818", "link": "/find?type=1&query=registration+number", "word": "registration number"}]}, "mUrl": "/find?type=1&query=registrating", "enEnData": {"suggests": [{"id": "24335", "link": "/find?type=3&query=registration", "word": "registration"}, {"id": "24336", "link": "/find?type=3&query=registration+number", "word": "registration number"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24335",
+                "link": "/find?type=3&query=registration",
+                "word": "registration"
+            },
+            {
+                "id": "24336",
+                "link": "/find?type=3&query=registration+number",
+                "word": "registration number"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75817",
+                "link": "/find?type=1&query=registration",
+                "word": "registration"
+            },
+            {
+                "id": "75818",
+                "link": "/find?type=1&query=registration+number",
+                "word": "registration number"
+            }
+        ]
+    }
+}
