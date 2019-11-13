@@ -1,1 +1,40 @@
-{"error": 0, "query": "lovey", "enViData": {"suggests": [{"id": "54782", "link": "/find?type=1&query=lovey-dovey", "word": "lovey-dovey"}], "best": {"id": "54782", "details": "\n<div id=\"find_word_54782\" class=\"world word_en\" rel=\"lovey\">\n    <h2 class=\"fl\">lovey <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54782\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54782\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi t\u00ecnh</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ee5c c\u01b0ng</div>\n    \n</div>\n", "link": "/find?type=1&query=lovey", "word": "lovey"}}, "mUrl": "/find?type=1&query=lovey", "enEnData": {"suggests": [{"id": "17078", "link": "/find?type=3&query=lovey-dovey", "word": "lovey-dovey"}], "best": {"id": "17078", "details": "\n<div id=\"find_word_17078\" class=\"world word_en\" rel=\"lovey\">\n    <h2 class=\"fl\">lovey <span class=\"color-black\">/\u02c8l\u028cvi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17078\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17078\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">Brit informal - used to address a person in a loving or friendly way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">As long as you're up, lovey, would you mind getting me a drink?</div>\n    \n</div>\n", "link": "/find?type=3&query=lovey", "word": "lovey"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">Brit informal - used to address a person in a loving or friendly way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">As long as you're up, lovey, would you mind getting me a drink?</div>",
+            "id": "17078",
+            "mean": [],
+            "pronounce": "/\u02c8l\u028cvi/",
+            "type": "noun",
+            "word": "lovey"
+        },
+        "suggests": [
+            {
+                "id": "17078",
+                "link": "/find?type=3&query=lovey-dovey",
+                "word": "lovey-dovey"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi t\u00ecnh</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ee5c c\u01b0ng</div>",
+            "id": "54782",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/506a1a548c25d215a1a018058bbd40f8/16e62945d17/L/lovey.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c6033ffecda15880eb84a9d7daad2411/16e62945762/L/lovey.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lovey"
+        },
+        "suggests": [
+            {
+                "id": "54782",
+                "link": "/find?type=1&query=lovey-dovey",
+                "word": "lovey-dovey"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "loope", "enViData": {"suggests": [{"id": "54614", "link": "/find?type=1&query=looped", "word": "looped"}, {"id": "54615", "link": "/find?type=1&query=looper", "word": "looper"}]}, "mUrl": "/find?type=1&query=loope", "enEnData": {"suggests": [{"id": "17013", "link": "/find?type=3&query=looped", "word": "looped"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17013",
+                "link": "/find?type=3&query=looped",
+                "word": "looped"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54614",
+                "link": "/find?type=1&query=looped",
+                "word": "looped"
+            },
+            {
+                "id": "54615",
+                "link": "/find?type=1&query=looper",
+                "word": "looper"
+            }
+        ]
+    }
+}

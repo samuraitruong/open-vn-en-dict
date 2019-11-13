@@ -1,1 +1,97 @@
-{"error": 0, "query": "lowe", "enViData": {"suggests": [{"id": "54838", "link": "/find?type=1&query=lower", "word": "lower"}, {"id": "54839", "link": "/find?type=1&query=lower+case", "word": "lower case"}, {"id": "54840", "link": "/find?type=1&query=Lower+Chamber", "word": "Lower Chamber"}, {"id": "54841", "link": "/find?type=1&query=lower+deck", "word": "lower deck"}, {"id": "54842", "link": "/find?type=1&query=lower+house", "word": "lower house"}, {"id": "54843", "link": "/find?type=1&query=lower-class", "word": "lower-class"}, {"id": "54844", "link": "/find?type=1&query=lowercase", "word": "lowercase"}, {"id": "54845", "link": "/find?type=1&query=lowering", "word": "lowering"}, {"id": "54846", "link": "/find?type=1&query=lowermost", "word": "lowermost"}, {"id": "54847", "link": "/find?type=1&query=lowery", "word": "lowery"}]}, "mUrl": "/find?type=1&query=lowe", "enEnData": {"suggests": [{"id": "17095", "link": "/find?type=3&query=lower", "word": "lower"}, {"id": "17096", "link": "/find?type=3&query=lower+class", "word": "lower class"}, {"id": "17097", "link": "/find?type=3&query=lowercase", "word": "lowercase"}, {"id": "17098", "link": "/find?type=3&query=lower-class", "word": "lower-class"}, {"id": "17099", "link": "/find?type=3&query=lowest+common+denominator", "word": "lowest common denominator"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4308", "link": "/find?type=4&query=lower", "word": "lower"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17095",
+                "link": "/find?type=3&query=lower",
+                "word": "lower"
+            },
+            {
+                "id": "17096",
+                "link": "/find?type=3&query=lower+class",
+                "word": "lower class"
+            },
+            {
+                "id": "17097",
+                "link": "/find?type=3&query=lowercase",
+                "word": "lowercase"
+            },
+            {
+                "id": "17098",
+                "link": "/find?type=3&query=lower-class",
+                "word": "lower-class"
+            },
+            {
+                "id": "17099",
+                "link": "/find?type=3&query=lowest+common+denominator",
+                "word": "lowest common denominator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54838",
+                "link": "/find?type=1&query=lower",
+                "word": "lower"
+            },
+            {
+                "id": "54839",
+                "link": "/find?type=1&query=lower+case",
+                "word": "lower case"
+            },
+            {
+                "id": "54840",
+                "link": "/find?type=1&query=Lower+Chamber",
+                "word": "Lower Chamber"
+            },
+            {
+                "id": "54841",
+                "link": "/find?type=1&query=lower+deck",
+                "word": "lower deck"
+            },
+            {
+                "id": "54842",
+                "link": "/find?type=1&query=lower+house",
+                "word": "lower house"
+            },
+            {
+                "id": "54843",
+                "link": "/find?type=1&query=lower-class",
+                "word": "lower-class"
+            },
+            {
+                "id": "54844",
+                "link": "/find?type=1&query=lowercase",
+                "word": "lowercase"
+            },
+            {
+                "id": "54845",
+                "link": "/find?type=1&query=lowering",
+                "word": "lowering"
+            },
+            {
+                "id": "54846",
+                "link": "/find?type=1&query=lowermost",
+                "word": "lowermost"
+            },
+            {
+                "id": "54847",
+                "link": "/find?type=1&query=lowery",
+                "word": "lowery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4308",
+                "link": "/find?type=4&query=lower",
+                "word": "lower"
+            }
+        ]
+    }
+}

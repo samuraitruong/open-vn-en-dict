@@ -1,1 +1,72 @@
-{"error": 0, "query": "loun", "enViData": {"suggests": [{"id": "54723", "link": "/find?type=1&query=lounge", "word": "lounge"}, {"id": "54724", "link": "/find?type=1&query=lounge+bar", "word": "lounge bar"}, {"id": "54725", "link": "/find?type=1&query=lounge+suit", "word": "lounge suit"}, {"id": "54726", "link": "/find?type=1&query=lounge-wear", "word": "lounge-wear"}, {"id": "54727", "link": "/find?type=1&query=lounger", "word": "lounger"}, {"id": "54728", "link": "/find?type=1&query=lounging", "word": "lounging"}, {"id": "54729", "link": "/find?type=1&query=loungingly", "word": "loungingly"}]}, "mUrl": "/find?type=1&query=loun", "enEnData": {"suggests": [{"id": "17055", "link": "/find?type=3&query=lounge", "word": "lounge"}, {"id": "17056", "link": "/find?type=3&query=lounge+chair", "word": "lounge chair"}, {"id": "17057", "link": "/find?type=3&query=lounge+suit", "word": "lounge suit"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4298", "link": "/find?type=4&query=lounge", "word": "lounge"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17055",
+                "link": "/find?type=3&query=lounge",
+                "word": "lounge"
+            },
+            {
+                "id": "17056",
+                "link": "/find?type=3&query=lounge+chair",
+                "word": "lounge chair"
+            },
+            {
+                "id": "17057",
+                "link": "/find?type=3&query=lounge+suit",
+                "word": "lounge suit"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54723",
+                "link": "/find?type=1&query=lounge",
+                "word": "lounge"
+            },
+            {
+                "id": "54724",
+                "link": "/find?type=1&query=lounge+bar",
+                "word": "lounge bar"
+            },
+            {
+                "id": "54725",
+                "link": "/find?type=1&query=lounge+suit",
+                "word": "lounge suit"
+            },
+            {
+                "id": "54726",
+                "link": "/find?type=1&query=lounge-wear",
+                "word": "lounge-wear"
+            },
+            {
+                "id": "54727",
+                "link": "/find?type=1&query=lounger",
+                "word": "lounger"
+            },
+            {
+                "id": "54728",
+                "link": "/find?type=1&query=lounging",
+                "word": "lounging"
+            },
+            {
+                "id": "54729",
+                "link": "/find?type=1&query=loungingly",
+                "word": "loungingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4298",
+                "link": "/find?type=4&query=lounge",
+                "word": "lounge"
+            }
+        ]
+    }
+}

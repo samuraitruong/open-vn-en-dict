@@ -1,1 +1,120 @@
-{"error": 0, "query": "lor", "enViData": {"suggests": [{"id": "54650", "link": "/find?type=1&query=loran", "word": "loran"}, {"id": "54650", "link": "/find?type=1&query=lorcha", "word": "lorcha"}, {"id": "54650", "link": "/find?type=1&query=lord", "word": "lord"}, {"id": "54650", "link": "/find?type=1&query=lord-in-waiting", "word": "lord-in-waiting"}, {"id": "54650", "link": "/find?type=1&query=lord%27s+day", "word": "lord's day"}, {"id": "54650", "link": "/find?type=1&query=lord%27s+prayer", "word": "lord's prayer"}, {"id": "54650", "link": "/find?type=1&query=lordliness", "word": "lordliness"}, {"id": "54650", "link": "/find?type=1&query=lordling", "word": "lordling"}, {"id": "54650", "link": "/find?type=1&query=lordly", "word": "lordly"}], "best": {"id": "54650", "details": "\n<div id=\"find_word_54650\" class=\"world word_en\" rel=\"lor\">\n    <h2 class=\"fl\">lor <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54650\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54650\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">interj</div>\n    \n    <div class=\"green margin25 m-top15\">l\u1ea1y ch\u00faa t\u00f4i! (lord (vi\u1ebft t\u1eaft))</div>\n    \n</div>\n", "link": "/find?type=1&query=lor", "word": "lor"}}, "mUrl": "/find?type=1&query=lor", "enEnData": {"suggests": [{"id": "17032", "link": "/find?type=3&query=lord", "word": "lord"}, {"id": "17033", "link": "/find?type=3&query=Lord+Mayor", "word": "Lord Mayor"}, {"id": "17034", "link": "/find?type=3&query=lordly", "word": "lordly"}, {"id": "17035", "link": "/find?type=3&query=Lord%27s+Prayer", "word": "Lord's Prayer"}, {"id": "17036", "link": "/find?type=3&query=lordship", "word": "lordship"}, {"id": "17037", "link": "/find?type=3&query=Lordy", "word": "Lordy"}, {"id": "17038", "link": "/find?type=3&query=lore", "word": "lore"}, {"id": "17039", "link": "/find?type=3&query=lorry", "word": "lorry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4288", "link": "/find?type=4&query=lord", "word": "lord"}, {"id": "4289", "link": "/find?type=4&query=lore", "word": "lore"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17032",
+                "link": "/find?type=3&query=lord",
+                "word": "lord"
+            },
+            {
+                "id": "17033",
+                "link": "/find?type=3&query=Lord+Mayor",
+                "word": "Lord Mayor"
+            },
+            {
+                "id": "17034",
+                "link": "/find?type=3&query=lordly",
+                "word": "lordly"
+            },
+            {
+                "id": "17035",
+                "link": "/find?type=3&query=Lord%27s+Prayer",
+                "word": "Lord's Prayer"
+            },
+            {
+                "id": "17036",
+                "link": "/find?type=3&query=lordship",
+                "word": "lordship"
+            },
+            {
+                "id": "17037",
+                "link": "/find?type=3&query=Lordy",
+                "word": "Lordy"
+            },
+            {
+                "id": "17038",
+                "link": "/find?type=3&query=lore",
+                "word": "lore"
+            },
+            {
+                "id": "17039",
+                "link": "/find?type=3&query=lorry",
+                "word": "lorry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">interj</div>\n    \n    <div class=\"green margin25 m-top15\">l\u1ea1y ch\u00faa t\u00f4i! (lord (vi\u1ebft t\u1eaft))</div>",
+            "id": "54650",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "lor"
+        },
+        "suggests": [
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=loran",
+                "word": "loran"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lorcha",
+                "word": "lorcha"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lord",
+                "word": "lord"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lord-in-waiting",
+                "word": "lord-in-waiting"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lord%27s+day",
+                "word": "lord's day"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lord%27s+prayer",
+                "word": "lord's prayer"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lordliness",
+                "word": "lordliness"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lordling",
+                "word": "lordling"
+            },
+            {
+                "id": "54650",
+                "link": "/find?type=1&query=lordly",
+                "word": "lordly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4288",
+                "link": "/find?type=4&query=lord",
+                "word": "lord"
+            },
+            {
+                "id": "4289",
+                "link": "/find?type=4&query=lore",
+                "word": "lore"
+            }
+        ]
+    }
+}
