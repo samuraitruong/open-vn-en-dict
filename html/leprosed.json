@@ -1,1 +1,27 @@
-{"error": 0, "query": "leprosed", "enViData": {"suggests": [{"id": "53306", "link": "/find?type=1&query=leprosarium", "word": "leprosarium"}, {"id": "53307", "link": "/find?type=1&query=leprosy", "word": "leprosy"}]}, "mUrl": "/find?type=1&query=leprosed", "enEnData": {"suggests": [{"id": "16500", "link": "/find?type=3&query=leprosy", "word": "leprosy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16500",
+                "link": "/find?type=3&query=leprosy",
+                "word": "leprosy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53306",
+                "link": "/find?type=1&query=leprosarium",
+                "word": "leprosarium"
+            },
+            {
+                "id": "53307",
+                "link": "/find?type=1&query=leprosy",
+                "word": "leprosy"
+            }
+        ]
+    }
+}

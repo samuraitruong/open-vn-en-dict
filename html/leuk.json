@@ -1,1 +1,32 @@
-{"error": 0, "query": "leuk", "enViData": {"suggests": [{"id": "53400", "link": "/find?type=1&query=leukaemia", "word": "leukaemia"}, {"id": "53401", "link": "/find?type=1&query=leukemia", "word": "leukemia"}, {"id": "53402", "link": "/find?type=1&query=leukocyte", "word": "leukocyte"}]}, "mUrl": "/find?type=1&query=leuk", "enEnData": {"suggests": [{"id": "16529", "link": "/find?type=3&query=leukemia", "word": "leukemia"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16529",
+                "link": "/find?type=3&query=leukemia",
+                "word": "leukemia"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53400",
+                "link": "/find?type=1&query=leukaemia",
+                "word": "leukaemia"
+            },
+            {
+                "id": "53401",
+                "link": "/find?type=1&query=leukemia",
+                "word": "leukemia"
+            },
+            {
+                "id": "53402",
+                "link": "/find?type=1&query=leukocyte",
+                "word": "leukocyte"
+            }
+        ]
+    }
+}

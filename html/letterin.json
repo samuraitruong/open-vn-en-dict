@@ -1,1 +1,22 @@
-{"error": 0, "query": "letterin", "enViData": {"suggests": [{"id": "53373", "link": "/find?type=1&query=lettering", "word": "lettering"}]}, "mUrl": "/find?type=1&query=letterin", "enEnData": {"suggests": [{"id": "16525", "link": "/find?type=3&query=lettering", "word": "lettering"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16525",
+                "link": "/find?type=3&query=lettering",
+                "word": "lettering"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53373",
+                "link": "/find?type=1&query=lettering",
+                "word": "lettering"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "lesbia", "enViData": {"suggests": [{"id": "53321", "link": "/find?type=1&query=lesbian", "word": "lesbian"}, {"id": "53322", "link": "/find?type=1&query=lesbianism", "word": "lesbianism"}]}, "mUrl": "/find?type=1&query=lesbia", "enEnData": {"suggests": [{"id": "16501", "link": "/find?type=3&query=lesbian", "word": "lesbian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16501",
+                "link": "/find?type=3&query=lesbian",
+                "word": "lesbian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53321",
+                "link": "/find?type=1&query=lesbian",
+                "word": "lesbian"
+            },
+            {
+                "id": "53322",
+                "link": "/find?type=1&query=lesbianism",
+                "word": "lesbianism"
+            }
+        ]
+    }
+}

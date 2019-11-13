@@ -1,1 +1,77 @@
-{"error": 0, "query": "lep", "enViData": {"suggests": [{"id": "53293", "link": "/find?type=1&query=lepcha", "word": "lepcha"}, {"id": "53294", "link": "/find?type=1&query=leper", "word": "leper"}, {"id": "53295", "link": "/find?type=1&query=leper+house", "word": "leper house"}, {"id": "53296", "link": "/find?type=1&query=lepidolite", "word": "lepidolite"}, {"id": "53297", "link": "/find?type=1&query=lepidopteral", "word": "lepidopteral"}, {"id": "53298", "link": "/find?type=1&query=lepidopteran", "word": "lepidopteran"}, {"id": "53299", "link": "/find?type=1&query=lepidopterist", "word": "lepidopterist"}, {"id": "53300", "link": "/find?type=1&query=lepidopteron", "word": "lepidopteron"}, {"id": "53301", "link": "/find?type=1&query=lepidopterous", "word": "lepidopterous"}, {"id": "53302", "link": "/find?type=1&query=lepidosis", "word": "lepidosis"}]}, "mUrl": "/find?type=1&query=lep", "enEnData": {"suggests": [{"id": "16498", "link": "/find?type=3&query=leper", "word": "leper"}, {"id": "16499", "link": "/find?type=3&query=leprechaun", "word": "leprechaun"}, {"id": "16500", "link": "/find?type=3&query=leprosy", "word": "leprosy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16498",
+                "link": "/find?type=3&query=leper",
+                "word": "leper"
+            },
+            {
+                "id": "16499",
+                "link": "/find?type=3&query=leprechaun",
+                "word": "leprechaun"
+            },
+            {
+                "id": "16500",
+                "link": "/find?type=3&query=leprosy",
+                "word": "leprosy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53293",
+                "link": "/find?type=1&query=lepcha",
+                "word": "lepcha"
+            },
+            {
+                "id": "53294",
+                "link": "/find?type=1&query=leper",
+                "word": "leper"
+            },
+            {
+                "id": "53295",
+                "link": "/find?type=1&query=leper+house",
+                "word": "leper house"
+            },
+            {
+                "id": "53296",
+                "link": "/find?type=1&query=lepidolite",
+                "word": "lepidolite"
+            },
+            {
+                "id": "53297",
+                "link": "/find?type=1&query=lepidopteral",
+                "word": "lepidopteral"
+            },
+            {
+                "id": "53298",
+                "link": "/find?type=1&query=lepidopteran",
+                "word": "lepidopteran"
+            },
+            {
+                "id": "53299",
+                "link": "/find?type=1&query=lepidopterist",
+                "word": "lepidopterist"
+            },
+            {
+                "id": "53300",
+                "link": "/find?type=1&query=lepidopteron",
+                "word": "lepidopteron"
+            },
+            {
+                "id": "53301",
+                "link": "/find?type=1&query=lepidopterous",
+                "word": "lepidopterous"
+            },
+            {
+                "id": "53302",
+                "link": "/find?type=1&query=lepidosis",
+                "word": "lepidosis"
+            }
+        ]
+    }
+}

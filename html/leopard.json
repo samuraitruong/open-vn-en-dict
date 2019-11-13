@@ -1,1 +1,40 @@
-{"error": 0, "query": "leopard", "enViData": {"suggests": [{"id": "53290", "link": "/find?type=1&query=leopardess", "word": "leopardess"}], "best": {"id": "53290", "details": "\n<div id=\"find_word_53290\" class=\"world word_en\" rel=\"leopard\">\n    <h2 class=\"fl\">leopard <span class=\"color-black\">/'lep\u0259d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53290\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53290\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">con b\u00e1o</div>\n    \n</div>\n", "link": "/find?type=1&query=leopard", "word": "leopard"}}, "mUrl": "/find?type=1&query=leopard", "enEnData": {"suggests": [{"id": "16495", "link": "/find?type=3&query=leopardess", "word": "leopardess"}], "best": {"id": "16495", "details": "\n<div id=\"find_word_16495\" class=\"world word_en\" rel=\"leopard\">\n    <h2 class=\"fl\">leopard <span class=\"color-black\">/\u02c8l\u025bp\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16495\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16495\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ards</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large brownish-yellow cat with black spots that lives in Asia and Africa - see picture at cat</div>\n    \n    <div class=\"bold dot-blue m-top15\">a leopard can't change its spots</div>\n    \n    <div class=\"grey margin25 m-top15\">used to say that people cannot change their basic personalities, habits, etc.;</div>\n    \n</div>\n", "link": "/find?type=3&query=leopard", "word": "leopard"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ards</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large brownish-yellow cat with black spots that lives in Asia and Africa - see picture at cat</div>\n    \n    <div class=\"bold dot-blue m-top15\">a leopard can't change its spots</div>\n    \n    <div class=\"grey margin25 m-top15\">used to say that people cannot change their basic personalities, habits, etc.;</div>",
+            "id": "16495",
+            "mean": [],
+            "pronounce": "/\u02c8l\u025bp\u025ad/",
+            "type": "noun",
+            "word": "leopard"
+        },
+        "suggests": [
+            {
+                "id": "16495",
+                "link": "/find?type=3&query=leopardess",
+                "word": "leopardess"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">con b\u00e1o</div>",
+            "id": "53290",
+            "mean": [],
+            "pronounce": "/'lep\u0259d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b21dd0f2677954d529a16778dde64c97/16e628f76f1/L/leopard.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e0b5c6f99c1930ef5d643d9fbbe06c1c/16e628f70fe/L/leopard.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "leopard"
+        },
+        "suggests": [
+            {
+                "id": "53290",
+                "link": "/find?type=1&query=leopardess",
+                "word": "leopardess"
+            }
+        ]
+    }
+}

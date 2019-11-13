@@ -1,1 +1,22 @@
-{"error": 0, "query": "leonis", "enViData": {"suggests": [{"id": "53285", "link": "/find?type=1&query=leonine", "word": "leonine"}]}, "mUrl": "/find?type=1&query=leonis", "enEnData": {"suggests": [{"id": "16494", "link": "/find?type=3&query=leonine", "word": "leonine"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16494",
+                "link": "/find?type=3&query=leonine",
+                "word": "leonine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53285",
+                "link": "/find?type=1&query=leonine",
+                "word": "leonine"
+            }
+        ]
+    }
+}

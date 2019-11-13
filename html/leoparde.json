@@ -1,1 +1,22 @@
-{"error": 0, "query": "leoparde", "enViData": {"suggests": [{"id": "53291", "link": "/find?type=1&query=leopardess", "word": "leopardess"}]}, "mUrl": "/find?type=1&query=leoparde", "enEnData": {"suggests": [{"id": "16496", "link": "/find?type=3&query=leopardess", "word": "leopardess"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16496",
+                "link": "/find?type=3&query=leopardess",
+                "word": "leopardess"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53291",
+                "link": "/find?type=1&query=leopardess",
+                "word": "leopardess"
+            }
+        ]
+    }
+}

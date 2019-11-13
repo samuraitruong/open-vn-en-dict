@@ -1,1 +1,34 @@
-{"error": 0, "query": "lesbians", "enViData": {"suggests": [{"id": "53321", "link": "/find?type=1&query=lesbianism", "word": "lesbianism"}], "best": {"id": "53321", "details": "\n<div id=\"find_word_53321\" class=\"world word_en\" rel=\"lesbian\">\n    <h2 class=\"fl\">lesbian <span class=\"color-black\">/'lezbi\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53321\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53321\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111\u1ed3ng t\u00ednh luy\u1ebfn \u00e1i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3ng t\u00ednh luy\u1ebfn \u00e1i n\u1eef</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a lesbian relationship</div>\n    \n    <div class=\"margin25\">quan h\u1ec7 \u0111\u1ed3ng t\u00ednh luy\u1ebfn \u00e1i n\u1eef</div>\n    \n</div>\n", "link": "/find?type=1&query=lesbian", "word": "lesbian"}}, "mUrl": "/find?type=1&query=lesbians", "enEnData": {"suggests": [], "best": {"id": "16501", "details": "\n<div id=\"find_word_16501\" class=\"world word_en\" rel=\"lesbian\">\n    <h2 class=\"fl\">lesbian <span class=\"color-black\">/\u02c8l\u025bzbij\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16501\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16501\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a woman who is sexually attracted to other women :a female homosexual</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">lesbians and gay men</div>\n    \n</div>\n", "link": "/find?type=3&query=lesbian", "word": "lesbian"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a woman who is sexually attracted to other women :a female homosexual</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">lesbians and gay men</div>",
+            "id": "16501",
+            "mean": [],
+            "pronounce": "/\u02c8l\u025bzbij\u0259n/",
+            "type": "noun",
+            "word": "lesbian"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111\u1ed3ng t\u00ednh luy\u1ebfn \u00e1i</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed3ng t\u00ednh luy\u1ebfn \u00e1i n\u1eef</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a lesbian relationship</div>\n    \n    <div class=\"margin25\">quan h\u1ec7 \u0111\u1ed3ng t\u00ednh luy\u1ebfn \u00e1i n\u1eef</div>",
+            "id": "53321",
+            "mean": [],
+            "pronounce": "/'lezbi\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a10ac59d44193bdfbc04a745e0512eac/16e628fa771/L/lesbian.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a06765093d5a66ece02c638ba0a883cf/16e628fa1b9/L/lesbian.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "lesbian"
+        },
+        "suggests": [
+            {
+                "id": "53321",
+                "link": "/find?type=1&query=lesbianism",
+                "word": "lesbianism"
+            }
+        ]
+    }
+}

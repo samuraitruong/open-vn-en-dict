@@ -1,1 +1,22 @@
-{"error": 0, "query": "lepre", "enViData": {"suggests": [{"id": "53305", "link": "/find?type=1&query=leprechaun", "word": "leprechaun"}]}, "mUrl": "/find?type=1&query=lepre", "enEnData": {"suggests": [{"id": "16499", "link": "/find?type=3&query=leprechaun", "word": "leprechaun"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16499",
+                "link": "/find?type=3&query=leprechaun",
+                "word": "leprechaun"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53305",
+                "link": "/find?type=1&query=leprechaun",
+                "word": "leprechaun"
+            }
+        ]
+    }
+}
