@@ -1,1 +1,32 @@
-{"error": 0, "query": "mismating", "enViData": {"suggests": [{"id": "58126", "link": "/find?type=1&query=mismatch", "word": "mismatch"}]}, "mUrl": "/find?type=1&query=mismating", "enEnData": {"suggests": [{"id": "18332", "link": "/find?type=3&query=mismatch", "word": "mismatch"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4615", "link": "/find?type=4&query=mismatched", "word": "mismatched"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18332",
+                "link": "/find?type=3&query=mismatch",
+                "word": "mismatch"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58126",
+                "link": "/find?type=1&query=mismatch",
+                "word": "mismatch"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4615",
+                "link": "/find?type=4&query=mismatched",
+                "word": "mismatched"
+            }
+        ]
+    }
+}

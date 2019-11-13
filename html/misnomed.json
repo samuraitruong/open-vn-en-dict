@@ -1,1 +1,22 @@
-{"error": 0, "query": "misnomed", "enViData": {"suggests": [{"id": "58129", "link": "/find?type=1&query=misnomer", "word": "misnomer"}]}, "mUrl": "/find?type=1&query=misnomed", "enEnData": {"suggests": [{"id": "18334", "link": "/find?type=3&query=misnomer", "word": "misnomer"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18334",
+                "link": "/find?type=3&query=misnomer",
+                "word": "misnomer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58129",
+                "link": "/find?type=1&query=misnomer",
+                "word": "misnomer"
+            }
+        ]
+    }
+}

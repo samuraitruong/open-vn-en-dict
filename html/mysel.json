@@ -1,1 +1,22 @@
-{"error": 0, "query": "mysel", "enViData": {"suggests": [{"id": "59581", "link": "/find?type=1&query=myself", "word": "myself"}]}, "mUrl": "/find?type=1&query=mysel", "enEnData": {"suggests": [{"id": "18939", "link": "/find?type=3&query=myself", "word": "myself"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18939",
+                "link": "/find?type=3&query=myself",
+                "word": "myself"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59581",
+                "link": "/find?type=1&query=myself",
+                "word": "myself"
+            }
+        ]
+    }
+}

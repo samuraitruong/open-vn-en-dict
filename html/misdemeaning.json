@@ -1,1 +1,32 @@
-{"error": 0, "query": "misdemeaning", "enViData": {"suggests": [{"id": "58045", "link": "/find?type=1&query=misdemeanant", "word": "misdemeanant"}, {"id": "58046", "link": "/find?type=1&query=misdemeanor", "word": "misdemeanor"}, {"id": "58047", "link": "/find?type=1&query=misdemeanour", "word": "misdemeanour"}]}, "mUrl": "/find?type=1&query=misdemeaning", "enEnData": {"suggests": [{"id": "18304", "link": "/find?type=3&query=misdemeanor", "word": "misdemeanor"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18304",
+                "link": "/find?type=3&query=misdemeanor",
+                "word": "misdemeanor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58045",
+                "link": "/find?type=1&query=misdemeanant",
+                "word": "misdemeanant"
+            },
+            {
+                "id": "58046",
+                "link": "/find?type=1&query=misdemeanor",
+                "word": "misdemeanor"
+            },
+            {
+                "id": "58047",
+                "link": "/find?type=1&query=misdemeanour",
+                "word": "misdemeanour"
+            }
+        ]
+    }
+}
