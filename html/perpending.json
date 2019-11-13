@@ -1,1 +1,50 @@
-{"error": 0, "query": "perpending", "enViData": {"suggests": [{"id": "66828", "link": "/find?type=1&query=perpendicular", "word": "perpendicular"}, {"id": "66828", "link": "/find?type=1&query=perpendicularity", "word": "perpendicularity"}, {"id": "66828", "link": "/find?type=1&query=perpendicularly", "word": "perpendicularly"}], "best": {"id": "66828", "details": "\n<div id=\"find_word_66828\" class=\"world word_en\" rel=\"perpend\">\n    <h2 class=\"fl\">perpend <span class=\"color-black\">/p\u0259:'pend/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66828\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66828\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5) c\u00e2n nh\u1eafc, suy ngh\u0129</div>\n    \n</div>\n", "link": "/find?type=1&query=perpend", "word": "perpend"}}, "mUrl": "/find?type=1&query=perpending", "enEnData": {"suggests": [{"id": "21445", "link": "/find?type=3&query=perpendicular", "word": "perpendicular"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5435", "link": "/find?type=4&query=perpendicular", "word": "perpendicular"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21445",
+                "link": "/find?type=3&query=perpendicular",
+                "word": "perpendicular"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb c\u1ed5,ngh\u0129a c\u1ed5) c\u00e2n nh\u1eafc, suy ngh\u0129</div>",
+            "id": "66828",
+            "mean": [],
+            "pronounce": "/p\u0259:'pend/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "perpend"
+        },
+        "suggests": [
+            {
+                "id": "66828",
+                "link": "/find?type=1&query=perpendicular",
+                "word": "perpendicular"
+            },
+            {
+                "id": "66828",
+                "link": "/find?type=1&query=perpendicularity",
+                "word": "perpendicularity"
+            },
+            {
+                "id": "66828",
+                "link": "/find?type=1&query=perpendicularly",
+                "word": "perpendicularly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5435",
+                "link": "/find?type=4&query=perpendicular",
+                "word": "perpendicular"
+            }
+        ]
+    }
+}

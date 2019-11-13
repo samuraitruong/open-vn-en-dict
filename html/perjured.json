@@ -1,1 +1,35 @@
-{"error": 0, "query": "perjured", "enViData": {"suggests": [], "best": {"id": "66754", "details": "\n<div id=\"find_word_66754\" class=\"world word_en\" rel=\"perjured\">\n    <h2 class=\"fl\">perjured <span class=\"color-black\">/'p\u0259:d\u02a4\u0259d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66754\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66754\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 t\u1ed9i khai man tr\u01b0\u1edbc to\u00e0</div>\n    \n</div>\n", "link": "/find?type=1&query=perjured", "word": "perjured"}}, "mUrl": "/find?type=1&query=perjured", "enEnData": {"suggests": [], "best": {"id": "21426", "details": "\n<div id=\"find_word_21426\" class=\"world word_en\" rel=\"perjure\">\n    <h2 class=\"fl\">perjure <span class=\"color-black\">/\u02c8p\u025a\u02a4\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21426\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21426\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-jures; -jured; -juring</div>\n    \n    <div class=\"bold dot-blue m-top15\">perjure yourself</div>\n    \n    <div class=\"grey margin25 m-top15\">law :to tell a lie in a court of law after promising to tell the truth :to commit perjury</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He perjured himself before the court by giving a false testimony.</div>\n    \n</div>\n", "link": "/find?type=3&query=perjure", "word": "perjure"}}, "ftype": "1", "synData": {"suggests": [{"id": "5423", "link": "/find?type=4&query=perjury", "word": "perjury"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-jures; -jured; -juring</div>\n    \n    <div class=\"bold dot-blue m-top15\">perjure yourself</div>\n    \n    <div class=\"grey margin25 m-top15\">law :to tell a lie in a court of law after promising to tell the truth :to commit perjury</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He perjured himself before the court by giving a false testimony.</div>",
+            "id": "21426",
+            "mean": [],
+            "pronounce": "/\u02c8p\u025a\u02a4\u025a/",
+            "type": "verb",
+            "word": "perjure"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f3 t\u1ed9i khai man tr\u01b0\u1edbc to\u00e0</div>",
+            "id": "66754",
+            "mean": [],
+            "pronounce": "/'p\u0259:d\u02a4\u0259d/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "perjured"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5423",
+                "link": "/find?type=4&query=perjury",
+                "word": "perjury"
+            }
+        ]
+    }
+}

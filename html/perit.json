@@ -1,1 +1,67 @@
-{"error": 0, "query": "perit", "enViData": {"suggests": [{"id": "66739", "link": "/find?type=1&query=perithecia", "word": "perithecia"}, {"id": "66740", "link": "/find?type=1&query=perithecial", "word": "perithecial"}, {"id": "66741", "link": "/find?type=1&query=perithecium", "word": "perithecium"}, {"id": "66742", "link": "/find?type=1&query=peritonaeum", "word": "peritonaeum"}, {"id": "66743", "link": "/find?type=1&query=peritonea", "word": "peritonea"}, {"id": "66744", "link": "/find?type=1&query=peritoneal", "word": "peritoneal"}, {"id": "66745", "link": "/find?type=1&query=peritoneally", "word": "peritoneally"}, {"id": "66746", "link": "/find?type=1&query=peritoneum", "word": "peritoneum"}, {"id": "66747", "link": "/find?type=1&query=peritoneums", "word": "peritoneums"}, {"id": "66748", "link": "/find?type=1&query=peritonitis", "word": "peritonitis"}]}, "mUrl": "/find?type=1&query=perit", "enEnData": {"suggests": [{"id": "21424", "link": "/find?type=3&query=peritonitis", "word": "peritonitis"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21424",
+                "link": "/find?type=3&query=peritonitis",
+                "word": "peritonitis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66739",
+                "link": "/find?type=1&query=perithecia",
+                "word": "perithecia"
+            },
+            {
+                "id": "66740",
+                "link": "/find?type=1&query=perithecial",
+                "word": "perithecial"
+            },
+            {
+                "id": "66741",
+                "link": "/find?type=1&query=perithecium",
+                "word": "perithecium"
+            },
+            {
+                "id": "66742",
+                "link": "/find?type=1&query=peritonaeum",
+                "word": "peritonaeum"
+            },
+            {
+                "id": "66743",
+                "link": "/find?type=1&query=peritonea",
+                "word": "peritonea"
+            },
+            {
+                "id": "66744",
+                "link": "/find?type=1&query=peritoneal",
+                "word": "peritoneal"
+            },
+            {
+                "id": "66745",
+                "link": "/find?type=1&query=peritoneally",
+                "word": "peritoneally"
+            },
+            {
+                "id": "66746",
+                "link": "/find?type=1&query=peritoneum",
+                "word": "peritoneum"
+            },
+            {
+                "id": "66747",
+                "link": "/find?type=1&query=peritoneums",
+                "word": "peritoneums"
+            },
+            {
+                "id": "66748",
+                "link": "/find?type=1&query=peritonitis",
+                "word": "peritonitis"
+            }
+        ]
+    }
+}

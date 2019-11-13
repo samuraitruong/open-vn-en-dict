@@ -1,1 +1,27 @@
-{"error": 0, "query": "permutating", "enViData": {"suggests": [{"id": "66807", "link": "/find?type=1&query=permutation", "word": "permutation"}, {"id": "66808", "link": "/find?type=1&query=permutational", "word": "permutational"}]}, "mUrl": "/find?type=1&query=permutating", "enEnData": {"suggests": [{"id": "21439", "link": "/find?type=3&query=permutation", "word": "permutation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21439",
+                "link": "/find?type=3&query=permutation",
+                "word": "permutation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66807",
+                "link": "/find?type=1&query=permutation",
+                "word": "permutation"
+            },
+            {
+                "id": "66808",
+                "link": "/find?type=1&query=permutational",
+                "word": "permutational"
+            }
+        ]
+    }
+}
