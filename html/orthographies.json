@@ -1,1 +1,28 @@
-{"error": 0, "query": "orthographies", "enViData": {"suggests": [], "best": {"id": "63229", "details": "\n<div id=\"find_word_63229\" class=\"world word_en\" rel=\"orthography\">\n    <h2 class=\"fl\">orthography <span class=\"color-black\">/\u0254:'\u03b8agr\u0259fi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"63229\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"63229\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00ednh t\u1ea3</div>\n    \n</div>\n", "link": "/find?type=1&query=orthography", "word": "orthography"}}, "mUrl": "/find?type=1&query=orthographies", "enEnData": {"suggests": [], "best": {"id": "20303", "details": "\n<div id=\"find_word_20303\" class=\"world word_en\" rel=\"orthography\">\n    <h2 class=\"fl\">orthography <span class=\"color-black\">/o\u025a\u02c8\u0275\u0251\u02d0gr\u0259fi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20303\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20303\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :the way in which the words of a language are spelled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the rules of English orthography [=spelling]</div>\n    \n</div>\n", "link": "/find?type=3&query=orthography", "word": "orthography"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical :the way in which the words of a language are spelled</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the rules of English orthography [=spelling]</div>",
+            "id": "20303",
+            "mean": [],
+            "pronounce": "/o\u025a\u02c8\u0275\u0251\u02d0gr\u0259fi/",
+            "type": "noun",
+            "word": "orthography"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00ednh t\u1ea3</div>",
+            "id": "63229",
+            "mean": [],
+            "pronounce": "/\u0254:'\u03b8agr\u0259fi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b12c763081d995cecf4c1be7dfd6e33c/16e62b58631/O/orthography.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0af4687da1f3de439179a27504f613c1/16e62b5801c/O/orthography.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "orthography"
+        },
+        "suggests": []
+    }
+}

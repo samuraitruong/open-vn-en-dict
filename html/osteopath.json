@@ -1,1 +1,38 @@
-{"error": 0, "query": "osteopath", "enViData": {"suggests": [{"id": "63380", "link": "/find?type=1&query=osteopathic", "word": "osteopathic"}, {"id": "63380", "link": "/find?type=1&query=osteopathy", "word": "osteopathy"}], "best": {"id": "63380", "details": "\n<div id=\"find_word_63380\" class=\"world word_en\" rel=\"osteopath\">\n    <h2 class=\"fl\">osteopath <span class=\"color-black\">/\u0252,sti\u0259p\u00e6\u03b8/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"63380\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"63380\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u01b0\u0300</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi n\u1eafn x\u01b0\u01a1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=osteopath", "word": "osteopath"}}, "mUrl": "/find?type=1&query=osteopath", "enEnData": {"suggests": [{"id": "20318", "link": "/find?type=3&query=osteopathy", "word": "osteopathy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20318",
+                "link": "/find?type=3&query=osteopathy",
+                "word": "osteopathy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u01b0\u0300</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi n\u1eafn x\u01b0\u01a1ng</div>",
+            "id": "63380",
+            "mean": [],
+            "pronounce": "/\u0252,sti\u0259p\u00e6\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e9928aabadf02505e12de50999276f8a/16e62b60535/O/osteopath.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c146ef584cb2fbbb483b9b1ffbc0ce84/16e62b5ff12/O/osteopath.mp3"
+            },
+            "type": "Danh t\u01b0\u0300",
+            "word": "osteopath"
+        },
+        "suggests": [
+            {
+                "id": "63380",
+                "link": "/find?type=1&query=osteopathic",
+                "word": "osteopathic"
+            },
+            {
+                "id": "63380",
+                "link": "/find?type=1&query=osteopathy",
+                "word": "osteopathy"
+            }
+        ]
+    }
+}

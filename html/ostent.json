@@ -1,1 +1,52 @@
-{"error": 0, "query": "ostent", "enViData": {"suggests": [{"id": "63352", "link": "/find?type=1&query=ostentation", "word": "ostentation"}, {"id": "63353", "link": "/find?type=1&query=ostentatious", "word": "ostentatious"}, {"id": "63354", "link": "/find?type=1&query=ostentatiously", "word": "ostentatiously"}]}, "mUrl": "/find?type=1&query=ostent", "enEnData": {"suggests": [{"id": "20315", "link": "/find?type=3&query=ostentation", "word": "ostentation"}, {"id": "20316", "link": "/find?type=3&query=ostentatious", "word": "ostentatious"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5112", "link": "/find?type=4&query=ostentation", "word": "ostentation"}, {"id": "5113", "link": "/find?type=4&query=ostentatious", "word": "ostentatious"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20315",
+                "link": "/find?type=3&query=ostentation",
+                "word": "ostentation"
+            },
+            {
+                "id": "20316",
+                "link": "/find?type=3&query=ostentatious",
+                "word": "ostentatious"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63352",
+                "link": "/find?type=1&query=ostentation",
+                "word": "ostentation"
+            },
+            {
+                "id": "63353",
+                "link": "/find?type=1&query=ostentatious",
+                "word": "ostentatious"
+            },
+            {
+                "id": "63354",
+                "link": "/find?type=1&query=ostentatiously",
+                "word": "ostentatiously"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5112",
+                "link": "/find?type=4&query=ostentation",
+                "word": "ostentation"
+            },
+            {
+                "id": "5113",
+                "link": "/find?type=4&query=ostentatious",
+                "word": "ostentatious"
+            }
+        ]
+    }
+}
