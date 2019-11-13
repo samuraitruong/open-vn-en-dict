@@ -1,1 +1,32 @@
-{"error": 0, "query": "metron", "enViData": {"suggests": [{"id": "57471", "link": "/find?type=1&query=metronome", "word": "metronome"}, {"id": "57472", "link": "/find?type=1&query=metronomic", "word": "metronomic"}, {"id": "57473", "link": "/find?type=1&query=metronymic", "word": "metronymic"}]}, "mUrl": "/find?type=1&query=metron", "enEnData": {"suggests": [{"id": "18027", "link": "/find?type=3&query=metronome", "word": "metronome"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18027",
+                "link": "/find?type=3&query=metronome",
+                "word": "metronome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57471",
+                "link": "/find?type=1&query=metronome",
+                "word": "metronome"
+            },
+            {
+                "id": "57472",
+                "link": "/find?type=1&query=metronomic",
+                "word": "metronomic"
+            },
+            {
+                "id": "57473",
+                "link": "/find?type=1&query=metronymic",
+                "word": "metronymic"
+            }
+        ]
+    }
+}

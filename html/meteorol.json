@@ -1,1 +1,37 @@
-{"error": 0, "query": "meteorol", "enViData": {"suggests": [{"id": "57416", "link": "/find?type=1&query=meteorologic", "word": "meteorologic"}, {"id": "57417", "link": "/find?type=1&query=meteorological", "word": "meteorological"}, {"id": "57418", "link": "/find?type=1&query=meteorologist", "word": "meteorologist"}, {"id": "57419", "link": "/find?type=1&query=meteorology", "word": "meteorology"}]}, "mUrl": "/find?type=1&query=meteorol", "enEnData": {"suggests": [{"id": "18006", "link": "/find?type=3&query=meteorology", "word": "meteorology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18006",
+                "link": "/find?type=3&query=meteorology",
+                "word": "meteorology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57416",
+                "link": "/find?type=1&query=meteorologic",
+                "word": "meteorologic"
+            },
+            {
+                "id": "57417",
+                "link": "/find?type=1&query=meteorological",
+                "word": "meteorological"
+            },
+            {
+                "id": "57418",
+                "link": "/find?type=1&query=meteorologist",
+                "word": "meteorologist"
+            },
+            {
+                "id": "57419",
+                "link": "/find?type=1&query=meteorology",
+                "word": "meteorology"
+            }
+        ]
+    }
+}

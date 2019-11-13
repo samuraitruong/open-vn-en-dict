@@ -1,1 +1,72 @@
-{"error": 0, "query": "metalled", "enViData": {"suggests": [{"id": "57359", "link": "/find?type=1&query=metallic", "word": "metallic"}, {"id": "57360", "link": "/find?type=1&query=metalliferous", "word": "metalliferous"}, {"id": "57361", "link": "/find?type=1&query=metallisation", "word": "metallisation"}, {"id": "57362", "link": "/find?type=1&query=metallise", "word": "metallise"}, {"id": "57363", "link": "/find?type=1&query=metallist", "word": "metallist"}, {"id": "57364", "link": "/find?type=1&query=metallization", "word": "metallization"}, {"id": "57365", "link": "/find?type=1&query=metallize", "word": "metallize"}, {"id": "57366", "link": "/find?type=1&query=metallography", "word": "metallography"}, {"id": "57367", "link": "/find?type=1&query=metalloid", "word": "metalloid"}, {"id": "57368", "link": "/find?type=1&query=metallurgic", "word": "metallurgic"}]}, "mUrl": "/find?type=1&query=metalled", "enEnData": {"suggests": [{"id": "17993", "link": "/find?type=3&query=metallic", "word": "metallic"}, {"id": "17994", "link": "/find?type=3&query=metallurgy", "word": "metallurgy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17993",
+                "link": "/find?type=3&query=metallic",
+                "word": "metallic"
+            },
+            {
+                "id": "17994",
+                "link": "/find?type=3&query=metallurgy",
+                "word": "metallurgy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57359",
+                "link": "/find?type=1&query=metallic",
+                "word": "metallic"
+            },
+            {
+                "id": "57360",
+                "link": "/find?type=1&query=metalliferous",
+                "word": "metalliferous"
+            },
+            {
+                "id": "57361",
+                "link": "/find?type=1&query=metallisation",
+                "word": "metallisation"
+            },
+            {
+                "id": "57362",
+                "link": "/find?type=1&query=metallise",
+                "word": "metallise"
+            },
+            {
+                "id": "57363",
+                "link": "/find?type=1&query=metallist",
+                "word": "metallist"
+            },
+            {
+                "id": "57364",
+                "link": "/find?type=1&query=metallization",
+                "word": "metallization"
+            },
+            {
+                "id": "57365",
+                "link": "/find?type=1&query=metallize",
+                "word": "metallize"
+            },
+            {
+                "id": "57366",
+                "link": "/find?type=1&query=metallography",
+                "word": "metallography"
+            },
+            {
+                "id": "57367",
+                "link": "/find?type=1&query=metalloid",
+                "word": "metalloid"
+            },
+            {
+                "id": "57368",
+                "link": "/find?type=1&query=metallurgic",
+                "word": "metallurgic"
+            }
+        ]
+    }
+}

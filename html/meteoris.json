@@ -1,1 +1,47 @@
-{"error": 0, "query": "meteoris", "enViData": {"suggests": [{"id": "57412", "link": "/find?type=1&query=meteoric", "word": "meteoric"}, {"id": "57413", "link": "/find?type=1&query=meteorically", "word": "meteorically"}, {"id": "57414", "link": "/find?type=1&query=meteorite", "word": "meteorite"}]}, "mUrl": "/find?type=1&query=meteoris", "enEnData": {"suggests": [{"id": "18004", "link": "/find?type=3&query=meteoric", "word": "meteoric"}, {"id": "18005", "link": "/find?type=3&query=meteorite", "word": "meteorite"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4536", "link": "/find?type=4&query=meteoric", "word": "meteoric"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18004",
+                "link": "/find?type=3&query=meteoric",
+                "word": "meteoric"
+            },
+            {
+                "id": "18005",
+                "link": "/find?type=3&query=meteorite",
+                "word": "meteorite"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57412",
+                "link": "/find?type=1&query=meteoric",
+                "word": "meteoric"
+            },
+            {
+                "id": "57413",
+                "link": "/find?type=1&query=meteorically",
+                "word": "meteorically"
+            },
+            {
+                "id": "57414",
+                "link": "/find?type=1&query=meteorite",
+                "word": "meteorite"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4536",
+                "link": "/find?type=4&query=meteoric",
+                "word": "meteoric"
+            }
+        ]
+    }
+}

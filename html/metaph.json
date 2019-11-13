@@ -1,1 +1,92 @@
-{"error": 0, "query": "metaph", "enViData": {"suggests": [{"id": "57386", "link": "/find?type=1&query=metaphase", "word": "metaphase"}, {"id": "57387", "link": "/find?type=1&query=metaphor", "word": "metaphor"}, {"id": "57388", "link": "/find?type=1&query=metaphoric", "word": "metaphoric"}, {"id": "57389", "link": "/find?type=1&query=metaphorical", "word": "metaphorical"}, {"id": "57390", "link": "/find?type=1&query=metaphorically", "word": "metaphorically"}, {"id": "57391", "link": "/find?type=1&query=metaphrase", "word": "metaphrase"}, {"id": "57392", "link": "/find?type=1&query=metaphrast", "word": "metaphrast"}, {"id": "57393", "link": "/find?type=1&query=metaphysical", "word": "metaphysical"}, {"id": "57394", "link": "/find?type=1&query=metaphysician", "word": "metaphysician"}, {"id": "57395", "link": "/find?type=1&query=metaphysicize", "word": "metaphysicize"}]}, "mUrl": "/find?type=1&query=metaph", "enEnData": {"suggests": [{"id": "17999", "link": "/find?type=3&query=metaphor", "word": "metaphor"}, {"id": "18000", "link": "/find?type=3&query=metaphysical", "word": "metaphysical"}, {"id": "18001", "link": "/find?type=3&query=metaphysics", "word": "metaphysics"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4533", "link": "/find?type=4&query=metaphor", "word": "metaphor"}, {"id": "4534", "link": "/find?type=4&query=metaphoric", "word": "metaphoric"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17999",
+                "link": "/find?type=3&query=metaphor",
+                "word": "metaphor"
+            },
+            {
+                "id": "18000",
+                "link": "/find?type=3&query=metaphysical",
+                "word": "metaphysical"
+            },
+            {
+                "id": "18001",
+                "link": "/find?type=3&query=metaphysics",
+                "word": "metaphysics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57386",
+                "link": "/find?type=1&query=metaphase",
+                "word": "metaphase"
+            },
+            {
+                "id": "57387",
+                "link": "/find?type=1&query=metaphor",
+                "word": "metaphor"
+            },
+            {
+                "id": "57388",
+                "link": "/find?type=1&query=metaphoric",
+                "word": "metaphoric"
+            },
+            {
+                "id": "57389",
+                "link": "/find?type=1&query=metaphorical",
+                "word": "metaphorical"
+            },
+            {
+                "id": "57390",
+                "link": "/find?type=1&query=metaphorically",
+                "word": "metaphorically"
+            },
+            {
+                "id": "57391",
+                "link": "/find?type=1&query=metaphrase",
+                "word": "metaphrase"
+            },
+            {
+                "id": "57392",
+                "link": "/find?type=1&query=metaphrast",
+                "word": "metaphrast"
+            },
+            {
+                "id": "57393",
+                "link": "/find?type=1&query=metaphysical",
+                "word": "metaphysical"
+            },
+            {
+                "id": "57394",
+                "link": "/find?type=1&query=metaphysician",
+                "word": "metaphysician"
+            },
+            {
+                "id": "57395",
+                "link": "/find?type=1&query=metaphysicize",
+                "word": "metaphysicize"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4533",
+                "link": "/find?type=4&query=metaphor",
+                "word": "metaphor"
+            },
+            {
+                "id": "4534",
+                "link": "/find?type=4&query=metaphoric",
+                "word": "metaphoric"
+            }
+        ]
+    }
+}

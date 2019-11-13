@@ -1,1 +1,28 @@
-{"error": 0, "query": "methanes", "enViData": {"suggests": [], "best": {"id": "57422", "details": "\n<div id=\"find_word_57422\" class=\"world word_en\" rel=\"methane\">\n    <h2 class=\"fl\">methane <span class=\"color-black\">/'mi:\u03b8ein/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57422\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57422\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ho\u00e1) (c\u0169ng marsh gas)</div>\n    \n    <div class=\"green margin25 m-top15\">metan</div>\n    \n</div>\n", "link": "/find?type=1&query=methane", "word": "methane"}}, "mUrl": "/find?type=1&query=methanes", "enEnData": {"suggests": [], "best": {"id": "18011", "details": "\n<div id=\"find_word_18011\" class=\"world word_en\" rel=\"methane\">\n    <h2 class=\"fl\">methane <span class=\"color-black\">/\u02c8m\u025b\u02cc\u0275e\u026an/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8mi\u02d0\u02cc\u0275e\u026an/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18011\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18011\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a colorless gas that has no smell and that can be burned for fuel</div>\n    \n</div>\n", "link": "/find?type=3&query=methane", "word": "methane"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a colorless gas that has no smell and that can be burned for fuel</div>",
+            "id": "18011",
+            "mean": [],
+            "pronounce": "/\u02c8m\u025b\u02cc\u0275e\u026an/",
+            "type": "noun",
+            "word": "methane"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ho\u00e1) (c\u0169ng marsh gas)</div>\n    \n    <div class=\"green margin25 m-top15\">metan</div>",
+            "id": "57422",
+            "mean": [],
+            "pronounce": "/'mi:\u03b8ein/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9cf2cb8d57b6043eb91657e30f5c1dbb/16e629d82a3/M/methane.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2a2ff790fdcd85e820a4f516b23cc005/16e629d7c50/M/methane.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "methane"
+        },
+        "suggests": []
+    }
+}

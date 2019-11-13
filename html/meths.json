@@ -1,1 +1,82 @@
-{"error": 0, "query": "meths", "enViData": {"suggests": [], "best": {"id": "57438", "details": "\n<div id=\"find_word_57438\" class=\"world word_en\" rel=\"meths\">\n    <h2 class=\"fl\">meths <span class=\"color-black\">/me\u03b8s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57438\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57438\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(Anh, kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed3n metilic</div>\n    \n</div>\n", "link": "/find?type=1&query=meths", "word": "meths"}}, "mUrl": "/find?type=1&query=meths", "enEnData": {"suggests": [{"id": "18010", "link": "/find?type=3&query=methadone", "word": "methadone"}, {"id": "18011", "link": "/find?type=3&query=methane", "word": "methane"}, {"id": "18012", "link": "/find?type=3&query=methanol", "word": "methanol"}, {"id": "18013", "link": "/find?type=3&query=methinks", "word": "methinks"}, {"id": "18014", "link": "/find?type=3&query=method", "word": "method"}, {"id": "18015", "link": "/find?type=3&query=methodical", "word": "methodical"}, {"id": "18016", "link": "/find?type=3&query=Methodist", "word": "Methodist"}, {"id": "18017", "link": "/find?type=3&query=methodology", "word": "methodology"}, {"id": "18018", "link": "/find?type=3&query=methyl+alcohol", "word": "methyl alcohol"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4537", "link": "/find?type=4&query=method", "word": "method"}, {"id": "4538", "link": "/find?type=4&query=methodical", "word": "methodical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18010",
+                "link": "/find?type=3&query=methadone",
+                "word": "methadone"
+            },
+            {
+                "id": "18011",
+                "link": "/find?type=3&query=methane",
+                "word": "methane"
+            },
+            {
+                "id": "18012",
+                "link": "/find?type=3&query=methanol",
+                "word": "methanol"
+            },
+            {
+                "id": "18013",
+                "link": "/find?type=3&query=methinks",
+                "word": "methinks"
+            },
+            {
+                "id": "18014",
+                "link": "/find?type=3&query=method",
+                "word": "method"
+            },
+            {
+                "id": "18015",
+                "link": "/find?type=3&query=methodical",
+                "word": "methodical"
+            },
+            {
+                "id": "18016",
+                "link": "/find?type=3&query=Methodist",
+                "word": "Methodist"
+            },
+            {
+                "id": "18017",
+                "link": "/find?type=3&query=methodology",
+                "word": "methodology"
+            },
+            {
+                "id": "18018",
+                "link": "/find?type=3&query=methyl+alcohol",
+                "word": "methyl alcohol"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(Anh, kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed3n metilic</div>",
+            "id": "57438",
+            "mean": [],
+            "pronounce": "/me\u03b8s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a244de7b5517c68c2d520f3f18d4c19e/16e629d9ba1/M/meths.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3214c1a34682bbd38da6ccf24e8cc3b4/16e629d95ba/M/meths.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "meths"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4537",
+                "link": "/find?type=4&query=method",
+                "word": "method"
+            },
+            {
+                "id": "4538",
+                "link": "/find?type=4&query=methodical",
+                "word": "methodical"
+            }
+        ]
+    }
+}

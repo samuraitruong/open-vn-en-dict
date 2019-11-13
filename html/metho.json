@@ -1,1 +1,97 @@
-{"error": 0, "query": "metho", "enViData": {"suggests": [{"id": "57425", "link": "/find?type=1&query=method", "word": "method"}, {"id": "57426", "link": "/find?type=1&query=methodic", "word": "methodic"}, {"id": "57427", "link": "/find?type=1&query=methodic%28al%29", "word": "methodic(al)"}, {"id": "57428", "link": "/find?type=1&query=methodical", "word": "methodical"}, {"id": "57429", "link": "/find?type=1&query=methodically", "word": "methodically"}, {"id": "57430", "link": "/find?type=1&query=methodise", "word": "methodise"}, {"id": "57431", "link": "/find?type=1&query=Methodism", "word": "Methodism"}, {"id": "57432", "link": "/find?type=1&query=Methodist", "word": "Methodist"}, {"id": "57433", "link": "/find?type=1&query=methodize", "word": "methodize"}, {"id": "57434", "link": "/find?type=1&query=methodological", "word": "methodological"}]}, "mUrl": "/find?type=1&query=metho", "enEnData": {"suggests": [{"id": "18014", "link": "/find?type=3&query=method", "word": "method"}, {"id": "18015", "link": "/find?type=3&query=methodical", "word": "methodical"}, {"id": "18016", "link": "/find?type=3&query=Methodist", "word": "Methodist"}, {"id": "18017", "link": "/find?type=3&query=methodology", "word": "methodology"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4537", "link": "/find?type=4&query=method", "word": "method"}, {"id": "4538", "link": "/find?type=4&query=methodical", "word": "methodical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18014",
+                "link": "/find?type=3&query=method",
+                "word": "method"
+            },
+            {
+                "id": "18015",
+                "link": "/find?type=3&query=methodical",
+                "word": "methodical"
+            },
+            {
+                "id": "18016",
+                "link": "/find?type=3&query=Methodist",
+                "word": "Methodist"
+            },
+            {
+                "id": "18017",
+                "link": "/find?type=3&query=methodology",
+                "word": "methodology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57425",
+                "link": "/find?type=1&query=method",
+                "word": "method"
+            },
+            {
+                "id": "57426",
+                "link": "/find?type=1&query=methodic",
+                "word": "methodic"
+            },
+            {
+                "id": "57427",
+                "link": "/find?type=1&query=methodic%28al%29",
+                "word": "methodic(al)"
+            },
+            {
+                "id": "57428",
+                "link": "/find?type=1&query=methodical",
+                "word": "methodical"
+            },
+            {
+                "id": "57429",
+                "link": "/find?type=1&query=methodically",
+                "word": "methodically"
+            },
+            {
+                "id": "57430",
+                "link": "/find?type=1&query=methodise",
+                "word": "methodise"
+            },
+            {
+                "id": "57431",
+                "link": "/find?type=1&query=Methodism",
+                "word": "Methodism"
+            },
+            {
+                "id": "57432",
+                "link": "/find?type=1&query=Methodist",
+                "word": "Methodist"
+            },
+            {
+                "id": "57433",
+                "link": "/find?type=1&query=methodize",
+                "word": "methodize"
+            },
+            {
+                "id": "57434",
+                "link": "/find?type=1&query=methodological",
+                "word": "methodological"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4537",
+                "link": "/find?type=4&query=method",
+                "word": "method"
+            },
+            {
+                "id": "4538",
+                "link": "/find?type=4&query=methodical",
+                "word": "methodical"
+            }
+        ]
+    }
+}

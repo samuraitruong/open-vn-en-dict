@@ -1,1 +1,42 @@
-{"error": 0, "query": "metaphysic", "enViData": {"suggests": [{"id": "57393", "link": "/find?type=1&query=metaphysical", "word": "metaphysical"}, {"id": "57394", "link": "/find?type=1&query=metaphysician", "word": "metaphysician"}, {"id": "57395", "link": "/find?type=1&query=metaphysicize", "word": "metaphysicize"}, {"id": "57396", "link": "/find?type=1&query=metaphysics", "word": "metaphysics"}]}, "mUrl": "/find?type=1&query=metaphysic", "enEnData": {"suggests": [{"id": "18000", "link": "/find?type=3&query=metaphysical", "word": "metaphysical"}, {"id": "18001", "link": "/find?type=3&query=metaphysics", "word": "metaphysics"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18000",
+                "link": "/find?type=3&query=metaphysical",
+                "word": "metaphysical"
+            },
+            {
+                "id": "18001",
+                "link": "/find?type=3&query=metaphysics",
+                "word": "metaphysics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57393",
+                "link": "/find?type=1&query=metaphysical",
+                "word": "metaphysical"
+            },
+            {
+                "id": "57394",
+                "link": "/find?type=1&query=metaphysician",
+                "word": "metaphysician"
+            },
+            {
+                "id": "57395",
+                "link": "/find?type=1&query=metaphysicize",
+                "word": "metaphysicize"
+            },
+            {
+                "id": "57396",
+                "link": "/find?type=1&query=metaphysics",
+                "word": "metaphysics"
+            }
+        ]
+    }
+}
