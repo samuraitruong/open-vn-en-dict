@@ -1,1 +1,42 @@
-{"error": 0, "query": "overcrowds", "enViData": {"suggests": [{"id": "63722", "link": "/find?type=1&query=overcrowded", "word": "overcrowded"}, {"id": "63723", "link": "/find?type=1&query=overcrowding", "word": "overcrowding"}]}, "mUrl": "/find?type=1&query=overcrowds", "enEnData": {"suggests": [{"id": "20492", "link": "/find?type=3&query=overcrowded", "word": "overcrowded"}, {"id": "20493", "link": "/find?type=3&query=overcrowding", "word": "overcrowding"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5165", "link": "/find?type=4&query=overcrowded", "word": "overcrowded"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20492",
+                "link": "/find?type=3&query=overcrowded",
+                "word": "overcrowded"
+            },
+            {
+                "id": "20493",
+                "link": "/find?type=3&query=overcrowding",
+                "word": "overcrowding"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63722",
+                "link": "/find?type=1&query=overcrowded",
+                "word": "overcrowded"
+            },
+            {
+                "id": "63723",
+                "link": "/find?type=1&query=overcrowding",
+                "word": "overcrowding"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5165",
+                "link": "/find?type=4&query=overcrowded",
+                "word": "overcrowded"
+            }
+        ]
+    }
+}

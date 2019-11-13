@@ -1,1 +1,37 @@
-{"error": 0, "query": "overbears", "enViData": {"suggests": [{"id": "63705", "link": "/find?type=1&query=overbearing", "word": "overbearing"}, {"id": "63706", "link": "/find?type=1&query=overbearingly", "word": "overbearingly"}]}, "mUrl": "/find?type=1&query=overbears", "enEnData": {"suggests": [{"id": "20477", "link": "/find?type=3&query=overbearing", "word": "overbearing"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5160", "link": "/find?type=4&query=overbearing", "word": "overbearing"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20477",
+                "link": "/find?type=3&query=overbearing",
+                "word": "overbearing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63705",
+                "link": "/find?type=1&query=overbearing",
+                "word": "overbearing"
+            },
+            {
+                "id": "63706",
+                "link": "/find?type=1&query=overbearingly",
+                "word": "overbearingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5160",
+                "link": "/find?type=4&query=overbearing",
+                "word": "overbearing"
+            }
+        ]
+    }
+}
