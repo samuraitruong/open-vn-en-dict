@@ -1,1 +1,47 @@
-{"error": 0, "query": "overling", "enViData": {"suggests": [{"id": "63759", "link": "/find?type=1&query=overleaf", "word": "overleaf"}]}, "mUrl": "/find?type=1&query=overling", "enEnData": {"suggests": [{"id": "20529", "link": "/find?type=3&query=overleaf", "word": "overleaf"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5174", "link": "/find?type=4&query=overlap", "word": "overlap"}, {"id": "5175", "link": "/find?type=4&query=overload", "word": "overload"}, {"id": "5176", "link": "/find?type=4&query=overlook", "word": "overlook"}, {"id": "5177", "link": "/find?type=4&query=overly", "word": "overly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20529",
+                "link": "/find?type=3&query=overleaf",
+                "word": "overleaf"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63759",
+                "link": "/find?type=1&query=overleaf",
+                "word": "overleaf"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5174",
+                "link": "/find?type=4&query=overlap",
+                "word": "overlap"
+            },
+            {
+                "id": "5175",
+                "link": "/find?type=4&query=overload",
+                "word": "overload"
+            },
+            {
+                "id": "5176",
+                "link": "/find?type=4&query=overlook",
+                "word": "overlook"
+            },
+            {
+                "id": "5177",
+                "link": "/find?type=4&query=overly",
+                "word": "overly"
+            }
+        ]
+    }
+}

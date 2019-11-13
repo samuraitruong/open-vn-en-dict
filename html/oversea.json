@@ -1,1 +1,32 @@
-{"error": 0, "query": "oversea", "enViData": {"suggests": [{"id": "63786", "link": "/find?type=1&query=overseas", "word": "overseas"}]}, "mUrl": "/find?type=1&query=oversea", "enEnData": {"suggests": [{"id": "20561", "link": "/find?type=3&query=overseas", "word": "overseas"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5184", "link": "/find?type=4&query=overseas", "word": "overseas"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20561",
+                "link": "/find?type=3&query=overseas",
+                "word": "overseas"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63786",
+                "link": "/find?type=1&query=overseas",
+                "word": "overseas"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5184",
+                "link": "/find?type=4&query=overseas",
+                "word": "overseas"
+            }
+        ]
+    }
+}

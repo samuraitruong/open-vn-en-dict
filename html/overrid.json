@@ -1,1 +1,47 @@
-{"error": 0, "query": "overrid", "enViData": {"suggests": [{"id": "63779", "link": "/find?type=1&query=overridden", "word": "overridden"}, {"id": "63780", "link": "/find?type=1&query=override", "word": "override"}, {"id": "63781", "link": "/find?type=1&query=overriding", "word": "overriding"}]}, "mUrl": "/find?type=1&query=overrid", "enEnData": {"suggests": [{"id": "20556", "link": "/find?type=3&query=override", "word": "override"}, {"id": "20557", "link": "/find?type=3&query=overriding", "word": "overriding"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5182", "link": "/find?type=4&query=overriding", "word": "overriding"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20556",
+                "link": "/find?type=3&query=override",
+                "word": "override"
+            },
+            {
+                "id": "20557",
+                "link": "/find?type=3&query=overriding",
+                "word": "overriding"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63779",
+                "link": "/find?type=1&query=overridden",
+                "word": "overridden"
+            },
+            {
+                "id": "63780",
+                "link": "/find?type=1&query=override",
+                "word": "override"
+            },
+            {
+                "id": "63781",
+                "link": "/find?type=1&query=overriding",
+                "word": "overriding"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5182",
+                "link": "/find?type=4&query=overriding",
+                "word": "overriding"
+            }
+        ]
+    }
+}

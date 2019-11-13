@@ -1,1 +1,22 @@
-{"error": 0, "query": "overking", "enViData": {"suggests": [{"id": "63754", "link": "/find?type=1&query=overkill", "word": "overkill"}]}, "mUrl": "/find?type=1&query=overking", "enEnData": {"suggests": [{"id": "20525", "link": "/find?type=3&query=overkill", "word": "overkill"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20525",
+                "link": "/find?type=3&query=overkill",
+                "word": "overkill"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63754",
+                "link": "/find?type=1&query=overkill",
+                "word": "overkill"
+            }
+        ]
+    }
+}
