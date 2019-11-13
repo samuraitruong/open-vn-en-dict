@@ -1,1 +1,42 @@
-{"error": 0, "query": "patel", "enViData": {"suggests": [{"id": "65563", "link": "/find?type=1&query=patella", "word": "patella"}, {"id": "65564", "link": "/find?type=1&query=patellae", "word": "patellae"}, {"id": "65565", "link": "/find?type=1&query=patellar", "word": "patellar"}, {"id": "65566", "link": "/find?type=1&query=patellate", "word": "patellate"}, {"id": "65567", "link": "/find?type=1&query=patelliform", "word": "patelliform"}]}, "mUrl": "/find?type=1&query=patel", "enEnData": {"suggests": [{"id": "21064", "link": "/find?type=3&query=patella", "word": "patella"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21064",
+                "link": "/find?type=3&query=patella",
+                "word": "patella"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65563",
+                "link": "/find?type=1&query=patella",
+                "word": "patella"
+            },
+            {
+                "id": "65564",
+                "link": "/find?type=1&query=patellae",
+                "word": "patellae"
+            },
+            {
+                "id": "65565",
+                "link": "/find?type=1&query=patellar",
+                "word": "patellar"
+            },
+            {
+                "id": "65566",
+                "link": "/find?type=1&query=patellate",
+                "word": "patellate"
+            },
+            {
+                "id": "65567",
+                "link": "/find?type=1&query=patelliform",
+                "word": "patelliform"
+            }
+        ]
+    }
+}

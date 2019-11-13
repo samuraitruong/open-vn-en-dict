@@ -1,1 +1,42 @@
-{"error": 0, "query": "patins", "enViData": {"suggests": [{"id": "65626", "link": "/find?type=1&query=patina", "word": "patina"}, {"id": "65627", "link": "/find?type=1&query=patinae", "word": "patinae"}, {"id": "65628", "link": "/find?type=1&query=patinas", "word": "patinas"}, {"id": "65629", "link": "/find?type=1&query=patinated", "word": "patinated"}, {"id": "65630", "link": "/find?type=1&query=patination", "word": "patination"}]}, "mUrl": "/find?type=1&query=patins", "enEnData": {"suggests": [{"id": "21082", "link": "/find?type=3&query=patina", "word": "patina"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21082",
+                "link": "/find?type=3&query=patina",
+                "word": "patina"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65626",
+                "link": "/find?type=1&query=patina",
+                "word": "patina"
+            },
+            {
+                "id": "65627",
+                "link": "/find?type=1&query=patinae",
+                "word": "patinae"
+            },
+            {
+                "id": "65628",
+                "link": "/find?type=1&query=patinas",
+                "word": "patinas"
+            },
+            {
+                "id": "65629",
+                "link": "/find?type=1&query=patinated",
+                "word": "patinated"
+            },
+            {
+                "id": "65630",
+                "link": "/find?type=1&query=patination",
+                "word": "patination"
+            }
+        ]
+    }
+}

@@ -1,1 +1,28 @@
-{"error": 0, "query": "pathways", "enViData": {"suggests": [], "best": {"id": "65622", "details": "\n<div id=\"find_word_65622\" class=\"world word_en\" rel=\"pathway\">\n    <h2 class=\"fl\">pathway <span class=\"color-black\">/'p\u0251:\u03b8wei/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65622\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65622\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u01b0\u1eddng m\u00f2n, \u0111\u01b0\u1eddng nh\u1ecf</div>\n    \n</div>\n", "link": "/find?type=1&query=pathway", "word": "pathway"}}, "mUrl": "/find?type=1&query=pathways", "enEnData": {"suggests": [], "best": {"id": "21079", "details": "\n<div id=\"find_word_21079\" class=\"world word_en\" rel=\"pathway\">\n    <h2 class=\"fl\">pathway <span class=\"color-black\">/\u02c8p\u00e6\u0275\u02ccwe\u026a/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8p\u0251\u02d0\u0275\u02ccwe\u026a/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21079\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21079\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ways</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :path</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We walked along a winding pathway.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pathway to success</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">(technical) a neural pathway [=a series of connected nerves along which electrical impulses travel in the body]</div>\n    \n</div>\n", "link": "/find?type=3&query=pathway", "word": "pathway"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ways</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :path</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We walked along a winding pathway.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pathway to success</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">(technical) a neural pathway [=a series of connected nerves along which electrical impulses travel in the body]</div>",
+            "id": "21079",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6\u0275\u02ccwe\u026a/",
+            "type": "noun",
+            "word": "pathway"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u01b0\u1eddng m\u00f2n, \u0111\u01b0\u1eddng nh\u1ecf</div>",
+            "id": "65622",
+            "mean": [],
+            "pronounce": "/'p\u0251:\u03b8wei/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/509ce7dfe068e859fc38716fb67fd6f1/16e62bfe543/P/pathway.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c3d2abdd0a8d50f09a5ae98212e53499/16e62bfded0/P/pathway.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pathway"
+        },
+        "suggests": []
+    }
+}

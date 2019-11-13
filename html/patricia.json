@@ -1,1 +1,37 @@
-{"error": 0, "query": "patricia", "enViData": {"suggests": [{"id": "65650", "link": "/find?type=1&query=patrician", "word": "patrician"}, {"id": "65651", "link": "/find?type=1&query=patricianly", "word": "patricianly"}, {"id": "65652", "link": "/find?type=1&query=patricianship", "word": "patricianship"}, {"id": "65653", "link": "/find?type=1&query=patriciate", "word": "patriciate"}]}, "mUrl": "/find?type=1&query=patricia", "enEnData": {"suggests": [{"id": "21089", "link": "/find?type=3&query=patrician", "word": "patrician"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21089",
+                "link": "/find?type=3&query=patrician",
+                "word": "patrician"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65650",
+                "link": "/find?type=1&query=patrician",
+                "word": "patrician"
+            },
+            {
+                "id": "65651",
+                "link": "/find?type=1&query=patricianly",
+                "word": "patricianly"
+            },
+            {
+                "id": "65652",
+                "link": "/find?type=1&query=patricianship",
+                "word": "patricianship"
+            },
+            {
+                "id": "65653",
+                "link": "/find?type=1&query=patriciate",
+                "word": "patriciate"
+            }
+        ]
+    }
+}

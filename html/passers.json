@@ -1,1 +1,47 @@
-{"error": 0, "query": "passers", "enViData": {"suggests": [{"id": "65451", "link": "/find?type=1&query=passer-by", "word": "passer-by"}, {"id": "65451", "link": "/find?type=1&query=passerine", "word": "passerine"}, {"id": "65451", "link": "/find?type=1&query=passers-by", "word": "passers-by"}], "best": {"id": "65451", "details": "\n<div id=\"find_word_65451\" class=\"world word_en\" rel=\"passer\">\n    <h2 class=\"fl\">passer <span class=\"color-black\">/'p\u0251:s\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65451\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65451\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(nh\u01b0) passer-by</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tr\u00fang tuy\u1ec3n h\u1ea1ng th\u1ee9 (\u1edf tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc)</div>\n    \n</div>\n", "link": "/find?type=1&query=passer", "word": "passer"}}, "mUrl": "/find?type=1&query=passers", "enEnData": {"suggests": [{"id": "21021", "link": "/find?type=3&query=passerby", "word": "passerby"}], "best": {"id": "21021", "details": "\n<div id=\"find_word_21021\" class=\"world word_en\" rel=\"passer\">\n    <h2 class=\"fl\">passer <span class=\"color-black\">/\u02c8p\u00e6s\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8p\u0251\u02d0s\u0259/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21021\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21021\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone or something that passes something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a passer of bad checks especially;  :a player who passes a ball or puck to a teammate in a sport</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a quarterback who is an excellent passer</div>\n    \n</div>\n", "link": "/find?type=3&query=passer", "word": "passer"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone or something that passes something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a passer of bad checks especially;  :a player who passes a ball or puck to a teammate in a sport</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a quarterback who is an excellent passer</div>",
+            "id": "21021",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6s\u025a/",
+            "type": "noun",
+            "word": "passer"
+        },
+        "suggests": [
+            {
+                "id": "21021",
+                "link": "/find?type=3&query=passerby",
+                "word": "passerby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(nh\u01b0) passer-by</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi tr\u00fang tuy\u1ec3n h\u1ea1ng th\u1ee9 (\u1edf tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc)</div>",
+            "id": "65451",
+            "mean": [],
+            "pronounce": "/'p\u0251:s\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "passer"
+        },
+        "suggests": [
+            {
+                "id": "65451",
+                "link": "/find?type=1&query=passer-by",
+                "word": "passer-by"
+            },
+            {
+                "id": "65451",
+                "link": "/find?type=1&query=passerine",
+                "word": "passerine"
+            },
+            {
+                "id": "65451",
+                "link": "/find?type=1&query=passers-by",
+                "word": "passers-by"
+            }
+        ]
+    }
+}

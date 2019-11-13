@@ -1,1 +1,103 @@
-{"error": 0, "query": "pater", "enViData": {"suggests": [{"id": "65584", "link": "/find?type=1&query=patera", "word": "patera"}, {"id": "65584", "link": "/find?type=1&query=paterfamilias", "word": "paterfamilias"}, {"id": "65584", "link": "/find?type=1&query=paternal", "word": "paternal"}, {"id": "65584", "link": "/find?type=1&query=paternalism", "word": "paternalism"}, {"id": "65584", "link": "/find?type=1&query=paternalist", "word": "paternalist"}, {"id": "65584", "link": "/find?type=1&query=paternalistic", "word": "paternalistic"}, {"id": "65584", "link": "/find?type=1&query=paternalistically", "word": "paternalistically"}, {"id": "65584", "link": "/find?type=1&query=paternality", "word": "paternality"}, {"id": "65584", "link": "/find?type=1&query=paternally", "word": "paternally"}], "best": {"id": "65584", "details": "\n<div id=\"find_word_65584\" class=\"world word_en\" rel=\"pater\">\n    <h2 class=\"fl\">pater <span class=\"color-black\">/'peit\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"65584\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"65584\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">danh t\u1eeb-(ng\u00f4n ng\u1eef nh\u00e0 tr\u01b0\u1eddng), (t\u1eeb l\u00f3ng) b\u1ed1, \u00f4ng b\u1ed1</div>\n    \n</div>\n", "link": "/find?type=1&query=pater", "word": "pater"}}, "mUrl": "/find?type=1&query=pater", "enEnData": {"suggests": [{"id": "21067", "link": "/find?type=3&query=paterfamilias", "word": "paterfamilias"}, {"id": "21068", "link": "/find?type=3&query=paternal", "word": "paternal"}, {"id": "21069", "link": "/find?type=3&query=paternalism", "word": "paternalism"}, {"id": "21070", "link": "/find?type=3&query=paternity", "word": "paternity"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5316", "link": "/find?type=4&query=paternal", "word": "paternal"}, {"id": "5317", "link": "/find?type=4&query=paternity", "word": "paternity"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21067",
+                "link": "/find?type=3&query=paterfamilias",
+                "word": "paterfamilias"
+            },
+            {
+                "id": "21068",
+                "link": "/find?type=3&query=paternal",
+                "word": "paternal"
+            },
+            {
+                "id": "21069",
+                "link": "/find?type=3&query=paternalism",
+                "word": "paternalism"
+            },
+            {
+                "id": "21070",
+                "link": "/find?type=3&query=paternity",
+                "word": "paternity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">danh t\u1eeb-(ng\u00f4n ng\u1eef nh\u00e0 tr\u01b0\u1eddng), (t\u1eeb l\u00f3ng) b\u1ed1, \u00f4ng b\u1ed1</div>",
+            "id": "65584",
+            "mean": [],
+            "pronounce": "/'peit\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/91002e43c5e8458a64c5fcfd2186d3aa/16e62bfc10b/P/pater.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/deafb7dda4badd45932973c1128abf27/16e62bfbaff/P/pater.mp3"
+            },
+            "type": "",
+            "word": "pater"
+        },
+        "suggests": [
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=patera",
+                "word": "patera"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paterfamilias",
+                "word": "paterfamilias"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternal",
+                "word": "paternal"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternalism",
+                "word": "paternalism"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternalist",
+                "word": "paternalist"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternalistic",
+                "word": "paternalistic"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternalistically",
+                "word": "paternalistically"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternality",
+                "word": "paternality"
+            },
+            {
+                "id": "65584",
+                "link": "/find?type=1&query=paternally",
+                "word": "paternally"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5316",
+                "link": "/find?type=4&query=paternal",
+                "word": "paternal"
+            },
+            {
+                "id": "5317",
+                "link": "/find?type=4&query=paternity",
+                "word": "paternity"
+            }
+        ]
+    }
+}

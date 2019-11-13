@@ -1,1 +1,52 @@
-{"error": 0, "query": "pathol", "enViData": {"suggests": [{"id": "65614", "link": "/find?type=1&query=pathologic", "word": "pathologic"}, {"id": "65615", "link": "/find?type=1&query=pathological", "word": "pathological"}, {"id": "65616", "link": "/find?type=1&query=pathologically", "word": "pathologically"}, {"id": "65617", "link": "/find?type=1&query=pathologist", "word": "pathologist"}, {"id": "65618", "link": "/find?type=1&query=pathology", "word": "pathology"}]}, "mUrl": "/find?type=1&query=pathol", "enEnData": {"suggests": [{"id": "21075", "link": "/find?type=3&query=pathological", "word": "pathological"}, {"id": "21076", "link": "/find?type=3&query=pathologist", "word": "pathologist"}, {"id": "21077", "link": "/find?type=3&query=pathology", "word": "pathology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21075",
+                "link": "/find?type=3&query=pathological",
+                "word": "pathological"
+            },
+            {
+                "id": "21076",
+                "link": "/find?type=3&query=pathologist",
+                "word": "pathologist"
+            },
+            {
+                "id": "21077",
+                "link": "/find?type=3&query=pathology",
+                "word": "pathology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65614",
+                "link": "/find?type=1&query=pathologic",
+                "word": "pathologic"
+            },
+            {
+                "id": "65615",
+                "link": "/find?type=1&query=pathological",
+                "word": "pathological"
+            },
+            {
+                "id": "65616",
+                "link": "/find?type=1&query=pathologically",
+                "word": "pathologically"
+            },
+            {
+                "id": "65617",
+                "link": "/find?type=1&query=pathologist",
+                "word": "pathologist"
+            },
+            {
+                "id": "65618",
+                "link": "/find?type=1&query=pathology",
+                "word": "pathology"
+            }
+        ]
+    }
+}

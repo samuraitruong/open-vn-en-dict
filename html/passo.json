@@ -1,1 +1,22 @@
-{"error": 0, "query": "passo", "enViData": {"suggests": [{"id": "65490", "link": "/find?type=1&query=Passover", "word": "Passover"}]}, "mUrl": "/find?type=1&query=passo", "enEnData": {"suggests": [{"id": "21035", "link": "/find?type=3&query=Passover", "word": "Passover"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21035",
+                "link": "/find?type=3&query=Passover",
+                "word": "Passover"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65490",
+                "link": "/find?type=1&query=Passover",
+                "word": "Passover"
+            }
+        ]
+    }
+}

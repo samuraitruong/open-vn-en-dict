@@ -1,1 +1,27 @@
-{"error": 0, "query": "pato", "enViData": {"suggests": [{"id": "65636", "link": "/find?type=1&query=patois", "word": "patois"}, {"id": "65637", "link": "/find?type=1&query=patological", "word": "patological"}]}, "mUrl": "/find?type=1&query=pato", "enEnData": {"suggests": [{"id": "21085", "link": "/find?type=3&query=patois", "word": "patois"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21085",
+                "link": "/find?type=3&query=patois",
+                "word": "patois"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "65636",
+                "link": "/find?type=1&query=patois",
+                "word": "patois"
+            },
+            {
+                "id": "65637",
+                "link": "/find?type=1&query=patological",
+                "word": "patological"
+            }
+        ]
+    }
+}
