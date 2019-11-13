@@ -1,1 +1,97 @@
-{"error": 0, "query": "orna", "enViData": {"suggests": [{"id": "63125", "link": "/find?type=1&query=ornament", "word": "ornament"}, {"id": "63126", "link": "/find?type=1&query=ornamental", "word": "ornamental"}, {"id": "63127", "link": "/find?type=1&query=ornamentalism", "word": "ornamentalism"}, {"id": "63128", "link": "/find?type=1&query=ornamentalist", "word": "ornamentalist"}, {"id": "63129", "link": "/find?type=1&query=ornamentation", "word": "ornamentation"}, {"id": "63130", "link": "/find?type=1&query=ornamenter", "word": "ornamenter"}, {"id": "63131", "link": "/find?type=1&query=ornate", "word": "ornate"}, {"id": "63132", "link": "/find?type=1&query=ornately", "word": "ornately"}, {"id": "63133", "link": "/find?type=1&query=ornateness", "word": "ornateness"}]}, "mUrl": "/find?type=1&query=orna", "enEnData": {"suggests": [{"id": "20290", "link": "/find?type=3&query=ornament", "word": "ornament"}, {"id": "20291", "link": "/find?type=3&query=ornamental", "word": "ornamental"}, {"id": "20292", "link": "/find?type=3&query=ornamentation", "word": "ornamentation"}, {"id": "20293", "link": "/find?type=3&query=ornate", "word": "ornate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5106", "link": "/find?type=4&query=ornament", "word": "ornament"}, {"id": "5107", "link": "/find?type=4&query=ornamental", "word": "ornamental"}, {"id": "5108", "link": "/find?type=4&query=ornate", "word": "ornate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20290",
+                "link": "/find?type=3&query=ornament",
+                "word": "ornament"
+            },
+            {
+                "id": "20291",
+                "link": "/find?type=3&query=ornamental",
+                "word": "ornamental"
+            },
+            {
+                "id": "20292",
+                "link": "/find?type=3&query=ornamentation",
+                "word": "ornamentation"
+            },
+            {
+                "id": "20293",
+                "link": "/find?type=3&query=ornate",
+                "word": "ornate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63125",
+                "link": "/find?type=1&query=ornament",
+                "word": "ornament"
+            },
+            {
+                "id": "63126",
+                "link": "/find?type=1&query=ornamental",
+                "word": "ornamental"
+            },
+            {
+                "id": "63127",
+                "link": "/find?type=1&query=ornamentalism",
+                "word": "ornamentalism"
+            },
+            {
+                "id": "63128",
+                "link": "/find?type=1&query=ornamentalist",
+                "word": "ornamentalist"
+            },
+            {
+                "id": "63129",
+                "link": "/find?type=1&query=ornamentation",
+                "word": "ornamentation"
+            },
+            {
+                "id": "63130",
+                "link": "/find?type=1&query=ornamenter",
+                "word": "ornamenter"
+            },
+            {
+                "id": "63131",
+                "link": "/find?type=1&query=ornate",
+                "word": "ornate"
+            },
+            {
+                "id": "63132",
+                "link": "/find?type=1&query=ornately",
+                "word": "ornately"
+            },
+            {
+                "id": "63133",
+                "link": "/find?type=1&query=ornateness",
+                "word": "ornateness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5106",
+                "link": "/find?type=4&query=ornament",
+                "word": "ornament"
+            },
+            {
+                "id": "5107",
+                "link": "/find?type=4&query=ornamental",
+                "word": "ornamental"
+            },
+            {
+                "id": "5108",
+                "link": "/find?type=4&query=ornate",
+                "word": "ornate"
+            }
+        ]
+    }
+}

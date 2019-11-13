@@ -1,1 +1,147 @@
-{"error": 0, "query": "org", "enViData": {"suggests": [{"id": "63014", "link": "/find?type=1&query=organ", "word": "organ"}, {"id": "63015", "link": "/find?type=1&query=organ-blower", "word": "organ-blower"}, {"id": "63016", "link": "/find?type=1&query=organ-builder", "word": "organ-builder"}, {"id": "63017", "link": "/find?type=1&query=organ-grinder", "word": "organ-grinder"}, {"id": "63018", "link": "/find?type=1&query=organ-loft", "word": "organ-loft"}, {"id": "63019", "link": "/find?type=1&query=organ-pipe", "word": "organ-pipe"}, {"id": "63020", "link": "/find?type=1&query=organa", "word": "organa"}, {"id": "63021", "link": "/find?type=1&query=organdie", "word": "organdie"}, {"id": "63022", "link": "/find?type=1&query=organdy", "word": "organdy"}, {"id": "63023", "link": "/find?type=1&query=organelle", "word": "organelle"}]}, "mUrl": "/find?type=1&query=org", "enEnData": {"suggests": [{"id": "20257", "link": "/find?type=3&query=organ", "word": "organ"}, {"id": "20258", "link": "/find?type=3&query=organ-grinder", "word": "organ-grinder"}, {"id": "20259", "link": "/find?type=3&query=organic", "word": "organic"}, {"id": "20260", "link": "/find?type=3&query=organic+chemistry", "word": "organic chemistry"}, {"id": "20261", "link": "/find?type=3&query=organism", "word": "organism"}, {"id": "20262", "link": "/find?type=3&query=organist", "word": "organist"}, {"id": "20263", "link": "/find?type=3&query=organization", "word": "organization"}, {"id": "20264", "link": "/find?type=3&query=organize", "word": "organize"}, {"id": "20265", "link": "/find?type=3&query=organized", "word": "organized"}, {"id": "20266", "link": "/find?type=3&query=orgasm", "word": "orgasm"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5093", "link": "/find?type=4&query=organ", "word": "organ"}, {"id": "5094", "link": "/find?type=4&query=organic", "word": "organic"}, {"id": "5095", "link": "/find?type=4&query=organism", "word": "organism"}, {"id": "5096", "link": "/find?type=4&query=organization", "word": "organization"}, {"id": "5097", "link": "/find?type=4&query=organize", "word": "organize"}, {"id": "5098", "link": "/find?type=4&query=orgy", "word": "orgy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20257",
+                "link": "/find?type=3&query=organ",
+                "word": "organ"
+            },
+            {
+                "id": "20258",
+                "link": "/find?type=3&query=organ-grinder",
+                "word": "organ-grinder"
+            },
+            {
+                "id": "20259",
+                "link": "/find?type=3&query=organic",
+                "word": "organic"
+            },
+            {
+                "id": "20260",
+                "link": "/find?type=3&query=organic+chemistry",
+                "word": "organic chemistry"
+            },
+            {
+                "id": "20261",
+                "link": "/find?type=3&query=organism",
+                "word": "organism"
+            },
+            {
+                "id": "20262",
+                "link": "/find?type=3&query=organist",
+                "word": "organist"
+            },
+            {
+                "id": "20263",
+                "link": "/find?type=3&query=organization",
+                "word": "organization"
+            },
+            {
+                "id": "20264",
+                "link": "/find?type=3&query=organize",
+                "word": "organize"
+            },
+            {
+                "id": "20265",
+                "link": "/find?type=3&query=organized",
+                "word": "organized"
+            },
+            {
+                "id": "20266",
+                "link": "/find?type=3&query=orgasm",
+                "word": "orgasm"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63014",
+                "link": "/find?type=1&query=organ",
+                "word": "organ"
+            },
+            {
+                "id": "63015",
+                "link": "/find?type=1&query=organ-blower",
+                "word": "organ-blower"
+            },
+            {
+                "id": "63016",
+                "link": "/find?type=1&query=organ-builder",
+                "word": "organ-builder"
+            },
+            {
+                "id": "63017",
+                "link": "/find?type=1&query=organ-grinder",
+                "word": "organ-grinder"
+            },
+            {
+                "id": "63018",
+                "link": "/find?type=1&query=organ-loft",
+                "word": "organ-loft"
+            },
+            {
+                "id": "63019",
+                "link": "/find?type=1&query=organ-pipe",
+                "word": "organ-pipe"
+            },
+            {
+                "id": "63020",
+                "link": "/find?type=1&query=organa",
+                "word": "organa"
+            },
+            {
+                "id": "63021",
+                "link": "/find?type=1&query=organdie",
+                "word": "organdie"
+            },
+            {
+                "id": "63022",
+                "link": "/find?type=1&query=organdy",
+                "word": "organdy"
+            },
+            {
+                "id": "63023",
+                "link": "/find?type=1&query=organelle",
+                "word": "organelle"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5093",
+                "link": "/find?type=4&query=organ",
+                "word": "organ"
+            },
+            {
+                "id": "5094",
+                "link": "/find?type=4&query=organic",
+                "word": "organic"
+            },
+            {
+                "id": "5095",
+                "link": "/find?type=4&query=organism",
+                "word": "organism"
+            },
+            {
+                "id": "5096",
+                "link": "/find?type=4&query=organization",
+                "word": "organization"
+            },
+            {
+                "id": "5097",
+                "link": "/find?type=4&query=organize",
+                "word": "organize"
+            },
+            {
+                "id": "5098",
+                "link": "/find?type=4&query=orgy",
+                "word": "orgy"
+            }
+        ]
+    }
+}

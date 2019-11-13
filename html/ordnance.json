@@ -1,1 +1,34 @@
-{"error": 0, "query": "ordnance", "enViData": {"suggests": [{"id": "62990", "link": "/find?type=1&query=Ordnance+Survey", "word": "Ordnance Survey"}], "best": {"id": "62990", "details": "\n<div id=\"find_word_62990\" class=\"world word_en\" rel=\"ordnance\">\n    <h2 class=\"fl\">ordnance <span class=\"color-black\">/'\u0254:dn\u0259ns/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"62990\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"62990\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u00e2n nhu</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ee5c qu\u00e2n nhu</div>\n    \n</div>\n", "link": "/find?type=1&query=ordnance", "word": "ordnance"}}, "mUrl": "/find?type=1&query=ordnance", "enEnData": {"suggests": [], "best": {"id": "20253", "details": "\n<div id=\"find_word_20253\" class=\"world word_en\" rel=\"ordnance\">\n    <h2 class=\"fl\">ordnance <span class=\"color-black\">/\u02c8o\u025adn\u0259ns/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20253\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20253\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical</div>\n    \n    <div class=\"green margin25 m-top15\">military supplies including weapons, ammunition, armor, vehicles, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The field was full of unexploded ordnance. [=bombs that had not exploded]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an ordnance facility</div>\n    \n    <div class=\"green margin25 m-top15\">large, heavy guns on wheels :artillery</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company was outfitted with 50-millimeter ordnance.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a military ordnance company</div>\n    \n</div>\n", "link": "/find?type=3&query=ordnance", "word": "ordnance"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] technical</div>\n    \n    <div class=\"green margin25 m-top15\">military supplies including weapons, ammunition, armor, vehicles, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The field was full of unexploded ordnance. [=bombs that had not exploded]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an ordnance facility</div>\n    \n    <div class=\"green margin25 m-top15\">large, heavy guns on wheels :artillery</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company was outfitted with 50-millimeter ordnance.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a military ordnance company</div>",
+            "id": "20253",
+            "mean": [],
+            "pronounce": "/\u02c8o\u025adn\u0259ns/",
+            "type": "noun",
+            "word": "ordnance"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">qu\u00e2n nhu</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ee5c qu\u00e2n nhu</div>",
+            "id": "62990",
+            "mean": [],
+            "pronounce": "/'\u0254:dn\u0259ns/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4ce22949a694bdc9fd88f1ebf59bcf14/16e62b4c958/O/ordnance.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b38cabc50701dc002ee1fb18b0df9317/16e62b4c3c2/O/ordnance.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ordnance"
+        },
+        "suggests": [
+            {
+                "id": "62990",
+                "link": "/find?type=1&query=Ordnance+Survey",
+                "word": "Ordnance Survey"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"error": 0, "query": "ornes", "enViData": {"suggests": [{"id": "63134", "link": "/find?type=1&query=ornery", "word": "ornery"}]}, "mUrl": "/find?type=1&query=ornes", "enEnData": {"suggests": [{"id": "20294", "link": "/find?type=3&query=ornery", "word": "ornery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20294",
+                "link": "/find?type=3&query=ornery",
+                "word": "ornery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63134",
+                "link": "/find?type=1&query=ornery",
+                "word": "ornery"
+            }
+        ]
+    }
+}

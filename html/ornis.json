@@ -1,1 +1,67 @@
-{"error": 0, "query": "ornis", "enViData": {"suggests": [{"id": "63135", "link": "/find?type=1&query=ornithic", "word": "ornithic"}, {"id": "63136", "link": "/find?type=1&query=ornitholite", "word": "ornitholite"}, {"id": "63137", "link": "/find?type=1&query=ornithological", "word": "ornithological"}, {"id": "63138", "link": "/find?type=1&query=ornithologist", "word": "ornithologist"}, {"id": "63139", "link": "/find?type=1&query=ornithology", "word": "ornithology"}, {"id": "63140", "link": "/find?type=1&query=ornithomancy", "word": "ornithomancy"}, {"id": "63141", "link": "/find?type=1&query=ornithophilous", "word": "ornithophilous"}, {"id": "63142", "link": "/find?type=1&query=ornithopod", "word": "ornithopod"}, {"id": "63143", "link": "/find?type=1&query=ornithopter", "word": "ornithopter"}, {"id": "63144", "link": "/find?type=1&query=ornithorhynchus", "word": "ornithorhynchus"}]}, "mUrl": "/find?type=1&query=ornis", "enEnData": {"suggests": [{"id": "20295", "link": "/find?type=3&query=ornithology", "word": "ornithology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20295",
+                "link": "/find?type=3&query=ornithology",
+                "word": "ornithology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63135",
+                "link": "/find?type=1&query=ornithic",
+                "word": "ornithic"
+            },
+            {
+                "id": "63136",
+                "link": "/find?type=1&query=ornitholite",
+                "word": "ornitholite"
+            },
+            {
+                "id": "63137",
+                "link": "/find?type=1&query=ornithological",
+                "word": "ornithological"
+            },
+            {
+                "id": "63138",
+                "link": "/find?type=1&query=ornithologist",
+                "word": "ornithologist"
+            },
+            {
+                "id": "63139",
+                "link": "/find?type=1&query=ornithology",
+                "word": "ornithology"
+            },
+            {
+                "id": "63140",
+                "link": "/find?type=1&query=ornithomancy",
+                "word": "ornithomancy"
+            },
+            {
+                "id": "63141",
+                "link": "/find?type=1&query=ornithophilous",
+                "word": "ornithophilous"
+            },
+            {
+                "id": "63142",
+                "link": "/find?type=1&query=ornithopod",
+                "word": "ornithopod"
+            },
+            {
+                "id": "63143",
+                "link": "/find?type=1&query=ornithopter",
+                "word": "ornithopter"
+            },
+            {
+                "id": "63144",
+                "link": "/find?type=1&query=ornithorhynchus",
+                "word": "ornithorhynchus"
+            }
+        ]
+    }
+}

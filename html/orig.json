@@ -1,1 +1,127 @@
-{"error": 0, "query": "orig", "enViData": {"suggests": [{"id": "63101", "link": "/find?type=1&query=origami", "word": "origami"}, {"id": "63102", "link": "/find?type=1&query=origan", "word": "origan"}, {"id": "63103", "link": "/find?type=1&query=origanum", "word": "origanum"}, {"id": "63104", "link": "/find?type=1&query=origin", "word": "origin"}, {"id": "63105", "link": "/find?type=1&query=original", "word": "original"}, {"id": "63106", "link": "/find?type=1&query=original+sin", "word": "original sin"}, {"id": "63107", "link": "/find?type=1&query=originality", "word": "originality"}, {"id": "63108", "link": "/find?type=1&query=originally", "word": "originally"}, {"id": "63109", "link": "/find?type=1&query=originate", "word": "originate"}, {"id": "63110", "link": "/find?type=1&query=origination", "word": "origination"}]}, "mUrl": "/find?type=1&query=orig", "enEnData": {"suggests": [{"id": "20281", "link": "/find?type=3&query=origami", "word": "origami"}, {"id": "20282", "link": "/find?type=3&query=origin", "word": "origin"}, {"id": "20283", "link": "/find?type=3&query=original", "word": "original"}, {"id": "20284", "link": "/find?type=3&query=original+sin", "word": "original sin"}, {"id": "20285", "link": "/find?type=3&query=originality", "word": "originality"}, {"id": "20286", "link": "/find?type=3&query=originally", "word": "originally"}, {"id": "20287", "link": "/find?type=3&query=originate", "word": "originate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5101", "link": "/find?type=4&query=origin", "word": "origin"}, {"id": "5102", "link": "/find?type=4&query=original", "word": "original"}, {"id": "5103", "link": "/find?type=4&query=originality", "word": "originality"}, {"id": "5104", "link": "/find?type=4&query=originally", "word": "originally"}, {"id": "5105", "link": "/find?type=4&query=originate", "word": "originate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20281",
+                "link": "/find?type=3&query=origami",
+                "word": "origami"
+            },
+            {
+                "id": "20282",
+                "link": "/find?type=3&query=origin",
+                "word": "origin"
+            },
+            {
+                "id": "20283",
+                "link": "/find?type=3&query=original",
+                "word": "original"
+            },
+            {
+                "id": "20284",
+                "link": "/find?type=3&query=original+sin",
+                "word": "original sin"
+            },
+            {
+                "id": "20285",
+                "link": "/find?type=3&query=originality",
+                "word": "originality"
+            },
+            {
+                "id": "20286",
+                "link": "/find?type=3&query=originally",
+                "word": "originally"
+            },
+            {
+                "id": "20287",
+                "link": "/find?type=3&query=originate",
+                "word": "originate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63101",
+                "link": "/find?type=1&query=origami",
+                "word": "origami"
+            },
+            {
+                "id": "63102",
+                "link": "/find?type=1&query=origan",
+                "word": "origan"
+            },
+            {
+                "id": "63103",
+                "link": "/find?type=1&query=origanum",
+                "word": "origanum"
+            },
+            {
+                "id": "63104",
+                "link": "/find?type=1&query=origin",
+                "word": "origin"
+            },
+            {
+                "id": "63105",
+                "link": "/find?type=1&query=original",
+                "word": "original"
+            },
+            {
+                "id": "63106",
+                "link": "/find?type=1&query=original+sin",
+                "word": "original sin"
+            },
+            {
+                "id": "63107",
+                "link": "/find?type=1&query=originality",
+                "word": "originality"
+            },
+            {
+                "id": "63108",
+                "link": "/find?type=1&query=originally",
+                "word": "originally"
+            },
+            {
+                "id": "63109",
+                "link": "/find?type=1&query=originate",
+                "word": "originate"
+            },
+            {
+                "id": "63110",
+                "link": "/find?type=1&query=origination",
+                "word": "origination"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5101",
+                "link": "/find?type=4&query=origin",
+                "word": "origin"
+            },
+            {
+                "id": "5102",
+                "link": "/find?type=4&query=original",
+                "word": "original"
+            },
+            {
+                "id": "5103",
+                "link": "/find?type=4&query=originality",
+                "word": "originality"
+            },
+            {
+                "id": "5104",
+                "link": "/find?type=4&query=originally",
+                "word": "originally"
+            },
+            {
+                "id": "5105",
+                "link": "/find?type=4&query=originate",
+                "word": "originate"
+            }
+        ]
+    }
+}
