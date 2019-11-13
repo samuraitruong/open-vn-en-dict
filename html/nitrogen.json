@@ -1,1 +1,34 @@
-{"error": 0, "query": "nitrogen", "enViData": {"suggests": [{"id": "60581", "link": "/find?type=1&query=nitrogenous", "word": "nitrogenous"}], "best": {"id": "60581", "details": "\n<div id=\"find_word_60581\" class=\"world word_en\" rel=\"nitrogen\">\n    <h2 class=\"fl\">nitrogen <span class=\"color-black\">/'naitr\u0259d\u0292\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60581\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60581\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">nit\u01a1, nitrogen, \u0111\u1ea1m</div>\n    \n</div>\n", "link": "/find?type=1&query=nitrogen", "word": "nitrogen"}}, "mUrl": "/find?type=1&query=nitrogen", "enEnData": {"suggests": [], "best": {"id": "19353", "details": "\n<div id=\"find_word_19353\" class=\"world word_en\" rel=\"nitrogen\">\n    <h2 class=\"fl\">nitrogen <span class=\"color-black\">/\u02c8na\u026atr\u0259\u02a4\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19353\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19353\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical that has no color or smell and that makes up a large part of the atmosphere</div>\n    \n</div>\n", "link": "/find?type=3&query=nitrogen", "word": "nitrogen"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical that has no color or smell and that makes up a large part of the atmosphere</div>",
+            "id": "19353",
+            "mean": [],
+            "pronounce": "/\u02c8na\u026atr\u0259\u02a4\u0259n/",
+            "type": "noun",
+            "word": "nitrogen"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">nit\u01a1, nitrogen, \u0111\u1ea1m</div>",
+            "id": "60581",
+            "mean": [],
+            "pronounce": "/'naitr\u0259d\u0292\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ababa72693392bf4cf9a274ea35a4cc1/16e62aaebaf/N/nitrogen.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/eddc9d7a9b7252efbe5f5099457b76d7/16e62aae580/N/nitrogen.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "nitrogen"
+        },
+        "suggests": [
+            {
+                "id": "60581",
+                "link": "/find?type=1&query=nitrogenous",
+                "word": "nitrogenous"
+            }
+        ]
+    }
+}

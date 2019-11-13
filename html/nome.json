@@ -1,1 +1,37 @@
-{"error": 0, "query": "nome", "enViData": {"suggests": [{"id": "60693", "link": "/find?type=1&query=nomen", "word": "nomen"}, {"id": "60694", "link": "/find?type=1&query=nomenclative", "word": "nomenclative"}, {"id": "60695", "link": "/find?type=1&query=nomenclator", "word": "nomenclator"}, {"id": "60696", "link": "/find?type=1&query=nomenclature", "word": "nomenclature"}]}, "mUrl": "/find?type=1&query=nome", "enEnData": {"suggests": [{"id": "19403", "link": "/find?type=3&query=nomenclature", "word": "nomenclature"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19403",
+                "link": "/find?type=3&query=nomenclature",
+                "word": "nomenclature"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60693",
+                "link": "/find?type=1&query=nomen",
+                "word": "nomen"
+            },
+            {
+                "id": "60694",
+                "link": "/find?type=1&query=nomenclative",
+                "word": "nomenclative"
+            },
+            {
+                "id": "60695",
+                "link": "/find?type=1&query=nomenclator",
+                "word": "nomenclator"
+            },
+            {
+                "id": "60696",
+                "link": "/find?type=1&query=nomenclature",
+                "word": "nomenclature"
+            }
+        ]
+    }
+}

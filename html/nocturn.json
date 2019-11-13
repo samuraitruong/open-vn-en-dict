@@ -1,1 +1,37 @@
-{"error": 0, "query": "nocturn", "enViData": {"suggests": [{"id": "60641", "link": "/find?type=1&query=nocturnal", "word": "nocturnal"}, {"id": "60642", "link": "/find?type=1&query=nocturnally", "word": "nocturnally"}, {"id": "60643", "link": "/find?type=1&query=nocturne", "word": "nocturne"}]}, "mUrl": "/find?type=1&query=nocturn", "enEnData": {"suggests": [{"id": "19377", "link": "/find?type=3&query=nocturnal", "word": "nocturnal"}, {"id": "19378", "link": "/find?type=3&query=nocturne", "word": "nocturne"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19377",
+                "link": "/find?type=3&query=nocturnal",
+                "word": "nocturnal"
+            },
+            {
+                "id": "19378",
+                "link": "/find?type=3&query=nocturne",
+                "word": "nocturne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60641",
+                "link": "/find?type=1&query=nocturnal",
+                "word": "nocturnal"
+            },
+            {
+                "id": "60642",
+                "link": "/find?type=1&query=nocturnally",
+                "word": "nocturnally"
+            },
+            {
+                "id": "60643",
+                "link": "/find?type=1&query=nocturne",
+                "word": "nocturne"
+            }
+        ]
+    }
+}

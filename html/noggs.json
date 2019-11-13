@@ -1,1 +1,27 @@
-{"error": 0, "query": "noggs", "enViData": {"suggests": [{"id": "60667", "link": "/find?type=1&query=noggin", "word": "noggin"}, {"id": "60668", "link": "/find?type=1&query=noggy", "word": "noggy"}]}, "mUrl": "/find?type=1&query=noggs", "enEnData": {"suggests": [{"id": "19388", "link": "/find?type=3&query=noggin", "word": "noggin"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19388",
+                "link": "/find?type=3&query=noggin",
+                "word": "noggin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60667",
+                "link": "/find?type=1&query=noggin",
+                "word": "noggin"
+            },
+            {
+                "id": "60668",
+                "link": "/find?type=1&query=noggy",
+                "word": "noggy"
+            }
+        ]
+    }
+}

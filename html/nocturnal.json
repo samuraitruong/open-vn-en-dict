@@ -1,1 +1,34 @@
-{"error": 0, "query": "nocturnal", "enViData": {"suggests": [{"id": "60641", "link": "/find?type=1&query=nocturnally", "word": "nocturnally"}], "best": {"id": "60641", "details": "\n<div id=\"find_word_60641\" class=\"world word_en\" rel=\"nocturnal\">\n    <h2 class=\"fl\">nocturnal <span class=\"color-black\">/n\u0251k't\u025c:nl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60641\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60641\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] \u0111\u00eam; v\u1ec1 \u0111\u00eam</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a nocturnal trip</div>\n    \n    <div class=\"margin25\">cu\u1ed9c d\u1ea1o ch\u01a1i ban \u0111\u00eam</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">nocturnal birds</div>\n    \n    <div class=\"margin25\">chim \u0103n \u0111\u00eam</div>\n    \n</div>\n", "link": "/find?type=1&query=nocturnal", "word": "nocturnal"}}, "mUrl": "/find?type=1&query=nocturnal", "enEnData": {"suggests": [], "best": {"id": "19377", "details": "\n<div id=\"find_word_19377\" class=\"world word_en\" rel=\"nocturnal\">\n    <h2 class=\"fl\">nocturnal <span class=\"color-black\">/n\u0251k\u02c8t\u025ann\u0329/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19377\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19377\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">active mainly during the night</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">nocturnal animals - opposite diurnal</div>\n    \n    <div class=\"green margin25 m-top15\">formal :happening at night</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a nocturnal journey</div>\n    \n</div>\n", "link": "/find?type=3&query=nocturnal", "word": "nocturnal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">active mainly during the night</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">nocturnal animals - opposite diurnal</div>\n    \n    <div class=\"green margin25 m-top15\">formal :happening at night</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a nocturnal journey</div>",
+            "id": "19377",
+            "mean": [],
+            "pronounce": "/n\u0251k\u02c8t\u025ann\u0329/",
+            "type": "adjective",
+            "word": "nocturnal"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] \u0111\u00eam; v\u1ec1 \u0111\u00eam</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a nocturnal trip</div>\n    \n    <div class=\"margin25\">cu\u1ed9c d\u1ea1o ch\u01a1i ban \u0111\u00eam</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">nocturnal birds</div>\n    \n    <div class=\"margin25\">chim \u0103n \u0111\u00eam</div>",
+            "id": "60641",
+            "mean": [],
+            "pronounce": "/n\u0251k't\u025c:nl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bc1cf4f6e852bba1d94a03414f2402ba/16e62a95d34/N/nocturnal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d464048036d690b5bcb8693b88f4c11d/16e62a95d33/N/nocturnal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "nocturnal"
+        },
+        "suggests": [
+            {
+                "id": "60641",
+                "link": "/find?type=1&query=nocturnally",
+                "word": "nocturnally"
+            }
+        ]
+    }
+}

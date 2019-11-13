@@ -1,1 +1,32 @@
-{"error": 0, "query": "nomine", "enViData": {"suggests": [{"id": "60713", "link": "/find?type=1&query=nominee", "word": "nominee"}]}, "mUrl": "/find?type=1&query=nomine", "enEnData": {"suggests": [{"id": "19408", "link": "/find?type=3&query=nominee", "word": "nominee"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4876", "link": "/find?type=4&query=nominee", "word": "nominee"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19408",
+                "link": "/find?type=3&query=nominee",
+                "word": "nominee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60713",
+                "link": "/find?type=1&query=nominee",
+                "word": "nominee"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4876",
+                "link": "/find?type=4&query=nominee",
+                "word": "nominee"
+            }
+        ]
+    }
+}
