@@ -1,1 +1,77 @@
-{"error": 0, "query": "rall", "enViData": {"suggests": [{"id": "74493", "link": "/find?type=1&query=rallentandi", "word": "rallentandi"}, {"id": "74494", "link": "/find?type=1&query=rallentando", "word": "rallentando"}, {"id": "74495", "link": "/find?type=1&query=rallied", "word": "rallied"}, {"id": "74496", "link": "/find?type=1&query=ralline", "word": "ralline"}, {"id": "74497", "link": "/find?type=1&query=rally", "word": "rally"}, {"id": "74498", "link": "/find?type=1&query=rallycross", "word": "rallycross"}, {"id": "74499", "link": "/find?type=1&query=rallying-point", "word": "rallying-point"}, {"id": "74500", "link": "/find?type=1&query=rallyingly", "word": "rallyingly"}]}, "mUrl": "/find?type=1&query=rall", "enEnData": {"suggests": [{"id": "23814", "link": "/find?type=3&query=rally", "word": "rally"}, {"id": "23815", "link": "/find?type=3&query=rallying+cry", "word": "rallying cry"}, {"id": "23816", "link": "/find?type=3&query=rallying+point", "word": "rallying point"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6197", "link": "/find?type=4&query=rally", "word": "rally"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23814",
+                "link": "/find?type=3&query=rally",
+                "word": "rally"
+            },
+            {
+                "id": "23815",
+                "link": "/find?type=3&query=rallying+cry",
+                "word": "rallying cry"
+            },
+            {
+                "id": "23816",
+                "link": "/find?type=3&query=rallying+point",
+                "word": "rallying point"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74493",
+                "link": "/find?type=1&query=rallentandi",
+                "word": "rallentandi"
+            },
+            {
+                "id": "74494",
+                "link": "/find?type=1&query=rallentando",
+                "word": "rallentando"
+            },
+            {
+                "id": "74495",
+                "link": "/find?type=1&query=rallied",
+                "word": "rallied"
+            },
+            {
+                "id": "74496",
+                "link": "/find?type=1&query=ralline",
+                "word": "ralline"
+            },
+            {
+                "id": "74497",
+                "link": "/find?type=1&query=rally",
+                "word": "rally"
+            },
+            {
+                "id": "74498",
+                "link": "/find?type=1&query=rallycross",
+                "word": "rallycross"
+            },
+            {
+                "id": "74499",
+                "link": "/find?type=1&query=rallying-point",
+                "word": "rallying-point"
+            },
+            {
+                "id": "74500",
+                "link": "/find?type=1&query=rallyingly",
+                "word": "rallyingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6197",
+                "link": "/find?type=4&query=rally",
+                "word": "rally"
+            }
+        ]
+    }
+}

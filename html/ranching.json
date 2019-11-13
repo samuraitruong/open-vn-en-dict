@@ -1,1 +1,44 @@
-{"error": 0, "query": "ranching", "enViData": {"suggests": [{"id": "74555", "link": "/find?type=1&query=rancher", "word": "rancher"}, {"id": "74555", "link": "/find?type=1&query=ranchman", "word": "ranchman"}, {"id": "74555", "link": "/find?type=1&query=rancho", "word": "rancho"}], "best": {"id": "74555", "details": "\n<div id=\"find_word_74555\" class=\"world word_en\" rel=\"ranch\">\n    <h2 class=\"fl\">ranch <span class=\"color-black\">/r\u0251:nt\u222b/</span>&nbsp;&nbsp;<span class=\"color-orange\">/r\u00e6nt\u222b/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74555\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74555\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f4ng tr\u1ea1i, tr\u1ea1i (nu\u00f4i s\u00fac v\u1eadt nh\u01b0 \u1edf B\u1eafc M\u1ef9, ho\u1eb7c tr\u1ed3ng tr\u1ecdt)</div>\n    \n</div>\n", "link": "/find?type=1&query=ranch", "word": "ranch"}}, "mUrl": "/find?type=1&query=ranching", "enEnData": {"suggests": [], "best": {"id": "23839", "details": "\n<div id=\"find_word_23839\" class=\"world word_en\" rel=\"ranching\">\n    <h2 class=\"fl\">ranching <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23839\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23839\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the activity of raising animals on a ranch</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cattle ranching</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The land is highly suitable for ranching.</div>\n    \n</div>\n", "link": "/find?type=3&query=ranching", "word": "ranching"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the activity of raising animals on a ranch</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cattle ranching</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The land is highly suitable for ranching.</div>",
+            "id": "23839",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "ranching"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f4ng tr\u1ea1i, tr\u1ea1i (nu\u00f4i s\u00fac v\u1eadt nh\u01b0 \u1edf B\u1eafc M\u1ef9, ho\u1eb7c tr\u1ed3ng tr\u1ecdt)</div>",
+            "id": "74555",
+            "mean": [],
+            "pronounce": "/r\u0251:nt\u222b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5c48ed8c6b558724c5a0058cf6c60eb1/16e62ddd38e/R/ranch.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1252176fc373884373deeacb2c372de0/16e62ddcca5/R/ranch.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ranch"
+        },
+        "suggests": [
+            {
+                "id": "74555",
+                "link": "/find?type=1&query=rancher",
+                "word": "rancher"
+            },
+            {
+                "id": "74555",
+                "link": "/find?type=1&query=ranchman",
+                "word": "ranchman"
+            },
+            {
+                "id": "74555",
+                "link": "/find?type=1&query=rancho",
+                "word": "rancho"
+            }
+        ]
+    }
+}

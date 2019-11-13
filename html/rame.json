@@ -1,1 +1,47 @@
-{"error": 0, "query": "rame", "enViData": {"suggests": [{"id": "74517", "link": "/find?type=1&query=rameal", "word": "rameal"}, {"id": "74518", "link": "/find?type=1&query=ramee", "word": "ramee"}, {"id": "74519", "link": "/find?type=1&query=ramekin", "word": "ramekin"}, {"id": "74520", "link": "/find?type=1&query=ramellose", "word": "ramellose"}, {"id": "74521", "link": "/find?type=1&query=rament", "word": "rament"}]}, "mUrl": "/find?type=1&query=rame", "enEnData": {"suggests": [{"id": "23824", "link": "/find?type=3&query=ramekin", "word": "ramekin"}, {"id": "23825", "link": "/find?type=3&query=ramen", "word": "ramen"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23824",
+                "link": "/find?type=3&query=ramekin",
+                "word": "ramekin"
+            },
+            {
+                "id": "23825",
+                "link": "/find?type=3&query=ramen",
+                "word": "ramen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74517",
+                "link": "/find?type=1&query=rameal",
+                "word": "rameal"
+            },
+            {
+                "id": "74518",
+                "link": "/find?type=1&query=ramee",
+                "word": "ramee"
+            },
+            {
+                "id": "74519",
+                "link": "/find?type=1&query=ramekin",
+                "word": "ramekin"
+            },
+            {
+                "id": "74520",
+                "link": "/find?type=1&query=ramellose",
+                "word": "ramellose"
+            },
+            {
+                "id": "74521",
+                "link": "/find?type=1&query=rament",
+                "word": "rament"
+            }
+        ]
+    }
+}

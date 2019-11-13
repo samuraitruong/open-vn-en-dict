@@ -1,1 +1,22 @@
-{"error": 0, "query": "ramada", "enViData": {"suggests": [{"id": "74506", "link": "/find?type=1&query=Ramadan", "word": "Ramadan"}]}, "mUrl": "/find?type=1&query=ramada", "enEnData": {"suggests": [{"id": "23819", "link": "/find?type=3&query=Ramadan", "word": "Ramadan"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23819",
+                "link": "/find?type=3&query=Ramadan",
+                "word": "Ramadan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74506",
+                "link": "/find?type=1&query=Ramadan",
+                "word": "Ramadan"
+            }
+        ]
+    }
+}

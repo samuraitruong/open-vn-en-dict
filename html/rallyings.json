@@ -1,1 +1,32 @@
-{"error": 0, "query": "rallyings", "enViData": {"suggests": [{"id": "74499", "link": "/find?type=1&query=rallying-point", "word": "rallying-point"}, {"id": "74500", "link": "/find?type=1&query=rallyingly", "word": "rallyingly"}]}, "mUrl": "/find?type=1&query=rallyings", "enEnData": {"suggests": [{"id": "23815", "link": "/find?type=3&query=rallying+cry", "word": "rallying cry"}, {"id": "23816", "link": "/find?type=3&query=rallying+point", "word": "rallying point"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23815",
+                "link": "/find?type=3&query=rallying+cry",
+                "word": "rallying cry"
+            },
+            {
+                "id": "23816",
+                "link": "/find?type=3&query=rallying+point",
+                "word": "rallying point"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74499",
+                "link": "/find?type=1&query=rallying-point",
+                "word": "rallying-point"
+            },
+            {
+                "id": "74500",
+                "link": "/find?type=1&query=rallyingly",
+                "word": "rallyingly"
+            }
+        ]
+    }
+}
