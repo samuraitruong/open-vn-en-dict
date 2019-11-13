@@ -1,1 +1,85 @@
-{"error": 0, "query": "premeds", "enViData": {"suggests": [{"id": "70794", "link": "/find?type=1&query=premedical", "word": "premedical"}, {"id": "70794", "link": "/find?type=1&query=premedication", "word": "premedication"}, {"id": "70794", "link": "/find?type=1&query=premeditate", "word": "premeditate"}, {"id": "70794", "link": "/find?type=1&query=premeditated", "word": "premeditated"}, {"id": "70794", "link": "/find?type=1&query=premeditatedly", "word": "premeditatedly"}, {"id": "70794", "link": "/find?type=1&query=premeditation", "word": "premeditation"}, {"id": "70794", "link": "/find?type=1&query=premeditative", "word": "premeditative"}, {"id": "70794", "link": "/find?type=1&query=premeditator", "word": "premeditator"}], "best": {"id": "70794", "details": "\n<div id=\"find_word_70794\" class=\"world word_en\" rel=\"premed\">\n    <h2 class=\"fl\">premed <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70794\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70794\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) c\u00f3 ch\u1ee7 t\u00e2m, m\u01b0u t\u00ednh tr\u01b0\u1edbc</div>\n    \n</div>\n", "link": "/find?type=1&query=premed", "word": "premed"}}, "mUrl": "/find?type=1&query=premeds", "enEnData": {"suggests": [{"id": "22740", "link": "/find?type=3&query=premeditated", "word": "premeditated"}], "best": {"id": "22740", "details": "\n<div id=\"find_word_22740\" class=\"world word_en\" rel=\"premed\">\n    <h2 class=\"fl\">premed <span class=\"color-black\">/\u02c8pri\u02d0\u02c8m\u025bd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22740\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22740\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] US :a course of study at a college or university that prepares students to enter medical school</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She majored in premed.</div>\n    \n</div>\n", "link": "/find?type=3&query=premed", "word": "premed"}}, "ftype": "1", "synData": {"suggests": [{"id": "5788", "link": "/find?type=4&query=premeditated", "word": "premeditated"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] US :a course of study at a college or university that prepares students to enter medical school</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She majored in premed.</div>",
+            "id": "22740",
+            "mean": [],
+            "pronounce": "/\u02c8pri\u02d0\u02c8m\u025bd/",
+            "type": "noun",
+            "word": "premed"
+        },
+        "suggests": [
+            {
+                "id": "22740",
+                "link": "/find?type=3&query=premeditated",
+                "word": "premeditated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u00f4ng t\u1ee5c) c\u00f3 ch\u1ee7 t\u00e2m, m\u01b0u t\u00ednh tr\u01b0\u1edbc</div>",
+            "id": "70794",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e5381e8070c3fe54e0051b945f9efaad/16e62d232c4/P/premed.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4881bc2c9490e6411eb987131d518d82/16e62d22ceb/P/premed.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "premed"
+        },
+        "suggests": [
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premedical",
+                "word": "premedical"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premedication",
+                "word": "premedication"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premeditate",
+                "word": "premeditate"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premeditated",
+                "word": "premeditated"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premeditatedly",
+                "word": "premeditatedly"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premeditation",
+                "word": "premeditation"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premeditative",
+                "word": "premeditative"
+            },
+            {
+                "id": "70794",
+                "link": "/find?type=1&query=premeditator",
+                "word": "premeditator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5788",
+                "link": "/find?type=4&query=premeditated",
+                "word": "premeditated"
+            }
+        ]
+    }
+}

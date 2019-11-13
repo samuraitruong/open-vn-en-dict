@@ -1,1 +1,62 @@
-{"error": 0, "query": "preponder", "enViData": {"suggests": [{"id": "70879", "link": "/find?type=1&query=preponderance", "word": "preponderance"}, {"id": "70880", "link": "/find?type=1&query=preponderant", "word": "preponderant"}, {"id": "70881", "link": "/find?type=1&query=preponderantly", "word": "preponderantly"}, {"id": "70882", "link": "/find?type=1&query=preponderate", "word": "preponderate"}, {"id": "70883", "link": "/find?type=1&query=preponderately", "word": "preponderately"}, {"id": "70884", "link": "/find?type=1&query=preponderation", "word": "preponderation"}]}, "mUrl": "/find?type=1&query=preponder", "enEnData": {"suggests": [{"id": "22773", "link": "/find?type=3&query=preponderance", "word": "preponderance"}, {"id": "22774", "link": "/find?type=3&query=preponderant", "word": "preponderant"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5800", "link": "/find?type=4&query=preponderance", "word": "preponderance"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22773",
+                "link": "/find?type=3&query=preponderance",
+                "word": "preponderance"
+            },
+            {
+                "id": "22774",
+                "link": "/find?type=3&query=preponderant",
+                "word": "preponderant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70879",
+                "link": "/find?type=1&query=preponderance",
+                "word": "preponderance"
+            },
+            {
+                "id": "70880",
+                "link": "/find?type=1&query=preponderant",
+                "word": "preponderant"
+            },
+            {
+                "id": "70881",
+                "link": "/find?type=1&query=preponderantly",
+                "word": "preponderantly"
+            },
+            {
+                "id": "70882",
+                "link": "/find?type=1&query=preponderate",
+                "word": "preponderate"
+            },
+            {
+                "id": "70883",
+                "link": "/find?type=1&query=preponderately",
+                "word": "preponderately"
+            },
+            {
+                "id": "70884",
+                "link": "/find?type=1&query=preponderation",
+                "word": "preponderation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5800",
+                "link": "/find?type=4&query=preponderance",
+                "word": "preponderance"
+            }
+        ]
+    }
+}

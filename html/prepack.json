@@ -1,1 +1,44 @@
-{"error": 0, "query": "prepack", "enViData": {"suggests": [{"id": "70855", "link": "/find?type=1&query=prepackage", "word": "prepackage"}, {"id": "70856", "link": "/find?type=1&query=prepackaged", "word": "prepackaged"}, {"id": "70857", "link": "/find?type=1&query=prepacked", "word": "prepacked"}, {"id": "70858", "link": "/find?type=1&query=prepacks", "word": "prepacks"}]}, "mUrl": "/find?type=1&query=prepack", "enEnData": {"suggests": [{"id": "22763", "link": "/find?type=3&query=prepackage", "word": "prepackage"}], "best": {"id": "22763", "details": "\n<div id=\"find_word_22763\" class=\"world word_en\" rel=\"prepack\">\n    <h2 class=\"fl\">prepack <span class=\"color-black\">/\u02ccpri\u02d0\u02c8p\u00e6k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22763\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22763\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-packs; -packed; -packing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :prepackage</div>\n    \n    <div class=\"green margin25 m-top15\">usually used as (be) prepacked</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The sandwiches are prepacked.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">prepacked meals</div>\n    \n</div>\n", "link": "/find?type=3&query=prepack", "word": "prepack"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-packs; -packed; -packing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :prepackage</div>\n    \n    <div class=\"green margin25 m-top15\">usually used as (be) prepacked</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The sandwiches are prepacked.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">prepacked meals</div>",
+            "id": "22763",
+            "mean": [],
+            "pronounce": "/\u02ccpri\u02d0\u02c8p\u00e6k/",
+            "type": "verb",
+            "word": "prepack"
+        },
+        "suggests": [
+            {
+                "id": "22763",
+                "link": "/find?type=3&query=prepackage",
+                "word": "prepackage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70855",
+                "link": "/find?type=1&query=prepackage",
+                "word": "prepackage"
+            },
+            {
+                "id": "70856",
+                "link": "/find?type=1&query=prepackaged",
+                "word": "prepackaged"
+            },
+            {
+                "id": "70857",
+                "link": "/find?type=1&query=prepacked",
+                "word": "prepacked"
+            },
+            {
+                "id": "70858",
+                "link": "/find?type=1&query=prepacks",
+                "word": "prepacks"
+            }
+        ]
+    }
+}

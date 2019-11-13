@@ -1,1 +1,42 @@
-{"error": 0, "query": "preposter", "enViData": {"suggests": [{"id": "70896", "link": "/find?type=1&query=preposterous", "word": "preposterous"}, {"id": "70897", "link": "/find?type=1&query=preposterously", "word": "preposterously"}, {"id": "70898", "link": "/find?type=1&query=preposterousness", "word": "preposterousness"}]}, "mUrl": "/find?type=1&query=preposter", "enEnData": {"suggests": [{"id": "22778", "link": "/find?type=3&query=preposterous", "word": "preposterous"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5802", "link": "/find?type=4&query=preposterous", "word": "preposterous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22778",
+                "link": "/find?type=3&query=preposterous",
+                "word": "preposterous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70896",
+                "link": "/find?type=1&query=preposterous",
+                "word": "preposterous"
+            },
+            {
+                "id": "70897",
+                "link": "/find?type=1&query=preposterously",
+                "word": "preposterously"
+            },
+            {
+                "id": "70898",
+                "link": "/find?type=1&query=preposterousness",
+                "word": "preposterousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5802",
+                "link": "/find?type=4&query=preposterous",
+                "word": "preposterous"
+            }
+        ]
+    }
+}

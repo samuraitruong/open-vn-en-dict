@@ -1,1 +1,40 @@
-{"error": 0, "query": "premenstrual", "enViData": {"suggests": [{"id": "70804", "link": "/find?type=1&query=premenstrual+tension", "word": "premenstrual tension"}], "best": {"id": "70804", "details": "\n<div id=\"find_word_70804\" class=\"world word_en\" rel=\"premenstrual\">\n    <h2 class=\"fl\">premenstrual <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70804\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70804\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) xem premenstrua</div>\n    \n</div>\n", "link": "/find?type=1&query=premenstrual", "word": "premenstrual"}}, "mUrl": "/find?type=1&query=premenstrual", "enEnData": {"suggests": [{"id": "22742", "link": "/find?type=3&query=premenstrual+syndrome", "word": "premenstrual syndrome"}], "best": {"id": "22742", "details": "\n<div id=\"find_word_22742\" class=\"world word_en\" rel=\"premenstrual\">\n    <h2 class=\"fl\">premenstrual <span class=\"color-black\">/\u02ccpri\u02d0\u02c8m\u025bnstr\u0259w\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22742\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22742\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">happening just before a woman's menstrual period :before menstruation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">premenstrual symptoms</div>\n    \n</div>\n", "link": "/find?type=3&query=premenstrual", "word": "premenstrual"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">happening just before a woman's menstrual period :before menstruation</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">premenstrual symptoms</div>",
+            "id": "22742",
+            "mean": [],
+            "pronounce": "/\u02ccpri\u02d0\u02c8m\u025bnstr\u0259w\u0259l/",
+            "type": "adjective",
+            "word": "premenstrual"
+        },
+        "suggests": [
+            {
+                "id": "22742",
+                "link": "/find?type=3&query=premenstrual+syndrome",
+                "word": "premenstrual syndrome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) xem premenstrua</div>",
+            "id": "70804",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a82ca9926dcaed8f577e5068fe5f5095/16e62d23bcf/P/premenstrual.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6a1896778069f8f3f865b4466c4f2334/16e62d235ca/P/premenstrual.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "premenstrual"
+        },
+        "suggests": [
+            {
+                "id": "70804",
+                "link": "/find?type=1&query=premenstrual+tension",
+                "word": "premenstrual tension"
+            }
+        ]
+    }
+}
