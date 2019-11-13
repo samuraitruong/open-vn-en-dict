@@ -1,1 +1,92 @@
-{"error": 0, "query": "retied", "enViData": {"suggests": [{"id": "76983", "link": "/find?type=1&query=retyre", "word": "retyre"}]}, "mUrl": "/find?type=1&query=retied", "enEnData": {"suggests": [{"id": "24745", "link": "/find?type=3&query=reticent", "word": "reticent"}, {"id": "24746", "link": "/find?type=3&query=retina", "word": "retina"}, {"id": "24747", "link": "/find?type=3&query=retinue", "word": "retinue"}, {"id": "24748", "link": "/find?type=3&query=retire", "word": "retire"}, {"id": "24749", "link": "/find?type=3&query=retired", "word": "retired"}, {"id": "24750", "link": "/find?type=3&query=retiree", "word": "retiree"}, {"id": "24751", "link": "/find?type=3&query=retirement", "word": "retirement"}, {"id": "24752", "link": "/find?type=3&query=retirement+home", "word": "retirement home"}, {"id": "24753", "link": "/find?type=3&query=retirement+plan", "word": "retirement plan"}, {"id": "24754", "link": "/find?type=3&query=retiring", "word": "retiring"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6582", "link": "/find?type=4&query=reticent", "word": "reticent"}, {"id": "6583", "link": "/find?type=4&query=retinue", "word": "retinue"}, {"id": "6584", "link": "/find?type=4&query=retire", "word": "retire"}, {"id": "6585", "link": "/find?type=4&query=retiring", "word": "retiring"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24745",
+                "link": "/find?type=3&query=reticent",
+                "word": "reticent"
+            },
+            {
+                "id": "24746",
+                "link": "/find?type=3&query=retina",
+                "word": "retina"
+            },
+            {
+                "id": "24747",
+                "link": "/find?type=3&query=retinue",
+                "word": "retinue"
+            },
+            {
+                "id": "24748",
+                "link": "/find?type=3&query=retire",
+                "word": "retire"
+            },
+            {
+                "id": "24749",
+                "link": "/find?type=3&query=retired",
+                "word": "retired"
+            },
+            {
+                "id": "24750",
+                "link": "/find?type=3&query=retiree",
+                "word": "retiree"
+            },
+            {
+                "id": "24751",
+                "link": "/find?type=3&query=retirement",
+                "word": "retirement"
+            },
+            {
+                "id": "24752",
+                "link": "/find?type=3&query=retirement+home",
+                "word": "retirement home"
+            },
+            {
+                "id": "24753",
+                "link": "/find?type=3&query=retirement+plan",
+                "word": "retirement plan"
+            },
+            {
+                "id": "24754",
+                "link": "/find?type=3&query=retiring",
+                "word": "retiring"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76983",
+                "link": "/find?type=1&query=retyre",
+                "word": "retyre"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6582",
+                "link": "/find?type=4&query=reticent",
+                "word": "reticent"
+            },
+            {
+                "id": "6583",
+                "link": "/find?type=4&query=retinue",
+                "word": "retinue"
+            },
+            {
+                "id": "6584",
+                "link": "/find?type=4&query=retire",
+                "word": "retire"
+            },
+            {
+                "id": "6585",
+                "link": "/find?type=4&query=retiring",
+                "word": "retiring"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"error": 0, "query": "retributing", "enViData": {"suggests": [{"id": "76898", "link": "/find?type=1&query=retribution", "word": "retribution"}, {"id": "76899", "link": "/find?type=1&query=retributive", "word": "retributive"}, {"id": "76900", "link": "/find?type=1&query=retributory", "word": "retributory"}]}, "mUrl": "/find?type=1&query=retributing", "enEnData": {"suggests": [{"id": "24766", "link": "/find?type=3&query=retribution", "word": "retribution"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6590", "link": "/find?type=4&query=retribution", "word": "retribution"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24766",
+                "link": "/find?type=3&query=retribution",
+                "word": "retribution"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76898",
+                "link": "/find?type=1&query=retribution",
+                "word": "retribution"
+            },
+            {
+                "id": "76899",
+                "link": "/find?type=1&query=retributive",
+                "word": "retributive"
+            },
+            {
+                "id": "76900",
+                "link": "/find?type=1&query=retributory",
+                "word": "retributory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6590",
+                "link": "/find?type=4&query=retribution",
+                "word": "retribution"
+            }
+        ]
+    }
+}
