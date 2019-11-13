@@ -1,1 +1,65 @@
-{"error": 0, "query": "radians", "enViData": {"suggests": [{"id": "74218", "link": "/find?type=1&query=radiance", "word": "radiance"}, {"id": "74218", "link": "/find?type=1&query=radiancy", "word": "radiancy"}, {"id": "74218", "link": "/find?type=1&query=radiant", "word": "radiant"}, {"id": "74218", "link": "/find?type=1&query=radiantly", "word": "radiantly"}], "best": {"id": "74218", "details": "\n<div id=\"find_word_74218\" class=\"world word_en\" rel=\"radian\">\n    <h2 class=\"fl\">radian <span class=\"color-black\">/'reidj\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74218\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74218\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) Ra\u0111ian</div>\n    \n</div>\n", "link": "/find?type=1&query=radian", "word": "radian"}}, "mUrl": "/find?type=1&query=radians", "enEnData": {"suggests": [{"id": "23732", "link": "/find?type=3&query=radiance", "word": "radiance"}, {"id": "23733", "link": "/find?type=3&query=radiant", "word": "radiant"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6175", "link": "/find?type=4&query=radiance", "word": "radiance"}, {"id": "6176", "link": "/find?type=4&query=radiant", "word": "radiant"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23732",
+                "link": "/find?type=3&query=radiance",
+                "word": "radiance"
+            },
+            {
+                "id": "23733",
+                "link": "/find?type=3&query=radiant",
+                "word": "radiant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) Ra\u0111ian</div>",
+            "id": "74218",
+            "mean": [],
+            "pronounce": "/'reidj\u0259n/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "radian"
+        },
+        "suggests": [
+            {
+                "id": "74218",
+                "link": "/find?type=1&query=radiance",
+                "word": "radiance"
+            },
+            {
+                "id": "74218",
+                "link": "/find?type=1&query=radiancy",
+                "word": "radiancy"
+            },
+            {
+                "id": "74218",
+                "link": "/find?type=1&query=radiant",
+                "word": "radiant"
+            },
+            {
+                "id": "74218",
+                "link": "/find?type=1&query=radiantly",
+                "word": "radiantly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6175",
+                "link": "/find?type=4&query=radiance",
+                "word": "radiance"
+            },
+            {
+                "id": "6176",
+                "link": "/find?type=4&query=radiant",
+                "word": "radiant"
+            }
+        ]
+    }
+}

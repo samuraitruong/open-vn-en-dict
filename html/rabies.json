@@ -1,1 +1,28 @@
-{"error": 0, "query": "rabies", "enViData": {"suggests": [], "best": {"id": "74142", "details": "\n<div id=\"find_word_74142\" class=\"world word_en\" rel=\"rabies\">\n    <h2 class=\"fl\">rabies <span class=\"color-black\">/'reibi:z/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74142\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74142\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh d\u1ea1i</div>\n    \n</div>\n", "link": "/find?type=1&query=rabies", "word": "rabies"}}, "mUrl": "/find?type=1&query=rabies", "enEnData": {"suggests": [], "best": {"id": "23704", "details": "\n<div id=\"find_word_23704\" class=\"world word_en\" rel=\"rabies\">\n    <h2 class=\"fl\">rabies <span class=\"color-black\">/\u02c8re\u026abiz/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23704\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23704\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a very serious and often fatal disease that affects animals (such as dogs) and that can be passed on to people if an infected animal bites them</div>\n    \n</div>\n", "link": "/find?type=3&query=rabies", "word": "rabies"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a very serious and often fatal disease that affects animals (such as dogs) and that can be passed on to people if an infected animal bites them</div>",
+            "id": "23704",
+            "mean": [],
+            "pronounce": "/\u02c8re\u026abiz/",
+            "type": "noun",
+            "word": "rabies"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh d\u1ea1i</div>",
+            "id": "74142",
+            "mean": [],
+            "pronounce": "/'reibi:z/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/81822cea159183cfb030edebce364ca7/16e62dc9855/R/rabies.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a2cf2ca941833de99db9b01121bae14a/16e62dc926a/R/rabies.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "rabies"
+        },
+        "suggests": []
+    }
+}

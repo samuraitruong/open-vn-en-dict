@@ -1,1 +1,127 @@
-{"error": 0, "query": "rab", "enViData": {"suggests": [{"id": "74111", "link": "/find?type=1&query=rabban", "word": "rabban"}, {"id": "74112", "link": "/find?type=1&query=rabbet", "word": "rabbet"}, {"id": "74113", "link": "/find?type=1&query=rabbet-joint", "word": "rabbet-joint"}, {"id": "74114", "link": "/find?type=1&query=rabbet-plane", "word": "rabbet-plane"}, {"id": "74115", "link": "/find?type=1&query=rabbet-saw", "word": "rabbet-saw"}, {"id": "74116", "link": "/find?type=1&query=rabbi", "word": "rabbi"}, {"id": "74117", "link": "/find?type=1&query=rabbin", "word": "rabbin"}, {"id": "74118", "link": "/find?type=1&query=rabbinate", "word": "rabbinate"}, {"id": "74119", "link": "/find?type=1&query=rabbinic", "word": "rabbinic"}, {"id": "74120", "link": "/find?type=1&query=rabbinical", "word": "rabbinical"}]}, "mUrl": "/find?type=1&query=rab", "enEnData": {"suggests": [{"id": "23696", "link": "/find?type=3&query=rabbi", "word": "rabbi"}, {"id": "23697", "link": "/find?type=3&query=rabbinic", "word": "rabbinic"}, {"id": "23698", "link": "/find?type=3&query=rabbit", "word": "rabbit"}, {"id": "23699", "link": "/find?type=3&query=rabbit+punch", "word": "rabbit punch"}, {"id": "23700", "link": "/find?type=3&query=rabbit+warren", "word": "rabbit warren"}, {"id": "23701", "link": "/find?type=3&query=rabble", "word": "rabble"}, {"id": "23702", "link": "/find?type=3&query=rabble-rouser", "word": "rabble-rouser"}, {"id": "23703", "link": "/find?type=3&query=rabid", "word": "rabid"}, {"id": "23704", "link": "/find?type=3&query=rabies", "word": "rabies"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6165", "link": "/find?type=4&query=rabble", "word": "rabble"}, {"id": "6166", "link": "/find?type=4&query=rabble-rouser", "word": "rabble-rouser"}, {"id": "6167", "link": "/find?type=4&query=rabid", "word": "rabid"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23696",
+                "link": "/find?type=3&query=rabbi",
+                "word": "rabbi"
+            },
+            {
+                "id": "23697",
+                "link": "/find?type=3&query=rabbinic",
+                "word": "rabbinic"
+            },
+            {
+                "id": "23698",
+                "link": "/find?type=3&query=rabbit",
+                "word": "rabbit"
+            },
+            {
+                "id": "23699",
+                "link": "/find?type=3&query=rabbit+punch",
+                "word": "rabbit punch"
+            },
+            {
+                "id": "23700",
+                "link": "/find?type=3&query=rabbit+warren",
+                "word": "rabbit warren"
+            },
+            {
+                "id": "23701",
+                "link": "/find?type=3&query=rabble",
+                "word": "rabble"
+            },
+            {
+                "id": "23702",
+                "link": "/find?type=3&query=rabble-rouser",
+                "word": "rabble-rouser"
+            },
+            {
+                "id": "23703",
+                "link": "/find?type=3&query=rabid",
+                "word": "rabid"
+            },
+            {
+                "id": "23704",
+                "link": "/find?type=3&query=rabies",
+                "word": "rabies"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74111",
+                "link": "/find?type=1&query=rabban",
+                "word": "rabban"
+            },
+            {
+                "id": "74112",
+                "link": "/find?type=1&query=rabbet",
+                "word": "rabbet"
+            },
+            {
+                "id": "74113",
+                "link": "/find?type=1&query=rabbet-joint",
+                "word": "rabbet-joint"
+            },
+            {
+                "id": "74114",
+                "link": "/find?type=1&query=rabbet-plane",
+                "word": "rabbet-plane"
+            },
+            {
+                "id": "74115",
+                "link": "/find?type=1&query=rabbet-saw",
+                "word": "rabbet-saw"
+            },
+            {
+                "id": "74116",
+                "link": "/find?type=1&query=rabbi",
+                "word": "rabbi"
+            },
+            {
+                "id": "74117",
+                "link": "/find?type=1&query=rabbin",
+                "word": "rabbin"
+            },
+            {
+                "id": "74118",
+                "link": "/find?type=1&query=rabbinate",
+                "word": "rabbinate"
+            },
+            {
+                "id": "74119",
+                "link": "/find?type=1&query=rabbinic",
+                "word": "rabbinic"
+            },
+            {
+                "id": "74120",
+                "link": "/find?type=1&query=rabbinical",
+                "word": "rabbinical"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6165",
+                "link": "/find?type=4&query=rabble",
+                "word": "rabble"
+            },
+            {
+                "id": "6166",
+                "link": "/find?type=4&query=rabble-rouser",
+                "word": "rabble-rouser"
+            },
+            {
+                "id": "6167",
+                "link": "/find?type=4&query=rabid",
+                "word": "rabid"
+            }
+        ]
+    }
+}

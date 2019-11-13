@@ -1,1 +1,47 @@
-{"error": 0, "query": "quizzed", "enViData": {"suggests": [{"id": "74072", "link": "/find?type=1&query=quizzee", "word": "quizzee"}, {"id": "74073", "link": "/find?type=1&query=quizzeer", "word": "quizzeer"}, {"id": "74074", "link": "/find?type=1&query=quizzer", "word": "quizzer"}, {"id": "74075", "link": "/find?type=1&query=quizzes", "word": "quizzes"}]}, "mUrl": "/find?type=1&query=quizzed", "enEnData": {"suggests": [{"id": "23675", "link": "/find?type=3&query=quizzical", "word": "quizzical"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6160", "link": "/find?type=4&query=quizzical", "word": "quizzical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23675",
+                "link": "/find?type=3&query=quizzical",
+                "word": "quizzical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74072",
+                "link": "/find?type=1&query=quizzee",
+                "word": "quizzee"
+            },
+            {
+                "id": "74073",
+                "link": "/find?type=1&query=quizzeer",
+                "word": "quizzeer"
+            },
+            {
+                "id": "74074",
+                "link": "/find?type=1&query=quizzer",
+                "word": "quizzer"
+            },
+            {
+                "id": "74075",
+                "link": "/find?type=1&query=quizzes",
+                "word": "quizzes"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6160",
+                "link": "/find?type=4&query=quizzical",
+                "word": "quizzical"
+            }
+        ]
+    }
+}

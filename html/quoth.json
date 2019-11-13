@@ -1,1 +1,28 @@
-{"error": 0, "query": "quoth", "enViData": {"suggests": [], "best": {"id": "74096", "details": "\n<div id=\"find_word_74096\" class=\"world word_en\" rel=\"quoth\">\n    <h2 class=\"fl\">quoth <span class=\"color-black\">/kw\u0259\u028a\u03b8/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74096\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74096\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(ch\u1ec9 d\u00f9ng ng\u00f4i 1 v\u00e0 ng\u00f4i s\u1ed1 3 \u00edt th\u00ec qu\u00e1 kh\u1ee9)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e3 n\u00f3i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">quoth he/she</div>\n    \n    <div class=\"margin25\">anh ta (ch\u1ecb ta) \u0111\u00e3 n\u00f3i</div>\n    \n</div>\n", "link": "/find?type=1&query=quoth", "word": "quoth"}}, "mUrl": "/find?type=1&query=quoth", "enEnData": {"suggests": [], "best": {"id": "23684", "details": "\n<div id=\"find_word_23684\" class=\"world word_en\" rel=\"quoth\">\n    <h2 class=\"fl\">quoth <span class=\"color-black\">/\u02c8kwo\u028a\u0275/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23684\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23684\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"green margin25 m-top15\">old-fashioned + literary - used to mean said in phrases like quoth I, quoth he, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">What a fool, quoth he. [=what a fool, he said]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Quoth the raven, Nevermore. Edgar Allan Poe, The Raven (1845) -</div>\n    \n</div>\n", "link": "/find?type=3&query=quoth", "word": "quoth"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"green margin25 m-top15\">old-fashioned + literary - used to mean said in phrases like quoth I, quoth he, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">What a fool, quoth he. [=what a fool, he said]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Quoth the raven, Nevermore. Edgar Allan Poe, The Raven (1845) -</div>",
+            "id": "23684",
+            "mean": [],
+            "pronounce": "/\u02c8kwo\u028a\u0275/",
+            "type": "verb",
+            "word": "quoth"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(ch\u1ec9 d\u00f9ng ng\u00f4i 1 v\u00e0 ng\u00f4i s\u1ed1 3 \u00edt th\u00ec qu\u00e1 kh\u1ee9)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e3 n\u00f3i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">quoth he/she</div>\n    \n    <div class=\"margin25\">anh ta (ch\u1ecb ta) \u0111\u00e3 n\u00f3i</div>",
+            "id": "74096",
+            "mean": [],
+            "pronounce": "/kw\u0259\u028a\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ca8e3604f77dbb0ce310e5e5f7440abe/16e62dc772d/Q/quoth.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2d4071ca8b6745247b91974f234dfa60/16e62dc713f/Q/quoth.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "quoth"
+        },
+        "suggests": []
+    }
+}

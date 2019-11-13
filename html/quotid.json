@@ -1,1 +1,22 @@
-{"error": 0, "query": "quotid", "enViData": {"suggests": [{"id": "74097", "link": "/find?type=1&query=quotidian", "word": "quotidian"}]}, "mUrl": "/find?type=1&query=quotid", "enEnData": {"suggests": [{"id": "23685", "link": "/find?type=3&query=quotidian", "word": "quotidian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23685",
+                "link": "/find?type=3&query=quotidian",
+                "word": "quotidian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74097",
+                "link": "/find?type=1&query=quotidian",
+                "word": "quotidian"
+            }
+        ]
+    }
+}

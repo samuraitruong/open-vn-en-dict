@@ -1,1 +1,42 @@
-{"error": 0, "query": "quintus", "enViData": {"suggests": [{"id": "74035", "link": "/find?type=1&query=quintuple", "word": "quintuple"}, {"id": "74036", "link": "/find?type=1&query=quintuplet", "word": "quintuplet"}, {"id": "74037", "link": "/find?type=1&query=quintuplicate", "word": "quintuplicate"}, {"id": "74038", "link": "/find?type=1&query=quintuply", "word": "quintuply"}]}, "mUrl": "/find?type=1&query=quintus", "enEnData": {"suggests": [{"id": "23660", "link": "/find?type=3&query=quintuple", "word": "quintuple"}, {"id": "23661", "link": "/find?type=3&query=quintuplet", "word": "quintuplet"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23660",
+                "link": "/find?type=3&query=quintuple",
+                "word": "quintuple"
+            },
+            {
+                "id": "23661",
+                "link": "/find?type=3&query=quintuplet",
+                "word": "quintuplet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74035",
+                "link": "/find?type=1&query=quintuple",
+                "word": "quintuple"
+            },
+            {
+                "id": "74036",
+                "link": "/find?type=1&query=quintuplet",
+                "word": "quintuplet"
+            },
+            {
+                "id": "74037",
+                "link": "/find?type=1&query=quintuplicate",
+                "word": "quintuplicate"
+            },
+            {
+                "id": "74038",
+                "link": "/find?type=1&query=quintuply",
+                "word": "quintuply"
+            }
+        ]
+    }
+}

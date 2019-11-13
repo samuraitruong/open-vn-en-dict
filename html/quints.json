@@ -1,1 +1,56 @@
-{"error": 0, "query": "quints", "enViData": {"suggests": [], "best": {"id": "74034", "details": "\n<div id=\"find_word_74034\" class=\"world word_en\" rel=\"quints\">\n    <h2 class=\"fl\">quints <span class=\"color-black\">/kwints/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74034\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74034\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) (vi\u1ebft t\u1eaft) c\u1ee7a quintuplets ((xem) quintuplet)</div>\n    \n</div>\n", "link": "/find?type=1&query=quints", "word": "quints"}}, "mUrl": "/find?type=1&query=quints", "enEnData": {"suggests": [{"id": "23657", "link": "/find?type=3&query=quintessence", "word": "quintessence"}, {"id": "23657", "link": "/find?type=3&query=quintet", "word": "quintet"}, {"id": "23657", "link": "/find?type=3&query=quintuple", "word": "quintuple"}, {"id": "23657", "link": "/find?type=3&query=quintuplet", "word": "quintuplet"}], "best": {"id": "23657", "details": "\n<div id=\"find_word_23657\" class=\"world word_en\" rel=\"quint\">\n    <h2 class=\"fl\">quint <span class=\"color-black\">/\u02c8kw\u026ant/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23657\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23657\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural quints</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US informal :quintuplet</div>\n    \n</div>\n", "link": "/find?type=3&query=quint", "word": "quint"}}, "ftype": "1", "synData": {"suggests": [{"id": "6152", "link": "/find?type=4&query=quintessence", "word": "quintessence"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural quints</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US informal :quintuplet</div>",
+            "id": "23657",
+            "mean": [],
+            "pronounce": "/\u02c8kw\u026ant/",
+            "type": "noun",
+            "word": "quint"
+        },
+        "suggests": [
+            {
+                "id": "23657",
+                "link": "/find?type=3&query=quintessence",
+                "word": "quintessence"
+            },
+            {
+                "id": "23657",
+                "link": "/find?type=3&query=quintet",
+                "word": "quintet"
+            },
+            {
+                "id": "23657",
+                "link": "/find?type=3&query=quintuple",
+                "word": "quintuple"
+            },
+            {
+                "id": "23657",
+                "link": "/find?type=3&query=quintuplet",
+                "word": "quintuplet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) (vi\u1ebft t\u1eaft) c\u1ee7a quintuplets ((xem) quintuplet)</div>",
+            "id": "74034",
+            "mean": [],
+            "pronounce": "/kwints/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "quints"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6152",
+                "link": "/find?type=4&query=quintessence",
+                "word": "quintessence"
+            }
+        ]
+    }
+}

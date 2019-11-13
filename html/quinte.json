@@ -1,1 +1,57 @@
-{"error": 0, "query": "quinte", "enViData": {"suggests": [{"id": "74025", "link": "/find?type=1&query=quintessence", "word": "quintessence"}, {"id": "74026", "link": "/find?type=1&query=quintessential", "word": "quintessential"}, {"id": "74027", "link": "/find?type=1&query=quintessentially", "word": "quintessentially"}, {"id": "74028", "link": "/find?type=1&query=quintet", "word": "quintet"}, {"id": "74029", "link": "/find?type=1&query=quintette", "word": "quintette"}]}, "mUrl": "/find?type=1&query=quinte", "enEnData": {"suggests": [{"id": "23658", "link": "/find?type=3&query=quintessence", "word": "quintessence"}, {"id": "23659", "link": "/find?type=3&query=quintet", "word": "quintet"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6152", "link": "/find?type=4&query=quintessence", "word": "quintessence"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23658",
+                "link": "/find?type=3&query=quintessence",
+                "word": "quintessence"
+            },
+            {
+                "id": "23659",
+                "link": "/find?type=3&query=quintet",
+                "word": "quintet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74025",
+                "link": "/find?type=1&query=quintessence",
+                "word": "quintessence"
+            },
+            {
+                "id": "74026",
+                "link": "/find?type=1&query=quintessential",
+                "word": "quintessential"
+            },
+            {
+                "id": "74027",
+                "link": "/find?type=1&query=quintessentially",
+                "word": "quintessentially"
+            },
+            {
+                "id": "74028",
+                "link": "/find?type=1&query=quintet",
+                "word": "quintet"
+            },
+            {
+                "id": "74029",
+                "link": "/find?type=1&query=quintette",
+                "word": "quintette"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6152",
+                "link": "/find?type=4&query=quintessence",
+                "word": "quintessence"
+            }
+        ]
+    }
+}
