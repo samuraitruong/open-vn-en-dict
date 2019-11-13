@@ -1,1 +1,32 @@
-{"error": 0, "query": "obligatos", "enViData": {"suggests": [{"id": "61487", "link": "/find?type=1&query=obligatory", "word": "obligatory"}]}, "mUrl": "/find?type=1&query=obligatos", "enEnData": {"suggests": [{"id": "19767", "link": "/find?type=3&query=obligatory", "word": "obligatory"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4956", "link": "/find?type=4&query=obligatory", "word": "obligatory"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19767",
+                "link": "/find?type=3&query=obligatory",
+                "word": "obligatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61487",
+                "link": "/find?type=1&query=obligatory",
+                "word": "obligatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4956",
+                "link": "/find?type=4&query=obligatory",
+                "word": "obligatory"
+            }
+        ]
+    }
+}

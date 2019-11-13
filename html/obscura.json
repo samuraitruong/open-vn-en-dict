@@ -1,1 +1,42 @@
-{"error": 0, "query": "obscura", "enViData": {"suggests": [{"id": "61533", "link": "/find?type=1&query=obscurant", "word": "obscurant"}, {"id": "61534", "link": "/find?type=1&query=obscurantic", "word": "obscurantic"}, {"id": "61535", "link": "/find?type=1&query=obscurantism", "word": "obscurantism"}, {"id": "61536", "link": "/find?type=1&query=obscurantist", "word": "obscurantist"}, {"id": "61537", "link": "/find?type=1&query=obscuration", "word": "obscuration"}]}, "mUrl": "/find?type=1&query=obscura", "enEnData": {"suggests": [{"id": "19782", "link": "/find?type=3&query=obscurantism", "word": "obscurantism"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19782",
+                "link": "/find?type=3&query=obscurantism",
+                "word": "obscurantism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61533",
+                "link": "/find?type=1&query=obscurant",
+                "word": "obscurant"
+            },
+            {
+                "id": "61534",
+                "link": "/find?type=1&query=obscurantic",
+                "word": "obscurantic"
+            },
+            {
+                "id": "61535",
+                "link": "/find?type=1&query=obscurantism",
+                "word": "obscurantism"
+            },
+            {
+                "id": "61536",
+                "link": "/find?type=1&query=obscurantist",
+                "word": "obscurantist"
+            },
+            {
+                "id": "61537",
+                "link": "/find?type=1&query=obscuration",
+                "word": "obscuration"
+            }
+        ]
+    }
+}

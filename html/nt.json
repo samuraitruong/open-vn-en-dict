@@ -1,1 +1,49 @@
-{"error": 0, "query": "nt", "enViData": {"suggests": [{"id": "61153", "link": "/find?type=1&query=nth", "word": "nth"}, {"id": "61153", "link": "/find?type=1&query=Nth", "word": "Nth"}, {"id": "61153", "link": "/find?type=1&query=ntsc", "word": "ntsc"}], "best": {"id": "61153", "details": "\n<div id=\"find_word_61153\" class=\"world word_en\" rel=\"NT\">\n    <h2 class=\"fl\">NT <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61153\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61153\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a New Testtament)</div>\n    \n    <div class=\"green margin25 m-top15\">Kinh T\u00e2n \u01b0\u1edbc</div>\n    \n</div>\n", "link": "/find?type=1&query=NT", "word": "NT"}}, "mUrl": "/find?type=1&query=nt", "enEnData": {"suggests": [{"id": "19636", "link": "/find?type=3&query=nth", "word": "nth"}], "best": {"id": "19636", "details": "\n<div id=\"find_word_19636\" class=\"world word_en\" rel=\"NT\">\n    <h2 class=\"fl\">NT <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19636\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19636\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">New Testament</div>\n    \n    <div class=\"green margin25 m-top15\">Northern Territory</div>\n    \n    <div class=\"green margin25 m-top15\">Northwest Territories</div>\n    \n</div>\n", "link": "/find?type=3&query=NT", "word": "NT"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">New Testament</div>\n    \n    <div class=\"green margin25 m-top15\">Northern Territory</div>\n    \n    <div class=\"green margin25 m-top15\">Northwest Territories</div>",
+            "id": "19636",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "NT"
+        },
+        "suggests": [
+            {
+                "id": "19636",
+                "link": "/find?type=3&query=nth",
+                "word": "nth"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a New Testtament)</div>\n    \n    <div class=\"green margin25 m-top15\">Kinh T\u00e2n \u01b0\u1edbc</div>",
+            "id": "61153",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/47ace58066b1e33f4283a415506e33df/16e62b06ecb/N/NT.mp3"
+            },
+            "type": "",
+            "word": "NT"
+        },
+        "suggests": [
+            {
+                "id": "61153",
+                "link": "/find?type=1&query=nth",
+                "word": "nth"
+            },
+            {
+                "id": "61153",
+                "link": "/find?type=1&query=Nth",
+                "word": "Nth"
+            },
+            {
+                "id": "61153",
+                "link": "/find?type=1&query=ntsc",
+                "word": "ntsc"
+            }
+        ]
+    }
+}

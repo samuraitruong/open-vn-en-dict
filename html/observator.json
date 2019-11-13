@@ -1,1 +1,22 @@
-{"error": 0, "query": "observator", "enViData": {"suggests": [{"id": "61558", "link": "/find?type=1&query=observatory", "word": "observatory"}]}, "mUrl": "/find?type=1&query=observator", "enEnData": {"suggests": [{"id": "19791", "link": "/find?type=3&query=observatory", "word": "observatory"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19791",
+                "link": "/find?type=3&query=observatory",
+                "word": "observatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61558",
+                "link": "/find?type=1&query=observatory",
+                "word": "observatory"
+            }
+        ]
+    }
+}
