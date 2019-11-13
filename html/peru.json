@@ -1,1 +1,62 @@
-{"error": 0, "query": "peru", "enViData": {"suggests": [{"id": "66978", "link": "/find?type=1&query=peruke", "word": "peruke"}, {"id": "66979", "link": "/find?type=1&query=perusable", "word": "perusable"}, {"id": "66980", "link": "/find?type=1&query=perusal", "word": "perusal"}, {"id": "66981", "link": "/find?type=1&query=peruse", "word": "peruse"}, {"id": "66982", "link": "/find?type=1&query=peruser", "word": "peruser"}, {"id": "66983", "link": "/find?type=1&query=peruvian", "word": "peruvian"}]}, "mUrl": "/find?type=1&query=peru", "enEnData": {"suggests": [{"id": "21502", "link": "/find?type=3&query=peruse", "word": "peruse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5468", "link": "/find?type=4&query=perusal", "word": "perusal"}, {"id": "5469", "link": "/find?type=4&query=peruse", "word": "peruse"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21502",
+                "link": "/find?type=3&query=peruse",
+                "word": "peruse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66978",
+                "link": "/find?type=1&query=peruke",
+                "word": "peruke"
+            },
+            {
+                "id": "66979",
+                "link": "/find?type=1&query=perusable",
+                "word": "perusable"
+            },
+            {
+                "id": "66980",
+                "link": "/find?type=1&query=perusal",
+                "word": "perusal"
+            },
+            {
+                "id": "66981",
+                "link": "/find?type=1&query=peruse",
+                "word": "peruse"
+            },
+            {
+                "id": "66982",
+                "link": "/find?type=1&query=peruser",
+                "word": "peruser"
+            },
+            {
+                "id": "66983",
+                "link": "/find?type=1&query=peruvian",
+                "word": "peruvian"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5468",
+                "link": "/find?type=4&query=perusal",
+                "word": "perusal"
+            },
+            {
+                "id": "5469",
+                "link": "/find?type=4&query=peruse",
+                "word": "peruse"
+            }
+        ]
+    }
+}
