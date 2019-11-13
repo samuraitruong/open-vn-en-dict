@@ -1,1 +1,72 @@
-{"error": 0, "query": "kees", "enViData": {"suggests": [{"id": "51483", "link": "/find?type=1&query=keeshond", "word": "keeshond"}]}, "mUrl": "/find?type=1&query=kees", "enEnData": {"suggests": [{"id": "15823", "link": "/find?type=3&query=keel", "word": "keel"}, {"id": "15824", "link": "/find?type=3&query=keen", "word": "keen"}, {"id": "15825", "link": "/find?type=3&query=keep", "word": "keep"}, {"id": "15826", "link": "/find?type=3&query=keeper", "word": "keeper"}, {"id": "15827", "link": "/find?type=3&query=keeping", "word": "keeping"}, {"id": "15828", "link": "/find?type=3&query=keepsake", "word": "keepsake"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4027", "link": "/find?type=4&query=keen", "word": "keen"}, {"id": "4028", "link": "/find?type=4&query=keep", "word": "keep"}, {"id": "4029", "link": "/find?type=4&query=keeper", "word": "keeper"}, {"id": "4030", "link": "/find?type=4&query=keepsake", "word": "keepsake"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15823",
+                "link": "/find?type=3&query=keel",
+                "word": "keel"
+            },
+            {
+                "id": "15824",
+                "link": "/find?type=3&query=keen",
+                "word": "keen"
+            },
+            {
+                "id": "15825",
+                "link": "/find?type=3&query=keep",
+                "word": "keep"
+            },
+            {
+                "id": "15826",
+                "link": "/find?type=3&query=keeper",
+                "word": "keeper"
+            },
+            {
+                "id": "15827",
+                "link": "/find?type=3&query=keeping",
+                "word": "keeping"
+            },
+            {
+                "id": "15828",
+                "link": "/find?type=3&query=keepsake",
+                "word": "keepsake"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51483",
+                "link": "/find?type=1&query=keeshond",
+                "word": "keeshond"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4027",
+                "link": "/find?type=4&query=keen",
+                "word": "keen"
+            },
+            {
+                "id": "4028",
+                "link": "/find?type=4&query=keep",
+                "word": "keep"
+            },
+            {
+                "id": "4029",
+                "link": "/find?type=4&query=keeper",
+                "word": "keeper"
+            },
+            {
+                "id": "4030",
+                "link": "/find?type=4&query=keepsake",
+                "word": "keepsake"
+            }
+        ]
+    }
+}

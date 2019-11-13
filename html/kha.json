@@ -1,1 +1,57 @@
-{"error": 0, "query": "kha", "enViData": {"suggests": [{"id": "51600", "link": "/find?type=1&query=khaddar", "word": "khaddar"}, {"id": "51601", "link": "/find?type=1&query=khaki", "word": "khaki"}, {"id": "51602", "link": "/find?type=1&query=khalifa", "word": "khalifa"}, {"id": "51603", "link": "/find?type=1&query=khalka", "word": "khalka"}, {"id": "51604", "link": "/find?type=1&query=khamsin", "word": "khamsin"}, {"id": "51605", "link": "/find?type=1&query=khan", "word": "khan"}, {"id": "51606", "link": "/find?type=1&query=khanate", "word": "khanate"}, {"id": "51607", "link": "/find?type=1&query=khat", "word": "khat"}]}, "mUrl": "/find?type=1&query=kha", "enEnData": {"suggests": [{"id": "15861", "link": "/find?type=3&query=khaki", "word": "khaki"}]}, "viEnData": {"suggests": [{"id": "17093", "link": "/find?type=2&query=kha+kh%C3%A1", "word": "kha kh\u00e1"}, {"id": "17146", "link": "/find?type=2&query=khai", "word": "khai"}, {"id": "17148", "link": "/find?type=2&query=khai+%E1%BA%A5n", "word": "khai \u1ea5n"}, {"id": "17149", "link": "/find?type=2&query=khai+b%C3%A1o", "word": "khai b\u00e1o"}, {"id": "17150", "link": "/find?type=2&query=khai+b%C3%BAt", "word": "khai b\u00fat"}, {"id": "17152", "link": "/find?type=2&query=khai+c%C4%83n", "word": "khai c\u0103n"}, {"id": "17153", "link": "/find?type=2&query=khai+canh", "word": "khai canh"}, {"id": "17154", "link": "/find?type=2&query=khai+chi%E1%BA%BFn", "word": "khai chi\u1ebfn"}, {"id": "17155", "link": "/find?type=2&query=khai+%C4%91ao", "word": "khai \u0111ao"}, {"id": "17156", "link": "/find?type=2&query=khai+di%E1%BB%85n", "word": "khai di\u1ec5n"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15861",
+                "link": "/find?type=3&query=khaki",
+                "word": "khaki"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51600",
+                "link": "/find?type=1&query=khaddar",
+                "word": "khaddar"
+            },
+            {
+                "id": "51601",
+                "link": "/find?type=1&query=khaki",
+                "word": "khaki"
+            },
+            {
+                "id": "51602",
+                "link": "/find?type=1&query=khalifa",
+                "word": "khalifa"
+            },
+            {
+                "id": "51603",
+                "link": "/find?type=1&query=khalka",
+                "word": "khalka"
+            },
+            {
+                "id": "51604",
+                "link": "/find?type=1&query=khamsin",
+                "word": "khamsin"
+            },
+            {
+                "id": "51605",
+                "link": "/find?type=1&query=khan",
+                "word": "khan"
+            },
+            {
+                "id": "51606",
+                "link": "/find?type=1&query=khanate",
+                "word": "khanate"
+            },
+            {
+                "id": "51607",
+                "link": "/find?type=1&query=khat",
+                "word": "khat"
+            }
+        ]
+    }
+}

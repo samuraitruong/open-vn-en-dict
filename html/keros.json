@@ -1,1 +1,27 @@
-{"error": 0, "query": "keros", "enViData": {"suggests": [{"id": "51551", "link": "/find?type=1&query=kerosene", "word": "kerosene"}, {"id": "51552", "link": "/find?type=1&query=kerosine", "word": "kerosine"}]}, "mUrl": "/find?type=1&query=keros", "enEnData": {"suggests": [{"id": "15838", "link": "/find?type=3&query=kerosene", "word": "kerosene"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15838",
+                "link": "/find?type=3&query=kerosene",
+                "word": "kerosene"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51551",
+                "link": "/find?type=1&query=kerosene",
+                "word": "kerosene"
+            },
+            {
+                "id": "51552",
+                "link": "/find?type=1&query=kerosine",
+                "word": "kerosine"
+            }
+        ]
+    }
+}

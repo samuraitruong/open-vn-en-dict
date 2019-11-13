@@ -1,1 +1,47 @@
-{"error": 0, "query": "kers", "enViData": {"suggests": [{"id": "51554", "link": "/find?type=1&query=kersey", "word": "kersey"}, {"id": "51555", "link": "/find?type=1&query=kerseymere", "word": "kerseymere"}]}, "mUrl": "/find?type=1&query=kers", "enEnData": {"suggests": [{"id": "15836", "link": "/find?type=3&query=kerchief", "word": "kerchief"}, {"id": "15837", "link": "/find?type=3&query=kernel", "word": "kernel"}, {"id": "15838", "link": "/find?type=3&query=kerosene", "word": "kerosene"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4032", "link": "/find?type=4&query=kernel", "word": "kernel"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15836",
+                "link": "/find?type=3&query=kerchief",
+                "word": "kerchief"
+            },
+            {
+                "id": "15837",
+                "link": "/find?type=3&query=kernel",
+                "word": "kernel"
+            },
+            {
+                "id": "15838",
+                "link": "/find?type=3&query=kerosene",
+                "word": "kerosene"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51554",
+                "link": "/find?type=1&query=kersey",
+                "word": "kersey"
+            },
+            {
+                "id": "51555",
+                "link": "/find?type=1&query=kerseymere",
+                "word": "kerseymere"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4032",
+                "link": "/find?type=4&query=kernel",
+                "word": "kernel"
+            }
+        ]
+    }
+}

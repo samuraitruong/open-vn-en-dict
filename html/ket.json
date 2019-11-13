@@ -1,1 +1,77 @@
-{"error": 0, "query": "ket", "enViData": {"suggests": [{"id": "51559", "link": "/find?type=1&query=ketch", "word": "ketch"}, {"id": "51560", "link": "/find?type=1&query=ketchup", "word": "ketchup"}, {"id": "51561", "link": "/find?type=1&query=keto", "word": "keto"}, {"id": "51562", "link": "/find?type=1&query=ketone", "word": "ketone"}, {"id": "51563", "link": "/find?type=1&query=ketonic", "word": "ketonic"}, {"id": "51564", "link": "/find?type=1&query=kettle", "word": "kettle"}, {"id": "51565", "link": "/find?type=1&query=kettle-drummer", "word": "kettle-drummer"}, {"id": "51566", "link": "/find?type=1&query=kettle-holder", "word": "kettle-holder"}, {"id": "51567", "link": "/find?type=1&query=kettledrum", "word": "kettledrum"}]}, "mUrl": "/find?type=1&query=ket", "enEnData": {"suggests": [{"id": "15839", "link": "/find?type=3&query=ketch", "word": "ketch"}, {"id": "15840", "link": "/find?type=3&query=ketchup", "word": "ketchup"}, {"id": "15841", "link": "/find?type=3&query=kettle", "word": "kettle"}, {"id": "15842", "link": "/find?type=3&query=kettledrum", "word": "kettledrum"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15839",
+                "link": "/find?type=3&query=ketch",
+                "word": "ketch"
+            },
+            {
+                "id": "15840",
+                "link": "/find?type=3&query=ketchup",
+                "word": "ketchup"
+            },
+            {
+                "id": "15841",
+                "link": "/find?type=3&query=kettle",
+                "word": "kettle"
+            },
+            {
+                "id": "15842",
+                "link": "/find?type=3&query=kettledrum",
+                "word": "kettledrum"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51559",
+                "link": "/find?type=1&query=ketch",
+                "word": "ketch"
+            },
+            {
+                "id": "51560",
+                "link": "/find?type=1&query=ketchup",
+                "word": "ketchup"
+            },
+            {
+                "id": "51561",
+                "link": "/find?type=1&query=keto",
+                "word": "keto"
+            },
+            {
+                "id": "51562",
+                "link": "/find?type=1&query=ketone",
+                "word": "ketone"
+            },
+            {
+                "id": "51563",
+                "link": "/find?type=1&query=ketonic",
+                "word": "ketonic"
+            },
+            {
+                "id": "51564",
+                "link": "/find?type=1&query=kettle",
+                "word": "kettle"
+            },
+            {
+                "id": "51565",
+                "link": "/find?type=1&query=kettle-drummer",
+                "word": "kettle-drummer"
+            },
+            {
+                "id": "51566",
+                "link": "/find?type=1&query=kettle-holder",
+                "word": "kettle-holder"
+            },
+            {
+                "id": "51567",
+                "link": "/find?type=1&query=kettledrum",
+                "word": "kettledrum"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "kenn", "enViData": {"suggests": [{"id": "51505", "link": "/find?type=1&query=kennel", "word": "kennel"}, {"id": "51506", "link": "/find?type=1&query=kennel+ration", "word": "kennel ration"}, {"id": "51507", "link": "/find?type=1&query=kenning", "word": "kenning"}]}, "mUrl": "/find?type=1&query=kenn", "enEnData": {"suggests": [{"id": "15834", "link": "/find?type=3&query=kennel", "word": "kennel"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15834",
+                "link": "/find?type=3&query=kennel",
+                "word": "kennel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51505",
+                "link": "/find?type=1&query=kennel",
+                "word": "kennel"
+            },
+            {
+                "id": "51506",
+                "link": "/find?type=1&query=kennel+ration",
+                "word": "kennel ration"
+            },
+            {
+                "id": "51507",
+                "link": "/find?type=1&query=kenning",
+                "word": "kenning"
+            }
+        ]
+    }
+}
