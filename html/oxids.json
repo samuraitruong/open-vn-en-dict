@@ -1,1 +1,72 @@
-{"error": 0, "query": "oxids", "enViData": {"suggests": [{"id": "63943", "link": "/find?type=1&query=oxidable", "word": "oxidable"}, {"id": "63944", "link": "/find?type=1&query=oxidant", "word": "oxidant"}, {"id": "63945", "link": "/find?type=1&query=oxidase", "word": "oxidase"}, {"id": "63946", "link": "/find?type=1&query=oxidasic", "word": "oxidasic"}, {"id": "63947", "link": "/find?type=1&query=oxidate", "word": "oxidate"}, {"id": "63948", "link": "/find?type=1&query=oxidation", "word": "oxidation"}, {"id": "63949", "link": "/find?type=1&query=oxide", "word": "oxide"}, {"id": "63950", "link": "/find?type=1&query=oxidic", "word": "oxidic"}, {"id": "63951", "link": "/find?type=1&query=oxidisation", "word": "oxidisation"}, {"id": "63952", "link": "/find?type=1&query=oxidise", "word": "oxidise"}]}, "mUrl": "/find?type=1&query=oxids", "enEnData": {"suggests": [{"id": "20632", "link": "/find?type=3&query=oxide", "word": "oxide"}, {"id": "20633", "link": "/find?type=3&query=oxidize", "word": "oxidize"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20632",
+                "link": "/find?type=3&query=oxide",
+                "word": "oxide"
+            },
+            {
+                "id": "20633",
+                "link": "/find?type=3&query=oxidize",
+                "word": "oxidize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63943",
+                "link": "/find?type=1&query=oxidable",
+                "word": "oxidable"
+            },
+            {
+                "id": "63944",
+                "link": "/find?type=1&query=oxidant",
+                "word": "oxidant"
+            },
+            {
+                "id": "63945",
+                "link": "/find?type=1&query=oxidase",
+                "word": "oxidase"
+            },
+            {
+                "id": "63946",
+                "link": "/find?type=1&query=oxidasic",
+                "word": "oxidasic"
+            },
+            {
+                "id": "63947",
+                "link": "/find?type=1&query=oxidate",
+                "word": "oxidate"
+            },
+            {
+                "id": "63948",
+                "link": "/find?type=1&query=oxidation",
+                "word": "oxidation"
+            },
+            {
+                "id": "63949",
+                "link": "/find?type=1&query=oxide",
+                "word": "oxide"
+            },
+            {
+                "id": "63950",
+                "link": "/find?type=1&query=oxidic",
+                "word": "oxidic"
+            },
+            {
+                "id": "63951",
+                "link": "/find?type=1&query=oxidisation",
+                "word": "oxidisation"
+            },
+            {
+                "id": "63952",
+                "link": "/find?type=1&query=oxidise",
+                "word": "oxidise"
+            }
+        ]
+    }
+}

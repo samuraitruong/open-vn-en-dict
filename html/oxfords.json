@@ -1,1 +1,39 @@
-{"error": 0, "query": "oxfords", "enViData": {"suggests": [{"id": "63938", "link": "/find?type=1&query=oxford+bags", "word": "oxford bags"}, {"id": "63938", "link": "/find?type=1&query=oxford+blue", "word": "oxford blue"}], "best": {"id": "63938", "details": "\n<div id=\"find_word_63938\" class=\"world word_en\" rel=\"oxford\">\n    <h2 class=\"fl\">oxford <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"63938\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"63938\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e2y th\u1ea5p bu\u1ed9c d\u00e2y \u1edf c\u1ed5 ch\u00e2n</div>\n    \n</div>\n", "link": "/find?type=1&query=oxford", "word": "oxford"}}, "mUrl": "/find?type=1&query=oxfords", "enEnData": {"suggests": [], "best": {"id": "20631", "details": "\n<div id=\"find_word_20631\" class=\"world word_en\" rel=\"oxford\">\n    <h2 class=\"fl\">oxford <span class=\"color-black\">/\u02c8\u0251\u02d0ksf\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20631\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20631\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fords</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly US :a low shoe usually made of leather and fastened with laces</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pair of oxfords</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :soft, strong cotton usually used for making shirts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US :a shirt made of oxford</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a button-down oxford</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a blue oxford shirt</div>\n    \n</div>\n", "link": "/find?type=3&query=oxford", "word": "oxford"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -fords</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly US :a low shoe usually made of leather and fastened with laces</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pair of oxfords</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :soft, strong cotton usually used for making shirts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US :a shirt made of oxford</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a button-down oxford</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a blue oxford shirt</div>",
+            "id": "20631",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0ksf\u025ad/",
+            "type": "noun",
+            "word": "oxford"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u00e2y th\u1ea5p bu\u1ed9c d\u00e2y \u1edf c\u1ed5 ch\u00e2n</div>",
+            "id": "63938",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1e42a0ceb0cfc33e795df5bbd8677972/16e62baa44b/O/oxford.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ed96948afc83a3e26fd4a2b1f8616a7a/16e62ba9e4b/O/oxford.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "oxford"
+        },
+        "suggests": [
+            {
+                "id": "63938",
+                "link": "/find?type=1&query=oxford+bags",
+                "word": "oxford bags"
+            },
+            {
+                "id": "63938",
+                "link": "/find?type=1&query=oxford+blue",
+                "word": "oxford blue"
+            }
+        ]
+    }
+}

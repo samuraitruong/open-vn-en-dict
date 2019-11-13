@@ -1,1 +1,22 @@
-{"error": 0, "query": "pacemake", "enViData": {"suggests": [{"id": "64047", "link": "/find?type=1&query=pacemaker", "word": "pacemaker"}]}, "mUrl": "/find?type=1&query=pacemake", "enEnData": {"suggests": [{"id": "20659", "link": "/find?type=3&query=pacemaker", "word": "pacemaker"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20659",
+                "link": "/find?type=3&query=pacemaker",
+                "word": "pacemaker"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64047",
+                "link": "/find?type=1&query=pacemaker",
+                "word": "pacemaker"
+            }
+        ]
+    }
+}

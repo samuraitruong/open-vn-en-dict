@@ -1,1 +1,22 @@
-{"error": 0, "query": "ovis", "enViData": {"suggests": [{"id": "63872", "link": "/find?type=1&query=ovisac", "word": "ovisac"}]}, "mUrl": "/find?type=1&query=ovis", "enEnData": {"suggests": [{"id": "20609", "link": "/find?type=3&query=oviduct", "word": "oviduct"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20609",
+                "link": "/find?type=3&query=oviduct",
+                "word": "oviduct"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63872",
+                "link": "/find?type=1&query=ovisac",
+                "word": "ovisac"
+            }
+        ]
+    }
+}
