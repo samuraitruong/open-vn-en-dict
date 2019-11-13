@@ -1,1 +1,28 @@
-{"error": 0, "query": "psychiatries", "enViData": {"suggests": [], "best": {"id": "72689", "details": "\n<div id=\"find_word_72689\" class=\"world word_en\" rel=\"psychiatry\">\n    <h2 class=\"fl\">psychiatry <span class=\"color-black\">/sai'kai\u0259tri/</span>&nbsp;&nbsp;<span class=\"color-orange\">/si'kai\u0259tri/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"72689\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"72689\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh h\u1ecdc t\u00e2m th\u1ea7n</div>\n    \n</div>\n", "link": "/find?type=1&query=psychiatry", "word": "psychiatry"}}, "mUrl": "/find?type=1&query=psychiatries", "enEnData": {"suggests": [], "best": {"id": "23282", "details": "\n<div id=\"find_word_23282\" class=\"world word_en\" rel=\"psychiatry\">\n    <h2 class=\"fl\">psychiatry <span class=\"color-black\">/sa\u026a\u02c8kaj\u0259tri/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23282\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23282\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a branch of medicine that deals with mental or emotional disorders</div>\n    \n</div>\n", "link": "/find?type=3&query=psychiatry", "word": "psychiatry"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a branch of medicine that deals with mental or emotional disorders</div>",
+            "id": "23282",
+            "mean": [],
+            "pronounce": "/sa\u026a\u02c8kaj\u0259tri/",
+            "type": "noun",
+            "word": "psychiatry"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ec7nh h\u1ecdc t\u00e2m th\u1ea7n</div>",
+            "id": "72689",
+            "mean": [],
+            "pronounce": "/sai'kai\u0259tri/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3ae83257a8304405707f720039afb2d2/16e62d87a9c/P/psychiatry.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b275a0bcd9180a9d0af360afc442c0b3/16e62d87474/P/psychiatry.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "psychiatry"
+        },
+        "suggests": []
+    }
+}

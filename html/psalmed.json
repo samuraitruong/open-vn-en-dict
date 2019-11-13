@@ -1,1 +1,65 @@
-{"error": 0, "query": "psalmed", "enViData": {"suggests": [{"id": "72542", "link": "/find?type=1&query=psalm-book", "word": "psalm-book"}, {"id": "72542", "link": "/find?type=1&query=psalmist", "word": "psalmist"}, {"id": "72542", "link": "/find?type=1&query=psalmodic", "word": "psalmodic"}, {"id": "72542", "link": "/find?type=1&query=psalmodist", "word": "psalmodist"}, {"id": "72542", "link": "/find?type=1&query=psalmodize", "word": "psalmodize"}, {"id": "72542", "link": "/find?type=1&query=psalmody", "word": "psalmody"}], "best": {"id": "72542", "details": "\n<div id=\"find_word_72542\" class=\"world word_en\" rel=\"psalm\">\n    <h2 class=\"fl\">psalm <span class=\"color-black\">/s\u0251:m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"72542\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"72542\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u00f4n gi\u00e1o)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e0i th\u00e1nh v\u1ecbnh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Book of Psalms</div>\n    \n    <div class=\"margin25\">s\u00e1ch th\u00e1nh v\u1ecbnh (trong Kinh c\u1ef1u \u01b0\u1edbc)</div>\n    \n</div>\n", "link": "/find?type=1&query=psalm", "word": "psalm"}}, "mUrl": "/find?type=1&query=psalmed", "enEnData": {"suggests": [{"id": "23265", "link": "/find?type=3&query=psalmist", "word": "psalmist"}], "best": {"id": "23265", "details": "\n<div id=\"find_word_23265\" class=\"world word_en\" rel=\"psalm\">\n    <h2 class=\"fl\">psalm <span class=\"color-black\">/\u02c8s\u0251\u02d0m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23265\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23265\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural psalms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a song or poem used in worship and especially one from the Bible</div>\n    \n</div>\n", "link": "/find?type=3&query=psalm", "word": "psalm"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural psalms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a song or poem used in worship and especially one from the Bible</div>",
+            "id": "23265",
+            "mean": [],
+            "pronounce": "/\u02c8s\u0251\u02d0m/",
+            "type": "noun",
+            "word": "psalm"
+        },
+        "suggests": [
+            {
+                "id": "23265",
+                "link": "/find?type=3&query=psalmist",
+                "word": "psalmist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u00f4n gi\u00e1o)</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e0i th\u00e1nh v\u1ecbnh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Book of Psalms</div>\n    \n    <div class=\"margin25\">s\u00e1ch th\u00e1nh v\u1ecbnh (trong Kinh c\u1ef1u \u01b0\u1edbc)</div>",
+            "id": "72542",
+            "mean": [],
+            "pronounce": "/s\u0251:m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/07e275f3536a377f75f402082e30aed2/16e62d7e8be/P/psalm.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1c06778a7208bc94a665b0f48a153918/16e62d7e29a/P/psalm.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "psalm"
+        },
+        "suggests": [
+            {
+                "id": "72542",
+                "link": "/find?type=1&query=psalm-book",
+                "word": "psalm-book"
+            },
+            {
+                "id": "72542",
+                "link": "/find?type=1&query=psalmist",
+                "word": "psalmist"
+            },
+            {
+                "id": "72542",
+                "link": "/find?type=1&query=psalmodic",
+                "word": "psalmodic"
+            },
+            {
+                "id": "72542",
+                "link": "/find?type=1&query=psalmodist",
+                "word": "psalmodist"
+            },
+            {
+                "id": "72542",
+                "link": "/find?type=1&query=psalmodize",
+                "word": "psalmodize"
+            },
+            {
+                "id": "72542",
+                "link": "/find?type=1&query=psalmody",
+                "word": "psalmody"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "psaltes", "enViData": {"suggests": [{"id": "72549", "link": "/find?type=1&query=psalter", "word": "psalter"}, {"id": "72550", "link": "/find?type=1&query=psalterium", "word": "psalterium"}, {"id": "72551", "link": "/find?type=1&query=psaltery", "word": "psaltery"}]}, "mUrl": "/find?type=1&query=psaltes", "enEnData": {"suggests": [{"id": "23267", "link": "/find?type=3&query=psalter", "word": "psalter"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23267",
+                "link": "/find?type=3&query=psalter",
+                "word": "psalter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72549",
+                "link": "/find?type=1&query=psalter",
+                "word": "psalter"
+            },
+            {
+                "id": "72550",
+                "link": "/find?type=1&query=psalterium",
+                "word": "psalterium"
+            },
+            {
+                "id": "72551",
+                "link": "/find?type=1&query=psaltery",
+                "word": "psaltery"
+            }
+        ]
+    }
+}
