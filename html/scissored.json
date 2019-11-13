@@ -1,0 +1,40 @@
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25853",
+                "link": "/find?type=3&query=scissors",
+                "word": "scissors"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1eaft b\u1eb1ng k\u00e9o</div>",
+            "id": "79978",
+            "mean": [],
+            "pronounce": "/'siz\u0259/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "scissor"
+        },
+        "suggests": [
+            {
+                "id": "79978",
+                "link": "/find?type=1&query=scissors",
+                "word": "scissors"
+            },
+            {
+                "id": "79978",
+                "link": "/find?type=1&query=scissors+hold",
+                "word": "scissors hold"
+            },
+            {
+                "id": "79978",
+                "link": "/find?type=1&query=scissors-and-paste",
+                "word": "scissors-and-paste"
+            }
+        ]
+    }
+}
