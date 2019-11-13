@@ -1,1 +1,52 @@
-{"error": 0, "query": "nais", "enViData": {"suggests": [{"id": "59678", "link": "/find?type=1&query=naissant", "word": "naissant"}]}, "mUrl": "/find?type=1&query=nais", "enEnData": {"suggests": [{"id": "18967", "link": "/find?type=3&query=nail", "word": "nail"}, {"id": "18968", "link": "/find?type=3&query=nail+file", "word": "nail file"}, {"id": "18969", "link": "/find?type=3&query=nail+polish", "word": "nail polish"}, {"id": "18970", "link": "/find?type=3&query=nail-biter", "word": "nail-biter"}, {"id": "18971", "link": "/find?type=3&query=naive", "word": "naive"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4777", "link": "/find?type=4&query=nail", "word": "nail"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18967",
+                "link": "/find?type=3&query=nail",
+                "word": "nail"
+            },
+            {
+                "id": "18968",
+                "link": "/find?type=3&query=nail+file",
+                "word": "nail file"
+            },
+            {
+                "id": "18969",
+                "link": "/find?type=3&query=nail+polish",
+                "word": "nail polish"
+            },
+            {
+                "id": "18970",
+                "link": "/find?type=3&query=nail-biter",
+                "word": "nail-biter"
+            },
+            {
+                "id": "18971",
+                "link": "/find?type=3&query=naive",
+                "word": "naive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59678",
+                "link": "/find?type=1&query=naissant",
+                "word": "naissant"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4777",
+                "link": "/find?type=4&query=nail",
+                "word": "nail"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "mutining", "enViData": {"suggests": [{"id": "59511", "link": "/find?type=1&query=mutineer", "word": "mutineer"}]}, "mUrl": "/find?type=1&query=mutining", "enEnData": {"suggests": [{"id": "18916", "link": "/find?type=3&query=mutineer", "word": "mutineer"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4760", "link": "/find?type=4&query=mutinous", "word": "mutinous"}, {"id": "4761", "link": "/find?type=4&query=mutiny", "word": "mutiny"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18916",
+                "link": "/find?type=3&query=mutineer",
+                "word": "mutineer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59511",
+                "link": "/find?type=1&query=mutineer",
+                "word": "mutineer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4760",
+                "link": "/find?type=4&query=mutinous",
+                "word": "mutinous"
+            },
+            {
+                "id": "4761",
+                "link": "/find?type=4&query=mutiny",
+                "word": "mutiny"
+            }
+        ]
+    }
+}

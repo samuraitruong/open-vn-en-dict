@@ -1,1 +1,42 @@
-{"error": 0, "query": "narcos", "enViData": {"suggests": [{"id": "59751", "link": "/find?type=1&query=narcoses", "word": "narcoses"}, {"id": "59752", "link": "/find?type=1&query=narcosis", "word": "narcosis"}]}, "mUrl": "/find?type=1&query=narcos", "enEnData": {"suggests": [{"id": "18999", "link": "/find?type=3&query=narcolepsy", "word": "narcolepsy"}, {"id": "19000", "link": "/find?type=3&query=narcotic", "word": "narcotic"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4783", "link": "/find?type=4&query=narcotic", "word": "narcotic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18999",
+                "link": "/find?type=3&query=narcolepsy",
+                "word": "narcolepsy"
+            },
+            {
+                "id": "19000",
+                "link": "/find?type=3&query=narcotic",
+                "word": "narcotic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59751",
+                "link": "/find?type=1&query=narcoses",
+                "word": "narcoses"
+            },
+            {
+                "id": "59752",
+                "link": "/find?type=1&query=narcosis",
+                "word": "narcosis"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4783",
+                "link": "/find?type=4&query=narcotic",
+                "word": "narcotic"
+            }
+        ]
+    }
+}

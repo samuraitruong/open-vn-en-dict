@@ -1,1 +1,82 @@
-{"error": 0, "query": "narco", "enViData": {"suggests": [{"id": "59748", "link": "/find?type=1&query=narcolepsy", "word": "narcolepsy"}, {"id": "59749", "link": "/find?type=1&query=narcomania", "word": "narcomania"}, {"id": "59750", "link": "/find?type=1&query=narcomaniac", "word": "narcomaniac"}, {"id": "59751", "link": "/find?type=1&query=narcoses", "word": "narcoses"}, {"id": "59752", "link": "/find?type=1&query=narcosis", "word": "narcosis"}, {"id": "59753", "link": "/find?type=1&query=narcotic", "word": "narcotic"}, {"id": "59754", "link": "/find?type=1&query=narcotical", "word": "narcotical"}, {"id": "59755", "link": "/find?type=1&query=narcotise", "word": "narcotise"}, {"id": "59756", "link": "/find?type=1&query=narcotism", "word": "narcotism"}, {"id": "59757", "link": "/find?type=1&query=narcotization", "word": "narcotization"}]}, "mUrl": "/find?type=1&query=narco", "enEnData": {"suggests": [{"id": "18999", "link": "/find?type=3&query=narcolepsy", "word": "narcolepsy"}, {"id": "19000", "link": "/find?type=3&query=narcotic", "word": "narcotic"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4783", "link": "/find?type=4&query=narcotic", "word": "narcotic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18999",
+                "link": "/find?type=3&query=narcolepsy",
+                "word": "narcolepsy"
+            },
+            {
+                "id": "19000",
+                "link": "/find?type=3&query=narcotic",
+                "word": "narcotic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59748",
+                "link": "/find?type=1&query=narcolepsy",
+                "word": "narcolepsy"
+            },
+            {
+                "id": "59749",
+                "link": "/find?type=1&query=narcomania",
+                "word": "narcomania"
+            },
+            {
+                "id": "59750",
+                "link": "/find?type=1&query=narcomaniac",
+                "word": "narcomaniac"
+            },
+            {
+                "id": "59751",
+                "link": "/find?type=1&query=narcoses",
+                "word": "narcoses"
+            },
+            {
+                "id": "59752",
+                "link": "/find?type=1&query=narcosis",
+                "word": "narcosis"
+            },
+            {
+                "id": "59753",
+                "link": "/find?type=1&query=narcotic",
+                "word": "narcotic"
+            },
+            {
+                "id": "59754",
+                "link": "/find?type=1&query=narcotical",
+                "word": "narcotical"
+            },
+            {
+                "id": "59755",
+                "link": "/find?type=1&query=narcotise",
+                "word": "narcotise"
+            },
+            {
+                "id": "59756",
+                "link": "/find?type=1&query=narcotism",
+                "word": "narcotism"
+            },
+            {
+                "id": "59757",
+                "link": "/find?type=1&query=narcotization",
+                "word": "narcotization"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4783",
+                "link": "/find?type=4&query=narcotic",
+                "word": "narcotic"
+            }
+        ]
+    }
+}

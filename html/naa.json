@@ -1,1 +1,32 @@
-{"error": 0, "query": "naa", "enViData": {"suggests": [{"id": "59636", "link": "/find?type=1&query=NAACP", "word": "NAACP"}, {"id": "59637", "link": "/find?type=1&query=NAAFI", "word": "NAAFI"}]}, "mUrl": "/find?type=1&query=naa", "enEnData": {"suggests": [{"id": "18957", "link": "/find?type=3&query=NAACP", "word": "NAACP"}, {"id": "18958", "link": "/find?type=3&query=naan", "word": "naan"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18957",
+                "link": "/find?type=3&query=NAACP",
+                "word": "NAACP"
+            },
+            {
+                "id": "18958",
+                "link": "/find?type=3&query=naan",
+                "word": "naan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59636",
+                "link": "/find?type=1&query=NAACP",
+                "word": "NAACP"
+            },
+            {
+                "id": "59637",
+                "link": "/find?type=1&query=NAAFI",
+                "word": "NAAFI"
+            }
+        ]
+    }
+}

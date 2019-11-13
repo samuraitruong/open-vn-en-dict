@@ -1,1 +1,40 @@
-{"error": 0, "query": "nanny", "enViData": {"suggests": [{"id": "59716", "link": "/find?type=1&query=nanny-goat", "word": "nanny-goat"}], "best": {"id": "59716", "details": "\n<div id=\"find_word_59716\" class=\"world word_en\" rel=\"nanny\">\n    <h2 class=\"fl\">nanny <span class=\"color-black\">/'n\u00e6ni/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"59716\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"59716\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00fa em</div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef) b\u00e0 (\u0111\u1ed1i v\u1edbi ch\u00e1u)</div>\n    \n</div>\n", "link": "/find?type=1&query=nanny", "word": "nanny"}}, "mUrl": "/find?type=1&query=nanny", "enEnData": {"suggests": [{"id": "18985", "link": "/find?type=3&query=nanny+goat", "word": "nanny goat"}], "best": {"id": "18985", "details": "\n<div id=\"find_word_18985\" class=\"world word_en\" rel=\"nanny\">\n    <h2 class=\"fl\">nanny <span class=\"color-black\">/\u02c8n\u00e6ni/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18985\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18985\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a woman who is paid to care for a young child usually in the child's home</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">When I was growing up, I had a nanny.</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :grandmother</div>\n    \n</div>\n", "link": "/find?type=3&query=nanny", "word": "nanny"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a woman who is paid to care for a young child usually in the child's home</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">When I was growing up, I had a nanny.</div>\n    \n    <div class=\"green margin25 m-top15\">Brit :grandmother</div>",
+            "id": "18985",
+            "mean": [],
+            "pronounce": "/\u02c8n\u00e6ni/",
+            "type": "noun",
+            "word": "nanny"
+        },
+        "suggests": [
+            {
+                "id": "18985",
+                "link": "/find?type=3&query=nanny+goat",
+                "word": "nanny goat"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00fa em</div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef) b\u00e0 (\u0111\u1ed1i v\u1edbi ch\u00e1u)</div>",
+            "id": "59716",
+            "mean": [],
+            "pronounce": "/'n\u00e6ni/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/937b860f7a603a8f75e6d42ff94e93af/16e62a7be9f/N/nanny.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6dce82fbc31440ae2ee6100c58035dde/16e62a7b871/N/nanny.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "nanny"
+        },
+        "suggests": [
+            {
+                "id": "59716",
+                "link": "/find?type=1&query=nanny-goat",
+                "word": "nanny-goat"
+            }
+        ]
+    }
+}

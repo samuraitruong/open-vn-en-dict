@@ -1,1 +1,72 @@
-{"error": 0, "query": "narras", "enViData": {"suggests": [{"id": "59763", "link": "/find?type=1&query=narrate", "word": "narrate"}, {"id": "59764", "link": "/find?type=1&query=narration", "word": "narration"}, {"id": "59765", "link": "/find?type=1&query=narrative", "word": "narrative"}, {"id": "59766", "link": "/find?type=1&query=narrator", "word": "narrator"}]}, "mUrl": "/find?type=1&query=narras", "enEnData": {"suggests": [{"id": "19001", "link": "/find?type=3&query=narrate", "word": "narrate"}, {"id": "19002", "link": "/find?type=3&query=narration", "word": "narration"}, {"id": "19003", "link": "/find?type=3&query=narrative", "word": "narrative"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4784", "link": "/find?type=4&query=narrate", "word": "narrate"}, {"id": "4785", "link": "/find?type=4&query=narration", "word": "narration"}, {"id": "4786", "link": "/find?type=4&query=narrative", "word": "narrative"}, {"id": "4787", "link": "/find?type=4&query=narrator", "word": "narrator"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19001",
+                "link": "/find?type=3&query=narrate",
+                "word": "narrate"
+            },
+            {
+                "id": "19002",
+                "link": "/find?type=3&query=narration",
+                "word": "narration"
+            },
+            {
+                "id": "19003",
+                "link": "/find?type=3&query=narrative",
+                "word": "narrative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59763",
+                "link": "/find?type=1&query=narrate",
+                "word": "narrate"
+            },
+            {
+                "id": "59764",
+                "link": "/find?type=1&query=narration",
+                "word": "narration"
+            },
+            {
+                "id": "59765",
+                "link": "/find?type=1&query=narrative",
+                "word": "narrative"
+            },
+            {
+                "id": "59766",
+                "link": "/find?type=1&query=narrator",
+                "word": "narrator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4784",
+                "link": "/find?type=4&query=narrate",
+                "word": "narrate"
+            },
+            {
+                "id": "4785",
+                "link": "/find?type=4&query=narration",
+                "word": "narration"
+            },
+            {
+                "id": "4786",
+                "link": "/find?type=4&query=narrative",
+                "word": "narrative"
+            },
+            {
+                "id": "4787",
+                "link": "/find?type=4&query=narrator",
+                "word": "narrator"
+            }
+        ]
+    }
+}
