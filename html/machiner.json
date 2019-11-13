@@ -1,1 +1,22 @@
-{"error": 0, "query": "machiner", "enViData": {"suggests": [{"id": "55252", "link": "/find?type=1&query=machinery", "word": "machinery"}]}, "mUrl": "/find?type=1&query=machiner", "enEnData": {"suggests": [{"id": "17242", "link": "/find?type=3&query=machinery", "word": "machinery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17242",
+                "link": "/find?type=3&query=machinery",
+                "word": "machinery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55252",
+                "link": "/find?type=1&query=machinery",
+                "word": "machinery"
+            }
+        ]
+    }
+}

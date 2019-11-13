@@ -1,1 +1,22 @@
-{"error": 0, "query": "mackins", "enViData": {"suggests": [{"id": "55261", "link": "/find?type=1&query=mackintosh", "word": "mackintosh"}]}, "mUrl": "/find?type=1&query=mackins", "enEnData": {"suggests": [{"id": "17248", "link": "/find?type=3&query=mackintosh", "word": "mackintosh"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17248",
+                "link": "/find?type=3&query=mackintosh",
+                "word": "mackintosh"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55261",
+                "link": "/find?type=1&query=mackintosh",
+                "word": "mackintosh"
+            }
+        ]
+    }
+}

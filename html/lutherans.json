@@ -1,1 +1,36 @@
-{"error": 0, "query": "lutherans", "enViData": {"suggests": [{"id": "55104", "link": "/find?type=1&query=lutheranism", "word": "lutheranism"}, {"id": "55104", "link": "/find?type=1&query=lutheranize", "word": "lutheranize"}], "best": {"id": "55104", "details": "\n<div id=\"find_word_55104\" class=\"world word_en\" rel=\"Lutheran\">\n    <h2 class=\"fl\">Lutheran <span class=\"color-black\">/'lu:\u03b8\u0259r\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55104\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55104\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi theo gi\u00e1o ph\u00e1i Tin l\u00e0nh Martin Luther</div>\n    \n</div>\n", "link": "/find?type=1&query=Lutheran", "word": "Lutheran"}}, "mUrl": "/find?type=1&query=lutherans", "enEnData": {"suggests": [], "best": {"id": "17192", "details": "\n<div id=\"find_word_17192\" class=\"world word_en\" rel=\"Lutheran\">\n    <h2 class=\"fl\">Lutheran <span class=\"color-black\">/\u02c8lu\u02d0\u0275\u0259r\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17192\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17192\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of one of the Protestant churches that follow the teachings of Martin Luther</div>\n    \n</div>\n", "link": "/find?type=3&query=Lutheran", "word": "Lutheran"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of one of the Protestant churches that follow the teachings of Martin Luther</div>",
+            "id": "17192",
+            "mean": [],
+            "pronounce": "/\u02c8lu\u02d0\u0275\u0259r\u0259n/",
+            "type": "noun",
+            "word": "Lutheran"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi theo gi\u00e1o ph\u00e1i Tin l\u00e0nh Martin Luther</div>",
+            "id": "55104",
+            "mean": [],
+            "pronounce": "/'lu:\u03b8\u0259r\u0259n/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "Lutheran"
+        },
+        "suggests": [
+            {
+                "id": "55104",
+                "link": "/find?type=1&query=lutheranism",
+                "word": "lutheranism"
+            },
+            {
+                "id": "55104",
+                "link": "/find?type=1&query=lutheranize",
+                "word": "lutheranize"
+            }
+        ]
+    }
+}

@@ -1,1 +1,57 @@
-{"error": 0, "query": "luxuria", "enViData": {"suggests": [{"id": "55115", "link": "/find?type=1&query=luxuriance", "word": "luxuriance"}, {"id": "55116", "link": "/find?type=1&query=luxuriant", "word": "luxuriant"}, {"id": "55117", "link": "/find?type=1&query=luxuriantly", "word": "luxuriantly"}, {"id": "55118", "link": "/find?type=1&query=luxuriate", "word": "luxuriate"}]}, "mUrl": "/find?type=1&query=luxuria", "enEnData": {"suggests": [{"id": "17194", "link": "/find?type=3&query=luxuriant", "word": "luxuriant"}, {"id": "17195", "link": "/find?type=3&query=luxuriate", "word": "luxuriate"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4336", "link": "/find?type=4&query=luxuriant", "word": "luxuriant"}, {"id": "4337", "link": "/find?type=4&query=luxuriate", "word": "luxuriate"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17194",
+                "link": "/find?type=3&query=luxuriant",
+                "word": "luxuriant"
+            },
+            {
+                "id": "17195",
+                "link": "/find?type=3&query=luxuriate",
+                "word": "luxuriate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55115",
+                "link": "/find?type=1&query=luxuriance",
+                "word": "luxuriance"
+            },
+            {
+                "id": "55116",
+                "link": "/find?type=1&query=luxuriant",
+                "word": "luxuriant"
+            },
+            {
+                "id": "55117",
+                "link": "/find?type=1&query=luxuriantly",
+                "word": "luxuriantly"
+            },
+            {
+                "id": "55118",
+                "link": "/find?type=1&query=luxuriate",
+                "word": "luxuriate"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4336",
+                "link": "/find?type=4&query=luxuriant",
+                "word": "luxuriant"
+            },
+            {
+                "id": "4337",
+                "link": "/find?type=4&query=luxuriate",
+                "word": "luxuriate"
+            }
+        ]
+    }
+}
