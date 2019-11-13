@@ -1,1 +1,22 @@
-{"error": 0, "query": "reveil", "enViData": {"suggests": [{"id": "77014", "link": "/find?type=1&query=reveille", "word": "reveille"}]}, "mUrl": "/find?type=1&query=reveil", "enEnData": {"suggests": [{"id": "24800", "link": "/find?type=3&query=reveille", "word": "reveille"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24800",
+                "link": "/find?type=3&query=reveille",
+                "word": "reveille"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77014",
+                "link": "/find?type=1&query=reveille",
+                "word": "reveille"
+            }
+        ]
+    }
+}

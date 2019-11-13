@@ -1,1 +1,167 @@
-{"error": 0, "query": "reve", "enViData": {"suggests": [{"id": "77008", "link": "/find?type=1&query=reveal", "word": "reveal"}, {"id": "77009", "link": "/find?type=1&query=revealable", "word": "revealable"}, {"id": "77010", "link": "/find?type=1&query=Revealed+preference", "word": "Revealed preference"}, {"id": "77011", "link": "/find?type=1&query=revealed+religion", "word": "revealed religion"}, {"id": "77012", "link": "/find?type=1&query=revealing", "word": "revealing"}, {"id": "77013", "link": "/find?type=1&query=revegetate", "word": "revegetate"}, {"id": "77014", "link": "/find?type=1&query=reveille", "word": "reveille"}, {"id": "77015", "link": "/find?type=1&query=revel", "word": "revel"}, {"id": "77016", "link": "/find?type=1&query=revelation", "word": "revelation"}, {"id": "77017", "link": "/find?type=1&query=revelationist", "word": "revelationist"}]}, "mUrl": "/find?type=1&query=reve", "enEnData": {"suggests": [{"id": "24798", "link": "/find?type=3&query=reveal", "word": "reveal"}, {"id": "24799", "link": "/find?type=3&query=revealing", "word": "revealing"}, {"id": "24800", "link": "/find?type=3&query=reveille", "word": "reveille"}, {"id": "24801", "link": "/find?type=3&query=revel", "word": "revel"}, {"id": "24802", "link": "/find?type=3&query=revelation", "word": "revelation"}, {"id": "24803", "link": "/find?type=3&query=revelatory", "word": "revelatory"}, {"id": "24804", "link": "/find?type=3&query=reveler", "word": "reveler"}, {"id": "24805", "link": "/find?type=3&query=revelry", "word": "revelry"}, {"id": "24806", "link": "/find?type=3&query=revenge", "word": "revenge"}, {"id": "24807", "link": "/find?type=3&query=revenue", "word": "revenue"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6595", "link": "/find?type=4&query=reveal", "word": "reveal"}, {"id": "6596", "link": "/find?type=4&query=revel", "word": "revel"}, {"id": "6597", "link": "/find?type=4&query=revelation", "word": "revelation"}, {"id": "6598", "link": "/find?type=4&query=revelry", "word": "revelry"}, {"id": "6599", "link": "/find?type=4&query=revenge", "word": "revenge"}, {"id": "6600", "link": "/find?type=4&query=revenue", "word": "revenue"}, {"id": "6601", "link": "/find?type=4&query=revere", "word": "revere"}, {"id": "6602", "link": "/find?type=4&query=reverence", "word": "reverence"}, {"id": "6603", "link": "/find?type=4&query=reverie", "word": "reverie"}, {"id": "6604", "link": "/find?type=4&query=reversal", "word": "reversal"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24798",
+                "link": "/find?type=3&query=reveal",
+                "word": "reveal"
+            },
+            {
+                "id": "24799",
+                "link": "/find?type=3&query=revealing",
+                "word": "revealing"
+            },
+            {
+                "id": "24800",
+                "link": "/find?type=3&query=reveille",
+                "word": "reveille"
+            },
+            {
+                "id": "24801",
+                "link": "/find?type=3&query=revel",
+                "word": "revel"
+            },
+            {
+                "id": "24802",
+                "link": "/find?type=3&query=revelation",
+                "word": "revelation"
+            },
+            {
+                "id": "24803",
+                "link": "/find?type=3&query=revelatory",
+                "word": "revelatory"
+            },
+            {
+                "id": "24804",
+                "link": "/find?type=3&query=reveler",
+                "word": "reveler"
+            },
+            {
+                "id": "24805",
+                "link": "/find?type=3&query=revelry",
+                "word": "revelry"
+            },
+            {
+                "id": "24806",
+                "link": "/find?type=3&query=revenge",
+                "word": "revenge"
+            },
+            {
+                "id": "24807",
+                "link": "/find?type=3&query=revenue",
+                "word": "revenue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77008",
+                "link": "/find?type=1&query=reveal",
+                "word": "reveal"
+            },
+            {
+                "id": "77009",
+                "link": "/find?type=1&query=revealable",
+                "word": "revealable"
+            },
+            {
+                "id": "77010",
+                "link": "/find?type=1&query=Revealed+preference",
+                "word": "Revealed preference"
+            },
+            {
+                "id": "77011",
+                "link": "/find?type=1&query=revealed+religion",
+                "word": "revealed religion"
+            },
+            {
+                "id": "77012",
+                "link": "/find?type=1&query=revealing",
+                "word": "revealing"
+            },
+            {
+                "id": "77013",
+                "link": "/find?type=1&query=revegetate",
+                "word": "revegetate"
+            },
+            {
+                "id": "77014",
+                "link": "/find?type=1&query=reveille",
+                "word": "reveille"
+            },
+            {
+                "id": "77015",
+                "link": "/find?type=1&query=revel",
+                "word": "revel"
+            },
+            {
+                "id": "77016",
+                "link": "/find?type=1&query=revelation",
+                "word": "revelation"
+            },
+            {
+                "id": "77017",
+                "link": "/find?type=1&query=revelationist",
+                "word": "revelationist"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6595",
+                "link": "/find?type=4&query=reveal",
+                "word": "reveal"
+            },
+            {
+                "id": "6596",
+                "link": "/find?type=4&query=revel",
+                "word": "revel"
+            },
+            {
+                "id": "6597",
+                "link": "/find?type=4&query=revelation",
+                "word": "revelation"
+            },
+            {
+                "id": "6598",
+                "link": "/find?type=4&query=revelry",
+                "word": "revelry"
+            },
+            {
+                "id": "6599",
+                "link": "/find?type=4&query=revenge",
+                "word": "revenge"
+            },
+            {
+                "id": "6600",
+                "link": "/find?type=4&query=revenue",
+                "word": "revenue"
+            },
+            {
+                "id": "6601",
+                "link": "/find?type=4&query=revere",
+                "word": "revere"
+            },
+            {
+                "id": "6602",
+                "link": "/find?type=4&query=reverence",
+                "word": "reverence"
+            },
+            {
+                "id": "6603",
+                "link": "/find?type=4&query=reverie",
+                "word": "reverie"
+            },
+            {
+                "id": "6604",
+                "link": "/find?type=4&query=reversal",
+                "word": "reversal"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "revulsed", "enViData": {"suggests": [{"id": "77131", "link": "/find?type=1&query=revulsion", "word": "revulsion"}, {"id": "77132", "link": "/find?type=1&query=revulsive", "word": "revulsive"}]}, "mUrl": "/find?type=1&query=revulsed", "enEnData": {"suggests": [{"id": "24852", "link": "/find?type=3&query=revulsion", "word": "revulsion"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6619", "link": "/find?type=4&query=revulsion", "word": "revulsion"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24852",
+                "link": "/find?type=3&query=revulsion",
+                "word": "revulsion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77131",
+                "link": "/find?type=1&query=revulsion",
+                "word": "revulsion"
+            },
+            {
+                "id": "77132",
+                "link": "/find?type=1&query=revulsive",
+                "word": "revulsive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6619",
+                "link": "/find?type=4&query=revulsion",
+                "word": "revulsion"
+            }
+        ]
+    }
+}

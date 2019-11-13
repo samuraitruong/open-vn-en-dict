@@ -1,1 +1,42 @@
-{"error": 0, "query": "revie", "enViData": {"suggests": [{"id": "77074", "link": "/find?type=1&query=review", "word": "review"}, {"id": "77075", "link": "/find?type=1&query=reviewal", "word": "reviewal"}, {"id": "77076", "link": "/find?type=1&query=reviewer", "word": "reviewer"}]}, "mUrl": "/find?type=1&query=revie", "enEnData": {"suggests": [{"id": "24829", "link": "/find?type=3&query=review", "word": "review"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6607", "link": "/find?type=4&query=review", "word": "review"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24829",
+                "link": "/find?type=3&query=review",
+                "word": "review"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77074",
+                "link": "/find?type=1&query=review",
+                "word": "review"
+            },
+            {
+                "id": "77075",
+                "link": "/find?type=1&query=reviewal",
+                "word": "reviewal"
+            },
+            {
+                "id": "77076",
+                "link": "/find?type=1&query=reviewer",
+                "word": "reviewer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6607",
+                "link": "/find?type=4&query=review",
+                "word": "review"
+            }
+        ]
+    }
+}

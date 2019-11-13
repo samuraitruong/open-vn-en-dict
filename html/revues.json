@@ -1,1 +1,28 @@
-{"error": 0, "query": "revues", "enViData": {"suggests": [], "best": {"id": "77130", "details": "\n<div id=\"find_word_77130\" class=\"world word_en\" rel=\"revue\">\n    <h2 class=\"fl\">revue <span class=\"color-black\">/ri'vju:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"77130\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"77130\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00e0i k\u1ecbch th\u1eddi s\u1ef1</div>\n    \n</div>\n", "link": "/find?type=1&query=revue", "word": "revue"}}, "mUrl": "/find?type=1&query=revues", "enEnData": {"suggests": [], "best": {"id": "24851", "details": "\n<div id=\"find_word_24851\" class=\"world word_en\" rel=\"revue\">\n    <h2 class=\"fl\">revue <span class=\"color-black\">/r\u026a\u02c8vju\u02d0/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24851\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24851\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vues</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a show in a theater that includes funny songs, dances, short plays, etc., usually about recent events Do not confuse revue with review.</div>\n    \n</div>\n", "link": "/find?type=3&query=revue", "word": "revue"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vues</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a show in a theater that includes funny songs, dances, short plays, etc., usually about recent events Do not confuse revue with review.</div>",
+            "id": "24851",
+            "mean": [],
+            "pronounce": "/r\u026a\u02c8vju\u02d0/",
+            "type": "noun",
+            "word": "revue"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u00e0i k\u1ecbch th\u1eddi s\u1ef1</div>",
+            "id": "77130",
+            "mean": [],
+            "pronounce": "/ri'vju:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/992475271e68acfb3c1f31850a94f5f4/16e62e8f1a6/R/revue.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ba2c5a120cfc4cb6fa33d5e5630b2792/16e62e8e87b/R/revue.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "revue"
+        },
+        "suggests": []
+    }
+}
