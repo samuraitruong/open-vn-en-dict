@@ -1,1 +1,27 @@
-{"error": 0, "query": "ordu", "enViData": {"suggests": [{"id": "62995", "link": "/find?type=1&query=ordure", "word": "ordure"}, {"id": "62996", "link": "/find?type=1&query=ordurous", "word": "ordurous"}]}, "mUrl": "/find?type=1&query=ordu", "enEnData": {"suggests": [{"id": "20254", "link": "/find?type=3&query=ordure", "word": "ordure"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20254",
+                "link": "/find?type=3&query=ordure",
+                "word": "ordure"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62995",
+                "link": "/find?type=1&query=ordure",
+                "word": "ordure"
+            },
+            {
+                "id": "62996",
+                "link": "/find?type=1&query=ordurous",
+                "word": "ordurous"
+            }
+        ]
+    }
+}

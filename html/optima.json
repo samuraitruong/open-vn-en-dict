@@ -1,1 +1,47 @@
-{"error": 0, "query": "optima", "enViData": {"suggests": [{"id": "62840", "link": "/find?type=1&query=Optimal", "word": "Optimal"}, {"id": "62841", "link": "/find?type=1&query=Optimal+capacity", "word": "Optimal capacity"}, {"id": "62842", "link": "/find?type=1&query=Optimal+distribution", "word": "Optimal distribution"}, {"id": "62843", "link": "/find?type=1&query=Optimal+level+of+pollution", "word": "Optimal level of pollution"}, {"id": "62844", "link": "/find?type=1&query=optimality", "word": "optimality"}, {"id": "62845", "link": "/find?type=1&query=optimate", "word": "optimate"}]}, "mUrl": "/find?type=1&query=optima", "enEnData": {"suggests": [{"id": "20200", "link": "/find?type=3&query=optimal", "word": "optimal"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20200",
+                "link": "/find?type=3&query=optimal",
+                "word": "optimal"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62840",
+                "link": "/find?type=1&query=Optimal",
+                "word": "Optimal"
+            },
+            {
+                "id": "62841",
+                "link": "/find?type=1&query=Optimal+capacity",
+                "word": "Optimal capacity"
+            },
+            {
+                "id": "62842",
+                "link": "/find?type=1&query=Optimal+distribution",
+                "word": "Optimal distribution"
+            },
+            {
+                "id": "62843",
+                "link": "/find?type=1&query=Optimal+level+of+pollution",
+                "word": "Optimal level of pollution"
+            },
+            {
+                "id": "62844",
+                "link": "/find?type=1&query=optimality",
+                "word": "optimality"
+            },
+            {
+                "id": "62845",
+                "link": "/find?type=1&query=optimate",
+                "word": "optimate"
+            }
+        ]
+    }
+}

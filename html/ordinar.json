@@ -1,1 +1,77 @@
-{"error": 0, "query": "ordinar", "enViData": {"suggests": [{"id": "62979", "link": "/find?type=1&query=ordinarily", "word": "ordinarily"}, {"id": "62980", "link": "/find?type=1&query=ordinariness", "word": "ordinariness"}, {"id": "62981", "link": "/find?type=1&query=ordinary", "word": "ordinary"}, {"id": "62982", "link": "/find?type=1&query=Ordinary+least+square+%28OLS%29", "word": "Ordinary least square (OLS)"}, {"id": "62983", "link": "/find?type=1&query=ordinary+level", "word": "ordinary level"}, {"id": "62984", "link": "/find?type=1&query=ordinary+seaman", "word": "ordinary seaman"}, {"id": "62985", "link": "/find?type=1&query=Ordinary+share", "word": "Ordinary share"}]}, "mUrl": "/find?type=1&query=ordinar", "enEnData": {"suggests": [{"id": "20249", "link": "/find?type=3&query=ordinarily", "word": "ordinarily"}, {"id": "20250", "link": "/find?type=3&query=ordinary", "word": "ordinary"}, {"id": "20251", "link": "/find?type=3&query=Ordinary+level", "word": "Ordinary level"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5091", "link": "/find?type=4&query=ordinarily", "word": "ordinarily"}, {"id": "5092", "link": "/find?type=4&query=ordinary", "word": "ordinary"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20249",
+                "link": "/find?type=3&query=ordinarily",
+                "word": "ordinarily"
+            },
+            {
+                "id": "20250",
+                "link": "/find?type=3&query=ordinary",
+                "word": "ordinary"
+            },
+            {
+                "id": "20251",
+                "link": "/find?type=3&query=Ordinary+level",
+                "word": "Ordinary level"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62979",
+                "link": "/find?type=1&query=ordinarily",
+                "word": "ordinarily"
+            },
+            {
+                "id": "62980",
+                "link": "/find?type=1&query=ordinariness",
+                "word": "ordinariness"
+            },
+            {
+                "id": "62981",
+                "link": "/find?type=1&query=ordinary",
+                "word": "ordinary"
+            },
+            {
+                "id": "62982",
+                "link": "/find?type=1&query=Ordinary+least+square+%28OLS%29",
+                "word": "Ordinary least square (OLS)"
+            },
+            {
+                "id": "62983",
+                "link": "/find?type=1&query=ordinary+level",
+                "word": "ordinary level"
+            },
+            {
+                "id": "62984",
+                "link": "/find?type=1&query=ordinary+seaman",
+                "word": "ordinary seaman"
+            },
+            {
+                "id": "62985",
+                "link": "/find?type=1&query=Ordinary+share",
+                "word": "Ordinary share"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5091",
+                "link": "/find?type=4&query=ordinarily",
+                "word": "ordinarily"
+            },
+            {
+                "id": "5092",
+                "link": "/find?type=4&query=ordinary",
+                "word": "ordinary"
+            }
+        ]
+    }
+}

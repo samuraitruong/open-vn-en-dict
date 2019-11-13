@@ -1,1 +1,70 @@
-{"error": 0, "query": "orchestras", "enViData": {"suggests": [{"id": "62929", "link": "/find?type=1&query=orchestra+pit", "word": "orchestra pit"}, {"id": "62929", "link": "/find?type=1&query=orchestra+stalls", "word": "orchestra stalls"}, {"id": "62929", "link": "/find?type=1&query=orchestral", "word": "orchestral"}, {"id": "62929", "link": "/find?type=1&query=orchestral+pit", "word": "orchestral pit"}, {"id": "62929", "link": "/find?type=1&query=orchestral+stalls", "word": "orchestral stalls"}, {"id": "62929", "link": "/find?type=1&query=orchestrate", "word": "orchestrate"}, {"id": "62929", "link": "/find?type=1&query=orchestration", "word": "orchestration"}], "best": {"id": "62929", "details": "\n<div id=\"find_word_62929\" class=\"world word_en\" rel=\"orchestra\">\n    <h2 class=\"fl\">orchestra <span class=\"color-black\">/'\u0254:kistr\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"62929\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"62929\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e0n nh\u1ea1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a symphony orchestra</div>\n    \n    <div class=\"margin25\">d\u00e0n nh\u1ea1c giao h\u01b0\u1edfng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he plays the flute in an orchestra</div>\n    \n    <div class=\"margin25\">anh ta ch\u01a1i s\u00e1o trong m\u1ed9t d\u00e0n nh\u1ea1c</div>\n    \n</div>\n", "link": "/find?type=1&query=orchestra", "word": "orchestra"}}, "mUrl": "/find?type=1&query=orchestras", "enEnData": {"suggests": [{"id": "20233", "link": "/find?type=3&query=orchestrate", "word": "orchestrate"}], "best": {"id": "20233", "details": "\n<div id=\"find_word_20233\" class=\"world word_en\" rel=\"orchestra\">\n    <h2 class=\"fl\">orchestra <span class=\"color-black\">/\u02c8o\u025ak\u0259str\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20233\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20233\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tras</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a group of musicians who play usually classical music together and who are led by a conductor</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He plays violin in the school orchestra. - compare band; see also chamber orchestra, symphony orchestra</div>\n    \n    <div class=\"green margin25 m-top15\">the orchestra US :a group of seats in a theater that are close to the stage</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Our seats were in the orchestra (section). [=(Brit) the stalls]</div>\n    \n</div>\n", "link": "/find?type=3&query=orchestra", "word": "orchestra"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tras</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a group of musicians who play usually classical music together and who are led by a conductor</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He plays violin in the school orchestra. - compare band; see also chamber orchestra, symphony orchestra</div>\n    \n    <div class=\"green margin25 m-top15\">the orchestra US :a group of seats in a theater that are close to the stage</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Our seats were in the orchestra (section). [=(Brit) the stalls]</div>",
+            "id": "20233",
+            "mean": [],
+            "pronounce": "/\u02c8o\u025ak\u0259str\u0259/",
+            "type": "noun",
+            "word": "orchestra"
+        },
+        "suggests": [
+            {
+                "id": "20233",
+                "link": "/find?type=3&query=orchestrate",
+                "word": "orchestrate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e0n nh\u1ea1c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a symphony orchestra</div>\n    \n    <div class=\"margin25\">d\u00e0n nh\u1ea1c giao h\u01b0\u1edfng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he plays the flute in an orchestra</div>\n    \n    <div class=\"margin25\">anh ta ch\u01a1i s\u00e1o trong m\u1ed9t d\u00e0n nh\u1ea1c</div>",
+            "id": "62929",
+            "mean": [],
+            "pronounce": "/'\u0254:kistr\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1c793b4ad409349d162062cb325c9e4b/16e62b4a3e9/O/orchestra.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/51af2845e01d2c04dee17b2237c94cb2/16e62b49e2c/O/orchestra.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "orchestra"
+        },
+        "suggests": [
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestra+pit",
+                "word": "orchestra pit"
+            },
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestra+stalls",
+                "word": "orchestra stalls"
+            },
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestral",
+                "word": "orchestral"
+            },
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestral+pit",
+                "word": "orchestral pit"
+            },
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestral+stalls",
+                "word": "orchestral stalls"
+            },
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestrate",
+                "word": "orchestrate"
+            },
+            {
+                "id": "62929",
+                "link": "/find?type=1&query=orchestration",
+                "word": "orchestration"
+            }
+        ]
+    }
+}

@@ -1,1 +1,75 @@
-{"error": 0, "query": "orang", "enViData": {"suggests": [{"id": "62884", "link": "/find?type=1&query=orang-outan", "word": "orang-outan"}, {"id": "62884", "link": "/find?type=1&query=orang-outang", "word": "orang-outang"}, {"id": "62884", "link": "/find?type=1&query=orang-utan", "word": "orang-utan"}, {"id": "62884", "link": "/find?type=1&query=orange", "word": "orange"}, {"id": "62884", "link": "/find?type=1&query=orange+lily", "word": "orange lily"}, {"id": "62884", "link": "/find?type=1&query=orange+squash", "word": "orange squash"}, {"id": "62884", "link": "/find?type=1&query=orange-blossom", "word": "orange-blossom"}, {"id": "62884", "link": "/find?type=1&query=orange-peel", "word": "orange-peel"}, {"id": "62884", "link": "/find?type=1&query=orangeade", "word": "orangeade"}], "best": {"id": "62884", "details": "\n<div id=\"find_word_62884\" class=\"world word_en\" rel=\"orang\">\n    <h2 class=\"fl\">orang <span class=\"color-black\">/'\u0254:r\u0259\u0273'u:t\u00e6\u0273/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"62884\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"62884\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>-utan) /'\u0254:r\u0259\u0273'u:t\u00e6n/* danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) con \u0111\u01b0\u1eddi \u01b0\u01a1i</div>\n    \n</div>\n", "link": "/find?type=1&query=orang", "word": "orang"}}, "mUrl": "/find?type=1&query=orang", "enEnData": {"suggests": [{"id": "20220", "link": "/find?type=3&query=orange", "word": "orange"}, {"id": "20221", "link": "/find?type=3&query=orangutan", "word": "orangutan"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20220",
+                "link": "/find?type=3&query=orange",
+                "word": "orange"
+            },
+            {
+                "id": "20221",
+                "link": "/find?type=3&query=orangutan",
+                "word": "orangutan"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>-utan) /'\u0254:r\u0259\u0273'u:t\u00e6n/* danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) con \u0111\u01b0\u1eddi \u01b0\u01a1i</div>",
+            "id": "62884",
+            "mean": [],
+            "pronounce": "/'\u0254:r\u0259\u0273'u:t\u00e6\u0273/",
+            "speak": {},
+            "type": "-utan) /'\u0254:r\u0259\u0273'u:t\u00e6n/* danh t\u1eeb",
+            "word": "orang"
+        },
+        "suggests": [
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orang-outan",
+                "word": "orang-outan"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orang-outang",
+                "word": "orang-outang"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orang-utan",
+                "word": "orang-utan"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orange",
+                "word": "orange"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orange+lily",
+                "word": "orange lily"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orange+squash",
+                "word": "orange squash"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orange-blossom",
+                "word": "orange-blossom"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orange-peel",
+                "word": "orange-peel"
+            },
+            {
+                "id": "62884",
+                "link": "/find?type=1&query=orangeade",
+                "word": "orangeade"
+            }
+        ]
+    }
+}
