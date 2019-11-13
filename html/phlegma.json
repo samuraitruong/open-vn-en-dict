@@ -1,1 +1,37 @@
-{"error": 0, "query": "phlegma", "enViData": {"suggests": [{"id": "67402", "link": "/find?type=1&query=phlegmatic", "word": "phlegmatic"}, {"id": "67403", "link": "/find?type=1&query=phlegmatically", "word": "phlegmatically"}]}, "mUrl": "/find?type=1&query=phlegma", "enEnData": {"suggests": [{"id": "21617", "link": "/find?type=3&query=phlegmatic", "word": "phlegmatic"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5502", "link": "/find?type=4&query=phlegmatic", "word": "phlegmatic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21617",
+                "link": "/find?type=3&query=phlegmatic",
+                "word": "phlegmatic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67402",
+                "link": "/find?type=1&query=phlegmatic",
+                "word": "phlegmatic"
+            },
+            {
+                "id": "67403",
+                "link": "/find?type=1&query=phlegmatically",
+                "word": "phlegmatically"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5502",
+                "link": "/find?type=4&query=phlegmatic",
+                "word": "phlegmatic"
+            }
+        ]
+    }
+}

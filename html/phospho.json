@@ -1,1 +1,72 @@
-{"error": 0, "query": "phospho", "enViData": {"suggests": [{"id": "67506", "link": "/find?type=1&query=phospholysis", "word": "phospholysis"}, {"id": "67507", "link": "/find?type=1&query=phosphor", "word": "phosphor"}, {"id": "67508", "link": "/find?type=1&query=phosphor-bronze", "word": "phosphor-bronze"}, {"id": "67509", "link": "/find?type=1&query=phosphorate", "word": "phosphorate"}, {"id": "67510", "link": "/find?type=1&query=phosphoresce", "word": "phosphoresce"}, {"id": "67511", "link": "/find?type=1&query=phosphorescence", "word": "phosphorescence"}, {"id": "67512", "link": "/find?type=1&query=phosphorescent", "word": "phosphorescent"}, {"id": "67513", "link": "/find?type=1&query=phosphorescently", "word": "phosphorescently"}, {"id": "67514", "link": "/find?type=1&query=phosphoreted", "word": "phosphoreted"}, {"id": "67515", "link": "/find?type=1&query=phosphoric", "word": "phosphoric"}]}, "mUrl": "/find?type=1&query=phospho", "enEnData": {"suggests": [{"id": "21648", "link": "/find?type=3&query=phosphorescent", "word": "phosphorescent"}, {"id": "21649", "link": "/find?type=3&query=phosphorus", "word": "phosphorus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21648",
+                "link": "/find?type=3&query=phosphorescent",
+                "word": "phosphorescent"
+            },
+            {
+                "id": "21649",
+                "link": "/find?type=3&query=phosphorus",
+                "word": "phosphorus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67506",
+                "link": "/find?type=1&query=phospholysis",
+                "word": "phospholysis"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphor",
+                "word": "phosphor"
+            },
+            {
+                "id": "67508",
+                "link": "/find?type=1&query=phosphor-bronze",
+                "word": "phosphor-bronze"
+            },
+            {
+                "id": "67509",
+                "link": "/find?type=1&query=phosphorate",
+                "word": "phosphorate"
+            },
+            {
+                "id": "67510",
+                "link": "/find?type=1&query=phosphoresce",
+                "word": "phosphoresce"
+            },
+            {
+                "id": "67511",
+                "link": "/find?type=1&query=phosphorescence",
+                "word": "phosphorescence"
+            },
+            {
+                "id": "67512",
+                "link": "/find?type=1&query=phosphorescent",
+                "word": "phosphorescent"
+            },
+            {
+                "id": "67513",
+                "link": "/find?type=1&query=phosphorescently",
+                "word": "phosphorescently"
+            },
+            {
+                "id": "67514",
+                "link": "/find?type=1&query=phosphoreted",
+                "word": "phosphoreted"
+            },
+            {
+                "id": "67515",
+                "link": "/find?type=1&query=phosphoric",
+                "word": "phosphoric"
+            }
+        ]
+    }
+}

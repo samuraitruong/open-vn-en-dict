@@ -1,1 +1,52 @@
-{"error": 0, "query": "phonol", "enViData": {"suggests": [{"id": "67474", "link": "/find?type=1&query=phonolite", "word": "phonolite"}, {"id": "67475", "link": "/find?type=1&query=phonolitic", "word": "phonolitic"}, {"id": "67476", "link": "/find?type=1&query=phonologic", "word": "phonologic"}, {"id": "67477", "link": "/find?type=1&query=phonological", "word": "phonological"}, {"id": "67478", "link": "/find?type=1&query=phonologically", "word": "phonologically"}, {"id": "67479", "link": "/find?type=1&query=phonologist", "word": "phonologist"}, {"id": "67480", "link": "/find?type=1&query=phonology", "word": "phonology"}]}, "mUrl": "/find?type=1&query=phonol", "enEnData": {"suggests": [{"id": "21644", "link": "/find?type=3&query=phonology", "word": "phonology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21644",
+                "link": "/find?type=3&query=phonology",
+                "word": "phonology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67474",
+                "link": "/find?type=1&query=phonolite",
+                "word": "phonolite"
+            },
+            {
+                "id": "67475",
+                "link": "/find?type=1&query=phonolitic",
+                "word": "phonolitic"
+            },
+            {
+                "id": "67476",
+                "link": "/find?type=1&query=phonologic",
+                "word": "phonologic"
+            },
+            {
+                "id": "67477",
+                "link": "/find?type=1&query=phonological",
+                "word": "phonological"
+            },
+            {
+                "id": "67478",
+                "link": "/find?type=1&query=phonologically",
+                "word": "phonologically"
+            },
+            {
+                "id": "67479",
+                "link": "/find?type=1&query=phonologist",
+                "word": "phonologist"
+            },
+            {
+                "id": "67480",
+                "link": "/find?type=1&query=phonology",
+                "word": "phonology"
+            }
+        ]
+    }
+}

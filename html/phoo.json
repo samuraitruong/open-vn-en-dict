@@ -1,1 +1,22 @@
-{"error": 0, "query": "phoo", "enViData": {"suggests": [{"id": "67493", "link": "/find?type=1&query=phooey", "word": "phooey"}]}, "mUrl": "/find?type=1&query=phoo", "enEnData": {"suggests": [{"id": "21646", "link": "/find?type=3&query=phooey", "word": "phooey"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21646",
+                "link": "/find?type=3&query=phooey",
+                "word": "phooey"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67493",
+                "link": "/find?type=1&query=phooey",
+                "word": "phooey"
+            }
+        ]
+    }
+}

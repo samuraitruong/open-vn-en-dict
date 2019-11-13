@@ -1,1 +1,75 @@
-{"error": 0, "query": "phosphors", "enViData": {"suggests": [{"id": "67507", "link": "/find?type=1&query=phosphor-bronze", "word": "phosphor-bronze"}, {"id": "67507", "link": "/find?type=1&query=phosphorate", "word": "phosphorate"}, {"id": "67507", "link": "/find?type=1&query=phosphoresce", "word": "phosphoresce"}, {"id": "67507", "link": "/find?type=1&query=phosphorescence", "word": "phosphorescence"}, {"id": "67507", "link": "/find?type=1&query=phosphorescent", "word": "phosphorescent"}, {"id": "67507", "link": "/find?type=1&query=phosphorescently", "word": "phosphorescently"}, {"id": "67507", "link": "/find?type=1&query=phosphoreted", "word": "phosphoreted"}, {"id": "67507", "link": "/find?type=1&query=phosphoric", "word": "phosphoric"}, {"id": "67507", "link": "/find?type=1&query=phosphorism", "word": "phosphorism"}], "best": {"id": "67507", "details": "\n<div id=\"find_word_67507\" class=\"world word_en\" rel=\"phosphor\">\n    <h2 class=\"fl\">phosphor <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67507\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67507\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">ph\u1ed1t-pho</div>\n    \n</div>\n", "link": "/find?type=1&query=phosphor", "word": "phosphor"}}, "mUrl": "/find?type=1&query=phosphors", "enEnData": {"suggests": [{"id": "21648", "link": "/find?type=3&query=phosphorescent", "word": "phosphorescent"}, {"id": "21649", "link": "/find?type=3&query=phosphorus", "word": "phosphorus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21648",
+                "link": "/find?type=3&query=phosphorescent",
+                "word": "phosphorescent"
+            },
+            {
+                "id": "21649",
+                "link": "/find?type=3&query=phosphorus",
+                "word": "phosphorus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ph\u1ed1t-pho</div>",
+            "id": "67507",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "phosphor"
+        },
+        "suggests": [
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphor-bronze",
+                "word": "phosphor-bronze"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphorate",
+                "word": "phosphorate"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphoresce",
+                "word": "phosphoresce"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphorescence",
+                "word": "phosphorescence"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphorescent",
+                "word": "phosphorescent"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphorescently",
+                "word": "phosphorescently"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphoreted",
+                "word": "phosphoreted"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphoric",
+                "word": "phosphoric"
+            },
+            {
+                "id": "67507",
+                "link": "/find?type=1&query=phosphorism",
+                "word": "phosphorism"
+            }
+        ]
+    }
+}
