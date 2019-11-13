@@ -1,1 +1,57 @@
-{"error": 0, "query": "marm", "enViData": {"suggests": [{"id": "56227", "link": "/find?type=1&query=marmalade", "word": "marmalade"}, {"id": "56228", "link": "/find?type=1&query=marmite", "word": "marmite"}, {"id": "56229", "link": "/find?type=1&query=marmoreal", "word": "marmoreal"}, {"id": "56230", "link": "/find?type=1&query=marmorean", "word": "marmorean"}, {"id": "56231", "link": "/find?type=1&query=marmoset", "word": "marmoset"}, {"id": "56232", "link": "/find?type=1&query=marmot", "word": "marmot"}]}, "mUrl": "/find?type=1&query=marm", "enEnData": {"suggests": [{"id": "17584", "link": "/find?type=3&query=marmalade", "word": "marmalade"}, {"id": "17585", "link": "/find?type=3&query=marmoset", "word": "marmoset"}, {"id": "17586", "link": "/find?type=3&query=marmot", "word": "marmot"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17584",
+                "link": "/find?type=3&query=marmalade",
+                "word": "marmalade"
+            },
+            {
+                "id": "17585",
+                "link": "/find?type=3&query=marmoset",
+                "word": "marmoset"
+            },
+            {
+                "id": "17586",
+                "link": "/find?type=3&query=marmot",
+                "word": "marmot"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56227",
+                "link": "/find?type=1&query=marmalade",
+                "word": "marmalade"
+            },
+            {
+                "id": "56228",
+                "link": "/find?type=1&query=marmite",
+                "word": "marmite"
+            },
+            {
+                "id": "56229",
+                "link": "/find?type=1&query=marmoreal",
+                "word": "marmoreal"
+            },
+            {
+                "id": "56230",
+                "link": "/find?type=1&query=marmorean",
+                "word": "marmorean"
+            },
+            {
+                "id": "56231",
+                "link": "/find?type=1&query=marmoset",
+                "word": "marmoset"
+            },
+            {
+                "id": "56232",
+                "link": "/find?type=1&query=marmot",
+                "word": "marmot"
+            }
+        ]
+    }
+}

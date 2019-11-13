@@ -1,1 +1,22 @@
-{"error": 0, "query": "marion", "enViData": {"suggests": [{"id": "56162", "link": "/find?type=1&query=marionette", "word": "marionette"}]}, "mUrl": "/find?type=1&query=marion", "enEnData": {"suggests": [{"id": "17557", "link": "/find?type=3&query=marionette", "word": "marionette"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17557",
+                "link": "/find?type=3&query=marionette",
+                "word": "marionette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56162",
+                "link": "/find?type=1&query=marionette",
+                "word": "marionette"
+            }
+        ]
+    }
+}

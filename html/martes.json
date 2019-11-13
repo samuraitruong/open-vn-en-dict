@@ -1,1 +1,37 @@
-{"error": 0, "query": "martes", "enViData": {"suggests": [{"id": "56296", "link": "/find?type=1&query=martempering", "word": "martempering"}, {"id": "56297", "link": "/find?type=1&query=marten", "word": "marten"}, {"id": "56298", "link": "/find?type=1&query=martensite", "word": "martensite"}, {"id": "56299", "link": "/find?type=1&query=martensitic", "word": "martensitic"}]}, "mUrl": "/find?type=1&query=martes", "enEnData": {"suggests": [{"id": "17609", "link": "/find?type=3&query=marten", "word": "marten"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17609",
+                "link": "/find?type=3&query=marten",
+                "word": "marten"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56296",
+                "link": "/find?type=1&query=martempering",
+                "word": "martempering"
+            },
+            {
+                "id": "56297",
+                "link": "/find?type=1&query=marten",
+                "word": "marten"
+            },
+            {
+                "id": "56298",
+                "link": "/find?type=1&query=martensite",
+                "word": "martensite"
+            },
+            {
+                "id": "56299",
+                "link": "/find?type=1&query=martensitic",
+                "word": "martensitic"
+            }
+        ]
+    }
+}

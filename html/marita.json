@@ -1,1 +1,37 @@
-{"error": 0, "query": "marita", "enViData": {"suggests": [{"id": "56165", "link": "/find?type=1&query=marital", "word": "marital"}, {"id": "56166", "link": "/find?type=1&query=marital+status", "word": "marital status"}, {"id": "56167", "link": "/find?type=1&query=maritally", "word": "maritally"}]}, "mUrl": "/find?type=1&query=marita", "enEnData": {"suggests": [{"id": "17558", "link": "/find?type=3&query=marital", "word": "marital"}, {"id": "17559", "link": "/find?type=3&query=marital+status", "word": "marital status"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17558",
+                "link": "/find?type=3&query=marital",
+                "word": "marital"
+            },
+            {
+                "id": "17559",
+                "link": "/find?type=3&query=marital+status",
+                "word": "marital status"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56165",
+                "link": "/find?type=1&query=marital",
+                "word": "marital"
+            },
+            {
+                "id": "56166",
+                "link": "/find?type=1&query=marital+status",
+                "word": "marital status"
+            },
+            {
+                "id": "56167",
+                "link": "/find?type=1&query=maritally",
+                "word": "maritally"
+            }
+        ]
+    }
+}

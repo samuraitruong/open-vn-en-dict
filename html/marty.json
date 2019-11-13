@@ -1,1 +1,72 @@
-{"error": 0, "query": "marty", "enViData": {"suggests": [{"id": "56314", "link": "/find?type=1&query=martyr", "word": "martyr"}, {"id": "56315", "link": "/find?type=1&query=martyrdom", "word": "martyrdom"}, {"id": "56316", "link": "/find?type=1&query=martyrise", "word": "martyrise"}, {"id": "56317", "link": "/find?type=1&query=martyrization", "word": "martyrization"}, {"id": "56318", "link": "/find?type=1&query=martyrize", "word": "martyrize"}, {"id": "56319", "link": "/find?type=1&query=martyrolatry", "word": "martyrolatry"}, {"id": "56320", "link": "/find?type=1&query=martyrological", "word": "martyrological"}, {"id": "56321", "link": "/find?type=1&query=martyrologist", "word": "martyrologist"}, {"id": "56322", "link": "/find?type=1&query=martyrology", "word": "martyrology"}, {"id": "56323", "link": "/find?type=1&query=martyry", "word": "martyry"}]}, "mUrl": "/find?type=1&query=marty", "enEnData": {"suggests": [{"id": "17617", "link": "/find?type=3&query=martyr", "word": "martyr"}, {"id": "17618", "link": "/find?type=3&query=martyrdom", "word": "martyrdom"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17617",
+                "link": "/find?type=3&query=martyr",
+                "word": "martyr"
+            },
+            {
+                "id": "17618",
+                "link": "/find?type=3&query=martyrdom",
+                "word": "martyrdom"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56314",
+                "link": "/find?type=1&query=martyr",
+                "word": "martyr"
+            },
+            {
+                "id": "56315",
+                "link": "/find?type=1&query=martyrdom",
+                "word": "martyrdom"
+            },
+            {
+                "id": "56316",
+                "link": "/find?type=1&query=martyrise",
+                "word": "martyrise"
+            },
+            {
+                "id": "56317",
+                "link": "/find?type=1&query=martyrization",
+                "word": "martyrization"
+            },
+            {
+                "id": "56318",
+                "link": "/find?type=1&query=martyrize",
+                "word": "martyrize"
+            },
+            {
+                "id": "56319",
+                "link": "/find?type=1&query=martyrolatry",
+                "word": "martyrolatry"
+            },
+            {
+                "id": "56320",
+                "link": "/find?type=1&query=martyrological",
+                "word": "martyrological"
+            },
+            {
+                "id": "56321",
+                "link": "/find?type=1&query=martyrologist",
+                "word": "martyrologist"
+            },
+            {
+                "id": "56322",
+                "link": "/find?type=1&query=martyrology",
+                "word": "martyrology"
+            },
+            {
+                "id": "56323",
+                "link": "/find?type=1&query=martyry",
+                "word": "martyry"
+            }
+        ]
+    }
+}

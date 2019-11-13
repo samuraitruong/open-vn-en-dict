@@ -1,1 +1,22 @@
-{"error": 0, "query": "markus", "enViData": {"suggests": [{"id": "56219", "link": "/find?type=1&query=markup", "word": "markup"}]}, "mUrl": "/find?type=1&query=markus", "enEnData": {"suggests": [{"id": "17582", "link": "/find?type=3&query=markup", "word": "markup"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17582",
+                "link": "/find?type=3&query=markup",
+                "word": "markup"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56219",
+                "link": "/find?type=1&query=markup",
+                "word": "markup"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "marx", "enViData": {"suggests": [{"id": "56330", "link": "/find?type=1&query=Marx%2C+Karl", "word": "Marx, Karl"}, {"id": "56331", "link": "/find?type=1&query=Marxian", "word": "Marxian"}, {"id": "56332", "link": "/find?type=1&query=Marxism", "word": "Marxism"}, {"id": "56333", "link": "/find?type=1&query=Marxism-Leninism", "word": "Marxism-Leninism"}, {"id": "56334", "link": "/find?type=1&query=Marxist", "word": "Marxist"}, {"id": "56335", "link": "/find?type=1&query=marxist-leninist", "word": "marxist-leninist"}]}, "mUrl": "/find?type=1&query=marx", "enEnData": {"suggests": [{"id": "17621", "link": "/find?type=3&query=Marxism", "word": "Marxism"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17621",
+                "link": "/find?type=3&query=Marxism",
+                "word": "Marxism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56330",
+                "link": "/find?type=1&query=Marx%2C+Karl",
+                "word": "Marx, Karl"
+            },
+            {
+                "id": "56331",
+                "link": "/find?type=1&query=Marxian",
+                "word": "Marxian"
+            },
+            {
+                "id": "56332",
+                "link": "/find?type=1&query=Marxism",
+                "word": "Marxism"
+            },
+            {
+                "id": "56333",
+                "link": "/find?type=1&query=Marxism-Leninism",
+                "word": "Marxism-Leninism"
+            },
+            {
+                "id": "56334",
+                "link": "/find?type=1&query=Marxist",
+                "word": "Marxist"
+            },
+            {
+                "id": "56335",
+                "link": "/find?type=1&query=marxist-leninist",
+                "word": "marxist-leninist"
+            }
+        ]
+    }
+}

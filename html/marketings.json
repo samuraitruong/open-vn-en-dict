@@ -1,1 +1,34 @@
-{"error": 0, "query": "marketings", "enViData": {"suggests": [{"id": "56208", "link": "/find?type=1&query=Marketing+boards", "word": "Marketing boards"}], "best": {"id": "56208", "details": "\n<div id=\"find_word_56208\" class=\"world word_en\" rel=\"marketing\">\n    <h2 class=\"fl\">marketing <span class=\"color-black\">/'m\u0251:kiti\u03b7/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56208\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56208\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ti\u1ebfp c\u1eadn th\u1ecb tr\u01b0\u1eddng, s\u1ef1 ti\u1ebfp th\u1ecb</div>\n    \n</div>\n", "link": "/find?type=1&query=marketing", "word": "marketing"}}, "mUrl": "/find?type=1&query=marketings", "enEnData": {"suggests": [], "best": {"id": "17576", "details": "\n<div id=\"find_word_17576\" class=\"world word_en\" rel=\"marketing\">\n    <h2 class=\"fl\">marketing <span class=\"color-black\">/\u02c8m\u0251\u025ak\u0259t\u026a\u014b/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17576\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17576\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the activities that are involved in making people aware of a company's products, making sure that the products are available to be bought, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company will increase its budget for marketing.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has a job in marketing.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She runs the company's marketing department.</div>\n    \n</div>\n", "link": "/find?type=3&query=marketing", "word": "marketing"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the activities that are involved in making people aware of a company's products, making sure that the products are available to be bought, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The company will increase its budget for marketing.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has a job in marketing.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She runs the company's marketing department.</div>",
+            "id": "17576",
+            "mean": [],
+            "pronounce": "/\u02c8m\u0251\u025ak\u0259t\u026a\u014b/",
+            "type": "noun",
+            "word": "marketing"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ti\u1ebfp c\u1eadn th\u1ecb tr\u01b0\u1eddng, s\u1ef1 ti\u1ebfp th\u1ecb</div>",
+            "id": "56208",
+            "mean": [],
+            "pronounce": "/'m\u0251:kiti\u03b7/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/91a300379c17237557e5aec0d767ea66/16e6298e413/M/marketing.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/329c30d8f0912d75785787a68055ea75/16e6298de16/M/marketing.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "marketing"
+        },
+        "suggests": [
+            {
+                "id": "56208",
+                "link": "/find?type=1&query=Marketing+boards",
+                "word": "Marketing boards"
+            }
+        ]
+    }
+}
