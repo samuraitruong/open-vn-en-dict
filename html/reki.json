@@ -1,1 +1,22 @@
-{"error": 0, "query": "reki", "enViData": {"suggests": [{"id": "75949", "link": "/find?type=1&query=rekindle", "word": "rekindle"}]}, "mUrl": "/find?type=1&query=reki", "enEnData": {"suggests": [{"id": "24390", "link": "/find?type=3&query=rekindle", "word": "rekindle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24390",
+                "link": "/find?type=3&query=rekindle",
+                "word": "rekindle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75949",
+                "link": "/find?type=1&query=rekindle",
+                "word": "rekindle"
+            }
+        ]
+    }
+}

@@ -1,1 +1,122 @@
-{"error": 0, "query": "reles", "enViData": {"suggests": [{"id": "75988", "link": "/find?type=1&query=release", "word": "release"}, {"id": "75989", "link": "/find?type=1&query=release+gear", "word": "release gear"}, {"id": "75990", "link": "/find?type=1&query=releasee", "word": "releasee"}, {"id": "75991", "link": "/find?type=1&query=releaser", "word": "releaser"}, {"id": "75992", "link": "/find?type=1&query=releasor", "word": "releasor"}, {"id": "75993", "link": "/find?type=1&query=relegate", "word": "relegate"}, {"id": "75994", "link": "/find?type=1&query=relegation", "word": "relegation"}, {"id": "75995", "link": "/find?type=1&query=relent", "word": "relent"}, {"id": "75996", "link": "/find?type=1&query=relentless", "word": "relentless"}, {"id": "75997", "link": "/find?type=1&query=relentlessly", "word": "relentlessly"}]}, "mUrl": "/find?type=1&query=reles", "enEnData": {"suggests": [{"id": "24409", "link": "/find?type=3&query=release", "word": "release"}, {"id": "24410", "link": "/find?type=3&query=relegate", "word": "relegate"}, {"id": "24411", "link": "/find?type=3&query=relent", "word": "relent"}, {"id": "24412", "link": "/find?type=3&query=relentless", "word": "relentless"}, {"id": "24413", "link": "/find?type=3&query=relevant", "word": "relevant"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6418", "link": "/find?type=4&query=release", "word": "release"}, {"id": "6419", "link": "/find?type=4&query=relegate", "word": "relegate"}, {"id": "6420", "link": "/find?type=4&query=relent", "word": "relent"}, {"id": "6421", "link": "/find?type=4&query=relentless", "word": "relentless"}, {"id": "6422", "link": "/find?type=4&query=relevance", "word": "relevance"}, {"id": "6423", "link": "/find?type=4&query=relevant", "word": "relevant"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24409",
+                "link": "/find?type=3&query=release",
+                "word": "release"
+            },
+            {
+                "id": "24410",
+                "link": "/find?type=3&query=relegate",
+                "word": "relegate"
+            },
+            {
+                "id": "24411",
+                "link": "/find?type=3&query=relent",
+                "word": "relent"
+            },
+            {
+                "id": "24412",
+                "link": "/find?type=3&query=relentless",
+                "word": "relentless"
+            },
+            {
+                "id": "24413",
+                "link": "/find?type=3&query=relevant",
+                "word": "relevant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75988",
+                "link": "/find?type=1&query=release",
+                "word": "release"
+            },
+            {
+                "id": "75989",
+                "link": "/find?type=1&query=release+gear",
+                "word": "release gear"
+            },
+            {
+                "id": "75990",
+                "link": "/find?type=1&query=releasee",
+                "word": "releasee"
+            },
+            {
+                "id": "75991",
+                "link": "/find?type=1&query=releaser",
+                "word": "releaser"
+            },
+            {
+                "id": "75992",
+                "link": "/find?type=1&query=releasor",
+                "word": "releasor"
+            },
+            {
+                "id": "75993",
+                "link": "/find?type=1&query=relegate",
+                "word": "relegate"
+            },
+            {
+                "id": "75994",
+                "link": "/find?type=1&query=relegation",
+                "word": "relegation"
+            },
+            {
+                "id": "75995",
+                "link": "/find?type=1&query=relent",
+                "word": "relent"
+            },
+            {
+                "id": "75996",
+                "link": "/find?type=1&query=relentless",
+                "word": "relentless"
+            },
+            {
+                "id": "75997",
+                "link": "/find?type=1&query=relentlessly",
+                "word": "relentlessly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6418",
+                "link": "/find?type=4&query=release",
+                "word": "release"
+            },
+            {
+                "id": "6419",
+                "link": "/find?type=4&query=relegate",
+                "word": "relegate"
+            },
+            {
+                "id": "6420",
+                "link": "/find?type=4&query=relent",
+                "word": "relent"
+            },
+            {
+                "id": "6421",
+                "link": "/find?type=4&query=relentless",
+                "word": "relentless"
+            },
+            {
+                "id": "6422",
+                "link": "/find?type=4&query=relevance",
+                "word": "relevance"
+            },
+            {
+                "id": "6423",
+                "link": "/find?type=4&query=relevant",
+                "word": "relevant"
+            }
+        ]
+    }
+}
