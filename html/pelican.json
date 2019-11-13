@@ -1,1 +1,40 @@
-{"error": 0, "query": "pelican", "enViData": {"suggests": [{"id": "66139", "link": "/find?type=1&query=pelican+crossing", "word": "pelican crossing"}], "best": {"id": "66139", "details": "\n<div id=\"find_word_66139\" class=\"world word_en\" rel=\"pelican\">\n    <h2 class=\"fl\">pelican <span class=\"color-black\">/'pelik\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66139\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66139\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">[chim] b\u1ed3 n\u00f4ng</div>\n    \n</div>\n", "link": "/find?type=1&query=pelican", "word": "pelican"}}, "mUrl": "/find?type=1&query=pelican", "enEnData": {"suggests": [{"id": "21264", "link": "/find?type=3&query=pelican+crossing", "word": "pelican crossing"}], "best": {"id": "21264", "details": "\n<div id=\"find_word_21264\" class=\"world word_en\" rel=\"pelican\">\n    <h2 class=\"fl\">pelican <span class=\"color-black\">/\u02c8p\u025bl\u026ak\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21264\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21264\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large ocean bird that has a large bag that is part of its lower bill for catching and holding fish - see color picture</div>\n    \n</div>\n", "link": "/find?type=3&query=pelican", "word": "pelican"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cans</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large ocean bird that has a large bag that is part of its lower bill for catching and holding fish - see color picture</div>",
+            "id": "21264",
+            "mean": [],
+            "pronounce": "/\u02c8p\u025bl\u026ak\u0259n/",
+            "type": "noun",
+            "word": "pelican"
+        },
+        "suggests": [
+            {
+                "id": "21264",
+                "link": "/find?type=3&query=pelican+crossing",
+                "word": "pelican crossing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">[chim] b\u1ed3 n\u00f4ng</div>",
+            "id": "66139",
+            "mean": [],
+            "pronounce": "/'pelik\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f86bb8ef7ef98bc3354d5f443698c9d6/16e62c166d6/P/pelican.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/0fc2152c0e8b2e34e145711e44f22b6e/16e62c160e3/P/pelican.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pelican"
+        },
+        "suggests": [
+            {
+                "id": "66139",
+                "link": "/find?type=1&query=pelican+crossing",
+                "word": "pelican crossing"
+            }
+        ]
+    }
+}

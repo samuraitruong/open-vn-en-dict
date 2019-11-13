@@ -1,1 +1,100 @@
-{"error": 0, "query": "pedes", "enViData": {"suggests": [{"id": "66012", "link": "/find?type=1&query=pedestal", "word": "pedestal"}, {"id": "66012", "link": "/find?type=1&query=pedestal+table", "word": "pedestal table"}, {"id": "66012", "link": "/find?type=1&query=pedestrial", "word": "pedestrial"}, {"id": "66012", "link": "/find?type=1&query=pedestrian", "word": "pedestrian"}, {"id": "66012", "link": "/find?type=1&query=pedestrian+crossing", "word": "pedestrian crossing"}, {"id": "66012", "link": "/find?type=1&query=pedestrian+precinct", "word": "pedestrian precinct"}, {"id": "66012", "link": "/find?type=1&query=pedestrianise", "word": "pedestrianise"}, {"id": "66012", "link": "/find?type=1&query=pedestrianism", "word": "pedestrianism"}, {"id": "66012", "link": "/find?type=1&query=pedestrianization", "word": "pedestrianization"}], "best": {"id": "66012", "details": "\n<div id=\"find_word_66012\" class=\"world word_en\" rel=\"pedes\">\n    <h2 class=\"fl\">pedes <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66012\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66012\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=pes\">pes</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=pedes", "word": "pedes"}}, "mUrl": "/find?type=1&query=pedes", "enEnData": {"suggests": [{"id": "21225", "link": "/find?type=3&query=pedestal", "word": "pedestal"}, {"id": "21226", "link": "/find?type=3&query=pedestrian", "word": "pedestrian"}, {"id": "21227", "link": "/find?type=3&query=pedestrian+crossing", "word": "pedestrian crossing"}, {"id": "21228", "link": "/find?type=3&query=pedestrianise", "word": "pedestrianise"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5354", "link": "/find?type=4&query=pedestal", "word": "pedestal"}, {"id": "5355", "link": "/find?type=4&query=pedestrian", "word": "pedestrian"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21225",
+                "link": "/find?type=3&query=pedestal",
+                "word": "pedestal"
+            },
+            {
+                "id": "21226",
+                "link": "/find?type=3&query=pedestrian",
+                "word": "pedestrian"
+            },
+            {
+                "id": "21227",
+                "link": "/find?type=3&query=pedestrian+crossing",
+                "word": "pedestrian crossing"
+            },
+            {
+                "id": "21228",
+                "link": "/find?type=3&query=pedestrianise",
+                "word": "pedestrianise"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=pes\">pes</a></span></div>",
+            "id": "66012",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "pedes"
+        },
+        "suggests": [
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestal",
+                "word": "pedestal"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestal+table",
+                "word": "pedestal table"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrial",
+                "word": "pedestrial"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrian",
+                "word": "pedestrian"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrian+crossing",
+                "word": "pedestrian crossing"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrian+precinct",
+                "word": "pedestrian precinct"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrianise",
+                "word": "pedestrianise"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrianism",
+                "word": "pedestrianism"
+            },
+            {
+                "id": "66012",
+                "link": "/find?type=1&query=pedestrianization",
+                "word": "pedestrianization"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5354",
+                "link": "/find?type=4&query=pedestal",
+                "word": "pedestal"
+            },
+            {
+                "id": "5355",
+                "link": "/find?type=4&query=pedestrian",
+                "word": "pedestrian"
+            }
+        ]
+    }
+}
