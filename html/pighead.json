@@ -1,1 +1,27 @@
-{"error": 0, "query": "pighead", "enViData": {"suggests": [{"id": "67978", "link": "/find?type=1&query=pigheadedly", "word": "pigheadedly"}, {"id": "67979", "link": "/find?type=1&query=pigheadedness", "word": "pigheadedness"}]}, "mUrl": "/find?type=1&query=pighead", "enEnData": {"suggests": [{"id": "21780", "link": "/find?type=3&query=pigheaded", "word": "pigheaded"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21780",
+                "link": "/find?type=3&query=pigheaded",
+                "word": "pigheaded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67978",
+                "link": "/find?type=1&query=pigheadedly",
+                "word": "pigheadedly"
+            },
+            {
+                "id": "67979",
+                "link": "/find?type=1&query=pigheadedness",
+                "word": "pigheadedness"
+            }
+        ]
+    }
+}

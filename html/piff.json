@@ -1,1 +1,37 @@
-{"error": 0, "query": "piff", "enViData": {"suggests": [{"id": "67949", "link": "/find?type=1&query=piffle", "word": "piffle"}, {"id": "67950", "link": "/find?type=1&query=piffler", "word": "piffler"}, {"id": "67951", "link": "/find?type=1&query=piffling", "word": "piffling"}]}, "mUrl": "/find?type=1&query=piff", "enEnData": {"suggests": [{"id": "21767", "link": "/find?type=3&query=piffle", "word": "piffle"}, {"id": "21768", "link": "/find?type=3&query=piffling", "word": "piffling"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21767",
+                "link": "/find?type=3&query=piffle",
+                "word": "piffle"
+            },
+            {
+                "id": "21768",
+                "link": "/find?type=3&query=piffling",
+                "word": "piffling"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67949",
+                "link": "/find?type=1&query=piffle",
+                "word": "piffle"
+            },
+            {
+                "id": "67950",
+                "link": "/find?type=1&query=piffler",
+                "word": "piffler"
+            },
+            {
+                "id": "67951",
+                "link": "/find?type=1&query=piffling",
+                "word": "piffling"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "piffled", "enViData": {"suggests": [{"id": "67949", "link": "/find?type=1&query=piffler", "word": "piffler"}], "best": {"id": "67949", "details": "\n<div id=\"find_word_67949\" class=\"world word_en\" rel=\"piffle\">\n    <h2 class=\"fl\">piffle <span class=\"color-black\">/'pifl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67949\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67949\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef, ngh\u0129a x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">chuy\u1ec7n t\u00e0o lao</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">you're talking piffle!</div>\n    \n    <div class=\"margin25\">anh ch\u1ec9 n\u00f3i t\u00e0o lao!</div>\n    \n</div>\n", "link": "/find?type=1&query=piffle", "word": "piffle"}}, "mUrl": "/find?type=1&query=piffled", "enEnData": {"suggests": [], "best": {"id": "21767", "details": "\n<div id=\"find_word_21767\" class=\"world word_en\" rel=\"piffle\">\n    <h2 class=\"fl\">piffle <span class=\"color-black\">/\u02c8p\u026af\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21767\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21767\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] informal + old-fashioned :words or ideas that are false or silly :nonsense</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His story is complete piffle.</div>\n    \n</div>\n", "link": "/find?type=3&query=piffle", "word": "piffle"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] informal + old-fashioned :words or ideas that are false or silly :nonsense</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">His story is complete piffle.</div>",
+            "id": "21767",
+            "mean": [],
+            "pronounce": "/\u02c8p\u026af\u0259l/",
+            "type": "noun",
+            "word": "piffle"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef, ngh\u0129a x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">chuy\u1ec7n t\u00e0o lao</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">you're talking piffle!</div>\n    \n    <div class=\"margin25\">anh ch\u1ec9 n\u00f3i t\u00e0o lao!</div>",
+            "id": "67949",
+            "mean": [],
+            "pronounce": "/'pifl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/12e7df8c073d2514ab783fe149b19e15/16e62c7a03b/P/piffle.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4ecb5efe5ea13cb91297ae7772f78000/16e62c79a74/P/piffle.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "piffle"
+        },
+        "suggests": [
+            {
+                "id": "67949",
+                "link": "/find?type=1&query=piffler",
+                "word": "piffler"
+            }
+        ]
+    }
+}
