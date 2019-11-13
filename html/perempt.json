@@ -1,1 +1,47 @@
-{"error": 0, "query": "perempt", "enViData": {"suggests": [{"id": "66524", "link": "/find?type=1&query=peremptorily", "word": "peremptorily"}, {"id": "66525", "link": "/find?type=1&query=peremptoriness", "word": "peremptoriness"}, {"id": "66526", "link": "/find?type=1&query=peremptory", "word": "peremptory"}, {"id": "66527", "link": "/find?type=1&query=peremptory+writ", "word": "peremptory writ"}]}, "mUrl": "/find?type=1&query=perempt", "enEnData": {"suggests": [{"id": "21381", "link": "/find?type=3&query=peremptory", "word": "peremptory"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5399", "link": "/find?type=4&query=peremptory", "word": "peremptory"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21381",
+                "link": "/find?type=3&query=peremptory",
+                "word": "peremptory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66524",
+                "link": "/find?type=1&query=peremptorily",
+                "word": "peremptorily"
+            },
+            {
+                "id": "66525",
+                "link": "/find?type=1&query=peremptoriness",
+                "word": "peremptoriness"
+            },
+            {
+                "id": "66526",
+                "link": "/find?type=1&query=peremptory",
+                "word": "peremptory"
+            },
+            {
+                "id": "66527",
+                "link": "/find?type=1&query=peremptory+writ",
+                "word": "peremptory writ"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5399",
+                "link": "/find?type=4&query=peremptory",
+                "word": "peremptory"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "perdit", "enViData": {"suggests": [{"id": "66508", "link": "/find?type=1&query=perdition", "word": "perdition"}]}, "mUrl": "/find?type=1&query=perdit", "enEnData": {"suggests": [{"id": "21379", "link": "/find?type=3&query=perdition", "word": "perdition"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5398", "link": "/find?type=4&query=perdition", "word": "perdition"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21379",
+                "link": "/find?type=3&query=perdition",
+                "word": "perdition"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66508",
+                "link": "/find?type=1&query=perdition",
+                "word": "perdition"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5398",
+                "link": "/find?type=4&query=perdition",
+                "word": "perdition"
+            }
+        ]
+    }
+}

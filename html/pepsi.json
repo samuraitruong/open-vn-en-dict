@@ -1,1 +1,17 @@
-{"error": 0, "query": "pepsi", "enViData": {"suggests": [{"id": "66437", "link": "/find?type=1&query=pepsin", "word": "pepsin"}, {"id": "66438", "link": "/find?type=1&query=pepsinogen", "word": "pepsinogen"}]}, "mUrl": "/find?type=1&query=pepsi", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66437",
+                "link": "/find?type=1&query=pepsin",
+                "word": "pepsin"
+            },
+            {
+                "id": "66438",
+                "link": "/find?type=1&query=pepsinogen",
+                "word": "pepsinogen"
+            }
+        ]
+    }
+}

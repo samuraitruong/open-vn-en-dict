@@ -1,1 +1,32 @@
-{"error": 0, "query": "perh", "enViData": {"suggests": [{"id": "66591", "link": "/find?type=1&query=perhaps", "word": "perhaps"}]}, "mUrl": "/find?type=1&query=perh", "enEnData": {"suggests": [{"id": "21403", "link": "/find?type=3&query=perhaps", "word": "perhaps"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5413", "link": "/find?type=4&query=perhaps", "word": "perhaps"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21403",
+                "link": "/find?type=3&query=perhaps",
+                "word": "perhaps"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66591",
+                "link": "/find?type=1&query=perhaps",
+                "word": "perhaps"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5413",
+                "link": "/find?type=4&query=perhaps",
+                "word": "perhaps"
+            }
+        ]
+    }
+}

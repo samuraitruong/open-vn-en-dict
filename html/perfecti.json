@@ -1,1 +1,87 @@
-{"error": 0, "query": "perfecti", "enViData": {"suggests": [{"id": "66541", "link": "/find?type=1&query=perfectibility", "word": "perfectibility"}, {"id": "66542", "link": "/find?type=1&query=perfectible", "word": "perfectible"}, {"id": "66543", "link": "/find?type=1&query=perfection", "word": "perfection"}, {"id": "66544", "link": "/find?type=1&query=perfectionism", "word": "perfectionism"}, {"id": "66545", "link": "/find?type=1&query=perfectionist", "word": "perfectionist"}, {"id": "66546", "link": "/find?type=1&query=perfectionistic", "word": "perfectionistic"}, {"id": "66547", "link": "/find?type=1&query=perfective", "word": "perfective"}, {"id": "66548", "link": "/find?type=1&query=perfectively", "word": "perfectively"}, {"id": "66549", "link": "/find?type=1&query=perfectiveness", "word": "perfectiveness"}, {"id": "66550", "link": "/find?type=1&query=perfectivity", "word": "perfectivity"}]}, "mUrl": "/find?type=1&query=perfecti", "enEnData": {"suggests": [{"id": "21387", "link": "/find?type=3&query=perfection", "word": "perfection"}, {"id": "21388", "link": "/find?type=3&query=perfectionist", "word": "perfectionist"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5402", "link": "/find?type=4&query=perfection", "word": "perfection"}, {"id": "5403", "link": "/find?type=4&query=perfectionist", "word": "perfectionist"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21387",
+                "link": "/find?type=3&query=perfection",
+                "word": "perfection"
+            },
+            {
+                "id": "21388",
+                "link": "/find?type=3&query=perfectionist",
+                "word": "perfectionist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66541",
+                "link": "/find?type=1&query=perfectibility",
+                "word": "perfectibility"
+            },
+            {
+                "id": "66542",
+                "link": "/find?type=1&query=perfectible",
+                "word": "perfectible"
+            },
+            {
+                "id": "66543",
+                "link": "/find?type=1&query=perfection",
+                "word": "perfection"
+            },
+            {
+                "id": "66544",
+                "link": "/find?type=1&query=perfectionism",
+                "word": "perfectionism"
+            },
+            {
+                "id": "66545",
+                "link": "/find?type=1&query=perfectionist",
+                "word": "perfectionist"
+            },
+            {
+                "id": "66546",
+                "link": "/find?type=1&query=perfectionistic",
+                "word": "perfectionistic"
+            },
+            {
+                "id": "66547",
+                "link": "/find?type=1&query=perfective",
+                "word": "perfective"
+            },
+            {
+                "id": "66548",
+                "link": "/find?type=1&query=perfectively",
+                "word": "perfectively"
+            },
+            {
+                "id": "66549",
+                "link": "/find?type=1&query=perfectiveness",
+                "word": "perfectiveness"
+            },
+            {
+                "id": "66550",
+                "link": "/find?type=1&query=perfectivity",
+                "word": "perfectivity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5402",
+                "link": "/find?type=4&query=perfection",
+                "word": "perfection"
+            },
+            {
+                "id": "5403",
+                "link": "/find?type=4&query=perfectionist",
+                "word": "perfectionist"
+            }
+        ]
+    }
+}
