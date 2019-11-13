@@ -1,1 +1,22 @@
-{"error": 0, "query": "manser", "enViData": {"suggests": [{"id": "55966", "link": "/find?type=1&query=manservant", "word": "manservant"}]}, "mUrl": "/find?type=1&query=manser", "enEnData": {"suggests": [{"id": "17503", "link": "/find?type=3&query=manservant", "word": "manservant"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17503",
+                "link": "/find?type=3&query=manservant",
+                "word": "manservant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55966",
+                "link": "/find?type=1&query=manservant",
+                "word": "manservant"
+            }
+        ]
+    }
+}

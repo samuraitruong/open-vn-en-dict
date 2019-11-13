@@ -1,1 +1,37 @@
-{"error": 0, "query": "manos", "enViData": {"suggests": [{"id": "55959", "link": "/find?type=1&query=manoscopy", "word": "manoscopy"}]}, "mUrl": "/find?type=1&query=manos", "enEnData": {"suggests": [{"id": "17496", "link": "/find?type=3&query=mano+a+mano", "word": "mano a mano"}, {"id": "17498", "link": "/find?type=3&query=manor", "word": "manor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4405", "link": "/find?type=4&query=manoeuvre", "word": "manoeuvre"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17496",
+                "link": "/find?type=3&query=mano+a+mano",
+                "word": "mano a mano"
+            },
+            {
+                "id": "17498",
+                "link": "/find?type=3&query=manor",
+                "word": "manor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55959",
+                "link": "/find?type=1&query=manoscopy",
+                "word": "manoscopy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4405",
+                "link": "/find?type=4&query=manoeuvre",
+                "word": "manoeuvre"
+            }
+        ]
+    }
+}

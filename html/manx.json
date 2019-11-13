@@ -1,1 +1,28 @@
-{"error": 0, "query": "manx", "enViData": {"suggests": [{"id": "56012", "link": "/find?type=1&query=Manx+cat", "word": "Manx cat"}, {"id": "56012", "link": "/find?type=1&query=Manxman%2C+Manxwoman", "word": "Manxman, Manxwoman"}], "best": {"id": "56012", "details": "\n<div id=\"find_word_56012\" class=\"world word_en\" rel=\"Manx\">\n    <h2 class=\"fl\">Manx <span class=\"color-black\">/m\u00e6\u014bks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56012\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56012\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] \u0111\u1ea3o Man, [thu\u1ed9c ng\u01b0\u1eddi] Man, [thu\u1ed9c] ti\u1ebfng Man</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng [\u0111\u1ea3o] Man, ng\u00f4n ng\u1eef [\u0111\u1ea3o] Man</div>\n    \n</div>\n", "link": "/find?type=1&query=Manx", "word": "Manx"}}, "mUrl": "/find?type=1&query=manx", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] \u0111\u1ea3o Man, [thu\u1ed9c ng\u01b0\u1eddi] Man, [thu\u1ed9c] ti\u1ebfng Man</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng [\u0111\u1ea3o] Man, ng\u00f4n ng\u1eef [\u0111\u1ea3o] Man</div>",
+            "id": "56012",
+            "mean": [],
+            "pronounce": "/m\u00e6\u014bks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a751a32b1eb9d36b3381a12c6403492b/16e629872d4/M/Manx.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/41bd2ba7c0baf66ff774ae4cb2680726/16e62986abd/M/Manx.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "Manx"
+        },
+        "suggests": [
+            {
+                "id": "56012",
+                "link": "/find?type=1&query=Manx+cat",
+                "word": "Manx cat"
+            },
+            {
+                "id": "56012",
+                "link": "/find?type=1&query=Manxman%2C+Manxwoman",
+                "word": "Manxman, Manxwoman"
+            }
+        ]
+    }
+}

@@ -1,1 +1,28 @@
-{"error": 0, "query": "manikins", "enViData": {"suggests": [], "best": {"id": "55913", "details": "\n<div id=\"find_word_55913\" class=\"world word_en\" rel=\"manikin\">\n    <h2 class=\"fl\">manikin <span class=\"color-black\">/'m\u00e6nikin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55913\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55913\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u00f9n</div>\n    \n</div>\n", "link": "/find?type=1&query=manikin", "word": "manikin"}}, "mUrl": "/find?type=1&query=manikins", "enEnData": {"suggests": [], "best": {"id": "17479", "details": "\n<div id=\"find_word_17479\" class=\"world word_en\" rel=\"manikin\">\n    <h2 class=\"fl\">manikin <span class=\"color-black\">/\u02c8m\u00e6n\u026ak\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17479\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17479\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">also mannikin  , pl -kins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :mannequin</div>\n    \n</div>\n", "link": "/find?type=3&query=manikin", "word": "manikin"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">also mannikin  , pl -kins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :mannequin</div>",
+            "id": "17479",
+            "mean": [],
+            "pronounce": "/\u02c8m\u00e6n\u026ak\u0259n/",
+            "type": "noun",
+            "word": "manikin"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi l\u00f9n</div>",
+            "id": "55913",
+            "mean": [],
+            "pronounce": "/'m\u00e6nikin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/abda50dda281667370021d68dcbf0dc8/16e6298042c/M/manikin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/74e1495361853de924e5e61aa7401d67/16e6297fd88/M/manikin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "manikin"
+        },
+        "suggests": []
+    }
+}

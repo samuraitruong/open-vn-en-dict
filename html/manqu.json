@@ -1,1 +1,22 @@
-{"error": 0, "query": "manqu", "enViData": {"suggests": [{"id": "55962", "link": "/find?type=1&query=manqu%C3%A9", "word": "manqu\u00e9"}]}, "mUrl": "/find?type=1&query=manqu", "enEnData": {"suggests": [{"id": "17500", "link": "/find?type=3&query=manque", "word": "manque"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17500",
+                "link": "/find?type=3&query=manque",
+                "word": "manque"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55962",
+                "link": "/find?type=1&query=manqu%C3%A9",
+                "word": "manqu\u00e9"
+            }
+        ]
+    }
+}

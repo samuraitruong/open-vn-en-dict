@@ -1,1 +1,97 @@
-{"error": 0, "query": "mant", "enViData": {"suggests": [{"id": "55973", "link": "/find?type=1&query=manta", "word": "manta"}, {"id": "55974", "link": "/find?type=1&query=manta-ray", "word": "manta-ray"}, {"id": "55975", "link": "/find?type=1&query=mantel", "word": "mantel"}, {"id": "55976", "link": "/find?type=1&query=mantel-shelf", "word": "mantel-shelf"}, {"id": "55977", "link": "/find?type=1&query=mantelet", "word": "mantelet"}, {"id": "55978", "link": "/find?type=1&query=mantelletta", "word": "mantelletta"}, {"id": "55979", "link": "/find?type=1&query=mantelpiece", "word": "mantelpiece"}, {"id": "55980", "link": "/find?type=1&query=mantes", "word": "mantes"}, {"id": "55981", "link": "/find?type=1&query=mantic", "word": "mantic"}, {"id": "55982", "link": "/find?type=1&query=mantid", "word": "mantid"}]}, "mUrl": "/find?type=1&query=mant", "enEnData": {"suggests": [{"id": "17507", "link": "/find?type=3&query=mantel", "word": "mantel"}, {"id": "17508", "link": "/find?type=3&query=mantelpiece", "word": "mantelpiece"}, {"id": "17509", "link": "/find?type=3&query=mantis", "word": "mantis"}, {"id": "17510", "link": "/find?type=3&query=mantle", "word": "mantle"}, {"id": "17512", "link": "/find?type=3&query=mantra", "word": "mantra"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4406", "link": "/find?type=4&query=mantle", "word": "mantle"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17507",
+                "link": "/find?type=3&query=mantel",
+                "word": "mantel"
+            },
+            {
+                "id": "17508",
+                "link": "/find?type=3&query=mantelpiece",
+                "word": "mantelpiece"
+            },
+            {
+                "id": "17509",
+                "link": "/find?type=3&query=mantis",
+                "word": "mantis"
+            },
+            {
+                "id": "17510",
+                "link": "/find?type=3&query=mantle",
+                "word": "mantle"
+            },
+            {
+                "id": "17512",
+                "link": "/find?type=3&query=mantra",
+                "word": "mantra"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55973",
+                "link": "/find?type=1&query=manta",
+                "word": "manta"
+            },
+            {
+                "id": "55974",
+                "link": "/find?type=1&query=manta-ray",
+                "word": "manta-ray"
+            },
+            {
+                "id": "55975",
+                "link": "/find?type=1&query=mantel",
+                "word": "mantel"
+            },
+            {
+                "id": "55976",
+                "link": "/find?type=1&query=mantel-shelf",
+                "word": "mantel-shelf"
+            },
+            {
+                "id": "55977",
+                "link": "/find?type=1&query=mantelet",
+                "word": "mantelet"
+            },
+            {
+                "id": "55978",
+                "link": "/find?type=1&query=mantelletta",
+                "word": "mantelletta"
+            },
+            {
+                "id": "55979",
+                "link": "/find?type=1&query=mantelpiece",
+                "word": "mantelpiece"
+            },
+            {
+                "id": "55980",
+                "link": "/find?type=1&query=mantes",
+                "word": "mantes"
+            },
+            {
+                "id": "55981",
+                "link": "/find?type=1&query=mantic",
+                "word": "mantic"
+            },
+            {
+                "id": "55982",
+                "link": "/find?type=1&query=mantid",
+                "word": "mantid"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4406",
+                "link": "/find?type=4&query=mantle",
+                "word": "mantle"
+            }
+        ]
+    }
+}

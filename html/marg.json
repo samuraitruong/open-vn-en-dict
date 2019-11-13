@@ -1,1 +1,112 @@
-{"error": 0, "query": "marg", "enViData": {"suggests": [{"id": "56088", "link": "/find?type=1&query=margarine", "word": "margarine"}, {"id": "56089", "link": "/find?type=1&query=margarite", "word": "margarite"}, {"id": "56090", "link": "/find?type=1&query=margaritic", "word": "margaritic"}, {"id": "56091", "link": "/find?type=1&query=margay", "word": "margay"}, {"id": "56092", "link": "/find?type=1&query=marge", "word": "marge"}, {"id": "56093", "link": "/find?type=1&query=margin", "word": "margin"}, {"id": "56094", "link": "/find?type=1&query=Margin+requirement", "word": "Margin requirement"}, {"id": "56095", "link": "/find?type=1&query=Margin%2C+at+the", "word": "Margin, at the"}, {"id": "56096", "link": "/find?type=1&query=marginal", "word": "marginal"}, {"id": "56097", "link": "/find?type=1&query=Marginal+analysis", "word": "Marginal analysis"}]}, "mUrl": "/find?type=1&query=marg", "enEnData": {"suggests": [{"id": "17540", "link": "/find?type=3&query=margarine", "word": "margarine"}, {"id": "17541", "link": "/find?type=3&query=margarita", "word": "margarita"}, {"id": "17542", "link": "/find?type=3&query=marge", "word": "marge"}, {"id": "17543", "link": "/find?type=3&query=margin", "word": "margin"}, {"id": "17544", "link": "/find?type=3&query=marginal", "word": "marginal"}, {"id": "17545", "link": "/find?type=3&query=marginalize", "word": "marginalize"}, {"id": "17546", "link": "/find?type=3&query=marginally", "word": "marginally"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4413", "link": "/find?type=4&query=margin", "word": "margin"}, {"id": "4414", "link": "/find?type=4&query=marginal", "word": "marginal"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17540",
+                "link": "/find?type=3&query=margarine",
+                "word": "margarine"
+            },
+            {
+                "id": "17541",
+                "link": "/find?type=3&query=margarita",
+                "word": "margarita"
+            },
+            {
+                "id": "17542",
+                "link": "/find?type=3&query=marge",
+                "word": "marge"
+            },
+            {
+                "id": "17543",
+                "link": "/find?type=3&query=margin",
+                "word": "margin"
+            },
+            {
+                "id": "17544",
+                "link": "/find?type=3&query=marginal",
+                "word": "marginal"
+            },
+            {
+                "id": "17545",
+                "link": "/find?type=3&query=marginalize",
+                "word": "marginalize"
+            },
+            {
+                "id": "17546",
+                "link": "/find?type=3&query=marginally",
+                "word": "marginally"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56088",
+                "link": "/find?type=1&query=margarine",
+                "word": "margarine"
+            },
+            {
+                "id": "56089",
+                "link": "/find?type=1&query=margarite",
+                "word": "margarite"
+            },
+            {
+                "id": "56090",
+                "link": "/find?type=1&query=margaritic",
+                "word": "margaritic"
+            },
+            {
+                "id": "56091",
+                "link": "/find?type=1&query=margay",
+                "word": "margay"
+            },
+            {
+                "id": "56092",
+                "link": "/find?type=1&query=marge",
+                "word": "marge"
+            },
+            {
+                "id": "56093",
+                "link": "/find?type=1&query=margin",
+                "word": "margin"
+            },
+            {
+                "id": "56094",
+                "link": "/find?type=1&query=Margin+requirement",
+                "word": "Margin requirement"
+            },
+            {
+                "id": "56095",
+                "link": "/find?type=1&query=Margin%2C+at+the",
+                "word": "Margin, at the"
+            },
+            {
+                "id": "56096",
+                "link": "/find?type=1&query=marginal",
+                "word": "marginal"
+            },
+            {
+                "id": "56097",
+                "link": "/find?type=1&query=Marginal+analysis",
+                "word": "Marginal analysis"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4413",
+                "link": "/find?type=4&query=margin",
+                "word": "margin"
+            },
+            {
+                "id": "4414",
+                "link": "/find?type=4&query=marginal",
+                "word": "marginal"
+            }
+        ]
+    }
+}

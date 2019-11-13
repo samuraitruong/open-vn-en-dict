@@ -1,1 +1,29 @@
-{"error": 0, "query": "mantes", "enViData": {"suggests": [], "best": {"id": "55980", "details": "\n<div id=\"find_word_55980\" class=\"world word_en\" rel=\"mantes\">\n    <h2 class=\"fl\">mantes <span class=\"color-black\">/'m\u00e6nti:z/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55980\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55980\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u mantis /'m\u00e6ntis/</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) con b\u1ecd ng\u1ef1a</div>\n    \n</div>\n", "link": "/find?type=1&query=mantes", "word": "mantes"}}, "mUrl": "/find?type=1&query=mantes", "enEnData": {"suggests": [{"id": "17507", "link": "/find?type=3&query=mantel", "word": "mantel"}, {"id": "17508", "link": "/find?type=3&query=mantelpiece", "word": "mantelpiece"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17507",
+                "link": "/find?type=3&query=mantel",
+                "word": "mantel"
+            },
+            {
+                "id": "17508",
+                "link": "/find?type=3&query=mantelpiece",
+                "word": "mantelpiece"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, s\u1ed1 nhi\u1ec1u mantis /'m\u00e6ntis/</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) con b\u1ecd ng\u1ef1a</div>",
+            "id": "55980",
+            "mean": [],
+            "pronounce": "/'m\u00e6nti:z/",
+            "speak": {},
+            "type": "Danh t\u1eeb, s\u1ed1 nhi\u1ec1u mantis /'m\u00e6ntis/",
+            "word": "mantes"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,42 @@
-{"error": 0, "query": "marga", "enViData": {"suggests": [{"id": "56088", "link": "/find?type=1&query=margarine", "word": "margarine"}, {"id": "56089", "link": "/find?type=1&query=margarite", "word": "margarite"}, {"id": "56090", "link": "/find?type=1&query=margaritic", "word": "margaritic"}, {"id": "56091", "link": "/find?type=1&query=margay", "word": "margay"}]}, "mUrl": "/find?type=1&query=marga", "enEnData": {"suggests": [{"id": "17540", "link": "/find?type=3&query=margarine", "word": "margarine"}, {"id": "17541", "link": "/find?type=3&query=margarita", "word": "margarita"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17540",
+                "link": "/find?type=3&query=margarine",
+                "word": "margarine"
+            },
+            {
+                "id": "17541",
+                "link": "/find?type=3&query=margarita",
+                "word": "margarita"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56088",
+                "link": "/find?type=1&query=margarine",
+                "word": "margarine"
+            },
+            {
+                "id": "56089",
+                "link": "/find?type=1&query=margarite",
+                "word": "margarite"
+            },
+            {
+                "id": "56090",
+                "link": "/find?type=1&query=margaritic",
+                "word": "margaritic"
+            },
+            {
+                "id": "56091",
+                "link": "/find?type=1&query=margay",
+                "word": "margay"
+            }
+        ]
+    }
+}

@@ -1,1 +1,82 @@
-{"error": 0, "query": "mano", "enViData": {"suggests": [{"id": "55948", "link": "/find?type=1&query=manoeuvrability", "word": "manoeuvrability"}, {"id": "55949", "link": "/find?type=1&query=manoeuvrable", "word": "manoeuvrable"}, {"id": "55950", "link": "/find?type=1&query=manoeuvrably", "word": "manoeuvrably"}, {"id": "55951", "link": "/find?type=1&query=manoeuvre", "word": "manoeuvre"}, {"id": "55952", "link": "/find?type=1&query=Manoilescu+argument", "word": "Manoilescu argument"}, {"id": "55953", "link": "/find?type=1&query=manometer", "word": "manometer"}, {"id": "55954", "link": "/find?type=1&query=manometric", "word": "manometric"}, {"id": "55955", "link": "/find?type=1&query=manometry", "word": "manometry"}, {"id": "55956", "link": "/find?type=1&query=manor", "word": "manor"}, {"id": "55957", "link": "/find?type=1&query=manorial", "word": "manorial"}]}, "mUrl": "/find?type=1&query=mano", "enEnData": {"suggests": [{"id": "17496", "link": "/find?type=3&query=mano+a+mano", "word": "mano a mano"}, {"id": "17498", "link": "/find?type=3&query=manor", "word": "manor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4405", "link": "/find?type=4&query=manoeuvre", "word": "manoeuvre"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17496",
+                "link": "/find?type=3&query=mano+a+mano",
+                "word": "mano a mano"
+            },
+            {
+                "id": "17498",
+                "link": "/find?type=3&query=manor",
+                "word": "manor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55948",
+                "link": "/find?type=1&query=manoeuvrability",
+                "word": "manoeuvrability"
+            },
+            {
+                "id": "55949",
+                "link": "/find?type=1&query=manoeuvrable",
+                "word": "manoeuvrable"
+            },
+            {
+                "id": "55950",
+                "link": "/find?type=1&query=manoeuvrably",
+                "word": "manoeuvrably"
+            },
+            {
+                "id": "55951",
+                "link": "/find?type=1&query=manoeuvre",
+                "word": "manoeuvre"
+            },
+            {
+                "id": "55952",
+                "link": "/find?type=1&query=Manoilescu+argument",
+                "word": "Manoilescu argument"
+            },
+            {
+                "id": "55953",
+                "link": "/find?type=1&query=manometer",
+                "word": "manometer"
+            },
+            {
+                "id": "55954",
+                "link": "/find?type=1&query=manometric",
+                "word": "manometric"
+            },
+            {
+                "id": "55955",
+                "link": "/find?type=1&query=manometry",
+                "word": "manometry"
+            },
+            {
+                "id": "55956",
+                "link": "/find?type=1&query=manor",
+                "word": "manor"
+            },
+            {
+                "id": "55957",
+                "link": "/find?type=1&query=manorial",
+                "word": "manorial"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4405",
+                "link": "/find?type=4&query=manoeuvre",
+                "word": "manoeuvre"
+            }
+        ]
+    }
+}

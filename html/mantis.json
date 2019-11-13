@@ -1,1 +1,34 @@
-{"error": 0, "query": "mantis", "enViData": {"suggests": [{"id": "55984", "link": "/find?type=1&query=mantissa", "word": "mantissa"}], "best": {"id": "55984", "details": "\n<div id=\"find_word_55984\" class=\"world word_en\" rel=\"mantis\">\n    <h2 class=\"fl\">mantis <span class=\"color-black\">/'m\u00e6ntis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55984\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55984\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng praying mantis) (\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">con b\u1ecd ng\u1ef1a</div>\n    \n</div>\n", "link": "/find?type=1&query=mantis", "word": "mantis"}}, "mUrl": "/find?type=1&query=mantis", "enEnData": {"suggests": [], "best": {"id": "17509", "details": "\n<div id=\"find_word_17509\" class=\"world word_en\" rel=\"mantis\">\n    <h2 class=\"fl\">mantis <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17509\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17509\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8m\u00e6nt\u0259s/ , pl mantises or mantes /\u02c8m\u00e6n\u02ccti\u02d0z/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :praying mantis</div>\n    \n</div>\n", "link": "/find?type=3&query=mantis", "word": "mantis"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8m\u00e6nt\u0259s/ , pl mantises or mantes /\u02c8m\u00e6n\u02ccti\u02d0z/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :praying mantis</div>",
+            "id": "17509",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "mantis"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng praying mantis) (\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">con b\u1ecd ng\u1ef1a</div>",
+            "id": "55984",
+            "mean": [],
+            "pronounce": "/'m\u00e6ntis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/91bc41531ce55c3588a7da6a4ce44d8f/16e62984b24/M/mantis.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/181cb6295e707ecf6f9e27d069f8c04b/16e62984564/M/mantis.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mantis"
+        },
+        "suggests": [
+            {
+                "id": "55984",
+                "link": "/find?type=1&query=mantissa",
+                "word": "mantissa"
+            }
+        ]
+    }
+}
