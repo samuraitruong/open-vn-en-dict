@@ -1,1 +1,72 @@
-{"error": 0, "query": "reduct", "enViData": {"suggests": [{"id": "75550", "link": "/find?type=1&query=reductant", "word": "reductant"}, {"id": "75551", "link": "/find?type=1&query=reductibility", "word": "reductibility"}, {"id": "75552", "link": "/find?type=1&query=reductio+ad+absurdum", "word": "reductio ad absurdum"}, {"id": "75553", "link": "/find?type=1&query=reduction", "word": "reduction"}, {"id": "75554", "link": "/find?type=1&query=reductional", "word": "reductional"}, {"id": "75555", "link": "/find?type=1&query=reductionism", "word": "reductionism"}, {"id": "75556", "link": "/find?type=1&query=reductionist", "word": "reductionist"}, {"id": "75557", "link": "/find?type=1&query=reductionistic", "word": "reductionistic"}, {"id": "75558", "link": "/find?type=1&query=reductive", "word": "reductive"}, {"id": "75559", "link": "/find?type=1&query=reductor", "word": "reductor"}]}, "mUrl": "/find?type=1&query=reduct", "enEnData": {"suggests": [{"id": "24232", "link": "/find?type=3&query=reduction", "word": "reduction"}, {"id": "24233", "link": "/find?type=3&query=reductive", "word": "reductive"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24232",
+                "link": "/find?type=3&query=reduction",
+                "word": "reduction"
+            },
+            {
+                "id": "24233",
+                "link": "/find?type=3&query=reductive",
+                "word": "reductive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75550",
+                "link": "/find?type=1&query=reductant",
+                "word": "reductant"
+            },
+            {
+                "id": "75551",
+                "link": "/find?type=1&query=reductibility",
+                "word": "reductibility"
+            },
+            {
+                "id": "75552",
+                "link": "/find?type=1&query=reductio+ad+absurdum",
+                "word": "reductio ad absurdum"
+            },
+            {
+                "id": "75553",
+                "link": "/find?type=1&query=reduction",
+                "word": "reduction"
+            },
+            {
+                "id": "75554",
+                "link": "/find?type=1&query=reductional",
+                "word": "reductional"
+            },
+            {
+                "id": "75555",
+                "link": "/find?type=1&query=reductionism",
+                "word": "reductionism"
+            },
+            {
+                "id": "75556",
+                "link": "/find?type=1&query=reductionist",
+                "word": "reductionist"
+            },
+            {
+                "id": "75557",
+                "link": "/find?type=1&query=reductionistic",
+                "word": "reductionistic"
+            },
+            {
+                "id": "75558",
+                "link": "/find?type=1&query=reductive",
+                "word": "reductive"
+            },
+            {
+                "id": "75559",
+                "link": "/find?type=1&query=reductor",
+                "word": "reductor"
+            }
+        ]
+    }
+}

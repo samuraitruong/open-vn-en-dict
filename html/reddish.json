@@ -1,1 +1,34 @@
-{"error": 0, "query": "reddish", "enViData": {"suggests": [{"id": "75480", "link": "/find?type=1&query=reddishness", "word": "reddishness"}], "best": {"id": "75480", "details": "\n<div id=\"find_word_75480\" class=\"world word_en\" rel=\"reddish\">\n    <h2 class=\"fl\">reddish <span class=\"color-black\">/'redi\u222b/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75480\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75480\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01a1i \u0111\u1ecf, \u0111o \u0111\u1ecf</div>\n    \n</div>\n", "link": "/find?type=1&query=reddish", "word": "reddish"}}, "mUrl": "/find?type=1&query=reddish", "enEnData": {"suggests": [], "best": {"id": "24195", "details": "\n<div id=\"find_word_24195\" class=\"world word_en\" rel=\"reddish\">\n    <h2 class=\"fl\">reddish <span class=\"color-black\">/\u02c8r\u025bd\u026a\u0283/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24195\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24195\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :somewhat red</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the reddish clay</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has reddish-brown hair.</div>\n    \n</div>\n", "link": "/find?type=3&query=reddish", "word": "reddish"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :somewhat red</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the reddish clay</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has reddish-brown hair.</div>",
+            "id": "24195",
+            "mean": [],
+            "pronounce": "/\u02c8r\u025bd\u026a\u0283/",
+            "type": "adjective",
+            "word": "reddish"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01a1i \u0111\u1ecf, \u0111o \u0111\u1ecf</div>",
+            "id": "75480",
+            "mean": [],
+            "pronounce": "/'redi\u222b/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5d32e05e170b60458f628806f3552031/16e62e149b4/R/reddish.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/914ae0f78c8c6c6c8344e7199f11bc27/16e62e143b6/R/reddish.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "reddish"
+        },
+        "suggests": [
+            {
+                "id": "75480",
+                "link": "/find?type=1&query=reddishness",
+                "word": "reddishness"
+            }
+        ]
+    }
+}

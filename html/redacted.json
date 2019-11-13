@@ -1,1 +1,25 @@
-{"error": 0, "query": "redacted", "enViData": {"suggests": [{"id": "75464", "link": "/find?type=1&query=redaction", "word": "redaction"}, {"id": "75464", "link": "/find?type=1&query=redactor", "word": "redactor"}], "best": {"id": "75464", "details": "\n<div id=\"find_word_75464\" class=\"world word_en\" rel=\"redact\">\n    <h2 class=\"fl\">redact <span class=\"color-black\">/ri'd\u00e6kt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75464\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75464\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">so\u1ea1n, vi\u1ebft, bi\u00ean t\u1eadp (b\u00e0i b\u00e1o, b\u00e0i v\u0103n)</div>\n    \n</div>\n", "link": "/find?type=1&query=redact", "word": "redact"}}, "mUrl": "/find?type=1&query=redacted", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">so\u1ea1n, vi\u1ebft, bi\u00ean t\u1eadp (b\u00e0i b\u00e1o, b\u00e0i v\u0103n)</div>",
+            "id": "75464",
+            "mean": [],
+            "pronounce": "/ri'd\u00e6kt/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "redact"
+        },
+        "suggests": [
+            {
+                "id": "75464",
+                "link": "/find?type=1&query=redaction",
+                "word": "redaction"
+            },
+            {
+                "id": "75464",
+                "link": "/find?type=1&query=redactor",
+                "word": "redactor"
+            }
+        ]
+    }
+}
