@@ -1,1 +1,27 @@
-{"error": 0, "query": "matti", "enViData": {"suggests": [{"id": "56560", "link": "/find?type=1&query=matting", "word": "matting"}, {"id": "56561", "link": "/find?type=1&query=mattins", "word": "mattins"}]}, "mUrl": "/find?type=1&query=matti", "enEnData": {"suggests": [{"id": "17708", "link": "/find?type=3&query=matting", "word": "matting"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17708",
+                "link": "/find?type=3&query=matting",
+                "word": "matting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56560",
+                "link": "/find?type=1&query=matting",
+                "word": "matting"
+            },
+            {
+                "id": "56561",
+                "link": "/find?type=1&query=mattins",
+                "word": "mattins"
+            }
+        ]
+    }
+}

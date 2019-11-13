@@ -1,1 +1,27 @@
-{"error": 0, "query": "matricula", "enViData": {"suggests": [{"id": "56533", "link": "/find?type=1&query=matriculate", "word": "matriculate"}, {"id": "56534", "link": "/find?type=1&query=matriculation", "word": "matriculation"}]}, "mUrl": "/find?type=1&query=matricula", "enEnData": {"suggests": [{"id": "17697", "link": "/find?type=3&query=matriculate", "word": "matriculate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17697",
+                "link": "/find?type=3&query=matriculate",
+                "word": "matriculate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56533",
+                "link": "/find?type=1&query=matriculate",
+                "word": "matriculate"
+            },
+            {
+                "id": "56534",
+                "link": "/find?type=1&query=matriculation",
+                "word": "matriculation"
+            }
+        ]
+    }
+}

@@ -1,1 +1,28 @@
-{"error": 0, "query": "mateys", "enViData": {"suggests": [], "best": {"id": "56503", "details": "\n<div id=\"find_word_56503\" class=\"world word_en\" rel=\"matey\">\n    <h2 class=\"fl\">matey <span class=\"color-black\">/'meiti/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56503\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56503\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">matey with somebody</div>\n    \n    <div class=\"grey margin25 m-top15\">(kh\u1ea9u ng\u1eef) th\u00e2n m\u1eadt, th\u00e2n thi\u1ebft</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">don't get too matey with him \u2013 he's a rogue</div>\n    \n    <div class=\"margin25\">\u0111\u1eebng c\u00f3 th\u00e2n m\u1eadt qu\u00e1 v\u1edbi h\u1eafn, h\u1eafn l\u00e0 m\u1ed9t th\u1eb1ng x\u1ecf l\u00e1 \u0111\u1ea5y</div>\n    \n</div>\n", "link": "/find?type=1&query=matey", "word": "matey"}}, "mUrl": "/find?type=1&query=mateys", "enEnData": {"suggests": [], "best": {"id": "17685", "details": "\n<div id=\"find_word_17685\" class=\"world word_en\" rel=\"matey\">\n    <h2 class=\"fl\">matey <span class=\"color-black\">/\u02c8me\u026ati/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17685\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17685\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">matier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">[also more ~; most ~] Brit informal :friendly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a boss who is matey with his staff</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] Brit informal + sometimes impolite - used as a way for one man to address another man</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Listen, matey, I'm not putting up with that anymore!</div>\n    \n</div>\n", "link": "/find?type=3&query=matey", "word": "matey"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">matier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">[also more ~; most ~] Brit informal :friendly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a boss who is matey with his staff</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] Brit informal + sometimes impolite - used as a way for one man to address another man</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Listen, matey, I'm not putting up with that anymore!</div>",
+            "id": "17685",
+            "mean": [],
+            "pronounce": "/\u02c8me\u026ati/",
+            "type": "adjective noun",
+            "word": "matey"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">matey with somebody</div>\n    \n    <div class=\"grey margin25 m-top15\">(kh\u1ea9u ng\u1eef) th\u00e2n m\u1eadt, th\u00e2n thi\u1ebft</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">don't get too matey with him \u2013 he's a rogue</div>\n    \n    <div class=\"margin25\">\u0111\u1eebng c\u00f3 th\u00e2n m\u1eadt qu\u00e1 v\u1edbi h\u1eafn, h\u1eafn l\u00e0 m\u1ed9t th\u1eb1ng x\u1ecf l\u00e1 \u0111\u1ea5y</div>",
+            "id": "56503",
+            "mean": [],
+            "pronounce": "/'meiti/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/10b15239843570ea3591c3c20976b34d/16e6299dc46/M/matey.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/22590131d7cf9d2bccbc186546ee1197/16e6299d670/M/matey.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "matey"
+        },
+        "suggests": []
+    }
+}

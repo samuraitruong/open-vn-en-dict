@@ -1,1 +1,67 @@
-{"error": 0, "query": "mathematic", "enViData": {"suggests": [{"id": "56505", "link": "/find?type=1&query=mathematical", "word": "mathematical"}, {"id": "56506", "link": "/find?type=1&query=Mathematical+expectation", "word": "Mathematical expectation"}, {"id": "56507", "link": "/find?type=1&query=mathematically", "word": "mathematically"}, {"id": "56508", "link": "/find?type=1&query=mathematician", "word": "mathematician"}, {"id": "56509", "link": "/find?type=1&query=mathematicism", "word": "mathematicism"}, {"id": "56510", "link": "/find?type=1&query=mathematics", "word": "mathematics"}]}, "mUrl": "/find?type=1&query=mathematic", "enEnData": {"suggests": [{"id": "17687", "link": "/find?type=3&query=mathematical", "word": "mathematical"}, {"id": "17688", "link": "/find?type=3&query=mathematician", "word": "mathematician"}, {"id": "17689", "link": "/find?type=3&query=mathematics", "word": "mathematics"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4446", "link": "/find?type=4&query=mathematical", "word": "mathematical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17687",
+                "link": "/find?type=3&query=mathematical",
+                "word": "mathematical"
+            },
+            {
+                "id": "17688",
+                "link": "/find?type=3&query=mathematician",
+                "word": "mathematician"
+            },
+            {
+                "id": "17689",
+                "link": "/find?type=3&query=mathematics",
+                "word": "mathematics"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56505",
+                "link": "/find?type=1&query=mathematical",
+                "word": "mathematical"
+            },
+            {
+                "id": "56506",
+                "link": "/find?type=1&query=Mathematical+expectation",
+                "word": "Mathematical expectation"
+            },
+            {
+                "id": "56507",
+                "link": "/find?type=1&query=mathematically",
+                "word": "mathematically"
+            },
+            {
+                "id": "56508",
+                "link": "/find?type=1&query=mathematician",
+                "word": "mathematician"
+            },
+            {
+                "id": "56509",
+                "link": "/find?type=1&query=mathematicism",
+                "word": "mathematicism"
+            },
+            {
+                "id": "56510",
+                "link": "/find?type=1&query=mathematics",
+                "word": "mathematics"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4446",
+                "link": "/find?type=4&query=mathematical",
+                "word": "mathematical"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"error": 0, "query": "masterling", "enViData": {"suggests": [{"id": "56425", "link": "/find?type=1&query=masterless", "word": "masterless"}]}, "mUrl": "/find?type=1&query=masterling", "enEnData": {"suggests": [{"id": "17657", "link": "/find?type=3&query=masterly", "word": "masterly"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17657",
+                "link": "/find?type=3&query=masterly",
+                "word": "masterly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56425",
+                "link": "/find?type=1&query=masterless",
+                "word": "masterless"
+            }
+        ]
+    }
+}

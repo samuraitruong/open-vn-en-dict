@@ -1,1 +1,32 @@
-{"error": 0, "query": "masse", "enViData": {"suggests": [{"id": "56396", "link": "/find?type=1&query=masseur", "word": "masseur"}, {"id": "56397", "link": "/find?type=1&query=masseuse", "word": "masseuse"}]}, "mUrl": "/find?type=1&query=masse", "enEnData": {"suggests": [{"id": "17647", "link": "/find?type=3&query=masseur", "word": "masseur"}, {"id": "17648", "link": "/find?type=3&query=masseuse", "word": "masseuse"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17647",
+                "link": "/find?type=3&query=masseur",
+                "word": "masseur"
+            },
+            {
+                "id": "17648",
+                "link": "/find?type=3&query=masseuse",
+                "word": "masseuse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56396",
+                "link": "/find?type=1&query=masseur",
+                "word": "masseur"
+            },
+            {
+                "id": "56397",
+                "link": "/find?type=1&query=masseuse",
+                "word": "masseuse"
+            }
+        ]
+    }
+}
