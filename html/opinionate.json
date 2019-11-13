@@ -1,1 +1,37 @@
-{"error": 0, "query": "opinionate", "enViData": {"suggests": [{"id": "62744", "link": "/find?type=1&query=opinionated", "word": "opinionated"}, {"id": "62745", "link": "/find?type=1&query=opinionatedness", "word": "opinionatedness"}]}, "mUrl": "/find?type=1&query=opinionate", "enEnData": {"suggests": [{"id": "20173", "link": "/find?type=3&query=opinionated", "word": "opinionated"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5062", "link": "/find?type=4&query=opinionated", "word": "opinionated"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20173",
+                "link": "/find?type=3&query=opinionated",
+                "word": "opinionated"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62744",
+                "link": "/find?type=1&query=opinionated",
+                "word": "opinionated"
+            },
+            {
+                "id": "62745",
+                "link": "/find?type=1&query=opinionatedness",
+                "word": "opinionatedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5062",
+                "link": "/find?type=4&query=opinionated",
+                "word": "opinionated"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "ophthalmol", "enViData": {"suggests": [{"id": "62732", "link": "/find?type=1&query=ophthalmological", "word": "ophthalmological"}, {"id": "62733", "link": "/find?type=1&query=ophthalmologist", "word": "ophthalmologist"}, {"id": "62734", "link": "/find?type=1&query=ophthalmology", "word": "ophthalmology"}]}, "mUrl": "/find?type=1&query=ophthalmol", "enEnData": {"suggests": [{"id": "20166", "link": "/find?type=3&query=ophthalmologist", "word": "ophthalmologist"}, {"id": "20167", "link": "/find?type=3&query=ophthalmology", "word": "ophthalmology"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20166",
+                "link": "/find?type=3&query=ophthalmologist",
+                "word": "ophthalmologist"
+            },
+            {
+                "id": "20167",
+                "link": "/find?type=3&query=ophthalmology",
+                "word": "ophthalmology"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62732",
+                "link": "/find?type=1&query=ophthalmological",
+                "word": "ophthalmological"
+            },
+            {
+                "id": "62733",
+                "link": "/find?type=1&query=ophthalmologist",
+                "word": "ophthalmologist"
+            },
+            {
+                "id": "62734",
+                "link": "/find?type=1&query=ophthalmology",
+                "word": "ophthalmology"
+            }
+        ]
+    }
+}

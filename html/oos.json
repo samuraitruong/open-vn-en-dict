@@ -1,1 +1,67 @@
-{"error": 0, "query": "oos", "enViData": {"suggests": [{"id": "62572", "link": "/find?type=1&query=oosperm", "word": "oosperm"}, {"id": "62573", "link": "/find?type=1&query=oosphere", "word": "oosphere"}, {"id": "62574", "link": "/find?type=1&query=oosporangium", "word": "oosporangium"}, {"id": "62575", "link": "/find?type=1&query=oospore", "word": "oospore"}]}, "mUrl": "/find?type=1&query=oos", "enEnData": {"suggests": [{"id": "20097", "link": "/find?type=3&query=oodles", "word": "oodles"}, {"id": "20098", "link": "/find?type=3&query=ooh", "word": "ooh"}, {"id": "20099", "link": "/find?type=3&query=oomph", "word": "oomph"}, {"id": "20100", "link": "/find?type=3&query=oops", "word": "oops"}, {"id": "20101", "link": "/find?type=3&query=ooze", "word": "ooze"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5049", "link": "/find?type=4&query=ooze", "word": "ooze"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20097",
+                "link": "/find?type=3&query=oodles",
+                "word": "oodles"
+            },
+            {
+                "id": "20098",
+                "link": "/find?type=3&query=ooh",
+                "word": "ooh"
+            },
+            {
+                "id": "20099",
+                "link": "/find?type=3&query=oomph",
+                "word": "oomph"
+            },
+            {
+                "id": "20100",
+                "link": "/find?type=3&query=oops",
+                "word": "oops"
+            },
+            {
+                "id": "20101",
+                "link": "/find?type=3&query=ooze",
+                "word": "ooze"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62572",
+                "link": "/find?type=1&query=oosperm",
+                "word": "oosperm"
+            },
+            {
+                "id": "62573",
+                "link": "/find?type=1&query=oosphere",
+                "word": "oosphere"
+            },
+            {
+                "id": "62574",
+                "link": "/find?type=1&query=oosporangium",
+                "word": "oosporangium"
+            },
+            {
+                "id": "62575",
+                "link": "/find?type=1&query=oospore",
+                "word": "oospore"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5049",
+                "link": "/find?type=4&query=ooze",
+                "word": "ooze"
+            }
+        ]
+    }
+}
