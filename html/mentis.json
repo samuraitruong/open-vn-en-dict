@@ -1,1 +1,47 @@
-{"error": 0, "query": "mentis", "enViData": {"suggests": [{"id": "57136", "link": "/find?type=1&query=menticide", "word": "menticide"}, {"id": "57137", "link": "/find?type=1&query=mention", "word": "mention"}, {"id": "57138", "link": "/find?type=1&query=mentionable", "word": "mentionable"}, {"id": "104706", "link": "/find?type=1&query=-mentioned", "word": "-mentioned"}]}, "mUrl": "/find?type=1&query=mentis", "enEnData": {"suggests": [{"id": "17936", "link": "/find?type=3&query=mention", "word": "mention"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4512", "link": "/find?type=4&query=mention", "word": "mention"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17936",
+                "link": "/find?type=3&query=mention",
+                "word": "mention"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57136",
+                "link": "/find?type=1&query=menticide",
+                "word": "menticide"
+            },
+            {
+                "id": "57137",
+                "link": "/find?type=1&query=mention",
+                "word": "mention"
+            },
+            {
+                "id": "57138",
+                "link": "/find?type=1&query=mentionable",
+                "word": "mentionable"
+            },
+            {
+                "id": "104706",
+                "link": "/find?type=1&query=-mentioned",
+                "word": "-mentioned"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4512",
+                "link": "/find?type=4&query=mention",
+                "word": "mention"
+            }
+        ]
+    }
+}

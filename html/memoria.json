@@ -1,1 +1,82 @@
-{"error": 0, "query": "memoria", "enViData": {"suggests": [{"id": "57031", "link": "/find?type=1&query=memorial", "word": "memorial"}, {"id": "57032", "link": "/find?type=1&query=Memorial+Day", "word": "Memorial Day"}, {"id": "57033", "link": "/find?type=1&query=memorialisation", "word": "memorialisation"}, {"id": "57034", "link": "/find?type=1&query=memorialise", "word": "memorialise"}, {"id": "57035", "link": "/find?type=1&query=memorialist", "word": "memorialist"}, {"id": "57036", "link": "/find?type=1&query=memorialization", "word": "memorialization"}, {"id": "57037", "link": "/find?type=1&query=memorialize", "word": "memorialize"}]}, "mUrl": "/find?type=1&query=memoria", "enEnData": {"suggests": [{"id": "17904", "link": "/find?type=3&query=memorial", "word": "memorial"}, {"id": "17905", "link": "/find?type=3&query=Memorial+Day", "word": "Memorial Day"}, {"id": "17906", "link": "/find?type=3&query=memorialize", "word": "memorialize"}, {"id": "17907", "link": "/find?type=3&query=memoriam", "word": "memoriam"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4502", "link": "/find?type=4&query=memorial", "word": "memorial"}, {"id": "4503", "link": "/find?type=4&query=memorialize", "word": "memorialize"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17904",
+                "link": "/find?type=3&query=memorial",
+                "word": "memorial"
+            },
+            {
+                "id": "17905",
+                "link": "/find?type=3&query=Memorial+Day",
+                "word": "Memorial Day"
+            },
+            {
+                "id": "17906",
+                "link": "/find?type=3&query=memorialize",
+                "word": "memorialize"
+            },
+            {
+                "id": "17907",
+                "link": "/find?type=3&query=memoriam",
+                "word": "memoriam"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57031",
+                "link": "/find?type=1&query=memorial",
+                "word": "memorial"
+            },
+            {
+                "id": "57032",
+                "link": "/find?type=1&query=Memorial+Day",
+                "word": "Memorial Day"
+            },
+            {
+                "id": "57033",
+                "link": "/find?type=1&query=memorialisation",
+                "word": "memorialisation"
+            },
+            {
+                "id": "57034",
+                "link": "/find?type=1&query=memorialise",
+                "word": "memorialise"
+            },
+            {
+                "id": "57035",
+                "link": "/find?type=1&query=memorialist",
+                "word": "memorialist"
+            },
+            {
+                "id": "57036",
+                "link": "/find?type=1&query=memorialization",
+                "word": "memorialization"
+            },
+            {
+                "id": "57037",
+                "link": "/find?type=1&query=memorialize",
+                "word": "memorialize"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4502",
+                "link": "/find?type=4&query=memorial",
+                "word": "memorial"
+            },
+            {
+                "id": "4503",
+                "link": "/find?type=4&query=memorialize",
+                "word": "memorialize"
+            }
+        ]
+    }
+}

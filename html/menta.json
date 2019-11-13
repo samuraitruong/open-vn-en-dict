@@ -1,1 +1,95 @@
-{"error": 0, "query": "menta", "enViData": {"suggests": [{"id": "57123", "link": "/find?type=1&query=mental", "word": "mental"}, {"id": "57123", "link": "/find?type=1&query=mental+age", "word": "mental age"}, {"id": "57123", "link": "/find?type=1&query=mental+arithmetic", "word": "mental arithmetic"}, {"id": "57123", "link": "/find?type=1&query=mental+home", "word": "mental home"}, {"id": "57123", "link": "/find?type=1&query=mental+hospital", "word": "mental hospital"}, {"id": "57123", "link": "/find?type=1&query=mental+patient", "word": "mental patient"}, {"id": "57123", "link": "/find?type=1&query=mentalism", "word": "mentalism"}, {"id": "57123", "link": "/find?type=1&query=mentality", "word": "mentality"}, {"id": "57123", "link": "/find?type=1&query=mentally", "word": "mentally"}], "best": {"id": "57123", "details": "\n<div id=\"find_word_57123\" class=\"world word_en\" rel=\"menta\">\n    <h2 class=\"fl\">menta <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57123\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57123\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u c\u1ee7a mentum</div>\n    \n</div>\n", "link": "/find?type=1&query=menta", "word": "menta"}}, "mUrl": "/find?type=1&query=menta", "enEnData": {"suggests": [{"id": "17931", "link": "/find?type=3&query=mental", "word": "mental"}, {"id": "17932", "link": "/find?type=3&query=mental+age", "word": "mental age"}, {"id": "17933", "link": "/find?type=3&query=mentality", "word": "mentality"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4510", "link": "/find?type=4&query=mental", "word": "mental"}, {"id": "4511", "link": "/find?type=4&query=mentality", "word": "mentality"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17931",
+                "link": "/find?type=3&query=mental",
+                "word": "mental"
+            },
+            {
+                "id": "17932",
+                "link": "/find?type=3&query=mental+age",
+                "word": "mental age"
+            },
+            {
+                "id": "17933",
+                "link": "/find?type=3&query=mentality",
+                "word": "mentality"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u c\u1ee7a mentum</div>",
+            "id": "57123",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "menta"
+        },
+        "suggests": [
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mental",
+                "word": "mental"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mental+age",
+                "word": "mental age"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mental+arithmetic",
+                "word": "mental arithmetic"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mental+home",
+                "word": "mental home"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mental+hospital",
+                "word": "mental hospital"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mental+patient",
+                "word": "mental patient"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mentalism",
+                "word": "mentalism"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mentality",
+                "word": "mentality"
+            },
+            {
+                "id": "57123",
+                "link": "/find?type=1&query=mentally",
+                "word": "mentally"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4510",
+                "link": "/find?type=4&query=mental",
+                "word": "mental"
+            },
+            {
+                "id": "4511",
+                "link": "/find?type=4&query=mentality",
+                "word": "mentality"
+            }
+        ]
+    }
+}

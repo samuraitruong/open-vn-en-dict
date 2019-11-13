@@ -1,1 +1,34 @@
-{"error": 0, "query": "membranes", "enViData": {"suggests": [{"id": "57015", "link": "/find?type=1&query=membraneous", "word": "membraneous"}], "best": {"id": "57015", "details": "\n<div id=\"find_word_57015\" class=\"world word_en\" rel=\"membrane\">\n    <h2 class=\"fl\">membrane <span class=\"color-black\">/'membrein/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57015\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57015\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e0ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a mucous membrane</div>\n    \n    <div class=\"margin25\">m\u00e0ng nh\u1ea7y</div>\n    \n</div>\n", "link": "/find?type=1&query=membrane", "word": "membrane"}}, "mUrl": "/find?type=1&query=membranes", "enEnData": {"suggests": [], "best": {"id": "17897", "details": "\n<div id=\"find_word_17897\" class=\"world word_en\" rel=\"membrane\">\n    <h2 class=\"fl\">membrane <span class=\"color-black\">/\u02c8m\u025bm\u02ccbre\u026an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17897\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17897\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -branes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a thin sheet or layer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The computer chip is covered by/with a plastic membrane. [=the computer chip is covered by/with a very thin sheet of plastic] especially;  :a thin sheet or layer of tissue that is part of a plant or an animal's body</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cell membrane</div>\n    \n</div>\n", "link": "/find?type=3&query=membrane", "word": "membrane"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -branes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a thin sheet or layer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The computer chip is covered by/with a plastic membrane. [=the computer chip is covered by/with a very thin sheet of plastic] especially;  :a thin sheet or layer of tissue that is part of a plant or an animal's body</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cell membrane</div>",
+            "id": "17897",
+            "mean": [],
+            "pronounce": "/\u02c8m\u025bm\u02ccbre\u026an/",
+            "type": "noun",
+            "word": "membrane"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e0ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a mucous membrane</div>\n    \n    <div class=\"margin25\">m\u00e0ng nh\u1ea7y</div>",
+            "id": "57015",
+            "mean": [],
+            "pronounce": "/'membrein/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b966d8920221c77ca605aca0495c66e1/16e629bca08/M/membrane.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/43e7eef5237a695cfa010ec9477d7127/16e629bc414/M/membrane.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "membrane"
+        },
+        "suggests": [
+            {
+                "id": "57015",
+                "link": "/find?type=1&query=membraneous",
+                "word": "membraneous"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "mendi", "enViData": {"suggests": [{"id": "57069", "link": "/find?type=1&query=mendicancy", "word": "mendicancy"}, {"id": "57070", "link": "/find?type=1&query=mendicant", "word": "mendicant"}, {"id": "57071", "link": "/find?type=1&query=mendicity", "word": "mendicity"}, {"id": "57072", "link": "/find?type=1&query=mending", "word": "mending"}]}, "mUrl": "/find?type=1&query=mendi", "enEnData": {"suggests": [{"id": "17917", "link": "/find?type=3&query=mendicant", "word": "mendicant"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17917",
+                "link": "/find?type=3&query=mendicant",
+                "word": "mendicant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57069",
+                "link": "/find?type=1&query=mendicancy",
+                "word": "mendicancy"
+            },
+            {
+                "id": "57070",
+                "link": "/find?type=1&query=mendicant",
+                "word": "mendicant"
+            },
+            {
+                "id": "57071",
+                "link": "/find?type=1&query=mendicity",
+                "word": "mendicity"
+            },
+            {
+                "id": "57072",
+                "link": "/find?type=1&query=mending",
+                "word": "mending"
+            }
+        ]
+    }
+}

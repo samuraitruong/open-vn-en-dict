@@ -1,1 +1,27 @@
-{"error": 0, "query": "menages", "enViData": {"suggests": [{"id": "57056", "link": "/find?type=1&query=menagerie", "word": "menagerie"}]}, "mUrl": "/find?type=1&query=menages", "enEnData": {"suggests": [{"id": "17912", "link": "/find?type=3&query=menage+a+trois", "word": "menage a trois"}, {"id": "17913", "link": "/find?type=3&query=menagerie", "word": "menagerie"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17912",
+                "link": "/find?type=3&query=menage+a+trois",
+                "word": "menage a trois"
+            },
+            {
+                "id": "17913",
+                "link": "/find?type=3&query=menagerie",
+                "word": "menagerie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57056",
+                "link": "/find?type=1&query=menagerie",
+                "word": "menagerie"
+            }
+        ]
+    }
+}

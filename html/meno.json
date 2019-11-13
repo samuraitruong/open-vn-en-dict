@@ -1,1 +1,60 @@
-{"error": 0, "query": "meno", "enViData": {"suggests": [{"id": "57094", "link": "/find?type=1&query=menopausal", "word": "menopausal"}, {"id": "57094", "link": "/find?type=1&query=menopause", "word": "menopause"}, {"id": "57094", "link": "/find?type=1&query=menopausic", "word": "menopausic"}, {"id": "57094", "link": "/find?type=1&query=menorah", "word": "menorah"}, {"id": "57094", "link": "/find?type=1&query=menorrhagia", "word": "menorrhagia"}, {"id": "57094", "link": "/find?type=1&query=menorrhagic", "word": "menorrhagic"}], "best": {"id": "57094", "details": "\n<div id=\"find_word_57094\" class=\"world word_en\" rel=\"meno\">\n    <h2 class=\"fl\">meno <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57094\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57094\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">ti\u1ec1n t\u1ed1</div>\n    \n    <div class=\"green margin25 m-top15\">kinh nguy\u1ec7t</div>\n    \n</div>\n", "link": "/find?type=1&query=meno", "word": "meno"}}, "mUrl": "/find?type=1&query=meno", "enEnData": {"suggests": [{"id": "17922", "link": "/find?type=3&query=menopause", "word": "menopause"}, {"id": "17923", "link": "/find?type=3&query=menorah", "word": "menorah"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17922",
+                "link": "/find?type=3&query=menopause",
+                "word": "menopause"
+            },
+            {
+                "id": "17923",
+                "link": "/find?type=3&query=menorah",
+                "word": "menorah"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">ti\u1ec1n t\u1ed1</div>\n    \n    <div class=\"green margin25 m-top15\">kinh nguy\u1ec7t</div>",
+            "id": "57094",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "meno"
+        },
+        "suggests": [
+            {
+                "id": "57094",
+                "link": "/find?type=1&query=menopausal",
+                "word": "menopausal"
+            },
+            {
+                "id": "57094",
+                "link": "/find?type=1&query=menopause",
+                "word": "menopause"
+            },
+            {
+                "id": "57094",
+                "link": "/find?type=1&query=menopausic",
+                "word": "menopausic"
+            },
+            {
+                "id": "57094",
+                "link": "/find?type=1&query=menorah",
+                "word": "menorah"
+            },
+            {
+                "id": "57094",
+                "link": "/find?type=1&query=menorrhagia",
+                "word": "menorrhagia"
+            },
+            {
+                "id": "57094",
+                "link": "/find?type=1&query=menorrhagic",
+                "word": "menorrhagic"
+            }
+        ]
+    }
+}
