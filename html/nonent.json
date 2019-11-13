@@ -1,1 +1,22 @@
-{"error": 0, "query": "nonent", "enViData": {"suggests": [{"id": "60926", "link": "/find?type=1&query=nonentity", "word": "nonentity"}]}, "mUrl": "/find?type=1&query=nonent", "enEnData": {"suggests": [{"id": "19446", "link": "/find?type=3&query=nonentity", "word": "nonentity"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19446",
+                "link": "/find?type=3&query=nonentity",
+                "word": "nonentity"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60926",
+                "link": "/find?type=1&query=nonentity",
+                "word": "nonentity"
+            }
+        ]
+    }
+}
