@@ -1,1 +1,32 @@
-{"error": 0, "query": "notating", "enViData": {"suggests": [{"id": "61072", "link": "/find?type=1&query=notation", "word": "notation"}]}, "mUrl": "/find?type=1&query=notating", "enEnData": {"suggests": [{"id": "19581", "link": "/find?type=3&query=notation", "word": "notation"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4907", "link": "/find?type=4&query=notation", "word": "notation"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19581",
+                "link": "/find?type=3&query=notation",
+                "word": "notation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61072",
+                "link": "/find?type=1&query=notation",
+                "word": "notation"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4907",
+                "link": "/find?type=4&query=notation",
+                "word": "notation"
+            }
+        ]
+    }
+}

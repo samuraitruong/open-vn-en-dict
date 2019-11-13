@@ -1,1 +1,41 @@
-{"error": 0, "query": "northward", "enViData": {"suggests": [{"id": "61020", "link": "/find?type=1&query=northward%5Bs%5D", "word": "northward[s]"}, {"id": "61020", "link": "/find?type=1&query=northwardly", "word": "northwardly"}, {"id": "61020", "link": "/find?type=1&query=northwards", "word": "northwards"}], "best": {"id": "61020", "details": "\n<div id=\"find_word_61020\" class=\"world word_en\" rel=\"northward\">\n    <h2 class=\"fl\">northward <span class=\"color-black\">/'n\u0254:\u03b8w\u0259d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61020\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61020\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u1edbng b\u1eafc</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb & ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ec1 ph\u00eda b\u1eafc</div>\n    \n</div>\n", "link": "/find?type=1&query=northward", "word": "northward"}}, "mUrl": "/find?type=1&query=northward", "enEnData": {"suggests": [], "best": {"id": "19545", "details": "\n<div id=\"find_word_19545\" class=\"world word_en\" rel=\"northward\">\n    <h2 class=\"fl\">northward <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19545\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19545\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adverb</span></div>\n    \n    <div class=\"\">/\u02c8no\u025a\u0275w\u025ad/ also chiefly Brit northwards /\u02c8no\u025a\u0275w\u025adz/</div>\n    \n    <div class=\"green margin25 m-top15\">toward the north</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The storm is moving northward.</div>\n    \n</div>\n", "link": "/find?type=3&query=northward", "word": "northward"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adverb</span></div>\n    \n    <div class=\"\">/\u02c8no\u025a\u0275w\u025ad/ also chiefly Brit northwards /\u02c8no\u025a\u0275w\u025adz/</div>\n    \n    <div class=\"green margin25 m-top15\">toward the north</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The storm is moving northward.</div>",
+            "id": "19545",
+            "mean": [],
+            "pronounce": "",
+            "type": "adverb",
+            "word": "northward"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">h\u01b0\u1edbng b\u1eafc</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb &amp; ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1ec1 ph\u00eda b\u1eafc</div>",
+            "id": "61020",
+            "mean": [],
+            "pronounce": "/'n\u0254:\u03b8w\u0259d/",
+            "speak": {},
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb & ph\u00f3 t\u1eeb",
+            "word": "northward"
+        },
+        "suggests": [
+            {
+                "id": "61020",
+                "link": "/find?type=1&query=northward%5Bs%5D",
+                "word": "northward[s]"
+            },
+            {
+                "id": "61020",
+                "link": "/find?type=1&query=northwardly",
+                "word": "northwardly"
+            },
+            {
+                "id": "61020",
+                "link": "/find?type=1&query=northwards",
+                "word": "northwards"
+            }
+        ]
+    }
+}

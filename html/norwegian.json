@@ -1,1 +1,25 @@
-{"error": 0, "query": "norwegian", "enViData": {"suggests": [], "best": {"id": "61028", "details": "\n<div id=\"find_word_61028\" class=\"world word_en\" rel=\"norwegian\">\n    <h2 class=\"fl\">norwegian <span class=\"color-black\">/n\u0254:'wi:d\u02a4\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61028\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61028\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) Na-uy</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi Na-uy</div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng Na-uy</div>\n    \n</div>\n", "link": "/find?type=1&query=norwegian", "word": "norwegian"}}, "mUrl": "/find?type=1&query=norwegian", "enEnData": {"suggests": [], "best": {"id": "19551", "details": "\n<div id=\"find_word_19551\" class=\"world word_en\" rel=\"Norwegian\">\n    <h2 class=\"fl\">Norwegian <span class=\"color-black\">/no\u025a\u02c8wi\u02d0\u02a4\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19551\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19551\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gians</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person born, raised, or living in Norway</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the language of Norway</div>\n    \n</div>\n", "link": "/find?type=3&query=Norwegian", "word": "Norwegian"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gians</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person born, raised, or living in Norway</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the language of Norway</div>",
+            "id": "19551",
+            "mean": [],
+            "pronounce": "/no\u025a\u02c8wi\u02d0\u02a4\u0259n/",
+            "type": "noun",
+            "word": "Norwegian"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(thu\u1ed9c) Na-uy</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi Na-uy</div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng Na-uy</div>",
+            "id": "61028",
+            "mean": [],
+            "pronounce": "/n\u0254:'wi:d\u02a4\u0259n/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "norwegian"
+        },
+        "suggests": []
+    }
+}

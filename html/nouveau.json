@@ -1,1 +1,27 @@
-{"error": 0, "query": "nouveau", "enViData": {"suggests": [{"id": "61111", "link": "/find?type=1&query=nouveau+riche", "word": "nouveau riche"}, {"id": "61112", "link": "/find?type=1&query=nouveaux+riches", "word": "nouveaux riches"}]}, "mUrl": "/find?type=1&query=nouveau", "enEnData": {"suggests": [{"id": "19613", "link": "/find?type=3&query=nouveau+riche", "word": "nouveau riche"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19613",
+                "link": "/find?type=3&query=nouveau+riche",
+                "word": "nouveau riche"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61111",
+                "link": "/find?type=1&query=nouveau+riche",
+                "word": "nouveau riche"
+            },
+            {
+                "id": "61112",
+                "link": "/find?type=1&query=nouveaux+riches",
+                "word": "nouveaux riches"
+            }
+        ]
+    }
+}

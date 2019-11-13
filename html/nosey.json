@@ -1,1 +1,34 @@
-{"error": 0, "query": "nosey", "enViData": {"suggests": [{"id": "61048", "link": "/find?type=1&query=Nosey+Parker", "word": "Nosey Parker"}], "best": {"id": "61048", "details": "\n<div id=\"find_word_61048\" class=\"world word_en\" rel=\"nosey\">\n    <h2 class=\"fl\">nosey <span class=\"color-black\">/'n\u0259\u028azi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"61048\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"61048\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(-ier; -iest) (kh\u1ea9u ng\u1eef, th\u01b0\u1eddng x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f3c m\u00e1ch, t\u00f2 m\u00f2</div>\n    \n</div>\n", "link": "/find?type=1&query=nosey", "word": "nosey"}}, "mUrl": "/find?type=1&query=nosey", "enEnData": {"suggests": [], "best": {"id": "19566", "details": "\n<div id=\"find_word_19566\" class=\"world word_en\" rel=\"nosey\">\n    <h2 class=\"fl\">nosey <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19566\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19566\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">variant spelling of nosy</div>\n    \n</div>\n", "link": "/find?type=3&query=nosey", "word": "nosey"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">variant spelling of nosy</div>",
+            "id": "19566",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "nosey"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(-ier; -iest) (kh\u1ea9u ng\u1eef, th\u01b0\u1eddng x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f3c m\u00e1ch, t\u00f2 m\u00f2</div>",
+            "id": "61048",
+            "mean": [],
+            "pronounce": "/'n\u0259\u028azi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3b365ec7b97c5c039989473ff6437357/16e62af54a2/N/nosey.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a3edf7846e3a9b483ef6847b928f483a/16e62af4ec2/N/nosey.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "nosey"
+        },
+        "suggests": [
+            {
+                "id": "61048",
+                "link": "/find?type=1&query=Nosey+Parker",
+                "word": "Nosey Parker"
+            }
+        ]
+    }
+}

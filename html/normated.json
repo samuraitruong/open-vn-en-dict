@@ -1,1 +1,32 @@
-{"error": 0, "query": "normated", "enViData": {"suggests": [{"id": "60989", "link": "/find?type=1&query=normative", "word": "normative"}, {"id": "60990", "link": "/find?type=1&query=Normative+costs+of+production", "word": "Normative costs of production"}, {"id": "60991", "link": "/find?type=1&query=Normative+economics", "word": "Normative economics"}]}, "mUrl": "/find?type=1&query=normated", "enEnData": {"suggests": [{"id": "19528", "link": "/find?type=3&query=normative", "word": "normative"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19528",
+                "link": "/find?type=3&query=normative",
+                "word": "normative"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60989",
+                "link": "/find?type=1&query=normative",
+                "word": "normative"
+            },
+            {
+                "id": "60990",
+                "link": "/find?type=1&query=Normative+costs+of+production",
+                "word": "Normative costs of production"
+            },
+            {
+                "id": "60991",
+                "link": "/find?type=1&query=Normative+economics",
+                "word": "Normative economics"
+            }
+        ]
+    }
+}
