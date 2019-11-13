@@ -1,1 +1,27 @@
-{"error": 0, "query": "neath", "enViData": {"suggests": [], "best": {"id": "59969", "details": "\n<div id=\"find_word_59969\" class=\"world word_en\" rel=\"neath\">\n    <h2 class=\"fl\">neath <span class=\"color-black\">/'ni:\u03b8/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"59969\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"59969\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>gi\u1edbi t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01a1 ca) d\u01b0\u1edbi, \u1edf d\u01b0\u1edbi, b\u00ean d\u01b0\u1edbi</div>\n    \n</div>\n", "link": "/find?type=1&query=neath", "word": "neath"}}, "mUrl": "/find?type=1&query=neath", "enEnData": {"suggests": [{"id": "19110", "link": "/find?type=3&query=%27neath", "word": "'neath"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19110",
+                "link": "/find?type=3&query=%27neath",
+                "word": "'neath"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>gi\u1edbi t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u01a1 ca) d\u01b0\u1edbi, \u1edf d\u01b0\u1edbi, b\u00ean d\u01b0\u1edbi</div>",
+            "id": "59969",
+            "mean": [],
+            "pronounce": "/'ni:\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/37e4c38c87e1788abf6d07ee44ee32ca/16e62a88901/N/neath.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d6094c176d6bf29d3bea0773653685d2/16e62a882fb/N/neath.mp3"
+            },
+            "type": "gi\u1edbi t\u1eeb",
+            "word": "neath"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,77 @@
-{"error": 0, "query": "necro", "enViData": {"suggests": [{"id": "60004", "link": "/find?type=1&query=necrologic", "word": "necrologic"}, {"id": "60005", "link": "/find?type=1&query=necrologist", "word": "necrologist"}, {"id": "60006", "link": "/find?type=1&query=necrologue", "word": "necrologue"}, {"id": "60007", "link": "/find?type=1&query=necrology", "word": "necrology"}, {"id": "60008", "link": "/find?type=1&query=necromancer", "word": "necromancer"}, {"id": "60009", "link": "/find?type=1&query=necromancy", "word": "necromancy"}, {"id": "60010", "link": "/find?type=1&query=necrophagous", "word": "necrophagous"}, {"id": "60011", "link": "/find?type=1&query=necrophilia", "word": "necrophilia"}, {"id": "60012", "link": "/find?type=1&query=necropoleis", "word": "necropoleis"}, {"id": "60013", "link": "/find?type=1&query=necropolis", "word": "necropolis"}]}, "mUrl": "/find?type=1&query=necro", "enEnData": {"suggests": [{"id": "19124", "link": "/find?type=3&query=necromancy", "word": "necromancy"}, {"id": "19125", "link": "/find?type=3&query=necrophilia", "word": "necrophilia"}, {"id": "19126", "link": "/find?type=3&query=necropolis", "word": "necropolis"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19124",
+                "link": "/find?type=3&query=necromancy",
+                "word": "necromancy"
+            },
+            {
+                "id": "19125",
+                "link": "/find?type=3&query=necrophilia",
+                "word": "necrophilia"
+            },
+            {
+                "id": "19126",
+                "link": "/find?type=3&query=necropolis",
+                "word": "necropolis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60004",
+                "link": "/find?type=1&query=necrologic",
+                "word": "necrologic"
+            },
+            {
+                "id": "60005",
+                "link": "/find?type=1&query=necrologist",
+                "word": "necrologist"
+            },
+            {
+                "id": "60006",
+                "link": "/find?type=1&query=necrologue",
+                "word": "necrologue"
+            },
+            {
+                "id": "60007",
+                "link": "/find?type=1&query=necrology",
+                "word": "necrology"
+            },
+            {
+                "id": "60008",
+                "link": "/find?type=1&query=necromancer",
+                "word": "necromancer"
+            },
+            {
+                "id": "60009",
+                "link": "/find?type=1&query=necromancy",
+                "word": "necromancy"
+            },
+            {
+                "id": "60010",
+                "link": "/find?type=1&query=necrophagous",
+                "word": "necrophagous"
+            },
+            {
+                "id": "60011",
+                "link": "/find?type=1&query=necrophilia",
+                "word": "necrophilia"
+            },
+            {
+                "id": "60012",
+                "link": "/find?type=1&query=necropoleis",
+                "word": "necropoleis"
+            },
+            {
+                "id": "60013",
+                "link": "/find?type=1&query=necropolis",
+                "word": "necropolis"
+            }
+        ]
+    }
+}

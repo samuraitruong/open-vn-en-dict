@@ -1,1 +1,22 @@
-{"error": 0, "query": "necropoli", "enViData": {"suggests": [{"id": "60013", "link": "/find?type=1&query=necropolis", "word": "necropolis"}]}, "mUrl": "/find?type=1&query=necropoli", "enEnData": {"suggests": [{"id": "19126", "link": "/find?type=3&query=necropolis", "word": "necropolis"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19126",
+                "link": "/find?type=3&query=necropolis",
+                "word": "necropolis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60013",
+                "link": "/find?type=1&query=necropolis",
+                "word": "necropolis"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"error": 0, "query": "natt", "enViData": {"suggests": [{"id": "59856", "link": "/find?type=1&query=natter", "word": "natter"}, {"id": "59857", "link": "/find?type=1&query=natterjack", "word": "natterjack"}, {"id": "59858", "link": "/find?type=1&query=nattery", "word": "nattery"}, {"id": "59859", "link": "/find?type=1&query=nattily", "word": "nattily"}, {"id": "59860", "link": "/find?type=1&query=nattiness", "word": "nattiness"}, {"id": "59861", "link": "/find?type=1&query=natty", "word": "natty"}]}, "mUrl": "/find?type=1&query=natt", "enEnData": {"suggests": [{"id": "19040", "link": "/find?type=3&query=natter", "word": "natter"}, {"id": "19041", "link": "/find?type=3&query=natty", "word": "natty"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19040",
+                "link": "/find?type=3&query=natter",
+                "word": "natter"
+            },
+            {
+                "id": "19041",
+                "link": "/find?type=3&query=natty",
+                "word": "natty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59856",
+                "link": "/find?type=1&query=natter",
+                "word": "natter"
+            },
+            {
+                "id": "59857",
+                "link": "/find?type=1&query=natterjack",
+                "word": "natterjack"
+            },
+            {
+                "id": "59858",
+                "link": "/find?type=1&query=nattery",
+                "word": "nattery"
+            },
+            {
+                "id": "59859",
+                "link": "/find?type=1&query=nattily",
+                "word": "nattily"
+            },
+            {
+                "id": "59860",
+                "link": "/find?type=1&query=nattiness",
+                "word": "nattiness"
+            },
+            {
+                "id": "59861",
+                "link": "/find?type=1&query=natty",
+                "word": "natty"
+            }
+        ]
+    }
+}

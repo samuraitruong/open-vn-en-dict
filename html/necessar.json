@@ -1,1 +1,57 @@
-{"error": 0, "query": "necessar", "enViData": {"suggests": [{"id": "59979", "link": "/find?type=1&query=necessarianism", "word": "necessarianism"}, {"id": "59980", "link": "/find?type=1&query=necessaries", "word": "necessaries"}, {"id": "59981", "link": "/find?type=1&query=necessarily", "word": "necessarily"}, {"id": "59982", "link": "/find?type=1&query=necessary", "word": "necessary"}]}, "mUrl": "/find?type=1&query=necessar", "enEnData": {"suggests": [{"id": "19113", "link": "/find?type=3&query=necessarily", "word": "necessarily"}, {"id": "19114", "link": "/find?type=3&query=necessary", "word": "necessary"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4820", "link": "/find?type=4&query=necessarily", "word": "necessarily"}, {"id": "4821", "link": "/find?type=4&query=necessary", "word": "necessary"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19113",
+                "link": "/find?type=3&query=necessarily",
+                "word": "necessarily"
+            },
+            {
+                "id": "19114",
+                "link": "/find?type=3&query=necessary",
+                "word": "necessary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59979",
+                "link": "/find?type=1&query=necessarianism",
+                "word": "necessarianism"
+            },
+            {
+                "id": "59980",
+                "link": "/find?type=1&query=necessaries",
+                "word": "necessaries"
+            },
+            {
+                "id": "59981",
+                "link": "/find?type=1&query=necessarily",
+                "word": "necessarily"
+            },
+            {
+                "id": "59982",
+                "link": "/find?type=1&query=necessary",
+                "word": "necessary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4820",
+                "link": "/find?type=4&query=necessarily",
+                "word": "necessarily"
+            },
+            {
+                "id": "4821",
+                "link": "/find?type=4&query=necessary",
+                "word": "necessary"
+            }
+        ]
+    }
+}

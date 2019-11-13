@@ -1,1 +1,22 @@
-{"error": 0, "query": "necromancing", "enViData": {"suggests": [{"id": "60008", "link": "/find?type=1&query=necromancer", "word": "necromancer"}]}, "mUrl": "/find?type=1&query=necromancing", "enEnData": {"suggests": [{"id": "19124", "link": "/find?type=3&query=necromancy", "word": "necromancy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19124",
+                "link": "/find?type=3&query=necromancy",
+                "word": "necromancy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60008",
+                "link": "/find?type=1&query=necromancer",
+                "word": "necromancer"
+            }
+        ]
+    }
+}

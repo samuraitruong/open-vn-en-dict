@@ -1,1 +1,34 @@
-{"error": 0, "query": "nazi", "enViData": {"suggests": [{"id": "59932", "link": "/find?type=1&query=Nazism", "word": "Nazism"}], "best": {"id": "59932", "details": "\n<div id=\"find_word_59932\" class=\"world word_en\" rel=\"Nazi\">\n    <h2 class=\"fl\">Nazi <span class=\"color-black\">/'n\u0251:tsi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"59932\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"59932\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea3ng vi\u00ean \u0110\u1ea3ng Qu\u1ed1c x\u00e3 (\u0110\u1ee9c)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Qu\u1ed1c x\u00e3</div>\n    \n</div>\n", "link": "/find?type=1&query=Nazi", "word": "Nazi"}}, "mUrl": "/find?type=1&query=nazi", "enEnData": {"suggests": [], "best": {"id": "19086", "details": "\n<div id=\"find_word_19086\" class=\"world word_en\" rel=\"Nazi\">\n    <h2 class=\"fl\">Nazi <span class=\"color-black\">/\u02c8n\u0251\u02d0tsi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19086\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19086\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -zis</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a member of a German political party that controlled Germany from 1933 to 1945 under Adolf Hitler</div>\n    \n    <div class=\"green margin25 m-top15\">disapproving :an evil person who wants to use power to control and harm other people especially because of their race, religion, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a gang of racist Nazis - see also neo-nazi</div>\n    \n</div>\n", "link": "/find?type=3&query=Nazi", "word": "Nazi"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -zis</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a member of a German political party that controlled Germany from 1933 to 1945 under Adolf Hitler</div>\n    \n    <div class=\"green margin25 m-top15\">disapproving :an evil person who wants to use power to control and harm other people especially because of their race, religion, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a gang of racist Nazis - see also neo-nazi</div>",
+            "id": "19086",
+            "mean": [],
+            "pronounce": "/\u02c8n\u0251\u02d0tsi/",
+            "type": "noun",
+            "word": "Nazi"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea3ng vi\u00ean \u0110\u1ea3ng Qu\u1ed1c x\u00e3 (\u0110\u1ee9c)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">Qu\u1ed1c x\u00e3</div>",
+            "id": "59932",
+            "mean": [],
+            "pronounce": "/'n\u0251:tsi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e8e53279c89515def210add7ab70789b/16e62a8781d/N/Nazi.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7dac3942559e73d20ac7611712ff10f8/16e62a871dd/N/Nazi.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "Nazi"
+        },
+        "suggests": [
+            {
+                "id": "59932",
+                "link": "/find?type=1&query=Nazism",
+                "word": "Nazism"
+            }
+        ]
+    }
+}
