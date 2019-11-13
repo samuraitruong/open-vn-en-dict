@@ -1,1 +1,52 @@
-{"error": 0, "query": "probabl", "enViData": {"suggests": [{"id": "71526", "link": "/find?type=1&query=probable", "word": "probable"}, {"id": "71527", "link": "/find?type=1&query=probably", "word": "probably"}]}, "mUrl": "/find?type=1&query=probabl", "enEnData": {"suggests": [{"id": "22992", "link": "/find?type=3&query=probable", "word": "probable"}, {"id": "22993", "link": "/find?type=3&query=probable+cause", "word": "probable cause"}, {"id": "22994", "link": "/find?type=3&query=probably", "word": "probably"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5883", "link": "/find?type=4&query=probable", "word": "probable"}, {"id": "5884", "link": "/find?type=4&query=probably", "word": "probably"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22992",
+                "link": "/find?type=3&query=probable",
+                "word": "probable"
+            },
+            {
+                "id": "22993",
+                "link": "/find?type=3&query=probable+cause",
+                "word": "probable cause"
+            },
+            {
+                "id": "22994",
+                "link": "/find?type=3&query=probably",
+                "word": "probably"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71526",
+                "link": "/find?type=1&query=probable",
+                "word": "probable"
+            },
+            {
+                "id": "71527",
+                "link": "/find?type=1&query=probably",
+                "word": "probably"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5883",
+                "link": "/find?type=4&query=probable",
+                "word": "probable"
+            },
+            {
+                "id": "5884",
+                "link": "/find?type=4&query=probably",
+                "word": "probably"
+            }
+        ]
+    }
+}

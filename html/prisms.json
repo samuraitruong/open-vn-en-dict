@@ -1,1 +1,80 @@
-{"error": 0, "query": "prisms", "enViData": {"suggests": [{"id": "71419", "link": "/find?type=1&query=prism-binoculars", "word": "prism-binoculars"}, {"id": "71419", "link": "/find?type=1&query=prism-glasses", "word": "prism-glasses"}, {"id": "71419", "link": "/find?type=1&query=prismatic", "word": "prismatic"}, {"id": "71419", "link": "/find?type=1&query=prismatically", "word": "prismatically"}, {"id": "71419", "link": "/find?type=1&query=prismatoid", "word": "prismatoid"}, {"id": "71419", "link": "/find?type=1&query=prismatoidal", "word": "prismatoidal"}, {"id": "71419", "link": "/find?type=1&query=prismoid", "word": "prismoid"}, {"id": "71419", "link": "/find?type=1&query=prismoidal", "word": "prismoidal"}, {"id": "71419", "link": "/find?type=1&query=prismy", "word": "prismy"}], "best": {"id": "71419", "details": "\n<div id=\"find_word_71419\" class=\"world word_en\" rel=\"prism\">\n    <h2 class=\"fl\">prism <span class=\"color-black\">/'priz\u0259m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"71419\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"71419\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) l\u0103ng tr\u1ee5</div>\n    \n    <div class=\"green margin25 m-top15\">(v\u1eadt) l\u0103ng k\u00ednh</div>\n    \n</div>\n", "link": "/find?type=1&query=prism", "word": "prism"}}, "mUrl": "/find?type=1&query=prisms", "enEnData": {"suggests": [{"id": "22946", "link": "/find?type=3&query=prismatic", "word": "prismatic"}], "best": {"id": "22946", "details": "\n<div id=\"find_word_22946\" class=\"world word_en\" rel=\"prism\">\n    <h2 class=\"fl\">prism <span class=\"color-black\">/\u02c8pr\u026az\u0259m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22946\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22946\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural prisms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a transparent glass or plastic object that usually has three sides and that separates the light that passes through it into different colors - often used figuratively to describe a way of looking at or thinking about something that causes you to see or understand it in a different way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The novel is a history of early 19th-century America told through the prism of one life.</div>\n    \n</div>\n", "link": "/find?type=3&query=prism", "word": "prism"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural prisms</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a transparent glass or plastic object that usually has three sides and that separates the light that passes through it into different colors - often used figuratively to describe a way of looking at or thinking about something that causes you to see or understand it in a different way</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The novel is a history of early 19th-century America told through the prism of one life.</div>",
+            "id": "22946",
+            "mean": [],
+            "pronounce": "/\u02c8pr\u026az\u0259m/",
+            "type": "noun",
+            "word": "prism"
+        },
+        "suggests": [
+            {
+                "id": "22946",
+                "link": "/find?type=3&query=prismatic",
+                "word": "prismatic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(to\u00e1n h\u1ecdc) l\u0103ng tr\u1ee5</div>\n    \n    <div class=\"green margin25 m-top15\">(v\u1eadt) l\u0103ng k\u00ednh</div>",
+            "id": "71419",
+            "mean": [],
+            "pronounce": "/'priz\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9f35100d4e121bf46fb349f7dfbb796e/16e62d463e6/P/prism.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/95451b847e222d481e750b12c425dbc2/16e62d45df6/P/prism.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "prism"
+        },
+        "suggests": [
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prism-binoculars",
+                "word": "prism-binoculars"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prism-glasses",
+                "word": "prism-glasses"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismatic",
+                "word": "prismatic"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismatically",
+                "word": "prismatically"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismatoid",
+                "word": "prismatoid"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismatoidal",
+                "word": "prismatoidal"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismoid",
+                "word": "prismoid"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismoidal",
+                "word": "prismoidal"
+            },
+            {
+                "id": "71419",
+                "link": "/find?type=1&query=prismy",
+                "word": "prismy"
+            }
+        ]
+    }
+}

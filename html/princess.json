@@ -1,1 +1,34 @@
-{"error": 0, "query": "princess", "enViData": {"suggests": [{"id": "71368", "link": "/find?type=1&query=princess+royal", "word": "princess royal"}], "best": {"id": "71368", "details": "\n<div id=\"find_word_71368\" class=\"world word_en\" rel=\"princess\">\n    <h2 class=\"fl\">princess <span class=\"color-black\">/prin'ses/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"71368\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"71368\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ng ch\u00faa, qu\u1eadn ch\u00faa</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e0 ho\u00e0ng</div>\n    \n    <div class=\"bold dot-blue m-top15\">Prinecess Royal</div>\n    \n    <div class=\"grey margin25 m-top15\">c\u00f4ng ch\u00faa tr\u01b0\u1edfng n\u1eef (\u1edf Anh)</div>\n    \n</div>\n", "link": "/find?type=1&query=princess", "word": "princess"}}, "mUrl": "/find?type=1&query=princess", "enEnData": {"suggests": [], "best": {"id": "22928", "details": "\n<div id=\"find_word_22928\" class=\"world word_en\" rel=\"princess\">\n    <h2 class=\"fl\">princess <span class=\"color-black\">/\u02c8pr\u026ans\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02ccpr\u026an\u02c8s\u025bs/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22928\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22928\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cesses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a female member of a royal family especially;  :a daughter or granddaughter of a king or queen</div>\n    \n    <div class=\"green margin25 m-top15\">the wife of a prince</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Princess Diana</div>\n    \n    <div class=\"green margin25 m-top15\">informal + sometimes disapproving :a usually attractive girl or woman who is treated with special attention and kindness</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pop music princess</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's just a stuck-up princess.</div>\n    \n</div>\n", "link": "/find?type=3&query=princess", "word": "princess"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cesses</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a female member of a royal family especially;  :a daughter or granddaughter of a king or queen</div>\n    \n    <div class=\"green margin25 m-top15\">the wife of a prince</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Princess Diana</div>\n    \n    <div class=\"green margin25 m-top15\">informal + sometimes disapproving :a usually attractive girl or woman who is treated with special attention and kindness</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pop music princess</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's just a stuck-up princess.</div>",
+            "id": "22928",
+            "mean": [],
+            "pronounce": "/\u02c8pr\u026ans\u0259s/",
+            "type": "noun",
+            "word": "princess"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u00f4ng ch\u00faa, qu\u1eadn ch\u00faa</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e0 ho\u00e0ng</div>\n    \n    <div class=\"bold dot-blue m-top15\">Prinecess Royal</div>\n    \n    <div class=\"grey margin25 m-top15\">c\u00f4ng ch\u00faa tr\u01b0\u1edfng n\u1eef (\u1edf Anh)</div>",
+            "id": "71368",
+            "mean": [],
+            "pronounce": "/prin'ses/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6b689ade6b612f6bfa7de7aadd897205/16e62d43a71/P/princess.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ea7389a33f9a66b943ddf37b6558f337/16e62d434ae/P/princess.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "princess"
+        },
+        "suggests": [
+            {
+                "id": "71368",
+                "link": "/find?type=1&query=princess+royal",
+                "word": "princess royal"
+            }
+        ]
+    }
+}

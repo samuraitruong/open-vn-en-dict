@@ -1,1 +1,22 @@
-{"error": 0, "query": "probits", "mUrl": "/find?type=1&query=probits", "enEnData": {"suggests": [{"id": "23000", "link": "/find?type=3&query=probity", "word": "probity"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5886", "link": "/find?type=4&query=probity", "word": "probity"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23000",
+                "link": "/find?type=3&query=probity",
+                "word": "probity"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5886",
+                "link": "/find?type=4&query=probity",
+                "word": "probity"
+            }
+        ]
+    }
+}

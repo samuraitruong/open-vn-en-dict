@@ -1,1 +1,37 @@
-{"error": 0, "query": "pristis", "enViData": {"suggests": [{"id": "71443", "link": "/find?type=1&query=pristine", "word": "pristine"}, {"id": "71444", "link": "/find?type=1&query=pristinely", "word": "pristinely"}]}, "mUrl": "/find?type=1&query=pristis", "enEnData": {"suggests": [{"id": "22954", "link": "/find?type=3&query=pristine", "word": "pristine"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5874", "link": "/find?type=4&query=pristine", "word": "pristine"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22954",
+                "link": "/find?type=3&query=pristine",
+                "word": "pristine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71443",
+                "link": "/find?type=1&query=pristine",
+                "word": "pristine"
+            },
+            {
+                "id": "71444",
+                "link": "/find?type=1&query=pristinely",
+                "word": "pristinely"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5874",
+                "link": "/find?type=4&query=pristine",
+                "word": "pristine"
+            }
+        ]
+    }
+}

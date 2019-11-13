@@ -1,1 +1,42 @@
-{"error": 0, "query": "priori", "enViData": {"suggests": [{"id": "71412", "link": "/find?type=1&query=prioritize", "word": "prioritize"}, {"id": "71413", "link": "/find?type=1&query=priority", "word": "priority"}]}, "mUrl": "/find?type=1&query=priori", "enEnData": {"suggests": [{"id": "22943", "link": "/find?type=3&query=prioritize", "word": "prioritize"}, {"id": "22944", "link": "/find?type=3&query=priority", "word": "priority"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5870", "link": "/find?type=4&query=priority", "word": "priority"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22943",
+                "link": "/find?type=3&query=prioritize",
+                "word": "prioritize"
+            },
+            {
+                "id": "22944",
+                "link": "/find?type=3&query=priority",
+                "word": "priority"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71412",
+                "link": "/find?type=1&query=prioritize",
+                "word": "prioritize"
+            },
+            {
+                "id": "71413",
+                "link": "/find?type=1&query=priority",
+                "word": "priority"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5870",
+                "link": "/find?type=4&query=priority",
+                "word": "priority"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "privateered", "enViData": {"suggests": [{"id": "71460", "link": "/find?type=1&query=privateering", "word": "privateering"}], "best": {"id": "71460", "details": "\n<div id=\"find_word_71460\" class=\"world word_en\" rel=\"privateer\">\n    <h2 class=\"fl\">privateer <span class=\"color-black\">/praiv\u0259'ti\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"71460\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"71460\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0u c\u01b0\u1edbp bi\u1ec3n</div>\n    \n</div>\n", "link": "/find?type=1&query=privateer", "word": "privateer"}}, "mUrl": "/find?type=1&query=privateered", "enEnData": {"suggests": [], "best": {"id": "22966", "details": "\n<div id=\"find_word_22966\" class=\"world word_en\" rel=\"privateer\">\n    <h2 class=\"fl\">privateer <span class=\"color-black\">/\u02ccpra\u026av\u0259\u02c8ti\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22966\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22966\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -teers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a ship used in the past to attack and rob other ships also;  :a sailor on a privateer</div>\n    \n</div>\n", "link": "/find?type=3&query=privateer", "word": "privateer"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -teers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a ship used in the past to attack and rob other ships also;  :a sailor on a privateer</div>",
+            "id": "22966",
+            "mean": [],
+            "pronounce": "/\u02ccpra\u026av\u0259\u02c8ti\u025a/",
+            "type": "noun",
+            "word": "privateer"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00e0u c\u01b0\u1edbp bi\u1ec3n</div>",
+            "id": "71460",
+            "mean": [],
+            "pronounce": "/praiv\u0259'ti\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2319b28900cd3d183b69f902d2674005/16e62d4795b/P/privateer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3335d33c8dc6463f7fe3cbf9d562e5a8/16e62d47295/P/privateer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "privateer"
+        },
+        "suggests": [
+            {
+                "id": "71460",
+                "link": "/find?type=1&query=privateering",
+                "word": "privateering"
+            }
+        ]
+    }
+}
