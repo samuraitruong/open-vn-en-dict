@@ -1,1 +1,32 @@
-{"error": 0, "query": "pharmaceutic", "enViData": {"suggests": [{"id": "67222", "link": "/find?type=1&query=pharmaceutical", "word": "pharmaceutical"}, {"id": "67223", "link": "/find?type=1&query=pharmaceutically", "word": "pharmaceutically"}, {"id": "67224", "link": "/find?type=1&query=pharmaceutics", "word": "pharmaceutics"}]}, "mUrl": "/find?type=1&query=pharmaceutic", "enEnData": {"suggests": [{"id": "21577", "link": "/find?type=3&query=pharmaceutical", "word": "pharmaceutical"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21577",
+                "link": "/find?type=3&query=pharmaceutical",
+                "word": "pharmaceutical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67222",
+                "link": "/find?type=1&query=pharmaceutical",
+                "word": "pharmaceutical"
+            },
+            {
+                "id": "67223",
+                "link": "/find?type=1&query=pharmaceutically",
+                "word": "pharmaceutically"
+            },
+            {
+                "id": "67224",
+                "link": "/find?type=1&query=pharmaceutics",
+                "word": "pharmaceutics"
+            }
+        ]
+    }
+}

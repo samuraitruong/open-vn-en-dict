@@ -1,1 +1,60 @@
-{"error": 0, "query": "pews", "enViData": {"suggests": [{"id": "67145", "link": "/find?type=1&query=pew-rent", "word": "pew-rent"}, {"id": "67145", "link": "/find?type=1&query=pewage", "word": "pewage"}, {"id": "67145", "link": "/find?type=1&query=pewit", "word": "pewit"}, {"id": "67145", "link": "/find?type=1&query=pewit+gull", "word": "pewit gull"}, {"id": "67145", "link": "/find?type=1&query=pewter", "word": "pewter"}], "best": {"id": "67145", "details": "\n<div id=\"find_word_67145\" class=\"world word_en\" rel=\"pew\">\n    <h2 class=\"fl\">pew <span class=\"color-black\">/pju:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67145\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67145\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gh\u1ebf nh\u00e0 th\u1edd (gh\u1ebf d\u00e0i c\u00f3 t\u1ef1a)</div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef, \u0111\u00f9a) ch\u1ed7 ng\u1ed3i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">take (grab) a pew!</div>\n    \n    <div class=\"margin25\">m\u1eddi ng\u1ed3i!</div>\n    \n</div>\n", "link": "/find?type=1&query=pew", "word": "pew"}}, "mUrl": "/find?type=1&query=pews", "enEnData": {"suggests": [{"id": "21560", "link": "/find?type=3&query=pewter", "word": "pewter"}], "best": {"id": "21560", "details": "\n<div id=\"find_word_21560\" class=\"world word_en\" rel=\"pew\">\n    <h2 class=\"fl\">pew <span class=\"color-black\">/\u02c8pju\u02d0/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21560\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21560\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural pews</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :one of the benches that are placed in rows in a church</div>\n    \n</div>\n", "link": "/find?type=3&query=pew", "word": "pew"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural pews</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :one of the benches that are placed in rows in a church</div>",
+            "id": "21560",
+            "mean": [],
+            "pronounce": "/\u02c8pju\u02d0/",
+            "type": "noun",
+            "word": "pew"
+        },
+        "suggests": [
+            {
+                "id": "21560",
+                "link": "/find?type=3&query=pewter",
+                "word": "pewter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gh\u1ebf nh\u00e0 th\u1edd (gh\u1ebf d\u00e0i c\u00f3 t\u1ef1a)</div>\n    \n    <div class=\"green margin25 m-top15\">(kh\u1ea9u ng\u1eef, \u0111\u00f9a) ch\u1ed7 ng\u1ed3i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">take (grab) a pew!</div>\n    \n    <div class=\"margin25\">m\u1eddi ng\u1ed3i!</div>",
+            "id": "67145",
+            "mean": [],
+            "pronounce": "/pju:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/13636a1ba92a9abb8962f9d2d6023c88/16e62c4aab5/P/pew.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f7d44bbf13b9b1fe4b66c9f54bac9316/16e62c4a4ad/P/pew.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pew"
+        },
+        "suggests": [
+            {
+                "id": "67145",
+                "link": "/find?type=1&query=pew-rent",
+                "word": "pew-rent"
+            },
+            {
+                "id": "67145",
+                "link": "/find?type=1&query=pewage",
+                "word": "pewage"
+            },
+            {
+                "id": "67145",
+                "link": "/find?type=1&query=pewit",
+                "word": "pewit"
+            },
+            {
+                "id": "67145",
+                "link": "/find?type=1&query=pewit+gull",
+                "word": "pewit gull"
+            },
+            {
+                "id": "67145",
+                "link": "/find?type=1&query=pewter",
+                "word": "pewter"
+            }
+        ]
+    }
+}
