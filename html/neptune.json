@@ -1,1 +1,28 @@
-{"error": 0, "query": "neptune", "enViData": {"suggests": [], "best": {"id": "60172", "details": "\n<div id=\"find_word_60172\" class=\"world word_en\" rel=\"Neptune\">\n    <h2 class=\"fl\">Neptune <span class=\"color-black\">/'neptju:n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60172\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60172\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">sao H\u1ea3i v\u01b0\u01a1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=Neptune", "word": "Neptune"}}, "mUrl": "/find?type=1&query=neptune", "enEnData": {"suggests": [], "best": {"id": "19177", "details": "\n<div id=\"find_word_19177\" class=\"world word_en\" rel=\"Neptune\">\n    <h2 class=\"fl\">Neptune <span class=\"color-black\">/\u02c8n\u025bp\u02cctu\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8n\u025bp\u02cctju\u02d0n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19177\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19177\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :the planet that is eighth in order from the sun</div>\n    \n</div>\n", "link": "/find?type=3&query=Neptune", "word": "Neptune"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :the planet that is eighth in order from the sun</div>",
+            "id": "19177",
+            "mean": [],
+            "pronounce": "/\u02c8n\u025bp\u02cctu\u02d0n/",
+            "type": "noun",
+            "word": "Neptune"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">sao H\u1ea3i v\u01b0\u01a1ng</div>",
+            "id": "60172",
+            "mean": [],
+            "pronounce": "/'neptju:n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c49d6de82588ed170a74a7f18f4eda53/16e62a96f2a/N/Neptune.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c8bfd858ed5d76daec5a31880877f99e/16e62a96932/N/Neptune.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Neptune"
+        },
+        "suggests": []
+    }
+}

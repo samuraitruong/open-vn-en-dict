@@ -1,1 +1,44 @@
-{"error": 0, "query": "negroes", "enViData": {"suggests": [{"id": "60100", "link": "/find?type=1&query=negro-head", "word": "negro-head"}, {"id": "60100", "link": "/find?type=1&query=Negroid", "word": "Negroid"}, {"id": "60100", "link": "/find?type=1&query=negroidal", "word": "negroidal"}], "best": {"id": "60100", "details": "\n<div id=\"find_word_60100\" class=\"world word_en\" rel=\"Negro\">\n    <h2 class=\"fl\">Negro <span class=\"color-black\">/'ni:gr\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60100\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60100\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u Negroes)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi da \u0111en</div>\n    \n</div>\n", "link": "/find?type=1&query=Negro", "word": "Negro"}}, "mUrl": "/find?type=1&query=negroes", "enEnData": {"suggests": [], "best": {"id": "19158", "details": "\n<div id=\"find_word_19158\" class=\"world word_en\" rel=\"Negro\">\n    <h2 class=\"fl\">Negro <span class=\"color-black\">/\u02c8ni\u02d0gro\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19158\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19158\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -groes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned + sometimes offensive :a person who has dark skin and who belongs to a race of people who are originally from Africa</div>\n    \n</div>\n", "link": "/find?type=3&query=Negro", "word": "Negro"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -groes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned + sometimes offensive :a person who has dark skin and who belongs to a race of people who are originally from Africa</div>",
+            "id": "19158",
+            "mean": [],
+            "pronounce": "/\u02c8ni\u02d0gro\u028a/",
+            "type": "noun",
+            "word": "Negro"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u Negroes)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi da \u0111en</div>",
+            "id": "60100",
+            "mean": [],
+            "pronounce": "/'ni:gr\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/18f2ebc7b2cb247da3f272699d8e11d6/16e62a90804/N/Negro.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/086f8054bfab23b53d6d25d117df453a/16e62a901b1/N/Negro.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Negro"
+        },
+        "suggests": [
+            {
+                "id": "60100",
+                "link": "/find?type=1&query=negro-head",
+                "word": "negro-head"
+            },
+            {
+                "id": "60100",
+                "link": "/find?type=1&query=Negroid",
+                "word": "Negroid"
+            },
+            {
+                "id": "60100",
+                "link": "/find?type=1&query=negroidal",
+                "word": "negroidal"
+            }
+        ]
+    }
+}

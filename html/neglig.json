@@ -1,1 +1,77 @@
-{"error": 0, "query": "neglig", "enViData": {"suggests": [{"id": "60081", "link": "/find?type=1&query=negligeable", "word": "negligeable"}, {"id": "60082", "link": "/find?type=1&query=negligence", "word": "negligence"}, {"id": "60083", "link": "/find?type=1&query=negligent", "word": "negligent"}, {"id": "60084", "link": "/find?type=1&query=negligently", "word": "negligently"}, {"id": "60085", "link": "/find?type=1&query=negligibility", "word": "negligibility"}, {"id": "60086", "link": "/find?type=1&query=negligible", "word": "negligible"}]}, "mUrl": "/find?type=1&query=neglig", "enEnData": {"suggests": [{"id": "19149", "link": "/find?type=3&query=negligee", "word": "negligee"}, {"id": "19150", "link": "/find?type=3&query=negligence", "word": "negligence"}, {"id": "19151", "link": "/find?type=3&query=negligent", "word": "negligent"}, {"id": "19152", "link": "/find?type=3&query=negligible", "word": "negligible"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4828", "link": "/find?type=4&query=negligence", "word": "negligence"}, {"id": "4829", "link": "/find?type=4&query=negligible", "word": "negligible"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19149",
+                "link": "/find?type=3&query=negligee",
+                "word": "negligee"
+            },
+            {
+                "id": "19150",
+                "link": "/find?type=3&query=negligence",
+                "word": "negligence"
+            },
+            {
+                "id": "19151",
+                "link": "/find?type=3&query=negligent",
+                "word": "negligent"
+            },
+            {
+                "id": "19152",
+                "link": "/find?type=3&query=negligible",
+                "word": "negligible"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60081",
+                "link": "/find?type=1&query=negligeable",
+                "word": "negligeable"
+            },
+            {
+                "id": "60082",
+                "link": "/find?type=1&query=negligence",
+                "word": "negligence"
+            },
+            {
+                "id": "60083",
+                "link": "/find?type=1&query=negligent",
+                "word": "negligent"
+            },
+            {
+                "id": "60084",
+                "link": "/find?type=1&query=negligently",
+                "word": "negligently"
+            },
+            {
+                "id": "60085",
+                "link": "/find?type=1&query=negligibility",
+                "word": "negligibility"
+            },
+            {
+                "id": "60086",
+                "link": "/find?type=1&query=negligible",
+                "word": "negligible"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4828",
+                "link": "/find?type=4&query=negligence",
+                "word": "negligence"
+            },
+            {
+                "id": "4829",
+                "link": "/find?type=4&query=negligible",
+                "word": "negligible"
+            }
+        ]
+    }
+}

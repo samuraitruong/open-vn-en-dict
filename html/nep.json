@@ -1,1 +1,77 @@
-{"error": 0, "query": "nep", "enViData": {"suggests": [{"id": "60162", "link": "/find?type=1&query=nepenthe", "word": "nepenthe"}, {"id": "60163", "link": "/find?type=1&query=nepenthes", "word": "nepenthes"}, {"id": "60164", "link": "/find?type=1&query=nephew", "word": "nephew"}, {"id": "60165", "link": "/find?type=1&query=nephology", "word": "nephology"}, {"id": "60166", "link": "/find?type=1&query=nephrite", "word": "nephrite"}, {"id": "60167", "link": "/find?type=1&query=nephritic", "word": "nephritic"}, {"id": "60168", "link": "/find?type=1&query=nephritis", "word": "nephritis"}, {"id": "60169", "link": "/find?type=1&query=nepotic", "word": "nepotic"}, {"id": "60170", "link": "/find?type=1&query=nepotism", "word": "nepotism"}, {"id": "60171", "link": "/find?type=1&query=nepotist", "word": "nepotist"}]}, "mUrl": "/find?type=1&query=nep", "enEnData": {"suggests": [{"id": "19175", "link": "/find?type=3&query=nephew", "word": "nephew"}, {"id": "19176", "link": "/find?type=3&query=nepotism", "word": "nepotism"}, {"id": "19177", "link": "/find?type=3&query=Neptune", "word": "Neptune"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19175",
+                "link": "/find?type=3&query=nephew",
+                "word": "nephew"
+            },
+            {
+                "id": "19176",
+                "link": "/find?type=3&query=nepotism",
+                "word": "nepotism"
+            },
+            {
+                "id": "19177",
+                "link": "/find?type=3&query=Neptune",
+                "word": "Neptune"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60162",
+                "link": "/find?type=1&query=nepenthe",
+                "word": "nepenthe"
+            },
+            {
+                "id": "60163",
+                "link": "/find?type=1&query=nepenthes",
+                "word": "nepenthes"
+            },
+            {
+                "id": "60164",
+                "link": "/find?type=1&query=nephew",
+                "word": "nephew"
+            },
+            {
+                "id": "60165",
+                "link": "/find?type=1&query=nephology",
+                "word": "nephology"
+            },
+            {
+                "id": "60166",
+                "link": "/find?type=1&query=nephrite",
+                "word": "nephrite"
+            },
+            {
+                "id": "60167",
+                "link": "/find?type=1&query=nephritic",
+                "word": "nephritic"
+            },
+            {
+                "id": "60168",
+                "link": "/find?type=1&query=nephritis",
+                "word": "nephritis"
+            },
+            {
+                "id": "60169",
+                "link": "/find?type=1&query=nepotic",
+                "word": "nepotic"
+            },
+            {
+                "id": "60170",
+                "link": "/find?type=1&query=nepotism",
+                "word": "nepotism"
+            },
+            {
+                "id": "60171",
+                "link": "/find?type=1&query=nepotist",
+                "word": "nepotist"
+            }
+        ]
+    }
+}

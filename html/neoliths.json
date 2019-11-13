@@ -1,1 +1,22 @@
-{"error": 0, "query": "neoliths", "enViData": {"suggests": [{"id": "60147", "link": "/find?type=1&query=neolithic", "word": "neolithic"}]}, "mUrl": "/find?type=1&query=neoliths", "enEnData": {"suggests": [{"id": "19169", "link": "/find?type=3&query=Neolithic", "word": "Neolithic"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19169",
+                "link": "/find?type=3&query=Neolithic",
+                "word": "Neolithic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60147",
+                "link": "/find?type=1&query=neolithic",
+                "word": "neolithic"
+            }
+        ]
+    }
+}
