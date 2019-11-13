@@ -1,1 +1,132 @@
-{"error": 0, "query": "req", "enViData": {"suggests": [{"id": "76453", "link": "/find?type=1&query=request", "word": "request"}, {"id": "76454", "link": "/find?type=1&query=request+stop", "word": "request stop"}, {"id": "76455", "link": "/find?type=1&query=requester", "word": "requester"}, {"id": "76456", "link": "/find?type=1&query=requiem", "word": "requiem"}, {"id": "76457", "link": "/find?type=1&query=require", "word": "require"}, {"id": "76458", "link": "/find?type=1&query=required", "word": "required"}, {"id": "76459", "link": "/find?type=1&query=Required+rate+of+return+on+capital", "word": "Required rate of return on capital"}, {"id": "76460", "link": "/find?type=1&query=Required+real+rate+of+return+on+capital", "word": "Required real rate of return on capital"}, {"id": "76461", "link": "/find?type=1&query=Required+reserve+ratio", "word": "Required reserve ratio"}, {"id": "76462", "link": "/find?type=1&query=Required+reserves", "word": "Required reserves"}]}, "mUrl": "/find?type=1&query=req", "enEnData": {"suggests": [{"id": "24601", "link": "/find?type=3&query=request", "word": "request"}, {"id": "24602", "link": "/find?type=3&query=requiem", "word": "requiem"}, {"id": "24603", "link": "/find?type=3&query=require", "word": "require"}, {"id": "24604", "link": "/find?type=3&query=requirement", "word": "requirement"}, {"id": "24605", "link": "/find?type=3&query=requisite", "word": "requisite"}, {"id": "24606", "link": "/find?type=3&query=requisition", "word": "requisition"}, {"id": "24607", "link": "/find?type=3&query=requite", "word": "requite"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6519", "link": "/find?type=4&query=request", "word": "request"}, {"id": "6520", "link": "/find?type=4&query=require", "word": "require"}, {"id": "6521", "link": "/find?type=4&query=requirement", "word": "requirement"}, {"id": "6522", "link": "/find?type=4&query=requisition", "word": "requisition"}, {"id": "6523", "link": "/find?type=4&query=requital", "word": "requital"}, {"id": "6524", "link": "/find?type=4&query=requite", "word": "requite"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24601",
+                "link": "/find?type=3&query=request",
+                "word": "request"
+            },
+            {
+                "id": "24602",
+                "link": "/find?type=3&query=requiem",
+                "word": "requiem"
+            },
+            {
+                "id": "24603",
+                "link": "/find?type=3&query=require",
+                "word": "require"
+            },
+            {
+                "id": "24604",
+                "link": "/find?type=3&query=requirement",
+                "word": "requirement"
+            },
+            {
+                "id": "24605",
+                "link": "/find?type=3&query=requisite",
+                "word": "requisite"
+            },
+            {
+                "id": "24606",
+                "link": "/find?type=3&query=requisition",
+                "word": "requisition"
+            },
+            {
+                "id": "24607",
+                "link": "/find?type=3&query=requite",
+                "word": "requite"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76453",
+                "link": "/find?type=1&query=request",
+                "word": "request"
+            },
+            {
+                "id": "76454",
+                "link": "/find?type=1&query=request+stop",
+                "word": "request stop"
+            },
+            {
+                "id": "76455",
+                "link": "/find?type=1&query=requester",
+                "word": "requester"
+            },
+            {
+                "id": "76456",
+                "link": "/find?type=1&query=requiem",
+                "word": "requiem"
+            },
+            {
+                "id": "76457",
+                "link": "/find?type=1&query=require",
+                "word": "require"
+            },
+            {
+                "id": "76458",
+                "link": "/find?type=1&query=required",
+                "word": "required"
+            },
+            {
+                "id": "76459",
+                "link": "/find?type=1&query=Required+rate+of+return+on+capital",
+                "word": "Required rate of return on capital"
+            },
+            {
+                "id": "76460",
+                "link": "/find?type=1&query=Required+real+rate+of+return+on+capital",
+                "word": "Required real rate of return on capital"
+            },
+            {
+                "id": "76461",
+                "link": "/find?type=1&query=Required+reserve+ratio",
+                "word": "Required reserve ratio"
+            },
+            {
+                "id": "76462",
+                "link": "/find?type=1&query=Required+reserves",
+                "word": "Required reserves"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6519",
+                "link": "/find?type=4&query=request",
+                "word": "request"
+            },
+            {
+                "id": "6520",
+                "link": "/find?type=4&query=require",
+                "word": "require"
+            },
+            {
+                "id": "6521",
+                "link": "/find?type=4&query=requirement",
+                "word": "requirement"
+            },
+            {
+                "id": "6522",
+                "link": "/find?type=4&query=requisition",
+                "word": "requisition"
+            },
+            {
+                "id": "6523",
+                "link": "/find?type=4&query=requital",
+                "word": "requital"
+            },
+            {
+                "id": "6524",
+                "link": "/find?type=4&query=requite",
+                "word": "requite"
+            }
+        ]
+    }
+}

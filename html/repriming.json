@@ -1,1 +1,32 @@
-{"error": 0, "query": "repriming", "enViData": {"suggests": [{"id": "76384", "link": "/find?type=1&query=reprimand", "word": "reprimand"}]}, "mUrl": "/find?type=1&query=repriming", "enEnData": {"suggests": [{"id": "24576", "link": "/find?type=3&query=reprimand", "word": "reprimand"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6504", "link": "/find?type=4&query=reprimand", "word": "reprimand"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24576",
+                "link": "/find?type=3&query=reprimand",
+                "word": "reprimand"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76384",
+                "link": "/find?type=1&query=reprimand",
+                "word": "reprimand"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6504",
+                "link": "/find?type=4&query=reprimand",
+                "word": "reprimand"
+            }
+        ]
+    }
+}

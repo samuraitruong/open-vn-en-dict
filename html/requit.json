@@ -1,1 +1,42 @@
-{"error": 0, "query": "requit", "enViData": {"suggests": [{"id": "76466", "link": "/find?type=1&query=requital", "word": "requital"}, {"id": "76467", "link": "/find?type=1&query=requite", "word": "requite"}]}, "mUrl": "/find?type=1&query=requit", "enEnData": {"suggests": [{"id": "24607", "link": "/find?type=3&query=requite", "word": "requite"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6523", "link": "/find?type=4&query=requital", "word": "requital"}, {"id": "6524", "link": "/find?type=4&query=requite", "word": "requite"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24607",
+                "link": "/find?type=3&query=requite",
+                "word": "requite"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76466",
+                "link": "/find?type=1&query=requital",
+                "word": "requital"
+            },
+            {
+                "id": "76467",
+                "link": "/find?type=1&query=requite",
+                "word": "requite"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6523",
+                "link": "/find?type=4&query=requital",
+                "word": "requital"
+            },
+            {
+                "id": "6524",
+                "link": "/find?type=4&query=requite",
+                "word": "requite"
+            }
+        ]
+    }
+}

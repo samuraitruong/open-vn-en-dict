@@ -1,1 +1,42 @@
-{"error": 0, "query": "rept", "enViData": {"suggests": [{"id": "76420", "link": "/find?type=1&query=reptant", "word": "reptant"}, {"id": "76421", "link": "/find?type=1&query=reptation", "word": "reptation"}, {"id": "76422", "link": "/find?type=1&query=reptile", "word": "reptile"}, {"id": "76423", "link": "/find?type=1&query=reptilia", "word": "reptilia"}, {"id": "76424", "link": "/find?type=1&query=reptilian", "word": "reptilian"}]}, "mUrl": "/find?type=1&query=rept", "enEnData": {"suggests": [{"id": "24587", "link": "/find?type=3&query=reptile", "word": "reptile"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24587",
+                "link": "/find?type=3&query=reptile",
+                "word": "reptile"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76420",
+                "link": "/find?type=1&query=reptant",
+                "word": "reptant"
+            },
+            {
+                "id": "76421",
+                "link": "/find?type=1&query=reptation",
+                "word": "reptation"
+            },
+            {
+                "id": "76422",
+                "link": "/find?type=1&query=reptile",
+                "word": "reptile"
+            },
+            {
+                "id": "76423",
+                "link": "/find?type=1&query=reptilia",
+                "word": "reptilia"
+            },
+            {
+                "id": "76424",
+                "link": "/find?type=1&query=reptilian",
+                "word": "reptilian"
+            }
+        ]
+    }
+}

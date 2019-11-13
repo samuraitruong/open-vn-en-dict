@@ -1,1 +1,39 @@
-{"error": 0, "query": "repossessed", "enViData": {"suggests": [{"id": "76356", "link": "/find?type=1&query=repossession", "word": "repossession"}, {"id": "76356", "link": "/find?type=1&query=repossession+order", "word": "repossession order"}], "best": {"id": "76356", "details": "\n<div id=\"find_word_76356\" class=\"world word_en\" rel=\"repossess\">\n    <h2 class=\"fl\">repossess <span class=\"color-black\">/ri:p\u0259'zes/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"76356\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"76356\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chi\u1ebfm h\u1eefu l\u1ea1i, thu h\u1ed3i (v\u1eadt mua tr\u1ea3 t\u1eebng k\u1ef3 m\u00e0 kh\u00f4ng tr\u1ea3 \u0111\u1ec1u \u0111\u1eb7n\u2026)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">repossess a flat</div>\n    \n    <div class=\"margin25\">thu h\u1ed3i m\u1ed9t c\u0103n h\u1ed9 (kh\u00f4ng cho thu\u00ea n\u1eefa)</div>\n    \n</div>\n", "link": "/find?type=1&query=repossess", "word": "repossess"}}, "mUrl": "/find?type=1&query=repossessed", "enEnData": {"suggests": [], "best": {"id": "24565", "details": "\n<div id=\"find_word_24565\" class=\"world word_en\" rel=\"repossess\">\n    <h2 class=\"fl\">repossess <span class=\"color-black\">/\u02ccri\u02d0p\u0259\u02c8z\u025bs/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24565\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24565\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-sesses; -sessed; -sessing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to take (something) back from a buyer because payments are not being made</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bank repossessed her truck.</div>\n    \n</div>\n", "link": "/find?type=3&query=repossess", "word": "repossess"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-sesses; -sessed; -sessing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to take (something) back from a buyer because payments are not being made</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bank repossessed her truck.</div>",
+            "id": "24565",
+            "mean": [],
+            "pronounce": "/\u02ccri\u02d0p\u0259\u02c8z\u025bs/",
+            "type": "verb",
+            "word": "repossess"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chi\u1ebfm h\u1eefu l\u1ea1i, thu h\u1ed3i (v\u1eadt mua tr\u1ea3 t\u1eebng k\u1ef3 m\u00e0 kh\u00f4ng tr\u1ea3 \u0111\u1ec1u \u0111\u1eb7n\u2026)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">repossess a flat</div>\n    \n    <div class=\"margin25\">thu h\u1ed3i m\u1ed9t c\u0103n h\u1ed9 (kh\u00f4ng cho thu\u00ea n\u1eefa)</div>",
+            "id": "76356",
+            "mean": [],
+            "pronounce": "/ri:p\u0259'zes/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7849ae8f7df33ac842e509bb5ce1ae4d/16e62e5a2d4/R/repossess.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b83b036f290f8baacd84797e2b5a8f9c/16e62e59d09/R/repossess.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "repossess"
+        },
+        "suggests": [
+            {
+                "id": "76356",
+                "link": "/find?type=1&query=repossession",
+                "word": "repossession"
+            },
+            {
+                "id": "76356",
+                "link": "/find?type=1&query=repossession+order",
+                "word": "repossession order"
+            }
+        ]
+    }
+}

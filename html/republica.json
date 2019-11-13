@@ -1,1 +1,47 @@
-{"error": 0, "query": "republica", "enViData": {"suggests": [{"id": "76426", "link": "/find?type=1&query=Republican", "word": "Republican"}, {"id": "76427", "link": "/find?type=1&query=republican", "word": "republican"}, {"id": "76428", "link": "/find?type=1&query=Republican+Party", "word": "Republican Party"}, {"id": "76429", "link": "/find?type=1&query=republicanise", "word": "republicanise"}, {"id": "76430", "link": "/find?type=1&query=Republicanism", "word": "Republicanism"}, {"id": "76431", "link": "/find?type=1&query=republicanize", "word": "republicanize"}]}, "mUrl": "/find?type=1&query=republica", "enEnData": {"suggests": [{"id": "24589", "link": "/find?type=3&query=republican", "word": "republican"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24589",
+                "link": "/find?type=3&query=republican",
+                "word": "republican"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76426",
+                "link": "/find?type=1&query=Republican",
+                "word": "Republican"
+            },
+            {
+                "id": "76427",
+                "link": "/find?type=1&query=republican",
+                "word": "republican"
+            },
+            {
+                "id": "76428",
+                "link": "/find?type=1&query=Republican+Party",
+                "word": "Republican Party"
+            },
+            {
+                "id": "76429",
+                "link": "/find?type=1&query=republicanise",
+                "word": "republicanise"
+            },
+            {
+                "id": "76430",
+                "link": "/find?type=1&query=Republicanism",
+                "word": "Republicanism"
+            },
+            {
+                "id": "76431",
+                "link": "/find?type=1&query=republicanize",
+                "word": "republicanize"
+            }
+        ]
+    }
+}
