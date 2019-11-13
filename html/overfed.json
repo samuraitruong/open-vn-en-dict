@@ -1,1 +1,42 @@
-{"error": 0, "query": "overfed", "enViData": {"suggests": [{"id": "63740", "link": "/find?type=1&query=overflow", "word": "overflow"}, {"id": "63741", "link": "/find?type=1&query=overflow+pipe", "word": "overflow pipe"}, {"id": "63742", "link": "/find?type=1&query=overflown", "word": "overflown"}, {"id": "63743", "link": "/find?type=1&query=overfly", "word": "overfly"}, {"id": "63744", "link": "/find?type=1&query=overfulfil%5Bl%5D", "word": "overfulfil[l]"}]}, "mUrl": "/find?type=1&query=overfed", "enEnData": {"suggests": [{"id": "20508", "link": "/find?type=3&query=overfeed", "word": "overfeed"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20508",
+                "link": "/find?type=3&query=overfeed",
+                "word": "overfeed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63740",
+                "link": "/find?type=1&query=overflow",
+                "word": "overflow"
+            },
+            {
+                "id": "63741",
+                "link": "/find?type=1&query=overflow+pipe",
+                "word": "overflow pipe"
+            },
+            {
+                "id": "63742",
+                "link": "/find?type=1&query=overflown",
+                "word": "overflown"
+            },
+            {
+                "id": "63743",
+                "link": "/find?type=1&query=overfly",
+                "word": "overfly"
+            },
+            {
+                "id": "63744",
+                "link": "/find?type=1&query=overfulfil%5Bl%5D",
+                "word": "overfulfil[l]"
+            }
+        ]
+    }
+}

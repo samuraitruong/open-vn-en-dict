@@ -1,1 +1,32 @@
-{"error": 0, "query": "overjoying", "enViData": {"suggests": [{"id": "63753", "link": "/find?type=1&query=overjoyed", "word": "overjoyed"}]}, "mUrl": "/find?type=1&query=overjoying", "enEnData": {"suggests": [{"id": "20524", "link": "/find?type=3&query=overjoyed", "word": "overjoyed"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5173", "link": "/find?type=4&query=overjoyed", "word": "overjoyed"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20524",
+                "link": "/find?type=3&query=overjoyed",
+                "word": "overjoyed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63753",
+                "link": "/find?type=1&query=overjoyed",
+                "word": "overjoyed"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5173",
+                "link": "/find?type=4&query=overjoyed",
+                "word": "overjoyed"
+            }
+        ]
+    }
+}

@@ -1,1 +1,44 @@
-{"error": 0, "query": "overgrows", "enViData": {"suggests": [{"id": "63745", "link": "/find?type=1&query=overgrown", "word": "overgrown"}, {"id": "63746", "link": "/find?type=1&query=overgrowth", "word": "overgrowth"}]}, "mUrl": "/find?type=1&query=overgrows", "enEnData": {"suggests": [{"id": "20514", "link": "/find?type=3&query=overgrown", "word": "overgrown"}], "best": {"id": "20514", "details": "\n<div id=\"find_word_20514\" class=\"world word_en\" rel=\"overgrow\">\n    <h2 class=\"fl\">overgrow <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20514\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20514\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02cco\u028av\u025a\u02c8gro\u028a/  -grows; -grew /-\u02c8gru\u02d0/ ; -growing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to grow in an uncontrolled way and completely cover or fill (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The weeds have overgrown the garden.</div>\n    \n</div>\n", "link": "/find?type=3&query=overgrow", "word": "overgrow"}}, "ftype": "1", "synData": {"suggests": [{"id": "5169", "link": "/find?type=4&query=overgrown", "word": "overgrown"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02cco\u028av\u025a\u02c8gro\u028a/  -grows; -grew /-\u02c8gru\u02d0/ ; -growing</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to grow in an uncontrolled way and completely cover or fill (something)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The weeds have overgrown the garden.</div>",
+            "id": "20514",
+            "mean": [],
+            "pronounce": "",
+            "type": "verb",
+            "word": "overgrow"
+        },
+        "suggests": [
+            {
+                "id": "20514",
+                "link": "/find?type=3&query=overgrown",
+                "word": "overgrown"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63745",
+                "link": "/find?type=1&query=overgrown",
+                "word": "overgrown"
+            },
+            {
+                "id": "63746",
+                "link": "/find?type=1&query=overgrowth",
+                "word": "overgrowth"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5169",
+                "link": "/find?type=4&query=overgrown",
+                "word": "overgrown"
+            }
+        ]
+    }
+}

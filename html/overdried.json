@@ -1,1 +1,22 @@
-{"error": 0, "query": "overdried", "enViData": {"suggests": [{"id": "63733", "link": "/find?type=1&query=overdrive", "word": "overdrive"}]}, "mUrl": "/find?type=1&query=overdried", "enEnData": {"suggests": [{"id": "20499", "link": "/find?type=3&query=overdrive", "word": "overdrive"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20499",
+                "link": "/find?type=3&query=overdrive",
+                "word": "overdrive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63733",
+                "link": "/find?type=1&query=overdrive",
+                "word": "overdrive"
+            }
+        ]
+    }
+}
