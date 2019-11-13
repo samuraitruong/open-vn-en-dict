@@ -1,1 +1,44 @@
-{"error": 0, "query": "robin", "enViData": {"suggests": [{"id": "77678", "link": "/find?type=1&query=robin+redbreast", "word": "robin redbreast"}, {"id": "77678", "link": "/find?type=1&query=Robinson-Patman+Act", "word": "Robinson-Patman Act"}, {"id": "77678", "link": "/find?type=1&query=Robinson%2C+Joan+V", "word": "Robinson, Joan V"}], "best": {"id": "77678", "details": "\n<div id=\"find_word_77678\" class=\"world word_en\" rel=\"robin\">\n    <h2 class=\"fl\">robin <span class=\"color-black\">/'r\u0252bin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"77678\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"77678\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c robin redbreast) (\u0111\u1ed9ng v\u1eadt) chim c\u1ed5 \u0111\u1ecf</div>\n    \n    <div class=\"green margin25 m-top15\">(M\u1ef9) chim h\u00e9t B\u1eafc M\u1ef9</div>\n    \n</div>\n", "link": "/find?type=1&query=robin", "word": "robin"}}, "mUrl": "/find?type=1&query=robin", "enEnData": {"suggests": [], "best": {"id": "25070", "details": "\n<div id=\"find_word_25070\" class=\"world word_en\" rel=\"robin\">\n    <h2 class=\"fl\">robin <span class=\"color-black\">/\u02c8r\u0251\u02d0b\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25070\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25070\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a North American bird with a grayish back and reddish breast - see color picture</div>\n    \n    <div class=\"green margin25 m-top15\">a small European bird with a brownish back and orange face and breast</div>\n    \n</div>\n", "link": "/find?type=3&query=robin", "word": "robin"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a North American bird with a grayish back and reddish breast - see color picture</div>\n    \n    <div class=\"green margin25 m-top15\">a small European bird with a brownish back and orange face and breast</div>",
+            "id": "25070",
+            "mean": [],
+            "pronounce": "/\u02c8r\u0251\u02d0b\u0259n/",
+            "type": "noun",
+            "word": "robin"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c robin redbreast) (\u0111\u1ed9ng v\u1eadt) chim c\u1ed5 \u0111\u1ecf</div>\n    \n    <div class=\"green margin25 m-top15\">(M\u1ef9) chim h\u00e9t B\u1eafc M\u1ef9</div>",
+            "id": "77678",
+            "mean": [],
+            "pronounce": "/'r\u0252bin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fa17212eb30cb1dc98cb47c35968723e/16e62eac6ba/R/robin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8569c3c5b583c1f442ffb2bb47f51339/16e62eabf71/R/robin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "robin"
+        },
+        "suggests": [
+            {
+                "id": "77678",
+                "link": "/find?type=1&query=robin+redbreast",
+                "word": "robin redbreast"
+            },
+            {
+                "id": "77678",
+                "link": "/find?type=1&query=Robinson-Patman+Act",
+                "word": "Robinson-Patman Act"
+            },
+            {
+                "id": "77678",
+                "link": "/find?type=1&query=Robinson%2C+Joan+V",
+                "word": "Robinson, Joan V"
+            }
+        ]
+    }
+}

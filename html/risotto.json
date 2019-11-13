@@ -1,1 +1,34 @@
-{"error": 0, "query": "risotto", "enViData": {"suggests": [{"id": "77555", "link": "/find?type=1&query=risottos", "word": "risottos"}], "best": {"id": "77555", "details": "\n<div id=\"find_word_77555\" class=\"world word_en\" rel=\"risotto\">\n    <h2 class=\"fl\">risotto <span class=\"color-black\">/ri'z\u0252t\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"77555\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"77555\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u risottos)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u01a1m n\u1ea5u n\u01b0\u1edbc xu\u00fdt (theo ki\u1ec3u I-ta-li-a)</div>\n    \n</div>\n", "link": "/find?type=1&query=risotto", "word": "risotto"}}, "mUrl": "/find?type=1&query=risotto", "enEnData": {"suggests": [], "best": {"id": "25011", "details": "\n<div id=\"find_word_25011\" class=\"world word_en\" rel=\"risotto\">\n    <h2 class=\"fl\">risotto <span class=\"color-black\">/r\u026a\u02c8s\u0251\u02d0to\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25011\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25011\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tos</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :an Italian dish made with rice and often vegetables or meat</div>\n    \n</div>\n", "link": "/find?type=3&query=risotto", "word": "risotto"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tos</div>\n    \n    <div class=\"green margin25 m-top15\">[count, noncount] :an Italian dish made with rice and often vegetables or meat</div>",
+            "id": "25011",
+            "mean": [],
+            "pronounce": "/r\u026a\u02c8s\u0251\u02d0to\u028a/",
+            "type": "noun",
+            "word": "risotto"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u risottos)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u01a1m n\u1ea5u n\u01b0\u1edbc xu\u00fdt (theo ki\u1ec3u I-ta-li-a)</div>",
+            "id": "77555",
+            "mean": [],
+            "pronounce": "/ri'z\u0252t\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8ad30b30ef909ce1d09dd1c1e054af85/16e62ea72db/R/risotto.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9c21abcec96d44a43f04a7c4abf0e0c8/16e62ea6d1c/R/risotto.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "risotto"
+        },
+        "suggests": [
+            {
+                "id": "77555",
+                "link": "/find?type=1&query=risottos",
+                "word": "risottos"
+            }
+        ]
+    }
+}

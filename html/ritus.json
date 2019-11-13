@@ -1,1 +1,57 @@
-{"error": 0, "query": "ritus", "enViData": {"suggests": [{"id": "77564", "link": "/find?type=1&query=ritual", "word": "ritual"}, {"id": "77565", "link": "/find?type=1&query=ritualism", "word": "ritualism"}, {"id": "77566", "link": "/find?type=1&query=ritualist", "word": "ritualist"}, {"id": "77567", "link": "/find?type=1&query=ritualistic", "word": "ritualistic"}, {"id": "77568", "link": "/find?type=1&query=ritually", "word": "ritually"}]}, "mUrl": "/find?type=1&query=ritus", "enEnData": {"suggests": [{"id": "25017", "link": "/find?type=3&query=ritual", "word": "ritual"}, {"id": "25018", "link": "/find?type=3&query=ritualistic", "word": "ritualistic"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6668", "link": "/find?type=4&query=ritual", "word": "ritual"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25017",
+                "link": "/find?type=3&query=ritual",
+                "word": "ritual"
+            },
+            {
+                "id": "25018",
+                "link": "/find?type=3&query=ritualistic",
+                "word": "ritualistic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77564",
+                "link": "/find?type=1&query=ritual",
+                "word": "ritual"
+            },
+            {
+                "id": "77565",
+                "link": "/find?type=1&query=ritualism",
+                "word": "ritualism"
+            },
+            {
+                "id": "77566",
+                "link": "/find?type=1&query=ritualist",
+                "word": "ritualist"
+            },
+            {
+                "id": "77567",
+                "link": "/find?type=1&query=ritualistic",
+                "word": "ritualistic"
+            },
+            {
+                "id": "77568",
+                "link": "/find?type=1&query=ritually",
+                "word": "ritually"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6668",
+                "link": "/find?type=4&query=ritual",
+                "word": "ritual"
+            }
+        ]
+    }
+}
