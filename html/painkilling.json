@@ -1,1 +1,22 @@
-{"error": 0, "query": "painkilling", "mUrl": "/find?type=1&query=painkilling", "enEnData": {"suggests": [{"id": "20719", "link": "/find?type=3&query=painkiller", "word": "painkiller"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5219", "link": "/find?type=4&query=painkiller", "word": "painkiller"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20719",
+                "link": "/find?type=3&query=painkiller",
+                "word": "painkiller"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5219",
+                "link": "/find?type=4&query=painkiller",
+                "word": "painkiller"
+            }
+        ]
+    }
+}

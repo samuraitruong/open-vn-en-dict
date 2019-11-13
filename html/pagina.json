@@ -1,1 +1,37 @@
-{"error": 0, "query": "pagina", "enViData": {"suggests": [{"id": "64208", "link": "/find?type=1&query=paginal", "word": "paginal"}, {"id": "64209", "link": "/find?type=1&query=paginary", "word": "paginary"}, {"id": "64210", "link": "/find?type=1&query=paginate", "word": "paginate"}, {"id": "64211", "link": "/find?type=1&query=pagination", "word": "pagination"}]}, "mUrl": "/find?type=1&query=pagina", "enEnData": {"suggests": [{"id": "20710", "link": "/find?type=3&query=pagination", "word": "pagination"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20710",
+                "link": "/find?type=3&query=pagination",
+                "word": "pagination"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64208",
+                "link": "/find?type=1&query=paginal",
+                "word": "paginal"
+            },
+            {
+                "id": "64209",
+                "link": "/find?type=1&query=paginary",
+                "word": "paginary"
+            },
+            {
+                "id": "64210",
+                "link": "/find?type=1&query=paginate",
+                "word": "paginate"
+            },
+            {
+                "id": "64211",
+                "link": "/find?type=1&query=pagination",
+                "word": "pagination"
+            }
+        ]
+    }
+}

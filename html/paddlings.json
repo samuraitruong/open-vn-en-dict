@@ -1,1 +1,22 @@
-{"error": 0, "query": "paddlings", "enViData": {"suggests": [{"id": "64144", "link": "/find?type=1&query=paddling+pool", "word": "paddling pool"}]}, "mUrl": "/find?type=1&query=paddlings", "enEnData": {"suggests": [{"id": "20693", "link": "/find?type=3&query=paddling+pool", "word": "paddling pool"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20693",
+                "link": "/find?type=3&query=paddling+pool",
+                "word": "paddling pool"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64144",
+                "link": "/find?type=1&query=paddling+pool",
+                "word": "paddling pool"
+            }
+        ]
+    }
+}

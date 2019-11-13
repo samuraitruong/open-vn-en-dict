@@ -1,1 +1,27 @@
-{"error": 0, "query": "paddoing", "enViData": {"suggests": [{"id": "64145", "link": "/find?type=1&query=paddock", "word": "paddock"}, {"id": "64146", "link": "/find?type=1&query=paddocking", "word": "paddocking"}]}, "mUrl": "/find?type=1&query=paddoing", "enEnData": {"suggests": [{"id": "20694", "link": "/find?type=3&query=paddock", "word": "paddock"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20694",
+                "link": "/find?type=3&query=paddock",
+                "word": "paddock"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64145",
+                "link": "/find?type=1&query=paddock",
+                "word": "paddock"
+            },
+            {
+                "id": "64146",
+                "link": "/find?type=1&query=paddocking",
+                "word": "paddocking"
+            }
+        ]
+    }
+}

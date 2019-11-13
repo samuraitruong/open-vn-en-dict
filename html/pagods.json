@@ -1,1 +1,32 @@
-{"error": 0, "query": "pagods", "enViData": {"suggests": [{"id": "64214", "link": "/find?type=1&query=pagoda", "word": "pagoda"}, {"id": "64215", "link": "/find?type=1&query=pagoda-tree", "word": "pagoda-tree"}, {"id": "64216", "link": "/find?type=1&query=pagodite", "word": "pagodite"}]}, "mUrl": "/find?type=1&query=pagods", "enEnData": {"suggests": [{"id": "20711", "link": "/find?type=3&query=pagoda", "word": "pagoda"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20711",
+                "link": "/find?type=3&query=pagoda",
+                "word": "pagoda"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64214",
+                "link": "/find?type=1&query=pagoda",
+                "word": "pagoda"
+            },
+            {
+                "id": "64215",
+                "link": "/find?type=1&query=pagoda-tree",
+                "word": "pagoda-tree"
+            },
+            {
+                "id": "64216",
+                "link": "/find?type=1&query=pagodite",
+                "word": "pagodite"
+            }
+        ]
+    }
+}

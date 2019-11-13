@@ -1,1 +1,67 @@
-{"error": 0, "query": "pais", "enViData": {"suggests": [{"id": "64268", "link": "/find?type=1&query=Paisley", "word": "Paisley"}]}, "mUrl": "/find?type=1&query=pais", "enEnData": {"suggests": [{"id": "20732", "link": "/find?type=3&query=paisley", "word": "paisley"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5216", "link": "/find?type=4&query=pain", "word": "pain"}, {"id": "5217", "link": "/find?type=4&query=painful", "word": "painful"}, {"id": "5218", "link": "/find?type=4&query=painfully", "word": "painfully"}, {"id": "5219", "link": "/find?type=4&query=painkiller", "word": "painkiller"}, {"id": "5220", "link": "/find?type=4&query=painless", "word": "painless"}, {"id": "5221", "link": "/find?type=4&query=painstaking", "word": "painstaking"}, {"id": "5222", "link": "/find?type=4&query=paint", "word": "paint"}, {"id": "5223", "link": "/find?type=4&query=pair", "word": "pair"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20732",
+                "link": "/find?type=3&query=paisley",
+                "word": "paisley"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64268",
+                "link": "/find?type=1&query=Paisley",
+                "word": "Paisley"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5216",
+                "link": "/find?type=4&query=pain",
+                "word": "pain"
+            },
+            {
+                "id": "5217",
+                "link": "/find?type=4&query=painful",
+                "word": "painful"
+            },
+            {
+                "id": "5218",
+                "link": "/find?type=4&query=painfully",
+                "word": "painfully"
+            },
+            {
+                "id": "5219",
+                "link": "/find?type=4&query=painkiller",
+                "word": "painkiller"
+            },
+            {
+                "id": "5220",
+                "link": "/find?type=4&query=painless",
+                "word": "painless"
+            },
+            {
+                "id": "5221",
+                "link": "/find?type=4&query=painstaking",
+                "word": "painstaking"
+            },
+            {
+                "id": "5222",
+                "link": "/find?type=4&query=paint",
+                "word": "paint"
+            },
+            {
+                "id": "5223",
+                "link": "/find?type=4&query=pair",
+                "word": "pair"
+            }
+        ]
+    }
+}

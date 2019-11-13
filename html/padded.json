@@ -1,1 +1,55 @@
-{"error": 0, "query": "padded", "enViData": {"suggests": [{"id": "64132", "link": "/find?type=1&query=padded+cell", "word": "padded cell"}], "best": {"id": "64132", "details": "\n<div id=\"find_word_64132\" class=\"world word_en\" rel=\"padded\">\n    <h2 class=\"fl\">padded <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64132\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64132\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ecbt, \u0111\u1ed9n (b\u00f4ng)</div>\n    \n</div>\n", "link": "/find?type=1&query=padded", "word": "padded"}}, "mUrl": "/find?type=1&query=padded", "enEnData": {"suggests": [{"id": "20687", "link": "/find?type=3&query=padded+cell", "word": "padded cell"}], "best": {"id": "20687", "details": "\n<div id=\"find_word_20687\" class=\"world word_en\" rel=\"padded\">\n    <h2 class=\"fl\">padded <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20687\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20687\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">filled or covered with soft material</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a padded envelope</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The boxers are wearing thickly/heavily padded gloves.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a padded bra</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The chairs have padded seats.</div>\n    \n</div>\n", "link": "/find?type=3&query=padded", "word": "padded"}}, "ftype": "1", "synData": {"suggests": [{"id": "5210", "link": "/find?type=4&query=paddle", "word": "paddle"}, {"id": "5211", "link": "/find?type=4&query=paddy", "word": "paddy"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">filled or covered with soft material</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a padded envelope</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The boxers are wearing thickly/heavily padded gloves.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a padded bra</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The chairs have padded seats.</div>",
+            "id": "20687",
+            "mean": [],
+            "pronounce": "",
+            "type": "adjective",
+            "word": "padded"
+        },
+        "suggests": [
+            {
+                "id": "20687",
+                "link": "/find?type=3&query=padded+cell",
+                "word": "padded cell"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ecbt, \u0111\u1ed9n (b\u00f4ng)</div>",
+            "id": "64132",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a33f3a19525c831a55af71f605d3a7bd/16e62bb2fb1/P/padded.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a996a0d105024166fe5f64e1a17321ad/16e62bb29bf/P/padded.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "padded"
+        },
+        "suggests": [
+            {
+                "id": "64132",
+                "link": "/find?type=1&query=padded+cell",
+                "word": "padded cell"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5210",
+                "link": "/find?type=4&query=paddle",
+                "word": "paddle"
+            },
+            {
+                "id": "5211",
+                "link": "/find?type=4&query=paddy",
+                "word": "paddy"
+            }
+        ]
+    }
+}
