@@ -1,1 +1,32 @@
-{"error": 0, "query": "raison", "enViData": {"suggests": [{"id": "74472", "link": "/find?type=1&query=raison+d%27%C3%AAtre", "word": "raison d'\u00eatre"}, {"id": "74473", "link": "/find?type=1&query=raison+d%27tre", "word": "raison d'tre"}, {"id": "74474", "link": "/find?type=1&query=raison+d%27tre", "word": "raison d'tre"}]}, "mUrl": "/find?type=1&query=raison", "enEnData": {"suggests": [{"id": "23809", "link": "/find?type=3&query=raison+d%27etre", "word": "raison d'etre"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23809",
+                "link": "/find?type=3&query=raison+d%27etre",
+                "word": "raison d'etre"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74472",
+                "link": "/find?type=1&query=raison+d%27%C3%AAtre",
+                "word": "raison d'\u00eatre"
+            },
+            {
+                "id": "74473",
+                "link": "/find?type=1&query=raison+d%27tre",
+                "word": "raison d'tre"
+            },
+            {
+                "id": "74474",
+                "link": "/find?type=1&query=raison+d%27tre",
+                "word": "raison d'tre"
+            }
+        ]
+    }
+}

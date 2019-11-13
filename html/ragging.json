@@ -1,1 +1,52 @@
-{"error": 0, "query": "ragging", "enViData": {"suggests": [{"id": "74403", "link": "/find?type=1&query=ragged", "word": "ragged"}, {"id": "74404", "link": "/find?type=1&query=ragged+school", "word": "ragged school"}, {"id": "74405", "link": "/find?type=1&query=raggedly", "word": "raggedly"}, {"id": "74406", "link": "/find?type=1&query=raggedness", "word": "raggedness"}]}, "mUrl": "/find?type=1&query=ragging", "enEnData": {"suggests": [{"id": "23770", "link": "/find?type=3&query=ragged", "word": "ragged"}, {"id": "23771", "link": "/find?type=3&query=raggedy", "word": "raggedy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6185", "link": "/find?type=4&query=ragged", "word": "ragged"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23770",
+                "link": "/find?type=3&query=ragged",
+                "word": "ragged"
+            },
+            {
+                "id": "23771",
+                "link": "/find?type=3&query=raggedy",
+                "word": "raggedy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74403",
+                "link": "/find?type=1&query=ragged",
+                "word": "ragged"
+            },
+            {
+                "id": "74404",
+                "link": "/find?type=1&query=ragged+school",
+                "word": "ragged school"
+            },
+            {
+                "id": "74405",
+                "link": "/find?type=1&query=raggedly",
+                "word": "raggedly"
+            },
+            {
+                "id": "74406",
+                "link": "/find?type=1&query=raggedness",
+                "word": "raggedness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6185",
+                "link": "/find?type=4&query=ragged",
+                "word": "ragged"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "rainbows", "enViData": {"suggests": [{"id": "74453", "link": "/find?type=1&query=rainbow+trout", "word": "rainbow trout"}], "best": {"id": "74453", "details": "\n<div id=\"find_word_74453\" class=\"world word_en\" rel=\"rainbow\">\n    <h2 class=\"fl\">rainbow <span class=\"color-black\">/'reinb\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"74453\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"74453\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea7u v\u1ed3ng</div>\n    \n</div>\n", "link": "/find?type=1&query=rainbow", "word": "rainbow"}}, "mUrl": "/find?type=1&query=rainbows", "enEnData": {"suggests": [], "best": {"id": "23796", "details": "\n<div id=\"find_word_23796\" class=\"world word_en\" rel=\"rainbow\">\n    <h2 class=\"fl\">rainbow <span class=\"color-black\">/\u02c8re\u026an\u02ccbo\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23796\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23796\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bows</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a curved line of different colors that sometimes appears in the sky when the sun shines through rain</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">of, relating to, or including people of different races, cultures, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a rainbow coalition</div>\n    \n</div>\n", "link": "/find?type=3&query=rainbow", "word": "rainbow"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -bows</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a curved line of different colors that sometimes appears in the sky when the sun shines through rain</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">of, relating to, or including people of different races, cultures, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a rainbow coalition</div>",
+            "id": "23796",
+            "mean": [],
+            "pronounce": "/\u02c8re\u026an\u02ccbo\u028a/",
+            "type": "noun adjective",
+            "word": "rainbow"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ea7u v\u1ed3ng</div>",
+            "id": "74453",
+            "mean": [],
+            "pronounce": "/'reinb\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/48cbdbdebb7ffeaa911f3e9694919e6d/16e62dd70ba/R/rainbow.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7897c5e8af3a9044f1aa24e0eecd98b7/16e62dd68ee/R/rainbow.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "rainbow"
+        },
+        "suggests": [
+            {
+                "id": "74453",
+                "link": "/find?type=1&query=rainbow+trout",
+                "word": "rainbow trout"
+            }
+        ]
+    }
+}
