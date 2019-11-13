@@ -1,1 +1,77 @@
-{"error": 0, "query": "joll", "enViData": {"suggests": [{"id": "51041", "link": "/find?type=1&query=jollier", "word": "jollier"}, {"id": "51042", "link": "/find?type=1&query=jollification", "word": "jollification"}, {"id": "51043", "link": "/find?type=1&query=jollify", "word": "jollify"}, {"id": "51044", "link": "/find?type=1&query=jollily", "word": "jollily"}, {"id": "51045", "link": "/find?type=1&query=jolliness", "word": "jolliness"}, {"id": "51046", "link": "/find?type=1&query=jollity", "word": "jollity"}, {"id": "51047", "link": "/find?type=1&query=jolly", "word": "jolly"}, {"id": "51048", "link": "/find?type=1&query=jolly-boat", "word": "jolly-boat"}]}, "mUrl": "/find?type=1&query=joll", "enEnData": {"suggests": [{"id": "15683", "link": "/find?type=3&query=jollies", "word": "jollies"}, {"id": "15684", "link": "/find?type=3&query=jollity", "word": "jollity"}, {"id": "15685", "link": "/find?type=3&query=jolly", "word": "jolly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3995", "link": "/find?type=4&query=jolly", "word": "jolly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15683",
+                "link": "/find?type=3&query=jollies",
+                "word": "jollies"
+            },
+            {
+                "id": "15684",
+                "link": "/find?type=3&query=jollity",
+                "word": "jollity"
+            },
+            {
+                "id": "15685",
+                "link": "/find?type=3&query=jolly",
+                "word": "jolly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51041",
+                "link": "/find?type=1&query=jollier",
+                "word": "jollier"
+            },
+            {
+                "id": "51042",
+                "link": "/find?type=1&query=jollification",
+                "word": "jollification"
+            },
+            {
+                "id": "51043",
+                "link": "/find?type=1&query=jollify",
+                "word": "jollify"
+            },
+            {
+                "id": "51044",
+                "link": "/find?type=1&query=jollily",
+                "word": "jollily"
+            },
+            {
+                "id": "51045",
+                "link": "/find?type=1&query=jolliness",
+                "word": "jolliness"
+            },
+            {
+                "id": "51046",
+                "link": "/find?type=1&query=jollity",
+                "word": "jollity"
+            },
+            {
+                "id": "51047",
+                "link": "/find?type=1&query=jolly",
+                "word": "jolly"
+            },
+            {
+                "id": "51048",
+                "link": "/find?type=1&query=jolly-boat",
+                "word": "jolly-boat"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3995",
+                "link": "/find?type=4&query=jolly",
+                "word": "jolly"
+            }
+        ]
+    }
+}

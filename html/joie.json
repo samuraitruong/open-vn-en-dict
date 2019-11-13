@@ -1,1 +1,22 @@
-{"error": 0, "query": "joie", "enViData": {"suggests": [{"id": "51011", "link": "/find?type=1&query=joie+de+vivre", "word": "joie de vivre"}]}, "mUrl": "/find?type=1&query=joie", "enEnData": {"suggests": [{"id": "15671", "link": "/find?type=3&query=joie+de+vivre", "word": "joie de vivre"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15671",
+                "link": "/find?type=3&query=joie+de+vivre",
+                "word": "joie de vivre"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51011",
+                "link": "/find?type=1&query=joie+de+vivre",
+                "word": "joie de vivre"
+            }
+        ]
+    }
+}

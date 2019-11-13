@@ -1,1 +1,47 @@
-{"error": 0, "query": "joe", "enViData": {"suggests": [{"id": "50990", "link": "/find?type=1&query=joe+miller", "word": "joe miller"}, {"id": "50990", "link": "/find?type=1&query=joey", "word": "joey"}], "best": {"id": "50990", "details": "\n<div id=\"find_word_50990\" class=\"world word_en\" rel=\"joe\">\n    <h2 class=\"fl\">joe <span class=\"color-black\">/d\u02a4ou/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50990\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50990\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">not for joe! t\u1edb th\u00ec th\u00f4i!; th\u00f4i \u0111\u1eebng cho t\u1edb</div>\n    \n    <div class=\"green margin25 m-top15\">((t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (qu\u00e2n s\u1ef1), (t\u1eeb l\u00f3ng)) ng\u01b0\u1eddi l\u00ednh ((nh\u01b0) Joe Blow)</div>\n    \n</div>\n", "link": "/find?type=1&query=joe", "word": "joe"}}, "mUrl": "/find?type=1&query=joe", "enEnData": {"suggests": [{"id": "15660", "link": "/find?type=3&query=Joe+Blow", "word": "Joe Blow"}, {"id": "15660", "link": "/find?type=3&query=joey", "word": "joey"}], "best": {"id": "15660", "details": "\n<div id=\"find_word_15660\" class=\"world word_en\" rel=\"joe\">\n    <h2 class=\"fl\">joe <span class=\"color-black\">/\u02c8\u02a4o\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15660\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15660\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural joes</div>\n    \n    <div class=\"green margin25 m-top15\">US informal</div>\n    \n    <div class=\"green margin25 m-top15\">or Joe [count] :an ordinary man :guy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's just an average/ordinary Joe.</div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :coffee</div>\n    \n    <div class=\"green margin25 m-top15\">usually used in the phrase a cup of joe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She starts the day with a cup of joe.</div>\n    \n</div>\n", "link": "/find?type=3&query=joe", "word": "joe"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural joes</div>\n    \n    <div class=\"green margin25 m-top15\">US informal</div>\n    \n    <div class=\"green margin25 m-top15\">or Joe [count] :an ordinary man :guy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's just an average/ordinary Joe.</div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :coffee</div>\n    \n    <div class=\"green margin25 m-top15\">usually used in the phrase a cup of joe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She starts the day with a cup of joe.</div>",
+            "id": "15660",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4o\u028a/",
+            "type": "noun",
+            "word": "joe"
+        },
+        "suggests": [
+            {
+                "id": "15660",
+                "link": "/find?type=3&query=Joe+Blow",
+                "word": "Joe Blow"
+            },
+            {
+                "id": "15660",
+                "link": "/find?type=3&query=joey",
+                "word": "joey"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">not for joe! t\u1edb th\u00ec th\u00f4i!; th\u00f4i \u0111\u1eebng cho t\u1edb</div>\n    \n    <div class=\"green margin25 m-top15\">((t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (qu\u00e2n s\u1ef1), (t\u1eeb l\u00f3ng)) ng\u01b0\u1eddi l\u00ednh ((nh\u01b0) Joe Blow)</div>",
+            "id": "50990",
+            "mean": [],
+            "pronounce": "/d\u02a4ou/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "joe"
+        },
+        "suggests": [
+            {
+                "id": "50990",
+                "link": "/find?type=1&query=joe+miller",
+                "word": "joe miller"
+            },
+            {
+                "id": "50990",
+                "link": "/find?type=1&query=joey",
+                "word": "joey"
+            }
+        ]
+    }
+}

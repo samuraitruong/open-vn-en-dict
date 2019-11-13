@@ -1,1 +1,55 @@
-{"error": 0, "query": "johnnies", "enViData": {"suggests": [{"id": "51005", "link": "/find?type=1&query=johnny", "word": "johnny"}, {"id": "51005", "link": "/find?type=1&query=johnny-cake", "word": "johnny-cake"}, {"id": "51005", "link": "/find?type=1&query=johnny-come-lately", "word": "johnny-come-lately"}, {"id": "51005", "link": "/find?type=1&query=johnny-on-the-spot", "word": "johnny-on-the-spot"}], "best": {"id": "51005", "details": "\n<div id=\"find_word_51005\" class=\"world word_en\" rel=\"johnny\">\n    <h2 class=\"fl\">johnny <span class=\"color-black\">/'d\u0292\u0252ni/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51005\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51005\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u01b0\u0300</span></div>\n    \n    <div class=\"\">(Anh)</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169, kh\u1ea9u ng\u1eef) ng\u01b0\u1eddi, g\u00e3</div>\n    \n    <div class=\"green margin25 m-top15\">(l\u00f3ng) bao cao su</div>\n    \n</div>\n", "link": "/find?type=1&query=johnny", "word": "johnny"}}, "mUrl": "/find?type=1&query=johnnies", "enEnData": {"suggests": [{"id": "15669", "link": "/find?type=3&query=Johnny-come-lately", "word": "Johnny-come-lately"}], "best": {"id": "15669", "details": "\n<div id=\"find_word_15669\" class=\"world word_en\" rel=\"johnny\">\n    <h2 class=\"fl\">johnny <span class=\"color-black\">/\u02c8\u02a4\u0251\u02d0ni/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15669\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15669\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural johnnies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US :a loose piece of clothing that is open at the back and that is worn by someone (such as a hospital patient) who is being examined, treated, etc., by a doctor</div>\n    \n</div>\n", "link": "/find?type=3&query=johnny", "word": "johnny"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural johnnies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] US :a loose piece of clothing that is open at the back and that is worn by someone (such as a hospital patient) who is being examined, treated, etc., by a doctor</div>",
+            "id": "15669",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u0251\u02d0ni/",
+            "type": "noun",
+            "word": "johnny"
+        },
+        "suggests": [
+            {
+                "id": "15669",
+                "link": "/find?type=3&query=Johnny-come-lately",
+                "word": "Johnny-come-lately"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u01b0\u0300</span></div>\n    \n    <div class=\"\">(Anh)</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u0169, kh\u1ea9u ng\u1eef) ng\u01b0\u1eddi, g\u00e3</div>\n    \n    <div class=\"green margin25 m-top15\">(l\u00f3ng) bao cao su</div>",
+            "id": "51005",
+            "mean": [],
+            "pronounce": "/'d\u0292\u0252ni/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a041b859bbe7aa8b9c0d6aa0ff9b2b14/16e6267c635/J/johnny.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/973d0d37a321c6c1dcb0364ccf03ebe6/16e6267c052/J/johnny.mp3"
+            },
+            "type": "Danh t\u01b0\u0300",
+            "word": "johnny"
+        },
+        "suggests": [
+            {
+                "id": "51005",
+                "link": "/find?type=1&query=johnny",
+                "word": "johnny"
+            },
+            {
+                "id": "51005",
+                "link": "/find?type=1&query=johnny-cake",
+                "word": "johnny-cake"
+            },
+            {
+                "id": "51005",
+                "link": "/find?type=1&query=johnny-come-lately",
+                "word": "johnny-come-lately"
+            },
+            {
+                "id": "51005",
+                "link": "/find?type=1&query=johnny-on-the-spot",
+                "word": "johnny-on-the-spot"
+            }
+        ]
+    }
+}
