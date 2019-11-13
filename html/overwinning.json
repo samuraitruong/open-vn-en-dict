@@ -1,1 +1,27 @@
-{"error": 0, "query": "overwinning", "enViData": {"suggests": [{"id": "63847", "link": "/find?type=1&query=overwind", "word": "overwind"}, {"id": "63848", "link": "/find?type=1&query=overwinter", "word": "overwinter"}]}, "mUrl": "/find?type=1&query=overwinning", "enEnData": {"suggests": [{"id": "20604", "link": "/find?type=3&query=overwinter", "word": "overwinter"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20604",
+                "link": "/find?type=3&query=overwinter",
+                "word": "overwinter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63847",
+                "link": "/find?type=1&query=overwind",
+                "word": "overwind"
+            },
+            {
+                "id": "63848",
+                "link": "/find?type=1&query=overwinter",
+                "word": "overwinter"
+            }
+        ]
+    }
+}

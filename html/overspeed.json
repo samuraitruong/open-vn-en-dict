@@ -1,1 +1,27 @@
-{"error": 0, "query": "overspeed", "enViData": {"suggests": [{"id": "63797", "link": "/find?type=1&query=overspend", "word": "overspend"}, {"id": "63798", "link": "/find?type=1&query=overspent", "word": "overspent"}]}, "mUrl": "/find?type=1&query=overspeed", "enEnData": {"suggests": [{"id": "20574", "link": "/find?type=3&query=overspend", "word": "overspend"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20574",
+                "link": "/find?type=3&query=overspend",
+                "word": "overspend"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63797",
+                "link": "/find?type=1&query=overspend",
+                "word": "overspend"
+            },
+            {
+                "id": "63798",
+                "link": "/find?type=1&query=overspent",
+                "word": "overspent"
+            }
+        ]
+    }
+}

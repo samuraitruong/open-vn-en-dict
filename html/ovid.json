@@ -1,1 +1,22 @@
-{"error": 0, "query": "ovid", "enViData": {"suggests": [{"id": "63863", "link": "/find?type=1&query=oviduct", "word": "oviduct"}]}, "mUrl": "/find?type=1&query=ovid", "enEnData": {"suggests": [{"id": "20609", "link": "/find?type=3&query=oviduct", "word": "oviduct"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20609",
+                "link": "/find?type=3&query=oviduct",
+                "word": "oviduct"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "63863",
+                "link": "/find?type=1&query=oviduct",
+                "word": "oviduct"
+            }
+        ]
+    }
+}
