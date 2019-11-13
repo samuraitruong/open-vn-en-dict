@@ -1,1 +1,27 @@
-{"error": 0, "query": "precanning", "enViData": {"suggests": [{"id": "70452", "link": "/find?type=1&query=precancel", "word": "precancel"}, {"id": "70453", "link": "/find?type=1&query=precancerous", "word": "precancerous"}]}, "mUrl": "/find?type=1&query=precanning", "enEnData": {"suggests": [{"id": "22649", "link": "/find?type=3&query=precancerous", "word": "precancerous"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22649",
+                "link": "/find?type=3&query=precancerous",
+                "word": "precancerous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70452",
+                "link": "/find?type=1&query=precancel",
+                "word": "precancel"
+            },
+            {
+                "id": "70453",
+                "link": "/find?type=1&query=precancerous",
+                "word": "precancerous"
+            }
+        ]
+    }
+}

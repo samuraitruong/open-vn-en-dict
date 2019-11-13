@@ -1,1 +1,41 @@
-{"error": 0, "query": "prating", "enViData": {"suggests": [{"id": "70348", "link": "/find?type=1&query=pratingly", "word": "pratingly"}], "best": {"id": "70348", "details": "\n<div id=\"find_word_70348\" class=\"world word_en\" rel=\"prating\">\n    <h2 class=\"fl\">prating <span class=\"color-black\">/'preiti\u0273/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70348\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70348\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i huy\u00ean thi\u00ean; n\u00f3i ba l\u00e1p</div>\n    \n</div>\n", "link": "/find?type=1&query=prating", "word": "prating"}}, "mUrl": "/find?type=1&query=prating", "enEnData": {"suggests": [], "best": {"id": "22628", "details": "\n<div id=\"find_word_22628\" class=\"world word_en\" rel=\"prate\">\n    <h2 class=\"fl\">prate <span class=\"color-black\">/\u02c8pre\u026at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22628\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22628\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">prates; prated; prating</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] :to talk for a very long about something that is not very important or interesting</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She kept prating (on) about what she did over the weekend.</div>\n    \n</div>\n", "link": "/find?type=3&query=prate", "word": "prate"}}, "ftype": "1", "synData": {"suggests": [{"id": "5731", "link": "/find?type=4&query=prattle", "word": "prattle"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">prates; prated; prating</div>\n    \n    <div class=\"green margin25 m-top15\">[no obj] :to talk for a very long about something that is not very important or interesting</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She kept prating (on) about what she did over the weekend.</div>",
+            "id": "22628",
+            "mean": [],
+            "pronounce": "/\u02c8pre\u026at/",
+            "type": "verb",
+            "word": "prate"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">n\u00f3i huy\u00ean thi\u00ean; n\u00f3i ba l\u00e1p</div>",
+            "id": "70348",
+            "mean": [],
+            "pronounce": "/'preiti\u0273/",
+            "speak": {},
+            "type": "T\u00ednh t\u1eeb",
+            "word": "prating"
+        },
+        "suggests": [
+            {
+                "id": "70348",
+                "link": "/find?type=1&query=pratingly",
+                "word": "pratingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5731",
+                "link": "/find?type=4&query=prattle",
+                "word": "prattle"
+            }
+        ]
+    }
+}
