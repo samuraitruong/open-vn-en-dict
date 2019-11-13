@@ -1,1 +1,32 @@
-{"error": 0, "query": "moras", "enViData": {"suggests": [{"id": "58796", "link": "/find?type=1&query=morass", "word": "morass"}]}, "mUrl": "/find?type=1&query=moras", "enEnData": {"suggests": [{"id": "18594", "link": "/find?type=3&query=morass", "word": "morass"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4695", "link": "/find?type=4&query=morass", "word": "morass"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18594",
+                "link": "/find?type=3&query=morass",
+                "word": "morass"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58796",
+                "link": "/find?type=1&query=morass",
+                "word": "morass"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4695",
+                "link": "/find?type=4&query=morass",
+                "word": "morass"
+            }
+        ]
+    }
+}

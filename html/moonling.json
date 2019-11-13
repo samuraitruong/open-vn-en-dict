@@ -1,1 +1,27 @@
-{"error": 0, "query": "moonling", "enViData": {"suggests": [{"id": "58736", "link": "/find?type=1&query=moonless", "word": "moonless"}]}, "mUrl": "/find?type=1&query=moonling", "enEnData": {"suggests": [{"id": "18569", "link": "/find?type=3&query=moonlight", "word": "moonlight"}, {"id": "18570", "link": "/find?type=3&query=moonlit", "word": "moonlit"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18569",
+                "link": "/find?type=3&query=moonlight",
+                "word": "moonlight"
+            },
+            {
+                "id": "18570",
+                "link": "/find?type=3&query=moonlit",
+                "word": "moonlit"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58736",
+                "link": "/find?type=1&query=moonless",
+                "word": "moonless"
+            }
+        ]
+    }
+}

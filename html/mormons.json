@@ -1,1 +1,34 @@
-{"error": 0, "query": "mormons", "enViData": {"suggests": [{"id": "58825", "link": "/find?type=1&query=mormonism", "word": "mormonism"}], "best": {"id": "58825", "details": "\n<div id=\"find_word_58825\" class=\"world word_en\" rel=\"Mormon\">\n    <h2 class=\"fl\">Mormon <span class=\"color-black\">/'m\u0254:m\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58825\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58825\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi theo gi\u00e1o ph\u00e1i Mormon (M\u1ef9)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">theo gi\u00e1o ph\u00e1i Mormon (M\u1ef9)</div>\n    \n</div>\n", "link": "/find?type=1&query=Mormon", "word": "Mormon"}}, "mUrl": "/find?type=1&query=mormons", "enEnData": {"suggests": [], "best": {"id": "18603", "details": "\n<div id=\"find_word_18603\" class=\"world word_en\" rel=\"Mormon\">\n    <h2 class=\"fl\">Mormon <span class=\"color-black\">/\u02c8mo\u025am\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18603\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18603\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of a Christian church that was founded by Joseph Smith in the U.S. in 1830 :a member of the Church of Jesus Christ of Latter-day Saints</div>\n    \n</div>\n", "link": "/find?type=3&query=Mormon", "word": "Mormon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of a Christian church that was founded by Joseph Smith in the U.S. in 1830 :a member of the Church of Jesus Christ of Latter-day Saints</div>",
+            "id": "18603",
+            "mean": [],
+            "pronounce": "/\u02c8mo\u025am\u0259n/",
+            "type": "noun",
+            "word": "Mormon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi theo gi\u00e1o ph\u00e1i Mormon (M\u1ef9)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">theo gi\u00e1o ph\u00e1i Mormon (M\u1ef9)</div>",
+            "id": "58825",
+            "mean": [],
+            "pronounce": "/'m\u0254:m\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c0b55c308d59ad412fb0d39ab5669c62/16e62a4b564/M/Mormon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7ab275e039f86d78a26d3fbe5e96bf99/16e62a4afa5/M/Mormon.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "Mormon"
+        },
+        "suggests": [
+            {
+                "id": "58825",
+                "link": "/find?type=1&query=mormonism",
+                "word": "mormonism"
+            }
+        ]
+    }
+}

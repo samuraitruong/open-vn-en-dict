@@ -1,1 +1,27 @@
-{"error": 0, "query": "mormo", "enViData": {"suggests": [{"id": "58825", "link": "/find?type=1&query=Mormon", "word": "Mormon"}, {"id": "58826", "link": "/find?type=1&query=mormonism", "word": "mormonism"}]}, "mUrl": "/find?type=1&query=mormo", "enEnData": {"suggests": [{"id": "18603", "link": "/find?type=3&query=Mormon", "word": "Mormon"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18603",
+                "link": "/find?type=3&query=Mormon",
+                "word": "Mormon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58825",
+                "link": "/find?type=1&query=Mormon",
+                "word": "Mormon"
+            },
+            {
+                "id": "58826",
+                "link": "/find?type=1&query=mormonism",
+                "word": "mormonism"
+            }
+        ]
+    }
+}

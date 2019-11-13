@@ -1,1 +1,28 @@
-{"error": 0, "query": "morpheme", "enViData": {"suggests": [], "best": {"id": "58851", "details": "\n<div id=\"find_word_58851\" class=\"world word_en\" rel=\"morpheme\">\n    <h2 class=\"fl\">morpheme <span class=\"color-black\">/'m\u0254:fi:m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58851\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58851\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ng\u00f4n)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh v\u1ecb</div>\n    \n</div>\n", "link": "/find?type=1&query=morpheme", "word": "morpheme"}}, "mUrl": "/find?type=1&query=morpheme", "enEnData": {"suggests": [], "best": {"id": "18615", "details": "\n<div id=\"find_word_18615\" class=\"world word_en\" rel=\"morpheme\">\n    <h2 class=\"fl\">morpheme <span class=\"color-black\">/\u02c8mo\u025a\u02ccfi\u02d0m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18615\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18615\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phemes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] linguistics :a word or a part of a word that has a meaning and that contains no smaller part that has a meaning</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The word pins contains two morphemes: pin and the plural suffix -s.</div>\n    \n</div>\n", "link": "/find?type=3&query=morpheme", "word": "morpheme"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phemes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] linguistics :a word or a part of a word that has a meaning and that contains no smaller part that has a meaning</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The word pins contains two morphemes: pin and the plural suffix -s.</div>",
+            "id": "18615",
+            "mean": [],
+            "pronounce": "/\u02c8mo\u025a\u02ccfi\u02d0m/",
+            "type": "noun",
+            "word": "morpheme"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(ng\u00f4n)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00ecnh v\u1ecb</div>",
+            "id": "58851",
+            "mean": [],
+            "pronounce": "/'m\u0254:fi:m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9e3c7c461e3ae6e8d84fcd081618c346/16e62a4c5c8/M/morpheme.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/fbd740aeb2230153c36e9698310291cf/16e62a4bfd1/M/morpheme.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "morpheme"
+        },
+        "suggests": []
+    }
+}
