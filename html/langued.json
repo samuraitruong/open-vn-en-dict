@@ -1,1 +1,57 @@
-{"error": 0, "query": "langued", "enViData": {"suggests": [{"id": "52576", "link": "/find?type=1&query=languet", "word": "languet"}]}, "mUrl": "/find?type=1&query=langued", "enEnData": {"suggests": [{"id": "16193", "link": "/find?type=3&query=language", "word": "language"}, {"id": "16194", "link": "/find?type=3&query=language+arts", "word": "language arts"}, {"id": "16195", "link": "/find?type=3&query=language+laboratory", "word": "language laboratory"}, {"id": "16196", "link": "/find?type=3&query=languid", "word": "languid"}, {"id": "16197", "link": "/find?type=3&query=languish", "word": "languish"}, {"id": "16198", "link": "/find?type=3&query=languor", "word": "languor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4103", "link": "/find?type=4&query=language", "word": "language"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16193",
+                "link": "/find?type=3&query=language",
+                "word": "language"
+            },
+            {
+                "id": "16194",
+                "link": "/find?type=3&query=language+arts",
+                "word": "language arts"
+            },
+            {
+                "id": "16195",
+                "link": "/find?type=3&query=language+laboratory",
+                "word": "language laboratory"
+            },
+            {
+                "id": "16196",
+                "link": "/find?type=3&query=languid",
+                "word": "languid"
+            },
+            {
+                "id": "16197",
+                "link": "/find?type=3&query=languish",
+                "word": "languish"
+            },
+            {
+                "id": "16198",
+                "link": "/find?type=3&query=languor",
+                "word": "languor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52576",
+                "link": "/find?type=1&query=languet",
+                "word": "languet"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4103",
+                "link": "/find?type=4&query=language",
+                "word": "language"
+            }
+        ]
+    }
+}

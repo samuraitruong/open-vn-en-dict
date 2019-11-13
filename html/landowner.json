@@ -1,1 +1,34 @@
-{"error": 0, "query": "landowner", "enViData": {"suggests": [{"id": "52545", "link": "/find?type=1&query=landownership", "word": "landownership"}], "best": {"id": "52545", "details": "\n<div id=\"find_word_52545\" class=\"world word_en\" rel=\"landowner\">\n    <h2 class=\"fl\">landowner <span class=\"color-black\">/'l\u00e6nd\u0259\u028an\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"52545\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"52545\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec1n ch\u1ee7</div>\n    \n</div>\n", "link": "/find?type=1&query=landowner", "word": "landowner"}}, "mUrl": "/find?type=1&query=landowner", "enEnData": {"suggests": [], "best": {"id": "16185", "details": "\n<div id=\"find_word_16185\" class=\"world word_en\" rel=\"landowner\">\n    <h2 class=\"fl\">landowner <span class=\"color-black\">/\u02c8l\u00e6nd\u02cco\u028an\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16185\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16185\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who owns land</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a large landowner [=a person who owns a large amount of land]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a wealthy landowner</div>\n    \n</div>\n", "link": "/find?type=3&query=landowner", "word": "landowner"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who owns land</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a large landowner [=a person who owns a large amount of land]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a wealthy landowner</div>",
+            "id": "16185",
+            "mean": [],
+            "pronounce": "/\u02c8l\u00e6nd\u02cco\u028an\u025a/",
+            "type": "noun",
+            "word": "landowner"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec1n ch\u1ee7</div>",
+            "id": "52545",
+            "mean": [],
+            "pronounce": "/'l\u00e6nd\u0259\u028an\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4febf88e9945075a4988bbfd98843e6a/16e628ce2cc/L/landowner.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/75af13adca0816df8afdd037b14b3299/16e628cdcd1/L/landowner.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "landowner"
+        },
+        "suggests": [
+            {
+                "id": "52545",
+                "link": "/find?type=1&query=landownership",
+                "word": "landownership"
+            }
+        ]
+    }
+}

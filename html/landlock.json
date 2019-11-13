@@ -1,1 +1,22 @@
-{"error": 0, "query": "landlock", "enViData": {"suggests": [{"id": "52534", "link": "/find?type=1&query=landlocked", "word": "landlocked"}]}, "mUrl": "/find?type=1&query=landlock", "enEnData": {"suggests": [{"id": "16180", "link": "/find?type=3&query=landlocked", "word": "landlocked"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16180",
+                "link": "/find?type=3&query=landlocked",
+                "word": "landlocked"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52534",
+                "link": "/find?type=1&query=landlocked",
+                "word": "landlocked"
+            }
+        ]
+    }
+}

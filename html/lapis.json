@@ -1,1 +1,22 @@
-{"error": 0, "query": "lapis", "enViData": {"suggests": [{"id": "52627", "link": "/find?type=1&query=lapis+lazuli", "word": "lapis lazuli"}]}, "mUrl": "/find?type=1&query=lapis", "enEnData": {"suggests": [{"id": "16209", "link": "/find?type=3&query=lapis+lazuli", "word": "lapis lazuli"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16209",
+                "link": "/find?type=3&query=lapis+lazuli",
+                "word": "lapis lazuli"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52627",
+                "link": "/find?type=1&query=lapis+lazuli",
+                "word": "lapis lazuli"
+            }
+        ]
+    }
+}
