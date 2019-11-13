@@ -1,1 +1,67 @@
-{"error": 0, "query": "quat", "enViData": {"suggests": [{"id": "73824", "link": "/find?type=1&query=quater", "word": "quater"}, {"id": "73825", "link": "/find?type=1&query=quatercentenary", "word": "quatercentenary"}, {"id": "73826", "link": "/find?type=1&query=quaternary", "word": "quaternary"}, {"id": "73827", "link": "/find?type=1&query=quaternate", "word": "quaternate"}, {"id": "73828", "link": "/find?type=1&query=quaternion", "word": "quaternion"}, {"id": "73829", "link": "/find?type=1&query=quaternity", "word": "quaternity"}, {"id": "73830", "link": "/find?type=1&query=quaternization", "word": "quaternization"}, {"id": "73831", "link": "/find?type=1&query=quatorzain", "word": "quatorzain"}, {"id": "73832", "link": "/find?type=1&query=quatrain", "word": "quatrain"}, {"id": "73833", "link": "/find?type=1&query=quatrefoil", "word": "quatrefoil"}]}, "mUrl": "/find?type=1&query=quat", "enEnData": {"suggests": [{"id": "23604", "link": "/find?type=3&query=quatrain", "word": "quatrain"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23604",
+                "link": "/find?type=3&query=quatrain",
+                "word": "quatrain"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73824",
+                "link": "/find?type=1&query=quater",
+                "word": "quater"
+            },
+            {
+                "id": "73825",
+                "link": "/find?type=1&query=quatercentenary",
+                "word": "quatercentenary"
+            },
+            {
+                "id": "73826",
+                "link": "/find?type=1&query=quaternary",
+                "word": "quaternary"
+            },
+            {
+                "id": "73827",
+                "link": "/find?type=1&query=quaternate",
+                "word": "quaternate"
+            },
+            {
+                "id": "73828",
+                "link": "/find?type=1&query=quaternion",
+                "word": "quaternion"
+            },
+            {
+                "id": "73829",
+                "link": "/find?type=1&query=quaternity",
+                "word": "quaternity"
+            },
+            {
+                "id": "73830",
+                "link": "/find?type=1&query=quaternization",
+                "word": "quaternization"
+            },
+            {
+                "id": "73831",
+                "link": "/find?type=1&query=quatorzain",
+                "word": "quatorzain"
+            },
+            {
+                "id": "73832",
+                "link": "/find?type=1&query=quatrain",
+                "word": "quatrain"
+            },
+            {
+                "id": "73833",
+                "link": "/find?type=1&query=quatrefoil",
+                "word": "quatrefoil"
+            }
+        ]
+    }
+}

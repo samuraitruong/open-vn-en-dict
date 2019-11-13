@@ -1,1 +1,112 @@
-{"error": 0, "query": "queing", "enViData": {"suggests": [{"id": "73848", "link": "/find?type=1&query=queen", "word": "queen"}, {"id": "73849", "link": "/find?type=1&query=queen+bee", "word": "queen bee"}, {"id": "73850", "link": "/find?type=1&query=queen+consort", "word": "queen consort"}, {"id": "73851", "link": "/find?type=1&query=queen+dowager", "word": "queen dowager"}, {"id": "73852", "link": "/find?type=1&query=queen+mother", "word": "queen mother"}, {"id": "73853", "link": "/find?type=1&query=queen-cell", "word": "queen-cell"}, {"id": "73854", "link": "/find?type=1&query=queen-fish", "word": "queen-fish"}, {"id": "73855", "link": "/find?type=1&query=Queen%27s+Bench+%5BDivision%5D", "word": "Queen's Bench [Division]"}, {"id": "73856", "link": "/find?type=1&query=Queen%27s+Counsel", "word": "Queen's Counsel"}, {"id": "73857", "link": "/find?type=1&query=queen%27s+weather", "word": "queen's weather"}]}, "mUrl": "/find?type=1&query=queing", "enEnData": {"suggests": [{"id": "23609", "link": "/find?type=3&query=queen", "word": "queen"}, {"id": "23610", "link": "/find?type=3&query=Queen+Mother", "word": "Queen Mother"}, {"id": "23611", "link": "/find?type=3&query=queenly", "word": "queenly"}, {"id": "23612", "link": "/find?type=3&query=Queen%27s+Counsel", "word": "Queen's Counsel"}, {"id": "23613", "link": "/find?type=3&query=Queen%27s+evidence", "word": "Queen's evidence"}, {"id": "23614", "link": "/find?type=3&query=queen-size", "word": "queen-size"}, {"id": "23615", "link": "/find?type=3&query=queer", "word": "queer"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6133", "link": "/find?type=4&query=queen", "word": "queen"}, {"id": "6134", "link": "/find?type=4&query=queer", "word": "queer"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23609",
+                "link": "/find?type=3&query=queen",
+                "word": "queen"
+            },
+            {
+                "id": "23610",
+                "link": "/find?type=3&query=Queen+Mother",
+                "word": "Queen Mother"
+            },
+            {
+                "id": "23611",
+                "link": "/find?type=3&query=queenly",
+                "word": "queenly"
+            },
+            {
+                "id": "23612",
+                "link": "/find?type=3&query=Queen%27s+Counsel",
+                "word": "Queen's Counsel"
+            },
+            {
+                "id": "23613",
+                "link": "/find?type=3&query=Queen%27s+evidence",
+                "word": "Queen's evidence"
+            },
+            {
+                "id": "23614",
+                "link": "/find?type=3&query=queen-size",
+                "word": "queen-size"
+            },
+            {
+                "id": "23615",
+                "link": "/find?type=3&query=queer",
+                "word": "queer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73848",
+                "link": "/find?type=1&query=queen",
+                "word": "queen"
+            },
+            {
+                "id": "73849",
+                "link": "/find?type=1&query=queen+bee",
+                "word": "queen bee"
+            },
+            {
+                "id": "73850",
+                "link": "/find?type=1&query=queen+consort",
+                "word": "queen consort"
+            },
+            {
+                "id": "73851",
+                "link": "/find?type=1&query=queen+dowager",
+                "word": "queen dowager"
+            },
+            {
+                "id": "73852",
+                "link": "/find?type=1&query=queen+mother",
+                "word": "queen mother"
+            },
+            {
+                "id": "73853",
+                "link": "/find?type=1&query=queen-cell",
+                "word": "queen-cell"
+            },
+            {
+                "id": "73854",
+                "link": "/find?type=1&query=queen-fish",
+                "word": "queen-fish"
+            },
+            {
+                "id": "73855",
+                "link": "/find?type=1&query=Queen%27s+Bench+%5BDivision%5D",
+                "word": "Queen's Bench [Division]"
+            },
+            {
+                "id": "73856",
+                "link": "/find?type=1&query=Queen%27s+Counsel",
+                "word": "Queen's Counsel"
+            },
+            {
+                "id": "73857",
+                "link": "/find?type=1&query=queen%27s+weather",
+                "word": "queen's weather"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6133",
+                "link": "/find?type=4&query=queen",
+                "word": "queen"
+            },
+            {
+                "id": "6134",
+                "link": "/find?type=4&query=queer",
+                "word": "queer"
+            }
+        ]
+    }
+}

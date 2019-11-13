@@ -1,1 +1,42 @@
-{"error": 0, "query": "quave", "enViData": {"suggests": [{"id": "73837", "link": "/find?type=1&query=quaver", "word": "quaver"}, {"id": "73838", "link": "/find?type=1&query=quavering", "word": "quavering"}, {"id": "73839", "link": "/find?type=1&query=quavery", "word": "quavery"}]}, "mUrl": "/find?type=1&query=quave", "enEnData": {"suggests": [{"id": "23605", "link": "/find?type=3&query=quaver", "word": "quaver"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6131", "link": "/find?type=4&query=quaver", "word": "quaver"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23605",
+                "link": "/find?type=3&query=quaver",
+                "word": "quaver"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73837",
+                "link": "/find?type=1&query=quaver",
+                "word": "quaver"
+            },
+            {
+                "id": "73838",
+                "link": "/find?type=1&query=quavering",
+                "word": "quavering"
+            },
+            {
+                "id": "73839",
+                "link": "/find?type=1&query=quavery",
+                "word": "quavery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6131",
+                "link": "/find?type=4&query=quaver",
+                "word": "quaver"
+            }
+        ]
+    }
+}
