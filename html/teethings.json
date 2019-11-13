@@ -1,0 +1,40 @@
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "30062",
+                "link": "/find?type=3&query=teething+ring",
+                "word": "teething ring"
+            },
+            {
+                "id": "30063",
+                "link": "/find?type=3&query=teething+troubles",
+                "word": "teething troubles"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 m\u1ecdc r\u0103ng</div>",
+            "id": "91815",
+            "mean": [],
+            "pronounce": "/'ti:\u00f0i\u0273/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "teething"
+        },
+        "suggests": [
+            {
+                "id": "91815",
+                "link": "/find?type=1&query=teething+troubles",
+                "word": "teething troubles"
+            },
+            {
+                "id": "91815",
+                "link": "/find?type=1&query=teething-ring",
+                "word": "teething-ring"
+            }
+        ]
+    }
+}
