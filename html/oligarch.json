@@ -1,1 +1,55 @@
-{"error": 0, "query": "oligarch", "enViData": {"suggests": [{"id": "62218", "link": "/find?type=1&query=oligarchic", "word": "oligarchic"}, {"id": "62218", "link": "/find?type=1&query=oligarchical", "word": "oligarchical"}, {"id": "62218", "link": "/find?type=1&query=oligarchist", "word": "oligarchist"}, {"id": "62218", "link": "/find?type=1&query=oligarchy", "word": "oligarchy"}], "best": {"id": "62218", "details": "\n<div id=\"find_word_62218\" class=\"world word_en\" rel=\"oligarch\">\n    <h2 class=\"fl\">oligarch <span class=\"color-black\">/'\u0252lig\u0251:k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"62218\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"62218\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea7u s\u1ecf ch\u00ednh tr\u1ecb</div>\n    \n</div>\n", "link": "/find?type=1&query=oligarch", "word": "oligarch"}}, "mUrl": "/find?type=1&query=oligarch", "enEnData": {"suggests": [{"id": "20006", "link": "/find?type=3&query=oligarchy", "word": "oligarchy"}], "best": {"id": "20006", "details": "\n<div id=\"find_word_20006\" class=\"world word_en\" rel=\"oligarch\">\n    <h2 class=\"fl\">oligarch <span class=\"color-black\">/\u02c8\u0251\u02d0l\u0259\u02ccg\u0251\u025ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20006\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20006\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -garchs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] somewhat formal :a person who belongs to a small group of people who govern or control a country, business, etc.</div>\n    \n</div>\n", "link": "/find?type=3&query=oligarch", "word": "oligarch"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -garchs</div>\n    \n    <div class=\"green margin25 m-top15\">[count] somewhat formal :a person who belongs to a small group of people who govern or control a country, business, etc.</div>",
+            "id": "20006",
+            "mean": [],
+            "pronounce": "/\u02c8\u0251\u02d0l\u0259\u02ccg\u0251\u025ak/",
+            "type": "noun",
+            "word": "oligarch"
+        },
+        "suggests": [
+            {
+                "id": "20006",
+                "link": "/find?type=3&query=oligarchy",
+                "word": "oligarchy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea7u s\u1ecf ch\u00ednh tr\u1ecb</div>",
+            "id": "62218",
+            "mean": [],
+            "pronounce": "/'\u0252lig\u0251:k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f3d44936e6d284a78977b9e438589a8e/16e62b2cc76/O/oligarch.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d3b7ccfa6a8d470d9851265afdb62dd6/16e62b2c6bc/O/oligarch.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "oligarch"
+        },
+        "suggests": [
+            {
+                "id": "62218",
+                "link": "/find?type=1&query=oligarchic",
+                "word": "oligarchic"
+            },
+            {
+                "id": "62218",
+                "link": "/find?type=1&query=oligarchical",
+                "word": "oligarchical"
+            },
+            {
+                "id": "62218",
+                "link": "/find?type=1&query=oligarchist",
+                "word": "oligarchist"
+            },
+            {
+                "id": "62218",
+                "link": "/find?type=1&query=oligarchy",
+                "word": "oligarchy"
+            }
+        ]
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "olfact", "enViData": {"suggests": [{"id": "62210", "link": "/find?type=1&query=olfaction", "word": "olfaction"}, {"id": "62211", "link": "/find?type=1&query=olfactive", "word": "olfactive"}, {"id": "62212", "link": "/find?type=1&query=olfactometer", "word": "olfactometer"}, {"id": "62213", "link": "/find?type=1&query=olfactory", "word": "olfactory"}]}, "mUrl": "/find?type=1&query=olfact", "enEnData": {"suggests": [{"id": "20005", "link": "/find?type=3&query=olfactory", "word": "olfactory"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20005",
+                "link": "/find?type=3&query=olfactory",
+                "word": "olfactory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62210",
+                "link": "/find?type=1&query=olfaction",
+                "word": "olfaction"
+            },
+            {
+                "id": "62211",
+                "link": "/find?type=1&query=olfactive",
+                "word": "olfactive"
+            },
+            {
+                "id": "62212",
+                "link": "/find?type=1&query=olfactometer",
+                "word": "olfactometer"
+            },
+            {
+                "id": "62213",
+                "link": "/find?type=1&query=olfactory",
+                "word": "olfactory"
+            }
+        ]
+    }
+}

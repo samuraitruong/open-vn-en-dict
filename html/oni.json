@@ -1,1 +1,57 @@
-{"error": 0, "query": "oni", "enViData": {"suggests": [{"id": "62480", "link": "/find?type=1&query=onion", "word": "onion"}, {"id": "62481", "link": "/find?type=1&query=onion+twitch", "word": "onion twitch"}, {"id": "62482", "link": "/find?type=1&query=onion-bed", "word": "onion-bed"}, {"id": "62483", "link": "/find?type=1&query=onion-couch", "word": "onion-couch"}, {"id": "62484", "link": "/find?type=1&query=onion-grass", "word": "onion-grass"}, {"id": "62485", "link": "/find?type=1&query=onion-skin", "word": "onion-skin"}, {"id": "62486", "link": "/find?type=1&query=oniony", "word": "oniony"}]}, "mUrl": "/find?type=1&query=oni", "enEnData": {"suggests": [{"id": "20075", "link": "/find?type=3&query=onion", "word": "onion"}, {"id": "20076", "link": "/find?type=3&query=onion+ring", "word": "onion ring"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20075",
+                "link": "/find?type=3&query=onion",
+                "word": "onion"
+            },
+            {
+                "id": "20076",
+                "link": "/find?type=3&query=onion+ring",
+                "word": "onion ring"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62480",
+                "link": "/find?type=1&query=onion",
+                "word": "onion"
+            },
+            {
+                "id": "62481",
+                "link": "/find?type=1&query=onion+twitch",
+                "word": "onion twitch"
+            },
+            {
+                "id": "62482",
+                "link": "/find?type=1&query=onion-bed",
+                "word": "onion-bed"
+            },
+            {
+                "id": "62483",
+                "link": "/find?type=1&query=onion-couch",
+                "word": "onion-couch"
+            },
+            {
+                "id": "62484",
+                "link": "/find?type=1&query=onion-grass",
+                "word": "onion-grass"
+            },
+            {
+                "id": "62485",
+                "link": "/find?type=1&query=onion-skin",
+                "word": "onion-skin"
+            },
+            {
+                "id": "62486",
+                "link": "/find?type=1&query=oniony",
+                "word": "oniony"
+            }
+        ]
+    }
+}

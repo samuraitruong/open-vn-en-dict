@@ -1,1 +1,32 @@
-{"error": 0, "query": "olympia", "enViData": {"suggests": [{"id": "62277", "link": "/find?type=1&query=Olympiad", "word": "Olympiad"}, {"id": "62278", "link": "/find?type=1&query=Olympian", "word": "Olympian"}]}, "mUrl": "/find?type=1&query=olympia", "enEnData": {"suggests": [{"id": "20014", "link": "/find?type=3&query=Olympiad", "word": "Olympiad"}, {"id": "20015", "link": "/find?type=3&query=Olympian", "word": "Olympian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20014",
+                "link": "/find?type=3&query=Olympiad",
+                "word": "Olympiad"
+            },
+            {
+                "id": "20015",
+                "link": "/find?type=3&query=Olympian",
+                "word": "Olympian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "62277",
+                "link": "/find?type=1&query=Olympiad",
+                "word": "Olympiad"
+            },
+            {
+                "id": "62278",
+                "link": "/find?type=1&query=Olympian",
+                "word": "Olympian"
+            }
+        ]
+    }
+}
