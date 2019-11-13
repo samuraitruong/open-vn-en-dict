@@ -1,1 +1,77 @@
-{"error": 0, "query": "lub", "enViData": {"suggests": [{"id": "54877", "link": "/find?type=1&query=lubber", "word": "lubber"}, {"id": "54878", "link": "/find?type=1&query=lubberland", "word": "lubberland"}, {"id": "54879", "link": "/find?type=1&query=lubberlike", "word": "lubberlike"}, {"id": "54880", "link": "/find?type=1&query=lubberliness", "word": "lubberliness"}, {"id": "54881", "link": "/find?type=1&query=lubberly", "word": "lubberly"}, {"id": "54882", "link": "/find?type=1&query=lube", "word": "lube"}, {"id": "54883", "link": "/find?type=1&query=lubra", "word": "lubra"}, {"id": "54884", "link": "/find?type=1&query=lubricant", "word": "lubricant"}, {"id": "54885", "link": "/find?type=1&query=lubricate", "word": "lubricate"}, {"id": "54886", "link": "/find?type=1&query=lubrication", "word": "lubrication"}]}, "mUrl": "/find?type=1&query=lub", "enEnData": {"suggests": [{"id": "17128", "link": "/find?type=3&query=lube", "word": "lube"}, {"id": "17129", "link": "/find?type=3&query=lubricant", "word": "lubricant"}, {"id": "17130", "link": "/find?type=3&query=lubricate", "word": "lubricate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17128",
+                "link": "/find?type=3&query=lube",
+                "word": "lube"
+            },
+            {
+                "id": "17129",
+                "link": "/find?type=3&query=lubricant",
+                "word": "lubricant"
+            },
+            {
+                "id": "17130",
+                "link": "/find?type=3&query=lubricate",
+                "word": "lubricate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54877",
+                "link": "/find?type=1&query=lubber",
+                "word": "lubber"
+            },
+            {
+                "id": "54878",
+                "link": "/find?type=1&query=lubberland",
+                "word": "lubberland"
+            },
+            {
+                "id": "54879",
+                "link": "/find?type=1&query=lubberlike",
+                "word": "lubberlike"
+            },
+            {
+                "id": "54880",
+                "link": "/find?type=1&query=lubberliness",
+                "word": "lubberliness"
+            },
+            {
+                "id": "54881",
+                "link": "/find?type=1&query=lubberly",
+                "word": "lubberly"
+            },
+            {
+                "id": "54882",
+                "link": "/find?type=1&query=lube",
+                "word": "lube"
+            },
+            {
+                "id": "54883",
+                "link": "/find?type=1&query=lubra",
+                "word": "lubra"
+            },
+            {
+                "id": "54884",
+                "link": "/find?type=1&query=lubricant",
+                "word": "lubricant"
+            },
+            {
+                "id": "54885",
+                "link": "/find?type=1&query=lubricate",
+                "word": "lubricate"
+            },
+            {
+                "id": "54886",
+                "link": "/find?type=1&query=lubrication",
+                "word": "lubrication"
+            }
+        ]
+    }
+}

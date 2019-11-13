@@ -1,1 +1,67 @@
-{"error": 0, "query": "lubric", "enViData": {"suggests": [{"id": "54884", "link": "/find?type=1&query=lubricant", "word": "lubricant"}, {"id": "54885", "link": "/find?type=1&query=lubricate", "word": "lubricate"}, {"id": "54886", "link": "/find?type=1&query=lubrication", "word": "lubrication"}, {"id": "54887", "link": "/find?type=1&query=lubricative", "word": "lubricative"}, {"id": "54888", "link": "/find?type=1&query=lubricator", "word": "lubricator"}, {"id": "54889", "link": "/find?type=1&query=lubricatory", "word": "lubricatory"}, {"id": "54890", "link": "/find?type=1&query=lubricious", "word": "lubricious"}, {"id": "54891", "link": "/find?type=1&query=lubricity", "word": "lubricity"}, {"id": "54892", "link": "/find?type=1&query=lubricous", "word": "lubricous"}]}, "mUrl": "/find?type=1&query=lubric", "enEnData": {"suggests": [{"id": "17129", "link": "/find?type=3&query=lubricant", "word": "lubricant"}, {"id": "17130", "link": "/find?type=3&query=lubricate", "word": "lubricate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17129",
+                "link": "/find?type=3&query=lubricant",
+                "word": "lubricant"
+            },
+            {
+                "id": "17130",
+                "link": "/find?type=3&query=lubricate",
+                "word": "lubricate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54884",
+                "link": "/find?type=1&query=lubricant",
+                "word": "lubricant"
+            },
+            {
+                "id": "54885",
+                "link": "/find?type=1&query=lubricate",
+                "word": "lubricate"
+            },
+            {
+                "id": "54886",
+                "link": "/find?type=1&query=lubrication",
+                "word": "lubrication"
+            },
+            {
+                "id": "54887",
+                "link": "/find?type=1&query=lubricative",
+                "word": "lubricative"
+            },
+            {
+                "id": "54888",
+                "link": "/find?type=1&query=lubricator",
+                "word": "lubricator"
+            },
+            {
+                "id": "54889",
+                "link": "/find?type=1&query=lubricatory",
+                "word": "lubricatory"
+            },
+            {
+                "id": "54890",
+                "link": "/find?type=1&query=lubricious",
+                "word": "lubricious"
+            },
+            {
+                "id": "54891",
+                "link": "/find?type=1&query=lubricity",
+                "word": "lubricity"
+            },
+            {
+                "id": "54892",
+                "link": "/find?type=1&query=lubricous",
+                "word": "lubricous"
+            }
+        ]
+    }
+}

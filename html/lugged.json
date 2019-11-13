@@ -1,1 +1,37 @@
-{"error": 0, "query": "lugged", "enViData": {"suggests": [{"id": "54941", "link": "/find?type=1&query=lugger", "word": "lugger"}]}, "mUrl": "/find?type=1&query=lugged", "enEnData": {"suggests": [{"id": "17144", "link": "/find?type=3&query=luggage", "word": "luggage"}, {"id": "17145", "link": "/find?type=3&query=luggage+rack", "word": "luggage rack"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4316", "link": "/find?type=4&query=luggage", "word": "luggage"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17144",
+                "link": "/find?type=3&query=luggage",
+                "word": "luggage"
+            },
+            {
+                "id": "17145",
+                "link": "/find?type=3&query=luggage+rack",
+                "word": "luggage rack"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54941",
+                "link": "/find?type=1&query=lugger",
+                "word": "lugger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4316",
+                "link": "/find?type=4&query=luggage",
+                "word": "luggage"
+            }
+        ]
+    }
+}

@@ -1,1 +1,45 @@
-{"error": 0, "query": "luce", "enViData": {"suggests": [{"id": "54895", "link": "/find?type=1&query=lucency", "word": "lucency"}, {"id": "54895", "link": "/find?type=1&query=lucent", "word": "lucent"}, {"id": "54895", "link": "/find?type=1&query=lucerne", "word": "lucerne"}, {"id": "54895", "link": "/find?type=1&query=luces", "word": "luces"}], "best": {"id": "54895", "details": "\n<div id=\"find_word_54895\" class=\"world word_en\" rel=\"luce\">\n    <h2 class=\"fl\">luce <span class=\"color-black\">/lu:s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54895\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54895\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) c\u00e1 ch\u00f3</div>\n    \n</div>\n", "link": "/find?type=1&query=luce", "word": "luce"}}, "mUrl": "/find?type=1&query=luce", "enEnData": {"suggests": [{"id": "17131", "link": "/find?type=3&query=lucerne", "word": "lucerne"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17131",
+                "link": "/find?type=3&query=lucerne",
+                "word": "lucerne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ed9ng v\u1eadt h\u1ecdc) c\u00e1 ch\u00f3</div>",
+            "id": "54895",
+            "mean": [],
+            "pronounce": "/lu:s/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "luce"
+        },
+        "suggests": [
+            {
+                "id": "54895",
+                "link": "/find?type=1&query=lucency",
+                "word": "lucency"
+            },
+            {
+                "id": "54895",
+                "link": "/find?type=1&query=lucent",
+                "word": "lucent"
+            },
+            {
+                "id": "54895",
+                "link": "/find?type=1&query=lucerne",
+                "word": "lucerne"
+            },
+            {
+                "id": "54895",
+                "link": "/find?type=1&query=luces",
+                "word": "luces"
+            }
+        ]
+    }
+}

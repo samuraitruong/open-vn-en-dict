@@ -1,1 +1,34 @@
-{"error": 0, "query": "lovesick", "enViData": {"suggests": [{"id": "54779", "link": "/find?type=1&query=lovesickness", "word": "lovesickness"}], "best": {"id": "54779", "details": "\n<div id=\"find_word_54779\" class=\"world word_en\" rel=\"lovesick\">\n    <h2 class=\"fl\">lovesick <span class=\"color-black\">/'l\u028cvsik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54779\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54779\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[\u1ed1m] t\u01b0\u01a1ng t\u1ef1</div>\n    \n</div>\n", "link": "/find?type=1&query=lovesick", "word": "lovesick"}}, "mUrl": "/find?type=1&query=lovesick", "enEnData": {"suggests": [], "best": {"id": "17077", "details": "\n<div id=\"find_word_17077\" class=\"world word_en\" rel=\"lovesick\">\n    <h2 class=\"fl\">lovesick <span class=\"color-black\">/\u02c8l\u028cv\u02ccs\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17077\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17077\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :unhappy because of love :feeling weak, foolish, or unhappy because someone you love does not love you</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The movie is a comedy about a lovesick [=lovelorn] teenager.</div>\n    \n</div>\n", "link": "/find?type=3&query=lovesick", "word": "lovesick"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :unhappy because of love :feeling weak, foolish, or unhappy because someone you love does not love you</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The movie is a comedy about a lovesick [=lovelorn] teenager.</div>",
+            "id": "17077",
+            "mean": [],
+            "pronounce": "/\u02c8l\u028cv\u02ccs\u026ak/",
+            "type": "adjective",
+            "word": "lovesick"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[\u1ed1m] t\u01b0\u01a1ng t\u1ef1</div>",
+            "id": "54779",
+            "mean": [],
+            "pronounce": "/'l\u028cvsik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2595400cf75329d720f8e23d66a6eaa3/16e62946673/L/lovesick.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/741f2a705a9b751a12c855479ae65db4/16e629460b3/L/lovesick.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "lovesick"
+        },
+        "suggests": [
+            {
+                "id": "54779",
+                "link": "/find?type=1&query=lovesickness",
+                "word": "lovesickness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,107 @@
-{"error": 0, "query": "lur", "enViData": {"suggests": [{"id": "55048", "link": "/find?type=1&query=lurch", "word": "lurch"}, {"id": "55049", "link": "/find?type=1&query=lurcher", "word": "lurcher"}, {"id": "55050", "link": "/find?type=1&query=lurchingly", "word": "lurchingly"}, {"id": "55051", "link": "/find?type=1&query=lure", "word": "lure"}, {"id": "55052", "link": "/find?type=1&query=lurement", "word": "lurement"}, {"id": "55053", "link": "/find?type=1&query=lurer", "word": "lurer"}, {"id": "55054", "link": "/find?type=1&query=lurid", "word": "lurid"}, {"id": "55055", "link": "/find?type=1&query=luridly", "word": "luridly"}, {"id": "55056", "link": "/find?type=1&query=luridness", "word": "luridness"}, {"id": "55057", "link": "/find?type=1&query=luringly", "word": "luringly"}]}, "mUrl": "/find?type=1&query=lur", "enEnData": {"suggests": [{"id": "17181", "link": "/find?type=3&query=lurch", "word": "lurch"}, {"id": "17182", "link": "/find?type=3&query=lure", "word": "lure"}, {"id": "17183", "link": "/find?type=3&query=lurid", "word": "lurid"}, {"id": "17184", "link": "/find?type=3&query=lurk", "word": "lurk"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4325", "link": "/find?type=4&query=lurch", "word": "lurch"}, {"id": "4326", "link": "/find?type=4&query=lure", "word": "lure"}, {"id": "4327", "link": "/find?type=4&query=lurid", "word": "lurid"}, {"id": "4328", "link": "/find?type=4&query=lurk", "word": "lurk"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17181",
+                "link": "/find?type=3&query=lurch",
+                "word": "lurch"
+            },
+            {
+                "id": "17182",
+                "link": "/find?type=3&query=lure",
+                "word": "lure"
+            },
+            {
+                "id": "17183",
+                "link": "/find?type=3&query=lurid",
+                "word": "lurid"
+            },
+            {
+                "id": "17184",
+                "link": "/find?type=3&query=lurk",
+                "word": "lurk"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55048",
+                "link": "/find?type=1&query=lurch",
+                "word": "lurch"
+            },
+            {
+                "id": "55049",
+                "link": "/find?type=1&query=lurcher",
+                "word": "lurcher"
+            },
+            {
+                "id": "55050",
+                "link": "/find?type=1&query=lurchingly",
+                "word": "lurchingly"
+            },
+            {
+                "id": "55051",
+                "link": "/find?type=1&query=lure",
+                "word": "lure"
+            },
+            {
+                "id": "55052",
+                "link": "/find?type=1&query=lurement",
+                "word": "lurement"
+            },
+            {
+                "id": "55053",
+                "link": "/find?type=1&query=lurer",
+                "word": "lurer"
+            },
+            {
+                "id": "55054",
+                "link": "/find?type=1&query=lurid",
+                "word": "lurid"
+            },
+            {
+                "id": "55055",
+                "link": "/find?type=1&query=luridly",
+                "word": "luridly"
+            },
+            {
+                "id": "55056",
+                "link": "/find?type=1&query=luridness",
+                "word": "luridness"
+            },
+            {
+                "id": "55057",
+                "link": "/find?type=1&query=luringly",
+                "word": "luringly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4325",
+                "link": "/find?type=4&query=lurch",
+                "word": "lurch"
+            },
+            {
+                "id": "4326",
+                "link": "/find?type=4&query=lure",
+                "word": "lure"
+            },
+            {
+                "id": "4327",
+                "link": "/find?type=4&query=lurid",
+                "word": "lurid"
+            },
+            {
+                "id": "4328",
+                "link": "/find?type=4&query=lurk",
+                "word": "lurk"
+            }
+        ]
+    }
+}

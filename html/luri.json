@@ -1,1 +1,47 @@
-{"error": 0, "query": "luri", "enViData": {"suggests": [{"id": "55054", "link": "/find?type=1&query=lurid", "word": "lurid"}, {"id": "55055", "link": "/find?type=1&query=luridly", "word": "luridly"}, {"id": "55056", "link": "/find?type=1&query=luridness", "word": "luridness"}, {"id": "55057", "link": "/find?type=1&query=luringly", "word": "luringly"}]}, "mUrl": "/find?type=1&query=luri", "enEnData": {"suggests": [{"id": "17183", "link": "/find?type=3&query=lurid", "word": "lurid"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4327", "link": "/find?type=4&query=lurid", "word": "lurid"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17183",
+                "link": "/find?type=3&query=lurid",
+                "word": "lurid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55054",
+                "link": "/find?type=1&query=lurid",
+                "word": "lurid"
+            },
+            {
+                "id": "55055",
+                "link": "/find?type=1&query=luridly",
+                "word": "luridly"
+            },
+            {
+                "id": "55056",
+                "link": "/find?type=1&query=luridness",
+                "word": "luridness"
+            },
+            {
+                "id": "55057",
+                "link": "/find?type=1&query=luringly",
+                "word": "luringly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4327",
+                "link": "/find?type=4&query=lurid",
+                "word": "lurid"
+            }
+        ]
+    }
+}

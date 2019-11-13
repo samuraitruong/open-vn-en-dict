@@ -1,1 +1,95 @@
-{"error": 0, "query": "luna", "enViData": {"suggests": [{"id": "55001", "link": "/find?type=1&query=lunacy", "word": "lunacy"}, {"id": "55001", "link": "/find?type=1&query=lunanaut", "word": "lunanaut"}, {"id": "55001", "link": "/find?type=1&query=lunar", "word": "lunar"}, {"id": "55001", "link": "/find?type=1&query=lunar+caustic", "word": "lunar caustic"}, {"id": "55001", "link": "/find?type=1&query=lunar+module", "word": "lunar module"}, {"id": "55001", "link": "/find?type=1&query=lunar+month", "word": "lunar month"}, {"id": "55001", "link": "/find?type=1&query=lunarian", "word": "lunarian"}, {"id": "55001", "link": "/find?type=1&query=lunary", "word": "lunary"}, {"id": "55001", "link": "/find?type=1&query=lunate", "word": "lunate"}], "best": {"id": "55001", "details": "\n<div id=\"find_word_55001\" class=\"world word_en\" rel=\"luna\">\n    <h2 class=\"fl\">luna <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55001\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55001\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ea7n tho\u1ea1i La-M\u00e3) n\u1eef th\u1ea7n m\u1eb7t tr\u0103ng</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1nh s\u00e1ng m\u1eb7t tr\u0103ng (nh\u00e2n c\u00e1ch ho\u00e1)</div>\n    \n</div>\n", "link": "/find?type=1&query=luna", "word": "luna"}}, "mUrl": "/find?type=1&query=luna", "enEnData": {"suggests": [{"id": "17164", "link": "/find?type=3&query=lunacy", "word": "lunacy"}, {"id": "17165", "link": "/find?type=3&query=lunar", "word": "lunar"}, {"id": "17166", "link": "/find?type=3&query=lunatic", "word": "lunatic"}, {"id": "17167", "link": "/find?type=3&query=lunatic+fringe", "word": "lunatic fringe"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4323", "link": "/find?type=4&query=lunacy", "word": "lunacy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17164",
+                "link": "/find?type=3&query=lunacy",
+                "word": "lunacy"
+            },
+            {
+                "id": "17165",
+                "link": "/find?type=3&query=lunar",
+                "word": "lunar"
+            },
+            {
+                "id": "17166",
+                "link": "/find?type=3&query=lunatic",
+                "word": "lunatic"
+            },
+            {
+                "id": "17167",
+                "link": "/find?type=3&query=lunatic+fringe",
+                "word": "lunatic fringe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(th\u1ea7n tho\u1ea1i La-M\u00e3) n\u1eef th\u1ea7n m\u1eb7t tr\u0103ng</div>\n    \n    <div class=\"green margin25 m-top15\">\u00e1nh s\u00e1ng m\u1eb7t tr\u0103ng (nh\u00e2n c\u00e1ch ho\u00e1)</div>",
+            "id": "55001",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "luna"
+        },
+        "suggests": [
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunacy",
+                "word": "lunacy"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunanaut",
+                "word": "lunanaut"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunar",
+                "word": "lunar"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunar+caustic",
+                "word": "lunar caustic"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunar+module",
+                "word": "lunar module"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunar+month",
+                "word": "lunar month"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunarian",
+                "word": "lunarian"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunary",
+                "word": "lunary"
+            },
+            {
+                "id": "55001",
+                "link": "/find?type=1&query=lunate",
+                "word": "lunate"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4323",
+                "link": "/find?type=4&query=lunacy",
+                "word": "lunacy"
+            }
+        ]
+    }
+}
