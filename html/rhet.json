@@ -1,1 +1,67 @@
-{"error": 0, "query": "rhet", "enViData": {"suggests": [{"id": "77185", "link": "/find?type=1&query=rhetor", "word": "rhetor"}, {"id": "77186", "link": "/find?type=1&query=rhetoric", "word": "rhetoric"}, {"id": "77187", "link": "/find?type=1&query=rhetorical", "word": "rhetorical"}, {"id": "77188", "link": "/find?type=1&query=rhetorical+question", "word": "rhetorical question"}, {"id": "77189", "link": "/find?type=1&query=rhetorically", "word": "rhetorically"}, {"id": "77190", "link": "/find?type=1&query=rhetorician", "word": "rhetorician"}]}, "mUrl": "/find?type=1&query=rhet", "enEnData": {"suggests": [{"id": "24867", "link": "/find?type=3&query=rhetoric", "word": "rhetoric"}, {"id": "24868", "link": "/find?type=3&query=rhetorical", "word": "rhetorical"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6624", "link": "/find?type=4&query=rhetoric", "word": "rhetoric"}, {"id": "6625", "link": "/find?type=4&query=rhetorical", "word": "rhetorical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24867",
+                "link": "/find?type=3&query=rhetoric",
+                "word": "rhetoric"
+            },
+            {
+                "id": "24868",
+                "link": "/find?type=3&query=rhetorical",
+                "word": "rhetorical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77185",
+                "link": "/find?type=1&query=rhetor",
+                "word": "rhetor"
+            },
+            {
+                "id": "77186",
+                "link": "/find?type=1&query=rhetoric",
+                "word": "rhetoric"
+            },
+            {
+                "id": "77187",
+                "link": "/find?type=1&query=rhetorical",
+                "word": "rhetorical"
+            },
+            {
+                "id": "77188",
+                "link": "/find?type=1&query=rhetorical+question",
+                "word": "rhetorical question"
+            },
+            {
+                "id": "77189",
+                "link": "/find?type=1&query=rhetorically",
+                "word": "rhetorically"
+            },
+            {
+                "id": "77190",
+                "link": "/find?type=1&query=rhetorician",
+                "word": "rhetorician"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6624",
+                "link": "/find?type=4&query=rhetoric",
+                "word": "rhetoric"
+            },
+            {
+                "id": "6625",
+                "link": "/find?type=4&query=rhetorical",
+                "word": "rhetorical"
+            }
+        ]
+    }
+}

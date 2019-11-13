@@ -1,1 +1,37 @@
-{"error": 0, "query": "rhus", "enViData": {"suggests": [{"id": "77252", "link": "/find?type=1&query=rhubarb", "word": "rhubarb"}, {"id": "77253", "link": "/find?type=1&query=rhubrab", "word": "rhubrab"}, {"id": "77254", "link": "/find?type=1&query=rhumb", "word": "rhumb"}]}, "mUrl": "/find?type=1&query=rhus", "enEnData": {"suggests": [{"id": "24881", "link": "/find?type=3&query=rhubarb", "word": "rhubarb"}, {"id": "24882", "link": "/find?type=3&query=rhumba", "word": "rhumba"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24881",
+                "link": "/find?type=3&query=rhubarb",
+                "word": "rhubarb"
+            },
+            {
+                "id": "24882",
+                "link": "/find?type=3&query=rhumba",
+                "word": "rhumba"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77252",
+                "link": "/find?type=1&query=rhubarb",
+                "word": "rhubarb"
+            },
+            {
+                "id": "77253",
+                "link": "/find?type=1&query=rhubrab",
+                "word": "rhubrab"
+            },
+            {
+                "id": "77254",
+                "link": "/find?type=1&query=rhumb",
+                "word": "rhumb"
+            }
+        ]
+    }
+}

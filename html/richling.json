@@ -1,1 +1,32 @@
-{"error": 0, "query": "richling", "enViData": {"suggests": [{"id": "77306", "link": "/find?type=1&query=richly", "word": "richly"}]}, "mUrl": "/find?type=1&query=richling", "enEnData": {"suggests": [{"id": "24904", "link": "/find?type=3&query=richly", "word": "richly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6632", "link": "/find?type=4&query=richly", "word": "richly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24904",
+                "link": "/find?type=3&query=richly",
+                "word": "richly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77306",
+                "link": "/find?type=1&query=richly",
+                "word": "richly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6632",
+                "link": "/find?type=4&query=richly",
+                "word": "richly"
+            }
+        ]
+    }
+}

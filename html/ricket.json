@@ -1,1 +1,57 @@
-{"error": 0, "query": "ricket", "enViData": {"suggests": [{"id": "77313", "link": "/find?type=1&query=ricketiness", "word": "ricketiness"}, {"id": "77314", "link": "/find?type=1&query=rickets", "word": "rickets"}, {"id": "77315", "link": "/find?type=1&query=rickettsia", "word": "rickettsia"}, {"id": "77316", "link": "/find?type=1&query=rickettsiae", "word": "rickettsiae"}, {"id": "77317", "link": "/find?type=1&query=rickety", "word": "rickety"}]}, "mUrl": "/find?type=1&query=ricket", "enEnData": {"suggests": [{"id": "24907", "link": "/find?type=3&query=rickets", "word": "rickets"}, {"id": "24908", "link": "/find?type=3&query=rickety", "word": "rickety"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6633", "link": "/find?type=4&query=rickety", "word": "rickety"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24907",
+                "link": "/find?type=3&query=rickets",
+                "word": "rickets"
+            },
+            {
+                "id": "24908",
+                "link": "/find?type=3&query=rickety",
+                "word": "rickety"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77313",
+                "link": "/find?type=1&query=ricketiness",
+                "word": "ricketiness"
+            },
+            {
+                "id": "77314",
+                "link": "/find?type=1&query=rickets",
+                "word": "rickets"
+            },
+            {
+                "id": "77315",
+                "link": "/find?type=1&query=rickettsia",
+                "word": "rickettsia"
+            },
+            {
+                "id": "77316",
+                "link": "/find?type=1&query=rickettsiae",
+                "word": "rickettsiae"
+            },
+            {
+                "id": "77317",
+                "link": "/find?type=1&query=rickety",
+                "word": "rickety"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6633",
+                "link": "/find?type=4&query=rickety",
+                "word": "rickety"
+            }
+        ]
+    }
+}

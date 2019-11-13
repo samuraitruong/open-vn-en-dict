@@ -1,1 +1,27 @@
-{"error": 0, "query": "rhine", "enViData": {"suggests": [{"id": "77203", "link": "/find?type=1&query=rhinecephalon", "word": "rhinecephalon"}, {"id": "77204", "link": "/find?type=1&query=rhinestone", "word": "rhinestone"}]}, "mUrl": "/find?type=1&query=rhine", "enEnData": {"suggests": [{"id": "24872", "link": "/find?type=3&query=rhinestone", "word": "rhinestone"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24872",
+                "link": "/find?type=3&query=rhinestone",
+                "word": "rhinestone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77203",
+                "link": "/find?type=1&query=rhinecephalon",
+                "word": "rhinecephalon"
+            },
+            {
+                "id": "77204",
+                "link": "/find?type=1&query=rhinestone",
+                "word": "rhinestone"
+            }
+        ]
+    }
+}

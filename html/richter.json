@@ -1,1 +1,22 @@
-{"error": 0, "query": "richter", "enViData": {"suggests": [{"id": "77308", "link": "/find?type=1&query=Richter+scale", "word": "Richter scale"}]}, "mUrl": "/find?type=1&query=richter", "enEnData": {"suggests": [{"id": "24905", "link": "/find?type=3&query=Richter+scale", "word": "Richter scale"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24905",
+                "link": "/find?type=3&query=Richter+scale",
+                "word": "Richter scale"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77308",
+                "link": "/find?type=1&query=Richter+scale",
+                "word": "Richter scale"
+            }
+        ]
+    }
+}

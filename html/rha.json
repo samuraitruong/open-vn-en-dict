@@ -1,1 +1,82 @@
-{"error": 0, "query": "rha", "enViData": {"suggests": [{"id": "77155", "link": "/find?type=1&query=rhabdoid", "word": "rhabdoid"}, {"id": "77156", "link": "/find?type=1&query=rhabdoith", "word": "rhabdoith"}, {"id": "77157", "link": "/find?type=1&query=rhabdomancy", "word": "rhabdomancy"}, {"id": "77158", "link": "/find?type=1&query=rhabdome", "word": "rhabdome"}, {"id": "77159", "link": "/find?type=1&query=rhabdomere", "word": "rhabdomere"}, {"id": "77160", "link": "/find?type=1&query=rhamnaceous", "word": "rhamnaceous"}, {"id": "77161", "link": "/find?type=1&query=rhapsode", "word": "rhapsode"}, {"id": "77162", "link": "/find?type=1&query=rhapsodic", "word": "rhapsodic"}, {"id": "77163", "link": "/find?type=1&query=rhapsodical", "word": "rhapsodical"}, {"id": "77164", "link": "/find?type=1&query=rhapsodise", "word": "rhapsodise"}]}, "mUrl": "/find?type=1&query=rha", "enEnData": {"suggests": [{"id": "24863", "link": "/find?type=3&query=rhapsodize", "word": "rhapsodize"}, {"id": "24864", "link": "/find?type=3&query=rhapsody", "word": "rhapsody"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6623", "link": "/find?type=4&query=rhapsodic", "word": "rhapsodic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24863",
+                "link": "/find?type=3&query=rhapsodize",
+                "word": "rhapsodize"
+            },
+            {
+                "id": "24864",
+                "link": "/find?type=3&query=rhapsody",
+                "word": "rhapsody"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77155",
+                "link": "/find?type=1&query=rhabdoid",
+                "word": "rhabdoid"
+            },
+            {
+                "id": "77156",
+                "link": "/find?type=1&query=rhabdoith",
+                "word": "rhabdoith"
+            },
+            {
+                "id": "77157",
+                "link": "/find?type=1&query=rhabdomancy",
+                "word": "rhabdomancy"
+            },
+            {
+                "id": "77158",
+                "link": "/find?type=1&query=rhabdome",
+                "word": "rhabdome"
+            },
+            {
+                "id": "77159",
+                "link": "/find?type=1&query=rhabdomere",
+                "word": "rhabdomere"
+            },
+            {
+                "id": "77160",
+                "link": "/find?type=1&query=rhamnaceous",
+                "word": "rhamnaceous"
+            },
+            {
+                "id": "77161",
+                "link": "/find?type=1&query=rhapsode",
+                "word": "rhapsode"
+            },
+            {
+                "id": "77162",
+                "link": "/find?type=1&query=rhapsodic",
+                "word": "rhapsodic"
+            },
+            {
+                "id": "77163",
+                "link": "/find?type=1&query=rhapsodical",
+                "word": "rhapsodical"
+            },
+            {
+                "id": "77164",
+                "link": "/find?type=1&query=rhapsodise",
+                "word": "rhapsodise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6623",
+                "link": "/find?type=4&query=rhapsodic",
+                "word": "rhapsodic"
+            }
+        ]
+    }
+}
