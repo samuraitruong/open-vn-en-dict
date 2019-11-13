@@ -1,1 +1,52 @@
-{"error": 0, "query": "penicil", "enViData": {"suggests": [{"id": "66266", "link": "/find?type=1&query=penicillamine", "word": "penicillamine"}, {"id": "66267", "link": "/find?type=1&query=penicillase", "word": "penicillase"}, {"id": "66268", "link": "/find?type=1&query=penicillate", "word": "penicillate"}, {"id": "66269", "link": "/find?type=1&query=penicilli", "word": "penicilli"}, {"id": "66270", "link": "/find?type=1&query=penicilliform", "word": "penicilliform"}, {"id": "66271", "link": "/find?type=1&query=penicillin", "word": "penicillin"}, {"id": "66272", "link": "/find?type=1&query=penicillium", "word": "penicillium"}]}, "mUrl": "/find?type=1&query=penicil", "enEnData": {"suggests": [{"id": "21302", "link": "/find?type=3&query=penicillin", "word": "penicillin"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21302",
+                "link": "/find?type=3&query=penicillin",
+                "word": "penicillin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66266",
+                "link": "/find?type=1&query=penicillamine",
+                "word": "penicillamine"
+            },
+            {
+                "id": "66267",
+                "link": "/find?type=1&query=penicillase",
+                "word": "penicillase"
+            },
+            {
+                "id": "66268",
+                "link": "/find?type=1&query=penicillate",
+                "word": "penicillate"
+            },
+            {
+                "id": "66269",
+                "link": "/find?type=1&query=penicilli",
+                "word": "penicilli"
+            },
+            {
+                "id": "66270",
+                "link": "/find?type=1&query=penicilliform",
+                "word": "penicilliform"
+            },
+            {
+                "id": "66271",
+                "link": "/find?type=1&query=penicillin",
+                "word": "penicillin"
+            },
+            {
+                "id": "66272",
+                "link": "/find?type=1&query=penicillium",
+                "word": "penicillium"
+            }
+        ]
+    }
+}

@@ -1,1 +1,39 @@
-{"error": 0, "query": "pendent", "enViData": {"suggests": [{"id": "66229", "link": "/find?type=1&query=pendentive", "word": "pendentive"}, {"id": "66229", "link": "/find?type=1&query=pendently", "word": "pendently"}], "best": {"id": "66229", "details": "\n<div id=\"find_word_66229\" class=\"world word_en\" rel=\"pendent\">\n    <h2 class=\"fl\">pendent <span class=\"color-black\">/'pend\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66229\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66229\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">treo, th\u00f5ng xu\u1ed1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=pendent", "word": "pendent"}}, "mUrl": "/find?type=1&query=pendent", "enEnData": {"suggests": [], "best": {"id": "21292", "details": "\n<div id=\"find_word_21292\" class=\"world word_en\" rel=\"pendent\">\n    <h2 class=\"fl\">pendent <span class=\"color-black\">/\u02c8p\u025bnd\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21292\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21292\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">or pendant</div>\n    \n    <div class=\"green margin25 m-top15\">formal :hanging down from above</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pendent light fixture</div>\n    \n</div>\n", "link": "/find?type=3&query=pendent", "word": "pendent"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">or pendant</div>\n    \n    <div class=\"green margin25 m-top15\">formal :hanging down from above</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a pendent light fixture</div>",
+            "id": "21292",
+            "mean": [],
+            "pronounce": "/\u02c8p\u025bnd\u0259nt/",
+            "type": "adjective",
+            "word": "pendent"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">treo, th\u00f5ng xu\u1ed1ng</div>",
+            "id": "66229",
+            "mean": [],
+            "pronounce": "/'pend\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f5dd1df493af774adc1215a51317ad11/16e62c1aa7e/P/pendent.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/aa3fb754d1f56c37fc981027c5b7c46c/16e62c1a48e/P/pendent.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "pendent"
+        },
+        "suggests": [
+            {
+                "id": "66229",
+                "link": "/find?type=1&query=pendentive",
+                "word": "pendentive"
+            },
+            {
+                "id": "66229",
+                "link": "/find?type=1&query=pendently",
+                "word": "pendently"
+            }
+        ]
+    }
+}

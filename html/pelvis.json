@@ -1,1 +1,44 @@
-{"error": 0, "query": "pelvis", "enViData": {"suggests": [{"id": "66173", "link": "/find?type=1&query=pelvisacral", "word": "pelvisacral"}, {"id": "66173", "link": "/find?type=1&query=pelvises", "word": "pelvises"}, {"id": "66173", "link": "/find?type=1&query=pelvisternum", "word": "pelvisternum"}], "best": {"id": "66173", "details": "\n<div id=\"find_word_66173\" class=\"world word_en\" rel=\"pelvis\">\n    <h2 class=\"fl\">pelvis <span class=\"color-black\">/'pelvis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66173\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66173\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u pelvises ho\u1eb7c pelvis /'pelvi:z/) (gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">khung ch\u1eadu; ch\u1eadu</div>\n    \n</div>\n", "link": "/find?type=1&query=pelvis", "word": "pelvis"}}, "mUrl": "/find?type=1&query=pelvis", "enEnData": {"suggests": [], "best": {"id": "21273", "details": "\n<div id=\"find_word_21273\" class=\"world word_en\" rel=\"pelvis\">\n    <h2 class=\"fl\">pelvis <span class=\"color-black\">/\u02c8p\u025blv\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21273\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21273\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vises</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the wide curved bones between the spine and the leg bones - see picture at human</div>\n    \n</div>\n", "link": "/find?type=3&query=pelvis", "word": "pelvis"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -vises</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :the wide curved bones between the spine and the leg bones - see picture at human</div>",
+            "id": "21273",
+            "mean": [],
+            "pronounce": "/\u02c8p\u025blv\u0259s/",
+            "type": "noun",
+            "word": "pelvis"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u pelvises ho\u1eb7c pelvis /'pelvi:z/) (gi\u1ea3i ph\u1eabu)</div>\n    \n    <div class=\"green margin25 m-top15\">khung ch\u1eadu; ch\u1eadu</div>",
+            "id": "66173",
+            "mean": [],
+            "pronounce": "/'pelvis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e79d0851055624f0afdb316a3947eb46/16e62c18d87/P/pelvis.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bed7ce208b40d9ee881dbaa942e58b99/16e62c187cb/P/pelvis.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pelvis"
+        },
+        "suggests": [
+            {
+                "id": "66173",
+                "link": "/find?type=1&query=pelvisacral",
+                "word": "pelvisacral"
+            },
+            {
+                "id": "66173",
+                "link": "/find?type=1&query=pelvises",
+                "word": "pelvises"
+            },
+            {
+                "id": "66173",
+                "link": "/find?type=1&query=pelvisternum",
+                "word": "pelvisternum"
+            }
+        ]
+    }
+}

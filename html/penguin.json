@@ -1,1 +1,28 @@
-{"error": 0, "query": "penguin", "enViData": {"suggests": [], "best": {"id": "66263", "details": "\n<div id=\"find_word_66263\" class=\"world word_en\" rel=\"penguin\">\n    <h2 class=\"fl\">penguin <span class=\"color-black\">/'pe\u03b7gwin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"66263\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"66263\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">chim c\u00e1nh c\u1ee5t</div>\n    \n</div>\n", "link": "/find?type=1&query=penguin", "word": "penguin"}}, "mUrl": "/find?type=1&query=penguin", "enEnData": {"suggests": [], "best": {"id": "21301", "details": "\n<div id=\"find_word_21301\" class=\"world word_en\" rel=\"penguin\">\n    <h2 class=\"fl\">penguin <span class=\"color-black\">/\u02c8p\u025b\u014bgw\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21301\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21301\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -guins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a black-and-white bird that cannot fly, that uses its wings for swimming, and that lives in or near the Antarctic</div>\n    \n</div>\n", "link": "/find?type=3&query=penguin", "word": "penguin"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -guins</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a black-and-white bird that cannot fly, that uses its wings for swimming, and that lives in or near the Antarctic</div>",
+            "id": "21301",
+            "mean": [],
+            "pronounce": "/\u02c8p\u025b\u014bgw\u0259n/",
+            "type": "noun",
+            "word": "penguin"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(\u0111\u1ed9ng v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">chim c\u00e1nh c\u1ee5t</div>",
+            "id": "66263",
+            "mean": [],
+            "pronounce": "/'pe\u03b7gwin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d7ecda4f3af0102946515e217c7a0d39/16e62c1c22d/P/penguin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b3c04244a0e983289c36788e533058c0/16e62c1bc48/P/penguin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "penguin"
+        },
+        "suggests": []
+    }
+}

@@ -1,1 +1,37 @@
-{"error": 0, "query": "pendens", "enViData": {"suggests": [{"id": "66228", "link": "/find?type=1&query=pendency", "word": "pendency"}, {"id": "66229", "link": "/find?type=1&query=pendent", "word": "pendent"}, {"id": "66230", "link": "/find?type=1&query=pendentive", "word": "pendentive"}, {"id": "66231", "link": "/find?type=1&query=pendently", "word": "pendently"}]}, "mUrl": "/find?type=1&query=pendens", "enEnData": {"suggests": [{"id": "21292", "link": "/find?type=3&query=pendent", "word": "pendent"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21292",
+                "link": "/find?type=3&query=pendent",
+                "word": "pendent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "66228",
+                "link": "/find?type=1&query=pendency",
+                "word": "pendency"
+            },
+            {
+                "id": "66229",
+                "link": "/find?type=1&query=pendent",
+                "word": "pendent"
+            },
+            {
+                "id": "66230",
+                "link": "/find?type=1&query=pendentive",
+                "word": "pendentive"
+            },
+            {
+                "id": "66231",
+                "link": "/find?type=1&query=pendently",
+                "word": "pendently"
+            }
+        ]
+    }
+}
