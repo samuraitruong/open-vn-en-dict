@@ -1,1 +1,32 @@
-{"error": 0, "query": "pusill", "enViData": {"suggests": [{"id": "73312", "link": "/find?type=1&query=pusillanimity", "word": "pusillanimity"}, {"id": "73313", "link": "/find?type=1&query=pusillanimous", "word": "pusillanimous"}, {"id": "73314", "link": "/find?type=1&query=pusillanimously", "word": "pusillanimously"}]}, "mUrl": "/find?type=1&query=pusill", "enEnData": {"suggests": [{"id": "23484", "link": "/find?type=3&query=pusillanimous", "word": "pusillanimous"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23484",
+                "link": "/find?type=3&query=pusillanimous",
+                "word": "pusillanimous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73312",
+                "link": "/find?type=1&query=pusillanimity",
+                "word": "pusillanimity"
+            },
+            {
+                "id": "73313",
+                "link": "/find?type=1&query=pusillanimous",
+                "word": "pusillanimous"
+            },
+            {
+                "id": "73314",
+                "link": "/find?type=1&query=pusillanimously",
+                "word": "pusillanimously"
+            }
+        ]
+    }
+}
