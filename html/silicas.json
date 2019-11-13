@@ -1,0 +1,45 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical that contains silicon, that is found in sand and quartz, and that is used to make glass</div>",
+            "id": "27015",
+            "mean": [],
+            "pronounce": "/\u02c8s\u026al\u026ak\u0259/",
+            "type": "noun",
+            "word": "silica"
+        },
+        "suggests": [
+            {
+                "id": "27015",
+                "link": "/find?type=3&query=silicate",
+                "word": "silicate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111ioxyt silic</div>",
+            "id": "83222",
+            "mean": [],
+            "pronounce": "/'silik\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c67428953fa437cb0c17c63eaffe28c1/16e63c0919a/S/silica.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1f7c31b76b578a68ee9fb98cc93ee1cc/16e63c0893b/S/silica.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "silica"
+        },
+        "suggests": [
+            {
+                "id": "83222",
+                "link": "/find?type=1&query=silicate",
+                "word": "silicate"
+            },
+            {
+                "id": "83222",
+                "link": "/find?type=1&query=silicated",
+                "word": "silicated"
+            }
+        ]
+    }
+}
