@@ -1,1 +1,27 @@
-{"error": 0, "query": "kv", "enViData": {"suggests": [{"id": "52111", "link": "/find?type=1&query=kvass", "word": "kvass"}, {"id": "52112", "link": "/find?type=1&query=kvetch", "word": "kvetch"}]}, "mUrl": "/find?type=1&query=kv", "enEnData": {"suggests": [{"id": "16060", "link": "/find?type=3&query=kvetch", "word": "kvetch"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16060",
+                "link": "/find?type=3&query=kvetch",
+                "word": "kvetch"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52111",
+                "link": "/find?type=1&query=kvass",
+                "word": "kvass"
+            },
+            {
+                "id": "52112",
+                "link": "/find?type=1&query=kvetch",
+                "word": "kvetch"
+            }
+        ]
+    }
+}

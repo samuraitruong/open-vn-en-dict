@@ -1,1 +1,22 @@
-{"error": 0, "query": "kung", "enViData": {"suggests": [{"id": "52101", "link": "/find?type=1&query=kungfu", "word": "kungfu"}]}, "mUrl": "/find?type=1&query=kung", "enEnData": {"suggests": [{"id": "16058", "link": "/find?type=3&query=kung+fu", "word": "kung fu"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16058",
+                "link": "/find?type=3&query=kung+fu",
+                "word": "kung fu"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52101",
+                "link": "/find?type=1&query=kungfu",
+                "word": "kungfu"
+            }
+        ]
+    }
+}

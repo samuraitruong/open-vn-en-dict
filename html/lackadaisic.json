@@ -1,1 +1,42 @@
-{"error": 0, "query": "lackadaisic", "enViData": {"suggests": [{"id": "52237", "link": "/find?type=1&query=lackadaisical", "word": "lackadaisical"}, {"id": "52238", "link": "/find?type=1&query=lackadaisically", "word": "lackadaisically"}, {"id": "52239", "link": "/find?type=1&query=lackadaisicalness", "word": "lackadaisicalness"}]}, "mUrl": "/find?type=1&query=lackadaisic", "enEnData": {"suggests": [{"id": "16091", "link": "/find?type=3&query=lackadaisical", "word": "lackadaisical"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4082", "link": "/find?type=4&query=lackadaisical", "word": "lackadaisical"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16091",
+                "link": "/find?type=3&query=lackadaisical",
+                "word": "lackadaisical"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52237",
+                "link": "/find?type=1&query=lackadaisical",
+                "word": "lackadaisical"
+            },
+            {
+                "id": "52238",
+                "link": "/find?type=1&query=lackadaisically",
+                "word": "lackadaisically"
+            },
+            {
+                "id": "52239",
+                "link": "/find?type=1&query=lackadaisicalness",
+                "word": "lackadaisicalness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4082",
+                "link": "/find?type=4&query=lackadaisical",
+                "word": "lackadaisical"
+            }
+        ]
+    }
+}

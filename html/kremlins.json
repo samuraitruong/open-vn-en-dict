@@ -1,1 +1,39 @@
-{"error": 0, "query": "kremlins", "enViData": {"suggests": [{"id": "52068", "link": "/find?type=1&query=kremlinologist", "word": "kremlinologist"}, {"id": "52068", "link": "/find?type=1&query=kremlinology", "word": "kremlinology"}], "best": {"id": "52068", "details": "\n<div id=\"find_word_52068\" class=\"world word_en\" rel=\"Kremlin\">\n    <h2 class=\"fl\">Kremlin <span class=\"color-black\">/'kremlin/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"52068\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"52068\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec7n Krem-linh</div>\n    \n    <div class=\"bold dot-blue m-top15\">the Kremlin</div>\n    \n    <div class=\"grey margin25 m-top15\">ch\u00ednh ph\u1ee7 Li\u00ean X\u00f4 (tr\u01b0\u1edbc \u0111\u00e2y)</div>\n    \n</div>\n", "link": "/find?type=1&query=Kremlin", "word": "Kremlin"}}, "mUrl": "/find?type=1&query=kremlins", "enEnData": {"suggests": [], "best": {"id": "16049", "details": "\n<div id=\"find_word_16049\" class=\"world word_en\" rel=\"Kremlin\">\n    <h2 class=\"fl\">Kremlin <span class=\"color-black\">/\u02c8kr\u025bml\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16049\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16049\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the Kremlin</div>\n    \n    <div class=\"grey margin25 m-top15\">the government of Russia and the former Soviet Union</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an announcement from the Kremlin also;  :the buildings of the Russian government in Moscow</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We visited the Kremlin when we traveled to Russia.</div>\n    \n</div>\n", "link": "/find?type=3&query=Kremlin", "word": "Kremlin"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the Kremlin</div>\n    \n    <div class=\"grey margin25 m-top15\">the government of Russia and the former Soviet Union</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">an announcement from the Kremlin also;  :the buildings of the Russian government in Moscow</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We visited the Kremlin when we traveled to Russia.</div>",
+            "id": "16049",
+            "mean": [],
+            "pronounce": "/\u02c8kr\u025bml\u0259n/",
+            "type": "noun",
+            "word": "Kremlin"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111i\u1ec7n Krem-linh</div>\n    \n    <div class=\"bold dot-blue m-top15\">the Kremlin</div>\n    \n    <div class=\"grey margin25 m-top15\">ch\u00ednh ph\u1ee7 Li\u00ean X\u00f4 (tr\u01b0\u1edbc \u0111\u00e2y)</div>",
+            "id": "52068",
+            "mean": [],
+            "pronounce": "/'kremlin/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d264e4fb6ced77a82a9d15316f9d3409/16e628b2f46/K/Kremlin.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2769b9329a0c2aca908f68168985d11d/16e628b2982/K/Kremlin.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Kremlin"
+        },
+        "suggests": [
+            {
+                "id": "52068",
+                "link": "/find?type=1&query=kremlinologist",
+                "word": "kremlinologist"
+            },
+            {
+                "id": "52068",
+                "link": "/find?type=1&query=kremlinology",
+                "word": "kremlinology"
+            }
+        ]
+    }
+}
