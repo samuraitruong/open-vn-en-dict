@@ -1,1 +1,32 @@
-{"error": 0, "query": "milline", "enViData": {"suggests": [{"id": "57773", "link": "/find?type=1&query=milliner", "word": "milliner"}, {"id": "57774", "link": "/find?type=1&query=millinery", "word": "millinery"}]}, "mUrl": "/find?type=1&query=milline", "enEnData": {"suggests": [{"id": "18185", "link": "/find?type=3&query=milliner", "word": "milliner"}, {"id": "18186", "link": "/find?type=3&query=millinery", "word": "millinery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18185",
+                "link": "/find?type=3&query=milliner",
+                "word": "milliner"
+            },
+            {
+                "id": "18186",
+                "link": "/find?type=3&query=millinery",
+                "word": "millinery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57773",
+                "link": "/find?type=1&query=milliner",
+                "word": "milliner"
+            },
+            {
+                "id": "57774",
+                "link": "/find?type=1&query=millinery",
+                "word": "millinery"
+            }
+        ]
+    }
+}

@@ -1,1 +1,22 @@
-{"error": 0, "query": "millimes", "enViData": {"suggests": [{"id": "57772", "link": "/find?type=1&query=millimetre", "word": "millimetre"}]}, "mUrl": "/find?type=1&query=millimes", "enEnData": {"suggests": [{"id": "18184", "link": "/find?type=3&query=millimeter", "word": "millimeter"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18184",
+                "link": "/find?type=3&query=millimeter",
+                "word": "millimeter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57772",
+                "link": "/find?type=1&query=millimetre",
+                "word": "millimetre"
+            }
+        ]
+    }
+}

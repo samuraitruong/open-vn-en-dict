@@ -1,1 +1,52 @@
-{"error": 0, "query": "mimi", "enViData": {"suggests": [{"id": "57799", "link": "/find?type=1&query=mimic", "word": "mimic"}, {"id": "57800", "link": "/find?type=1&query=mimicker", "word": "mimicker"}, {"id": "57801", "link": "/find?type=1&query=mimicry", "word": "mimicry"}, {"id": "57802", "link": "/find?type=1&query=miminy-piminy", "word": "miminy-piminy"}]}, "mUrl": "/find?type=1&query=mimi", "enEnData": {"suggests": [{"id": "18196", "link": "/find?type=3&query=mimic", "word": "mimic"}, {"id": "18197", "link": "/find?type=3&query=mimicry", "word": "mimicry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4558", "link": "/find?type=4&query=mimic", "word": "mimic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18196",
+                "link": "/find?type=3&query=mimic",
+                "word": "mimic"
+            },
+            {
+                "id": "18197",
+                "link": "/find?type=3&query=mimicry",
+                "word": "mimicry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57799",
+                "link": "/find?type=1&query=mimic",
+                "word": "mimic"
+            },
+            {
+                "id": "57800",
+                "link": "/find?type=1&query=mimicker",
+                "word": "mimicker"
+            },
+            {
+                "id": "57801",
+                "link": "/find?type=1&query=mimicry",
+                "word": "mimicry"
+            },
+            {
+                "id": "57802",
+                "link": "/find?type=1&query=miminy-piminy",
+                "word": "miminy-piminy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4558",
+                "link": "/find?type=4&query=mimic",
+                "word": "mimic"
+            }
+        ]
+    }
+}

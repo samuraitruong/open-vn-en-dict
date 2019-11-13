@@ -1,1 +1,72 @@
-{"error": 0, "query": "minima", "enViData": {"suggests": [{"id": "57873", "link": "/find?type=1&query=minimal", "word": "minimal"}, {"id": "57873", "link": "/find?type=1&query=minimalist", "word": "minimalist"}, {"id": "57873", "link": "/find?type=1&query=minimally", "word": "minimally"}, {"id": "57873", "link": "/find?type=1&query=minimax", "word": "minimax"}, {"id": "57873", "link": "/find?type=1&query=Minimax+regret", "word": "Minimax regret"}], "best": {"id": "57873", "details": "\n<div id=\"find_word_57873\" class=\"world word_en\" rel=\"minima\">\n    <h2 class=\"fl\">minima <span class=\"color-black\">/'minim\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57873\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57873\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"color-light-grey margin25\">s\u1ed1 nhi\u1ec1u c\u1ee7a minimum</div>\n    \n</div>\n", "link": "/find?type=1&query=minima", "word": "minima"}}, "mUrl": "/find?type=1&query=minima", "enEnData": {"suggests": [{"id": "18235", "link": "/find?type=3&query=minimal", "word": "minimal"}, {"id": "18235", "link": "/find?type=3&query=minimalist", "word": "minimalist"}], "best": {"id": "18235", "details": "\n<div id=\"find_word_18235\" class=\"world word_en\" rel=\"minima\">\n    <h2 class=\"fl\">minima <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18235\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18235\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">plural of 1minimum</div>\n    \n</div>\n", "link": "/find?type=3&query=minima", "word": "minima"}}, "ftype": "1", "synData": {"suggests": [{"id": "4567", "link": "/find?type=4&query=minimal", "word": "minimal"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">plural of 1minimum</div>",
+            "id": "18235",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "minima"
+        },
+        "suggests": [
+            {
+                "id": "18235",
+                "link": "/find?type=3&query=minimal",
+                "word": "minimal"
+            },
+            {
+                "id": "18235",
+                "link": "/find?type=3&query=minimalist",
+                "word": "minimalist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"color-light-grey margin25\">s\u1ed1 nhi\u1ec1u c\u1ee7a minimum</div>",
+            "id": "57873",
+            "mean": [],
+            "pronounce": "/'minim\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "minima"
+        },
+        "suggests": [
+            {
+                "id": "57873",
+                "link": "/find?type=1&query=minimal",
+                "word": "minimal"
+            },
+            {
+                "id": "57873",
+                "link": "/find?type=1&query=minimalist",
+                "word": "minimalist"
+            },
+            {
+                "id": "57873",
+                "link": "/find?type=1&query=minimally",
+                "word": "minimally"
+            },
+            {
+                "id": "57873",
+                "link": "/find?type=1&query=minimax",
+                "word": "minimax"
+            },
+            {
+                "id": "57873",
+                "link": "/find?type=1&query=Minimax+regret",
+                "word": "Minimax regret"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4567",
+                "link": "/find?type=4&query=minimal",
+                "word": "minimal"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "minimis", "enViData": {"suggests": [{"id": "57879", "link": "/find?type=1&query=minimise", "word": "minimise"}]}, "mUrl": "/find?type=1&query=minimis", "enEnData": {"suggests": [{"id": "18238", "link": "/find?type=3&query=minimize", "word": "minimize"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4568", "link": "/find?type=4&query=minimize", "word": "minimize"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18238",
+                "link": "/find?type=3&query=minimize",
+                "word": "minimize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57879",
+                "link": "/find?type=1&query=minimise",
+                "word": "minimise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4568",
+                "link": "/find?type=4&query=minimize",
+                "word": "minimize"
+            }
+        ]
+    }
+}
