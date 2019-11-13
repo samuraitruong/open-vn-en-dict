@@ -1,1 +1,54 @@
-{"error": 0, "query": "pistils", "enViData": {"suggests": [{"id": "68238", "link": "/find?type=1&query=pistillary", "word": "pistillary"}, {"id": "68238", "link": "/find?type=1&query=pistillate", "word": "pistillate"}, {"id": "68238", "link": "/find?type=1&query=pistillidium", "word": "pistillidium"}, {"id": "68238", "link": "/find?type=1&query=pistilliferous", "word": "pistilliferous"}, {"id": "68238", "link": "/find?type=1&query=pistillody", "word": "pistillody"}], "best": {"id": "68238", "details": "\n<div id=\"find_word_68238\" class=\"world word_en\" rel=\"pistil\">\n    <h2 class=\"fl\">pistil <span class=\"color-black\">/'pistl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68238\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68238\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1ee5y, nh\u1ecb c\u00e1i (hoa)</div>\n    \n</div>\n", "link": "/find?type=1&query=pistil", "word": "pistil"}}, "mUrl": "/find?type=1&query=pistils", "enEnData": {"suggests": [], "best": {"id": "21894", "details": "\n<div id=\"find_word_21894\" class=\"world word_en\" rel=\"pistil\">\n    <h2 class=\"fl\">pistil <span class=\"color-black\">/\u02c8p\u026astn\u0329/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21894\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21894\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tils</div>\n    \n    <div class=\"green margin25 m-top15\">[count] botany :the long central part of a flower that extends from the ovary - see picture at flower</div>\n    \n</div>\n", "link": "/find?type=3&query=pistil", "word": "pistil"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tils</div>\n    \n    <div class=\"green margin25 m-top15\">[count] botany :the long central part of a flower that extends from the ovary - see picture at flower</div>",
+            "id": "21894",
+            "mean": [],
+            "pronounce": "/\u02c8p\u026astn\u0329/",
+            "type": "noun",
+            "word": "pistil"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u1ef1c v\u1eadt)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1ee5y, nh\u1ecb c\u00e1i (hoa)</div>",
+            "id": "68238",
+            "mean": [],
+            "pronounce": "/'pistl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8fa3a682889e921146ee668ad51c80f0/16e62c93ace/P/pistil.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/94b95f2d95a67353b31e7886b2d20fcd/16e62c934f5/P/pistil.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pistil"
+        },
+        "suggests": [
+            {
+                "id": "68238",
+                "link": "/find?type=1&query=pistillary",
+                "word": "pistillary"
+            },
+            {
+                "id": "68238",
+                "link": "/find?type=1&query=pistillate",
+                "word": "pistillate"
+            },
+            {
+                "id": "68238",
+                "link": "/find?type=1&query=pistillidium",
+                "word": "pistillidium"
+            },
+            {
+                "id": "68238",
+                "link": "/find?type=1&query=pistilliferous",
+                "word": "pistilliferous"
+            },
+            {
+                "id": "68238",
+                "link": "/find?type=1&query=pistillody",
+                "word": "pistillody"
+            }
+        ]
+    }
+}

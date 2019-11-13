@@ -1,1 +1,110 @@
-{"error": 0, "query": "pist", "enViData": {"suggests": [{"id": "68233", "link": "/find?type=1&query=pistachio", "word": "pistachio"}, {"id": "68233", "link": "/find?type=1&query=pistachio+green", "word": "pistachio green"}, {"id": "68233", "link": "/find?type=1&query=pistachio+nut", "word": "pistachio nut"}, {"id": "68233", "link": "/find?type=1&query=piste", "word": "piste"}, {"id": "68233", "link": "/find?type=1&query=pistil", "word": "pistil"}, {"id": "68233", "link": "/find?type=1&query=pistillary", "word": "pistillary"}, {"id": "68233", "link": "/find?type=1&query=pistillate", "word": "pistillate"}, {"id": "68233", "link": "/find?type=1&query=pistillidium", "word": "pistillidium"}, {"id": "68233", "link": "/find?type=1&query=pistilliferous", "word": "pistilliferous"}], "best": {"id": "68233", "details": "\n<div id=\"find_word_68233\" class=\"world word_en\" rel=\"pist\">\n    <h2 class=\"fl\">pist <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68233\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68233\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tung t\u00edch</div>\n    \n</div>\n", "link": "/find?type=1&query=pist", "word": "pist"}}, "mUrl": "/find?type=1&query=pist", "enEnData": {"suggests": [{"id": "21892", "link": "/find?type=3&query=pistachio", "word": "pistachio"}, {"id": "21893", "link": "/find?type=3&query=piste", "word": "piste"}, {"id": "21894", "link": "/find?type=3&query=pistil", "word": "pistil"}, {"id": "21895", "link": "/find?type=3&query=pistol", "word": "pistol"}, {"id": "21896", "link": "/find?type=3&query=pistol-whip", "word": "pistol-whip"}, {"id": "21897", "link": "/find?type=3&query=piston", "word": "piston"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5548", "link": "/find?type=4&query=pistol", "word": "pistol"}, {"id": "5549", "link": "/find?type=4&query=piston", "word": "piston"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21892",
+                "link": "/find?type=3&query=pistachio",
+                "word": "pistachio"
+            },
+            {
+                "id": "21893",
+                "link": "/find?type=3&query=piste",
+                "word": "piste"
+            },
+            {
+                "id": "21894",
+                "link": "/find?type=3&query=pistil",
+                "word": "pistil"
+            },
+            {
+                "id": "21895",
+                "link": "/find?type=3&query=pistol",
+                "word": "pistol"
+            },
+            {
+                "id": "21896",
+                "link": "/find?type=3&query=pistol-whip",
+                "word": "pistol-whip"
+            },
+            {
+                "id": "21897",
+                "link": "/find?type=3&query=piston",
+                "word": "piston"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tung t\u00edch</div>",
+            "id": "68233",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "pist"
+        },
+        "suggests": [
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistachio",
+                "word": "pistachio"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistachio+green",
+                "word": "pistachio green"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistachio+nut",
+                "word": "pistachio nut"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=piste",
+                "word": "piste"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistil",
+                "word": "pistil"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistillary",
+                "word": "pistillary"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistillate",
+                "word": "pistillate"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistillidium",
+                "word": "pistillidium"
+            },
+            {
+                "id": "68233",
+                "link": "/find?type=1&query=pistilliferous",
+                "word": "pistilliferous"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5548",
+                "link": "/find?type=4&query=pistol",
+                "word": "pistol"
+            },
+            {
+                "id": "5549",
+                "link": "/find?type=4&query=piston",
+                "word": "piston"
+            }
+        ]
+    }
+}
