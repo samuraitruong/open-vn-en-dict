@@ -1,1 +1,32 @@
-{"error": 0, "query": "portman", "enViData": {"suggests": [{"id": "69927", "link": "/find?type=1&query=portmanteau", "word": "portmanteau"}, {"id": "69928", "link": "/find?type=1&query=portmanteau+word", "word": "portmanteau word"}, {"id": "69929", "link": "/find?type=1&query=portmanteaux", "word": "portmanteaux"}]}, "mUrl": "/find?type=1&query=portman", "enEnData": {"suggests": [{"id": "22413", "link": "/find?type=3&query=portmanteau", "word": "portmanteau"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22413",
+                "link": "/find?type=3&query=portmanteau",
+                "word": "portmanteau"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69927",
+                "link": "/find?type=1&query=portmanteau",
+                "word": "portmanteau"
+            },
+            {
+                "id": "69928",
+                "link": "/find?type=1&query=portmanteau+word",
+                "word": "portmanteau word"
+            },
+            {
+                "id": "69929",
+                "link": "/find?type=1&query=portmanteaux",
+                "word": "portmanteaux"
+            }
+        ]
+    }
+}

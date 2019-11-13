@@ -1,1 +1,45 @@
-{"error": 0, "query": "postmasters", "enViData": {"suggests": [{"id": "70050", "link": "/find?type=1&query=postmaster+general", "word": "postmaster general"}, {"id": "70050", "link": "/find?type=1&query=postmastership", "word": "postmastership"}], "best": {"id": "70050", "details": "\n<div id=\"find_word_70050\" class=\"world word_en\" rel=\"postmaster\">\n    <h2 class=\"fl\">postmaster <span class=\"color-black\">/'p\u0259\u028ast-m\u0251:st\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70050\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70050\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ed1ng postmistress)</div>\n    \n    <div class=\"green margin25 m-top15\">tr\u01b0\u1edfng ph\u00f2ng b\u01b0u \u0111i\u1ec7n; gi\u00e1m \u0111\u1ed1c b\u01b0u \u0111i\u1ec7n</div>\n    \n    <div class=\"bold dot-blue m-top15\">Postmaster General</div>\n    \n    <div class=\"grey margin25 m-top15\">b\u1ed9 tr\u01b0\u1edfng b\u01b0u \u0111i\u1ec7n</div>\n    \n</div>\n", "link": "/find?type=1&query=postmaster", "word": "postmaster"}}, "mUrl": "/find?type=1&query=postmasters", "enEnData": {"suggests": [{"id": "22482", "link": "/find?type=3&query=Postmaster+General", "word": "Postmaster General"}], "best": {"id": "22482", "details": "\n<div id=\"find_word_22482\" class=\"world word_en\" rel=\"postmaster\">\n    <h2 class=\"fl\">postmaster <span class=\"color-black\">/\u02c8po\u028ast\u02ccm\u00e6st\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8p\u0259\u028ast\u02ccm\u0251\u02d0st\u0259/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22482\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22482\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who is in charge of a post office</div>\n    \n</div>\n", "link": "/find?type=3&query=postmaster", "word": "postmaster"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ters</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who is in charge of a post office</div>",
+            "id": "22482",
+            "mean": [],
+            "pronounce": "/\u02c8po\u028ast\u02ccm\u00e6st\u025a/",
+            "type": "noun",
+            "word": "postmaster"
+        },
+        "suggests": [
+            {
+                "id": "22482",
+                "link": "/find?type=3&query=Postmaster+General",
+                "word": "Postmaster General"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(gi\u1ed1ng postmistress)</div>\n    \n    <div class=\"green margin25 m-top15\">tr\u01b0\u1edfng ph\u00f2ng b\u01b0u \u0111i\u1ec7n; gi\u00e1m \u0111\u1ed1c b\u01b0u \u0111i\u1ec7n</div>\n    \n    <div class=\"bold dot-blue m-top15\">Postmaster General</div>\n    \n    <div class=\"grey margin25 m-top15\">b\u1ed9 tr\u01b0\u1edfng b\u01b0u \u0111i\u1ec7n</div>",
+            "id": "70050",
+            "mean": [],
+            "pronounce": "/'p\u0259\u028ast-m\u0251:st\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/add555f393bd7c61675d188475a1e265/16e62cf0e2e/P/postmaster.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c544586ad6d66e5283382d5cd0c4bc51/16e62cf0870/P/postmaster.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "postmaster"
+        },
+        "suggests": [
+            {
+                "id": "70050",
+                "link": "/find?type=1&query=postmaster+general",
+                "word": "postmaster general"
+            },
+            {
+                "id": "70050",
+                "link": "/find?type=1&query=postmastership",
+                "word": "postmastership"
+            }
+        ]
+    }
+}

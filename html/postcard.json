@@ -1,1 +1,28 @@
-{"error": 0, "query": "postcard", "enViData": {"suggests": [], "best": {"id": "70023", "details": "\n<div id=\"find_word_70023\" class=\"world word_en\" rel=\"postcard\">\n    <h2 class=\"fl\">postcard <span class=\"color-black\">/'p\u0259\u028astk\u0251:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70023\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70023\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u01b0u thi\u1ebfp</div>\n    \n</div>\n", "link": "/find?type=1&query=postcard", "word": "postcard"}}, "mUrl": "/find?type=1&query=postcard", "enEnData": {"suggests": [], "best": {"id": "22461", "details": "\n<div id=\"find_word_22461\" class=\"world word_en\" rel=\"postcard\">\n    <h2 class=\"fl\">postcard <span class=\"color-black\">/\u02c8po\u028ast\u02cck\u0251\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22461\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22461\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cards</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a card on which a message may be sent by mail without an envelope and that often has a picture on one side - see picture at mail; see also picture postcard</div>\n    \n</div>\n", "link": "/find?type=3&query=postcard", "word": "postcard"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cards</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a card on which a message may be sent by mail without an envelope and that often has a picture on one side - see picture at mail; see also picture postcard</div>",
+            "id": "22461",
+            "mean": [],
+            "pronounce": "/\u02c8po\u028ast\u02cck\u0251\u025ad/",
+            "type": "noun",
+            "word": "postcard"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u01b0u thi\u1ebfp</div>",
+            "id": "70023",
+            "mean": [],
+            "pronounce": "/'p\u0259\u028astk\u0251:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b3c2316c809ad6dd1453d40b48d3476f/16e62ceda61/P/postcard.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/d3bffd8cf856a1193e59c4eb2fa2674e/16e62ced44b/P/postcard.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "postcard"
+        },
+        "suggests": []
+    }
+}

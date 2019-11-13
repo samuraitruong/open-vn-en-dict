@@ -1,1 +1,22 @@
-{"error": 0, "query": "postins", "enViData": {"suggests": [{"id": "70046", "link": "/find?type=1&query=posting", "word": "posting"}]}, "mUrl": "/find?type=1&query=postins", "enEnData": {"suggests": [{"id": "22478", "link": "/find?type=3&query=posting", "word": "posting"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22478",
+                "link": "/find?type=3&query=posting",
+                "word": "posting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70046",
+                "link": "/find?type=1&query=posting",
+                "word": "posting"
+            }
+        ]
+    }
+}

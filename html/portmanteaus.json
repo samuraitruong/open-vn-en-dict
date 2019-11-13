@@ -1,1 +1,39 @@
-{"error": 0, "query": "portmanteaus", "enViData": {"suggests": [{"id": "69927", "link": "/find?type=1&query=portmanteau+word", "word": "portmanteau word"}, {"id": "69927", "link": "/find?type=1&query=portmanteaux", "word": "portmanteaux"}], "best": {"id": "69927", "details": "\n<div id=\"find_word_69927\" class=\"world word_en\" rel=\"portmanteau\">\n    <h2 class=\"fl\">portmanteau <span class=\"color-black\">/p\u0254:t'm\u00e6nt\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69927\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69927\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u portmanteaus, portmanteaux) (c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">va-li (\u0111\u1ef1ng qu\u1ea7n \u00e1o)</div>\n    \n</div>\n", "link": "/find?type=1&query=portmanteau", "word": "portmanteau"}}, "mUrl": "/find?type=1&query=portmanteaus", "enEnData": {"suggests": [], "best": {"id": "22413", "details": "\n<div id=\"find_word_22413\" class=\"world word_en\" rel=\"portmanteau\">\n    <h2 class=\"fl\">portmanteau <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22413\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22413\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/po\u025at\u02c8m\u00e6nto\u028a/ , pl -teaus or -teaux /po\u025at\u02c8m\u00e6nto\u028az/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned :a large suitcase that opens into two parts</div>\n    \n</div>\n", "link": "/find?type=3&query=portmanteau", "word": "portmanteau"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/po\u025at\u02c8m\u00e6nto\u028a/ , pl -teaus or -teaux /po\u025at\u02c8m\u00e6nto\u028az/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned :a large suitcase that opens into two parts</div>",
+            "id": "22413",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "portmanteau"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u portmanteaus, portmanteaux) (c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">va-li (\u0111\u1ef1ng qu\u1ea7n \u00e1o)</div>",
+            "id": "69927",
+            "mean": [],
+            "pronounce": "/p\u0254:t'm\u00e6nt\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b82da84e6c2b400e38a76ac3a32a6c90/16e62ce9306/P/portmanteau.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5e3bb5935a988320aa862fb1b6d85e94/16e62ce8d4d/P/portmanteau.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "portmanteau"
+        },
+        "suggests": [
+            {
+                "id": "69927",
+                "link": "/find?type=1&query=portmanteau+word",
+                "word": "portmanteau word"
+            },
+            {
+                "id": "69927",
+                "link": "/find?type=1&query=portmanteaux",
+                "word": "portmanteaux"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "portio", "enViData": {"suggests": [{"id": "69918", "link": "/find?type=1&query=portion", "word": "portion"}, {"id": "69919", "link": "/find?type=1&query=portionable", "word": "portionable"}, {"id": "69920", "link": "/find?type=1&query=portioner", "word": "portioner"}, {"id": "69921", "link": "/find?type=1&query=portionless", "word": "portionless"}]}, "mUrl": "/find?type=1&query=portio", "enEnData": {"suggests": [{"id": "22411", "link": "/find?type=3&query=portion", "word": "portion"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5677", "link": "/find?type=4&query=portion", "word": "portion"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22411",
+                "link": "/find?type=3&query=portion",
+                "word": "portion"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69918",
+                "link": "/find?type=1&query=portion",
+                "word": "portion"
+            },
+            {
+                "id": "69919",
+                "link": "/find?type=1&query=portionable",
+                "word": "portionable"
+            },
+            {
+                "id": "69920",
+                "link": "/find?type=1&query=portioner",
+                "word": "portioner"
+            },
+            {
+                "id": "69921",
+                "link": "/find?type=1&query=portionless",
+                "word": "portionless"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5677",
+                "link": "/find?type=4&query=portion",
+                "word": "portion"
+            }
+        ]
+    }
+}
