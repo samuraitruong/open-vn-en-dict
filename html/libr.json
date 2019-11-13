@@ -1,1 +1,87 @@
-{"error": 0, "query": "libr", "enViData": {"suggests": [{"id": "53526", "link": "/find?type=1&query=Libra", "word": "Libra"}, {"id": "53527", "link": "/find?type=1&query=Libran", "word": "Libran"}, {"id": "53528", "link": "/find?type=1&query=librarian", "word": "librarian"}, {"id": "53529", "link": "/find?type=1&query=librarianship", "word": "librarianship"}, {"id": "53530", "link": "/find?type=1&query=library", "word": "library"}, {"id": "53531", "link": "/find?type=1&query=library+science", "word": "library science"}, {"id": "53532", "link": "/find?type=1&query=library+steps", "word": "library steps"}, {"id": "53533", "link": "/find?type=1&query=librate", "word": "librate"}, {"id": "53534", "link": "/find?type=1&query=libration", "word": "libration"}, {"id": "53535", "link": "/find?type=1&query=libratory", "word": "libratory"}]}, "mUrl": "/find?type=1&query=libr", "enEnData": {"suggests": [{"id": "16575", "link": "/find?type=3&query=Libra", "word": "Libra"}, {"id": "16576", "link": "/find?type=3&query=librarian", "word": "librarian"}, {"id": "16577", "link": "/find?type=3&query=library", "word": "library"}, {"id": "16578", "link": "/find?type=3&query=librettist", "word": "librettist"}, {"id": "16579", "link": "/find?type=3&query=libretto", "word": "libretto"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16575",
+                "link": "/find?type=3&query=Libra",
+                "word": "Libra"
+            },
+            {
+                "id": "16576",
+                "link": "/find?type=3&query=librarian",
+                "word": "librarian"
+            },
+            {
+                "id": "16577",
+                "link": "/find?type=3&query=library",
+                "word": "library"
+            },
+            {
+                "id": "16578",
+                "link": "/find?type=3&query=librettist",
+                "word": "librettist"
+            },
+            {
+                "id": "16579",
+                "link": "/find?type=3&query=libretto",
+                "word": "libretto"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53526",
+                "link": "/find?type=1&query=Libra",
+                "word": "Libra"
+            },
+            {
+                "id": "53527",
+                "link": "/find?type=1&query=Libran",
+                "word": "Libran"
+            },
+            {
+                "id": "53528",
+                "link": "/find?type=1&query=librarian",
+                "word": "librarian"
+            },
+            {
+                "id": "53529",
+                "link": "/find?type=1&query=librarianship",
+                "word": "librarianship"
+            },
+            {
+                "id": "53530",
+                "link": "/find?type=1&query=library",
+                "word": "library"
+            },
+            {
+                "id": "53531",
+                "link": "/find?type=1&query=library+science",
+                "word": "library science"
+            },
+            {
+                "id": "53532",
+                "link": "/find?type=1&query=library+steps",
+                "word": "library steps"
+            },
+            {
+                "id": "53533",
+                "link": "/find?type=1&query=librate",
+                "word": "librate"
+            },
+            {
+                "id": "53534",
+                "link": "/find?type=1&query=libration",
+                "word": "libration"
+            },
+            {
+                "id": "53535",
+                "link": "/find?type=1&query=libratory",
+                "word": "libratory"
+            }
+        ]
+    }
+}

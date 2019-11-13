@@ -1,1 +1,72 @@
-{"error": 0, "query": "lexic", "enViData": {"suggests": [{"id": "53451", "link": "/find?type=1&query=lexical", "word": "lexical"}, {"id": "53452", "link": "/find?type=1&query=lexical+meaning", "word": "lexical meaning"}, {"id": "53453", "link": "/find?type=1&query=lexically", "word": "lexically"}, {"id": "53454", "link": "/find?type=1&query=lexicographer", "word": "lexicographer"}, {"id": "53455", "link": "/find?type=1&query=Lexicographic+preferences", "word": "Lexicographic preferences"}, {"id": "53456", "link": "/find?type=1&query=lexicographic%28al%29", "word": "lexicographic(al)"}, {"id": "53457", "link": "/find?type=1&query=lexicographical", "word": "lexicographical"}, {"id": "53458", "link": "/find?type=1&query=lexicography", "word": "lexicography"}, {"id": "53459", "link": "/find?type=1&query=lexicological", "word": "lexicological"}, {"id": "53460", "link": "/find?type=1&query=lexicologist", "word": "lexicologist"}]}, "mUrl": "/find?type=1&query=lexic", "enEnData": {"suggests": [{"id": "16546", "link": "/find?type=3&query=lexical", "word": "lexical"}, {"id": "16547", "link": "/find?type=3&query=lexicon", "word": "lexicon"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16546",
+                "link": "/find?type=3&query=lexical",
+                "word": "lexical"
+            },
+            {
+                "id": "16547",
+                "link": "/find?type=3&query=lexicon",
+                "word": "lexicon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53451",
+                "link": "/find?type=1&query=lexical",
+                "word": "lexical"
+            },
+            {
+                "id": "53452",
+                "link": "/find?type=1&query=lexical+meaning",
+                "word": "lexical meaning"
+            },
+            {
+                "id": "53453",
+                "link": "/find?type=1&query=lexically",
+                "word": "lexically"
+            },
+            {
+                "id": "53454",
+                "link": "/find?type=1&query=lexicographer",
+                "word": "lexicographer"
+            },
+            {
+                "id": "53455",
+                "link": "/find?type=1&query=Lexicographic+preferences",
+                "word": "Lexicographic preferences"
+            },
+            {
+                "id": "53456",
+                "link": "/find?type=1&query=lexicographic%28al%29",
+                "word": "lexicographic(al)"
+            },
+            {
+                "id": "53457",
+                "link": "/find?type=1&query=lexicographical",
+                "word": "lexicographical"
+            },
+            {
+                "id": "53458",
+                "link": "/find?type=1&query=lexicography",
+                "word": "lexicography"
+            },
+            {
+                "id": "53459",
+                "link": "/find?type=1&query=lexicological",
+                "word": "lexicological"
+            },
+            {
+                "id": "53460",
+                "link": "/find?type=1&query=lexicologist",
+                "word": "lexicologist"
+            }
+        ]
+    }
+}

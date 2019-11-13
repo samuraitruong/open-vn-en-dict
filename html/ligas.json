@@ -1,1 +1,47 @@
-{"error": 0, "query": "ligas", "enViData": {"suggests": [{"id": "53667", "link": "/find?type=1&query=ligament", "word": "ligament"}, {"id": "53668", "link": "/find?type=1&query=ligamental", "word": "ligamental"}, {"id": "53669", "link": "/find?type=1&query=ligamentous", "word": "ligamentous"}, {"id": "53670", "link": "/find?type=1&query=ligate", "word": "ligate"}, {"id": "53671", "link": "/find?type=1&query=ligation", "word": "ligation"}, {"id": "53672", "link": "/find?type=1&query=ligature", "word": "ligature"}]}, "mUrl": "/find?type=1&query=ligas", "enEnData": {"suggests": [{"id": "16653", "link": "/find?type=3&query=ligament", "word": "ligament"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16653",
+                "link": "/find?type=3&query=ligament",
+                "word": "ligament"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53667",
+                "link": "/find?type=1&query=ligament",
+                "word": "ligament"
+            },
+            {
+                "id": "53668",
+                "link": "/find?type=1&query=ligamental",
+                "word": "ligamental"
+            },
+            {
+                "id": "53669",
+                "link": "/find?type=1&query=ligamentous",
+                "word": "ligamentous"
+            },
+            {
+                "id": "53670",
+                "link": "/find?type=1&query=ligate",
+                "word": "ligate"
+            },
+            {
+                "id": "53671",
+                "link": "/find?type=1&query=ligation",
+                "word": "ligation"
+            },
+            {
+                "id": "53672",
+                "link": "/find?type=1&query=ligature",
+                "word": "ligature"
+            }
+        ]
+    }
+}

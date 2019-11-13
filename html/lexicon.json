@@ -1,1 +1,28 @@
-{"error": 0, "query": "lexicon", "enViData": {"suggests": [], "best": {"id": "53462", "details": "\n<div id=\"find_word_53462\" class=\"world word_en\" rel=\"lexicon\">\n    <h2 class=\"fl\">lexicon <span class=\"color-black\">/'leksik\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53462\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53462\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb \u0111i\u1ec3n (\u0111\u1eb7c bi\u1ec7t l\u00e0 t\u1eeb \u0111i\u1ec3n c\u1ee7a m\u1ed9t ng\u00f4n ng\u1eef c\u1ed5, nh\u01b0 t\u1eeb \u0111i\u1ec3n Hy L\u1ea1p)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb v\u1ef1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=lexicon", "word": "lexicon"}}, "mUrl": "/find?type=1&query=lexicon", "enEnData": {"suggests": [], "best": {"id": "16547", "details": "\n<div id=\"find_word_16547\" class=\"world word_en\" rel=\"lexicon\">\n    <h2 class=\"fl\">lexicon <span class=\"color-black\">/\u02c8l\u025bks\u0259\u02cck\u0251\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8l\u025bks\u0259k\u0259n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16547\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16547\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the words used in a language or by a person or group of people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a computer term that has entered the general lexicon</div>\n    \n    <div class=\"green margin25 m-top15\">somewhat formal :dictionary</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a Latin lexicon</div>\n    \n</div>\n", "link": "/find?type=3&query=lexicon", "word": "lexicon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -cons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the words used in a language or by a person or group of people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a computer term that has entered the general lexicon</div>\n    \n    <div class=\"green margin25 m-top15\">somewhat formal :dictionary</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a Latin lexicon</div>",
+            "id": "16547",
+            "mean": [],
+            "pronounce": "/\u02c8l\u025bks\u0259\u02cck\u0251\u02d0n/",
+            "type": "noun",
+            "word": "lexicon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb \u0111i\u1ec3n (\u0111\u1eb7c bi\u1ec7t l\u00e0 t\u1eeb \u0111i\u1ec3n c\u1ee7a m\u1ed9t ng\u00f4n ng\u1eef c\u1ed5, nh\u01b0 t\u1eeb \u0111i\u1ec3n Hy L\u1ea1p)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1eeb v\u1ef1ng</div>",
+            "id": "53462",
+            "mean": [],
+            "pronounce": "/'leksik\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/33bfa1ad897b5c3e27cb8e4d4a9d8402/16e629029a1/L/lexicon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ff0c2e0cfc58e92e6e964f8e493c86e9/16e629023e2/L/lexicon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lexicon"
+        },
+        "suggests": []
+    }
+}

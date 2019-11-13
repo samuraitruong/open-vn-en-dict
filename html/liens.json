@@ -1,1 +1,33 @@
-{"error": 0, "query": "liens", "enViData": {"suggests": [{"id": "53593", "link": "/find?type=1&query=lienable", "word": "lienable"}], "best": {"id": "53593", "details": "\n<div id=\"find_word_53593\" class=\"world word_en\" rel=\"lien\">\n    <h2 class=\"fl\">lien <span class=\"color-black\">/'li:\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53593\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53593\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(lu\u1eadt)</div>\n    \n    <div class=\"bold dot-blue m-top15\">lien [on (upon) something]</div>\n    \n    <div class=\"grey margin25 m-top15\">quy\u1ec1n gi\u1eef v\u1eadt th\u1ebf n\u1ee3</div>\n    \n</div>\n", "link": "/find?type=1&query=lien", "word": "lien"}}, "mUrl": "/find?type=1&query=liens", "enEnData": {"suggests": [], "best": {"id": "16604", "details": "\n<div id=\"find_word_16604\" class=\"world word_en\" rel=\"lien\">\n    <h2 class=\"fl\">lien <span class=\"color-black\">/\u02c8li\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16604\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16604\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural liens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] law :a legal claim that someone or something has on the property of another person until a debt has been paid back</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bank had a lien on our house. [=the bank had the right to take our house if we did not pay back the money we had borrowed to buy it]</div>\n    \n</div>\n", "link": "/find?type=3&query=lien", "word": "lien"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural liens</div>\n    \n    <div class=\"green margin25 m-top15\">[count] law :a legal claim that someone or something has on the property of another person until a debt has been paid back</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The bank had a lien on our house. [=the bank had the right to take our house if we did not pay back the money we had borrowed to buy it]</div>",
+            "id": "16604",
+            "mean": [],
+            "pronounce": "/\u02c8li\u02d0n/",
+            "type": "noun",
+            "word": "lien"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(lu\u1eadt)</div>\n    \n    <div class=\"bold dot-blue m-top15\">lien [on (upon) something]</div>\n    \n    <div class=\"grey margin25 m-top15\">quy\u1ec1n gi\u1eef v\u1eadt th\u1ebf n\u1ee3</div>",
+            "id": "53593",
+            "mean": [],
+            "pronounce": "/'li:\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/828b7eba8a7613149f359afb21b4df70/16e6290a908/L/lien.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lien"
+        },
+        "suggests": [
+            {
+                "id": "53593",
+                "link": "/find?type=1&query=lienable",
+                "word": "lienable"
+            }
+        ]
+    }
+}
