@@ -1,1 +1,22 @@
-{"error": 0, "query": "novem", "enViData": {"suggests": [{"id": "61127", "link": "/find?type=1&query=November", "word": "November"}]}, "mUrl": "/find?type=1&query=novem", "enEnData": {"suggests": [{"id": "19621", "link": "/find?type=3&query=November", "word": "November"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19621",
+                "link": "/find?type=3&query=November",
+                "word": "November"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61127",
+                "link": "/find?type=1&query=November",
+                "word": "November"
+            }
+        ]
+    }
+}

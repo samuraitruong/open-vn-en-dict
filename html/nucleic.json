@@ -1,1 +1,22 @@
-{"error": 0, "query": "nucleic", "enViData": {"suggests": [{"id": "61183", "link": "/find?type=1&query=nucleic+acid", "word": "nucleic acid"}]}, "mUrl": "/find?type=1&query=nucleic", "enEnData": {"suggests": [{"id": "19650", "link": "/find?type=3&query=nucleic+acid", "word": "nucleic acid"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19650",
+                "link": "/find?type=3&query=nucleic+acid",
+                "word": "nucleic acid"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "61183",
+                "link": "/find?type=1&query=nucleic+acid",
+                "word": "nucleic acid"
+            }
+        ]
+    }
+}
