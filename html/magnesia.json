@@ -1,1 +1,34 @@
-{"error": 0, "query": "magnesia", "enViData": {"suggests": [{"id": "55418", "link": "/find?type=1&query=magnesian", "word": "magnesian"}], "best": {"id": "55418", "details": "\n<div id=\"find_word_55418\" class=\"world word_en\" rel=\"magnesia\">\n    <h2 class=\"fl\">magnesia <span class=\"color-black\">/m\u00e6g'ni:\u222b\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55418\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55418\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a, y)</div>\n    \n    <div class=\"green margin25 m-top15\">magi\u00ea oxyt</div>\n    \n</div>\n", "link": "/find?type=1&query=magnesia", "word": "magnesia"}}, "mUrl": "/find?type=1&query=magnesia", "enEnData": {"suggests": [], "best": {"id": "17296", "details": "\n<div id=\"find_word_17296\" class=\"world word_en\" rel=\"magnesia\">\n    <h2 class=\"fl\">magnesia <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17296\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17296\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">see milk of magnesia</div>\n    \n</div>\n", "link": "/find?type=3&query=magnesia", "word": "magnesia"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">see milk of magnesia</div>",
+            "id": "17296",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "magnesia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a, y)</div>\n    \n    <div class=\"green margin25 m-top15\">magi\u00ea oxyt</div>",
+            "id": "55418",
+            "mean": [],
+            "pronounce": "/m\u00e6g'ni:\u222b\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7db0256ea607d15ff597b950822ff78c/16e62963670/M/magnesia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cdd27efb77ec023536ffa1545692b3b6/16e62963093/M/magnesia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "magnesia"
+        },
+        "suggests": [
+            {
+                "id": "55418",
+                "link": "/find?type=1&query=magnesian",
+                "word": "magnesian"
+            }
+        ]
+    }
+}

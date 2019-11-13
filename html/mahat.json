@@ -1,1 +1,22 @@
-{"error": 0, "query": "mahat", "enViData": {"suggests": [{"id": "55493", "link": "/find?type=1&query=mahatma", "word": "mahatma"}]}, "mUrl": "/find?type=1&query=mahat", "enEnData": {"suggests": [{"id": "17319", "link": "/find?type=3&query=mahatma", "word": "mahatma"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17319",
+                "link": "/find?type=3&query=mahatma",
+                "word": "mahatma"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55493",
+                "link": "/find?type=1&query=mahatma",
+                "word": "mahatma"
+            }
+        ]
+    }
+}

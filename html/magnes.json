@@ -1,1 +1,62 @@
-{"error": 0, "query": "magnes", "enViData": {"suggests": [{"id": "55418", "link": "/find?type=1&query=magnesia", "word": "magnesia"}, {"id": "55419", "link": "/find?type=1&query=magnesian", "word": "magnesian"}, {"id": "55420", "link": "/find?type=1&query=magnesic", "word": "magnesic"}, {"id": "55421", "link": "/find?type=1&query=magnesite", "word": "magnesite"}, {"id": "55422", "link": "/find?type=1&query=magnesium", "word": "magnesium"}]}, "mUrl": "/find?type=1&query=magnes", "enEnData": {"suggests": [{"id": "17296", "link": "/find?type=3&query=magnesia", "word": "magnesia"}, {"id": "17297", "link": "/find?type=3&query=magnesium", "word": "magnesium"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4357", "link": "/find?type=4&query=magnetic", "word": "magnetic"}, {"id": "4358", "link": "/find?type=4&query=magnetism", "word": "magnetism"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17296",
+                "link": "/find?type=3&query=magnesia",
+                "word": "magnesia"
+            },
+            {
+                "id": "17297",
+                "link": "/find?type=3&query=magnesium",
+                "word": "magnesium"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55418",
+                "link": "/find?type=1&query=magnesia",
+                "word": "magnesia"
+            },
+            {
+                "id": "55419",
+                "link": "/find?type=1&query=magnesian",
+                "word": "magnesian"
+            },
+            {
+                "id": "55420",
+                "link": "/find?type=1&query=magnesic",
+                "word": "magnesic"
+            },
+            {
+                "id": "55421",
+                "link": "/find?type=1&query=magnesite",
+                "word": "magnesite"
+            },
+            {
+                "id": "55422",
+                "link": "/find?type=1&query=magnesium",
+                "word": "magnesium"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4357",
+                "link": "/find?type=4&query=magnetic",
+                "word": "magnetic"
+            },
+            {
+                "id": "4358",
+                "link": "/find?type=4&query=magnetism",
+                "word": "magnetism"
+            }
+        ]
+    }
+}

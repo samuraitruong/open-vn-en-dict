@@ -1,1 +1,62 @@
-{"error": 0, "query": "mae", "enViData": {"suggests": [{"id": "55355", "link": "/find?type=1&query=mae+west", "word": "mae west"}, {"id": "55356", "link": "/find?type=1&query=maecenas", "word": "maecenas"}, {"id": "55357", "link": "/find?type=1&query=maelstrom", "word": "maelstrom"}, {"id": "55358", "link": "/find?type=1&query=maenad", "word": "maenad"}, {"id": "55359", "link": "/find?type=1&query=maenadic", "word": "maenadic"}, {"id": "55360", "link": "/find?type=1&query=maestoso", "word": "maestoso"}, {"id": "55361", "link": "/find?type=1&query=maestri", "word": "maestri"}, {"id": "55362", "link": "/find?type=1&query=maestro", "word": "maestro"}]}, "mUrl": "/find?type=1&query=mae", "enEnData": {"suggests": [{"id": "17274", "link": "/find?type=3&query=maelstrom", "word": "maelstrom"}, {"id": "17275", "link": "/find?type=3&query=maestro", "word": "maestro"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17274",
+                "link": "/find?type=3&query=maelstrom",
+                "word": "maelstrom"
+            },
+            {
+                "id": "17275",
+                "link": "/find?type=3&query=maestro",
+                "word": "maestro"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55355",
+                "link": "/find?type=1&query=mae+west",
+                "word": "mae west"
+            },
+            {
+                "id": "55356",
+                "link": "/find?type=1&query=maecenas",
+                "word": "maecenas"
+            },
+            {
+                "id": "55357",
+                "link": "/find?type=1&query=maelstrom",
+                "word": "maelstrom"
+            },
+            {
+                "id": "55358",
+                "link": "/find?type=1&query=maenad",
+                "word": "maenad"
+            },
+            {
+                "id": "55359",
+                "link": "/find?type=1&query=maenadic",
+                "word": "maenadic"
+            },
+            {
+                "id": "55360",
+                "link": "/find?type=1&query=maestoso",
+                "word": "maestoso"
+            },
+            {
+                "id": "55361",
+                "link": "/find?type=1&query=maestri",
+                "word": "maestri"
+            },
+            {
+                "id": "55362",
+                "link": "/find?type=1&query=maestro",
+                "word": "maestro"
+            }
+        ]
+    }
+}

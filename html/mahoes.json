@@ -1,1 +1,32 @@
-{"error": 0, "query": "mahoes", "enViData": {"suggests": [{"id": "55497", "link": "/find?type=1&query=mahogany", "word": "mahogany"}, {"id": "55498", "link": "/find?type=1&query=mahometan", "word": "mahometan"}, {"id": "55499", "link": "/find?type=1&query=mahout", "word": "mahout"}]}, "mUrl": "/find?type=1&query=mahoes", "enEnData": {"suggests": [{"id": "17321", "link": "/find?type=3&query=mahogany", "word": "mahogany"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17321",
+                "link": "/find?type=3&query=mahogany",
+                "word": "mahogany"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55497",
+                "link": "/find?type=1&query=mahogany",
+                "word": "mahogany"
+            },
+            {
+                "id": "55498",
+                "link": "/find?type=1&query=mahometan",
+                "word": "mahometan"
+            },
+            {
+                "id": "55499",
+                "link": "/find?type=1&query=mahout",
+                "word": "mahout"
+            }
+        ]
+    }
+}

@@ -1,1 +1,38 @@
-{"error": 0, "query": "magnum", "enViData": {"suggests": [{"id": "55477", "link": "/find?type=1&query=magnum+bonum", "word": "magnum bonum"}, {"id": "55477", "link": "/find?type=1&query=magnum+opus", "word": "magnum opus"}], "best": {"id": "55477", "details": "\n<div id=\"find_word_55477\" class=\"world word_en\" rel=\"magnum\">\n    <h2 class=\"fl\">magnum <span class=\"color-black\">/'m\u00e6gn\u0259m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55477\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55477\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chai \u0111\u1ea1i (chai ch\u1ee9a 1,5 l\u00edt r\u01b0\u1ee3u)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a magnum of champagne</div>\n    \n    <div class=\"margin25\">m\u1ed9t chai \u0111\u1ea1i s\u00e2m banh</div>\n    \n</div>\n", "link": "/find?type=1&query=magnum", "word": "magnum"}}, "mUrl": "/find?type=1&query=magnum", "enEnData": {"suggests": [{"id": "17315", "link": "/find?type=3&query=magnum+opus", "word": "magnum opus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17315",
+                "link": "/find?type=3&query=magnum+opus",
+                "word": "magnum opus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chai \u0111\u1ea1i (chai ch\u1ee9a 1,5 l\u00edt r\u01b0\u1ee3u)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a magnum of champagne</div>\n    \n    <div class=\"margin25\">m\u1ed9t chai \u0111\u1ea1i s\u00e2m banh</div>",
+            "id": "55477",
+            "mean": [],
+            "pronounce": "/'m\u00e6gn\u0259m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ebe2cdaaf5f0f49e522d4b15ef8bab37/16e62965d10/M/magnum.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2529c52c34ab9a69523005ce1ea5bcfe/16e62965756/M/magnum.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "magnum"
+        },
+        "suggests": [
+            {
+                "id": "55477",
+                "link": "/find?type=1&query=magnum+bonum",
+                "word": "magnum bonum"
+            },
+            {
+                "id": "55477",
+                "link": "/find?type=1&query=magnum+opus",
+                "word": "magnum opus"
+            }
+        ]
+    }
+}

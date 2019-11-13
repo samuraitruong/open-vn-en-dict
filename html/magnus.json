@@ -1,1 +1,32 @@
-{"error": 0, "query": "magnus", "enViData": {"suggests": [{"id": "55477", "link": "/find?type=1&query=magnum", "word": "magnum"}, {"id": "55478", "link": "/find?type=1&query=magnum+bonum", "word": "magnum bonum"}, {"id": "55479", "link": "/find?type=1&query=magnum+opus", "word": "magnum opus"}]}, "mUrl": "/find?type=1&query=magnus", "enEnData": {"suggests": [{"id": "17315", "link": "/find?type=3&query=magnum+opus", "word": "magnum opus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17315",
+                "link": "/find?type=3&query=magnum+opus",
+                "word": "magnum opus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55477",
+                "link": "/find?type=1&query=magnum",
+                "word": "magnum"
+            },
+            {
+                "id": "55478",
+                "link": "/find?type=1&query=magnum+bonum",
+                "word": "magnum bonum"
+            },
+            {
+                "id": "55479",
+                "link": "/find?type=1&query=magnum+opus",
+                "word": "magnum opus"
+            }
+        ]
+    }
+}

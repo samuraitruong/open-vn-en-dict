@@ -1,1 +1,77 @@
-{"error": 0, "query": "maha", "enViData": {"suggests": [{"id": "55486", "link": "/find?type=1&query=mahabharata", "word": "mahabharata"}, {"id": "55487", "link": "/find?type=1&query=maharaja", "word": "maharaja"}, {"id": "55488", "link": "/find?type=1&query=maharaja%5Bh%5D", "word": "maharaja[h]"}, {"id": "55489", "link": "/find?type=1&query=maharanee", "word": "maharanee"}, {"id": "55490", "link": "/find?type=1&query=maharani", "word": "maharani"}, {"id": "55491", "link": "/find?type=1&query=maharani%2C+maharanee", "word": "maharani, maharanee"}, {"id": "55492", "link": "/find?type=1&query=maharishi", "word": "maharishi"}, {"id": "55493", "link": "/find?type=1&query=mahatma", "word": "mahatma"}, {"id": "55494", "link": "/find?type=1&query=mahayana", "word": "mahayana"}, {"id": "55495", "link": "/find?type=1&query=mahayanist", "word": "mahayanist"}]}, "mUrl": "/find?type=1&query=maha", "enEnData": {"suggests": [{"id": "17317", "link": "/find?type=3&query=maharaja", "word": "maharaja"}, {"id": "17318", "link": "/find?type=3&query=maharani", "word": "maharani"}, {"id": "17319", "link": "/find?type=3&query=mahatma", "word": "mahatma"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17317",
+                "link": "/find?type=3&query=maharaja",
+                "word": "maharaja"
+            },
+            {
+                "id": "17318",
+                "link": "/find?type=3&query=maharani",
+                "word": "maharani"
+            },
+            {
+                "id": "17319",
+                "link": "/find?type=3&query=mahatma",
+                "word": "mahatma"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55486",
+                "link": "/find?type=1&query=mahabharata",
+                "word": "mahabharata"
+            },
+            {
+                "id": "55487",
+                "link": "/find?type=1&query=maharaja",
+                "word": "maharaja"
+            },
+            {
+                "id": "55488",
+                "link": "/find?type=1&query=maharaja%5Bh%5D",
+                "word": "maharaja[h]"
+            },
+            {
+                "id": "55489",
+                "link": "/find?type=1&query=maharanee",
+                "word": "maharanee"
+            },
+            {
+                "id": "55490",
+                "link": "/find?type=1&query=maharani",
+                "word": "maharani"
+            },
+            {
+                "id": "55491",
+                "link": "/find?type=1&query=maharani%2C+maharanee",
+                "word": "maharani, maharanee"
+            },
+            {
+                "id": "55492",
+                "link": "/find?type=1&query=maharishi",
+                "word": "maharishi"
+            },
+            {
+                "id": "55493",
+                "link": "/find?type=1&query=mahatma",
+                "word": "mahatma"
+            },
+            {
+                "id": "55494",
+                "link": "/find?type=1&query=mahayana",
+                "word": "mahayana"
+            },
+            {
+                "id": "55495",
+                "link": "/find?type=1&query=mahayanist",
+                "word": "mahayanist"
+            }
+        ]
+    }
+}

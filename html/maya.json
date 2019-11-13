@@ -1,1 +1,31 @@
-{"error": 0, "query": "maya", "enViData": {"suggests": [{"id": "56628", "link": "/find?type=1&query=mayan", "word": "mayan"}], "best": {"id": "56628", "details": "\n<div id=\"find_word_56628\" class=\"world word_en\" rel=\"maya\">\n    <h2 class=\"fl\">maya <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"56628\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"56628\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ebf gi\u1edbi v\u1eadt ch\u1ea5t tri gi\u00e1c \u0111\u01b0\u1ee3c (\u1ea5n \u0110\u1ed9 gi\u00e1o cho n\u00f3 l\u00e0 \u1ea3o t\u01b0\u1edfng che gi\u1ea5u s\u1ef1 t\u1ed3n t\u1ea1i tuy\u1ec7t \u0111\u1ed1i)</div>\n    \n</div>\n", "link": "/find?type=1&query=maya", "word": "maya"}}, "mUrl": "/find?type=1&query=maya", "enEnData": {"suggests": [], "best": {"id": "17733", "details": "\n<div id=\"find_word_17733\" class=\"world word_en\" rel=\"Maya\">\n    <h2 class=\"fl\">Maya <span class=\"color-black\">/\u02c8maj\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17733\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17733\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Maya or Mayas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of a group of people living mostly in southern Mexico and Guatemala</div>\n    \n</div>\n", "link": "/find?type=3&query=Maya", "word": "Maya"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Maya or Mayas</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of a group of people living mostly in southern Mexico and Guatemala</div>",
+            "id": "17733",
+            "mean": [],
+            "pronounce": "/\u02c8maj\u0259/",
+            "type": "noun",
+            "word": "Maya"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ebf gi\u1edbi v\u1eadt ch\u1ea5t tri gi\u00e1c \u0111\u01b0\u1ee3c (\u1ea5n \u0110\u1ed9 gi\u00e1o cho n\u00f3 l\u00e0 \u1ea3o t\u01b0\u1edfng che gi\u1ea5u s\u1ef1 t\u1ed3n t\u1ea1i tuy\u1ec7t \u0111\u1ed1i)</div>",
+            "id": "56628",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "maya"
+        },
+        "suggests": [
+            {
+                "id": "56628",
+                "link": "/find?type=1&query=mayan",
+                "word": "mayan"
+            }
+        ]
+    }
+}

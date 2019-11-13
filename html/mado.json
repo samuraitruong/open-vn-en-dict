@@ -1,1 +1,27 @@
-{"error": 0, "query": "mado", "enViData": {"suggests": [{"id": "55346", "link": "/find?type=1&query=Madonna", "word": "Madonna"}, {"id": "55347", "link": "/find?type=1&query=madonna+lily", "word": "madonna lily"}]}, "mUrl": "/find?type=1&query=mado", "enEnData": {"suggests": [{"id": "17271", "link": "/find?type=3&query=Madonna", "word": "Madonna"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17271",
+                "link": "/find?type=3&query=Madonna",
+                "word": "Madonna"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55346",
+                "link": "/find?type=1&query=Madonna",
+                "word": "Madonna"
+            },
+            {
+                "id": "55347",
+                "link": "/find?type=1&query=madonna+lily",
+                "word": "madonna lily"
+            }
+        ]
+    }
+}

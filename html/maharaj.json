@@ -1,1 +1,27 @@
-{"error": 0, "query": "maharaj", "enViData": {"suggests": [{"id": "55487", "link": "/find?type=1&query=maharaja", "word": "maharaja"}, {"id": "55488", "link": "/find?type=1&query=maharaja%5Bh%5D", "word": "maharaja[h]"}]}, "mUrl": "/find?type=1&query=maharaj", "enEnData": {"suggests": [{"id": "17317", "link": "/find?type=3&query=maharaja", "word": "maharaja"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17317",
+                "link": "/find?type=3&query=maharaja",
+                "word": "maharaja"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55487",
+                "link": "/find?type=1&query=maharaja",
+                "word": "maharaja"
+            },
+            {
+                "id": "55488",
+                "link": "/find?type=1&query=maharaja%5Bh%5D",
+                "word": "maharaja[h]"
+            }
+        ]
+    }
+}
