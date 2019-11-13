@@ -1,1 +1,52 @@
-{"error": 0, "query": "pizz", "enViData": {"suggests": [{"id": "68348", "link": "/find?type=1&query=pizza", "word": "pizza"}, {"id": "68349", "link": "/find?type=1&query=pizzazz", "word": "pizzazz"}, {"id": "68350", "link": "/find?type=1&query=pizzicato", "word": "pizzicato"}, {"id": "68351", "link": "/find?type=1&query=pizzle", "word": "pizzle"}]}, "mUrl": "/find?type=1&query=pizz", "enEnData": {"suggests": [{"id": "21941", "link": "/find?type=3&query=pizza", "word": "pizza"}, {"id": "21942", "link": "/find?type=3&query=pizzazz", "word": "pizzazz"}, {"id": "21943", "link": "/find?type=3&query=pizzeria", "word": "pizzeria"}, {"id": "21944", "link": "/find?type=3&query=pizzicato", "word": "pizzicato"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21941",
+                "link": "/find?type=3&query=pizza",
+                "word": "pizza"
+            },
+            {
+                "id": "21942",
+                "link": "/find?type=3&query=pizzazz",
+                "word": "pizzazz"
+            },
+            {
+                "id": "21943",
+                "link": "/find?type=3&query=pizzeria",
+                "word": "pizzeria"
+            },
+            {
+                "id": "21944",
+                "link": "/find?type=3&query=pizzicato",
+                "word": "pizzicato"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68348",
+                "link": "/find?type=1&query=pizza",
+                "word": "pizza"
+            },
+            {
+                "id": "68349",
+                "link": "/find?type=1&query=pizzazz",
+                "word": "pizzazz"
+            },
+            {
+                "id": "68350",
+                "link": "/find?type=1&query=pizzicato",
+                "word": "pizzicato"
+            },
+            {
+                "id": "68351",
+                "link": "/find?type=1&query=pizzle",
+                "word": "pizzle"
+            }
+        ]
+    }
+}

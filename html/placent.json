@@ -1,1 +1,62 @@
-{"error": 0, "query": "placent", "enViData": {"suggests": [{"id": "68383", "link": "/find?type=1&query=placenta", "word": "placenta"}, {"id": "68384", "link": "/find?type=1&query=placentae", "word": "placentae"}, {"id": "68385", "link": "/find?type=1&query=placental", "word": "placental"}, {"id": "68386", "link": "/find?type=1&query=placentalia", "word": "placentalia"}, {"id": "68387", "link": "/find?type=1&query=placentate", "word": "placentate"}, {"id": "68388", "link": "/find?type=1&query=placentation", "word": "placentation"}, {"id": "68389", "link": "/find?type=1&query=placentiferous", "word": "placentiferous"}, {"id": "68390", "link": "/find?type=1&query=placentigerous", "word": "placentigerous"}, {"id": "68391", "link": "/find?type=1&query=placentitis", "word": "placentitis"}]}, "mUrl": "/find?type=1&query=placent", "enEnData": {"suggests": [{"id": "21959", "link": "/find?type=3&query=placenta", "word": "placenta"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21959",
+                "link": "/find?type=3&query=placenta",
+                "word": "placenta"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68383",
+                "link": "/find?type=1&query=placenta",
+                "word": "placenta"
+            },
+            {
+                "id": "68384",
+                "link": "/find?type=1&query=placentae",
+                "word": "placentae"
+            },
+            {
+                "id": "68385",
+                "link": "/find?type=1&query=placental",
+                "word": "placental"
+            },
+            {
+                "id": "68386",
+                "link": "/find?type=1&query=placentalia",
+                "word": "placentalia"
+            },
+            {
+                "id": "68387",
+                "link": "/find?type=1&query=placentate",
+                "word": "placentate"
+            },
+            {
+                "id": "68388",
+                "link": "/find?type=1&query=placentation",
+                "word": "placentation"
+            },
+            {
+                "id": "68389",
+                "link": "/find?type=1&query=placentiferous",
+                "word": "placentiferous"
+            },
+            {
+                "id": "68390",
+                "link": "/find?type=1&query=placentigerous",
+                "word": "placentigerous"
+            },
+            {
+                "id": "68391",
+                "link": "/find?type=1&query=placentitis",
+                "word": "placentitis"
+            }
+        ]
+    }
+}

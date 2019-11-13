@@ -1,1 +1,75 @@
-{"error": 0, "query": "pixes", "enViData": {"suggests": [{"id": "68341", "link": "/find?type=1&query=pixel", "word": "pixel"}, {"id": "68341", "link": "/find?type=1&query=pixie", "word": "pixie"}, {"id": "68341", "link": "/find?type=1&query=pixilated", "word": "pixilated"}, {"id": "68341", "link": "/find?type=1&query=pixilation", "word": "pixilation"}, {"id": "68341", "link": "/find?type=1&query=pixy", "word": "pixy"}, {"id": "68341", "link": "/find?type=1&query=pixyish", "word": "pixyish"}], "best": {"id": "68341", "details": "\n<div id=\"find_word_68341\" class=\"world word_en\" rel=\"pix\">\n    <h2 class=\"fl\">pix <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68341\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68341\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u</div>\n    \n    <div class=\"green margin25 m-top15\">(M\u1ef9) nh\u1eefng b\u1ee9c tranh</div>\n    \n</div>\n", "link": "/find?type=1&query=pix", "word": "pix"}}, "mUrl": "/find?type=1&query=pixes", "enEnData": {"suggests": [{"id": "21937", "link": "/find?type=3&query=pixel", "word": "pixel"}, {"id": "21937", "link": "/find?type=3&query=pixelated", "word": "pixelated"}, {"id": "21937", "link": "/find?type=3&query=pixie", "word": "pixie"}], "best": {"id": "21937", "details": "\n<div id=\"find_word_21937\" class=\"world word_en\" rel=\"pix\">\n    <h2 class=\"fl\">pix <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21937\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21937\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">plural of pic</div>\n    \n</div>\n", "link": "/find?type=3&query=pix", "word": "pix"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">plural of pic</div>",
+            "id": "21937",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "pix"
+        },
+        "suggests": [
+            {
+                "id": "21937",
+                "link": "/find?type=3&query=pixel",
+                "word": "pixel"
+            },
+            {
+                "id": "21937",
+                "link": "/find?type=3&query=pixelated",
+                "word": "pixelated"
+            },
+            {
+                "id": "21937",
+                "link": "/find?type=3&query=pixie",
+                "word": "pixie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u</div>\n    \n    <div class=\"green margin25 m-top15\">(M\u1ef9) nh\u1eefng b\u1ee9c tranh</div>",
+            "id": "68341",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1dd6dc0b23080c27e1fc7a7ecad7bdfd/16e62c987d9/P/pix.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f16e1c6945065cc96ded6678a8eada16/16e62c981ae/P/pix.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pix"
+        },
+        "suggests": [
+            {
+                "id": "68341",
+                "link": "/find?type=1&query=pixel",
+                "word": "pixel"
+            },
+            {
+                "id": "68341",
+                "link": "/find?type=1&query=pixie",
+                "word": "pixie"
+            },
+            {
+                "id": "68341",
+                "link": "/find?type=1&query=pixilated",
+                "word": "pixilated"
+            },
+            {
+                "id": "68341",
+                "link": "/find?type=1&query=pixilation",
+                "word": "pixilation"
+            },
+            {
+                "id": "68341",
+                "link": "/find?type=1&query=pixy",
+                "word": "pixy"
+            },
+            {
+                "id": "68341",
+                "link": "/find?type=1&query=pixyish",
+                "word": "pixyish"
+            }
+        ]
+    }
+}

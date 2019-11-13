@@ -1,1 +1,34 @@
-{"error": 0, "query": "placard", "enViData": {"suggests": [{"id": "68361", "link": "/find?type=1&query=placarder", "word": "placarder"}], "best": {"id": "68361", "details": "\n<div id=\"find_word_68361\" class=\"world word_en\" rel=\"placard\">\n    <h2 class=\"fl\">placard <span class=\"color-black\">/'pl\u00e6k\u0251:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"68361\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"68361\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">y\u1ebft th\u1ecb; \u00e1p ph\u00edch</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e1n y\u1ebft th\u1ecb l\u00ean; d\u00e1n \u00e1p ph\u00edch l\u00ean</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f4ng b\u00e1o b\u1eb1ng y\u1ebft th\u1ecb</div>\n    \n</div>\n", "link": "/find?type=1&query=placard", "word": "placard"}}, "mUrl": "/find?type=1&query=placard", "enEnData": {"suggests": [], "best": {"id": "21950", "details": "\n<div id=\"find_word_21950\" class=\"world word_en\" rel=\"placard\">\n    <h2 class=\"fl\">placard <span class=\"color-black\">/\u02c8pl\u00e6k\u025ad/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21950\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21950\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ards</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large notice or sign put up in a public place or carried by people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The placard on the door says that the church was built in the late 1600s.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">protesters carrying placards</div>\n    \n</div>\n", "link": "/find?type=3&query=placard", "word": "placard"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ards</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large notice or sign put up in a public place or carried by people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The placard on the door says that the church was built in the late 1600s.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">protesters carrying placards</div>",
+            "id": "21950",
+            "mean": [],
+            "pronounce": "/\u02c8pl\u00e6k\u025ad/",
+            "type": "noun",
+            "word": "placard"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">y\u1ebft th\u1ecb; \u00e1p ph\u00edch</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e1n y\u1ebft th\u1ecb l\u00ean; d\u00e1n \u00e1p ph\u00edch l\u00ean</div>\n    \n    <div class=\"green margin25 m-top15\">th\u00f4ng b\u00e1o b\u1eb1ng y\u1ebft th\u1ecb</div>",
+            "id": "68361",
+            "mean": [],
+            "pronounce": "/'pl\u00e6k\u0251:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6445057c962572f541ab0fde05b00e68/16e62c9975f/P/placard.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5813719fc707208953be68f76005e82c/16e62c9917f/P/placard.mp3"
+            },
+            "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "placard"
+        },
+        "suggests": [
+            {
+                "id": "68361",
+                "link": "/find?type=1&query=placarder",
+                "word": "placarder"
+            }
+        ]
+    }
+}

@@ -1,1 +1,17 @@
-{"error": 0, "query": "planeta", "mUrl": "/find?type=1&query=planeta", "enEnData": {"suggests": [{"id": "21981", "link": "/find?type=3&query=planetarium", "word": "planetarium"}, {"id": "21982", "link": "/find?type=3&query=planetary", "word": "planetary"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21981",
+                "link": "/find?type=3&query=planetarium",
+                "word": "planetarium"
+            },
+            {
+                "id": "21982",
+                "link": "/find?type=3&query=planetary",
+                "word": "planetary"
+            }
+        ]
+    }
+}

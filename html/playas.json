@@ -1,1 +1,32 @@
-{"error": 0, "query": "playas", "enViData": {"suggests": [{"id": "68577", "link": "/find?type=1&query=playability", "word": "playability"}, {"id": "68578", "link": "/find?type=1&query=playable", "word": "playable"}]}, "mUrl": "/find?type=1&query=playas", "enEnData": {"suggests": [{"id": "22031", "link": "/find?type=3&query=playable", "word": "playable"}, {"id": "22032", "link": "/find?type=3&query=playacting", "word": "playacting"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22031",
+                "link": "/find?type=3&query=playable",
+                "word": "playable"
+            },
+            {
+                "id": "22032",
+                "link": "/find?type=3&query=playacting",
+                "word": "playacting"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "68577",
+                "link": "/find?type=1&query=playability",
+                "word": "playability"
+            },
+            {
+                "id": "68578",
+                "link": "/find?type=1&query=playable",
+                "word": "playable"
+            }
+        ]
+    }
+}
