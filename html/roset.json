@@ -1,1 +1,22 @@
-{"error": 0, "query": "roset", "enViData": {"suggests": [{"id": "78049", "link": "/find?type=1&query=rosette", "word": "rosette"}]}, "mUrl": "/find?type=1&query=roset", "enEnData": {"suggests": [{"id": "25189", "link": "/find?type=3&query=rosette", "word": "rosette"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25189",
+                "link": "/find?type=3&query=rosette",
+                "word": "rosette"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "78049",
+                "link": "/find?type=1&query=rosette",
+                "word": "rosette"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "roti", "enViData": {"suggests": [{"id": "78086", "link": "/find?type=1&query=rotiform", "word": "rotiform"}, {"id": "78087", "link": "/find?type=1&query=rotisserie", "word": "rotisserie"}]}, "mUrl": "/find?type=1&query=roti", "enEnData": {"suggests": [{"id": "25206", "link": "/find?type=3&query=rotisserie", "word": "rotisserie"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25206",
+                "link": "/find?type=3&query=rotisserie",
+                "word": "rotisserie"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "78086",
+                "link": "/find?type=1&query=rotiform",
+                "word": "rotiform"
+            },
+            {
+                "id": "78087",
+                "link": "/find?type=1&query=rotisserie",
+                "word": "rotisserie"
+            }
+        ]
+    }
+}

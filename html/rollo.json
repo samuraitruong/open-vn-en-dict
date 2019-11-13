@@ -1,1 +1,27 @@
-{"error": 0, "query": "rollo", "enViData": {"suggests": [{"id": "77857", "link": "/find?type=1&query=rollout", "word": "rollout"}]}, "mUrl": "/find?type=1&query=rollo", "enEnData": {"suggests": [{"id": "25124", "link": "/find?type=3&query=rollout", "word": "rollout"}, {"id": "25125", "link": "/find?type=3&query=rollover", "word": "rollover"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25124",
+                "link": "/find?type=3&query=rollout",
+                "word": "rollout"
+            },
+            {
+                "id": "25125",
+                "link": "/find?type=3&query=rollover",
+                "word": "rollover"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77857",
+                "link": "/find?type=1&query=rollout",
+                "word": "rollout"
+            }
+        ]
+    }
+}

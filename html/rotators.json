@@ -1,1 +1,40 @@
-{"error": 0, "query": "rotators", "enViData": {"suggests": [{"id": "78078", "link": "/find?type=1&query=rotatoria", "word": "rotatoria"}, {"id": "78078", "link": "/find?type=1&query=rotatorium", "word": "rotatorium"}, {"id": "78078", "link": "/find?type=1&query=rotatory", "word": "rotatory"}], "best": {"id": "78078", "details": "\n<div id=\"find_word_78078\" class=\"world word_en\" rel=\"rotator\">\n    <h2 class=\"fl\">rotator <span class=\"color-black\">/rou'teit\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"78078\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"78078\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) c\u01a1 xoay</div>\n    \n    <div class=\"green margin25 m-top15\">(k\u1ef9 thu\u1eadt) R\u00f4tato</div>\n    \n</div>\n", "link": "/find?type=1&query=rotator", "word": "rotator"}}, "mUrl": "/find?type=1&query=rotators", "enEnData": {"suggests": [{"id": "25203", "link": "/find?type=3&query=rotator+cuff", "word": "rotator cuff"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25203",
+                "link": "/find?type=3&query=rotator+cuff",
+                "word": "rotator cuff"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) c\u01a1 xoay</div>\n    \n    <div class=\"green margin25 m-top15\">(k\u1ef9 thu\u1eadt) R\u00f4tato</div>",
+            "id": "78078",
+            "mean": [],
+            "pronounce": "/rou'teit\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "rotator"
+        },
+        "suggests": [
+            {
+                "id": "78078",
+                "link": "/find?type=1&query=rotatoria",
+                "word": "rotatoria"
+            },
+            {
+                "id": "78078",
+                "link": "/find?type=1&query=rotatorium",
+                "word": "rotatorium"
+            },
+            {
+                "id": "78078",
+                "link": "/find?type=1&query=rotatory",
+                "word": "rotatory"
+            }
+        ]
+    }
+}

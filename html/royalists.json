@@ -1,1 +1,34 @@
-{"error": 0, "query": "royalists", "enViData": {"suggests": [{"id": "78234", "link": "/find?type=1&query=royalistic", "word": "royalistic"}], "best": {"id": "78234", "details": "\n<div id=\"find_word_78234\" class=\"world word_en\" rel=\"royalist\">\n    <h2 class=\"fl\">royalist <span class=\"color-black\">/'r\u0254i\u0259list/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"78234\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"78234\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi [theo ch\u1ee7 ngh\u0129a] b\u1ea3o ho\u00e0ng</div>\n    \n</div>\n", "link": "/find?type=1&query=royalist", "word": "royalist"}}, "mUrl": "/find?type=1&query=royalists", "enEnData": {"suggests": [], "best": {"id": "25268", "details": "\n<div id=\"find_word_25268\" class=\"world word_en\" rel=\"royalist\">\n    <h2 class=\"fl\">royalist <span class=\"color-black\">/\u02c8roj\u0259l\u026ast/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25268\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25268\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ists</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who believes that a country should have a king or queen or who supports a particular king or queen</div>\n    \n</div>\n", "link": "/find?type=3&query=royalist", "word": "royalist"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ists</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person who believes that a country should have a king or queen or who supports a particular king or queen</div>",
+            "id": "25268",
+            "mean": [],
+            "pronounce": "/\u02c8roj\u0259l\u026ast/",
+            "type": "noun",
+            "word": "royalist"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi [theo ch\u1ee7 ngh\u0129a] b\u1ea3o ho\u00e0ng</div>",
+            "id": "78234",
+            "mean": [],
+            "pronounce": "/'r\u0254i\u0259list/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f2a26baf3e62303351cc51a82d8b5aec/16e62eb2cb9/R/royalist.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/44aae29bf945f219cc64188aac37db13/16e62eb26e3/R/royalist.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "royalist"
+        },
+        "suggests": [
+            {
+                "id": "78234",
+                "link": "/find?type=1&query=royalistic",
+                "word": "royalistic"
+            }
+        ]
+    }
+}

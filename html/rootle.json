@@ -1,1 +1,43 @@
-{"error": 0, "query": "rootle", "enViData": {"suggests": [{"id": "77982", "link": "/find?type=1&query=rootless", "word": "rootless"}, {"id": "77982", "link": "/find?type=1&query=rootlessness", "word": "rootlessness"}, {"id": "77982", "link": "/find?type=1&query=rootlet", "word": "rootlet"}], "best": {"id": "77982", "details": "\n<div id=\"find_word_77982\" class=\"world word_en\" rel=\"rootle\">\n    <h2 class=\"fl\">rootle <span class=\"color-black\">/'ru:tl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"77982\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"77982\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u0169i \u0111\u1ea5t, \u1ee7i \u0111\u1ea5t (l\u1ee3n...)</div>\n    \n    <div class=\"green margin25 m-top15\">(+ in, among) l\u1ee5c l\u1ecdi, s\u1ee5c s\u1ea1o</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to rootle in (among) papers</div>\n    \n    <div class=\"margin25\">l\u1ee5c l\u1ecdi trong \u0111\u00e1m gi\u1ea5y t\u1edd</div>\n    \n    <div class=\"green margin25 m-top15\">(+ out, up) t\u00ecn ra, l\u00f4i ra, b\u1edbi ra (v\u1eadt g\u00ec...)</div>\n    \n</div>\n", "link": "/find?type=1&query=rootle", "word": "rootle"}}, "mUrl": "/find?type=1&query=rootle", "enEnData": {"suggests": [{"id": "25172", "link": "/find?type=3&query=rootless", "word": "rootless"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25172",
+                "link": "/find?type=3&query=rootless",
+                "word": "rootless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u0169i \u0111\u1ea5t, \u1ee7i \u0111\u1ea5t (l\u1ee3n...)</div>\n    \n    <div class=\"green margin25 m-top15\">(+ in, among) l\u1ee5c l\u1ecdi, s\u1ee5c s\u1ea1o</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">to rootle in (among) papers</div>\n    \n    <div class=\"margin25\">l\u1ee5c l\u1ecdi trong \u0111\u00e1m gi\u1ea5y t\u1edd</div>\n    \n    <div class=\"green margin25 m-top15\">(+ out, up) t\u00ecn ra, l\u00f4i ra, b\u1edbi ra (v\u1eadt g\u00ec...)</div>",
+            "id": "77982",
+            "mean": [],
+            "pronounce": "/'ru:tl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9bc17a83de3d680c2bb9097be8c70d21/16e62eb9ade/R/rootle.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/57f8899d173d4849607d636c131ea3da/16e62eb9507/R/rootle.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "rootle"
+        },
+        "suggests": [
+            {
+                "id": "77982",
+                "link": "/find?type=1&query=rootless",
+                "word": "rootless"
+            },
+            {
+                "id": "77982",
+                "link": "/find?type=1&query=rootlessness",
+                "word": "rootlessness"
+            },
+            {
+                "id": "77982",
+                "link": "/find?type=1&query=rootlet",
+                "word": "rootlet"
+            }
+        ]
+    }
+}

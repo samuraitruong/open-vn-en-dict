@@ -1,1 +1,47 @@
-{"error": 0, "query": "rond", "enViData": {"suggests": [{"id": "77901", "link": "/find?type=1&query=rondache", "word": "rondache"}, {"id": "77902", "link": "/find?type=1&query=rondavel", "word": "rondavel"}, {"id": "77903", "link": "/find?type=1&query=rondeau", "word": "rondeau"}, {"id": "77904", "link": "/find?type=1&query=rondel", "word": "rondel"}, {"id": "77905", "link": "/find?type=1&query=rondo", "word": "rondo"}, {"id": "77906", "link": "/find?type=1&query=rondure", "word": "rondure"}]}, "mUrl": "/find?type=1&query=rond", "enEnData": {"suggests": [{"id": "25146", "link": "/find?type=3&query=rondo", "word": "rondo"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25146",
+                "link": "/find?type=3&query=rondo",
+                "word": "rondo"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77901",
+                "link": "/find?type=1&query=rondache",
+                "word": "rondache"
+            },
+            {
+                "id": "77902",
+                "link": "/find?type=1&query=rondavel",
+                "word": "rondavel"
+            },
+            {
+                "id": "77903",
+                "link": "/find?type=1&query=rondeau",
+                "word": "rondeau"
+            },
+            {
+                "id": "77904",
+                "link": "/find?type=1&query=rondel",
+                "word": "rondel"
+            },
+            {
+                "id": "77905",
+                "link": "/find?type=1&query=rondo",
+                "word": "rondo"
+            },
+            {
+                "id": "77906",
+                "link": "/find?type=1&query=rondure",
+                "word": "rondure"
+            }
+        ]
+    }
+}
