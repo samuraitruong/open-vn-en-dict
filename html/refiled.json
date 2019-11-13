@@ -1,1 +1,22 @@
-{"error": 0, "query": "refiled", "enViData": {"suggests": [{"id": "75633", "link": "/find?type=1&query=refill", "word": "refill"}]}, "mUrl": "/find?type=1&query=refiled", "enEnData": {"suggests": [{"id": "24262", "link": "/find?type=3&query=refill", "word": "refill"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24262",
+                "link": "/find?type=3&query=refill",
+                "word": "refill"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75633",
+                "link": "/find?type=1&query=refill",
+                "word": "refill"
+            }
+        ]
+    }
+}

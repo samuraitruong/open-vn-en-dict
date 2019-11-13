@@ -1,1 +1,39 @@
-{"error": 0, "query": "refrigerator", "enViData": {"suggests": [{"id": "75716", "link": "/find?type=1&query=refrigerator-car", "word": "refrigerator-car"}, {"id": "75716", "link": "/find?type=1&query=refrigeratory", "word": "refrigeratory"}], "best": {"id": "75716", "details": "\n<div id=\"find_word_75716\" class=\"world word_en\" rel=\"refrigerator\">\n    <h2 class=\"fl\">refrigerator <span class=\"color-black\">/ri'frid\u0292\u0259reit\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75716\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75716\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(M\u1ef9 c\u0169ng ice-box, kh\u1ea9u ng\u1eef fridge)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ee7 l\u1ea1nh; ph\u00f2ng \u01b0\u1edbp l\u1ea1nh</div>\n    \n</div>\n", "link": "/find?type=1&query=refrigerator", "word": "refrigerator"}}, "mUrl": "/find?type=1&query=refrigerator", "enEnData": {"suggests": [], "best": {"id": "24299", "details": "\n<div id=\"find_word_24299\" class=\"world word_en\" rel=\"refrigerator\">\n    <h2 class=\"fl\">refrigerator <span class=\"color-black\">/r\u026a\u02c8fr\u026a\u02a4\u0259\u02ccre\u026at\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24299\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24299\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device or room that is used to keep things (such as food and drinks) cold - called also fridge;</div>\n    \n</div>\n", "link": "/find?type=3&query=refrigerator", "word": "refrigerator"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tors</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device or room that is used to keep things (such as food and drinks) cold - called also fridge;</div>",
+            "id": "24299",
+            "mean": [],
+            "pronounce": "/r\u026a\u02c8fr\u026a\u02a4\u0259\u02ccre\u026at\u025a/",
+            "type": "noun",
+            "word": "refrigerator"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(M\u1ef9 c\u0169ng ice-box, kh\u1ea9u ng\u1eef fridge)</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ee7 l\u1ea1nh; ph\u00f2ng \u01b0\u1edbp l\u1ea1nh</div>",
+            "id": "75716",
+            "mean": [],
+            "pronounce": "/ri'frid\u0292\u0259reit\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/0edaf5018825e952dc9a46e54d7be09d/16e62e28c7e/R/refrigerator.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3c8ec831672951e979af6c1af5c5b067/16e62e28696/R/refrigerator.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "refrigerator"
+        },
+        "suggests": [
+            {
+                "id": "75716",
+                "link": "/find?type=1&query=refrigerator-car",
+                "word": "refrigerator-car"
+            },
+            {
+                "id": "75716",
+                "link": "/find?type=1&query=refrigeratory",
+                "word": "refrigeratory"
+            }
+        ]
+    }
+}

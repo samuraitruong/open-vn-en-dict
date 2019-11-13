@@ -1,1 +1,80 @@
-{"error": 0, "query": "refracted", "enViData": {"suggests": [{"id": "75693", "link": "/find?type=1&query=refractable", "word": "refractable"}, {"id": "75693", "link": "/find?type=1&query=refracting", "word": "refracting"}, {"id": "75693", "link": "/find?type=1&query=refraction", "word": "refraction"}, {"id": "75693", "link": "/find?type=1&query=refractional", "word": "refractional"}, {"id": "75693", "link": "/find?type=1&query=refractive", "word": "refractive"}, {"id": "75693", "link": "/find?type=1&query=refractivity", "word": "refractivity"}, {"id": "75693", "link": "/find?type=1&query=refractometer", "word": "refractometer"}, {"id": "75693", "link": "/find?type=1&query=refractor", "word": "refractor"}, {"id": "75693", "link": "/find?type=1&query=refractoriness", "word": "refractoriness"}], "best": {"id": "75693", "details": "\n<div id=\"find_word_75693\" class=\"world word_en\" rel=\"refract\">\n    <h2 class=\"fl\">refract <span class=\"color-black\">/ri'fr\u00e6kt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75693\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75693\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(v\u1eadt l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00fac x\u1ea1</div>\n    \n</div>\n", "link": "/find?type=1&query=refract", "word": "refract"}}, "mUrl": "/find?type=1&query=refracted", "enEnData": {"suggests": [{"id": "24289", "link": "/find?type=3&query=refractory", "word": "refractory"}], "best": {"id": "24289", "details": "\n<div id=\"find_word_24289\" class=\"world word_en\" rel=\"refract\">\n    <h2 class=\"fl\">refract <span class=\"color-black\">/r\u026a\u02c8fr\u00e6kt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24289\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24289\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-fracts; -fracted; -fracting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] technical of an object or substance :to make (light) change direction when it goes through at an angle</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Prisms refract light.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Light is refracted when it hits water.</div>\n    \n</div>\n", "link": "/find?type=3&query=refract", "word": "refract"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">-fracts; -fracted; -fracting</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] technical of an object or substance :to make (light) change direction when it goes through at an angle</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Prisms refract light.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Light is refracted when it hits water.</div>",
+            "id": "24289",
+            "mean": [],
+            "pronounce": "/r\u026a\u02c8fr\u00e6kt/",
+            "type": "verb",
+            "word": "refract"
+        },
+        "suggests": [
+            {
+                "id": "24289",
+                "link": "/find?type=3&query=refractory",
+                "word": "refractory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(v\u1eadt l\u00fd)</div>\n    \n    <div class=\"green margin25 m-top15\">kh\u00fac x\u1ea1</div>",
+            "id": "75693",
+            "mean": [],
+            "pronounce": "/ri'fr\u00e6kt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/141de96ab35b13e65e83a1cb81da30e4/16e62e276d4/R/refract.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3865cf5443bde25bf93d7edd9c366dae/16e62e270e7/R/refract.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "refract"
+        },
+        "suggests": [
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractable",
+                "word": "refractable"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refracting",
+                "word": "refracting"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refraction",
+                "word": "refraction"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractional",
+                "word": "refractional"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractive",
+                "word": "refractive"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractivity",
+                "word": "refractivity"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractometer",
+                "word": "refractometer"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractor",
+                "word": "refractor"
+            },
+            {
+                "id": "75693",
+                "link": "/find?type=1&query=refractoriness",
+                "word": "refractoriness"
+            }
+        ]
+    }
+}

@@ -1,1 +1,48 @@
-{"error": 0, "query": "reformats", "enViData": {"suggests": [{"id": "75683", "link": "/find?type=1&query=reformation", "word": "reformation"}, {"id": "75683", "link": "/find?type=1&query=reformative", "word": "reformative"}, {"id": "75683", "link": "/find?type=1&query=reformatory", "word": "reformatory"}], "best": {"id": "75683", "details": "\n<div id=\"find_word_75683\" class=\"world word_en\" rel=\"reformat\">\n    <h2 class=\"fl\">reformat <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75683\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75683\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ecbnh l\u1ea1i khu\u00f4n th\u1ee9c, l\u1eadp l\u1ea1i qui c\u00e1ch</div>\n    \n</div>\n", "link": "/find?type=1&query=reformat", "word": "reformat"}}, "mUrl": "/find?type=1&query=reformats", "enEnData": {"suggests": [{"id": "24285", "link": "/find?type=3&query=reformation", "word": "reformation"}, {"id": "24286", "link": "/find?type=3&query=reformatory", "word": "reformatory"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24285",
+                "link": "/find?type=3&query=reformation",
+                "word": "reformation"
+            },
+            {
+                "id": "24286",
+                "link": "/find?type=3&query=reformatory",
+                "word": "reformatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">\u0111\u1ecbnh l\u1ea1i khu\u00f4n th\u1ee9c, l\u1eadp l\u1ea1i qui c\u00e1ch</div>",
+            "id": "75683",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/cd31ba69e6e91404fd0b8c26eaead2a6/16e62e265b4/R/reformat.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/879843e3c8b50a3e59c19e176ad1079e/16e62e25feb/R/reformat.mp3"
+            },
+            "type": "",
+            "word": "reformat"
+        },
+        "suggests": [
+            {
+                "id": "75683",
+                "link": "/find?type=1&query=reformation",
+                "word": "reformation"
+            },
+            {
+                "id": "75683",
+                "link": "/find?type=1&query=reformative",
+                "word": "reformative"
+            },
+            {
+                "id": "75683",
+                "link": "/find?type=1&query=reformatory",
+                "word": "reformatory"
+            }
+        ]
+    }
+}
