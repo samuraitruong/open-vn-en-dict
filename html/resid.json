@@ -1,1 +1,127 @@
-{"error": 0, "query": "resid", "enViData": {"suggests": [{"id": "76537", "link": "/find?type=1&query=reside", "word": "reside"}, {"id": "76538", "link": "/find?type=1&query=residence", "word": "residence"}, {"id": "76539", "link": "/find?type=1&query=residency", "word": "residency"}, {"id": "76540", "link": "/find?type=1&query=resident", "word": "resident"}, {"id": "76541", "link": "/find?type=1&query=resident+physician", "word": "resident physician"}, {"id": "76542", "link": "/find?type=1&query=residential", "word": "residential"}, {"id": "76543", "link": "/find?type=1&query=residentiary", "word": "residentiary"}, {"id": "76544", "link": "/find?type=1&query=resider", "word": "resider"}, {"id": "76545", "link": "/find?type=1&query=residua", "word": "residua"}, {"id": "76546", "link": "/find?type=1&query=residual", "word": "residual"}]}, "mUrl": "/find?type=1&query=resid", "enEnData": {"suggests": [{"id": "24634", "link": "/find?type=3&query=reside", "word": "reside"}, {"id": "24635", "link": "/find?type=3&query=residence", "word": "residence"}, {"id": "24636", "link": "/find?type=3&query=residency", "word": "residency"}, {"id": "24637", "link": "/find?type=3&query=resident", "word": "resident"}, {"id": "24638", "link": "/find?type=3&query=residential", "word": "residential"}, {"id": "24639", "link": "/find?type=3&query=residual", "word": "residual"}, {"id": "24640", "link": "/find?type=3&query=residuals", "word": "residuals"}, {"id": "24641", "link": "/find?type=3&query=residue", "word": "residue"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6535", "link": "/find?type=4&query=residence", "word": "residence"}, {"id": "6536", "link": "/find?type=4&query=resident", "word": "resident"}, {"id": "6537", "link": "/find?type=4&query=residual", "word": "residual"}, {"id": "6538", "link": "/find?type=4&query=residue", "word": "residue"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24634",
+                "link": "/find?type=3&query=reside",
+                "word": "reside"
+            },
+            {
+                "id": "24635",
+                "link": "/find?type=3&query=residence",
+                "word": "residence"
+            },
+            {
+                "id": "24636",
+                "link": "/find?type=3&query=residency",
+                "word": "residency"
+            },
+            {
+                "id": "24637",
+                "link": "/find?type=3&query=resident",
+                "word": "resident"
+            },
+            {
+                "id": "24638",
+                "link": "/find?type=3&query=residential",
+                "word": "residential"
+            },
+            {
+                "id": "24639",
+                "link": "/find?type=3&query=residual",
+                "word": "residual"
+            },
+            {
+                "id": "24640",
+                "link": "/find?type=3&query=residuals",
+                "word": "residuals"
+            },
+            {
+                "id": "24641",
+                "link": "/find?type=3&query=residue",
+                "word": "residue"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "76537",
+                "link": "/find?type=1&query=reside",
+                "word": "reside"
+            },
+            {
+                "id": "76538",
+                "link": "/find?type=1&query=residence",
+                "word": "residence"
+            },
+            {
+                "id": "76539",
+                "link": "/find?type=1&query=residency",
+                "word": "residency"
+            },
+            {
+                "id": "76540",
+                "link": "/find?type=1&query=resident",
+                "word": "resident"
+            },
+            {
+                "id": "76541",
+                "link": "/find?type=1&query=resident+physician",
+                "word": "resident physician"
+            },
+            {
+                "id": "76542",
+                "link": "/find?type=1&query=residential",
+                "word": "residential"
+            },
+            {
+                "id": "76543",
+                "link": "/find?type=1&query=residentiary",
+                "word": "residentiary"
+            },
+            {
+                "id": "76544",
+                "link": "/find?type=1&query=resider",
+                "word": "resider"
+            },
+            {
+                "id": "76545",
+                "link": "/find?type=1&query=residua",
+                "word": "residua"
+            },
+            {
+                "id": "76546",
+                "link": "/find?type=1&query=residual",
+                "word": "residual"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6535",
+                "link": "/find?type=4&query=residence",
+                "word": "residence"
+            },
+            {
+                "id": "6536",
+                "link": "/find?type=4&query=resident",
+                "word": "resident"
+            },
+            {
+                "id": "6537",
+                "link": "/find?type=4&query=residual",
+                "word": "residual"
+            },
+            {
+                "id": "6538",
+                "link": "/find?type=4&query=residue",
+                "word": "residue"
+            }
+        ]
+    }
+}
