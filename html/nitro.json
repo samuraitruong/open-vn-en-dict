@@ -1,1 +1,52 @@
-{"error": 0, "query": "nitro", "enViData": {"suggests": [{"id": "60581", "link": "/find?type=1&query=nitrogen", "word": "nitrogen"}, {"id": "60582", "link": "/find?type=1&query=nitrogenous", "word": "nitrogenous"}, {"id": "60583", "link": "/find?type=1&query=nitroglycerine", "word": "nitroglycerine"}, {"id": "60584", "link": "/find?type=1&query=nitrous", "word": "nitrous"}, {"id": "60585", "link": "/find?type=1&query=nitrous+oxide", "word": "nitrous oxide"}]}, "mUrl": "/find?type=1&query=nitro", "enEnData": {"suggests": [{"id": "19353", "link": "/find?type=3&query=nitrogen", "word": "nitrogen"}, {"id": "19354", "link": "/find?type=3&query=nitroglycerin", "word": "nitroglycerin"}, {"id": "19355", "link": "/find?type=3&query=nitrous+oxide", "word": "nitrous oxide"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19353",
+                "link": "/find?type=3&query=nitrogen",
+                "word": "nitrogen"
+            },
+            {
+                "id": "19354",
+                "link": "/find?type=3&query=nitroglycerin",
+                "word": "nitroglycerin"
+            },
+            {
+                "id": "19355",
+                "link": "/find?type=3&query=nitrous+oxide",
+                "word": "nitrous oxide"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60581",
+                "link": "/find?type=1&query=nitrogen",
+                "word": "nitrogen"
+            },
+            {
+                "id": "60582",
+                "link": "/find?type=1&query=nitrogenous",
+                "word": "nitrogenous"
+            },
+            {
+                "id": "60583",
+                "link": "/find?type=1&query=nitroglycerine",
+                "word": "nitroglycerine"
+            },
+            {
+                "id": "60584",
+                "link": "/find?type=1&query=nitrous",
+                "word": "nitrous"
+            },
+            {
+                "id": "60585",
+                "link": "/find?type=1&query=nitrous+oxide",
+                "word": "nitrous oxide"
+            }
+        ]
+    }
+}

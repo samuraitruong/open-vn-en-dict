@@ -1,1 +1,34 @@
-{"error": 0, "query": "ninny", "enViData": {"suggests": [{"id": "60546", "link": "/find?type=1&query=ninny-hammer", "word": "ninny-hammer"}], "best": {"id": "60546", "details": "\n<div id=\"find_word_60546\" class=\"world word_en\" rel=\"ninny\">\n    <h2 class=\"fl\">ninny <span class=\"color-black\">/'nini/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60546\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60546\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ng\u1ed1c ngh\u1ebfch, ng\u01b0\u1eddi d\u1ea1i kh\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">don't be such a ninny</div>\n    \n    <div class=\"margin25\">\u0111\u1eebng c\u00f3 ng\u1ed1c ngh\u1ebfch th\u1ebf</div>\n    \n</div>\n", "link": "/find?type=1&query=ninny", "word": "ninny"}}, "mUrl": "/find?type=1&query=ninny", "enEnData": {"suggests": [], "best": {"id": "19341", "details": "\n<div id=\"find_word_19341\" class=\"world word_en\" rel=\"ninny\">\n    <h2 class=\"fl\">ninny <span class=\"color-black\">/\u02c8n\u026ani/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19341\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19341\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal + somewhat old-fashioned :a foolish or stupid person</div>\n    \n</div>\n", "link": "/find?type=3&query=ninny", "word": "ninny"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -nies</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal + somewhat old-fashioned :a foolish or stupid person</div>",
+            "id": "19341",
+            "mean": [],
+            "pronounce": "/\u02c8n\u026ani/",
+            "type": "noun",
+            "word": "ninny"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ng\u1ed1c ngh\u1ebfch, ng\u01b0\u1eddi d\u1ea1i kh\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">don't be such a ninny</div>\n    \n    <div class=\"margin25\">\u0111\u1eebng c\u00f3 ng\u1ed1c ngh\u1ebfch th\u1ebf</div>",
+            "id": "60546",
+            "mean": [],
+            "pronounce": "/'nini/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3307cbeb922cce14650edf9d83f1173c/16e62aabba5/N/ninny.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/514ca57eb88e3a0aac99c1e7e400e7e3/16e62aab5df/N/ninny.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ninny"
+        },
+        "suggests": [
+            {
+                "id": "60546",
+                "link": "/find?type=1&query=ninny-hammer",
+                "word": "ninny-hammer"
+            }
+        ]
+    }
+}

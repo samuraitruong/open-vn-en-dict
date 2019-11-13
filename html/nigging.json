@@ -1,1 +1,37 @@
-{"error": 0, "query": "nigging", "enViData": {"suggests": [{"id": "60440", "link": "/find?type=1&query=nigger", "word": "nigger"}]}, "mUrl": "/find?type=1&query=nigging", "enEnData": {"suggests": [{"id": "19296", "link": "/find?type=3&query=nigger", "word": "nigger"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4858", "link": "/find?type=4&query=niggle", "word": "niggle"}, {"id": "4859", "link": "/find?type=4&query=niggling", "word": "niggling"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19296",
+                "link": "/find?type=3&query=nigger",
+                "word": "nigger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60440",
+                "link": "/find?type=1&query=nigger",
+                "word": "nigger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4858",
+                "link": "/find?type=4&query=niggle",
+                "word": "niggle"
+            },
+            {
+                "id": "4859",
+                "link": "/find?type=4&query=niggling",
+                "word": "niggling"
+            }
+        ]
+    }
+}

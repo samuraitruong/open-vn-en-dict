@@ -1,1 +1,22 @@
-{"error": 0, "query": "nincom", "enViData": {"suggests": [{"id": "60533", "link": "/find?type=1&query=nincompoop", "word": "nincompoop"}]}, "mUrl": "/find?type=1&query=nincom", "enEnData": {"suggests": [{"id": "19335", "link": "/find?type=3&query=nincompoop", "word": "nincompoop"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19335",
+                "link": "/find?type=3&query=nincompoop",
+                "word": "nincompoop"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60533",
+                "link": "/find?type=1&query=nincompoop",
+                "word": "nincompoop"
+            }
+        ]
+    }
+}

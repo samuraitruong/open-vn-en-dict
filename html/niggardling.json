@@ -1,1 +1,27 @@
-{"error": 0, "query": "niggardling", "enViData": {"suggests": [{"id": "60438", "link": "/find?type=1&query=niggardliness", "word": "niggardliness"}, {"id": "60439", "link": "/find?type=1&query=niggardly", "word": "niggardly"}]}, "mUrl": "/find?type=1&query=niggardling", "enEnData": {"suggests": [{"id": "19295", "link": "/find?type=3&query=niggardly", "word": "niggardly"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19295",
+                "link": "/find?type=3&query=niggardly",
+                "word": "niggardly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60438",
+                "link": "/find?type=1&query=niggardliness",
+                "word": "niggardliness"
+            },
+            {
+                "id": "60439",
+                "link": "/find?type=1&query=niggardly",
+                "word": "niggardly"
+            }
+        ]
+    }
+}

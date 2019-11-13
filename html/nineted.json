@@ -1,1 +1,32 @@
-{"error": 0, "query": "nineted", "enViData": {"suggests": [{"id": "60539", "link": "/find?type=1&query=nineteen", "word": "nineteen"}, {"id": "60540", "link": "/find?type=1&query=nineteenth", "word": "nineteenth"}, {"id": "60541", "link": "/find?type=1&query=nineteeth", "word": "nineteeth"}]}, "mUrl": "/find?type=1&query=nineted", "enEnData": {"suggests": [{"id": "19338", "link": "/find?type=3&query=nineteen", "word": "nineteen"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19338",
+                "link": "/find?type=3&query=nineteen",
+                "word": "nineteen"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "60539",
+                "link": "/find?type=1&query=nineteen",
+                "word": "nineteen"
+            },
+            {
+                "id": "60540",
+                "link": "/find?type=1&query=nineteenth",
+                "word": "nineteenth"
+            },
+            {
+                "id": "60541",
+                "link": "/find?type=1&query=nineteeth",
+                "word": "nineteeth"
+            }
+        ]
+    }
+}

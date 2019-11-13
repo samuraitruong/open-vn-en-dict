@@ -1,1 +1,28 @@
-{"error": 0, "query": "nieces", "enViData": {"suggests": [], "best": {"id": "60427", "details": "\n<div id=\"find_word_60427\" class=\"world word_en\" rel=\"niece\">\n    <h2 class=\"fl\">niece <span class=\"color-black\">/ni:s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"60427\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"60427\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e1u g\u00e1i (con anh, con ch\u1ecb, con em)</div>\n    \n</div>\n", "link": "/find?type=1&query=niece", "word": "niece"}}, "mUrl": "/find?type=1&query=nieces", "enEnData": {"suggests": [], "best": {"id": "19293", "details": "\n<div id=\"find_word_19293\" class=\"world word_en\" rel=\"niece\">\n    <h2 class=\"fl\">niece <span class=\"color-black\">/\u02c8ni\u02d0s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"19293\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"19293\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural nieces</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a daughter of your brother or sister</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">If he's my uncle, then I'm his niece. - compare nephew</div>\n    \n</div>\n", "link": "/find?type=3&query=niece", "word": "niece"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural nieces</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a daughter of your brother or sister</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">If he's my uncle, then I'm his niece. - compare nephew</div>",
+            "id": "19293",
+            "mean": [],
+            "pronounce": "/\u02c8ni\u02d0s/",
+            "type": "noun",
+            "word": "niece"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u00e1u g\u00e1i (con anh, con ch\u1ecb, con em)</div>",
+            "id": "60427",
+            "mean": [],
+            "pronounce": "/ni:s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5be70bb977e2afc59884b7e932bfba3a/16e62aa5a65/N/niece.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f869c98afc4a2299cb5f1f259ee557d1/16e62aa53dd/N/niece.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "niece"
+        },
+        "suggests": []
+    }
+}
