@@ -1,1 +1,28 @@
-{"error": 0, "query": "pantheon", "enViData": {"suggests": [], "best": {"id": "64683", "details": "\n<div id=\"find_word_64683\" class=\"world word_en\" rel=\"pantheon\">\n    <h2 class=\"fl\">pantheon <span class=\"color-black\">/'p\u00e6n'\u03b8i\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\">/p\u00e6n\u03b8i\u0252n/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64683\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64683\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ec1n th\u1edd ch\u01b0 th\u1ea7n (Hy L\u1ea1p, La M\u00e3 c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u01b0 th\u1ea7n (c\u1ee7a m\u1ed9t d\u00e2n t\u1ed9c, m\u1ed9t n\u01b0\u1edbc)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u0103ng danh nh\u00e2n</div>\n    \n</div>\n", "link": "/find?type=1&query=pantheon", "word": "pantheon"}}, "mUrl": "/find?type=1&query=pantheon", "enEnData": {"suggests": [], "best": {"id": "20814", "details": "\n<div id=\"find_word_20814\" class=\"world word_en\" rel=\"pantheon\">\n    <h2 class=\"fl\">pantheon <span class=\"color-black\">/\u02c8p\u00e6n\u0275i\u02cc\u0251\u02d0n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20814\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20814\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the gods of a particular country or group of people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Greek and Roman pantheons</div>\n    \n    <div class=\"green margin25 m-top15\">somewhat formal :a group of people who are famous or important - often + of</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He occupies a place in the pantheon of great American writers. [=he is one of the great American writers]</div>\n    \n    <div class=\"green margin25 m-top15\">a temple that is built to honor all the gods of a particular country or group of people</div>\n    \n</div>\n", "link": "/find?type=3&query=pantheon", "word": "pantheon"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ons</div>\n    \n    <div class=\"green margin25 m-top15\">[count] the gods of a particular country or group of people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Greek and Roman pantheons</div>\n    \n    <div class=\"green margin25 m-top15\">somewhat formal :a group of people who are famous or important - often + of</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He occupies a place in the pantheon of great American writers. [=he is one of the great American writers]</div>\n    \n    <div class=\"green margin25 m-top15\">a temple that is built to honor all the gods of a particular country or group of people</div>",
+            "id": "20814",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6n\u0275i\u02cc\u0251\u02d0n/",
+            "type": "noun",
+            "word": "pantheon"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ec1n th\u1edd ch\u01b0 th\u1ea7n (Hy L\u1ea1p, La M\u00e3 c\u0169)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u01b0 th\u1ea7n (c\u1ee7a m\u1ed9t d\u00e2n t\u1ed9c, m\u1ed9t n\u01b0\u1edbc)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u0103ng danh nh\u00e2n</div>",
+            "id": "64683",
+            "mean": [],
+            "pronounce": "/'p\u00e6n'\u03b8i\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/479ca87106c6249201240c6d44459281/16e62bd1544/P/pantheon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/640aded6ffccf5061a504a757e5be9a6/16e62bd0f2d/P/pantheon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pantheon"
+        },
+        "suggests": []
+    }
+}

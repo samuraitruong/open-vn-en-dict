@@ -1,1 +1,34 @@
-{"error": 0, "query": "pampas", "enViData": {"suggests": [{"id": "64523", "link": "/find?type=1&query=pampas-grass", "word": "pampas-grass"}], "best": {"id": "64523", "details": "\n<div id=\"find_word_64523\" class=\"world word_en\" rel=\"pampas\">\n    <h2 class=\"fl\">pampas <span class=\"color-black\">/'p\u00e6mp\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\">/'p\u00e6mp\u0259z/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64523\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64523\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bold dot-blue m-top15\">the pampas</div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"grey margin25 m-top15\">pampa (th\u1ea3o nguy\u00ean \u1edf Nam M\u1ef9)</div>\n    \n</div>\n", "link": "/find?type=1&query=pampas", "word": "pampas"}}, "mUrl": "/find?type=1&query=pampas", "enEnData": {"suggests": [], "best": {"id": "20775", "details": "\n<div id=\"find_word_20775\" class=\"world word_en\" rel=\"pampas\">\n    <h2 class=\"fl\">pampas <span class=\"color-black\">/\u02c8p\u00e6mp\u0259z/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20775\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20775\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the pampas</div>\n    \n    <div class=\"grey margin25 m-top15\">large, flat, grassy areas of land in South America</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cattle roaming the pampas</div>\n    \n</div>\n", "link": "/find?type=3&query=pampas", "word": "pampas"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the pampas</div>\n    \n    <div class=\"grey margin25 m-top15\">large, flat, grassy areas of land in South America</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">cattle roaming the pampas</div>",
+            "id": "20775",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6mp\u0259z/",
+            "type": "noun",
+            "word": "pampas"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bold dot-blue m-top15\">the pampas</div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"grey margin25 m-top15\">pampa (th\u1ea3o nguy\u00ean \u1edf Nam M\u1ef9)</div>",
+            "id": "64523",
+            "mean": [],
+            "pronounce": "/'p\u00e6mp\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/6597acd8ff2013fa9c35ec748feb157d/16e62bc8330/P/pampas.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/664f11fd6e06bf807f086b700f1ef407/16e62bc7d61/P/pampas.mp3"
+            },
+            "type": "",
+            "word": "pampas"
+        },
+        "suggests": [
+            {
+                "id": "64523",
+                "link": "/find?type=1&query=pampas-grass",
+                "word": "pampas-grass"
+            }
+        ]
+    }
+}

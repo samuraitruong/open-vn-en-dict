@@ -1,1 +1,92 @@
-{"error": 0, "query": "pani", "enViData": {"suggests": [{"id": "64621", "link": "/find?type=1&query=panic", "word": "panic"}, {"id": "64622", "link": "/find?type=1&query=panic-grass", "word": "panic-grass"}, {"id": "64623", "link": "/find?type=1&query=panic-monger", "word": "panic-monger"}, {"id": "64624", "link": "/find?type=1&query=panic-stricken", "word": "panic-stricken"}, {"id": "64625", "link": "/find?type=1&query=panic-struck", "word": "panic-struck"}, {"id": "64626", "link": "/find?type=1&query=panicky", "word": "panicky"}, {"id": "64627", "link": "/find?type=1&query=panicle", "word": "panicle"}, {"id": "64628", "link": "/find?type=1&query=panicled", "word": "panicled"}, {"id": "64629", "link": "/find?type=1&query=paniculate", "word": "paniculate"}, {"id": "64630", "link": "/find?type=1&query=paniculately", "word": "paniculately"}]}, "mUrl": "/find?type=1&query=pani", "enEnData": {"suggests": [{"id": "20804", "link": "/find?type=3&query=panic", "word": "panic"}, {"id": "20805", "link": "/find?type=3&query=panic+button", "word": "panic button"}, {"id": "20806", "link": "/find?type=3&query=panic-stricken", "word": "panic-stricken"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5239", "link": "/find?type=4&query=panic", "word": "panic"}, {"id": "5240", "link": "/find?type=4&query=panic-stricken", "word": "panic-stricken"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20804",
+                "link": "/find?type=3&query=panic",
+                "word": "panic"
+            },
+            {
+                "id": "20805",
+                "link": "/find?type=3&query=panic+button",
+                "word": "panic button"
+            },
+            {
+                "id": "20806",
+                "link": "/find?type=3&query=panic-stricken",
+                "word": "panic-stricken"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64621",
+                "link": "/find?type=1&query=panic",
+                "word": "panic"
+            },
+            {
+                "id": "64622",
+                "link": "/find?type=1&query=panic-grass",
+                "word": "panic-grass"
+            },
+            {
+                "id": "64623",
+                "link": "/find?type=1&query=panic-monger",
+                "word": "panic-monger"
+            },
+            {
+                "id": "64624",
+                "link": "/find?type=1&query=panic-stricken",
+                "word": "panic-stricken"
+            },
+            {
+                "id": "64625",
+                "link": "/find?type=1&query=panic-struck",
+                "word": "panic-struck"
+            },
+            {
+                "id": "64626",
+                "link": "/find?type=1&query=panicky",
+                "word": "panicky"
+            },
+            {
+                "id": "64627",
+                "link": "/find?type=1&query=panicle",
+                "word": "panicle"
+            },
+            {
+                "id": "64628",
+                "link": "/find?type=1&query=panicled",
+                "word": "panicled"
+            },
+            {
+                "id": "64629",
+                "link": "/find?type=1&query=paniculate",
+                "word": "paniculate"
+            },
+            {
+                "id": "64630",
+                "link": "/find?type=1&query=paniculately",
+                "word": "paniculately"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5239",
+                "link": "/find?type=4&query=panic",
+                "word": "panic"
+            },
+            {
+                "id": "5240",
+                "link": "/find?type=4&query=panic-stricken",
+                "word": "panic-stricken"
+            }
+        ]
+    }
+}

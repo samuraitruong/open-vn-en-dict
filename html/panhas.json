@@ -1,1 +1,27 @@
-{"error": 0, "query": "panhas", "enViData": {"suggests": [{"id": "64614", "link": "/find?type=1&query=panhandler", "word": "panhandler"}, {"id": "64615", "link": "/find?type=1&query=panharmonic", "word": "panharmonic"}]}, "mUrl": "/find?type=1&query=panhas", "enEnData": {"suggests": [{"id": "20803", "link": "/find?type=3&query=panhandle", "word": "panhandle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20803",
+                "link": "/find?type=3&query=panhandle",
+                "word": "panhandle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64614",
+                "link": "/find?type=1&query=panhandler",
+                "word": "panhandler"
+            },
+            {
+                "id": "64615",
+                "link": "/find?type=1&query=panharmonic",
+                "word": "panharmonic"
+            }
+        ]
+    }
+}

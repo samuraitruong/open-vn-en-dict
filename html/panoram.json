@@ -1,1 +1,42 @@
-{"error": 0, "query": "panoram", "enViData": {"suggests": [{"id": "64651", "link": "/find?type=1&query=panorama", "word": "panorama"}, {"id": "64652", "link": "/find?type=1&query=panoramic", "word": "panoramic"}, {"id": "64653", "link": "/find?type=1&query=panoramically", "word": "panoramically"}]}, "mUrl": "/find?type=1&query=panoram", "enEnData": {"suggests": [{"id": "20809", "link": "/find?type=3&query=panorama", "word": "panorama"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5241", "link": "/find?type=4&query=panoramic", "word": "panoramic"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20809",
+                "link": "/find?type=3&query=panorama",
+                "word": "panorama"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64651",
+                "link": "/find?type=1&query=panorama",
+                "word": "panorama"
+            },
+            {
+                "id": "64652",
+                "link": "/find?type=1&query=panoramic",
+                "word": "panoramic"
+            },
+            {
+                "id": "64653",
+                "link": "/find?type=1&query=panoramically",
+                "word": "panoramically"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5241",
+                "link": "/find?type=4&query=panoramic",
+                "word": "panoramic"
+            }
+        ]
+    }
+}

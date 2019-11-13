@@ -1,1 +1,34 @@
-{"error": 0, "query": "panniers", "enViData": {"suggests": [{"id": "64642", "link": "/find?type=1&query=panniered", "word": "panniered"}], "best": {"id": "64642", "details": "\n<div id=\"find_word_64642\" class=\"world word_en\" rel=\"pannier\">\n    <h2 class=\"fl\">pannier <span class=\"color-black\">/'p\u00e6ni\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64642\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64642\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00fai hai b\u00ean y\u00ean th\u1ed3 (ng\u1ef1a, l\u1eeba)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ecdt hai b\u00ean c\u00e1i \u0111\u00e8o h\u00e0ng (xe \u0111\u1ea1p, xe m\u00e1y)</div>\n    \n</div>\n", "link": "/find?type=1&query=pannier", "word": "pannier"}}, "mUrl": "/find?type=1&query=panniers", "enEnData": {"suggests": [], "best": {"id": "20807", "details": "\n<div id=\"find_word_20807\" class=\"world word_en\" rel=\"pannier\">\n    <h2 class=\"fl\">pannier <span class=\"color-black\">/\u02c8p\u00e6nj\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20807\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20807\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -niers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit :saddlebag</div>\n    \n</div>\n", "link": "/find?type=3&query=pannier", "word": "pannier"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -niers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit :saddlebag</div>",
+            "id": "20807",
+            "mean": [],
+            "pronounce": "/\u02c8p\u00e6nj\u025a/",
+            "type": "noun",
+            "word": "pannier"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00fai hai b\u00ean y\u00ean th\u1ed3 (ng\u1ef1a, l\u1eeba)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ecdt hai b\u00ean c\u00e1i \u0111\u00e8o h\u00e0ng (xe \u0111\u1ea1p, xe m\u00e1y)</div>",
+            "id": "64642",
+            "mean": [],
+            "pronounce": "/'p\u00e6ni\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/9f933cf47cf894cd7a69e0804b4d5217/16e62bced23/P/pannier.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a58ced2a9765998e7a2cca4d590c802a/16e62bce71d/P/pannier.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pannier"
+        },
+        "suggests": [
+            {
+                "id": "64642",
+                "link": "/find?type=1&query=panniered",
+                "word": "panniered"
+            }
+        ]
+    }
+}
