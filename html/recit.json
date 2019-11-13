@@ -1,1 +1,77 @@
-{"error": 0, "query": "recit", "enViData": {"suggests": [{"id": "75212", "link": "/find?type=1&query=recital", "word": "recital"}, {"id": "75213", "link": "/find?type=1&query=recitation", "word": "recitation"}, {"id": "75214", "link": "/find?type=1&query=recitative", "word": "recitative"}, {"id": "75215", "link": "/find?type=1&query=recite", "word": "recite"}, {"id": "75216", "link": "/find?type=1&query=reciter", "word": "reciter"}]}, "mUrl": "/find?type=1&query=recit", "enEnData": {"suggests": [{"id": "24097", "link": "/find?type=3&query=recital", "word": "recital"}, {"id": "24098", "link": "/find?type=3&query=recitation", "word": "recitation"}, {"id": "24099", "link": "/find?type=3&query=recitative", "word": "recitative"}, {"id": "24100", "link": "/find?type=3&query=recite", "word": "recite"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6312", "link": "/find?type=4&query=recital", "word": "recital"}, {"id": "6313", "link": "/find?type=4&query=recitation", "word": "recitation"}, {"id": "6314", "link": "/find?type=4&query=recite", "word": "recite"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24097",
+                "link": "/find?type=3&query=recital",
+                "word": "recital"
+            },
+            {
+                "id": "24098",
+                "link": "/find?type=3&query=recitation",
+                "word": "recitation"
+            },
+            {
+                "id": "24099",
+                "link": "/find?type=3&query=recitative",
+                "word": "recitative"
+            },
+            {
+                "id": "24100",
+                "link": "/find?type=3&query=recite",
+                "word": "recite"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75212",
+                "link": "/find?type=1&query=recital",
+                "word": "recital"
+            },
+            {
+                "id": "75213",
+                "link": "/find?type=1&query=recitation",
+                "word": "recitation"
+            },
+            {
+                "id": "75214",
+                "link": "/find?type=1&query=recitative",
+                "word": "recitative"
+            },
+            {
+                "id": "75215",
+                "link": "/find?type=1&query=recite",
+                "word": "recite"
+            },
+            {
+                "id": "75216",
+                "link": "/find?type=1&query=reciter",
+                "word": "reciter"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6312",
+                "link": "/find?type=4&query=recital",
+                "word": "recital"
+            },
+            {
+                "id": "6313",
+                "link": "/find?type=4&query=recitation",
+                "word": "recitation"
+            },
+            {
+                "id": "6314",
+                "link": "/find?type=4&query=recite",
+                "word": "recite"
+            }
+        ]
+    }
+}

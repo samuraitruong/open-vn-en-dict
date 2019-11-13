@@ -1,1 +1,40 @@
-{"error": 0, "query": "receivable", "enViData": {"suggests": [{"id": "75155", "link": "/find?type=1&query=receivables", "word": "receivables"}], "best": {"id": "75155", "details": "\n<div id=\"find_word_75155\" class=\"world word_en\" rel=\"receivable\">\n    <h2 class=\"fl\">receivable <span class=\"color-black\">/ri'si:v\u0259bl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"75155\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"75155\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng \u0111\u1eb7t sau danh t\u1eeb)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u01b0a nh\u1eadn ti\u1ec1n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bills receivable</div>\n    \n    <div class=\"margin25\">h\u00f3a \u0111\u01a1n ch\u01b0a nh\u1eadn ti\u1ec1n</div>\n    \n</div>\n", "link": "/find?type=1&query=receivable", "word": "receivable"}}, "mUrl": "/find?type=1&query=receivable", "enEnData": {"suggests": [{"id": "24066", "link": "/find?type=3&query=receivables", "word": "receivables"}], "best": {"id": "24066", "details": "\n<div id=\"find_word_24066\" class=\"world word_en\" rel=\"receivable\">\n    <h2 class=\"fl\">receivable <span class=\"color-black\">/r\u026a\u02c8si\u02d0v\u0259b\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24066\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24066\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used after a noun</div>\n    \n    <div class=\"green margin25 m-top15\">business :not yet paid</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">accounts receivable [=the amounts of money that people and (other) businesses owe you]</div>\n    \n</div>\n", "link": "/find?type=3&query=receivable", "word": "receivable"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used after a noun</div>\n    \n    <div class=\"green margin25 m-top15\">business :not yet paid</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">accounts receivable [=the amounts of money that people and (other) businesses owe you]</div>",
+            "id": "24066",
+            "mean": [],
+            "pronounce": "/r\u026a\u02c8si\u02d0v\u0259b\u0259l/",
+            "type": "adjective",
+            "word": "receivable"
+        },
+        "suggests": [
+            {
+                "id": "24066",
+                "link": "/find?type=3&query=receivables",
+                "word": "receivables"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng \u0111\u1eb7t sau danh t\u1eeb)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u01b0a nh\u1eadn ti\u1ec1n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">bills receivable</div>\n    \n    <div class=\"margin25\">h\u00f3a \u0111\u01a1n ch\u01b0a nh\u1eadn ti\u1ec1n</div>",
+            "id": "75155",
+            "mean": [],
+            "pronounce": "/ri'si:v\u0259bl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2fedaa3a2f2fe6e60bec24687cdc45ad/16e62e00596/R/receivable.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/aeb48d79afa41b833c5f8f49cb90e62b/16e62dfffca/R/receivable.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "receivable"
+        },
+        "suggests": [
+            {
+                "id": "75155",
+                "link": "/find?type=1&query=receivables",
+                "word": "receivables"
+            }
+        ]
+    }
+}

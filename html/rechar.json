@@ -1,1 +1,32 @@
-{"error": 0, "query": "rechar", "enViData": {"suggests": [{"id": "75192", "link": "/find?type=1&query=recharge", "word": "recharge"}, {"id": "75193", "link": "/find?type=1&query=rechargeable", "word": "rechargeable"}]}, "mUrl": "/find?type=1&query=rechar", "enEnData": {"suggests": [{"id": "24088", "link": "/find?type=3&query=recharge", "word": "recharge"}, {"id": "24089", "link": "/find?type=3&query=recharger", "word": "recharger"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24088",
+                "link": "/find?type=3&query=recharge",
+                "word": "recharge"
+            },
+            {
+                "id": "24089",
+                "link": "/find?type=3&query=recharger",
+                "word": "recharger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75192",
+                "link": "/find?type=1&query=recharge",
+                "word": "recharge"
+            },
+            {
+                "id": "75193",
+                "link": "/find?type=1&query=rechargeable",
+                "word": "rechargeable"
+            }
+        ]
+    }
+}

@@ -1,1 +1,117 @@
-{"error": 0, "query": "recepts", "enViData": {"suggests": [{"id": "75171", "link": "/find?type=1&query=receptacle", "word": "receptacle"}, {"id": "75172", "link": "/find?type=1&query=reception", "word": "reception"}, {"id": "75173", "link": "/find?type=1&query=reception+desk", "word": "reception desk"}, {"id": "75174", "link": "/find?type=1&query=Reception+room", "word": "Reception room"}, {"id": "75175", "link": "/find?type=1&query=reception-class", "word": "reception-class"}, {"id": "75176", "link": "/find?type=1&query=reception-committee", "word": "reception-committee"}, {"id": "75177", "link": "/find?type=1&query=reception-order", "word": "reception-order"}, {"id": "75178", "link": "/find?type=1&query=receptionist", "word": "receptionist"}, {"id": "75179", "link": "/find?type=1&query=receptive", "word": "receptive"}, {"id": "75180", "link": "/find?type=1&query=receptiveness", "word": "receptiveness"}]}, "mUrl": "/find?type=1&query=recepts", "enEnData": {"suggests": [{"id": "24076", "link": "/find?type=3&query=receptacle", "word": "receptacle"}, {"id": "24077", "link": "/find?type=3&query=reception", "word": "reception"}, {"id": "24078", "link": "/find?type=3&query=reception+class", "word": "reception class"}, {"id": "24079", "link": "/find?type=3&query=reception+room", "word": "reception room"}, {"id": "24080", "link": "/find?type=3&query=receptionist", "word": "receptionist"}, {"id": "24081", "link": "/find?type=3&query=receptive", "word": "receptive"}, {"id": "24082", "link": "/find?type=3&query=receptor", "word": "receptor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6303", "link": "/find?type=4&query=receptacle", "word": "receptacle"}, {"id": "6304", "link": "/find?type=4&query=reception", "word": "reception"}, {"id": "6305", "link": "/find?type=4&query=receptive", "word": "receptive"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24076",
+                "link": "/find?type=3&query=receptacle",
+                "word": "receptacle"
+            },
+            {
+                "id": "24077",
+                "link": "/find?type=3&query=reception",
+                "word": "reception"
+            },
+            {
+                "id": "24078",
+                "link": "/find?type=3&query=reception+class",
+                "word": "reception class"
+            },
+            {
+                "id": "24079",
+                "link": "/find?type=3&query=reception+room",
+                "word": "reception room"
+            },
+            {
+                "id": "24080",
+                "link": "/find?type=3&query=receptionist",
+                "word": "receptionist"
+            },
+            {
+                "id": "24081",
+                "link": "/find?type=3&query=receptive",
+                "word": "receptive"
+            },
+            {
+                "id": "24082",
+                "link": "/find?type=3&query=receptor",
+                "word": "receptor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "75171",
+                "link": "/find?type=1&query=receptacle",
+                "word": "receptacle"
+            },
+            {
+                "id": "75172",
+                "link": "/find?type=1&query=reception",
+                "word": "reception"
+            },
+            {
+                "id": "75173",
+                "link": "/find?type=1&query=reception+desk",
+                "word": "reception desk"
+            },
+            {
+                "id": "75174",
+                "link": "/find?type=1&query=Reception+room",
+                "word": "Reception room"
+            },
+            {
+                "id": "75175",
+                "link": "/find?type=1&query=reception-class",
+                "word": "reception-class"
+            },
+            {
+                "id": "75176",
+                "link": "/find?type=1&query=reception-committee",
+                "word": "reception-committee"
+            },
+            {
+                "id": "75177",
+                "link": "/find?type=1&query=reception-order",
+                "word": "reception-order"
+            },
+            {
+                "id": "75178",
+                "link": "/find?type=1&query=receptionist",
+                "word": "receptionist"
+            },
+            {
+                "id": "75179",
+                "link": "/find?type=1&query=receptive",
+                "word": "receptive"
+            },
+            {
+                "id": "75180",
+                "link": "/find?type=1&query=receptiveness",
+                "word": "receptiveness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6303",
+                "link": "/find?type=4&query=receptacle",
+                "word": "receptacle"
+            },
+            {
+                "id": "6304",
+                "link": "/find?type=4&query=reception",
+                "word": "reception"
+            },
+            {
+                "id": "6305",
+                "link": "/find?type=4&query=receptive",
+                "word": "receptive"
+            }
+        ]
+    }
+}
