@@ -1,1 +1,28 @@
-{"error": 0, "query": "pooches", "enViData": {"suggests": [], "best": {"id": "69731", "details": "\n<div id=\"find_word_69731\" class=\"world word_en\" rel=\"pooch\">\n    <h2 class=\"fl\">pooch <span class=\"color-black\">/pu:t\u0283/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69731\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69731\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng) ch</div>\n    \n</div>\n", "link": "/find?type=1&query=pooch", "word": "pooch"}}, "mUrl": "/find?type=1&query=pooches", "enEnData": {"suggests": [], "best": {"id": "22332", "details": "\n<div id=\"find_word_22332\" class=\"world word_en\" rel=\"pooch\">\n    <h2 class=\"fl\">pooch <span class=\"color-black\">/\u02c8pu\u02d0\u02a7/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22332\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22332\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural pooches</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :a dog</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">What a cute little pooch!</div>\n    \n</div>\n", "link": "/find?type=3&query=pooch", "word": "pooch"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural pooches</div>\n    \n    <div class=\"green margin25 m-top15\">[count] informal :a dog</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">What a cute little pooch!</div>",
+            "id": "22332",
+            "mean": [],
+            "pronounce": "/\u02c8pu\u02d0\u02a7/",
+            "type": "noun",
+            "word": "pooch"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9), (t\u1eeb l\u00f3ng) ch</div>",
+            "id": "69731",
+            "mean": [],
+            "pronounce": "/pu:t\u0283/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/14bdb3c6d5eb1d59d406e7d372226323/16e62cdf9fc/P/pooch.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/7638933bb85b24cdddffca98888e964f/16e62cdf425/P/pooch.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pooch"
+        },
+        "suggests": []
+    }
+}

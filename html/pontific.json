@@ -1,1 +1,52 @@
-{"error": 0, "query": "pontific", "enViData": {"suggests": [{"id": "69714", "link": "/find?type=1&query=pontifical", "word": "pontifical"}, {"id": "69715", "link": "/find?type=1&query=pontificalia", "word": "pontificalia"}, {"id": "69716", "link": "/find?type=1&query=pontifically", "word": "pontifically"}, {"id": "69717", "link": "/find?type=1&query=pontificate", "word": "pontificate"}, {"id": "69718", "link": "/find?type=1&query=pontification", "word": "pontification"}, {"id": "69719", "link": "/find?type=1&query=pontificator", "word": "pontificator"}]}, "mUrl": "/find?type=1&query=pontific", "enEnData": {"suggests": [{"id": "22323", "link": "/find?type=3&query=pontifical", "word": "pontifical"}, {"id": "22324", "link": "/find?type=3&query=pontificate", "word": "pontificate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22323",
+                "link": "/find?type=3&query=pontifical",
+                "word": "pontifical"
+            },
+            {
+                "id": "22324",
+                "link": "/find?type=3&query=pontificate",
+                "word": "pontificate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69714",
+                "link": "/find?type=1&query=pontifical",
+                "word": "pontifical"
+            },
+            {
+                "id": "69715",
+                "link": "/find?type=1&query=pontificalia",
+                "word": "pontificalia"
+            },
+            {
+                "id": "69716",
+                "link": "/find?type=1&query=pontifically",
+                "word": "pontifically"
+            },
+            {
+                "id": "69717",
+                "link": "/find?type=1&query=pontificate",
+                "word": "pontificate"
+            },
+            {
+                "id": "69718",
+                "link": "/find?type=1&query=pontification",
+                "word": "pontification"
+            },
+            {
+                "id": "69719",
+                "link": "/find?type=1&query=pontificator",
+                "word": "pontificator"
+            }
+        ]
+    }
+}

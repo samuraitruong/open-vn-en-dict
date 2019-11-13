@@ -1,1 +1,84 @@
-{"error": 0, "query": "pons", "enViData": {"suggests": [], "best": {"id": "69707", "details": "\n<div id=\"find_word_69707\" class=\"world word_en\" rel=\"pons\">\n    <h2 class=\"fl\">pons <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69707\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69707\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u pontes</div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) h\u1ecdc c\u1ea7u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">pons hepatis</div>\n    \n    <div class=\"margin25\">c\u1ea7u gan</div>\n    \n</div>\n", "link": "/find?type=1&query=pons", "word": "pons"}}, "mUrl": "/find?type=1&query=pons", "enEnData": {"suggests": [{"id": "22316", "link": "/find?type=3&query=ponce", "word": "ponce"}, {"id": "22317", "link": "/find?type=3&query=poncho", "word": "poncho"}, {"id": "22318", "link": "/find?type=3&query=pond", "word": "pond"}, {"id": "22319", "link": "/find?type=3&query=ponder", "word": "ponder"}, {"id": "22320", "link": "/find?type=3&query=ponderous", "word": "ponderous"}, {"id": "22321", "link": "/find?type=3&query=pong", "word": "pong"}, {"id": "22322", "link": "/find?type=3&query=pontiff", "word": "pontiff"}, {"id": "22323", "link": "/find?type=3&query=pontifical", "word": "pontifical"}, {"id": "22324", "link": "/find?type=3&query=pontificate", "word": "pontificate"}, {"id": "22325", "link": "/find?type=3&query=pontoon", "word": "pontoon"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5655", "link": "/find?type=4&query=ponder", "word": "ponder"}, {"id": "5656", "link": "/find?type=4&query=ponderous", "word": "ponderous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22316",
+                "link": "/find?type=3&query=ponce",
+                "word": "ponce"
+            },
+            {
+                "id": "22317",
+                "link": "/find?type=3&query=poncho",
+                "word": "poncho"
+            },
+            {
+                "id": "22318",
+                "link": "/find?type=3&query=pond",
+                "word": "pond"
+            },
+            {
+                "id": "22319",
+                "link": "/find?type=3&query=ponder",
+                "word": "ponder"
+            },
+            {
+                "id": "22320",
+                "link": "/find?type=3&query=ponderous",
+                "word": "ponderous"
+            },
+            {
+                "id": "22321",
+                "link": "/find?type=3&query=pong",
+                "word": "pong"
+            },
+            {
+                "id": "22322",
+                "link": "/find?type=3&query=pontiff",
+                "word": "pontiff"
+            },
+            {
+                "id": "22323",
+                "link": "/find?type=3&query=pontifical",
+                "word": "pontifical"
+            },
+            {
+                "id": "22324",
+                "link": "/find?type=3&query=pontificate",
+                "word": "pontificate"
+            },
+            {
+                "id": "22325",
+                "link": "/find?type=3&query=pontoon",
+                "word": "pontoon"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ed1 nhi\u1ec1u pontes</div>\n    \n    <div class=\"green margin25 m-top15\">(gi\u1ea3i ph\u1eabu) h\u1ecdc c\u1ea7u</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">pons hepatis</div>\n    \n    <div class=\"margin25\">c\u1ea7u gan</div>",
+            "id": "69707",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "pons"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5655",
+                "link": "/find?type=4&query=ponder",
+                "word": "ponder"
+            },
+            {
+                "id": "5656",
+                "link": "/find?type=4&query=ponderous",
+                "word": "ponderous"
+            }
+        ]
+    }
+}

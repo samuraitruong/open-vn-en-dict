@@ -1,1 +1,32 @@
-{"error": 0, "query": "poorling", "enViData": {"suggests": [{"id": "69764", "link": "/find?type=1&query=poorly", "word": "poorly"}]}, "mUrl": "/find?type=1&query=poorling", "enEnData": {"suggests": [{"id": "22348", "link": "/find?type=3&query=poorly", "word": "poorly"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5659", "link": "/find?type=4&query=poorly", "word": "poorly"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22348",
+                "link": "/find?type=3&query=poorly",
+                "word": "poorly"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69764",
+                "link": "/find?type=1&query=poorly",
+                "word": "poorly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5659",
+                "link": "/find?type=4&query=poorly",
+                "word": "poorly"
+            }
+        ]
+    }
+}
