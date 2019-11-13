@@ -1,0 +1,52 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">virtual reality</div>",
+            "id": "33024",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "VR"
+        },
+        "suggests": [
+            {
+                "id": "33024",
+                "link": "/find?type=3&query=vroom",
+                "word": "vroom"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"green margin25 m-top15\">th\u1ef1c t\u1ebf \u1ea3o, th\u1ef1c t\u1ea1i \u1ea3o (virtual reality)</div>",
+            "id": "101912",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "vr"
+        },
+        "suggests": [
+            {
+                "id": "101912",
+                "link": "/find?type=1&query=vrai",
+                "word": "vrai"
+            },
+            {
+                "id": "101912",
+                "link": "/find?type=1&query=vraisemblance",
+                "word": "vraisemblance"
+            },
+            {
+                "id": "101912",
+                "link": "/find?type=1&query=vram",
+                "word": "vram"
+            },
+            {
+                "id": "101912",
+                "link": "/find?type=1&query=vrille",
+                "word": "vrille"
+            }
+        ]
+    }
+}
