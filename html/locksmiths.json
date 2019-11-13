@@ -1,1 +1,39 @@
-{"error": 0, "query": "locksmiths", "enViData": {"suggests": [{"id": "54331", "link": "/find?type=1&query=locksmithery", "word": "locksmithery"}, {"id": "54331", "link": "/find?type=1&query=locksmithing", "word": "locksmithing"}], "best": {"id": "54331", "details": "\n<div id=\"find_word_54331\" class=\"world word_en\" rel=\"locksmith\">\n    <h2 class=\"fl\">locksmith <span class=\"color-black\">/'l\u0252ksmi\u03b8/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54331\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54331\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 [l\u00e0m] kh\u00f3a</div>\n    \n</div>\n", "link": "/find?type=1&query=locksmith", "word": "locksmith"}}, "mUrl": "/find?type=1&query=locksmiths", "enEnData": {"suggests": [], "best": {"id": "16910", "details": "\n<div id=\"find_word_16910\" class=\"world word_en\" rel=\"locksmith\">\n    <h2 class=\"fl\">locksmith <span class=\"color-black\">/\u02c8l\u0251\u02d0k\u02ccsm\u026a\u0275/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16910\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16910\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -smiths</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to make and repair locks</div>\n    \n</div>\n", "link": "/find?type=3&query=locksmith", "word": "locksmith"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -smiths</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to make and repair locks</div>",
+            "id": "16910",
+            "mean": [],
+            "pronounce": "/\u02c8l\u0251\u02d0k\u02ccsm\u026a\u0275/",
+            "type": "noun",
+            "word": "locksmith"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u1ee3 [l\u00e0m] kh\u00f3a</div>",
+            "id": "54331",
+            "mean": [],
+            "pronounce": "/'l\u0252ksmi\u03b8/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/4f0a77ef7a6b007cba3e8996f7a01e29/16e6293216d/L/locksmith.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e66ac5949788236785ba3a4f7a732133/16e62931bba/L/locksmith.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "locksmith"
+        },
+        "suggests": [
+            {
+                "id": "54331",
+                "link": "/find?type=1&query=locksmithery",
+                "word": "locksmithery"
+            },
+            {
+                "id": "54331",
+                "link": "/find?type=1&query=locksmithing",
+                "word": "locksmithing"
+            }
+        ]
+    }
+}

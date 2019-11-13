@@ -1,1 +1,52 @@
-{"error": 0, "query": "locatio", "enViData": {"suggests": [{"id": "54294", "link": "/find?type=1&query=location", "word": "location"}, {"id": "54295", "link": "/find?type=1&query=Location+quotient", "word": "Location quotient"}, {"id": "54296", "link": "/find?type=1&query=Location+theory", "word": "Location theory"}, {"id": "54297", "link": "/find?type=1&query=Locational+integration", "word": "Locational integration"}, {"id": "54298", "link": "/find?type=1&query=Locational+interdependence", "word": "Locational interdependence"}]}, "mUrl": "/find?type=1&query=locatio", "enEnData": {"suggests": [{"id": "16900", "link": "/find?type=3&query=location", "word": "location"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4266", "link": "/find?type=4&query=location", "word": "location"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16900",
+                "link": "/find?type=3&query=location",
+                "word": "location"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54294",
+                "link": "/find?type=1&query=location",
+                "word": "location"
+            },
+            {
+                "id": "54295",
+                "link": "/find?type=1&query=Location+quotient",
+                "word": "Location quotient"
+            },
+            {
+                "id": "54296",
+                "link": "/find?type=1&query=Location+theory",
+                "word": "Location theory"
+            },
+            {
+                "id": "54297",
+                "link": "/find?type=1&query=Locational+integration",
+                "word": "Locational integration"
+            },
+            {
+                "id": "54298",
+                "link": "/find?type=1&query=Locational+interdependence",
+                "word": "Locational interdependence"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4266",
+                "link": "/find?type=4&query=location",
+                "word": "location"
+            }
+        ]
+    }
+}

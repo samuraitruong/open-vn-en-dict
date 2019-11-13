@@ -1,1 +1,72 @@
-{"error": 0, "query": "loy", "enViData": {"suggests": [{"id": "54859", "link": "/find?type=1&query=loyal", "word": "loyal"}, {"id": "54860", "link": "/find?type=1&query=loyalims", "word": "loyalims"}, {"id": "54861", "link": "/find?type=1&query=loyalism", "word": "loyalism"}, {"id": "54862", "link": "/find?type=1&query=loyalist", "word": "loyalist"}, {"id": "54863", "link": "/find?type=1&query=loyally", "word": "loyally"}, {"id": "54864", "link": "/find?type=1&query=loyalty", "word": "loyalty"}]}, "mUrl": "/find?type=1&query=loy", "enEnData": {"suggests": [{"id": "17118", "link": "/find?type=3&query=loyal", "word": "loyal"}, {"id": "17119", "link": "/find?type=3&query=loyalist", "word": "loyalist"}, {"id": "17120", "link": "/find?type=3&query=loyalty", "word": "loyalty"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4310", "link": "/find?type=4&query=loyal", "word": "loyal"}, {"id": "4311", "link": "/find?type=4&query=loyalty", "word": "loyalty"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17118",
+                "link": "/find?type=3&query=loyal",
+                "word": "loyal"
+            },
+            {
+                "id": "17119",
+                "link": "/find?type=3&query=loyalist",
+                "word": "loyalist"
+            },
+            {
+                "id": "17120",
+                "link": "/find?type=3&query=loyalty",
+                "word": "loyalty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "54859",
+                "link": "/find?type=1&query=loyal",
+                "word": "loyal"
+            },
+            {
+                "id": "54860",
+                "link": "/find?type=1&query=loyalims",
+                "word": "loyalims"
+            },
+            {
+                "id": "54861",
+                "link": "/find?type=1&query=loyalism",
+                "word": "loyalism"
+            },
+            {
+                "id": "54862",
+                "link": "/find?type=1&query=loyalist",
+                "word": "loyalist"
+            },
+            {
+                "id": "54863",
+                "link": "/find?type=1&query=loyally",
+                "word": "loyally"
+            },
+            {
+                "id": "54864",
+                "link": "/find?type=1&query=loyalty",
+                "word": "loyalty"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4310",
+                "link": "/find?type=4&query=loyal",
+                "word": "loyal"
+            },
+            {
+                "id": "4311",
+                "link": "/find?type=4&query=loyalty",
+                "word": "loyalty"
+            }
+        ]
+    }
+}

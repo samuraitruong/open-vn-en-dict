@@ -1,1 +1,50 @@
-{"error": 0, "query": "locus", "enViData": {"suggests": [{"id": "54355", "link": "/find?type=1&query=locus+classicus", "word": "locus classicus"}, {"id": "54355", "link": "/find?type=1&query=locust", "word": "locust"}, {"id": "54355", "link": "/find?type=1&query=locust-tree", "word": "locust-tree"}], "best": {"id": "54355", "details": "\n<div id=\"find_word_54355\" class=\"world word_en\" rel=\"locus\">\n    <h2 class=\"fl\">locus <span class=\"color-black\">/'l\u0259\u028ak\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"54355\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"54355\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u loci)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01a1i, v\u1ecb tr\u00ed (c\u1ee7a v\u1eadt g\u00ec)</div>\n    \n</div>\n", "link": "/find?type=1&query=locus", "word": "locus"}}, "mUrl": "/find?type=1&query=locus", "enEnData": {"suggests": [{"id": "16917", "link": "/find?type=3&query=locust", "word": "locust"}], "best": {"id": "16917", "details": "\n<div id=\"find_word_16917\" class=\"world word_en\" rel=\"locus\">\n    <h2 class=\"fl\">locus <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16917\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16917\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8lo\u028ak\u0259s/ , pl loci /\u02c8lo\u028a\u02ccsa\u026a/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] formal :a central or main place where something happens or is found</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The area became a locus of resistance to the government.</div>\n    \n</div>\n", "link": "/find?type=3&query=locus", "word": "locus"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">/\u02c8lo\u028ak\u0259s/ , pl loci /\u02c8lo\u028a\u02ccsa\u026a/</div>\n    \n    <div class=\"green margin25 m-top15\">[count] formal :a central or main place where something happens or is found</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The area became a locus of resistance to the government.</div>",
+            "id": "16917",
+            "mean": [],
+            "pronounce": "",
+            "type": "noun",
+            "word": "locus"
+        },
+        "suggests": [
+            {
+                "id": "16917",
+                "link": "/find?type=3&query=locust",
+                "word": "locust"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u loci)</div>\n    \n    <div class=\"green margin25 m-top15\">n\u01a1i, v\u1ecb tr\u00ed (c\u1ee7a v\u1eadt g\u00ec)</div>",
+            "id": "54355",
+            "mean": [],
+            "pronounce": "/'l\u0259\u028ak\u0259s/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5c4f72966c463199a66c1a0d50b64381/16e6293366e/L/locus.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b67cb91a8b56316aae97a1b29652cd97/16e62932f47/L/locus.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "locus"
+        },
+        "suggests": [
+            {
+                "id": "54355",
+                "link": "/find?type=1&query=locus+classicus",
+                "word": "locus classicus"
+            },
+            {
+                "id": "54355",
+                "link": "/find?type=1&query=locust",
+                "word": "locust"
+            },
+            {
+                "id": "54355",
+                "link": "/find?type=1&query=locust-tree",
+                "word": "locust-tree"
+            }
+        ]
+    }
+}
