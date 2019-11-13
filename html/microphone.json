@@ -1,1 +1,28 @@
-{"error": 0, "query": "microphone", "enViData": {"suggests": [], "best": {"id": "57562", "details": "\n<div id=\"find_word_57562\" class=\"world word_en\" rel=\"microphone\">\n    <h2 class=\"fl\">microphone <span class=\"color-black\">/'maikr\u0259f\u0259\u028an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57562\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57562\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">micro</div>\n    \n</div>\n", "link": "/find?type=1&query=microphone", "word": "microphone"}}, "mUrl": "/find?type=1&query=microphone", "enEnData": {"suggests": [], "best": {"id": "18072", "details": "\n<div id=\"find_word_18072\" class=\"world word_en\" rel=\"microphone\">\n    <h2 class=\"fl\">microphone <span class=\"color-black\">/\u02c8ma\u026akr\u0259\u02ccfo\u028an/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18072\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18072\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phones</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device into which people speak or sing in order to record their voices or to make them sound louder - called also (informal) mike</div>\n    \n</div>\n", "link": "/find?type=3&query=microphone", "word": "microphone"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -phones</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device into which people speak or sing in order to record their voices or to make them sound louder - called also (informal) mike</div>",
+            "id": "18072",
+            "mean": [],
+            "pronounce": "/\u02c8ma\u026akr\u0259\u02ccfo\u028an/",
+            "type": "noun",
+            "word": "microphone"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">micro</div>",
+            "id": "57562",
+            "mean": [],
+            "pronounce": "/'maikr\u0259f\u0259\u028an/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/93c44246cdcd0ad2183e7a71b49dc92f/16e629e5a24/M/microphone.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c98a0739397f012ab85184fe5d2a741c/16e629e5451/M/microphone.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "microphone"
+        },
+        "suggests": []
+    }
+}

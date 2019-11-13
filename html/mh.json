@@ -1,1 +1,22 @@
-{"error": 0, "query": "mh", "enViData": {"suggests": [{"id": "57496", "link": "/find?type=1&query=MHz", "word": "MHz"}]}, "mUrl": "/find?type=1&query=mh", "enEnData": {"suggests": [{"id": "18044", "link": "/find?type=3&query=MHz", "word": "MHz"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18044",
+                "link": "/find?type=3&query=MHz",
+                "word": "MHz"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57496",
+                "link": "/find?type=1&query=MHz",
+                "word": "MHz"
+            }
+        ]
+    }
+}

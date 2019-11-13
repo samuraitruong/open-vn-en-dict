@@ -1,1 +1,22 @@
-{"error": 0, "query": "myal", "enViData": {"suggests": [{"id": "59549", "link": "/find?type=1&query=myalgia", "word": "myalgia"}]}, "mUrl": "/find?type=1&query=myal", "enEnData": {"suggests": [{"id": "18932", "link": "/find?type=3&query=myalgic+encephalomyelitis", "word": "myalgic encephalomyelitis"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18932",
+                "link": "/find?type=3&query=myalgic+encephalomyelitis",
+                "word": "myalgic encephalomyelitis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59549",
+                "link": "/find?type=1&query=myalgia",
+                "word": "myalgia"
+            }
+        ]
+    }
+}

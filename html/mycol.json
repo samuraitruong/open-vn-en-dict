@@ -1,1 +1,27 @@
-{"error": 0, "query": "mycol", "enViData": {"suggests": [{"id": "59552", "link": "/find?type=1&query=mycologic", "word": "mycologic"}, {"id": "59553", "link": "/find?type=1&query=mycological", "word": "mycological"}, {"id": "59554", "link": "/find?type=1&query=mycologist", "word": "mycologist"}, {"id": "59555", "link": "/find?type=1&query=mycology", "word": "mycology"}]}, "mUrl": "/find?type=1&query=mycol", "ftype": "1"}
+{
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59552",
+                "link": "/find?type=1&query=mycologic",
+                "word": "mycologic"
+            },
+            {
+                "id": "59553",
+                "link": "/find?type=1&query=mycological",
+                "word": "mycological"
+            },
+            {
+                "id": "59554",
+                "link": "/find?type=1&query=mycologist",
+                "word": "mycologist"
+            },
+            {
+                "id": "59555",
+                "link": "/find?type=1&query=mycology",
+                "word": "mycology"
+            }
+        ]
+    }
+}
