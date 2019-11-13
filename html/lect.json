@@ -1,1 +1,72 @@
-{"error": 0, "query": "lect", "enViData": {"suggests": [{"id": "53080", "link": "/find?type=1&query=lectern", "word": "lectern"}, {"id": "53081", "link": "/find?type=1&query=lection", "word": "lection"}, {"id": "53082", "link": "/find?type=1&query=lectionary", "word": "lectionary"}, {"id": "53083", "link": "/find?type=1&query=lecture", "word": "lecture"}, {"id": "53084", "link": "/find?type=1&query=lecturer", "word": "lecturer"}, {"id": "53085", "link": "/find?type=1&query=lectureship", "word": "lectureship"}]}, "mUrl": "/find?type=1&query=lect", "enEnData": {"suggests": [{"id": "16403", "link": "/find?type=3&query=lectern", "word": "lectern"}, {"id": "16404", "link": "/find?type=3&query=lecture", "word": "lecture"}, {"id": "16405", "link": "/find?type=3&query=lecturer", "word": "lecturer"}, {"id": "16406", "link": "/find?type=3&query=lectureship", "word": "lectureship"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4158", "link": "/find?type=4&query=lecture", "word": "lecture"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16403",
+                "link": "/find?type=3&query=lectern",
+                "word": "lectern"
+            },
+            {
+                "id": "16404",
+                "link": "/find?type=3&query=lecture",
+                "word": "lecture"
+            },
+            {
+                "id": "16405",
+                "link": "/find?type=3&query=lecturer",
+                "word": "lecturer"
+            },
+            {
+                "id": "16406",
+                "link": "/find?type=3&query=lectureship",
+                "word": "lectureship"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53080",
+                "link": "/find?type=1&query=lectern",
+                "word": "lectern"
+            },
+            {
+                "id": "53081",
+                "link": "/find?type=1&query=lection",
+                "word": "lection"
+            },
+            {
+                "id": "53082",
+                "link": "/find?type=1&query=lectionary",
+                "word": "lectionary"
+            },
+            {
+                "id": "53083",
+                "link": "/find?type=1&query=lecture",
+                "word": "lecture"
+            },
+            {
+                "id": "53084",
+                "link": "/find?type=1&query=lecturer",
+                "word": "lecturer"
+            },
+            {
+                "id": "53085",
+                "link": "/find?type=1&query=lectureship",
+                "word": "lectureship"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4158",
+                "link": "/find?type=4&query=lecture",
+                "word": "lecture"
+            }
+        ]
+    }
+}

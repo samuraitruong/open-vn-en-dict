@@ -1,1 +1,22 @@
-{"error": 0, "query": "legati", "enViData": {"suggests": [{"id": "53156", "link": "/find?type=1&query=legation", "word": "legation"}]}, "mUrl": "/find?type=1&query=legati", "enEnData": {"suggests": [{"id": "16442", "link": "/find?type=3&query=legation", "word": "legation"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16442",
+                "link": "/find?type=3&query=legation",
+                "word": "legation"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53156",
+                "link": "/find?type=1&query=legation",
+                "word": "legation"
+            }
+        ]
+    }
+}

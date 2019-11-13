@@ -1,1 +1,65 @@
-{"error": 0, "query": "lechering", "enViData": {"suggests": [{"id": "53073", "link": "/find?type=1&query=lecherous", "word": "lecherous"}, {"id": "53073", "link": "/find?type=1&query=lecherously", "word": "lecherously"}, {"id": "53073", "link": "/find?type=1&query=lecherousness", "word": "lecherousness"}, {"id": "53073", "link": "/find?type=1&query=lechery", "word": "lechery"}], "best": {"id": "53073", "details": "\n<div id=\"find_word_53073\" class=\"world word_en\" rel=\"lecher\">\n    <h2 class=\"fl\">lecher <span class=\"color-black\">/'let\u222b\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53073\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53073\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb d\u00e2m \u0111\u00e3ng</div>\n    \n</div>\n", "link": "/find?type=1&query=lecher", "word": "lecher"}}, "mUrl": "/find?type=1&query=lechering", "enEnData": {"suggests": [{"id": "16401", "link": "/find?type=3&query=lecherous", "word": "lecherous"}], "best": {"id": "16401", "details": "\n<div id=\"find_word_16401\" class=\"world word_en\" rel=\"lecher\">\n    <h2 class=\"fl\">lecher <span class=\"color-black\">/\u02c8l\u025b\u02a7\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16401\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16401\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a man who shows an excessive or disgusting interest in sex</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a dirty lecher</div>\n    \n</div>\n", "link": "/find?type=3&query=lecher", "word": "lecher"}}, "ftype": "1", "synData": {"suggests": [{"id": "4157", "link": "/find?type=4&query=lecherous", "word": "lecherous"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a man who shows an excessive or disgusting interest in sex</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a dirty lecher</div>",
+            "id": "16401",
+            "mean": [],
+            "pronounce": "/\u02c8l\u025b\u02a7\u025a/",
+            "type": "noun",
+            "word": "lecher"
+        },
+        "suggests": [
+            {
+                "id": "16401",
+                "link": "/find?type=3&query=lecherous",
+                "word": "lecherous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(x\u1ea5u)</div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb d\u00e2m \u0111\u00e3ng</div>",
+            "id": "53073",
+            "mean": [],
+            "pronounce": "/'let\u222b\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/20b6766442fbe9486a393dbfd15a517e/16e628eacdd/L/lecher.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f0e10e8d6ff902a17e6cc156cc0e6f2b/16e628ea5a9/L/lecher.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lecher"
+        },
+        "suggests": [
+            {
+                "id": "53073",
+                "link": "/find?type=1&query=lecherous",
+                "word": "lecherous"
+            },
+            {
+                "id": "53073",
+                "link": "/find?type=1&query=lecherously",
+                "word": "lecherously"
+            },
+            {
+                "id": "53073",
+                "link": "/find?type=1&query=lecherousness",
+                "word": "lecherousness"
+            },
+            {
+                "id": "53073",
+                "link": "/find?type=1&query=lechery",
+                "word": "lechery"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4157",
+                "link": "/find?type=4&query=lecherous",
+                "word": "lecherous"
+            }
+        ]
+    }
+}

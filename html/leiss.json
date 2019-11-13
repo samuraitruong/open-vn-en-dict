@@ -1,1 +1,77 @@
-{"error": 0, "query": "leiss", "enViData": {"suggests": [{"id": "53211", "link": "/find?type=1&query=leister", "word": "leister"}, {"id": "53212", "link": "/find?type=1&query=leisure", "word": "leisure"}, {"id": "53213", "link": "/find?type=1&query=leisure+centre", "word": "leisure centre"}, {"id": "53214", "link": "/find?type=1&query=leisured", "word": "leisured"}, {"id": "53215", "link": "/find?type=1&query=leisureliness", "word": "leisureliness"}, {"id": "53216", "link": "/find?type=1&query=leisurely", "word": "leisurely"}]}, "mUrl": "/find?type=1&query=leiss", "enEnData": {"suggests": [{"id": "16469", "link": "/find?type=3&query=leisure", "word": "leisure"}, {"id": "16470", "link": "/find?type=3&query=leisure+suit", "word": "leisure suit"}, {"id": "16471", "link": "/find?type=3&query=leisured", "word": "leisured"}, {"id": "16472", "link": "/find?type=3&query=leisurely", "word": "leisurely"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4173", "link": "/find?type=4&query=leisure", "word": "leisure"}, {"id": "4174", "link": "/find?type=4&query=leisured", "word": "leisured"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16469",
+                "link": "/find?type=3&query=leisure",
+                "word": "leisure"
+            },
+            {
+                "id": "16470",
+                "link": "/find?type=3&query=leisure+suit",
+                "word": "leisure suit"
+            },
+            {
+                "id": "16471",
+                "link": "/find?type=3&query=leisured",
+                "word": "leisured"
+            },
+            {
+                "id": "16472",
+                "link": "/find?type=3&query=leisurely",
+                "word": "leisurely"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53211",
+                "link": "/find?type=1&query=leister",
+                "word": "leister"
+            },
+            {
+                "id": "53212",
+                "link": "/find?type=1&query=leisure",
+                "word": "leisure"
+            },
+            {
+                "id": "53213",
+                "link": "/find?type=1&query=leisure+centre",
+                "word": "leisure centre"
+            },
+            {
+                "id": "53214",
+                "link": "/find?type=1&query=leisured",
+                "word": "leisured"
+            },
+            {
+                "id": "53215",
+                "link": "/find?type=1&query=leisureliness",
+                "word": "leisureliness"
+            },
+            {
+                "id": "53216",
+                "link": "/find?type=1&query=leisurely",
+                "word": "leisurely"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4173",
+                "link": "/find?type=4&query=leisure",
+                "word": "leisure"
+            },
+            {
+                "id": "4174",
+                "link": "/find?type=4&query=leisured",
+                "word": "leisured"
+            }
+        ]
+    }
+}

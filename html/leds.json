@@ -1,1 +1,80 @@
-{"error": 0, "query": "leds", "enViData": {"suggests": [{"id": "53087", "link": "/find?type=1&query=LED", "word": "LED"}, {"id": "53087", "link": "/find?type=1&query=lederhosen", "word": "lederhosen"}, {"id": "53087", "link": "/find?type=1&query=ledge", "word": "ledge"}, {"id": "53087", "link": "/find?type=1&query=ledger", "word": "ledger"}, {"id": "53087", "link": "/find?type=1&query=ledger-bait", "word": "ledger-bait"}], "best": {"id": "53087", "details": "\n<div id=\"find_word_53087\" class=\"world word_en\" rel=\"led\">\n    <h2 class=\"fl\">led <span class=\"color-black\">/led/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"53087\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"53087\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"color-light-grey margin25\">qk c\u1ee7a lead</div>\n    \n</div>\n", "link": "/find?type=1&query=led", "word": "led"}}, "mUrl": "/find?type=1&query=leds", "enEnData": {"suggests": [{"id": "16407", "link": "/find?type=3&query=LED", "word": "LED"}, {"id": "16407", "link": "/find?type=3&query=ledge", "word": "ledge"}, {"id": "16407", "link": "/find?type=3&query=ledger", "word": "ledger"}], "best": {"id": "16407", "details": "\n<div id=\"find_word_16407\" class=\"world word_en\" rel=\"led\">\n    <h2 class=\"fl\">led <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16407\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16407\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">past tense and past participle of 1lead</div>\n    \n</div>\n", "link": "/find?type=3&query=led", "word": "led"}}, "ftype": "1", "synData": {"suggests": [{"id": "4159", "link": "/find?type=4&query=ledge", "word": "ledge"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"\">past tense and past participle of 1lead</div>",
+            "id": "16407",
+            "mean": [],
+            "pronounce": "",
+            "type": "",
+            "word": "led"
+        },
+        "suggests": [
+            {
+                "id": "16407",
+                "link": "/find?type=3&query=LED",
+                "word": "LED"
+            },
+            {
+                "id": "16407",
+                "link": "/find?type=3&query=ledge",
+                "word": "ledge"
+            },
+            {
+                "id": "16407",
+                "link": "/find?type=3&query=ledger",
+                "word": "ledger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"color-light-grey margin25\">qk c\u1ee7a lead</div>",
+            "id": "53087",
+            "mean": [],
+            "pronounce": "/led/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/32c96669244631da20545a1fed1692a2/16e628ebe36/L/led.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/58737d09e4152a1a7594f8a91d0f093b/16e628eb7c6/L/led.mp3"
+            },
+            "type": "",
+            "word": "led"
+        },
+        "suggests": [
+            {
+                "id": "53087",
+                "link": "/find?type=1&query=LED",
+                "word": "LED"
+            },
+            {
+                "id": "53087",
+                "link": "/find?type=1&query=lederhosen",
+                "word": "lederhosen"
+            },
+            {
+                "id": "53087",
+                "link": "/find?type=1&query=ledge",
+                "word": "ledge"
+            },
+            {
+                "id": "53087",
+                "link": "/find?type=1&query=ledger",
+                "word": "ledger"
+            },
+            {
+                "id": "53087",
+                "link": "/find?type=1&query=ledger-bait",
+                "word": "ledger-bait"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4159",
+                "link": "/find?type=4&query=ledge",
+                "word": "ledge"
+            }
+        ]
+    }
+}

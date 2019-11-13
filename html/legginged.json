@@ -1,1 +1,22 @@
-{"error": 0, "query": "legginged", "enViData": {"suggests": [{"id": "53169", "link": "/find?type=1&query=leggings", "word": "leggings"}]}, "mUrl": "/find?type=1&query=legginged", "enEnData": {"suggests": [{"id": "16448", "link": "/find?type=3&query=leggings", "word": "leggings"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16448",
+                "link": "/find?type=3&query=leggings",
+                "word": "leggings"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "53169",
+                "link": "/find?type=1&query=leggings",
+                "word": "leggings"
+            }
+        ]
+    }
+}
