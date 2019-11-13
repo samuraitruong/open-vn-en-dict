@@ -1,1 +1,43 @@
-{"error": 0, "query": "moderato", "enViData": {"suggests": [{"id": "58344", "link": "/find?type=1&query=moderator", "word": "moderator"}], "best": {"id": "58344", "details": "\n<div id=\"find_word_58344\" class=\"world word_en\" rel=\"moderato\">\n    <h2 class=\"fl\">moderato <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58344\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58344\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eebh\u1ea1c (nh\u1ecbp)</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eeb ph\u1ea3i</div>\n    \n</div>\n", "link": "/find?type=1&query=moderato", "word": "moderato"}}, "mUrl": "/find?type=1&query=moderato", "enEnData": {"suggests": [{"id": "18434", "link": "/find?type=3&query=moderator", "word": "moderator"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4655", "link": "/find?type=4&query=moderator", "word": "moderator"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18434",
+                "link": "/find?type=3&query=moderator",
+                "word": "moderator"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eebh\u1ea1c (nh\u1ecbp)</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u1eeb ph\u1ea3i</div>",
+            "id": "58344",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/03f7c9c7a77607e340e59bdd41050b9a/16e62a295f6/M/moderato.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/518e63895603e6b613e05d5ad2de1750/16e62a28f4c/M/moderato.mp3"
+            },
+            "type": "Danh t\u1eebh\u1ea1c (nh\u1ecbp)",
+            "word": "moderato"
+        },
+        "suggests": [
+            {
+                "id": "58344",
+                "link": "/find?type=1&query=moderator",
+                "word": "moderator"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4655",
+                "link": "/find?type=4&query=moderator",
+                "word": "moderator"
+            }
+        ]
+    }
+}

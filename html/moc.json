@@ -1,1 +1,112 @@
-{"error": 0, "query": "moc", "enViData": {"suggests": [{"id": "58319", "link": "/find?type=1&query=moccasin", "word": "moccasin"}, {"id": "58320", "link": "/find?type=1&query=mocha", "word": "mocha"}, {"id": "58321", "link": "/find?type=1&query=mock", "word": "mock"}, {"id": "58322", "link": "/find?type=1&query=mock+turtle+soup", "word": "mock turtle soup"}, {"id": "58323", "link": "/find?type=1&query=mock-heroic", "word": "mock-heroic"}, {"id": "58324", "link": "/find?type=1&query=mock-up", "word": "mock-up"}, {"id": "58325", "link": "/find?type=1&query=mocker", "word": "mocker"}, {"id": "58326", "link": "/find?type=1&query=mockery", "word": "mockery"}, {"id": "58327", "link": "/find?type=1&query=mockingbird", "word": "mockingbird"}, {"id": "58328", "link": "/find?type=1&query=mockingly", "word": "mockingly"}]}, "mUrl": "/find?type=1&query=moc", "enEnData": {"suggests": [{"id": "18417", "link": "/find?type=3&query=moccasin", "word": "moccasin"}, {"id": "18418", "link": "/find?type=3&query=mocha", "word": "mocha"}, {"id": "18419", "link": "/find?type=3&query=mock", "word": "mock"}, {"id": "18420", "link": "/find?type=3&query=mock+turtleneck", "word": "mock turtleneck"}, {"id": "18421", "link": "/find?type=3&query=mockery", "word": "mockery"}, {"id": "18422", "link": "/find?type=3&query=mockingbird", "word": "mockingbird"}, {"id": "18423", "link": "/find?type=3&query=mock-up", "word": "mock-up"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4649", "link": "/find?type=4&query=mock", "word": "mock"}, {"id": "4650", "link": "/find?type=4&query=mockery", "word": "mockery"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18417",
+                "link": "/find?type=3&query=moccasin",
+                "word": "moccasin"
+            },
+            {
+                "id": "18418",
+                "link": "/find?type=3&query=mocha",
+                "word": "mocha"
+            },
+            {
+                "id": "18419",
+                "link": "/find?type=3&query=mock",
+                "word": "mock"
+            },
+            {
+                "id": "18420",
+                "link": "/find?type=3&query=mock+turtleneck",
+                "word": "mock turtleneck"
+            },
+            {
+                "id": "18421",
+                "link": "/find?type=3&query=mockery",
+                "word": "mockery"
+            },
+            {
+                "id": "18422",
+                "link": "/find?type=3&query=mockingbird",
+                "word": "mockingbird"
+            },
+            {
+                "id": "18423",
+                "link": "/find?type=3&query=mock-up",
+                "word": "mock-up"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58319",
+                "link": "/find?type=1&query=moccasin",
+                "word": "moccasin"
+            },
+            {
+                "id": "58320",
+                "link": "/find?type=1&query=mocha",
+                "word": "mocha"
+            },
+            {
+                "id": "58321",
+                "link": "/find?type=1&query=mock",
+                "word": "mock"
+            },
+            {
+                "id": "58322",
+                "link": "/find?type=1&query=mock+turtle+soup",
+                "word": "mock turtle soup"
+            },
+            {
+                "id": "58323",
+                "link": "/find?type=1&query=mock-heroic",
+                "word": "mock-heroic"
+            },
+            {
+                "id": "58324",
+                "link": "/find?type=1&query=mock-up",
+                "word": "mock-up"
+            },
+            {
+                "id": "58325",
+                "link": "/find?type=1&query=mocker",
+                "word": "mocker"
+            },
+            {
+                "id": "58326",
+                "link": "/find?type=1&query=mockery",
+                "word": "mockery"
+            },
+            {
+                "id": "58327",
+                "link": "/find?type=1&query=mockingbird",
+                "word": "mockingbird"
+            },
+            {
+                "id": "58328",
+                "link": "/find?type=1&query=mockingly",
+                "word": "mockingly"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4649",
+                "link": "/find?type=4&query=mock",
+                "word": "mock"
+            },
+            {
+                "id": "4650",
+                "link": "/find?type=4&query=mockery",
+                "word": "mockery"
+            }
+        ]
+    }
+}

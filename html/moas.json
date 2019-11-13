@@ -1,1 +1,57 @@
-{"error": 0, "query": "moas", "enViData": {"suggests": [{"id": "58297", "link": "/find?type=1&query=moan", "word": "moan"}, {"id": "58298", "link": "/find?type=1&query=moanful", "word": "moanful"}, {"id": "58299", "link": "/find?type=1&query=moaningly", "word": "moaningly"}, {"id": "58300", "link": "/find?type=1&query=moat", "word": "moat"}, {"id": "58301", "link": "/find?type=1&query=moated", "word": "moated"}]}, "mUrl": "/find?type=1&query=moas", "enEnData": {"suggests": [{"id": "18406", "link": "/find?type=3&query=moan", "word": "moan"}, {"id": "18407", "link": "/find?type=3&query=moat", "word": "moat"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4644", "link": "/find?type=4&query=moan", "word": "moan"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18406",
+                "link": "/find?type=3&query=moan",
+                "word": "moan"
+            },
+            {
+                "id": "18407",
+                "link": "/find?type=3&query=moat",
+                "word": "moat"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58297",
+                "link": "/find?type=1&query=moan",
+                "word": "moan"
+            },
+            {
+                "id": "58298",
+                "link": "/find?type=1&query=moanful",
+                "word": "moanful"
+            },
+            {
+                "id": "58299",
+                "link": "/find?type=1&query=moaningly",
+                "word": "moaningly"
+            },
+            {
+                "id": "58300",
+                "link": "/find?type=1&query=moat",
+                "word": "moat"
+            },
+            {
+                "id": "58301",
+                "link": "/find?type=1&query=moated",
+                "word": "moated"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4644",
+                "link": "/find?type=4&query=moan",
+                "word": "moan"
+            }
+        ]
+    }
+}

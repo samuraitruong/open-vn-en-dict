@@ -1,1 +1,62 @@
-{"error": 0, "query": "mitis", "enViData": {"suggests": [{"id": "58237", "link": "/find?type=1&query=mitigate", "word": "mitigate"}, {"id": "58238", "link": "/find?type=1&query=mitigating", "word": "mitigating"}, {"id": "58239", "link": "/find?type=1&query=mitigation", "word": "mitigation"}, {"id": "58240", "link": "/find?type=1&query=mitigative", "word": "mitigative"}, {"id": "58241", "link": "/find?type=1&query=mitigatory", "word": "mitigatory"}]}, "mUrl": "/find?type=1&query=mitis", "enEnData": {"suggests": [{"id": "18382", "link": "/find?type=3&query=mitigate", "word": "mitigate"}, {"id": "18383", "link": "/find?type=3&query=mitigating", "word": "mitigating"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4638", "link": "/find?type=4&query=mitigate", "word": "mitigate"}, {"id": "4639", "link": "/find?type=4&query=mitigating", "word": "mitigating"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18382",
+                "link": "/find?type=3&query=mitigate",
+                "word": "mitigate"
+            },
+            {
+                "id": "18383",
+                "link": "/find?type=3&query=mitigating",
+                "word": "mitigating"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58237",
+                "link": "/find?type=1&query=mitigate",
+                "word": "mitigate"
+            },
+            {
+                "id": "58238",
+                "link": "/find?type=1&query=mitigating",
+                "word": "mitigating"
+            },
+            {
+                "id": "58239",
+                "link": "/find?type=1&query=mitigation",
+                "word": "mitigation"
+            },
+            {
+                "id": "58240",
+                "link": "/find?type=1&query=mitigative",
+                "word": "mitigative"
+            },
+            {
+                "id": "58241",
+                "link": "/find?type=1&query=mitigatory",
+                "word": "mitigatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4638",
+                "link": "/find?type=4&query=mitigate",
+                "word": "mitigate"
+            },
+            {
+                "id": "4639",
+                "link": "/find?type=4&query=mitigating",
+                "word": "mitigating"
+            }
+        ]
+    }
+}

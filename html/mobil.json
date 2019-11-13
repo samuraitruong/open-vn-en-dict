@@ -1,1 +1,107 @@
-{"error": 0, "query": "mobil", "enViData": {"suggests": [{"id": "58306", "link": "/find?type=1&query=mobile", "word": "mobile"}, {"id": "58307", "link": "/find?type=1&query=mobile+home", "word": "mobile home"}, {"id": "58308", "link": "/find?type=1&query=mobile+unit", "word": "mobile unit"}, {"id": "58309", "link": "/find?type=1&query=mobilise", "word": "mobilise"}, {"id": "58310", "link": "/find?type=1&query=mobility", "word": "mobility"}, {"id": "58311", "link": "/find?type=1&query=Mobility+of+labor", "word": "Mobility of labor"}, {"id": "58312", "link": "/find?type=1&query=mobilization", "word": "mobilization"}, {"id": "58313", "link": "/find?type=1&query=mobilization%2C+mobilisation", "word": "mobilization, mobilisation"}, {"id": "58314", "link": "/find?type=1&query=mobilize", "word": "mobilize"}, {"id": "58315", "link": "/find?type=1&query=mobilize%2C+mobilise", "word": "mobilize, mobilise"}]}, "mUrl": "/find?type=1&query=mobil", "enEnData": {"suggests": [{"id": "18410", "link": "/find?type=3&query=mobile", "word": "mobile"}, {"id": "18411", "link": "/find?type=3&query=mobile+home", "word": "mobile home"}, {"id": "18412", "link": "/find?type=3&query=mobile+library", "word": "mobile library"}, {"id": "18413", "link": "/find?type=3&query=mobile+phone", "word": "mobile phone"}, {"id": "18414", "link": "/find?type=3&query=mobility", "word": "mobility"}, {"id": "18415", "link": "/find?type=3&query=mobilize", "word": "mobilize"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4647", "link": "/find?type=4&query=mobile", "word": "mobile"}, {"id": "4648", "link": "/find?type=4&query=mobilize", "word": "mobilize"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18410",
+                "link": "/find?type=3&query=mobile",
+                "word": "mobile"
+            },
+            {
+                "id": "18411",
+                "link": "/find?type=3&query=mobile+home",
+                "word": "mobile home"
+            },
+            {
+                "id": "18412",
+                "link": "/find?type=3&query=mobile+library",
+                "word": "mobile library"
+            },
+            {
+                "id": "18413",
+                "link": "/find?type=3&query=mobile+phone",
+                "word": "mobile phone"
+            },
+            {
+                "id": "18414",
+                "link": "/find?type=3&query=mobility",
+                "word": "mobility"
+            },
+            {
+                "id": "18415",
+                "link": "/find?type=3&query=mobilize",
+                "word": "mobilize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58306",
+                "link": "/find?type=1&query=mobile",
+                "word": "mobile"
+            },
+            {
+                "id": "58307",
+                "link": "/find?type=1&query=mobile+home",
+                "word": "mobile home"
+            },
+            {
+                "id": "58308",
+                "link": "/find?type=1&query=mobile+unit",
+                "word": "mobile unit"
+            },
+            {
+                "id": "58309",
+                "link": "/find?type=1&query=mobilise",
+                "word": "mobilise"
+            },
+            {
+                "id": "58310",
+                "link": "/find?type=1&query=mobility",
+                "word": "mobility"
+            },
+            {
+                "id": "58311",
+                "link": "/find?type=1&query=Mobility+of+labor",
+                "word": "Mobility of labor"
+            },
+            {
+                "id": "58312",
+                "link": "/find?type=1&query=mobilization",
+                "word": "mobilization"
+            },
+            {
+                "id": "58313",
+                "link": "/find?type=1&query=mobilization%2C+mobilisation",
+                "word": "mobilization, mobilisation"
+            },
+            {
+                "id": "58314",
+                "link": "/find?type=1&query=mobilize",
+                "word": "mobilize"
+            },
+            {
+                "id": "58315",
+                "link": "/find?type=1&query=mobilize%2C+mobilise",
+                "word": "mobilize, mobilise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4647",
+                "link": "/find?type=4&query=mobile",
+                "word": "mobile"
+            },
+            {
+                "id": "4648",
+                "link": "/find?type=4&query=mobilize",
+                "word": "mobilize"
+            }
+        ]
+    }
+}

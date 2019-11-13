@@ -1,1 +1,40 @@
-{"error": 0, "query": "modal", "enViData": {"suggests": [{"id": "58332", "link": "/find?type=1&query=modality", "word": "modality"}], "best": {"id": "58332", "details": "\n<div id=\"find_word_58332\" class=\"world word_en\" rel=\"modal\">\n    <h2 class=\"fl\">modal <span class=\"color-black\">/'m\u0259\u028adl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58332\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58332\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng modal verb, modal auxiliary, modal auxiliary verb)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng t\u1eeb t\u00ecnh th\u00e1i (nh\u01b0 can, may, might, must v\u00e0 should)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ng\u00f4n ng\u1eef h\u1ecdc) [thu\u1ed9c] h\u00ecnh th\u00e1i</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u00e1ch th\u1ee9c, [thu\u1ed9c] ph\u01b0\u01a1ng th\u1ee9c</div>\n    \n</div>\n", "link": "/find?type=1&query=modal", "word": "modal"}}, "mUrl": "/find?type=1&query=modal", "enEnData": {"suggests": [{"id": "18425", "link": "/find?type=3&query=modal+verb", "word": "modal verb"}], "best": {"id": "18425", "details": "\n<div id=\"find_word_18425\" class=\"world word_en\" rel=\"modal\">\n    <h2 class=\"fl\">modal <span class=\"color-black\">/\u02c8mo\u028adn\u0329/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18425\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18425\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -als</div>\n    \n    <div class=\"green margin25 m-top15\">[count] grammar :modal verb</div>\n    \n</div>\n", "link": "/find?type=3&query=modal", "word": "modal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -als</div>\n    \n    <div class=\"green margin25 m-top15\">[count] grammar :modal verb</div>",
+            "id": "18425",
+            "mean": [],
+            "pronounce": "/\u02c8mo\u028adn\u0329/",
+            "type": "noun",
+            "word": "modal"
+        },
+        "suggests": [
+            {
+                "id": "18425",
+                "link": "/find?type=3&query=modal+verb",
+                "word": "modal verb"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng modal verb, modal auxiliary, modal auxiliary verb)</div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ed9ng t\u1eeb t\u00ecnh th\u00e1i (nh\u01b0 can, may, might, must v\u00e0 should)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(ng\u00f4n ng\u1eef h\u1ecdc) [thu\u1ed9c] h\u00ecnh th\u00e1i</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] c\u00e1ch th\u1ee9c, [thu\u1ed9c] ph\u01b0\u01a1ng th\u1ee9c</div>",
+            "id": "58332",
+            "mean": [],
+            "pronounce": "/'m\u0259\u028adl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f41446e849af5a58ba0c99a234743112/16e62a2881e/M/modal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4b56390f9d9f69fded0d4f4b26a41658/16e62a28245/M/modal.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "modal"
+        },
+        "suggests": [
+            {
+                "id": "58332",
+                "link": "/find?type=1&query=modality",
+                "word": "modality"
+            }
+        ]
+    }
+}
