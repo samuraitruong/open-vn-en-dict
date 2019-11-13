@@ -1,1 +1,45 @@
-{"error": 0, "query": "laudator", "enViData": {"suggests": [{"id": "52822", "link": "/find?type=1&query=laudator+temporis+acti", "word": "laudator temporis acti"}, {"id": "52822", "link": "/find?type=1&query=laudatory", "word": "laudatory"}], "best": {"id": "52822", "details": "\n<div id=\"find_word_52822\" class=\"world word_en\" rel=\"laudator\">\n    <h2 class=\"fl\">laudator <span class=\"color-black\">/l\u0254:deit\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"52822\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"52822\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi t\u00e1n d\u01b0\u01a1ng, ng\u01b0\u1eddi khen</div>\n    \n</div>\n", "link": "/find?type=1&query=laudator", "word": "laudator"}}, "mUrl": "/find?type=1&query=laudator", "enEnData": {"suggests": [{"id": "16282", "link": "/find?type=3&query=laudatory", "word": "laudatory"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4123", "link": "/find?type=4&query=laudatory", "word": "laudatory"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16282",
+                "link": "/find?type=3&query=laudatory",
+                "word": "laudatory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi t\u00e1n d\u01b0\u01a1ng, ng\u01b0\u1eddi khen</div>",
+            "id": "52822",
+            "mean": [],
+            "pronounce": "/l\u0254:deit\u0259/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "laudator"
+        },
+        "suggests": [
+            {
+                "id": "52822",
+                "link": "/find?type=1&query=laudator+temporis+acti",
+                "word": "laudator temporis acti"
+            },
+            {
+                "id": "52822",
+                "link": "/find?type=1&query=laudatory",
+                "word": "laudatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4123",
+                "link": "/find?type=4&query=laudatory",
+                "word": "laudatory"
+            }
+        ]
+    }
+}

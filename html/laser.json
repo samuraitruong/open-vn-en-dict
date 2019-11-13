@@ -1,1 +1,44 @@
-{"error": 0, "query": "laser", "enViData": {"suggests": [], "best": {"id": "52707", "details": "\n<div id=\"find_word_52707\" class=\"world word_en\" rel=\"laser\">\n    <h2 class=\"fl\">laser <span class=\"color-black\">/'leiz\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"52707\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"52707\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y la-de</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laser beams</div>\n    \n    <div class=\"margin25\">ch\u00f9m tia la-de</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a laser-guided missile</div>\n    \n    <div class=\"margin25\">t\u00ean l\u1eeda \u0111i\u1ec1u khi\u1ec3n b\u1eb1ng tia la-de</div>\n    \n</div>\n", "link": "/find?type=1&query=laser", "word": "laser"}}, "mUrl": "/find?type=1&query=laser", "enEnData": {"suggests": [{"id": "16229", "link": "/find?type=3&query=laser+beam", "word": "laser beam"}, {"id": "16229", "link": "/find?type=3&query=laser+disc", "word": "laser disc"}, {"id": "16229", "link": "/find?type=3&query=laser+printer", "word": "laser printer"}], "best": {"id": "16229", "details": "\n<div id=\"find_word_16229\" class=\"world word_en\" rel=\"laser\">\n    <h2 class=\"fl\">laser <span class=\"color-black\">/\u02c8le\u026az\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16229\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16229\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device that produces a narrow and powerful beam of light that has many special uses in medicine, industry, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">doctors using a laser to perform delicate eye surgery - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laser surgery</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laser technology</div>\n    \n</div>\n", "link": "/find?type=3&query=laser", "word": "laser"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -sers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a device that produces a narrow and powerful beam of light that has many special uses in medicine, industry, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">doctors using a laser to perform delicate eye surgery - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laser surgery</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laser technology</div>",
+            "id": "16229",
+            "mean": [],
+            "pronounce": "/\u02c8le\u026az\u025a/",
+            "type": "noun",
+            "word": "laser"
+        },
+        "suggests": [
+            {
+                "id": "16229",
+                "link": "/find?type=3&query=laser+beam",
+                "word": "laser beam"
+            },
+            {
+                "id": "16229",
+                "link": "/find?type=3&query=laser+disc",
+                "word": "laser disc"
+            },
+            {
+                "id": "16229",
+                "link": "/find?type=3&query=laser+printer",
+                "word": "laser printer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y la-de</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">laser beams</div>\n    \n    <div class=\"margin25\">ch\u00f9m tia la-de</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a laser-guided missile</div>\n    \n    <div class=\"margin25\">t\u00ean l\u1eeda \u0111i\u1ec1u khi\u1ec3n b\u1eb1ng tia la-de</div>",
+            "id": "52707",
+            "mean": [],
+            "pronounce": "/'leiz\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d09d6d1342b10212ecad8d7b7de27cf9/16e628d8697/L/laser.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f7ab5671f07e013f8d211b8be628d69a/16e628d80ea/L/laser.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "laser"
+        },
+        "suggests": []
+    }
+}

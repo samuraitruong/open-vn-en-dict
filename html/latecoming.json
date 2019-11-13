@@ -1,1 +1,22 @@
-{"error": 0, "query": "latecoming", "enViData": {"suggests": [{"id": "52741", "link": "/find?type=1&query=latecomer", "word": "latecomer"}]}, "mUrl": "/find?type=1&query=latecoming", "enEnData": {"suggests": [{"id": "16256", "link": "/find?type=3&query=latecomer", "word": "latecomer"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16256",
+                "link": "/find?type=3&query=latecomer",
+                "word": "latecomer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52741",
+                "link": "/find?type=1&query=latecomer",
+                "word": "latecomer"
+            }
+        ]
+    }
+}

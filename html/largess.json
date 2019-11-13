@@ -1,1 +1,40 @@
-{"error": 0, "query": "largess", "enViData": {"suggests": [{"id": "52667", "link": "/find?type=1&query=largesse", "word": "largesse"}], "best": {"id": "52667", "details": "\n<div id=\"find_word_52667\" class=\"world word_en\" rel=\"largess\">\n    <h2 class=\"fl\">largess <span class=\"color-black\">/'l\u0251:d\u0292es/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"52667\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"52667\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng largesse)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ee7a l\u00e0m ph\u00fac, c\u1ee7a b\u1ed1 th\u00ed</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u00e0o ph\u00f3ng</div>\n    \n</div>\n", "link": "/find?type=1&query=largess", "word": "largess"}}, "mUrl": "/find?type=1&query=largess", "enEnData": {"suggests": [{"id": "16221", "link": "/find?type=3&query=largesse", "word": "largesse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4109", "link": "/find?type=4&query=largesse", "word": "largesse"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16221",
+                "link": "/find?type=3&query=largesse",
+                "word": "largesse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(c\u0169ng largesse)</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ee7a l\u00e0m ph\u00fac, c\u1ee7a b\u1ed1 th\u00ed</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 h\u00e0o ph\u00f3ng</div>",
+            "id": "52667",
+            "mean": [],
+            "pronounce": "/'l\u0251:d\u0292es/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "largess"
+        },
+        "suggests": [
+            {
+                "id": "52667",
+                "link": "/find?type=1&query=largesse",
+                "word": "largesse"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4109",
+                "link": "/find?type=4&query=largesse",
+                "word": "largesse"
+            }
+        ]
+    }
+}
