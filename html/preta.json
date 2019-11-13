@@ -1,1 +1,22 @@
-{"error": 0, "query": "preta", "enViData": {"suggests": [{"id": "71105", "link": "/find?type=1&query=pretax", "word": "pretax"}]}, "mUrl": "/find?type=1&query=preta", "enEnData": {"suggests": [{"id": "22850", "link": "/find?type=3&query=pretax", "word": "pretax"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22850",
+                "link": "/find?type=3&query=pretax",
+                "word": "pretax"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71105",
+                "link": "/find?type=1&query=pretax",
+                "word": "pretax"
+            }
+        ]
+    }
+}

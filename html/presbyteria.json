@@ -1,1 +1,37 @@
-{"error": 0, "query": "presbyteria", "enViData": {"suggests": [{"id": "70938", "link": "/find?type=1&query=presbyterial", "word": "presbyterial"}, {"id": "70939", "link": "/find?type=1&query=presbyterially", "word": "presbyterially"}, {"id": "70940", "link": "/find?type=1&query=Presbyterian", "word": "Presbyterian"}, {"id": "70941", "link": "/find?type=1&query=Presbyterianism", "word": "Presbyterianism"}]}, "mUrl": "/find?type=1&query=presbyteria", "enEnData": {"suggests": [{"id": "22788", "link": "/find?type=3&query=Presbyterian", "word": "Presbyterian"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22788",
+                "link": "/find?type=3&query=Presbyterian",
+                "word": "Presbyterian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70938",
+                "link": "/find?type=1&query=presbyterial",
+                "word": "presbyterial"
+            },
+            {
+                "id": "70939",
+                "link": "/find?type=1&query=presbyterially",
+                "word": "presbyterially"
+            },
+            {
+                "id": "70940",
+                "link": "/find?type=1&query=Presbyterian",
+                "word": "Presbyterian"
+            },
+            {
+                "id": "70941",
+                "link": "/find?type=1&query=Presbyterianism",
+                "word": "Presbyterianism"
+            }
+        ]
+    }
+}

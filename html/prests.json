@@ -1,1 +1,87 @@
-{"error": 0, "query": "prests", "enViData": {"suggests": [{"id": "71068", "link": "/find?type=1&query=prest-money", "word": "prest-money"}, {"id": "71069", "link": "/find?type=1&query=prestage", "word": "prestage"}, {"id": "71070", "link": "/find?type=1&query=prestation", "word": "prestation"}, {"id": "71071", "link": "/find?type=1&query=prester", "word": "prester"}, {"id": "71072", "link": "/find?type=1&query=presternal", "word": "presternal"}, {"id": "71073", "link": "/find?type=1&query=presternum", "word": "presternum"}, {"id": "71074", "link": "/find?type=1&query=prestidigital", "word": "prestidigital"}, {"id": "71075", "link": "/find?type=1&query=prestidigitation", "word": "prestidigitation"}, {"id": "71076", "link": "/find?type=1&query=prestidigitator", "word": "prestidigitator"}, {"id": "71077", "link": "/find?type=1&query=prestige", "word": "prestige"}]}, "mUrl": "/find?type=1&query=prests", "enEnData": {"suggests": [{"id": "22843", "link": "/find?type=3&query=prestige", "word": "prestige"}, {"id": "22844", "link": "/find?type=3&query=presto", "word": "presto"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5819", "link": "/find?type=4&query=prestige", "word": "prestige"}, {"id": "5820", "link": "/find?type=4&query=prestigious", "word": "prestigious"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22843",
+                "link": "/find?type=3&query=prestige",
+                "word": "prestige"
+            },
+            {
+                "id": "22844",
+                "link": "/find?type=3&query=presto",
+                "word": "presto"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "71068",
+                "link": "/find?type=1&query=prest-money",
+                "word": "prest-money"
+            },
+            {
+                "id": "71069",
+                "link": "/find?type=1&query=prestage",
+                "word": "prestage"
+            },
+            {
+                "id": "71070",
+                "link": "/find?type=1&query=prestation",
+                "word": "prestation"
+            },
+            {
+                "id": "71071",
+                "link": "/find?type=1&query=prester",
+                "word": "prester"
+            },
+            {
+                "id": "71072",
+                "link": "/find?type=1&query=presternal",
+                "word": "presternal"
+            },
+            {
+                "id": "71073",
+                "link": "/find?type=1&query=presternum",
+                "word": "presternum"
+            },
+            {
+                "id": "71074",
+                "link": "/find?type=1&query=prestidigital",
+                "word": "prestidigital"
+            },
+            {
+                "id": "71075",
+                "link": "/find?type=1&query=prestidigitation",
+                "word": "prestidigitation"
+            },
+            {
+                "id": "71076",
+                "link": "/find?type=1&query=prestidigitator",
+                "word": "prestidigitator"
+            },
+            {
+                "id": "71077",
+                "link": "/find?type=1&query=prestige",
+                "word": "prestige"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5819",
+                "link": "/find?type=4&query=prestige",
+                "word": "prestige"
+            },
+            {
+                "id": "5820",
+                "link": "/find?type=4&query=prestigious",
+                "word": "prestigious"
+            }
+        ]
+    }
+}

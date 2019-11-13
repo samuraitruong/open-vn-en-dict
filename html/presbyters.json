@@ -1,1 +1,29 @@
-{"error": 0, "query": "presbyters", "enViData": {"suggests": [], "best": {"id": "70942", "details": "\n<div id=\"find_word_70942\" class=\"world word_en\" rel=\"presbyters\">\n    <h2 class=\"fl\">presbyters <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70942\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70942\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, pl</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1eefng ng\u01b0\u1eddi b\u00ecnh \u0111\u1eb3ng v\u1ec1 c\u1ea5p b\u1eadc</div>\n    \n</div>\n", "link": "/find?type=1&query=presbyters", "word": "presbyters"}}, "mUrl": "/find?type=1&query=presbyters", "enEnData": {"suggests": [{"id": "22788", "link": "/find?type=3&query=Presbyterian", "word": "Presbyterian"}, {"id": "22789", "link": "/find?type=3&query=presbytery", "word": "presbytery"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22788",
+                "link": "/find?type=3&query=Presbyterian",
+                "word": "Presbyterian"
+            },
+            {
+                "id": "22789",
+                "link": "/find?type=3&query=presbytery",
+                "word": "presbytery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, pl</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1eefng ng\u01b0\u1eddi b\u00ecnh \u0111\u1eb3ng v\u1ec1 c\u1ea5p b\u1eadc</div>",
+            "id": "70942",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb, pl",
+            "word": "presbyters"
+        },
+        "suggests": []
+    }
+}

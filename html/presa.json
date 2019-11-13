@@ -1,1 +1,42 @@
-{"error": 0, "query": "presa", "enViData": {"suggests": [{"id": "70929", "link": "/find?type=1&query=presacious", "word": "presacious"}, {"id": "70930", "link": "/find?type=1&query=presage", "word": "presage"}, {"id": "70931", "link": "/find?type=1&query=presageful", "word": "presageful"}, {"id": "70932", "link": "/find?type=1&query=presager", "word": "presager"}, {"id": "70933", "link": "/find?type=1&query=presanctified", "word": "presanctified"}]}, "mUrl": "/find?type=1&query=presa", "enEnData": {"suggests": [{"id": "22787", "link": "/find?type=3&query=presage", "word": "presage"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22787",
+                "link": "/find?type=3&query=presage",
+                "word": "presage"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70929",
+                "link": "/find?type=1&query=presacious",
+                "word": "presacious"
+            },
+            {
+                "id": "70930",
+                "link": "/find?type=1&query=presage",
+                "word": "presage"
+            },
+            {
+                "id": "70931",
+                "link": "/find?type=1&query=presageful",
+                "word": "presageful"
+            },
+            {
+                "id": "70932",
+                "link": "/find?type=1&query=presager",
+                "word": "presager"
+            },
+            {
+                "id": "70933",
+                "link": "/find?type=1&query=presanctified",
+                "word": "presanctified"
+            }
+        ]
+    }
+}

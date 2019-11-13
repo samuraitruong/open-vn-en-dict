@@ -1,1 +1,34 @@
-{"error": 0, "query": "presbyterians", "enViData": {"suggests": [{"id": "70940", "link": "/find?type=1&query=Presbyterianism", "word": "Presbyterianism"}], "best": {"id": "70940", "details": "\n<div id=\"find_word_70940\" class=\"world word_en\" rel=\"Presbyterian\">\n    <h2 class=\"fl\">Presbyterian <span class=\"color-black\">/prezbi'ti\u0259ri\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"70940\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"70940\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] gi\u00e1o h\u1ed9i tr\u01b0\u1edfng l\u00e3o;[thu\u1ed9c] gi\u00e1o ph\u00e1i Calvin</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00edn \u0111\u1ed3 gi\u00e1o h\u1ed9i tr\u01b0\u1edfng l\u00e3o;t\u00edn \u0111\u1ed3 gi\u00e1o ph\u00e1i Calvin</div>\n    \n</div>\n", "link": "/find?type=1&query=Presbyterian", "word": "Presbyterian"}}, "mUrl": "/find?type=1&query=presbyterians", "enEnData": {"suggests": [], "best": {"id": "22788", "details": "\n<div id=\"find_word_22788\" class=\"world word_en\" rel=\"Presbyterian\">\n    <h2 class=\"fl\">Presbyterian <span class=\"color-black\">/\u02ccpr\u025bzb\u0259\u02c8tirij\u0259n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22788\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22788\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to a Christian church in Scotland, the U.S., and other countries that is officially led by a group of ministers and elders (called a presbytery)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a Presbyterian doctrine/church</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The minister is Presbyterian.</div>\n    \n</div>\n", "link": "/find?type=3&query=Presbyterian", "word": "Presbyterian"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">of or relating to a Christian church in Scotland, the U.S., and other countries that is officially led by a group of ministers and elders (called a presbytery)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a Presbyterian doctrine/church</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The minister is Presbyterian.</div>",
+            "id": "22788",
+            "mean": [],
+            "pronounce": "/\u02ccpr\u025bzb\u0259\u02c8tirij\u0259n/",
+            "type": "adjective",
+            "word": "Presbyterian"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] gi\u00e1o h\u1ed9i tr\u01b0\u1edfng l\u00e3o;[thu\u1ed9c] gi\u00e1o ph\u00e1i Calvin</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00edn \u0111\u1ed3 gi\u00e1o h\u1ed9i tr\u01b0\u1edfng l\u00e3o;t\u00edn \u0111\u1ed3 gi\u00e1o ph\u00e1i Calvin</div>",
+            "id": "70940",
+            "mean": [],
+            "pronounce": "/prezbi'ti\u0259ri\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8e5eed73edad678e8914ae99cfb1d23f/16e62d2e66b/P/Presbyterian.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6adf867a8c56f1dba7e1b3cd2d03ec9d/16e62d2e020/P/Presbyterian.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb Danh t\u1eeb",
+            "word": "Presbyterian"
+        },
+        "suggests": [
+            {
+                "id": "70940",
+                "link": "/find?type=1&query=Presbyterianism",
+                "word": "Presbyterianism"
+            }
+        ]
+    }
+}
