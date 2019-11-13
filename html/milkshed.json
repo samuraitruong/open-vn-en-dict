@@ -1,1 +1,22 @@
-{"error": 0, "query": "milkshed", "enViData": {"suggests": [{"id": "57739", "link": "/find?type=1&query=milkshake", "word": "milkshake"}]}, "mUrl": "/find?type=1&query=milkshed", "enEnData": {"suggests": [{"id": "18172", "link": "/find?type=3&query=milkshake", "word": "milkshake"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18172",
+                "link": "/find?type=3&query=milkshake",
+                "word": "milkshake"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57739",
+                "link": "/find?type=1&query=milkshake",
+                "word": "milkshake"
+            }
+        ]
+    }
+}

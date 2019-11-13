@@ -1,1 +1,32 @@
-{"error": 0, "query": "migrans", "enViData": {"suggests": [{"id": "57659", "link": "/find?type=1&query=migrant", "word": "migrant"}]}, "mUrl": "/find?type=1&query=migrans", "enEnData": {"suggests": [{"id": "18143", "link": "/find?type=3&query=migrant", "word": "migrant"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4548", "link": "/find?type=4&query=migrant", "word": "migrant"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18143",
+                "link": "/find?type=3&query=migrant",
+                "word": "migrant"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57659",
+                "link": "/find?type=1&query=migrant",
+                "word": "migrant"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4548",
+                "link": "/find?type=4&query=migrant",
+                "word": "migrant"
+            }
+        ]
+    }
+}

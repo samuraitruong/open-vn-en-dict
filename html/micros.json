@@ -1,1 +1,93 @@
-{"error": 0, "query": "micros", "enViData": {"suggests": [{"id": "57519", "link": "/find?type=1&query=micro-", "word": "micro-"}, {"id": "57519", "link": "/find?type=1&query=micro-organism", "word": "micro-organism"}, {"id": "57519", "link": "/find?type=1&query=microbe", "word": "microbe"}, {"id": "57519", "link": "/find?type=1&query=microbial", "word": "microbial"}, {"id": "57519", "link": "/find?type=1&query=microbian", "word": "microbian"}, {"id": "57519", "link": "/find?type=1&query=microbic", "word": "microbic"}, {"id": "57519", "link": "/find?type=1&query=microbicide", "word": "microbicide"}, {"id": "57519", "link": "/find?type=1&query=microbiologic", "word": "microbiologic"}, {"id": "57519", "link": "/find?type=1&query=microbiological", "word": "microbiological"}], "best": {"id": "57519", "details": "\n<div id=\"find_word_57519\" class=\"world word_en\" rel=\"micro\">\n    <h2 class=\"fl\">micro <span class=\"color-black\">/'maikr\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57519\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57519\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u micro) (kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y vi t\u00ednh</div>\n    \n</div>\n", "link": "/find?type=1&query=micro", "word": "micro"}}, "mUrl": "/find?type=1&query=micros", "enEnData": {"suggests": [{"id": "18074", "link": "/find?type=3&query=microscope", "word": "microscope"}, {"id": "18075", "link": "/find?type=3&query=microscopic", "word": "microscopic"}, {"id": "18076", "link": "/find?type=3&query=microsecond", "word": "microsecond"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4541", "link": "/find?type=4&query=microbe", "word": "microbe"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18074",
+                "link": "/find?type=3&query=microscope",
+                "word": "microscope"
+            },
+            {
+                "id": "18075",
+                "link": "/find?type=3&query=microscopic",
+                "word": "microscopic"
+            },
+            {
+                "id": "18076",
+                "link": "/find?type=3&query=microsecond",
+                "word": "microsecond"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u micro) (kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y vi t\u00ednh</div>",
+            "id": "57519",
+            "mean": [],
+            "pronounce": "/'maikr\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c9cd2d5a350be9ea71ad488eb2e535ec/16e629e0b39/M/micro.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/895de2bca3ddb36c386b0b084b31d1a5/16e629e0568/M/micro.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "micro"
+        },
+        "suggests": [
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=micro-",
+                "word": "micro-"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=micro-organism",
+                "word": "micro-organism"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbe",
+                "word": "microbe"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbial",
+                "word": "microbial"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbian",
+                "word": "microbian"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbic",
+                "word": "microbic"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbicide",
+                "word": "microbicide"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbiologic",
+                "word": "microbiologic"
+            },
+            {
+                "id": "57519",
+                "link": "/find?type=1&query=microbiological",
+                "word": "microbiological"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4541",
+                "link": "/find?type=4&query=microbe",
+                "word": "microbe"
+            }
+        ]
+    }
+}

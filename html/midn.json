@@ -1,1 +1,22 @@
-{"error": 0, "query": "midn", "enViData": {"suggests": [{"id": "57625", "link": "/find?type=1&query=midnight", "word": "midnight"}]}, "mUrl": "/find?type=1&query=midn", "enEnData": {"suggests": [{"id": "18117", "link": "/find?type=3&query=midnight", "word": "midnight"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18117",
+                "link": "/find?type=3&query=midnight",
+                "word": "midnight"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57625",
+                "link": "/find?type=1&query=midnight",
+                "word": "midnight"
+            }
+        ]
+    }
+}

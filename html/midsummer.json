@@ -1,1 +1,49 @@
-{"error": 0, "query": "midsummer", "enViData": {"suggests": [{"id": "57636", "link": "/find?type=1&query=midsummer+day", "word": "midsummer day"}, {"id": "57636", "link": "/find?type=1&query=midsummer+madness", "word": "midsummer madness"}, {"id": "57636", "link": "/find?type=1&query=Midsummer%27s+Day", "word": "Midsummer's Day"}, {"id": "57636", "link": "/find?type=1&query=Midsummer%27s+Day", "word": "Midsummer's Day"}], "best": {"id": "57636", "details": "\n<div id=\"find_word_57636\" class=\"world word_en\" rel=\"midsummer\">\n    <h2 class=\"fl\">midsummer <span class=\"color-black\">/'mids\u028cm\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57636\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57636\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1eefa m\u00f9a h\u00e8</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ea1 ch\u00ed</div>\n    \n</div>\n", "link": "/find?type=1&query=midsummer", "word": "midsummer"}}, "mUrl": "/find?type=1&query=midsummer", "enEnData": {"suggests": [], "best": {"id": "18126", "details": "\n<div id=\"find_word_18126\" class=\"world word_en\" rel=\"midsummer\">\n    <h2 class=\"fl\">midsummer <span class=\"color-black\">/\u02c8m\u026ad\u02c8s\u028cm\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18126\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18126\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the middle of summer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The new product should be in stores by midsummer. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a hot midsummer night</div>\n    \n</div>\n", "link": "/find?type=3&query=midsummer", "word": "midsummer"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the middle of summer</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The new product should be in stores by midsummer. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a hot midsummer night</div>",
+            "id": "18126",
+            "mean": [],
+            "pronounce": "/\u02c8m\u026ad\u02c8s\u028cm\u025a/",
+            "type": "noun",
+            "word": "midsummer"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1eefa m\u00f9a h\u00e8</div>\n    \n    <div class=\"green margin25 m-top15\">h\u1ea1 ch\u00ed</div>",
+            "id": "57636",
+            "mean": [],
+            "pronounce": "/'mids\u028cm\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7f650bdc14782fe392c8b9610cf58fc5/16e629eb6b4/M/midsummer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4b017c7ef12dc26d07a07a76fa574656/16e629eb0d5/M/midsummer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "midsummer"
+        },
+        "suggests": [
+            {
+                "id": "57636",
+                "link": "/find?type=1&query=midsummer+day",
+                "word": "midsummer day"
+            },
+            {
+                "id": "57636",
+                "link": "/find?type=1&query=midsummer+madness",
+                "word": "midsummer madness"
+            },
+            {
+                "id": "57636",
+                "link": "/find?type=1&query=Midsummer%27s+Day",
+                "word": "Midsummer's Day"
+            },
+            {
+                "id": "57636",
+                "link": "/find?type=1&query=Midsummer%27s+Day",
+                "word": "Midsummer's Day"
+            }
+        ]
+    }
+}

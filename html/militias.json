@@ -1,1 +1,34 @@
-{"error": 0, "query": "militias", "enViData": {"suggests": [{"id": "57709", "link": "/find?type=1&query=militiaman", "word": "militiaman"}], "best": {"id": "57709", "details": "\n<div id=\"find_word_57709\" class=\"world word_en\" rel=\"militia\">\n    <h2 class=\"fl\">militia <span class=\"color-black\">/m\u0259'li\u222b\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57709\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57709\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e2n qu\u00e2n</div>\n    \n</div>\n", "link": "/find?type=1&query=militia", "word": "militia"}}, "mUrl": "/find?type=1&query=militias", "enEnData": {"suggests": [], "best": {"id": "18164", "details": "\n<div id=\"find_word_18164\" class=\"world word_en\" rel=\"militia\">\n    <h2 class=\"fl\">militia <span class=\"color-black\">/m\u0259\u02c8l\u026a\u0283\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18164\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18164\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tias</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a group of people who are not part of the armed forces of a country but are trained like soldiers</div>\n    \n</div>\n", "link": "/find?type=3&query=militia", "word": "militia"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tias</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a group of people who are not part of the armed forces of a country but are trained like soldiers</div>",
+            "id": "18164",
+            "mean": [],
+            "pronounce": "/m\u0259\u02c8l\u026a\u0283\u0259/",
+            "type": "noun",
+            "word": "militia"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e2n qu\u00e2n</div>",
+            "id": "57709",
+            "mean": [],
+            "pronounce": "/m\u0259'li\u222b\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e10b0d70c590fffec2ea2226a1e99485/16e629f1211/M/militia.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/dcb74b8ee1f6b47255058d85092b2c53/16e629f0bc4/M/militia.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "militia"
+        },
+        "suggests": [
+            {
+                "id": "57709",
+                "link": "/find?type=1&query=militiaman",
+                "word": "militiaman"
+            }
+        ]
+    }
+}

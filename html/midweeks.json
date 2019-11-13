@@ -1,1 +1,34 @@
-{"error": 0, "query": "midweeks", "enViData": {"suggests": [{"id": "57643", "link": "/find?type=1&query=midweekly", "word": "midweekly"}], "best": {"id": "57643", "details": "\n<div id=\"find_word_57643\" class=\"world word_en\" rel=\"midweek\">\n    <h2 class=\"fl\">midweek <span class=\"color-black\">/,mid'wi:k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"57643\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"57643\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00e0y gi\u1eefa tu\u1ea7n, ng\u00e0y th\u1ee9 t\u01b0</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a midweek meeting</div>\n    \n    <div class=\"margin25\">cu\u1ed9c h\u1ecdp gi\u1eefa tu\u1ea7n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u1edf gi\u1eefa tu\u1ea7n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">travel midweek</div>\n    \n    <div class=\"margin25\">\u0111i du l\u1ecbch gi\u1eefa tu\u1ea7n</div>\n    \n</div>\n", "link": "/find?type=1&query=midweek", "word": "midweek"}}, "mUrl": "/find?type=1&query=midweeks", "enEnData": {"suggests": [], "best": {"id": "18130", "details": "\n<div id=\"find_word_18130\" class=\"world word_en\" rel=\"midweek\">\n    <h2 class=\"fl\">midweek <span class=\"color-black\">/\u02c8m\u026ad\u02ccwi\u02d0k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18130\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18130\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the middle of the week</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has to finish the report by midweek.</div>\n    \n</div>\n", "link": "/find?type=3&query=midweek", "word": "midweek"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the middle of the week</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She has to finish the report by midweek.</div>",
+            "id": "18130",
+            "mean": [],
+            "pronounce": "/\u02c8m\u026ad\u02ccwi\u02d0k/",
+            "type": "noun",
+            "word": "midweek"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00e0y gi\u1eefa tu\u1ea7n, ng\u00e0y th\u1ee9 t\u01b0</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a midweek meeting</div>\n    \n    <div class=\"margin25\">cu\u1ed9c h\u1ecdp gi\u1eefa tu\u1ea7n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ph\u00f3 t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u1edf gi\u1eefa tu\u1ea7n</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">travel midweek</div>\n    \n    <div class=\"margin25\">\u0111i du l\u1ecbch gi\u1eefa tu\u1ea7n</div>",
+            "id": "57643",
+            "mean": [],
+            "pronounce": "/,mid'wi:k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/be822828dd0d9ccefa02ba6270cfd6a8/16e629ebb28/M/midweek.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ed122786e5d8365e1dc9700f7f45e6f8/16e629eb568/M/midweek.mp3"
+            },
+            "type": "Danh t\u1eeb Ph\u00f3 t\u1eeb",
+            "word": "midweek"
+        },
+        "suggests": [
+            {
+                "id": "57643",
+                "link": "/find?type=1&query=midweekly",
+                "word": "midweekly"
+            }
+        ]
+    }
+}

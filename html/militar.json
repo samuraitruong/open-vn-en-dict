@@ -1,1 +1,92 @@
-{"error": 0, "query": "militar", "enViData": {"suggests": [{"id": "57691", "link": "/find?type=1&query=militarese", "word": "militarese"}, {"id": "57692", "link": "/find?type=1&query=militarily", "word": "militarily"}, {"id": "57693", "link": "/find?type=1&query=militarisation", "word": "militarisation"}, {"id": "57694", "link": "/find?type=1&query=militarise", "word": "militarise"}, {"id": "57695", "link": "/find?type=1&query=militarism", "word": "militarism"}, {"id": "57696", "link": "/find?type=1&query=militarist", "word": "militarist"}, {"id": "57697", "link": "/find?type=1&query=militaristic", "word": "militaristic"}, {"id": "57698", "link": "/find?type=1&query=militarization", "word": "militarization"}, {"id": "57699", "link": "/find?type=1&query=militarize", "word": "militarize"}, {"id": "57700", "link": "/find?type=1&query=militarize%2C+militarise", "word": "militarize, militarise"}]}, "mUrl": "/find?type=1&query=militar", "enEnData": {"suggests": [{"id": "18159", "link": "/find?type=3&query=militarism", "word": "militarism"}, {"id": "18160", "link": "/find?type=3&query=militarize", "word": "militarize"}, {"id": "18161", "link": "/find?type=3&query=military", "word": "military"}, {"id": "18162", "link": "/find?type=3&query=military+police", "word": "military police"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4553", "link": "/find?type=4&query=military", "word": "military"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18159",
+                "link": "/find?type=3&query=militarism",
+                "word": "militarism"
+            },
+            {
+                "id": "18160",
+                "link": "/find?type=3&query=militarize",
+                "word": "militarize"
+            },
+            {
+                "id": "18161",
+                "link": "/find?type=3&query=military",
+                "word": "military"
+            },
+            {
+                "id": "18162",
+                "link": "/find?type=3&query=military+police",
+                "word": "military police"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "57691",
+                "link": "/find?type=1&query=militarese",
+                "word": "militarese"
+            },
+            {
+                "id": "57692",
+                "link": "/find?type=1&query=militarily",
+                "word": "militarily"
+            },
+            {
+                "id": "57693",
+                "link": "/find?type=1&query=militarisation",
+                "word": "militarisation"
+            },
+            {
+                "id": "57694",
+                "link": "/find?type=1&query=militarise",
+                "word": "militarise"
+            },
+            {
+                "id": "57695",
+                "link": "/find?type=1&query=militarism",
+                "word": "militarism"
+            },
+            {
+                "id": "57696",
+                "link": "/find?type=1&query=militarist",
+                "word": "militarist"
+            },
+            {
+                "id": "57697",
+                "link": "/find?type=1&query=militaristic",
+                "word": "militaristic"
+            },
+            {
+                "id": "57698",
+                "link": "/find?type=1&query=militarization",
+                "word": "militarization"
+            },
+            {
+                "id": "57699",
+                "link": "/find?type=1&query=militarize",
+                "word": "militarize"
+            },
+            {
+                "id": "57700",
+                "link": "/find?type=1&query=militarize%2C+militarise",
+                "word": "militarize, militarise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4553",
+                "link": "/find?type=4&query=military",
+                "word": "military"
+            }
+        ]
+    }
+}
