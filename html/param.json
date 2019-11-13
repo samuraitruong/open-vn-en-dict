@@ -1,1 +1,102 @@
-{"error": 0, "query": "param", "enViData": {"suggests": [{"id": "64961", "link": "/find?type=1&query=paramagnet", "word": "paramagnet"}, {"id": "64962", "link": "/find?type=1&query=paramagnetic", "word": "paramagnetic"}, {"id": "64963", "link": "/find?type=1&query=paramagnetically", "word": "paramagnetically"}, {"id": "64964", "link": "/find?type=1&query=paramagnetism", "word": "paramagnetism"}, {"id": "64965", "link": "/find?type=1&query=paramatta", "word": "paramatta"}, {"id": "64966", "link": "/find?type=1&query=paramedic", "word": "paramedic"}, {"id": "64967", "link": "/find?type=1&query=paramedical", "word": "paramedical"}, {"id": "64968", "link": "/find?type=1&query=parameter", "word": "parameter"}, {"id": "64969", "link": "/find?type=1&query=parameterise", "word": "parameterise"}, {"id": "64970", "link": "/find?type=1&query=parameterization", "word": "parameterization"}]}, "mUrl": "/find?type=1&query=param", "enEnData": {"suggests": [{"id": "20884", "link": "/find?type=3&query=paramedic", "word": "paramedic"}, {"id": "20885", "link": "/find?type=3&query=parameter", "word": "parameter"}, {"id": "20886", "link": "/find?type=3&query=paramilitary", "word": "paramilitary"}, {"id": "20887", "link": "/find?type=3&query=paramount", "word": "paramount"}, {"id": "20888", "link": "/find?type=3&query=paramour", "word": "paramour"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5254", "link": "/find?type=4&query=paramount", "word": "paramount"}, {"id": "5255", "link": "/find?type=4&query=paramour", "word": "paramour"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20884",
+                "link": "/find?type=3&query=paramedic",
+                "word": "paramedic"
+            },
+            {
+                "id": "20885",
+                "link": "/find?type=3&query=parameter",
+                "word": "parameter"
+            },
+            {
+                "id": "20886",
+                "link": "/find?type=3&query=paramilitary",
+                "word": "paramilitary"
+            },
+            {
+                "id": "20887",
+                "link": "/find?type=3&query=paramount",
+                "word": "paramount"
+            },
+            {
+                "id": "20888",
+                "link": "/find?type=3&query=paramour",
+                "word": "paramour"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64961",
+                "link": "/find?type=1&query=paramagnet",
+                "word": "paramagnet"
+            },
+            {
+                "id": "64962",
+                "link": "/find?type=1&query=paramagnetic",
+                "word": "paramagnetic"
+            },
+            {
+                "id": "64963",
+                "link": "/find?type=1&query=paramagnetically",
+                "word": "paramagnetically"
+            },
+            {
+                "id": "64964",
+                "link": "/find?type=1&query=paramagnetism",
+                "word": "paramagnetism"
+            },
+            {
+                "id": "64965",
+                "link": "/find?type=1&query=paramatta",
+                "word": "paramatta"
+            },
+            {
+                "id": "64966",
+                "link": "/find?type=1&query=paramedic",
+                "word": "paramedic"
+            },
+            {
+                "id": "64967",
+                "link": "/find?type=1&query=paramedical",
+                "word": "paramedical"
+            },
+            {
+                "id": "64968",
+                "link": "/find?type=1&query=parameter",
+                "word": "parameter"
+            },
+            {
+                "id": "64969",
+                "link": "/find?type=1&query=parameterise",
+                "word": "parameterise"
+            },
+            {
+                "id": "64970",
+                "link": "/find?type=1&query=parameterization",
+                "word": "parameterization"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5254",
+                "link": "/find?type=4&query=paramount",
+                "word": "paramount"
+            },
+            {
+                "id": "5255",
+                "link": "/find?type=4&query=paramour",
+                "word": "paramour"
+            }
+        ]
+    }
+}

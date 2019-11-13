@@ -1,1 +1,34 @@
-{"error": 0, "query": "paperbacks", "enViData": {"suggests": [{"id": "64758", "link": "/find?type=1&query=paperbacked", "word": "paperbacked"}], "best": {"id": "64758", "details": "\n<div id=\"find_word_64758\" class=\"world word_en\" rel=\"paperback\">\n    <h2 class=\"fl\">paperback <span class=\"color-black\">/'peip\u0259b\u00e6k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64758\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64758\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e1ch b\u00eca m\u1ecfng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">when is the novel coming out in paperback?</div>\n    \n    <div class=\"margin25\">khi n\u00e0o th\u00ec cu\u1ed1n truy\u1ec7n \u0111\u01b0\u1ee3c xu\u1ea5t b\u1ea3n d\u01b0\u1edbi d\u1ea1ng b\u00eca m\u1ecfng?</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a paperback book</div>\n    \n    <div class=\"margin25\">s\u00e1ch b\u00eca m\u1ecfng</div>\n    \n</div>\n", "link": "/find?type=1&query=paperback", "word": "paperback"}}, "mUrl": "/find?type=1&query=paperbacks", "enEnData": {"suggests": [], "best": {"id": "20841", "details": "\n<div id=\"find_word_20841\" class=\"world word_en\" rel=\"paperback\">\n    <h2 class=\"fl\">paperback <span class=\"color-black\">/\u02c8pe\u026ap\u025a\u02ccb\u00e6k/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20841\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20841\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -backs</div>\n    \n    <div class=\"green margin25 m-top15\">a book that has a thick paper cover [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The store sells both paperbacks and hardcovers. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The book is sold only in paperback. - compare hardcover, softcover</div>\n    \n</div>\n", "link": "/find?type=3&query=paperback", "word": "paperback"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -backs</div>\n    \n    <div class=\"green margin25 m-top15\">a book that has a thick paper cover [count]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The store sells both paperbacks and hardcovers. [noncount]</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The book is sold only in paperback. - compare hardcover, softcover</div>",
+            "id": "20841",
+            "mean": [],
+            "pronounce": "/\u02c8pe\u026ap\u025a\u02ccb\u00e6k/",
+            "type": "noun",
+            "word": "paperback"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e1ch b\u00eca m\u1ecfng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">when is the novel coming out in paperback?</div>\n    \n    <div class=\"margin25\">khi n\u00e0o th\u00ec cu\u1ed1n truy\u1ec7n \u0111\u01b0\u1ee3c xu\u1ea5t b\u1ea3n d\u01b0\u1edbi d\u1ea1ng b\u00eca m\u1ecfng?</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a paperback book</div>\n    \n    <div class=\"margin25\">s\u00e1ch b\u00eca m\u1ecfng</div>",
+            "id": "64758",
+            "mean": [],
+            "pronounce": "/'peip\u0259b\u00e6k/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fc99c9956b82bb859c99545506b37461/16e62bd4af7/P/paperback.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/165e7f9127ca5a2fa92d36608f80d142/16e62bd451e/P/paperback.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "paperback"
+        },
+        "suggests": [
+            {
+                "id": "64758",
+                "link": "/find?type=1&query=paperbacked",
+                "word": "paperbacked"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "paramedics", "enViData": {"suggests": [{"id": "64966", "link": "/find?type=1&query=paramedical", "word": "paramedical"}], "best": {"id": "64966", "details": "\n<div id=\"find_word_64966\" class=\"world word_en\" rel=\"paramedic\">\n    <h2 class=\"fl\">paramedic <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"64966\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"64966\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 gi\u00fap v\u1ec1 c\u00f4ng vi\u1ec7c y t\u1ebf</div>\n    \n</div>\n", "link": "/find?type=1&query=paramedic", "word": "paramedic"}}, "mUrl": "/find?type=1&query=paramedics", "enEnData": {"suggests": [], "best": {"id": "20884", "details": "\n<div id=\"find_word_20884\" class=\"world word_en\" rel=\"paramedic\">\n    <h2 class=\"fl\">paramedic <span class=\"color-black\">/per\u0259\u02c8m\u025bd\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"20884\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"20884\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to provide emergency medical care to sick or injured people who are being taken to a hospital</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's training to be a paramedic.</div>\n    \n</div>\n", "link": "/find?type=3&query=paramedic", "word": "paramedic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ics</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person whose job is to provide emergency medical care to sick or injured people who are being taken to a hospital</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She's training to be a paramedic.</div>",
+            "id": "20884",
+            "mean": [],
+            "pronounce": "/per\u0259\u02c8m\u025bd\u026ak/",
+            "type": "noun",
+            "word": "paramedic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi ph\u1ee5 gi\u00fap v\u1ec1 c\u00f4ng vi\u1ec7c y t\u1ebf</div>",
+            "id": "64966",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bdd96a755974b77af0bedfd5fe16b990/16e62bde211/P/paramedic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8015a0968ba01fc6989de5a65a8ca777/16e62bddc2f/P/paramedic.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "paramedic"
+        },
+        "suggests": [
+            {
+                "id": "64966",
+                "link": "/find?type=1&query=paramedical",
+                "word": "paramedical"
+            }
+        ]
+    }
+}

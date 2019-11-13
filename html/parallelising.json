@@ -1,1 +1,22 @@
-{"error": 0, "query": "parallelising", "enViData": {"suggests": [{"id": "64936", "link": "/find?type=1&query=parallelism", "word": "parallelism"}]}, "mUrl": "/find?type=1&query=parallelising", "enEnData": {"suggests": [{"id": "20879", "link": "/find?type=3&query=parallelism", "word": "parallelism"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "20879",
+                "link": "/find?type=3&query=parallelism",
+                "word": "parallelism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "64936",
+                "link": "/find?type=1&query=parallelism",
+                "word": "parallelism"
+            }
+        ]
+    }
+}
