@@ -1,1 +1,122 @@
-{"error": 0, "query": "poe", "enViData": {"suggests": [{"id": "69109", "link": "/find?type=1&query=poem", "word": "poem"}, {"id": "69110", "link": "/find?type=1&query=poesy", "word": "poesy"}, {"id": "69111", "link": "/find?type=1&query=poet", "word": "poet"}, {"id": "69112", "link": "/find?type=1&query=poet+Laureate", "word": "poet Laureate"}, {"id": "69113", "link": "/find?type=1&query=poet%27s+corner", "word": "poet's corner"}, {"id": "69114", "link": "/find?type=1&query=poetaster", "word": "poetaster"}, {"id": "69115", "link": "/find?type=1&query=poetess", "word": "poetess"}, {"id": "69116", "link": "/find?type=1&query=poetic", "word": "poetic"}, {"id": "69117", "link": "/find?type=1&query=poetic+justice", "word": "poetic justice"}, {"id": "69118", "link": "/find?type=1&query=poetic+licence", "word": "poetic licence"}]}, "mUrl": "/find?type=1&query=poe", "enEnData": {"suggests": [{"id": "22172", "link": "/find?type=3&query=poem", "word": "poem"}, {"id": "22173", "link": "/find?type=3&query=poet", "word": "poet"}, {"id": "22174", "link": "/find?type=3&query=poet+laureate", "word": "poet laureate"}, {"id": "22175", "link": "/find?type=3&query=poetess", "word": "poetess"}, {"id": "22176", "link": "/find?type=3&query=poetic", "word": "poetic"}, {"id": "22177", "link": "/find?type=3&query=poetic+justice", "word": "poetic justice"}, {"id": "22178", "link": "/find?type=3&query=poetry", "word": "poetry"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5621", "link": "/find?type=4&query=poem", "word": "poem"}, {"id": "5622", "link": "/find?type=4&query=poet", "word": "poet"}, {"id": "5623", "link": "/find?type=4&query=poetic", "word": "poetic"}, {"id": "5624", "link": "/find?type=4&query=poetry", "word": "poetry"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22172",
+                "link": "/find?type=3&query=poem",
+                "word": "poem"
+            },
+            {
+                "id": "22173",
+                "link": "/find?type=3&query=poet",
+                "word": "poet"
+            },
+            {
+                "id": "22174",
+                "link": "/find?type=3&query=poet+laureate",
+                "word": "poet laureate"
+            },
+            {
+                "id": "22175",
+                "link": "/find?type=3&query=poetess",
+                "word": "poetess"
+            },
+            {
+                "id": "22176",
+                "link": "/find?type=3&query=poetic",
+                "word": "poetic"
+            },
+            {
+                "id": "22177",
+                "link": "/find?type=3&query=poetic+justice",
+                "word": "poetic justice"
+            },
+            {
+                "id": "22178",
+                "link": "/find?type=3&query=poetry",
+                "word": "poetry"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69109",
+                "link": "/find?type=1&query=poem",
+                "word": "poem"
+            },
+            {
+                "id": "69110",
+                "link": "/find?type=1&query=poesy",
+                "word": "poesy"
+            },
+            {
+                "id": "69111",
+                "link": "/find?type=1&query=poet",
+                "word": "poet"
+            },
+            {
+                "id": "69112",
+                "link": "/find?type=1&query=poet+Laureate",
+                "word": "poet Laureate"
+            },
+            {
+                "id": "69113",
+                "link": "/find?type=1&query=poet%27s+corner",
+                "word": "poet's corner"
+            },
+            {
+                "id": "69114",
+                "link": "/find?type=1&query=poetaster",
+                "word": "poetaster"
+            },
+            {
+                "id": "69115",
+                "link": "/find?type=1&query=poetess",
+                "word": "poetess"
+            },
+            {
+                "id": "69116",
+                "link": "/find?type=1&query=poetic",
+                "word": "poetic"
+            },
+            {
+                "id": "69117",
+                "link": "/find?type=1&query=poetic+justice",
+                "word": "poetic justice"
+            },
+            {
+                "id": "69118",
+                "link": "/find?type=1&query=poetic+licence",
+                "word": "poetic licence"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5621",
+                "link": "/find?type=4&query=poem",
+                "word": "poem"
+            },
+            {
+                "id": "5622",
+                "link": "/find?type=4&query=poet",
+                "word": "poet"
+            },
+            {
+                "id": "5623",
+                "link": "/find?type=4&query=poetic",
+                "word": "poetic"
+            },
+            {
+                "id": "5624",
+                "link": "/find?type=4&query=poetry",
+                "word": "poetry"
+            }
+        ]
+    }
+}
