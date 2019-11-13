@@ -1,1 +1,22 @@
-{"error": 0, "query": "multitask", "enViData": {"suggests": [{"id": "59313", "link": "/find?type=1&query=multitasking", "word": "multitasking"}]}, "mUrl": "/find?type=1&query=multitask", "enEnData": {"suggests": [{"id": "18834", "link": "/find?type=3&query=multitasking", "word": "multitasking"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18834",
+                "link": "/find?type=3&query=multitasking",
+                "word": "multitasking"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59313",
+                "link": "/find?type=1&query=multitasking",
+                "word": "multitasking"
+            }
+        ]
+    }
+}

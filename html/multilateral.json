@@ -1,1 +1,44 @@
-{"error": 0, "query": "multilateral", "enViData": {"suggests": [{"id": "59247", "link": "/find?type=1&query=Multilateral+aid", "word": "Multilateral aid"}, {"id": "59247", "link": "/find?type=1&query=Multilateral+Investment+Guarantee+Agency+%28MIGA%29", "word": "Multilateral Investment Guarantee Agency (MIGA)"}, {"id": "59247", "link": "/find?type=1&query=Multilateral+trade", "word": "Multilateral trade"}], "best": {"id": "59247", "details": "\n<div id=\"find_word_59247\" class=\"world word_en\" rel=\"multilateral\">\n    <h2 class=\"fl\">multilateral <span class=\"color-black\">/,m\u028clti'l\u00e6t\u0259r\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"59247\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"59247\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ec1u b\u00ean, \u0111a ph\u01b0\u01a1ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a multilateral agreement</div>\n    \n    <div class=\"margin25\">tho\u1ea3 hi\u1ec7p nhi\u1ec1u b\u00ean</div>\n    \n</div>\n", "link": "/find?type=1&query=multilateral", "word": "multilateral"}}, "mUrl": "/find?type=1&query=multilateral", "enEnData": {"suggests": [], "best": {"id": "18814", "details": "\n<div id=\"find_word_18814\" class=\"world word_en\" rel=\"multilateral\">\n    <h2 class=\"fl\">multilateral <span class=\"color-black\">/\u02ccm\u028clti\u02c8l\u00e6t\u0259r\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18814\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18814\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">involving more than two groups or countries</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a multilateral treaty/agreement - compare bilateral, trilateral, unilateral</div>\n    \n</div>\n", "link": "/find?type=3&query=multilateral", "word": "multilateral"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">involving more than two groups or countries</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a multilateral treaty/agreement - compare bilateral, trilateral, unilateral</div>",
+            "id": "18814",
+            "mean": [],
+            "pronounce": "/\u02ccm\u028clti\u02c8l\u00e6t\u0259r\u0259l/",
+            "type": "adjective",
+            "word": "multilateral"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ec1u b\u00ean, \u0111a ph\u01b0\u01a1ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a multilateral agreement</div>\n    \n    <div class=\"margin25\">tho\u1ea3 hi\u1ec7p nhi\u1ec1u b\u00ean</div>",
+            "id": "59247",
+            "mean": [],
+            "pronounce": "/,m\u028clti'l\u00e6t\u0259r\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/03b1127c36e1f4c7de2e3dd3eca7dc33/16e62a655aa/M/multilateral.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3531f07afa3e991e06f1574e80f95ced/16e62a64fec/M/multilateral.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "multilateral"
+        },
+        "suggests": [
+            {
+                "id": "59247",
+                "link": "/find?type=1&query=Multilateral+aid",
+                "word": "Multilateral aid"
+            },
+            {
+                "id": "59247",
+                "link": "/find?type=1&query=Multilateral+Investment+Guarantee+Agency+%28MIGA%29",
+                "word": "Multilateral Investment Guarantee Agency (MIGA)"
+            },
+            {
+                "id": "59247",
+                "link": "/find?type=1&query=Multilateral+trade",
+                "word": "Multilateral trade"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "mugged", "enViData": {"suggests": [{"id": "59185", "link": "/find?type=1&query=mugger", "word": "mugger"}]}, "mUrl": "/find?type=1&query=mugged", "enEnData": {"suggests": [{"id": "18793", "link": "/find?type=3&query=mugger", "word": "mugger"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4737", "link": "/find?type=4&query=muggy", "word": "muggy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18793",
+                "link": "/find?type=3&query=mugger",
+                "word": "mugger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59185",
+                "link": "/find?type=1&query=mugger",
+                "word": "mugger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4737",
+                "link": "/find?type=4&query=muggy",
+                "word": "muggy"
+            }
+        ]
+    }
+}

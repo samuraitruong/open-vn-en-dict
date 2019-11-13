@@ -1,1 +1,68 @@
-{"error": 0, "query": "mr", "enViData": {"suggests": [{"id": "59119", "link": "/find?type=1&query=MRBM", "word": "MRBM"}, {"id": "59119", "link": "/find?type=1&query=MRC", "word": "MRC"}, {"id": "59119", "link": "/find?type=1&query=Mrs", "word": "Mrs"}], "best": {"id": "59119", "details": "\n<div id=\"find_word_59119\" class=\"world word_en\" rel=\"Mr\">\n    <h2 class=\"fl\">Mr <span class=\"color-black\">/'mist\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"59119\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"59119\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft Mister)</div>\n    \n    <div class=\"green margin25 m-top15\">\u00f4ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Mr and Mrs Brown</div>\n    \n    <div class=\"margin25\">\u00f4ng b\u00e0 Brown</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00e0i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Mr President</div>\n    \n    <div class=\"margin25\">ng\u00e0i T\u1ed5ng th\u1ed1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=Mr", "word": "Mr"}}, "mUrl": "/find?type=1&query=mr", "enEnData": {"suggests": [{"id": "18764", "link": "/find?type=3&query=Mr.", "word": "Mr."}, {"id": "18765", "link": "/find?type=3&query=Mr.+Big", "word": "Mr. Big"}, {"id": "18766", "link": "/find?type=3&query=Mr.+Nice+Guy", "word": "Mr. Nice Guy"}, {"id": "18767", "link": "/find?type=3&query=Mr.+Right", "word": "Mr. Right"}, {"id": "18768", "link": "/find?type=3&query=MRI", "word": "MRI"}, {"id": "18769", "link": "/find?type=3&query=Mrs.", "word": "Mrs."}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18764",
+                "link": "/find?type=3&query=Mr.",
+                "word": "Mr."
+            },
+            {
+                "id": "18765",
+                "link": "/find?type=3&query=Mr.+Big",
+                "word": "Mr. Big"
+            },
+            {
+                "id": "18766",
+                "link": "/find?type=3&query=Mr.+Nice+Guy",
+                "word": "Mr. Nice Guy"
+            },
+            {
+                "id": "18767",
+                "link": "/find?type=3&query=Mr.+Right",
+                "word": "Mr. Right"
+            },
+            {
+                "id": "18768",
+                "link": "/find?type=3&query=MRI",
+                "word": "MRI"
+            },
+            {
+                "id": "18769",
+                "link": "/find?type=3&query=Mrs.",
+                "word": "Mrs."
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft Mister)</div>\n    \n    <div class=\"green margin25 m-top15\">\u00f4ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Mr and Mrs Brown</div>\n    \n    <div class=\"margin25\">\u00f4ng b\u00e0 Brown</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u00e0i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Mr President</div>\n    \n    <div class=\"margin25\">ng\u00e0i T\u1ed5ng th\u1ed1ng</div>",
+            "id": "59119",
+            "mean": [],
+            "pronounce": "/'mist\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/eae1876bf7766d2e32496a751a735728/16e62a5c2f1/M/Mr.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/cc491df4c6308f6c2ab1407f4b2b276e/16e62a5bccf/M/Mr.mp3"
+            },
+            "type": "",
+            "word": "Mr"
+        },
+        "suggests": [
+            {
+                "id": "59119",
+                "link": "/find?type=1&query=MRBM",
+                "word": "MRBM"
+            },
+            {
+                "id": "59119",
+                "link": "/find?type=1&query=MRC",
+                "word": "MRC"
+            },
+            {
+                "id": "59119",
+                "link": "/find?type=1&query=Mrs",
+                "word": "Mrs"
+            }
+        ]
+    }
+}
