@@ -1,1 +1,22 @@
-{"error": 0, "query": "monosodium", "enViData": {"suggests": [{"id": "58665", "link": "/find?type=1&query=monosodium+glutamate", "word": "monosodium glutamate"}]}, "mUrl": "/find?type=1&query=monosodium", "enEnData": {"suggests": [{"id": "18540", "link": "/find?type=3&query=monosodium+glutamate", "word": "monosodium glutamate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18540",
+                "link": "/find?type=3&query=monosodium+glutamate",
+                "word": "monosodium glutamate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58665",
+                "link": "/find?type=1&query=monosodium+glutamate",
+                "word": "monosodium glutamate"
+            }
+        ]
+    }
+}

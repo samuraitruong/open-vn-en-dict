@@ -1,1 +1,34 @@
-{"error": 0, "query": "monograming", "enViData": {"suggests": [{"id": "58611", "link": "/find?type=1&query=monogrammed", "word": "monogrammed"}], "best": {"id": "58611", "details": "\n<div id=\"find_word_58611\" class=\"world word_en\" rel=\"monogram\">\n    <h2 class=\"fl\">monogram <span class=\"color-black\">/'m\u0252n\u0259gr\u00e6m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58611\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58611\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1eef l\u1ed3ng t\u00ean</div>\n    \n</div>\n", "link": "/find?type=1&query=monogram", "word": "monogram"}}, "mUrl": "/find?type=1&query=monograming", "enEnData": {"suggests": [], "best": {"id": "18531", "details": "\n<div id=\"find_word_18531\" class=\"world word_en\" rel=\"monogram\">\n    <h2 class=\"fl\">monogram <span class=\"color-black\">/\u02c8m\u0251\u02d0n\u0259\u02ccgr\u00e6m/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18531\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18531\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -grams</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a symbol that has the first letters of a person's first, middle, and last names and that is put on towels, blankets, clothes, etc., as a decoration or to show ownership</div>\n    \n</div>\n", "link": "/find?type=3&query=monogram", "word": "monogram"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -grams</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a symbol that has the first letters of a person's first, middle, and last names and that is put on towels, blankets, clothes, etc., as a decoration or to show ownership</div>",
+            "id": "18531",
+            "mean": [],
+            "pronounce": "/\u02c8m\u0251\u02d0n\u0259\u02ccgr\u00e6m/",
+            "type": "noun",
+            "word": "monogram"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1eef l\u1ed3ng t\u00ean</div>",
+            "id": "58611",
+            "mean": [],
+            "pronounce": "/'m\u0252n\u0259gr\u00e6m/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/98e3584fb41db495c233f805413915ec/16e62a3b80a/M/monogram.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/eacc34fd2d10ecce7e6e3920006a5605/16e62a3b1e5/M/monogram.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "monogram"
+        },
+        "suggests": [
+            {
+                "id": "58611",
+                "link": "/find?type=1&query=monogrammed",
+                "word": "monogrammed"
+            }
+        ]
+    }
+}
