@@ -1,1 +1,92 @@
-{"error": 0, "query": "laz", "enViData": {"suggests": [{"id": "52941", "link": "/find?type=1&query=lazar", "word": "lazar"}, {"id": "52942", "link": "/find?type=1&query=lazar-house", "word": "lazar-house"}, {"id": "52943", "link": "/find?type=1&query=lazaret", "word": "lazaret"}, {"id": "52944", "link": "/find?type=1&query=lazaretto", "word": "lazaretto"}, {"id": "52945", "link": "/find?type=1&query=lazarus", "word": "lazarus"}, {"id": "52946", "link": "/find?type=1&query=laze", "word": "laze"}, {"id": "52947", "link": "/find?type=1&query=lazily", "word": "lazily"}, {"id": "52948", "link": "/find?type=1&query=laziness", "word": "laziness"}, {"id": "52949", "link": "/find?type=1&query=lazurite", "word": "lazurite"}, {"id": "52950", "link": "/find?type=1&query=lazy", "word": "lazy"}]}, "mUrl": "/find?type=1&query=laz", "enEnData": {"suggests": [{"id": "16338", "link": "/find?type=3&query=laze", "word": "laze"}, {"id": "16339", "link": "/find?type=3&query=lazy", "word": "lazy"}, {"id": "16340", "link": "/find?type=3&query=lazy+Susan", "word": "lazy Susan"}, {"id": "16341", "link": "/find?type=3&query=lazybones", "word": "lazybones"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4138", "link": "/find?type=4&query=lazy", "word": "lazy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16338",
+                "link": "/find?type=3&query=laze",
+                "word": "laze"
+            },
+            {
+                "id": "16339",
+                "link": "/find?type=3&query=lazy",
+                "word": "lazy"
+            },
+            {
+                "id": "16340",
+                "link": "/find?type=3&query=lazy+Susan",
+                "word": "lazy Susan"
+            },
+            {
+                "id": "16341",
+                "link": "/find?type=3&query=lazybones",
+                "word": "lazybones"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52941",
+                "link": "/find?type=1&query=lazar",
+                "word": "lazar"
+            },
+            {
+                "id": "52942",
+                "link": "/find?type=1&query=lazar-house",
+                "word": "lazar-house"
+            },
+            {
+                "id": "52943",
+                "link": "/find?type=1&query=lazaret",
+                "word": "lazaret"
+            },
+            {
+                "id": "52944",
+                "link": "/find?type=1&query=lazaretto",
+                "word": "lazaretto"
+            },
+            {
+                "id": "52945",
+                "link": "/find?type=1&query=lazarus",
+                "word": "lazarus"
+            },
+            {
+                "id": "52946",
+                "link": "/find?type=1&query=laze",
+                "word": "laze"
+            },
+            {
+                "id": "52947",
+                "link": "/find?type=1&query=lazily",
+                "word": "lazily"
+            },
+            {
+                "id": "52948",
+                "link": "/find?type=1&query=laziness",
+                "word": "laziness"
+            },
+            {
+                "id": "52949",
+                "link": "/find?type=1&query=lazurite",
+                "word": "lazurite"
+            },
+            {
+                "id": "52950",
+                "link": "/find?type=1&query=lazy",
+                "word": "lazy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4138",
+                "link": "/find?type=4&query=lazy",
+                "word": "lazy"
+            }
+        ]
+    }
+}

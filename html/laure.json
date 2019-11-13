@@ -1,1 +1,52 @@
-{"error": 0, "query": "laure", "enViData": {"suggests": [{"id": "52854", "link": "/find?type=1&query=Laureate", "word": "Laureate"}, {"id": "52855", "link": "/find?type=1&query=laureateship", "word": "laureateship"}, {"id": "52856", "link": "/find?type=1&query=laurel", "word": "laurel"}, {"id": "52857", "link": "/find?type=1&query=laurelled", "word": "laurelled"}]}, "mUrl": "/find?type=1&query=laure", "enEnData": {"suggests": [{"id": "16298", "link": "/find?type=3&query=laureate", "word": "laureate"}, {"id": "16299", "link": "/find?type=3&query=laurel", "word": "laurel"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4128", "link": "/find?type=4&query=laurels", "word": "laurels"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16298",
+                "link": "/find?type=3&query=laureate",
+                "word": "laureate"
+            },
+            {
+                "id": "16299",
+                "link": "/find?type=3&query=laurel",
+                "word": "laurel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52854",
+                "link": "/find?type=1&query=Laureate",
+                "word": "Laureate"
+            },
+            {
+                "id": "52855",
+                "link": "/find?type=1&query=laureateship",
+                "word": "laureateship"
+            },
+            {
+                "id": "52856",
+                "link": "/find?type=1&query=laurel",
+                "word": "laurel"
+            },
+            {
+                "id": "52857",
+                "link": "/find?type=1&query=laurelled",
+                "word": "laurelled"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4128",
+                "link": "/find?type=4&query=laurels",
+                "word": "laurels"
+            }
+        ]
+    }
+}

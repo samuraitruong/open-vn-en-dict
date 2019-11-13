@@ -1,1 +1,27 @@
-{"error": 0, "query": "lc", "enViData": {"suggests": [{"id": "52956", "link": "/find?type=1&query=LCD", "word": "LCD"}, {"id": "52957", "link": "/find?type=1&query=LCpl", "word": "LCpl"}]}, "mUrl": "/find?type=1&query=lc", "enEnData": {"suggests": [{"id": "16343", "link": "/find?type=3&query=LCD", "word": "LCD"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16343",
+                "link": "/find?type=3&query=LCD",
+                "word": "LCD"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52956",
+                "link": "/find?type=1&query=LCD",
+                "word": "LCD"
+            },
+            {
+                "id": "52957",
+                "link": "/find?type=1&query=LCpl",
+                "word": "LCpl"
+            }
+        ]
+    }
+}

@@ -1,1 +1,75 @@
-{"error": 0, "query": "lavas", "enViData": {"suggests": [{"id": "52860", "link": "/find?type=1&query=lavabo", "word": "lavabo"}, {"id": "52860", "link": "/find?type=1&query=lavage", "word": "lavage"}, {"id": "52860", "link": "/find?type=1&query=lavation", "word": "lavation"}, {"id": "52860", "link": "/find?type=1&query=lavational", "word": "lavational"}, {"id": "52860", "link": "/find?type=1&query=lavatory", "word": "lavatory"}], "best": {"id": "52860", "details": "\n<div id=\"find_word_52860\" class=\"world word_en\" rel=\"lava\">\n    <h2 class=\"fl\">lava <span class=\"color-black\">/'l\u0251:v\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"52860\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"52860\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ecba l\u00fd,dd\u1ecba ch\u1ea5t) Lava, dung nham</div>\n    \n</div>\n", "link": "/find?type=1&query=lava", "word": "lava"}}, "mUrl": "/find?type=1&query=lavas", "enEnData": {"suggests": [{"id": "16300", "link": "/find?type=3&query=lavatory", "word": "lavatory"}, {"id": "16300", "link": "/find?type=3&query=lavatory+paper", "word": "lavatory paper"}], "best": {"id": "16300", "details": "\n<div id=\"find_word_16300\" class=\"world word_en\" rel=\"lava\">\n    <h2 class=\"fl\">lava <span class=\"color-black\">/\u02c8l\u0251\u02d0v\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"16300\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"16300\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :melted rock from a volcano</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a flow of molten lava</div>\n    \n</div>\n", "link": "/find?type=3&query=lava", "word": "lava"}}, "ftype": "1", "synData": {"suggests": [{"id": "4129", "link": "/find?type=4&query=lavatory", "word": "lavatory"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :melted rock from a volcano</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a flow of molten lava</div>",
+            "id": "16300",
+            "mean": [],
+            "pronounce": "/\u02c8l\u0251\u02d0v\u0259/",
+            "type": "noun",
+            "word": "lava"
+        },
+        "suggests": [
+            {
+                "id": "16300",
+                "link": "/find?type=3&query=lavatory",
+                "word": "lavatory"
+            },
+            {
+                "id": "16300",
+                "link": "/find?type=3&query=lavatory+paper",
+                "word": "lavatory paper"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(\u0111\u1ecba l\u00fd,dd\u1ecba ch\u1ea5t) Lava, dung nham</div>",
+            "id": "52860",
+            "mean": [],
+            "pronounce": "/'l\u0251:v\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/51fe0c80959e304041c5e4076ba8de50/16e628e13a4/L/lava.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c3fabdf5dc3f71345a0ed701eb878c9a/16e628e0d81/L/lava.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "lava"
+        },
+        "suggests": [
+            {
+                "id": "52860",
+                "link": "/find?type=1&query=lavabo",
+                "word": "lavabo"
+            },
+            {
+                "id": "52860",
+                "link": "/find?type=1&query=lavage",
+                "word": "lavage"
+            },
+            {
+                "id": "52860",
+                "link": "/find?type=1&query=lavation",
+                "word": "lavation"
+            },
+            {
+                "id": "52860",
+                "link": "/find?type=1&query=lavational",
+                "word": "lavational"
+            },
+            {
+                "id": "52860",
+                "link": "/find?type=1&query=lavatory",
+                "word": "lavatory"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4129",
+                "link": "/find?type=4&query=lavatory",
+                "word": "lavatory"
+            }
+        ]
+    }
+}
