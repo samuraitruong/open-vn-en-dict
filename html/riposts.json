@@ -1,1 +1,22 @@
-{"error": 0, "query": "riposts", "enViData": {"suggests": [{"id": "77517", "link": "/find?type=1&query=riposte", "word": "riposte"}]}, "mUrl": "/find?type=1&query=riposts", "enEnData": {"suggests": [{"id": "24996", "link": "/find?type=3&query=riposte", "word": "riposte"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24996",
+                "link": "/find?type=3&query=riposte",
+                "word": "riposte"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77517",
+                "link": "/find?type=1&query=riposte",
+                "word": "riposte"
+            }
+        ]
+    }
+}

@@ -1,1 +1,32 @@
-{"error": 0, "query": "ringe", "enViData": {"suggests": [{"id": "77479", "link": "/find?type=1&query=ringed", "word": "ringed"}, {"id": "77480", "link": "/find?type=1&query=ringent", "word": "ringent"}, {"id": "77481", "link": "/find?type=1&query=ringer", "word": "ringer"}]}, "mUrl": "/find?type=1&query=ringe", "enEnData": {"suggests": [{"id": "24977", "link": "/find?type=3&query=ringer", "word": "ringer"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24977",
+                "link": "/find?type=3&query=ringer",
+                "word": "ringer"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77479",
+                "link": "/find?type=1&query=ringed",
+                "word": "ringed"
+            },
+            {
+                "id": "77480",
+                "link": "/find?type=1&query=ringent",
+                "word": "ringent"
+            },
+            {
+                "id": "77481",
+                "link": "/find?type=1&query=ringer",
+                "word": "ringer"
+            }
+        ]
+    }
+}

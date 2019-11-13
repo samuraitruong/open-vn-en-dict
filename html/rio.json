@@ -1,1 +1,72 @@
-{"error": 0, "query": "rio", "enViData": {"suggests": [{"id": "77497", "link": "/find?type=1&query=riot", "word": "riot"}, {"id": "77498", "link": "/find?type=1&query=riot+police", "word": "riot police"}, {"id": "77499", "link": "/find?type=1&query=riot+shield", "word": "riot shield"}, {"id": "77500", "link": "/find?type=1&query=rioter", "word": "rioter"}, {"id": "77501", "link": "/find?type=1&query=riotous", "word": "riotous"}, {"id": "77502", "link": "/find?type=1&query=riotously", "word": "riotously"}, {"id": "77503", "link": "/find?type=1&query=riotousness", "word": "riotousness"}]}, "mUrl": "/find?type=1&query=rio", "enEnData": {"suggests": [{"id": "24989", "link": "/find?type=3&query=riot", "word": "riot"}, {"id": "24990", "link": "/find?type=3&query=riotous", "word": "riotous"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6656", "link": "/find?type=4&query=riot", "word": "riot"}, {"id": "6657", "link": "/find?type=4&query=riotous", "word": "riotous"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24989",
+                "link": "/find?type=3&query=riot",
+                "word": "riot"
+            },
+            {
+                "id": "24990",
+                "link": "/find?type=3&query=riotous",
+                "word": "riotous"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77497",
+                "link": "/find?type=1&query=riot",
+                "word": "riot"
+            },
+            {
+                "id": "77498",
+                "link": "/find?type=1&query=riot+police",
+                "word": "riot police"
+            },
+            {
+                "id": "77499",
+                "link": "/find?type=1&query=riot+shield",
+                "word": "riot shield"
+            },
+            {
+                "id": "77500",
+                "link": "/find?type=1&query=rioter",
+                "word": "rioter"
+            },
+            {
+                "id": "77501",
+                "link": "/find?type=1&query=riotous",
+                "word": "riotous"
+            },
+            {
+                "id": "77502",
+                "link": "/find?type=1&query=riotously",
+                "word": "riotously"
+            },
+            {
+                "id": "77503",
+                "link": "/find?type=1&query=riotousness",
+                "word": "riotousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6656",
+                "link": "/find?type=4&query=riot",
+                "word": "riot"
+            },
+            {
+                "id": "6657",
+                "link": "/find?type=4&query=riotous",
+                "word": "riotous"
+            }
+        ]
+    }
+}

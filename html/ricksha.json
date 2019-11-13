@@ -1,1 +1,22 @@
-{"error": 0, "query": "ricksha", "enViData": {"suggests": [{"id": "77319", "link": "/find?type=1&query=rickshaw", "word": "rickshaw"}]}, "mUrl": "/find?type=1&query=ricksha", "enEnData": {"suggests": [{"id": "24909", "link": "/find?type=3&query=rickshaw", "word": "rickshaw"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24909",
+                "link": "/find?type=3&query=rickshaw",
+                "word": "rickshaw"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77319",
+                "link": "/find?type=1&query=rickshaw",
+                "word": "rickshaw"
+            }
+        ]
+    }
+}

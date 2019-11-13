@@ -1,1 +1,42 @@
-{"error": 0, "query": "rins", "enViData": {"suggests": [{"id": "77494", "link": "/find?type=1&query=rinse", "word": "rinse"}, {"id": "77495", "link": "/find?type=1&query=rinser", "word": "rinser"}, {"id": "77496", "link": "/find?type=1&query=rinsing", "word": "rinsing"}]}, "mUrl": "/find?type=1&query=rins", "enEnData": {"suggests": [{"id": "24988", "link": "/find?type=3&query=rinse", "word": "rinse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6655", "link": "/find?type=4&query=rinse", "word": "rinse"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24988",
+                "link": "/find?type=3&query=rinse",
+                "word": "rinse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77494",
+                "link": "/find?type=1&query=rinse",
+                "word": "rinse"
+            },
+            {
+                "id": "77495",
+                "link": "/find?type=1&query=rinser",
+                "word": "rinser"
+            },
+            {
+                "id": "77496",
+                "link": "/find?type=1&query=rinsing",
+                "word": "rinsing"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6655",
+                "link": "/find?type=4&query=rinse",
+                "word": "rinse"
+            }
+        ]
+    }
+}

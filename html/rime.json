@@ -1,1 +1,33 @@
-{"error": 0, "query": "rime", "enViData": {"suggests": [{"id": "77443", "link": "/find?type=1&query=rimer", "word": "rimer"}], "best": {"id": "77443", "details": "\n<div id=\"find_word_77443\" class=\"world word_en\" rel=\"rime\">\n    <h2 class=\"fl\">rime <span class=\"color-black\">/raim/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"77443\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"77443\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(tu t\u1eeb)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u01b0\u01a1ng gi\u00e1</div>\n    \n</div>\n", "link": "/find?type=1&query=rime", "word": "rime"}}, "mUrl": "/find?type=1&query=rime", "enEnData": {"suggests": [], "best": {"id": "24968", "details": "\n<div id=\"find_word_24968\" class=\"world word_en\" rel=\"rime\">\n    <h2 class=\"fl\">rime <span class=\"color-black\">/\u02c8ra\u026am/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24968\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24968\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :frost</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a heavy coating of rime</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">rime ice</div>\n    \n</div>\n", "link": "/find?type=3&query=rime", "word": "rime"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :frost</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a heavy coating of rime</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">rime ice</div>",
+            "id": "24968",
+            "mean": [],
+            "pronounce": "/\u02c8ra\u026am/",
+            "type": "noun",
+            "word": "rime"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(tu t\u1eeb)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u01b0\u01a1ng gi\u00e1</div>",
+            "id": "77443",
+            "mean": [],
+            "pronounce": "/raim/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bd83d94d7993ce07443a63d03da62842/16e62ea1edd/R/rime.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "rime"
+        },
+        "suggests": [
+            {
+                "id": "77443",
+                "link": "/find?type=1&query=rimer",
+                "word": "rimer"
+            }
+        ]
+    }
+}

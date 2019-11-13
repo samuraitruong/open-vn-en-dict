@@ -1,1 +1,39 @@
-{"error": 0, "query": "ringlet", "enViData": {"suggests": [{"id": "77484", "link": "/find?type=1&query=ringleted", "word": "ringleted"}, {"id": "77484", "link": "/find?type=1&query=ringlety", "word": "ringlety"}], "best": {"id": "77484", "details": "\n<div id=\"find_word_77484\" class=\"world word_en\" rel=\"ringlet\">\n    <h2 class=\"fl\">ringlet <span class=\"color-black\">/'ri\u014b\u03b7lit/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"77484\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"77484\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n t\u00f3c qu\u0103n th\u00f5ng xu\u1ed1ng</div>\n    \n</div>\n", "link": "/find?type=1&query=ringlet", "word": "ringlet"}}, "mUrl": "/find?type=1&query=ringlet", "enEnData": {"suggests": [], "best": {"id": "24981", "details": "\n<div id=\"find_word_24981\" class=\"world word_en\" rel=\"ringlet\">\n    <h2 class=\"fl\">ringlet <span class=\"color-black\">/\u02c8r\u026a\u014bl\u0259t/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"24981\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"24981\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a long curl of hair - usually plural</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She wore her hair in ringlets.</div>\n    \n</div>\n", "link": "/find?type=3&query=ringlet", "word": "ringlet"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -lets</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a long curl of hair - usually plural</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She wore her hair in ringlets.</div>",
+            "id": "24981",
+            "mean": [],
+            "pronounce": "/\u02c8r\u026a\u014bl\u0259t/",
+            "type": "noun",
+            "word": "ringlet"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">m\u00f3n t\u00f3c qu\u0103n th\u00f5ng xu\u1ed1ng</div>",
+            "id": "77484",
+            "mean": [],
+            "pronounce": "/'ri\u014b\u03b7lit/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7eb0eb2e54f827b00debc9c01bfd1c48/16e62ea38ab/R/ringlet.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2bbb14ee788f3bd2c0b8ce1d8b963faf/16e62ea32c2/R/ringlet.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "ringlet"
+        },
+        "suggests": [
+            {
+                "id": "77484",
+                "link": "/find?type=1&query=ringleted",
+                "word": "ringleted"
+            },
+            {
+                "id": "77484",
+                "link": "/find?type=1&query=ringlety",
+                "word": "ringlety"
+            }
+        ]
+    }
+}

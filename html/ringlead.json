@@ -1,1 +1,22 @@
-{"error": 0, "query": "ringlead", "enViData": {"suggests": [{"id": "77483", "link": "/find?type=1&query=ringleader", "word": "ringleader"}]}, "mUrl": "/find?type=1&query=ringlead", "enEnData": {"suggests": [{"id": "24980", "link": "/find?type=3&query=ringleader", "word": "ringleader"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "24980",
+                "link": "/find?type=3&query=ringleader",
+                "word": "ringleader"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "77483",
+                "link": "/find?type=1&query=ringleader",
+                "word": "ringleader"
+            }
+        ]
+    }
+}
