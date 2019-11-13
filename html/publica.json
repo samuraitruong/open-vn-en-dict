@@ -1,1 +1,42 @@
-{"error": 0, "query": "publica", "enViData": {"suggests": [{"id": "72852", "link": "/find?type=1&query=publican", "word": "publican"}, {"id": "72853", "link": "/find?type=1&query=publication", "word": "publication"}]}, "mUrl": "/find?type=1&query=publica", "enEnData": {"suggests": [{"id": "23331", "link": "/find?type=3&query=publican", "word": "publican"}, {"id": "23332", "link": "/find?type=3&query=publication", "word": "publication"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6052", "link": "/find?type=4&query=publication", "word": "publication"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23331",
+                "link": "/find?type=3&query=publican",
+                "word": "publican"
+            },
+            {
+                "id": "23332",
+                "link": "/find?type=3&query=publication",
+                "word": "publication"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72852",
+                "link": "/find?type=1&query=publican",
+                "word": "publican"
+            },
+            {
+                "id": "72853",
+                "link": "/find?type=1&query=publication",
+                "word": "publication"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6052",
+                "link": "/find?type=4&query=publication",
+                "word": "publication"
+            }
+        ]
+    }
+}

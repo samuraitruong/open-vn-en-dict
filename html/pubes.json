@@ -1,1 +1,48 @@
-{"error": 0, "query": "pubes", "enViData": {"suggests": [{"id": "72815", "link": "/find?type=1&query=pubescence", "word": "pubescence"}, {"id": "72815", "link": "/find?type=1&query=pubescent", "word": "pubescent"}], "best": {"id": "72815", "details": "\n<div id=\"find_word_72815\" class=\"world word_en\" rel=\"pubes\">\n    <h2 class=\"fl\">pubes <span class=\"color-black\">/'pju:bi:z/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"72815\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"72815\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00f4ng (m\u1ecdc \u1edf h\u1ea1 b\u1ed9 khi \u0111\u1ebfn tu\u1ed5i d\u1eady th\u00ec)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 m\u1ecdc l\u00f4ng (\u1edf h\u1ea1 b\u1ed9 khi \u0111\u1ebfn tu\u1ed5i d\u1eady th\u00ec)</div>\n    \n</div>\n", "link": "/find?type=1&query=pubes", "word": "pubes"}}, "mUrl": "/find?type=1&query=pubes", "enEnData": {"suggests": [{"id": "23310", "link": "/find?type=3&query=pubescent", "word": "pubescent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6050", "link": "/find?type=4&query=puberty", "word": "puberty"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23310",
+                "link": "/find?type=3&query=pubescent",
+                "word": "pubescent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">l\u00f4ng (m\u1ecdc \u1edf h\u1ea1 b\u1ed9 khi \u0111\u1ebfn tu\u1ed5i d\u1eady th\u00ec)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed7 m\u1ecdc l\u00f4ng (\u1edf h\u1ea1 b\u1ed9 khi \u0111\u1ebfn tu\u1ed5i d\u1eady th\u00ec)</div>",
+            "id": "72815",
+            "mean": [],
+            "pronounce": "/'pju:bi:z/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1988c1bbfc845f71ef16876e540a46bb/16e62d8fe24/P/pubes.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1c964fb0334dd8d79ba82288c9433bac/16e62d8f7e5/P/pubes.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "pubes"
+        },
+        "suggests": [
+            {
+                "id": "72815",
+                "link": "/find?type=1&query=pubescence",
+                "word": "pubescence"
+            },
+            {
+                "id": "72815",
+                "link": "/find?type=1&query=pubescent",
+                "word": "pubescent"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6050",
+                "link": "/find?type=4&query=puberty",
+                "word": "puberty"
+            }
+        ]
+    }
+}

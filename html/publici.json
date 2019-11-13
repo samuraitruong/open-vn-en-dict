@@ -1,1 +1,62 @@
-{"error": 0, "query": "publici", "enViData": {"suggests": [{"id": "72854", "link": "/find?type=1&query=publicise", "word": "publicise"}, {"id": "72855", "link": "/find?type=1&query=publicist", "word": "publicist"}, {"id": "72856", "link": "/find?type=1&query=publicity", "word": "publicity"}, {"id": "72857", "link": "/find?type=1&query=publicity+agent", "word": "publicity agent"}, {"id": "72858", "link": "/find?type=1&query=publicize", "word": "publicize"}]}, "mUrl": "/find?type=1&query=publici", "enEnData": {"suggests": [{"id": "23333", "link": "/find?type=3&query=publicist", "word": "publicist"}, {"id": "23334", "link": "/find?type=3&query=publicity", "word": "publicity"}, {"id": "23335", "link": "/find?type=3&query=publicize", "word": "publicize"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6053", "link": "/find?type=4&query=publicize", "word": "publicize"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23333",
+                "link": "/find?type=3&query=publicist",
+                "word": "publicist"
+            },
+            {
+                "id": "23334",
+                "link": "/find?type=3&query=publicity",
+                "word": "publicity"
+            },
+            {
+                "id": "23335",
+                "link": "/find?type=3&query=publicize",
+                "word": "publicize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72854",
+                "link": "/find?type=1&query=publicise",
+                "word": "publicise"
+            },
+            {
+                "id": "72855",
+                "link": "/find?type=1&query=publicist",
+                "word": "publicist"
+            },
+            {
+                "id": "72856",
+                "link": "/find?type=1&query=publicity",
+                "word": "publicity"
+            },
+            {
+                "id": "72857",
+                "link": "/find?type=1&query=publicity+agent",
+                "word": "publicity agent"
+            },
+            {
+                "id": "72858",
+                "link": "/find?type=1&query=publicize",
+                "word": "publicize"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6053",
+                "link": "/find?type=4&query=publicize",
+                "word": "publicize"
+            }
+        ]
+    }
+}

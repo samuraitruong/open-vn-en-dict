@@ -1,1 +1,34 @@
-{"error": 0, "query": "publisher", "enViData": {"suggests": [{"id": "72863", "link": "/find?type=1&query=publisher%27s+reader", "word": "publisher's reader"}], "best": {"id": "72863", "details": "\n<div id=\"find_word_72863\" class=\"world word_en\" rel=\"publisher\">\n    <h2 class=\"fl\">publisher <span class=\"color-black\">/'p\u028cbli\u222b\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"72863\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"72863\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi xu\u1ea5t b\u1ea3n, nh\u00e0 xu\u1ea5t b\u1ea3n</div>\n    \n</div>\n", "link": "/find?type=1&query=publisher", "word": "publisher"}}, "mUrl": "/find?type=1&query=publisher", "enEnData": {"suggests": [], "best": {"id": "23339", "details": "\n<div id=\"find_word_23339\" class=\"world word_en\" rel=\"publisher\">\n    <h2 class=\"fl\">publisher <span class=\"color-black\">/\u02c8p\u028cbl\u026a\u0283\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23339\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23339\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person or company that produces books, magazines, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He submitted the manuscript to publishers of children's books.</div>\n    \n</div>\n", "link": "/find?type=3&query=publisher", "word": "publisher"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person or company that produces books, magazines, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He submitted the manuscript to publishers of children's books.</div>",
+            "id": "23339",
+            "mean": [],
+            "pronounce": "/\u02c8p\u028cbl\u026a\u0283\u025a/",
+            "type": "noun",
+            "word": "publisher"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi xu\u1ea5t b\u1ea3n, nh\u00e0 xu\u1ea5t b\u1ea3n</div>",
+            "id": "72863",
+            "mean": [],
+            "pronounce": "/'p\u028cbli\u222b\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/624ce81a185dafe1c52df17471ba69ed/16e62d90cbf/P/publisher.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5d6ffcf8461c225999940f91d8ce1bbf/16e62d90705/P/publisher.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "publisher"
+        },
+        "suggests": [
+            {
+                "id": "72863",
+                "link": "/find?type=1&query=publisher%27s+reader",
+                "word": "publisher's reader"
+            }
+        ]
+    }
+}
