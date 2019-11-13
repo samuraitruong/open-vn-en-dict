@@ -1,1 +1,22 @@
-{"error": 0, "query": "jubile", "enViData": {"suggests": [{"id": "51131", "link": "/find?type=1&query=jubilee", "word": "jubilee"}]}, "mUrl": "/find?type=1&query=jubile", "enEnData": {"suggests": [{"id": "15712", "link": "/find?type=3&query=jubilee", "word": "jubilee"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15712",
+                "link": "/find?type=3&query=jubilee",
+                "word": "jubilee"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51131",
+                "link": "/find?type=1&query=jubilee",
+                "word": "jubilee"
+            }
+        ]
+    }
+}

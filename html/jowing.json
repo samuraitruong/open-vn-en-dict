@@ -1,1 +1,22 @@
-{"error": 0, "query": "jowing", "enViData": {"suggests": [{"id": "51103", "link": "/find?type=1&query=jowl", "word": "jowl"}]}, "mUrl": "/find?type=1&query=jowing", "enEnData": {"suggests": [{"id": "15701", "link": "/find?type=3&query=jowl", "word": "jowl"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15701",
+                "link": "/find?type=3&query=jowl",
+                "word": "jowl"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51103",
+                "link": "/find?type=1&query=jowl",
+                "word": "jowl"
+            }
+        ]
+    }
+}

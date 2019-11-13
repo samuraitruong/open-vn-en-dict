@@ -1,1 +1,57 @@
-{"error": 0, "query": "judicia", "enViData": {"suggests": [{"id": "51160", "link": "/find?type=1&query=judicial", "word": "judicial"}, {"id": "51161", "link": "/find?type=1&query=judicial+murder", "word": "judicial murder"}, {"id": "51162", "link": "/find?type=1&query=judicial+separation", "word": "judicial separation"}, {"id": "51163", "link": "/find?type=1&query=judicially", "word": "judicially"}, {"id": "51164", "link": "/find?type=1&query=judiciary", "word": "judiciary"}]}, "mUrl": "/find?type=1&query=judicia", "enEnData": {"suggests": [{"id": "15723", "link": "/find?type=3&query=judicial", "word": "judicial"}, {"id": "15724", "link": "/find?type=3&query=judiciary", "word": "judiciary"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4006", "link": "/find?type=4&query=judicial", "word": "judicial"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15723",
+                "link": "/find?type=3&query=judicial",
+                "word": "judicial"
+            },
+            {
+                "id": "15724",
+                "link": "/find?type=3&query=judiciary",
+                "word": "judiciary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51160",
+                "link": "/find?type=1&query=judicial",
+                "word": "judicial"
+            },
+            {
+                "id": "51161",
+                "link": "/find?type=1&query=judicial+murder",
+                "word": "judicial murder"
+            },
+            {
+                "id": "51162",
+                "link": "/find?type=1&query=judicial+separation",
+                "word": "judicial separation"
+            },
+            {
+                "id": "51163",
+                "link": "/find?type=1&query=judicially",
+                "word": "judicially"
+            },
+            {
+                "id": "51164",
+                "link": "/find?type=1&query=judiciary",
+                "word": "judiciary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4006",
+                "link": "/find?type=4&query=judicial",
+                "word": "judicial"
+            }
+        ]
+    }
+}

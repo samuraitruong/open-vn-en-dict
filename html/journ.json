@@ -1,1 +1,102 @@
-{"error": 0, "query": "journ", "enViData": {"suggests": [{"id": "51082", "link": "/find?type=1&query=journal", "word": "journal"}, {"id": "51083", "link": "/find?type=1&query=journal-box", "word": "journal-box"}, {"id": "51084", "link": "/find?type=1&query=journalese", "word": "journalese"}, {"id": "51085", "link": "/find?type=1&query=journalise", "word": "journalise"}, {"id": "51086", "link": "/find?type=1&query=journalism", "word": "journalism"}, {"id": "51087", "link": "/find?type=1&query=journalist", "word": "journalist"}, {"id": "51088", "link": "/find?type=1&query=journalistic", "word": "journalistic"}, {"id": "51089", "link": "/find?type=1&query=journalistically", "word": "journalistically"}, {"id": "51090", "link": "/find?type=1&query=journalize", "word": "journalize"}, {"id": "51091", "link": "/find?type=1&query=journalizer", "word": "journalizer"}]}, "mUrl": "/find?type=1&query=journ", "enEnData": {"suggests": [{"id": "15694", "link": "/find?type=3&query=journal", "word": "journal"}, {"id": "15695", "link": "/find?type=3&query=journalism", "word": "journalism"}, {"id": "15696", "link": "/find?type=3&query=journey", "word": "journey"}, {"id": "15697", "link": "/find?type=3&query=journeyman", "word": "journeyman"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3998", "link": "/find?type=4&query=journal", "word": "journal"}, {"id": "3999", "link": "/find?type=4&query=journalist", "word": "journalist"}, {"id": "4000", "link": "/find?type=4&query=journey", "word": "journey"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15694",
+                "link": "/find?type=3&query=journal",
+                "word": "journal"
+            },
+            {
+                "id": "15695",
+                "link": "/find?type=3&query=journalism",
+                "word": "journalism"
+            },
+            {
+                "id": "15696",
+                "link": "/find?type=3&query=journey",
+                "word": "journey"
+            },
+            {
+                "id": "15697",
+                "link": "/find?type=3&query=journeyman",
+                "word": "journeyman"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51082",
+                "link": "/find?type=1&query=journal",
+                "word": "journal"
+            },
+            {
+                "id": "51083",
+                "link": "/find?type=1&query=journal-box",
+                "word": "journal-box"
+            },
+            {
+                "id": "51084",
+                "link": "/find?type=1&query=journalese",
+                "word": "journalese"
+            },
+            {
+                "id": "51085",
+                "link": "/find?type=1&query=journalise",
+                "word": "journalise"
+            },
+            {
+                "id": "51086",
+                "link": "/find?type=1&query=journalism",
+                "word": "journalism"
+            },
+            {
+                "id": "51087",
+                "link": "/find?type=1&query=journalist",
+                "word": "journalist"
+            },
+            {
+                "id": "51088",
+                "link": "/find?type=1&query=journalistic",
+                "word": "journalistic"
+            },
+            {
+                "id": "51089",
+                "link": "/find?type=1&query=journalistically",
+                "word": "journalistically"
+            },
+            {
+                "id": "51090",
+                "link": "/find?type=1&query=journalize",
+                "word": "journalize"
+            },
+            {
+                "id": "51091",
+                "link": "/find?type=1&query=journalizer",
+                "word": "journalizer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3998",
+                "link": "/find?type=4&query=journal",
+                "word": "journal"
+            },
+            {
+                "id": "3999",
+                "link": "/find?type=4&query=journalist",
+                "word": "journalist"
+            },
+            {
+                "id": "4000",
+                "link": "/find?type=4&query=journey",
+                "word": "journey"
+            }
+        ]
+    }
+}

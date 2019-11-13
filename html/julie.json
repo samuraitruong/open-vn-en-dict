@@ -1,1 +1,27 @@
-{"error": 0, "query": "julie", "enViData": {"suggests": [{"id": "51200", "link": "/find?type=1&query=julienne", "word": "julienne"}, {"id": "51201", "link": "/find?type=1&query=juliett", "word": "juliett"}]}, "mUrl": "/find?type=1&query=julie", "enEnData": {"suggests": [{"id": "15742", "link": "/find?type=3&query=julienne", "word": "julienne"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15742",
+                "link": "/find?type=3&query=julienne",
+                "word": "julienne"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51200",
+                "link": "/find?type=1&query=julienne",
+                "word": "julienne"
+            },
+            {
+                "id": "51201",
+                "link": "/find?type=1&query=juliett",
+                "word": "juliett"
+            }
+        ]
+    }
+}

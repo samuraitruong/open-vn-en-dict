@@ -1,1 +1,28 @@
-{"error": 0, "query": "jukebox", "enViData": {"suggests": [], "best": {"id": "51195", "details": "\n<div id=\"find_word_51195\" class=\"world word_en\" rel=\"jukebox\">\n    <h2 class=\"fl\">jukebox <span class=\"color-black\">/'d\u0292u:kb\u0254ks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51195\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51195\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y h\u00e1t t\u1ef1 \u0111\u1ed9ng (cho \u0111\u1ed3ng ti\u1ec1n v\u00e0o, m\u00e1y s\u1ebd ch\u1ea1y)</div>\n    \n</div>\n", "link": "/find?type=1&query=jukebox", "word": "jukebox"}}, "mUrl": "/find?type=1&query=jukebox", "enEnData": {"suggests": [], "best": {"id": "15739", "details": "\n<div id=\"find_word_15739\" class=\"world word_en\" rel=\"jukebox\">\n    <h2 class=\"fl\">jukebox <span class=\"color-black\">/\u02c8\u02a4u\u02d0k\u02ccb\u0251\u02d0ks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15739\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15739\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -boxes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a machine that plays music when money is put into it</div>\n    \n</div>\n", "link": "/find?type=3&query=jukebox", "word": "jukebox"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -boxes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a machine that plays music when money is put into it</div>",
+            "id": "15739",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4u\u02d0k\u02ccb\u0251\u02d0ks/",
+            "type": "noun",
+            "word": "jukebox"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">m\u00e1y h\u00e1t t\u1ef1 \u0111\u1ed9ng (cho \u0111\u1ed3ng ti\u1ec1n v\u00e0o, m\u00e1y s\u1ebd ch\u1ea1y)</div>",
+            "id": "51195",
+            "mean": [],
+            "pronounce": "/'d\u0292u:kb\u0254ks/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/8758833edc689a65463a10786d1649aa/16e626875ce/J/jukebox.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/da8bf2bdcce0ec62fe96cf2f60529e79/16e62686ffd/J/jukebox.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "jukebox"
+        },
+        "suggests": []
+    }
+}

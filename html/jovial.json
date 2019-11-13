@@ -1,1 +1,39 @@
-{"error": 0, "query": "jovial", "enViData": {"suggests": [{"id": "51099", "link": "/find?type=1&query=joviality", "word": "joviality"}, {"id": "51099", "link": "/find?type=1&query=jovially", "word": "jovially"}], "best": {"id": "51099", "details": "\n<div id=\"find_word_51099\" class=\"world word_en\" rel=\"jovial\">\n    <h2 class=\"fl\">jovial <span class=\"color-black\">/'d\u0292\u0259\u028avi\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51099\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51099\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">vui v\u1ebb, vui t\u00ednh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a jovial old man</div>\n    \n    <div class=\"margin25\">m\u1ed9t \u00f4ng l\u00e3o vui t\u00ednh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">in a jovial mood</div>\n    \n    <div class=\"margin25\">trong t\u00e2m tr\u1ea1ng vui v\u1ebb</div>\n    \n</div>\n", "link": "/find?type=1&query=jovial", "word": "jovial"}}, "mUrl": "/find?type=1&query=jovial", "enEnData": {"suggests": [], "best": {"id": "15700", "details": "\n<div id=\"find_word_15700\" class=\"world word_en\" rel=\"jovial\">\n    <h2 class=\"fl\">jovial <span class=\"color-black\">/\u02c8\u02a4o\u028avij\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15700\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15700\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :full of happiness and joy :cheerful</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The audience was in a jovial mood.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's a very jovial man.</div>\n    \n</div>\n", "link": "/find?type=3&query=jovial", "word": "jovial"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">[more ~; most ~] :full of happiness and joy :cheerful</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The audience was in a jovial mood.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He's a very jovial man.</div>",
+            "id": "15700",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4o\u028avij\u0259l/",
+            "type": "adjective",
+            "word": "jovial"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">vui v\u1ebb, vui t\u00ednh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a jovial old man</div>\n    \n    <div class=\"margin25\">m\u1ed9t \u00f4ng l\u00e3o vui t\u00ednh</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">in a jovial mood</div>\n    \n    <div class=\"margin25\">trong t\u00e2m tr\u1ea1ng vui v\u1ebb</div>",
+            "id": "51099",
+            "mean": [],
+            "pronounce": "/'d\u0292\u0259\u028avi\u0259l/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d4846cedd04752cab27632f8228097f7/16e62682e4b/J/jovial.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8814d5f4220b1a02f5fa190228227690/16e6268288c/J/jovial.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "jovial"
+        },
+        "suggests": [
+            {
+                "id": "51099",
+                "link": "/find?type=1&query=joviality",
+                "word": "joviality"
+            },
+            {
+                "id": "51099",
+                "link": "/find?type=1&query=jovially",
+                "word": "jovially"
+            }
+        ]
+    }
+}

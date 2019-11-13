@@ -1,1 +1,38 @@
-{"error": 0, "query": "judas", "enViData": {"suggests": [{"id": "51138", "link": "/find?type=1&query=judas-coloured", "word": "judas-coloured"}, {"id": "51138", "link": "/find?type=1&query=judas-hole", "word": "judas-hole"}], "best": {"id": "51138", "details": "\n<div id=\"find_word_51138\" class=\"world word_en\" rel=\"Judas\">\n    <h2 class=\"fl\">Judas <span class=\"color-black\">/'d\u0292u:d\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51138\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51138\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb ph\u1ea3n b\u1ed9i</div>\n    \n</div>\n", "link": "/find?type=1&query=Judas", "word": "Judas"}}, "mUrl": "/find?type=1&query=judas", "enEnData": {"suggests": [], "best": {"id": "15714", "details": "\n<div id=\"find_word_15714\" class=\"world word_en\" rel=\"Judas\">\n    <h2 class=\"fl\">Judas <span class=\"color-black\">/\u02c8\u02a4u\u02d0d\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15714\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15714\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Judases</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone who betrays someone else :traitor</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was called a Judas by the press.</div>\n    \n</div>\n", "link": "/find?type=3&query=Judas", "word": "Judas"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural Judases</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :someone who betrays someone else :traitor</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He was called a Judas by the press.</div>",
+            "id": "15714",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4u\u02d0d\u0259s/",
+            "type": "noun",
+            "word": "Judas"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">k\u1ebb ph\u1ea3n b\u1ed9i</div>",
+            "id": "51138",
+            "mean": [],
+            "pronounce": "/'d\u0292u:d\u0259s/",
+            "speak": {
+                "us": "https://stream-dict-laban.zdn.vn/us/007caaf96ec4dbf948e5974798ae29c3/16e626840bf/J/Judas.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Judas"
+        },
+        "suggests": [
+            {
+                "id": "51138",
+                "link": "/find?type=1&query=judas-coloured",
+                "word": "judas-coloured"
+            },
+            {
+                "id": "51138",
+                "link": "/find?type=1&query=judas-hole",
+                "word": "judas-hole"
+            }
+        ]
+    }
+}

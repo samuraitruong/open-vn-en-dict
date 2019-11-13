@@ -1,1 +1,32 @@
-{"error": 0, "query": "jugula", "enViData": {"suggests": [{"id": "51183", "link": "/find?type=1&query=jugular", "word": "jugular"}, {"id": "51184", "link": "/find?type=1&query=jugulate", "word": "jugulate"}]}, "mUrl": "/find?type=1&query=jugula", "enEnData": {"suggests": [{"id": "15730", "link": "/find?type=3&query=jugular", "word": "jugular"}, {"id": "15731", "link": "/find?type=3&query=jugular+vein", "word": "jugular vein"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15730",
+                "link": "/find?type=3&query=jugular",
+                "word": "jugular"
+            },
+            {
+                "id": "15731",
+                "link": "/find?type=3&query=jugular+vein",
+                "word": "jugular vein"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51183",
+                "link": "/find?type=1&query=jugular",
+                "word": "jugular"
+            },
+            {
+                "id": "51184",
+                "link": "/find?type=1&query=jugulate",
+                "word": "jugulate"
+            }
+        ]
+    }
+}

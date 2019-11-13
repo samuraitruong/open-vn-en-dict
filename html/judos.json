@@ -1,1 +1,39 @@
-{"error": 0, "query": "judos", "enViData": {"suggests": [{"id": "51169", "link": "/find?type=1&query=judoist", "word": "judoist"}, {"id": "51169", "link": "/find?type=1&query=judoka", "word": "judoka"}], "best": {"id": "51169", "details": "\n<div id=\"find_word_51169\" class=\"world word_en\" rel=\"judo\">\n    <h2 class=\"fl\">judo <span class=\"color-black\">/'d\u0292u:d\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51169\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51169\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f5 giu \u0111\u00f4 (Nh\u1eadt B\u1ea3n)</div>\n    \n</div>\n", "link": "/find?type=1&query=judo", "word": "judo"}}, "mUrl": "/find?type=1&query=judos", "enEnData": {"suggests": [], "best": {"id": "15726", "details": "\n<div id=\"find_word_15726\" class=\"world word_en\" rel=\"judo\">\n    <h2 class=\"fl\">judo <span class=\"color-black\">/\u02c8\u02a4u\u02d0\u02ccdo\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15726\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15726\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a sport developed in Japan in which opponents attempt to throw or wrestle each other to the ground</div>\n    \n</div>\n", "link": "/find?type=3&query=judo", "word": "judo"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a sport developed in Japan in which opponents attempt to throw or wrestle each other to the ground</div>",
+            "id": "15726",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4u\u02d0\u02ccdo\u028a/",
+            "type": "noun",
+            "word": "judo"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f5 giu \u0111\u00f4 (Nh\u1eadt B\u1ea3n)</div>",
+            "id": "51169",
+            "mean": [],
+            "pronounce": "/'d\u0292u:d\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/718ede4e7607a3d42f20839a5b181b88/16e62685866/J/judo.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/db4564beba2076e33024e8817a69275a/16e626852bb/J/judo.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "judo"
+        },
+        "suggests": [
+            {
+                "id": "51169",
+                "link": "/find?type=1&query=judoist",
+                "word": "judoist"
+            },
+            {
+                "id": "51169",
+                "link": "/find?type=1&query=judoka",
+                "word": "judoka"
+            }
+        ]
+    }
+}

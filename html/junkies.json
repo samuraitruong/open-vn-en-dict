@@ -1,1 +1,34 @@
-{"error": 0, "query": "junkies", "enViData": {"suggests": [], "best": {"id": "51252", "details": "\n<div id=\"find_word_51252\" class=\"world word_en\" rel=\"junkie\">\n    <h2 class=\"fl\">junkie <span class=\"color-black\">/'d\u0292\u028c\u03b7ki/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"51252\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"51252\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(l\u00f3ng)</div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e2n nghi\u1ec7n, d\u00e2n nghi\u1ec7n heroin</div>\n    \n</div>\n", "link": "/find?type=1&query=junkie", "word": "junkie"}}, "mUrl": "/find?type=1&query=junkies", "enEnData": {"suggests": [{"id": "15780", "link": "/find?type=3&query=junkyard", "word": "junkyard"}], "best": {"id": "15780", "details": "\n<div id=\"find_word_15780\" class=\"world word_en\" rel=\"junky\">\n    <h2 class=\"fl\">junky <span class=\"color-black\">/\u02c8\u02a4\u028c\u014bki/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15780\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15780\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">junkier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">chiefly US informal :of very poor quality</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">junky furniture</div>\n    \n    <div class=\"\">variant spelling of junkie</div>\n    \n</div>\n", "link": "/find?type=3&query=junky", "word": "junky"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">junkier; -est</div>\n    \n    <div class=\"green margin25 m-top15\">chiefly US informal :of very poor quality</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">junky furniture</div>\n    \n    <div class=\"\">variant spelling of junkie</div>",
+            "id": "15780",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u028c\u014bki/",
+            "type": "adjective",
+            "word": "junky"
+        },
+        "suggests": [
+            {
+                "id": "15780",
+                "link": "/find?type=3&query=junkyard",
+                "word": "junkyard"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(l\u00f3ng)</div>\n    \n    <div class=\"green margin25 m-top15\">d\u00e2n nghi\u1ec7n, d\u00e2n nghi\u1ec7n heroin</div>",
+            "id": "51252",
+            "mean": [],
+            "pronounce": "/'d\u0292\u028c\u03b7ki/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/58ccdc1cd7b15cfce06b13d427636f15/16e6268a308/J/junkie.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/3da551cfa43e55f8940b158e379ccc52/16e62689d4a/J/junkie.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "junkie"
+        },
+        "suggests": []
+    }
+}
