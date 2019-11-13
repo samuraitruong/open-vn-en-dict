@@ -1,1 +1,87 @@
-{"error": 0, "query": "pians", "enViData": {"suggests": [{"id": "67814", "link": "/find?type=1&query=pianette", "word": "pianette"}, {"id": "67815", "link": "/find?type=1&query=pianino", "word": "pianino"}, {"id": "67816", "link": "/find?type=1&query=pianissimo", "word": "pianissimo"}, {"id": "67817", "link": "/find?type=1&query=pianist", "word": "pianist"}, {"id": "67818", "link": "/find?type=1&query=piano", "word": "piano"}, {"id": "67819", "link": "/find?type=1&query=piano+organ", "word": "piano organ"}, {"id": "67820", "link": "/find?type=1&query=piano-accordion", "word": "piano-accordion"}, {"id": "67821", "link": "/find?type=1&query=piano-player", "word": "piano-player"}, {"id": "67822", "link": "/find?type=1&query=pianoforte", "word": "pianoforte"}, {"id": "67823", "link": "/find?type=1&query=pianola", "word": "pianola"}]}, "mUrl": "/find?type=1&query=pians", "enEnData": {"suggests": [{"id": "21705", "link": "/find?type=3&query=pianissimo", "word": "pianissimo"}, {"id": "21706", "link": "/find?type=3&query=pianist", "word": "pianist"}, {"id": "21707", "link": "/find?type=3&query=piano", "word": "piano"}, {"id": "21708", "link": "/find?type=3&query=piano+bar", "word": "piano bar"}, {"id": "21709", "link": "/find?type=3&query=pianoforte", "word": "pianoforte"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21705",
+                "link": "/find?type=3&query=pianissimo",
+                "word": "pianissimo"
+            },
+            {
+                "id": "21706",
+                "link": "/find?type=3&query=pianist",
+                "word": "pianist"
+            },
+            {
+                "id": "21707",
+                "link": "/find?type=3&query=piano",
+                "word": "piano"
+            },
+            {
+                "id": "21708",
+                "link": "/find?type=3&query=piano+bar",
+                "word": "piano bar"
+            },
+            {
+                "id": "21709",
+                "link": "/find?type=3&query=pianoforte",
+                "word": "pianoforte"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67814",
+                "link": "/find?type=1&query=pianette",
+                "word": "pianette"
+            },
+            {
+                "id": "67815",
+                "link": "/find?type=1&query=pianino",
+                "word": "pianino"
+            },
+            {
+                "id": "67816",
+                "link": "/find?type=1&query=pianissimo",
+                "word": "pianissimo"
+            },
+            {
+                "id": "67817",
+                "link": "/find?type=1&query=pianist",
+                "word": "pianist"
+            },
+            {
+                "id": "67818",
+                "link": "/find?type=1&query=piano",
+                "word": "piano"
+            },
+            {
+                "id": "67819",
+                "link": "/find?type=1&query=piano+organ",
+                "word": "piano organ"
+            },
+            {
+                "id": "67820",
+                "link": "/find?type=1&query=piano-accordion",
+                "word": "piano-accordion"
+            },
+            {
+                "id": "67821",
+                "link": "/find?type=1&query=piano-player",
+                "word": "piano-player"
+            },
+            {
+                "id": "67822",
+                "link": "/find?type=1&query=pianoforte",
+                "word": "pianoforte"
+            },
+            {
+                "id": "67823",
+                "link": "/find?type=1&query=pianola",
+                "word": "pianola"
+            }
+        ]
+    }
+}

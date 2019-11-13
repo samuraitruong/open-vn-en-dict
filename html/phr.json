@@ -1,1 +1,102 @@
-{"error": 0, "query": "phr", "enViData": {"suggests": [{"id": "67692", "link": "/find?type=1&query=phragma", "word": "phragma"}, {"id": "67693", "link": "/find?type=1&query=phragmoplast", "word": "phragmoplast"}, {"id": "67694", "link": "/find?type=1&query=phragmosome", "word": "phragmosome"}, {"id": "67695", "link": "/find?type=1&query=phrasal", "word": "phrasal"}, {"id": "67696", "link": "/find?type=1&query=phrasally", "word": "phrasally"}, {"id": "67697", "link": "/find?type=1&query=phrase", "word": "phrase"}, {"id": "67698", "link": "/find?type=1&query=phrase-book", "word": "phrase-book"}, {"id": "67699", "link": "/find?type=1&query=phrase-maker", "word": "phrase-maker"}, {"id": "67700", "link": "/find?type=1&query=phrase-man", "word": "phrase-man"}, {"id": "67701", "link": "/find?type=1&query=phrase-monger", "word": "phrase-monger"}]}, "mUrl": "/find?type=1&query=phr", "enEnData": {"suggests": [{"id": "21673", "link": "/find?type=3&query=phrasal", "word": "phrasal"}, {"id": "21674", "link": "/find?type=3&query=phrasal+verb", "word": "phrasal verb"}, {"id": "21675", "link": "/find?type=3&query=phrase", "word": "phrase"}, {"id": "21676", "link": "/find?type=3&query=phrase+book", "word": "phrase book"}, {"id": "21677", "link": "/find?type=3&query=phraseology", "word": "phraseology"}, {"id": "21678", "link": "/find?type=3&query=phrasing", "word": "phrasing"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5508", "link": "/find?type=4&query=phrase", "word": "phrase"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21673",
+                "link": "/find?type=3&query=phrasal",
+                "word": "phrasal"
+            },
+            {
+                "id": "21674",
+                "link": "/find?type=3&query=phrasal+verb",
+                "word": "phrasal verb"
+            },
+            {
+                "id": "21675",
+                "link": "/find?type=3&query=phrase",
+                "word": "phrase"
+            },
+            {
+                "id": "21676",
+                "link": "/find?type=3&query=phrase+book",
+                "word": "phrase book"
+            },
+            {
+                "id": "21677",
+                "link": "/find?type=3&query=phraseology",
+                "word": "phraseology"
+            },
+            {
+                "id": "21678",
+                "link": "/find?type=3&query=phrasing",
+                "word": "phrasing"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67692",
+                "link": "/find?type=1&query=phragma",
+                "word": "phragma"
+            },
+            {
+                "id": "67693",
+                "link": "/find?type=1&query=phragmoplast",
+                "word": "phragmoplast"
+            },
+            {
+                "id": "67694",
+                "link": "/find?type=1&query=phragmosome",
+                "word": "phragmosome"
+            },
+            {
+                "id": "67695",
+                "link": "/find?type=1&query=phrasal",
+                "word": "phrasal"
+            },
+            {
+                "id": "67696",
+                "link": "/find?type=1&query=phrasally",
+                "word": "phrasally"
+            },
+            {
+                "id": "67697",
+                "link": "/find?type=1&query=phrase",
+                "word": "phrase"
+            },
+            {
+                "id": "67698",
+                "link": "/find?type=1&query=phrase-book",
+                "word": "phrase-book"
+            },
+            {
+                "id": "67699",
+                "link": "/find?type=1&query=phrase-maker",
+                "word": "phrase-maker"
+            },
+            {
+                "id": "67700",
+                "link": "/find?type=1&query=phrase-man",
+                "word": "phrase-man"
+            },
+            {
+                "id": "67701",
+                "link": "/find?type=1&query=phrase-monger",
+                "word": "phrase-monger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5508",
+                "link": "/find?type=4&query=phrase",
+                "word": "phrase"
+            }
+        ]
+    }
+}

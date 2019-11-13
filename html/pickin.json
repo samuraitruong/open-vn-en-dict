@@ -1,1 +1,32 @@
-{"error": 0, "query": "pickin", "enViData": {"suggests": [{"id": "67855", "link": "/find?type=1&query=picking", "word": "picking"}, {"id": "67856", "link": "/find?type=1&query=pickings", "word": "pickings"}]}, "mUrl": "/find?type=1&query=pickin", "enEnData": {"suggests": [{"id": "21724", "link": "/find?type=3&query=picking", "word": "picking"}, {"id": "21725", "link": "/find?type=3&query=pickings", "word": "pickings"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "21724",
+                "link": "/find?type=3&query=picking",
+                "word": "picking"
+            },
+            {
+                "id": "21725",
+                "link": "/find?type=3&query=pickings",
+                "word": "pickings"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "67855",
+                "link": "/find?type=1&query=picking",
+                "word": "picking"
+            },
+            {
+                "id": "67856",
+                "link": "/find?type=1&query=pickings",
+                "word": "pickings"
+            }
+        ]
+    }
+}

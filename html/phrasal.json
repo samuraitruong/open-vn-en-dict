@@ -1,1 +1,40 @@
-{"error": 0, "query": "phrasal", "enViData": {"suggests": [{"id": "67695", "link": "/find?type=1&query=phrasally", "word": "phrasally"}], "best": {"id": "67695", "details": "\n<div id=\"find_word_67695\" class=\"world word_en\" rel=\"phrasal\">\n    <h2 class=\"fl\">phrasal <span class=\"color-black\">/'freizl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67695\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67695\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] ng\u1eef, [thu\u1ed9c] nh\u00f3m t\u1eeb</div>\n    \n    <div class=\"green margin25 m-top15\">[d\u01b0\u1edbi] d\u1ea1ng ng\u1eef</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">phrasal verb</div>\n    \n    <div class=\"margin25\">ng\u1eef \u0111\u1ed9ng t\u1eeb (v\u00ed d\u1ee5 go in for)</div>\n    \n</div>\n", "link": "/find?type=1&query=phrasal", "word": "phrasal"}}, "mUrl": "/find?type=1&query=phrasal", "enEnData": {"suggests": [{"id": "21673", "link": "/find?type=3&query=phrasal+verb", "word": "phrasal verb"}], "best": {"id": "21673", "details": "\n<div id=\"find_word_21673\" class=\"world word_en\" rel=\"phrasal\">\n    <h2 class=\"fl\">phrasal <span class=\"color-black\">/\u02c8fre\u026az\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21673\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21673\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">grammar :of, relating to, or consisting of a phrase or phrases</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">phrasal categories</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a phrasal unit</div>\n    \n</div>\n", "link": "/find?type=3&query=phrasal", "word": "phrasal"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">grammar :of, relating to, or consisting of a phrase or phrases</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">phrasal categories</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a phrasal unit</div>",
+            "id": "21673",
+            "mean": [],
+            "pronounce": "/\u02c8fre\u026az\u0259l/",
+            "type": "adjective",
+            "word": "phrasal"
+        },
+        "suggests": [
+            {
+                "id": "21673",
+                "link": "/find?type=3&query=phrasal+verb",
+                "word": "phrasal verb"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] ng\u1eef, [thu\u1ed9c] nh\u00f3m t\u1eeb</div>\n    \n    <div class=\"green margin25 m-top15\">[d\u01b0\u1edbi] d\u1ea1ng ng\u1eef</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">phrasal verb</div>\n    \n    <div class=\"margin25\">ng\u1eef \u0111\u1ed9ng t\u1eeb (v\u00ed d\u1ee5 go in for)</div>",
+            "id": "67695",
+            "mean": [],
+            "pronounce": "/'freizl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b46fdf5a79c019009c515702dc51bb96/16e62c6ef4a/P/phrasal.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/33e46ee710effd35f7d999b593824054/16e62c6e911/P/phrasal.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "phrasal"
+        },
+        "suggests": [
+            {
+                "id": "67695",
+                "link": "/find?type=1&query=phrasally",
+                "word": "phrasally"
+            }
+        ]
+    }
+}

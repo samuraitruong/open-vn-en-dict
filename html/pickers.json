@@ -1,1 +1,40 @@
-{"error": 0, "query": "pickers", "enViData": {"suggests": [{"id": "67851", "link": "/find?type=1&query=pickerel", "word": "pickerel"}], "best": {"id": "67851", "details": "\n<div id=\"find_word_67851\" class=\"world word_en\" rel=\"picker\">\n    <h2 class=\"fl\">picker <span class=\"color-black\">/'pik\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"67851\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"67851\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi h\u00e1i, m\u00e1y h\u00e1i (ch\u1ee7 y\u1ebfu trong t\u1eeb gh\u00e9p)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">hoppickers</div>\n    \n    <div class=\"margin25\">ng\u01b0\u1eddi h\u00e1i hoa bia</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a mechanical apple-picker</div>\n    \n    <div class=\"margin25\">m\u00e1y h\u00e1i t\u00e1o</div>\n    \n</div>\n", "link": "/find?type=1&query=picker", "word": "picker"}}, "mUrl": "/find?type=1&query=pickers", "enEnData": {"suggests": [{"id": "21719", "link": "/find?type=3&query=pickerel", "word": "pickerel"}], "best": {"id": "21719", "details": "\n<div id=\"find_word_21719\" class=\"world word_en\" rel=\"picker\">\n    <h2 class=\"fl\">picker <span class=\"color-black\">/\u02c8p\u026ak\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21719\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21719\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person or machine that picks crops</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">fruit/orange/strawberry pickers</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cotton picker</div>\n    \n</div>\n", "link": "/find?type=3&query=picker", "word": "picker"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a person or machine that picks crops</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">fruit/orange/strawberry pickers</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a cotton picker</div>",
+            "id": "21719",
+            "mean": [],
+            "pronounce": "/\u02c8p\u026ak\u025a/",
+            "type": "noun",
+            "word": "picker"
+        },
+        "suggests": [
+            {
+                "id": "21719",
+                "link": "/find?type=3&query=pickerel",
+                "word": "pickerel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi h\u00e1i, m\u00e1y h\u00e1i (ch\u1ee7 y\u1ebfu trong t\u1eeb gh\u00e9p)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">hoppickers</div>\n    \n    <div class=\"margin25\">ng\u01b0\u1eddi h\u00e1i hoa bia</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a mechanical apple-picker</div>\n    \n    <div class=\"margin25\">m\u00e1y h\u00e1i t\u00e1o</div>",
+            "id": "67851",
+            "mean": [],
+            "pronounce": "/'pik\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f58ea6b2c603cedd14aabef9ee8b4678/16e62c73f60/P/picker.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/911c2b391487ccd3301709d994a52ce9/16e62c7397f/P/picker.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "picker"
+        },
+        "suggests": [
+            {
+                "id": "67851",
+                "link": "/find?type=1&query=pickerel",
+                "word": "pickerel"
+            }
+        ]
+    }
+}
