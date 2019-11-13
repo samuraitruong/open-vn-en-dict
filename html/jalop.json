@@ -1,1 +1,27 @@
-{"error": 0, "query": "jalop", "enViData": {"suggests": [{"id": "50664", "link": "/find?type=1&query=jaloppy", "word": "jaloppy"}, {"id": "50665", "link": "/find?type=1&query=jalopy", "word": "jalopy"}]}, "mUrl": "/find?type=1&query=jalop", "enEnData": {"suggests": [{"id": "15535", "link": "/find?type=3&query=jalopy", "word": "jalopy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15535",
+                "link": "/find?type=3&query=jalopy",
+                "word": "jalopy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50664",
+                "link": "/find?type=1&query=jaloppy",
+                "word": "jaloppy"
+            },
+            {
+                "id": "50665",
+                "link": "/find?type=1&query=jalopy",
+                "word": "jalopy"
+            }
+        ]
+    }
+}

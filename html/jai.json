@@ -1,1 +1,77 @@
-{"error": 0, "query": "jai", "enViData": {"suggests": [{"id": "50656", "link": "/find?type=1&query=jail", "word": "jail"}, {"id": "50657", "link": "/find?type=1&query=jailbird", "word": "jailbird"}, {"id": "50658", "link": "/find?type=1&query=jailbreak", "word": "jailbreak"}, {"id": "50659", "link": "/find?type=1&query=jain", "word": "jain"}, {"id": "50660", "link": "/find?type=1&query=jainism", "word": "jainism"}]}, "mUrl": "/find?type=1&query=jai", "enEnData": {"suggests": [{"id": "15529", "link": "/find?type=3&query=jail", "word": "jail"}, {"id": "15530", "link": "/find?type=3&query=jailbird", "word": "jailbird"}, {"id": "15531", "link": "/find?type=3&query=jailbreak", "word": "jailbreak"}, {"id": "15532", "link": "/find?type=3&query=jailer", "word": "jailer"}, {"id": "15533", "link": "/find?type=3&query=jailhouse", "word": "jailhouse"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3964", "link": "/find?type=4&query=jail", "word": "jail"}, {"id": "3965", "link": "/find?type=4&query=jailer", "word": "jailer"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15529",
+                "link": "/find?type=3&query=jail",
+                "word": "jail"
+            },
+            {
+                "id": "15530",
+                "link": "/find?type=3&query=jailbird",
+                "word": "jailbird"
+            },
+            {
+                "id": "15531",
+                "link": "/find?type=3&query=jailbreak",
+                "word": "jailbreak"
+            },
+            {
+                "id": "15532",
+                "link": "/find?type=3&query=jailer",
+                "word": "jailer"
+            },
+            {
+                "id": "15533",
+                "link": "/find?type=3&query=jailhouse",
+                "word": "jailhouse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50656",
+                "link": "/find?type=1&query=jail",
+                "word": "jail"
+            },
+            {
+                "id": "50657",
+                "link": "/find?type=1&query=jailbird",
+                "word": "jailbird"
+            },
+            {
+                "id": "50658",
+                "link": "/find?type=1&query=jailbreak",
+                "word": "jailbreak"
+            },
+            {
+                "id": "50659",
+                "link": "/find?type=1&query=jain",
+                "word": "jain"
+            },
+            {
+                "id": "50660",
+                "link": "/find?type=1&query=jainism",
+                "word": "jainism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3964",
+                "link": "/find?type=4&query=jail",
+                "word": "jail"
+            },
+            {
+                "id": "3965",
+                "link": "/find?type=4&query=jailer",
+                "word": "jailer"
+            }
+        ]
+    }
+}

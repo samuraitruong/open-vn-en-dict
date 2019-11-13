@@ -1,1 +1,65 @@
-{"error": 0, "query": "jeopard", "enViData": {"suggests": [{"id": "50804", "link": "/find?type=1&query=jeopardise", "word": "jeopardise"}, {"id": "50804", "link": "/find?type=1&query=jeopardize", "word": "jeopardize"}, {"id": "50804", "link": "/find?type=1&query=jeopardize%2C+jeopardise", "word": "jeopardize, jeopardise"}, {"id": "50804", "link": "/find?type=1&query=jeopardy", "word": "jeopardy"}], "best": {"id": "50804", "details": "\n<div id=\"find_word_50804\" class=\"world word_en\" rel=\"jeopard\">\n    <h2 class=\"fl\">jeopard <span class=\"color-black\">/'d\u02a4ep\u0259d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50804\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50804\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) (nh\u01b0) jeopardize</div>\n    \n</div>\n", "link": "/find?type=1&query=jeopard", "word": "jeopard"}}, "mUrl": "/find?type=1&query=jeopard", "enEnData": {"suggests": [{"id": "15592", "link": "/find?type=3&query=jeopardize", "word": "jeopardize"}, {"id": "15593", "link": "/find?type=3&query=jeopardy", "word": "jeopardy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3977", "link": "/find?type=4&query=jeopardize", "word": "jeopardize"}, {"id": "3978", "link": "/find?type=4&query=jeopardy", "word": "jeopardy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15592",
+                "link": "/find?type=3&query=jeopardize",
+                "word": "jeopardize"
+            },
+            {
+                "id": "15593",
+                "link": "/find?type=3&query=jeopardy",
+                "word": "jeopardy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(t\u1eeb M\u1ef9,ngh\u0129a M\u1ef9) (nh\u01b0) jeopardize</div>",
+            "id": "50804",
+            "mean": [],
+            "pronounce": "/'d\u02a4ep\u0259d/",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "jeopard"
+        },
+        "suggests": [
+            {
+                "id": "50804",
+                "link": "/find?type=1&query=jeopardise",
+                "word": "jeopardise"
+            },
+            {
+                "id": "50804",
+                "link": "/find?type=1&query=jeopardize",
+                "word": "jeopardize"
+            },
+            {
+                "id": "50804",
+                "link": "/find?type=1&query=jeopardize%2C+jeopardise",
+                "word": "jeopardize, jeopardise"
+            },
+            {
+                "id": "50804",
+                "link": "/find?type=1&query=jeopardy",
+                "word": "jeopardy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3977",
+                "link": "/find?type=4&query=jeopardize",
+                "word": "jeopardize"
+            },
+            {
+                "id": "3978",
+                "link": "/find?type=4&query=jeopardy",
+                "word": "jeopardy"
+            }
+        ]
+    }
+}

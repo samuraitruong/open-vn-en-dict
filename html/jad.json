@@ -1,1 +1,67 @@
-{"error": 0, "query": "jad", "enViData": {"suggests": [{"id": "50638", "link": "/find?type=1&query=jade", "word": "jade"}, {"id": "50639", "link": "/find?type=1&query=jaded", "word": "jaded"}, {"id": "50640", "link": "/find?type=1&query=jadedly", "word": "jadedly"}, {"id": "50641", "link": "/find?type=1&query=jadedness", "word": "jadedness"}, {"id": "50642", "link": "/find?type=1&query=jadeite", "word": "jadeite"}, {"id": "50643", "link": "/find?type=1&query=jadeitic", "word": "jadeitic"}]}, "mUrl": "/find?type=1&query=jad", "enEnData": {"suggests": [{"id": "15524", "link": "/find?type=3&query=jade", "word": "jade"}, {"id": "15525", "link": "/find?type=3&query=jaded", "word": "jaded"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3960", "link": "/find?type=4&query=jade", "word": "jade"}, {"id": "3961", "link": "/find?type=4&query=jaded", "word": "jaded"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15524",
+                "link": "/find?type=3&query=jade",
+                "word": "jade"
+            },
+            {
+                "id": "15525",
+                "link": "/find?type=3&query=jaded",
+                "word": "jaded"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50638",
+                "link": "/find?type=1&query=jade",
+                "word": "jade"
+            },
+            {
+                "id": "50639",
+                "link": "/find?type=1&query=jaded",
+                "word": "jaded"
+            },
+            {
+                "id": "50640",
+                "link": "/find?type=1&query=jadedly",
+                "word": "jadedly"
+            },
+            {
+                "id": "50641",
+                "link": "/find?type=1&query=jadedness",
+                "word": "jadedness"
+            },
+            {
+                "id": "50642",
+                "link": "/find?type=1&query=jadeite",
+                "word": "jadeite"
+            },
+            {
+                "id": "50643",
+                "link": "/find?type=1&query=jadeitic",
+                "word": "jadeitic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3960",
+                "link": "/find?type=4&query=jade",
+                "word": "jade"
+            },
+            {
+                "id": "3961",
+                "link": "/find?type=4&query=jaded",
+                "word": "jaded"
+            }
+        ]
+    }
+}

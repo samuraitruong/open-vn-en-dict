@@ -1,1 +1,97 @@
-{"error": 0, "query": "isls", "enViData": {"suggests": [{"id": "50389", "link": "/find?type=1&query=Islam", "word": "Islam"}, {"id": "50390", "link": "/find?type=1&query=islamic", "word": "islamic"}, {"id": "50391", "link": "/find?type=1&query=Islamic+Development+Bank", "word": "Islamic Development Bank"}, {"id": "50392", "link": "/find?type=1&query=islamisation", "word": "islamisation"}, {"id": "50393", "link": "/find?type=1&query=islamise", "word": "islamise"}, {"id": "50394", "link": "/find?type=1&query=islamism", "word": "islamism"}, {"id": "50395", "link": "/find?type=1&query=islamite", "word": "islamite"}, {"id": "50396", "link": "/find?type=1&query=islamization", "word": "islamization"}, {"id": "50397", "link": "/find?type=1&query=islamize", "word": "islamize"}, {"id": "50398", "link": "/find?type=1&query=island", "word": "island"}]}, "mUrl": "/find?type=1&query=isls", "enEnData": {"suggests": [{"id": "15447", "link": "/find?type=3&query=Islam", "word": "Islam"}, {"id": "15448", "link": "/find?type=3&query=island", "word": "island"}, {"id": "15449", "link": "/find?type=3&query=islander", "word": "islander"}, {"id": "15450", "link": "/find?type=3&query=isle", "word": "isle"}, {"id": "15451", "link": "/find?type=3&query=islet", "word": "islet"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3951", "link": "/find?type=4&query=island", "word": "island"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15447",
+                "link": "/find?type=3&query=Islam",
+                "word": "Islam"
+            },
+            {
+                "id": "15448",
+                "link": "/find?type=3&query=island",
+                "word": "island"
+            },
+            {
+                "id": "15449",
+                "link": "/find?type=3&query=islander",
+                "word": "islander"
+            },
+            {
+                "id": "15450",
+                "link": "/find?type=3&query=isle",
+                "word": "isle"
+            },
+            {
+                "id": "15451",
+                "link": "/find?type=3&query=islet",
+                "word": "islet"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50389",
+                "link": "/find?type=1&query=Islam",
+                "word": "Islam"
+            },
+            {
+                "id": "50390",
+                "link": "/find?type=1&query=islamic",
+                "word": "islamic"
+            },
+            {
+                "id": "50391",
+                "link": "/find?type=1&query=Islamic+Development+Bank",
+                "word": "Islamic Development Bank"
+            },
+            {
+                "id": "50392",
+                "link": "/find?type=1&query=islamisation",
+                "word": "islamisation"
+            },
+            {
+                "id": "50393",
+                "link": "/find?type=1&query=islamise",
+                "word": "islamise"
+            },
+            {
+                "id": "50394",
+                "link": "/find?type=1&query=islamism",
+                "word": "islamism"
+            },
+            {
+                "id": "50395",
+                "link": "/find?type=1&query=islamite",
+                "word": "islamite"
+            },
+            {
+                "id": "50396",
+                "link": "/find?type=1&query=islamization",
+                "word": "islamization"
+            },
+            {
+                "id": "50397",
+                "link": "/find?type=1&query=islamize",
+                "word": "islamize"
+            },
+            {
+                "id": "50398",
+                "link": "/find?type=1&query=island",
+                "word": "island"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3951",
+                "link": "/find?type=4&query=island",
+                "word": "island"
+            }
+        ]
+    }
+}

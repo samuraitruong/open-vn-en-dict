@@ -1,1 +1,22 @@
-{"error": 0, "query": "janua", "enViData": {"suggests": [{"id": "50696", "link": "/find?type=1&query=January", "word": "January"}]}, "mUrl": "/find?type=1&query=janua", "enEnData": {"suggests": [{"id": "15548", "link": "/find?type=3&query=January", "word": "January"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15548",
+                "link": "/find?type=3&query=January",
+                "word": "January"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50696",
+                "link": "/find?type=1&query=January",
+                "word": "January"
+            }
+        ]
+    }
+}

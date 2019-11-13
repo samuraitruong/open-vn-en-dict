@@ -1,1 +1,47 @@
-{"error": 0, "query": "jesus", "enViData": {"suggests": [{"id": "50839", "link": "/find?type=1&query=Jesuit", "word": "Jesuit"}, {"id": "50840", "link": "/find?type=1&query=jesuitic", "word": "jesuitic"}, {"id": "50841", "link": "/find?type=1&query=Jesuitical", "word": "Jesuitical"}, {"id": "50842", "link": "/find?type=1&query=jesuitism", "word": "jesuitism"}, {"id": "50843", "link": "/find?type=1&query=jesuitize", "word": "jesuitize"}, {"id": "50844", "link": "/find?type=1&query=jesuitry", "word": "jesuitry"}]}, "mUrl": "/find?type=1&query=jesus", "enEnData": {"suggests": [{"id": "15605", "link": "/find?type=3&query=Jesus+Christ", "word": "Jesus Christ"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15605",
+                "link": "/find?type=3&query=Jesus+Christ",
+                "word": "Jesus Christ"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50839",
+                "link": "/find?type=1&query=Jesuit",
+                "word": "Jesuit"
+            },
+            {
+                "id": "50840",
+                "link": "/find?type=1&query=jesuitic",
+                "word": "jesuitic"
+            },
+            {
+                "id": "50841",
+                "link": "/find?type=1&query=Jesuitical",
+                "word": "Jesuitical"
+            },
+            {
+                "id": "50842",
+                "link": "/find?type=1&query=jesuitism",
+                "word": "jesuitism"
+            },
+            {
+                "id": "50843",
+                "link": "/find?type=1&query=jesuitize",
+                "word": "jesuitize"
+            },
+            {
+                "id": "50844",
+                "link": "/find?type=1&query=jesuitry",
+                "word": "jesuitry"
+            }
+        ]
+    }
+}

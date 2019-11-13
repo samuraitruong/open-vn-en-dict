@@ -1,1 +1,50 @@
-{"error": 0, "query": "jaundicing", "enViData": {"suggests": [{"id": "50733", "link": "/find?type=1&query=jaundiced", "word": "jaundiced"}], "best": {"id": "50733", "details": "\n<div id=\"find_word_50733\" class=\"world word_en\" rel=\"jaundice\">\n    <h2 class=\"fl\">jaundice <span class=\"color-black\">/'d\u0292\u0254:ndis/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50733\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50733\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh v\u00e0ng da</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) s\u1ef1 ghen t\u1ee9c; s\u1ef1 h\u1eb1n h\u1ecdc, s\u1ef1 nghi k\u1ef5</div>\n    \n</div>\n", "link": "/find?type=1&query=jaundice", "word": "jaundice"}}, "mUrl": "/find?type=1&query=jaundicing", "enEnData": {"suggests": [{"id": "15556", "link": "/find?type=3&query=jaundiced", "word": "jaundiced"}], "best": {"id": "15556", "details": "\n<div id=\"find_word_15556\" class=\"world word_en\" rel=\"jaundice\">\n    <h2 class=\"fl\">jaundice <span class=\"color-black\">/\u02c8\u02a4\u0251\u02d0nd\u0259s/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15556\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15556\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a disease that causes a person's skin to turn yellow</div>\n    \n</div>\n", "link": "/find?type=3&query=jaundice", "word": "jaundice"}}, "ftype": "1", "synData": {"suggests": [{"id": "3971", "link": "/find?type=4&query=jaundiced", "word": "jaundiced"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a disease that causes a person's skin to turn yellow</div>",
+            "id": "15556",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u0251\u02d0nd\u0259s/",
+            "type": "noun",
+            "word": "jaundice"
+        },
+        "suggests": [
+            {
+                "id": "15556",
+                "link": "/find?type=3&query=jaundiced",
+                "word": "jaundiced"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">(y h\u1ecdc) b\u1ec7nh v\u00e0ng da</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) s\u1ef1 ghen t\u1ee9c; s\u1ef1 h\u1eb1n h\u1ecdc, s\u1ef1 nghi k\u1ef5</div>",
+            "id": "50733",
+            "mean": [],
+            "pronounce": "/'d\u0292\u0254:ndis/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/824309b87cdb0f0f604398354639d024/16e61dd7125/J/jaundice.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b682728546cc4a2727c1f2e04628721c/16e61dd6ad9/J/jaundice.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "jaundice"
+        },
+        "suggests": [
+            {
+                "id": "50733",
+                "link": "/find?type=1&query=jaundiced",
+                "word": "jaundiced"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3971",
+                "link": "/find?type=4&query=jaundiced",
+                "word": "jaundiced"
+            }
+        ]
+    }
+}

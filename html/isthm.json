@@ -1,1 +1,27 @@
-{"error": 0, "query": "isthm", "enViData": {"suggests": [{"id": "50533", "link": "/find?type=1&query=isthmian", "word": "isthmian"}, {"id": "50534", "link": "/find?type=1&query=isthmus", "word": "isthmus"}]}, "mUrl": "/find?type=1&query=isthm", "enEnData": {"suggests": [{"id": "15468", "link": "/find?type=3&query=isthmus", "word": "isthmus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15468",
+                "link": "/find?type=3&query=isthmus",
+                "word": "isthmus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50533",
+                "link": "/find?type=1&query=isthmian",
+                "word": "isthmian"
+            },
+            {
+                "id": "50534",
+                "link": "/find?type=1&query=isthmus",
+                "word": "isthmus"
+            }
+        ]
+    }
+}

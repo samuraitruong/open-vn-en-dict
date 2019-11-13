@@ -1,1 +1,22 @@
-{"error": 0, "query": "ive", "enViData": {"suggests": [{"id": "104673", "link": "/find?type=1&query=-ive", "word": "-ive"}]}, "mUrl": "/find?type=1&query=ive", "enEnData": {"suggests": [{"id": "15495", "link": "/find?type=3&query=-ive", "word": "-ive"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15495",
+                "link": "/find?type=3&query=-ive",
+                "word": "-ive"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104673",
+                "link": "/find?type=1&query=-ive",
+                "word": "-ive"
+            }
+        ]
+    }
+}

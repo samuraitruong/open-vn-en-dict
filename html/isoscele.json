@@ -1,1 +1,22 @@
-{"error": 0, "query": "isoscele", "enViData": {"suggests": [{"id": "50497", "link": "/find?type=1&query=isosceles", "word": "isosceles"}]}, "mUrl": "/find?type=1&query=isoscele", "enEnData": {"suggests": [{"id": "15460", "link": "/find?type=3&query=isosceles+triangle", "word": "isosceles triangle"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15460",
+                "link": "/find?type=3&query=isosceles+triangle",
+                "word": "isosceles triangle"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50497",
+                "link": "/find?type=1&query=isosceles",
+                "word": "isosceles"
+            }
+        ]
+    }
+}

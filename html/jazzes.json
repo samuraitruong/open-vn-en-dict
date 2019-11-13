@@ -1,1 +1,22 @@
-{"error": 0, "query": "jazzes", "enViData": {"suggests": [{"id": "50754", "link": "/find?type=1&query=jazzer", "word": "jazzer"}]}, "mUrl": "/find?type=1&query=jazzes", "enEnData": {"suggests": [{"id": "15570", "link": "/find?type=3&query=jazzed", "word": "jazzed"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15570",
+                "link": "/find?type=3&query=jazzed",
+                "word": "jazzed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50754",
+                "link": "/find?type=1&query=jazzer",
+                "word": "jazzer"
+            }
+        ]
+    }
+}

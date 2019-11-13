@@ -1,1 +1,65 @@
-{"error": 0, "query": "jaunting", "enViData": {"suggests": [{"id": "50735", "link": "/find?type=1&query=jauntily", "word": "jauntily"}, {"id": "50735", "link": "/find?type=1&query=jauntiness", "word": "jauntiness"}, {"id": "50735", "link": "/find?type=1&query=jaunting-car", "word": "jaunting-car"}, {"id": "50735", "link": "/find?type=1&query=jaunty", "word": "jaunty"}], "best": {"id": "50735", "details": "\n<div id=\"find_word_50735\" class=\"world word_en\" rel=\"jaunt\">\n    <h2 class=\"fl\">jaunt <span class=\"color-black\">/d\u0292\u0254:nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50735\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50735\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cu\u1ed9c \u0111i ch\u01a1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">she's gone on a jaunt into town</div>\n    \n    <div class=\"margin25\">c\u00f4 ta v\u00e0o ch\u01a1i trong th\u1ecb tr\u1ea5n</div>\n    \n</div>\n", "link": "/find?type=1&query=jaunt", "word": "jaunt"}}, "mUrl": "/find?type=1&query=jaunting", "enEnData": {"suggests": [{"id": "15558", "link": "/find?type=3&query=jaunty", "word": "jaunty"}], "best": {"id": "15558", "details": "\n<div id=\"find_word_15558\" class=\"world word_en\" rel=\"jaunt\">\n    <h2 class=\"fl\">jaunt <span class=\"color-black\">/\u02c8\u02a4\u0251\u02d0nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15558\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15558\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural jaunts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a brief trip taken for pleasure</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a four-day jaunt to the mountains</div>\n    \n</div>\n", "link": "/find?type=3&query=jaunt", "word": "jaunt"}}, "ftype": "1", "synData": {"suggests": [{"id": "3972", "link": "/find?type=4&query=jaunty", "word": "jaunty"}]}}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural jaunts</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a brief trip taken for pleasure</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a four-day jaunt to the mountains</div>",
+            "id": "15558",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u0251\u02d0nt/",
+            "type": "noun",
+            "word": "jaunt"
+        },
+        "suggests": [
+            {
+                "id": "15558",
+                "link": "/find?type=3&query=jaunty",
+                "word": "jaunty"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cu\u1ed9c \u0111i ch\u01a1i</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">she's gone on a jaunt into town</div>\n    \n    <div class=\"margin25\">c\u00f4 ta v\u00e0o ch\u01a1i trong th\u1ecb tr\u1ea5n</div>",
+            "id": "50735",
+            "mean": [],
+            "pronounce": "/d\u0292\u0254:nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/40a24dcc2a6bd331e26d63ba1da692c6/16e61dd721e/J/jaunt.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4308b60e52401eea9865efcab73dae78/16e61dd6c32/J/jaunt.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "jaunt"
+        },
+        "suggests": [
+            {
+                "id": "50735",
+                "link": "/find?type=1&query=jauntily",
+                "word": "jauntily"
+            },
+            {
+                "id": "50735",
+                "link": "/find?type=1&query=jauntiness",
+                "word": "jauntiness"
+            },
+            {
+                "id": "50735",
+                "link": "/find?type=1&query=jaunting-car",
+                "word": "jaunting-car"
+            },
+            {
+                "id": "50735",
+                "link": "/find?type=1&query=jaunty",
+                "word": "jaunty"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3972",
+                "link": "/find?type=4&query=jaunty",
+                "word": "jaunty"
+            }
+        ]
+    }
+}

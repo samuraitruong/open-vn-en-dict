@@ -1,1 +1,27 @@
-{"error": 0, "query": "jagua", "enViData": {"suggests": [{"id": "50654", "link": "/find?type=1&query=jaguar", "word": "jaguar"}, {"id": "50655", "link": "/find?type=1&query=jaguarundi", "word": "jaguarundi"}]}, "mUrl": "/find?type=1&query=jagua", "enEnData": {"suggests": [{"id": "15528", "link": "/find?type=3&query=jaguar", "word": "jaguar"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15528",
+                "link": "/find?type=3&query=jaguar",
+                "word": "jaguar"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50654",
+                "link": "/find?type=1&query=jaguar",
+                "word": "jaguar"
+            },
+            {
+                "id": "50655",
+                "link": "/find?type=1&query=jaguarundi",
+                "word": "jaguarundi"
+            }
+        ]
+    }
+}

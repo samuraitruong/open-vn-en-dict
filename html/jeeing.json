@@ -1,1 +1,72 @@
-{"error": 0, "query": "jeeing", "enViData": {"suggests": [{"id": "50769", "link": "/find?type=1&query=Jeep", "word": "Jeep"}, {"id": "50770", "link": "/find?type=1&query=jeer", "word": "jeer"}, {"id": "50771", "link": "/find?type=1&query=jeerer", "word": "jeerer"}, {"id": "50772", "link": "/find?type=1&query=jeering", "word": "jeering"}, {"id": "50773", "link": "/find?type=1&query=jeeringly", "word": "jeeringly"}, {"id": "50774", "link": "/find?type=1&query=jeeves", "word": "jeeves"}]}, "mUrl": "/find?type=1&query=jeeing", "enEnData": {"suggests": [{"id": "15576", "link": "/find?type=3&query=Jeep", "word": "Jeep"}, {"id": "15577", "link": "/find?type=3&query=jeepers", "word": "jeepers"}, {"id": "15578", "link": "/find?type=3&query=jeer", "word": "jeer"}, {"id": "15579", "link": "/find?type=3&query=jeez", "word": "jeez"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3975", "link": "/find?type=4&query=jeer", "word": "jeer"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15576",
+                "link": "/find?type=3&query=Jeep",
+                "word": "Jeep"
+            },
+            {
+                "id": "15577",
+                "link": "/find?type=3&query=jeepers",
+                "word": "jeepers"
+            },
+            {
+                "id": "15578",
+                "link": "/find?type=3&query=jeer",
+                "word": "jeer"
+            },
+            {
+                "id": "15579",
+                "link": "/find?type=3&query=jeez",
+                "word": "jeez"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50769",
+                "link": "/find?type=1&query=Jeep",
+                "word": "Jeep"
+            },
+            {
+                "id": "50770",
+                "link": "/find?type=1&query=jeer",
+                "word": "jeer"
+            },
+            {
+                "id": "50771",
+                "link": "/find?type=1&query=jeerer",
+                "word": "jeerer"
+            },
+            {
+                "id": "50772",
+                "link": "/find?type=1&query=jeering",
+                "word": "jeering"
+            },
+            {
+                "id": "50773",
+                "link": "/find?type=1&query=jeeringly",
+                "word": "jeeringly"
+            },
+            {
+                "id": "50774",
+                "link": "/find?type=1&query=jeeves",
+                "word": "jeeves"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3975",
+                "link": "/find?type=4&query=jeer",
+                "word": "jeer"
+            }
+        ]
+    }
+}

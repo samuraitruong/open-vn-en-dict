@@ -1,1 +1,37 @@
-{"error": 0, "query": "yum", "enViData": {"suggests": [{"id": "104378", "link": "/find?type=1&query=yum-yum", "word": "yum-yum"}, {"id": "104379", "link": "/find?type=1&query=yummy", "word": "yummy"}]}, "mUrl": "/find?type=1&query=yum", "enEnData": {"suggests": [{"id": "34325", "link": "/find?type=3&query=yummy", "word": "yummy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "8967", "link": "/find?type=4&query=yummy", "word": "yummy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "34325",
+                "link": "/find?type=3&query=yummy",
+                "word": "yummy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "104378",
+                "link": "/find?type=1&query=yum-yum",
+                "word": "yum-yum"
+            },
+            {
+                "id": "104379",
+                "link": "/find?type=1&query=yummy",
+                "word": "yummy"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "8967",
+                "link": "/find?type=4&query=yummy",
+                "word": "yummy"
+            }
+        ]
+    }
+}

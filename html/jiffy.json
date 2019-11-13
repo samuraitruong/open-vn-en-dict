@@ -1,1 +1,34 @@
-{"error": 0, "query": "jiffy", "enViData": {"suggests": [], "best": {"id": "50893", "details": "\n<div id=\"find_word_50893\" class=\"world word_en\" rel=\"jiffy\">\n    <h2 class=\"fl\">jiffy <span class=\"color-black\">/'d\u0292ifi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50893\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50893\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed1c l\u00e1t, tho\u00e1ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">in a jiffy</div>\n    \n    <div class=\"margin25\">ch\u1ec9 trong m\u1ed9t tho\u00e1ng; ngay l\u1eadp t\u1ee9c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">wait [half] a jiffy</div>\n    \n    <div class=\"margin25\">h\u00e3y ch\u1edd m\u1ed9t l\u00e1t</div>\n    \n</div>\n", "link": "/find?type=1&query=jiffy", "word": "jiffy"}}, "mUrl": "/find?type=1&query=jiffy", "enEnData": {"suggests": [{"id": "15627", "link": "/find?type=3&query=Jiffy+bag", "word": "Jiffy bag"}], "best": {"id": "15627", "details": "\n<div id=\"find_word_15627\" class=\"world word_en\" rel=\"jiffy\">\n    <h2 class=\"fl\">jiffy <span class=\"color-black\">/\u02c8\u02a4\u026afi/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15627\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15627\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] informal :a very brief time :moment</div>\n    \n    <div class=\"green margin25 m-top15\">usually used in the phrase in a jiffy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'll be there in a jiffy.</div>\n    \n</div>\n", "link": "/find?type=3&query=jiffy", "word": "jiffy"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] informal :a very brief time :moment</div>\n    \n    <div class=\"green margin25 m-top15\">usually used in the phrase in a jiffy</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">I'll be there in a jiffy.</div>",
+            "id": "15627",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u026afi/",
+            "type": "noun",
+            "word": "jiffy"
+        },
+        "suggests": [
+            {
+                "id": "15627",
+                "link": "/find?type=3&query=Jiffy+bag",
+                "word": "Jiffy bag"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(kh\u1ea9u ng\u1eef)</div>\n    \n    <div class=\"green margin25 m-top15\">ch\u1ed1c l\u00e1t, tho\u00e1ng</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">in a jiffy</div>\n    \n    <div class=\"margin25\">ch\u1ec9 trong m\u1ed9t tho\u00e1ng; ngay l\u1eadp t\u1ee9c</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">wait [half] a jiffy</div>\n    \n    <div class=\"margin25\">h\u00e3y ch\u1edd m\u1ed9t l\u00e1t</div>",
+            "id": "50893",
+            "mean": [],
+            "pronounce": "/'d\u0292ifi/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1da5167793819b4ba2a8eac7ec9fc545/16e61dea007/J/jiffy.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/56d58416d44b7909c7000ea225f8cb91/16e61de9a59/J/jiffy.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "jiffy"
+        },
+        "suggests": []
+    }
+}

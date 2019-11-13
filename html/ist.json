@@ -1,1 +1,52 @@
-{"error": 0, "query": "ist", "enViData": {"suggests": [{"id": "50532", "link": "/find?type=1&query=isthemian", "word": "isthemian"}, {"id": "50533", "link": "/find?type=1&query=isthmian", "word": "isthmian"}, {"id": "50534", "link": "/find?type=1&query=isthmus", "word": "isthmus"}, {"id": "50535", "link": "/find?type=1&query=istle", "word": "istle"}, {"id": "104672", "link": "/find?type=1&query=-ist", "word": "-ist"}]}, "mUrl": "/find?type=1&query=ist", "enEnData": {"suggests": [{"id": "15467", "link": "/find?type=3&query=-ist", "word": "-ist"}, {"id": "15468", "link": "/find?type=3&query=isthmus", "word": "isthmus"}, {"id": "15469", "link": "/find?type=3&query=-istic", "word": "-istic"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15467",
+                "link": "/find?type=3&query=-ist",
+                "word": "-ist"
+            },
+            {
+                "id": "15468",
+                "link": "/find?type=3&query=isthmus",
+                "word": "isthmus"
+            },
+            {
+                "id": "15469",
+                "link": "/find?type=3&query=-istic",
+                "word": "-istic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "50532",
+                "link": "/find?type=1&query=isthemian",
+                "word": "isthemian"
+            },
+            {
+                "id": "50533",
+                "link": "/find?type=1&query=isthmian",
+                "word": "isthmian"
+            },
+            {
+                "id": "50534",
+                "link": "/find?type=1&query=isthmus",
+                "word": "isthmus"
+            },
+            {
+                "id": "50535",
+                "link": "/find?type=1&query=istle",
+                "word": "istle"
+            },
+            {
+                "id": "104672",
+                "link": "/find?type=1&query=-ist",
+                "word": "-ist"
+            }
+        ]
+    }
+}

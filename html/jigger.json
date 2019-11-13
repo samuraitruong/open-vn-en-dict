@@ -1,1 +1,50 @@
-{"error": 0, "query": "jigger", "enViData": {"suggests": [{"id": "50895", "link": "/find?type=1&query=jigger-mast", "word": "jigger-mast"}, {"id": "50895", "link": "/find?type=1&query=jiggered", "word": "jiggered"}, {"id": "50895", "link": "/find?type=1&query=jiggery-pokery", "word": "jiggery-pokery"}], "best": {"id": "50895", "details": "\n<div id=\"find_word_50895\" class=\"world word_en\" rel=\"jigger\">\n    <h2 class=\"fl\">jigger <span class=\"color-black\">/'d\u0292ig\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"50895\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"50895\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed1c \u0111ong r\u01b0\u1ee3u</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed1c r\u01b0\u1ee3u nh\u1ecf</div>\n    \n</div>\n", "link": "/find?type=1&query=jigger", "word": "jigger"}}, "mUrl": "/find?type=1&query=jigger", "enEnData": {"suggests": [{"id": "15630", "link": "/find?type=3&query=jiggery-pokery", "word": "jiggery-pokery"}], "best": {"id": "15630", "details": "\n<div id=\"find_word_15630\" class=\"world word_en\" rel=\"jigger\">\n    <h2 class=\"fl\">jigger <span class=\"color-black\">/\u02c8\u02a4\u026ag\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"15630\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"15630\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small cup or glass that is used to measure alcohol also;  :the amount held in a jigger</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He poured a jigger of whiskey into the glass.</div>\n    \n</div>\n", "link": "/find?type=3&query=jigger", "word": "jigger"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -gers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a small cup or glass that is used to measure alcohol also;  :the amount held in a jigger</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He poured a jigger of whiskey into the glass.</div>",
+            "id": "15630",
+            "mean": [],
+            "pronounce": "/\u02c8\u02a4\u026ag\u025a/",
+            "type": "noun",
+            "word": "jigger"
+        },
+        "suggests": [
+            {
+                "id": "15630",
+                "link": "/find?type=3&query=jiggery-pokery",
+                "word": "jiggery-pokery"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed1c \u0111ong r\u01b0\u1ee3u</div>\n    \n    <div class=\"green margin25 m-top15\">c\u1ed1c r\u01b0\u1ee3u nh\u1ecf</div>",
+            "id": "50895",
+            "mean": [],
+            "pronounce": "/'d\u0292ig\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/75a3b39341df490676ee8ed8990ad958/16e61dea5b4/J/jigger.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/50cf189800c59c8460cdbba67a7b35a3/16e61de9fa3/J/jigger.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "jigger"
+        },
+        "suggests": [
+            {
+                "id": "50895",
+                "link": "/find?type=1&query=jigger-mast",
+                "word": "jigger-mast"
+            },
+            {
+                "id": "50895",
+                "link": "/find?type=1&query=jiggered",
+                "word": "jiggered"
+            },
+            {
+                "id": "50895",
+                "link": "/find?type=1&query=jiggery-pokery",
+                "word": "jiggery-pokery"
+            }
+        ]
+    }
+}
