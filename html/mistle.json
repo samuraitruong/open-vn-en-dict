@@ -1,1 +1,22 @@
-{"error": 0, "query": "mistle", "enViData": {"suggests": [{"id": "58204", "link": "/find?type=1&query=mistletoe", "word": "mistletoe"}]}, "mUrl": "/find?type=1&query=mistle", "enEnData": {"suggests": [{"id": "18366", "link": "/find?type=3&query=mistletoe", "word": "mistletoe"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18366",
+                "link": "/find?type=3&query=mistletoe",
+                "word": "mistletoe"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58204",
+                "link": "/find?type=1&query=mistletoe",
+                "word": "mistletoe"
+            }
+        ]
+    }
+}

@@ -1,1 +1,34 @@
-{"error": 0, "query": "misspelled", "enViData": {"suggests": [{"id": "58180", "link": "/find?type=1&query=misspelling", "word": "misspelling"}], "best": {"id": "58180", "details": "\n<div id=\"find_word_58180\" class=\"world word_en\" rel=\"misspell\">\n    <h2 class=\"fl\">misspell <span class=\"color-black\">/,mis'spel/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58180\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58180\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(misspelled ho\u1eb7c misspelt)</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ebft sai ch\u00ednh t\u1ea3</div>\n    \n</div>\n", "link": "/find?type=1&query=misspell", "word": "misspell"}}, "mUrl": "/find?type=1&query=misspelled", "enEnData": {"suggests": [], "best": {"id": "18356", "details": "\n<div id=\"find_word_18356\" class=\"world word_en\" rel=\"misspell\">\n    <h2 class=\"fl\">misspell <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18356\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18356\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02ccm\u026as\u02c8sp\u025bl/  -spells; -spelled or chiefly Brit -spelt /-\u02c8sp\u025blt/ ; -spelling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to spell (a word or name) incorrectly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The name of the town had been misspelled on the map.</div>\n    \n</div>\n", "link": "/find?type=3&query=misspell", "word": "misspell"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">/\u02ccm\u026as\u02c8sp\u025bl/  -spells; -spelled or chiefly Brit -spelt /-\u02c8sp\u025blt/ ; -spelling</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] :to spell (a word or name) incorrectly</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The name of the town had been misspelled on the map.</div>",
+            "id": "18356",
+            "mean": [],
+            "pronounce": "",
+            "type": "verb",
+            "word": "misspell"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(misspelled ho\u1eb7c misspelt)</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u1ebft sai ch\u00ednh t\u1ea3</div>",
+            "id": "58180",
+            "mean": [],
+            "pronounce": "/,mis'spel/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/a431509789b8fd98d2717ea2a23c66d8/16e62a1aaef/M/misspell.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/845283f003038883c895e896f4d28121/16e62a1a445/M/misspell.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "misspell"
+        },
+        "suggests": [
+            {
+                "id": "58180",
+                "link": "/find?type=1&query=misspelling",
+                "word": "misspelling"
+            }
+        ]
+    }
+}

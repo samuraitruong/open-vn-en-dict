@@ -1,1 +1,62 @@
-{"error": 0, "query": "misspeed", "enViData": {"suggests": [{"id": "58180", "link": "/find?type=1&query=misspell", "word": "misspell"}, {"id": "58181", "link": "/find?type=1&query=misspelling", "word": "misspelling"}, {"id": "58182", "link": "/find?type=1&query=misspelt", "word": "misspelt"}, {"id": "58183", "link": "/find?type=1&query=misspelt", "word": "misspelt"}, {"id": "58184", "link": "/find?type=1&query=misspend", "word": "misspend"}, {"id": "58185", "link": "/find?type=1&query=misspent", "word": "misspent"}]}, "mUrl": "/find?type=1&query=misspeed", "enEnData": {"suggests": [{"id": "18356", "link": "/find?type=3&query=misspell", "word": "misspell"}, {"id": "18357", "link": "/find?type=3&query=misspend", "word": "misspend"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4624", "link": "/find?type=4&query=misspent", "word": "misspent"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18356",
+                "link": "/find?type=3&query=misspell",
+                "word": "misspell"
+            },
+            {
+                "id": "18357",
+                "link": "/find?type=3&query=misspend",
+                "word": "misspend"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58180",
+                "link": "/find?type=1&query=misspell",
+                "word": "misspell"
+            },
+            {
+                "id": "58181",
+                "link": "/find?type=1&query=misspelling",
+                "word": "misspelling"
+            },
+            {
+                "id": "58182",
+                "link": "/find?type=1&query=misspelt",
+                "word": "misspelt"
+            },
+            {
+                "id": "58183",
+                "link": "/find?type=1&query=misspelt",
+                "word": "misspelt"
+            },
+            {
+                "id": "58184",
+                "link": "/find?type=1&query=misspend",
+                "word": "misspend"
+            },
+            {
+                "id": "58185",
+                "link": "/find?type=1&query=misspent",
+                "word": "misspent"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4624",
+                "link": "/find?type=4&query=misspent",
+                "word": "misspent"
+            }
+        ]
+    }
+}
