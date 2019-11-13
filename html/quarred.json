@@ -1,1 +1,67 @@
-{"error": 0, "query": "quarred", "enViData": {"suggests": [{"id": "73736", "link": "/find?type=1&query=quarrel", "word": "quarrel"}, {"id": "73737", "link": "/find?type=1&query=quarreler", "word": "quarreler"}, {"id": "73738", "link": "/find?type=1&query=quarreling", "word": "quarreling"}, {"id": "73739", "link": "/find?type=1&query=quarreller", "word": "quarreller"}, {"id": "73740", "link": "/find?type=1&query=quarrelsome", "word": "quarrelsome"}, {"id": "73741", "link": "/find?type=1&query=quarrelsomeness", "word": "quarrelsomeness"}]}, "mUrl": "/find?type=1&query=quarred", "enEnData": {"suggests": [{"id": "23585", "link": "/find?type=3&query=quarrel", "word": "quarrel"}, {"id": "23586", "link": "/find?type=3&query=quarrelsome", "word": "quarrelsome"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6124", "link": "/find?type=4&query=quarrel", "word": "quarrel"}, {"id": "6125", "link": "/find?type=4&query=quarrelsome", "word": "quarrelsome"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23585",
+                "link": "/find?type=3&query=quarrel",
+                "word": "quarrel"
+            },
+            {
+                "id": "23586",
+                "link": "/find?type=3&query=quarrelsome",
+                "word": "quarrelsome"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73736",
+                "link": "/find?type=1&query=quarrel",
+                "word": "quarrel"
+            },
+            {
+                "id": "73737",
+                "link": "/find?type=1&query=quarreler",
+                "word": "quarreler"
+            },
+            {
+                "id": "73738",
+                "link": "/find?type=1&query=quarreling",
+                "word": "quarreling"
+            },
+            {
+                "id": "73739",
+                "link": "/find?type=1&query=quarreller",
+                "word": "quarreller"
+            },
+            {
+                "id": "73740",
+                "link": "/find?type=1&query=quarrelsome",
+                "word": "quarrelsome"
+            },
+            {
+                "id": "73741",
+                "link": "/find?type=1&query=quarrelsomeness",
+                "word": "quarrelsomeness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6124",
+                "link": "/find?type=4&query=quarrel",
+                "word": "quarrel"
+            },
+            {
+                "id": "6125",
+                "link": "/find?type=4&query=quarrelsome",
+                "word": "quarrelsome"
+            }
+        ]
+    }
+}

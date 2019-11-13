@@ -1,1 +1,45 @@
-{"error": 0, "query": "quayed", "enViData": {"suggests": [{"id": "73840", "link": "/find?type=1&query=quayage", "word": "quayage"}, {"id": "73840", "link": "/find?type=1&query=quayside", "word": "quayside"}], "best": {"id": "73840", "details": "\n<div id=\"find_word_73840\" class=\"world word_en\" rel=\"quay\">\n    <h2 class=\"fl\">quay <span class=\"color-black\">/ki:/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"73840\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"73840\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ebfn (c\u1ea3ng)</div>\n    \n</div>\n", "link": "/find?type=1&query=quay", "word": "quay"}}, "mUrl": "/find?type=1&query=quayed", "enEnData": {"suggests": [{"id": "23606", "link": "/find?type=3&query=quayside", "word": "quayside"}], "best": {"id": "23606", "details": "\n<div id=\"find_word_23606\" class=\"world word_en\" rel=\"quay\">\n    <h2 class=\"fl\">quay <span class=\"color-black\">/\u02c8ki\u02d0/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23606\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23606\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural quays</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a structure built on the land next to a river, lake, or ocean that is used as a place for boats to stop for loading and unloading freight and passengers</div>\n    \n</div>\n", "link": "/find?type=3&query=quay", "word": "quay"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural quays</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a structure built on the land next to a river, lake, or ocean that is used as a place for boats to stop for loading and unloading freight and passengers</div>",
+            "id": "23606",
+            "mean": [],
+            "pronounce": "/\u02c8ki\u02d0/",
+            "type": "noun",
+            "word": "quay"
+        },
+        "suggests": [
+            {
+                "id": "23606",
+                "link": "/find?type=3&query=quayside",
+                "word": "quayside"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ebfn (c\u1ea3ng)</div>",
+            "id": "73840",
+            "mean": [],
+            "pronounce": "/ki:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/2a23b3f3577e92c30f50dc0106340d5f/16e62db1954/Q/quay.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/76f13317fbb03fc6a679d69ccd60d291/16e62db1371/Q/quay.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "quay"
+        },
+        "suggests": [
+            {
+                "id": "73840",
+                "link": "/find?type=1&query=quayage",
+                "word": "quayage"
+            },
+            {
+                "id": "73840",
+                "link": "/find?type=1&query=quayside",
+                "word": "quayside"
+            }
+        ]
+    }
+}

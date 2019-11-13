@@ -1,1 +1,97 @@
-{"error": 0, "query": "quanti", "enViData": {"suggests": [{"id": "73707", "link": "/find?type=1&query=quantic", "word": "quantic"}, {"id": "73708", "link": "/find?type=1&query=quantifiable", "word": "quantifiable"}, {"id": "73709", "link": "/find?type=1&query=quantification", "word": "quantification"}, {"id": "73710", "link": "/find?type=1&query=quantifier", "word": "quantifier"}, {"id": "73711", "link": "/find?type=1&query=quantify", "word": "quantify"}, {"id": "73712", "link": "/find?type=1&query=quantile", "word": "quantile"}, {"id": "73713", "link": "/find?type=1&query=quantitative", "word": "quantitative"}, {"id": "73714", "link": "/find?type=1&query=quantitatively", "word": "quantitatively"}, {"id": "73715", "link": "/find?type=1&query=quantity", "word": "quantity"}, {"id": "73716", "link": "/find?type=1&query=quantity+surveyor", "word": "quantity surveyor"}]}, "mUrl": "/find?type=1&query=quanti", "enEnData": {"suggests": [{"id": "23574", "link": "/find?type=3&query=quantifier", "word": "quantifier"}, {"id": "23575", "link": "/find?type=3&query=quantify", "word": "quantify"}, {"id": "23576", "link": "/find?type=3&query=quantitative", "word": "quantitative"}, {"id": "23577", "link": "/find?type=3&query=quantity", "word": "quantity"}, {"id": "23578", "link": "/find?type=3&query=quantity+surveyor", "word": "quantity surveyor"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6123", "link": "/find?type=4&query=quantity", "word": "quantity"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23574",
+                "link": "/find?type=3&query=quantifier",
+                "word": "quantifier"
+            },
+            {
+                "id": "23575",
+                "link": "/find?type=3&query=quantify",
+                "word": "quantify"
+            },
+            {
+                "id": "23576",
+                "link": "/find?type=3&query=quantitative",
+                "word": "quantitative"
+            },
+            {
+                "id": "23577",
+                "link": "/find?type=3&query=quantity",
+                "word": "quantity"
+            },
+            {
+                "id": "23578",
+                "link": "/find?type=3&query=quantity+surveyor",
+                "word": "quantity surveyor"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73707",
+                "link": "/find?type=1&query=quantic",
+                "word": "quantic"
+            },
+            {
+                "id": "73708",
+                "link": "/find?type=1&query=quantifiable",
+                "word": "quantifiable"
+            },
+            {
+                "id": "73709",
+                "link": "/find?type=1&query=quantification",
+                "word": "quantification"
+            },
+            {
+                "id": "73710",
+                "link": "/find?type=1&query=quantifier",
+                "word": "quantifier"
+            },
+            {
+                "id": "73711",
+                "link": "/find?type=1&query=quantify",
+                "word": "quantify"
+            },
+            {
+                "id": "73712",
+                "link": "/find?type=1&query=quantile",
+                "word": "quantile"
+            },
+            {
+                "id": "73713",
+                "link": "/find?type=1&query=quantitative",
+                "word": "quantitative"
+            },
+            {
+                "id": "73714",
+                "link": "/find?type=1&query=quantitatively",
+                "word": "quantitatively"
+            },
+            {
+                "id": "73715",
+                "link": "/find?type=1&query=quantity",
+                "word": "quantity"
+            },
+            {
+                "id": "73716",
+                "link": "/find?type=1&query=quantity+surveyor",
+                "word": "quantity surveyor"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6123",
+                "link": "/find?type=4&query=quantity",
+                "word": "quantity"
+            }
+        ]
+    }
+}

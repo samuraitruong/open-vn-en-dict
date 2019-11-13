@@ -1,1 +1,59 @@
-{"error": 0, "query": "quaker", "enViData": {"suggests": [{"id": "73675", "link": "/find?type=1&query=Quaker", "word": "Quaker"}, {"id": "73675", "link": "/find?type=1&query=quaker-gun", "word": "quaker-gun"}, {"id": "73675", "link": "/find?type=1&query=quaker%27s+meeting", "word": "quaker's meeting"}, {"id": "73675", "link": "/find?type=1&query=quakeress", "word": "quakeress"}, {"id": "73675", "link": "/find?type=1&query=quakerish", "word": "quakerish"}, {"id": "73675", "link": "/find?type=1&query=quakerism", "word": "quakerism"}], "best": {"id": "73675", "details": "\n<div id=\"find_word_73675\" class=\"world word_en\" rel=\"Quaker\">\n    <h2 class=\"fl\">Quaker <span class=\"color-black\">/'kweik\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"73675\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"73675\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00edn \u0111\u1ed3 gi\u00e1o ph\u00e1i Qu\u00e2y-c\u01a1, t\u00edn \u0111\u1ed3 ph\u00e1i Gi\u00e1o h\u1eefu</div>\n    \n</div>\n", "link": "/find?type=1&query=Quaker", "word": "Quaker"}}, "mUrl": "/find?type=1&query=quaker", "enEnData": {"suggests": [], "best": {"id": "23560", "details": "\n<div id=\"find_word_23560\" class=\"world word_en\" rel=\"Quaker\">\n    <h2 class=\"fl\">Quaker <span class=\"color-black\">/\u02c8kwe\u026ak\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"23560\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"23560\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of a Christian religious group whose members dress simply, are against violence, and have meetings without any special ceremony or priests - called also Friend</div>\n    \n</div>\n", "link": "/find?type=3&query=Quaker", "word": "Quaker"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a member of a Christian religious group whose members dress simply, are against violence, and have meetings without any special ceremony or priests - called also Friend</div>",
+            "id": "23560",
+            "mean": [],
+            "pronounce": "/\u02c8kwe\u026ak\u025a/",
+            "type": "noun",
+            "word": "Quaker"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00edn \u0111\u1ed3 gi\u00e1o ph\u00e1i Qu\u00e2y-c\u01a1, t\u00edn \u0111\u1ed3 ph\u00e1i Gi\u00e1o h\u1eefu</div>",
+            "id": "73675",
+            "mean": [],
+            "pronounce": "/'kweik\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/c6efbb9ca20a746706e6cfb421f80dc9/16e62db24ff/Q/Quaker.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b4f479a6ccce0c7f554b9ba2194bd50c/16e62db1f23/Q/Quaker.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Quaker"
+        },
+        "suggests": [
+            {
+                "id": "73675",
+                "link": "/find?type=1&query=Quaker",
+                "word": "Quaker"
+            },
+            {
+                "id": "73675",
+                "link": "/find?type=1&query=quaker-gun",
+                "word": "quaker-gun"
+            },
+            {
+                "id": "73675",
+                "link": "/find?type=1&query=quaker%27s+meeting",
+                "word": "quaker's meeting"
+            },
+            {
+                "id": "73675",
+                "link": "/find?type=1&query=quakeress",
+                "word": "quakeress"
+            },
+            {
+                "id": "73675",
+                "link": "/find?type=1&query=quakerish",
+                "word": "quakerish"
+            },
+            {
+                "id": "73675",
+                "link": "/find?type=1&query=quakerism",
+                "word": "quakerism"
+            }
+        ]
+    }
+}
