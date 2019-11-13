@@ -1,1 +1,34 @@
-{"error": 0, "query": "rotunda", "enViData": {"suggests": [{"id": "78101", "link": "/find?type=1&query=rotundate", "word": "rotundate"}], "best": {"id": "78101", "details": "\n<div id=\"find_word_78101\" class=\"world word_en\" rel=\"rotunda\">\n    <h2 class=\"fl\">rotunda <span class=\"color-black\">/r\u0259\u028a't\u028cnd\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"78101\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"78101\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00f2a nh\u00e0 tr\u00f2n c\u00f3 m\u00e1i v\u00f2m</div>\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ec1u \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 m\u00e1i v\u00f2m</div>\n    \n</div>\n", "link": "/find?type=1&query=rotunda", "word": "rotunda"}}, "mUrl": "/find?type=1&query=rotunda", "enEnData": {"suggests": [], "best": {"id": "25212", "details": "\n<div id=\"find_word_25212\" class=\"world word_en\" rel=\"rotunda\">\n    <h2 class=\"fl\">rotunda <span class=\"color-black\">/ro\u028a\u02c8t\u028cnd\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25212\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25212\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -das</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large, round room and especially one covered by a dome</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We stood inside the rotunda of the U.S. Capitol Building.</div>\n    \n</div>\n", "link": "/find?type=3&query=rotunda", "word": "rotunda"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -das</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a large, round room and especially one covered by a dome</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We stood inside the rotunda of the U.S. Capitol Building.</div>",
+            "id": "25212",
+            "mean": [],
+            "pronounce": "/ro\u028a\u02c8t\u028cnd\u0259/",
+            "type": "noun",
+            "word": "rotunda"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00f2a nh\u00e0 tr\u00f2n c\u00f3 m\u00e1i v\u00f2m</div>\n    \n    <div class=\"green margin25 m-top15\">nhi\u1ec1u \u0111\u01b0\u1eddng tr\u00f2n c\u00f3 m\u00e1i v\u00f2m</div>",
+            "id": "78101",
+            "mean": [],
+            "pronounce": "/r\u0259\u028a't\u028cnd\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/3c781b7f39bde3b8e521d89cf3fa4516/16e62ebf4e6/R/rotunda.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ef638e003c349b740b67c42ef0f949fc/16e62ebef05/R/rotunda.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "rotunda"
+        },
+        "suggests": [
+            {
+                "id": "78101",
+                "link": "/find?type=1&query=rotundate",
+                "word": "rotundate"
+            }
+        ]
+    }
+}

@@ -1,1 +1,52 @@
-{"error": 0, "query": "rotte", "enViData": {"suggests": [{"id": "78092", "link": "/find?type=1&query=rotten", "word": "rotten"}, {"id": "78093", "link": "/find?type=1&query=rottenly", "word": "rottenly"}, {"id": "78094", "link": "/find?type=1&query=rottenness", "word": "rottenness"}, {"id": "78095", "link": "/find?type=1&query=rotter", "word": "rotter"}]}, "mUrl": "/find?type=1&query=rotte", "enEnData": {"suggests": [{"id": "25208", "link": "/find?type=3&query=rotten", "word": "rotten"}, {"id": "25209", "link": "/find?type=3&query=rotter", "word": "rotter"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6703", "link": "/find?type=4&query=rotten", "word": "rotten"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25208",
+                "link": "/find?type=3&query=rotten",
+                "word": "rotten"
+            },
+            {
+                "id": "25209",
+                "link": "/find?type=3&query=rotter",
+                "word": "rotter"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "78092",
+                "link": "/find?type=1&query=rotten",
+                "word": "rotten"
+            },
+            {
+                "id": "78093",
+                "link": "/find?type=1&query=rottenly",
+                "word": "rottenly"
+            },
+            {
+                "id": "78094",
+                "link": "/find?type=1&query=rottenness",
+                "word": "rottenness"
+            },
+            {
+                "id": "78095",
+                "link": "/find?type=1&query=rotter",
+                "word": "rotter"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6703",
+                "link": "/find?type=4&query=rotten",
+                "word": "rotten"
+            }
+        ]
+    }
+}

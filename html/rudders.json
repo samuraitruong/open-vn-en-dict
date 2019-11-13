@@ -1,1 +1,55 @@
-{"error": 0, "query": "rudders", "enViData": {"suggests": [{"id": "78332", "link": "/find?type=1&query=rudder-post", "word": "rudder-post"}, {"id": "78332", "link": "/find?type=1&query=rudder-stock", "word": "rudder-stock"}, {"id": "78332", "link": "/find?type=1&query=rudderfish", "word": "rudderfish"}, {"id": "78332", "link": "/find?type=1&query=rudderless", "word": "rudderless"}], "best": {"id": "78332", "details": "\n<div id=\"find_word_78332\" class=\"world word_en\" rel=\"rudder\">\n    <h2 class=\"fl\">rudder <span class=\"color-black\">/'r\u028cd\u0259[r]/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"78332\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"78332\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1nh l\u00e1i (t\u00e0u th\u1ee7y, m\u00e1y bay)</div>\n    \n</div>\n", "link": "/find?type=1&query=rudder", "word": "rudder"}}, "mUrl": "/find?type=1&query=rudders", "enEnData": {"suggests": [{"id": "25311", "link": "/find?type=3&query=rudderless", "word": "rudderless"}], "best": {"id": "25311", "details": "\n<div id=\"find_word_25311\" class=\"world word_en\" rel=\"rudder\">\n    <h2 class=\"fl\">rudder <span class=\"color-black\">/\u02c8r\u028cd\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25311\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25311\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ders</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a flat, movable piece usually of wood or metal that is attached to a ship, boat, airplane, etc., and is used in steering - see picture at boat</div>\n    \n</div>\n", "link": "/find?type=3&query=rudder", "word": "rudder"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ders</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a flat, movable piece usually of wood or metal that is attached to a ship, boat, airplane, etc., and is used in steering - see picture at boat</div>",
+            "id": "25311",
+            "mean": [],
+            "pronounce": "/\u02c8r\u028cd\u025a/",
+            "type": "noun",
+            "word": "rudder"
+        },
+        "suggests": [
+            {
+                "id": "25311",
+                "link": "/find?type=3&query=rudderless",
+                "word": "rudderless"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e1nh l\u00e1i (t\u00e0u th\u1ee7y, m\u00e1y bay)</div>",
+            "id": "78332",
+            "mean": [],
+            "pronounce": "/'r\u028cd\u0259[r]/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/484a6c6a64d7bd0b7bfef889eaa1be71/16e62ec8c08/R/rudder.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ada4f482912adde303ce6582b728703d/16e62ec854f/R/rudder.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "rudder"
+        },
+        "suggests": [
+            {
+                "id": "78332",
+                "link": "/find?type=1&query=rudder-post",
+                "word": "rudder-post"
+            },
+            {
+                "id": "78332",
+                "link": "/find?type=1&query=rudder-stock",
+                "word": "rudder-stock"
+            },
+            {
+                "id": "78332",
+                "link": "/find?type=1&query=rudderfish",
+                "word": "rudderfish"
+            },
+            {
+                "id": "78332",
+                "link": "/find?type=1&query=rudderless",
+                "word": "rudderless"
+            }
+        ]
+    }
+}

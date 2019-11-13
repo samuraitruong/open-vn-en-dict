@@ -1,1 +1,34 @@
-{"error": 0, "query": "roundel", "enViData": {"suggests": [{"id": "78172", "link": "/find?type=1&query=roundelay", "word": "roundelay"}], "best": {"id": "78172", "details": "\n<div id=\"find_word_78172\" class=\"world word_en\" rel=\"roundel\">\n    <h2 class=\"fl\">roundel <span class=\"color-black\">/'ra\u028andl/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"78172\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"78172\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f2ng qu\u1ed1c t\u1ecbch (\u1edf m\u00e1y bay qu\u00e2n s\u1ef1 m\u1ed9t s\u1ed1 n\u01b0\u1edbc)</div>\n    \n</div>\n", "link": "/find?type=1&query=roundel", "word": "roundel"}}, "mUrl": "/find?type=1&query=roundel", "enEnData": {"suggests": [], "best": {"id": "25233", "details": "\n<div id=\"find_word_25233\" class=\"world word_en\" rel=\"roundel\">\n    <h2 class=\"fl\">roundel <span class=\"color-black\">/\u02c8ra\u028andn\u0329/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25233\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25233\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit :a round figure or object</div>\n    \n</div>\n", "link": "/find?type=3&query=roundel", "word": "roundel"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -dels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] chiefly Brit :a round figure or object</div>",
+            "id": "25233",
+            "mean": [],
+            "pronounce": "/\u02c8ra\u028andn\u0329/",
+            "type": "noun",
+            "word": "roundel"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">v\u00f2ng qu\u1ed1c t\u1ecbch (\u1edf m\u00e1y bay qu\u00e2n s\u1ef1 m\u1ed9t s\u1ed1 n\u01b0\u1edbc)</div>",
+            "id": "78172",
+            "mean": [],
+            "pronounce": "/'ra\u028andl/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/be48c4d68dae0efd671f0ae5c684d9f5/16e62ec18fb/R/roundel.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c911c28e910e1943e2e86dc281c50bc8/16e62ec1334/R/roundel.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "roundel"
+        },
+        "suggests": [
+            {
+                "id": "78172",
+                "link": "/find?type=1&query=roundelay",
+                "word": "roundelay"
+            }
+        ]
+    }
+}

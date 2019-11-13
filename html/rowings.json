@@ -1,1 +1,45 @@
-{"error": 0, "query": "rowings", "enViData": {"suggests": [{"id": "78222", "link": "/find?type=1&query=rowing-boat", "word": "rowing-boat"}], "best": {"id": "78222", "details": "\n<div id=\"find_word_78222\" class=\"world word_en\" rel=\"rowing\">\n    <h2 class=\"fl\">rowing <span class=\"color-black\">/'raui\u0273/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"78222\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"78222\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ch\u00e8o thuy\u1ec1n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 khi\u1ec3n tr\u00e1ch, s\u1ef1 qu\u1edf tr\u00e1ch, s\u1ef1 m\u1eafng m\u1ecf</div>\n    \n</div>\n", "link": "/find?type=1&query=rowing", "word": "rowing"}}, "mUrl": "/find?type=1&query=rowings", "enEnData": {"suggests": [{"id": "25259", "link": "/find?type=3&query=rowing+boat", "word": "rowing boat"}, {"id": "25259", "link": "/find?type=3&query=rowing+machine", "word": "rowing machine"}], "best": {"id": "25259", "details": "\n<div id=\"find_word_25259\" class=\"world word_en\" rel=\"rowing\">\n    <h2 class=\"fl\">rowing <span class=\"color-black\">/\u02c8row\u026a\u014b/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"25259\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"25259\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] the sport of racing in long, narrow boats that are moved by using oars</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was on the rowing team.</div>\n    \n    <div class=\"green margin25 m-top15\">the activity of moving a boat by using oars</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Rowing is good exercise.</div>\n    \n</div>\n", "link": "/find?type=3&query=rowing", "word": "rowing"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] the sport of racing in long, narrow boats that are moved by using oars</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She was on the rowing team.</div>\n    \n    <div class=\"green margin25 m-top15\">the activity of moving a boat by using oars</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Rowing is good exercise.</div>",
+            "id": "25259",
+            "mean": [],
+            "pronounce": "/\u02c8row\u026a\u014b/",
+            "type": "noun",
+            "word": "rowing"
+        },
+        "suggests": [
+            {
+                "id": "25259",
+                "link": "/find?type=3&query=rowing+boat",
+                "word": "rowing boat"
+            },
+            {
+                "id": "25259",
+                "link": "/find?type=3&query=rowing+machine",
+                "word": "rowing machine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 ch\u00e8o thuy\u1ec1n</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 khi\u1ec3n tr\u00e1ch, s\u1ef1 qu\u1edf tr\u00e1ch, s\u1ef1 m\u1eafng m\u1ecf</div>",
+            "id": "78222",
+            "mean": [],
+            "pronounce": "/'raui\u0273/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/85d1a61552f6ceb1b2af89b48125e3b6/16e62ec4cb3/R/rowing.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f9f68d8549f6cb2b6445375badb61fb1/16e62ec46e0/R/rowing.mp3"
+            },
+            "type": "Danh t\u1eeb Danh t\u1eeb",
+            "word": "rowing"
+        },
+        "suggests": [
+            {
+                "id": "78222",
+                "link": "/find?type=1&query=rowing-boat",
+                "word": "rowing-boat"
+            }
+        ]
+    }
+}
