@@ -1,1 +1,22 @@
-{"error": 0, "query": "molasse", "enViData": {"suggests": [{"id": "58420", "link": "/find?type=1&query=molasses", "word": "molasses"}]}, "mUrl": "/find?type=1&query=molasse", "enEnData": {"suggests": [{"id": "18464", "link": "/find?type=3&query=molasses", "word": "molasses"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18464",
+                "link": "/find?type=3&query=molasses",
+                "word": "molasses"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58420",
+                "link": "/find?type=1&query=molasses",
+                "word": "molasses"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "mogs", "enViData": {"suggests": [{"id": "58394", "link": "/find?type=1&query=mogadon", "word": "mogadon"}, {"id": "58395", "link": "/find?type=1&query=moggie", "word": "moggie"}, {"id": "58396", "link": "/find?type=1&query=mogul", "word": "mogul"}]}, "mUrl": "/find?type=1&query=mogs", "enEnData": {"suggests": [{"id": "18452", "link": "/find?type=3&query=moggy", "word": "moggy"}, {"id": "18453", "link": "/find?type=3&query=mogul", "word": "mogul"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4662", "link": "/find?type=4&query=mogul", "word": "mogul"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18452",
+                "link": "/find?type=3&query=moggy",
+                "word": "moggy"
+            },
+            {
+                "id": "18453",
+                "link": "/find?type=3&query=mogul",
+                "word": "mogul"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58394",
+                "link": "/find?type=1&query=mogadon",
+                "word": "mogadon"
+            },
+            {
+                "id": "58395",
+                "link": "/find?type=1&query=moggie",
+                "word": "moggie"
+            },
+            {
+                "id": "58396",
+                "link": "/find?type=1&query=mogul",
+                "word": "mogul"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4662",
+                "link": "/find?type=4&query=mogul",
+                "word": "mogul"
+            }
+        ]
+    }
+}

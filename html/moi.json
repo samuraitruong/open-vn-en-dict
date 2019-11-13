@@ -1,1 +1,92 @@
-{"error": 0, "query": "moi", "enViData": {"suggests": [{"id": "58403", "link": "/find?type=1&query=moiety", "word": "moiety"}, {"id": "58404", "link": "/find?type=1&query=moil", "word": "moil"}, {"id": "58405", "link": "/find?type=1&query=moises", "word": "moises"}, {"id": "58406", "link": "/find?type=1&query=moisis", "word": "moisis"}, {"id": "58407", "link": "/find?type=1&query=moist", "word": "moist"}, {"id": "58408", "link": "/find?type=1&query=moisten", "word": "moisten"}, {"id": "58409", "link": "/find?type=1&query=moistness", "word": "moistness"}, {"id": "58410", "link": "/find?type=1&query=moisture", "word": "moisture"}, {"id": "58411", "link": "/find?type=1&query=moisture-free", "word": "moisture-free"}, {"id": "58412", "link": "/find?type=1&query=moistureless", "word": "moistureless"}]}, "mUrl": "/find?type=1&query=moi", "enEnData": {"suggests": [{"id": "18458", "link": "/find?type=3&query=moist", "word": "moist"}, {"id": "18459", "link": "/find?type=3&query=moisten", "word": "moisten"}, {"id": "18460", "link": "/find?type=3&query=moisture", "word": "moisture"}, {"id": "18461", "link": "/find?type=3&query=moisturize", "word": "moisturize"}]}, "viEnData": {"suggests": [{"id": "21680", "link": "/find?type=2&query=moi+m%C3%B3c", "word": "moi m\u00f3c"}], "best": {"id": "21680", "details": "\n<div id=\"find_word_21680\" class=\"world word_vn\" rel=\"moi\">\n    <h2 class=\"fl\">moi <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"21680\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"21680\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"green margin25 m-top15\">to dig</div>\n    \n</div>\n", "link": "/find?type=2&query=moi", "word": "moi"}}, "ftype": "1", "synData": {"suggests": [{"id": "4663", "link": "/find?type=4&query=moist", "word": "moist"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18458",
+                "link": "/find?type=3&query=moist",
+                "word": "moist"
+            },
+            {
+                "id": "18459",
+                "link": "/find?type=3&query=moisten",
+                "word": "moisten"
+            },
+            {
+                "id": "18460",
+                "link": "/find?type=3&query=moisture",
+                "word": "moisture"
+            },
+            {
+                "id": "18461",
+                "link": "/find?type=3&query=moisturize",
+                "word": "moisturize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58403",
+                "link": "/find?type=1&query=moiety",
+                "word": "moiety"
+            },
+            {
+                "id": "58404",
+                "link": "/find?type=1&query=moil",
+                "word": "moil"
+            },
+            {
+                "id": "58405",
+                "link": "/find?type=1&query=moises",
+                "word": "moises"
+            },
+            {
+                "id": "58406",
+                "link": "/find?type=1&query=moisis",
+                "word": "moisis"
+            },
+            {
+                "id": "58407",
+                "link": "/find?type=1&query=moist",
+                "word": "moist"
+            },
+            {
+                "id": "58408",
+                "link": "/find?type=1&query=moisten",
+                "word": "moisten"
+            },
+            {
+                "id": "58409",
+                "link": "/find?type=1&query=moistness",
+                "word": "moistness"
+            },
+            {
+                "id": "58410",
+                "link": "/find?type=1&query=moisture",
+                "word": "moisture"
+            },
+            {
+                "id": "58411",
+                "link": "/find?type=1&query=moisture-free",
+                "word": "moisture-free"
+            },
+            {
+                "id": "58412",
+                "link": "/find?type=1&query=moistureless",
+                "word": "moistureless"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4663",
+                "link": "/find?type=4&query=moist",
+                "word": "moist"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "monas", "enViData": {"suggests": [{"id": "58481", "link": "/find?type=1&query=monastery", "word": "monastery"}, {"id": "58482", "link": "/find?type=1&query=monastic", "word": "monastic"}, {"id": "58483", "link": "/find?type=1&query=monasticism", "word": "monasticism"}]}, "mUrl": "/find?type=1&query=monas", "enEnData": {"suggests": [{"id": "18496", "link": "/find?type=3&query=monastery", "word": "monastery"}, {"id": "18497", "link": "/find?type=3&query=monastic", "word": "monastic"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4671", "link": "/find?type=4&query=monastery", "word": "monastery"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18496",
+                "link": "/find?type=3&query=monastery",
+                "word": "monastery"
+            },
+            {
+                "id": "18497",
+                "link": "/find?type=3&query=monastic",
+                "word": "monastic"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58481",
+                "link": "/find?type=1&query=monastery",
+                "word": "monastery"
+            },
+            {
+                "id": "58482",
+                "link": "/find?type=1&query=monastic",
+                "word": "monastic"
+            },
+            {
+                "id": "58483",
+                "link": "/find?type=1&query=monasticism",
+                "word": "monasticism"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4671",
+                "link": "/find?type=4&query=monastery",
+                "word": "monastery"
+            }
+        ]
+    }
+}

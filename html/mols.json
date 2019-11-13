@@ -1,1 +1,122 @@
-{"error": 0, "query": "mols", "enViData": {"suggests": [{"id": "58418", "link": "/find?type=1&query=molar", "word": "molar"}, {"id": "58419", "link": "/find?type=1&query=molarity", "word": "molarity"}, {"id": "58420", "link": "/find?type=1&query=molasses", "word": "molasses"}, {"id": "58421", "link": "/find?type=1&query=mold", "word": "mold"}, {"id": "58422", "link": "/find?type=1&query=molder", "word": "molder"}, {"id": "58423", "link": "/find?type=1&query=molding", "word": "molding"}, {"id": "58424", "link": "/find?type=1&query=moldy", "word": "moldy"}, {"id": "58425", "link": "/find?type=1&query=mole", "word": "mole"}, {"id": "58426", "link": "/find?type=1&query=mole-catcher", "word": "mole-catcher"}, {"id": "58427", "link": "/find?type=1&query=molecular", "word": "molecular"}]}, "mUrl": "/find?type=1&query=mols", "enEnData": {"suggests": [{"id": "18463", "link": "/find?type=3&query=molar", "word": "molar"}, {"id": "18464", "link": "/find?type=3&query=molasses", "word": "molasses"}, {"id": "18465", "link": "/find?type=3&query=mold", "word": "mold"}, {"id": "18466", "link": "/find?type=3&query=molder", "word": "molder"}, {"id": "18467", "link": "/find?type=3&query=molding", "word": "molding"}, {"id": "18468", "link": "/find?type=3&query=moldy", "word": "moldy"}, {"id": "18469", "link": "/find?type=3&query=mole", "word": "mole"}, {"id": "18470", "link": "/find?type=3&query=molecule", "word": "molecule"}, {"id": "18471", "link": "/find?type=3&query=molehill", "word": "molehill"}, {"id": "18472", "link": "/find?type=3&query=moleskin", "word": "moleskin"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4664", "link": "/find?type=4&query=molest", "word": "molest"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18463",
+                "link": "/find?type=3&query=molar",
+                "word": "molar"
+            },
+            {
+                "id": "18464",
+                "link": "/find?type=3&query=molasses",
+                "word": "molasses"
+            },
+            {
+                "id": "18465",
+                "link": "/find?type=3&query=mold",
+                "word": "mold"
+            },
+            {
+                "id": "18466",
+                "link": "/find?type=3&query=molder",
+                "word": "molder"
+            },
+            {
+                "id": "18467",
+                "link": "/find?type=3&query=molding",
+                "word": "molding"
+            },
+            {
+                "id": "18468",
+                "link": "/find?type=3&query=moldy",
+                "word": "moldy"
+            },
+            {
+                "id": "18469",
+                "link": "/find?type=3&query=mole",
+                "word": "mole"
+            },
+            {
+                "id": "18470",
+                "link": "/find?type=3&query=molecule",
+                "word": "molecule"
+            },
+            {
+                "id": "18471",
+                "link": "/find?type=3&query=molehill",
+                "word": "molehill"
+            },
+            {
+                "id": "18472",
+                "link": "/find?type=3&query=moleskin",
+                "word": "moleskin"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "58418",
+                "link": "/find?type=1&query=molar",
+                "word": "molar"
+            },
+            {
+                "id": "58419",
+                "link": "/find?type=1&query=molarity",
+                "word": "molarity"
+            },
+            {
+                "id": "58420",
+                "link": "/find?type=1&query=molasses",
+                "word": "molasses"
+            },
+            {
+                "id": "58421",
+                "link": "/find?type=1&query=mold",
+                "word": "mold"
+            },
+            {
+                "id": "58422",
+                "link": "/find?type=1&query=molder",
+                "word": "molder"
+            },
+            {
+                "id": "58423",
+                "link": "/find?type=1&query=molding",
+                "word": "molding"
+            },
+            {
+                "id": "58424",
+                "link": "/find?type=1&query=moldy",
+                "word": "moldy"
+            },
+            {
+                "id": "58425",
+                "link": "/find?type=1&query=mole",
+                "word": "mole"
+            },
+            {
+                "id": "58426",
+                "link": "/find?type=1&query=mole-catcher",
+                "word": "mole-catcher"
+            },
+            {
+                "id": "58427",
+                "link": "/find?type=1&query=molecular",
+                "word": "molecular"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4664",
+                "link": "/find?type=4&query=molest",
+                "word": "molest"
+            }
+        ]
+    }
+}
