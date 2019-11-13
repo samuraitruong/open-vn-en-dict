@@ -1,1 +1,69 @@
-{"error": 0, "query": "mayo", "enViData": {"suggests": [{"id": "56638", "link": "/find?type=1&query=mayonnaise", "word": "mayonnaise"}, {"id": "56639", "link": "/find?type=1&query=mayor", "word": "mayor"}, {"id": "56640", "link": "/find?type=1&query=mayoral", "word": "mayoral"}, {"id": "56641", "link": "/find?type=1&query=mayoralty", "word": "mayoralty"}, {"id": "56642", "link": "/find?type=1&query=mayoress", "word": "mayoress"}, {"id": "56643", "link": "/find?type=1&query=mayorship", "word": "mayorship"}]}, "mUrl": "/find?type=1&query=mayo", "enEnData": {"suggests": [{"id": "17738", "link": "/find?type=3&query=mayonnaise", "word": "mayonnaise"}, {"id": "17738", "link": "/find?type=3&query=mayor", "word": "mayor"}, {"id": "17738", "link": "/find?type=3&query=mayoralty", "word": "mayoralty"}, {"id": "17738", "link": "/find?type=3&query=mayoress", "word": "mayoress"}], "best": {"id": "17738", "details": "\n<div id=\"find_word_17738\" class=\"world word_en\" rel=\"mayo\">\n    <h2 class=\"fl\">mayo <span class=\"color-black\">/\u02c8mejo\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17738\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17738\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] informal :mayonnaise</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She ordered a turkey sandwich and told the waiter to hold the mayo. [=to not include mayonnaise on the sandwich]</div>\n    \n</div>\n", "link": "/find?type=3&query=mayo", "word": "mayo"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] informal :mayonnaise</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">She ordered a turkey sandwich and told the waiter to hold the mayo. [=to not include mayonnaise on the sandwich]</div>",
+            "id": "17738",
+            "mean": [],
+            "pronounce": "/\u02c8mejo\u028a/",
+            "type": "noun",
+            "word": "mayo"
+        },
+        "suggests": [
+            {
+                "id": "17738",
+                "link": "/find?type=3&query=mayonnaise",
+                "word": "mayonnaise"
+            },
+            {
+                "id": "17738",
+                "link": "/find?type=3&query=mayor",
+                "word": "mayor"
+            },
+            {
+                "id": "17738",
+                "link": "/find?type=3&query=mayoralty",
+                "word": "mayoralty"
+            },
+            {
+                "id": "17738",
+                "link": "/find?type=3&query=mayoress",
+                "word": "mayoress"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "56638",
+                "link": "/find?type=1&query=mayonnaise",
+                "word": "mayonnaise"
+            },
+            {
+                "id": "56639",
+                "link": "/find?type=1&query=mayor",
+                "word": "mayor"
+            },
+            {
+                "id": "56640",
+                "link": "/find?type=1&query=mayoral",
+                "word": "mayoral"
+            },
+            {
+                "id": "56641",
+                "link": "/find?type=1&query=mayoralty",
+                "word": "mayoralty"
+            },
+            {
+                "id": "56642",
+                "link": "/find?type=1&query=mayoress",
+                "word": "mayoress"
+            },
+            {
+                "id": "56643",
+                "link": "/find?type=1&query=mayorship",
+                "word": "mayorship"
+            }
+        ]
+    }
+}

@@ -1,1 +1,27 @@
-{"error": 0, "query": "maladjust", "enViData": {"suggests": [{"id": "55637", "link": "/find?type=1&query=maladjusted", "word": "maladjusted"}, {"id": "55638", "link": "/find?type=1&query=maladjustment", "word": "maladjustment"}]}, "mUrl": "/find?type=1&query=maladjust", "enEnData": {"suggests": [{"id": "17380", "link": "/find?type=3&query=maladjusted", "word": "maladjusted"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17380",
+                "link": "/find?type=3&query=maladjusted",
+                "word": "maladjusted"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55637",
+                "link": "/find?type=1&query=maladjusted",
+                "word": "maladjusted"
+            },
+            {
+                "id": "55638",
+                "link": "/find?type=1&query=maladjustment",
+                "word": "maladjustment"
+            }
+        ]
+    }
+}

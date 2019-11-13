@@ -1,1 +1,127 @@
-{"error": 0, "query": "mal", "enViData": {"suggests": [{"id": "55627", "link": "/find?type=1&query=mal-", "word": "mal-"}, {"id": "55628", "link": "/find?type=1&query=malachite", "word": "malachite"}, {"id": "55629", "link": "/find?type=1&query=malacodermatous", "word": "malacodermatous"}, {"id": "55630", "link": "/find?type=1&query=malacological", "word": "malacological"}, {"id": "55631", "link": "/find?type=1&query=malacologist", "word": "malacologist"}, {"id": "55632", "link": "/find?type=1&query=malacology", "word": "malacology"}, {"id": "55633", "link": "/find?type=1&query=malacostracan", "word": "malacostracan"}, {"id": "55634", "link": "/find?type=1&query=maladapt", "word": "maladapt"}, {"id": "55635", "link": "/find?type=1&query=maladapted", "word": "maladapted"}, {"id": "55636", "link": "/find?type=1&query=maladaptive", "word": "maladaptive"}]}, "mUrl": "/find?type=1&query=mal", "enEnData": {"suggests": [{"id": "17379", "link": "/find?type=3&query=mal-", "word": "mal-"}, {"id": "17380", "link": "/find?type=3&query=maladjusted", "word": "maladjusted"}, {"id": "17381", "link": "/find?type=3&query=maladroit", "word": "maladroit"}, {"id": "17382", "link": "/find?type=3&query=malady", "word": "malady"}, {"id": "17383", "link": "/find?type=3&query=malaise", "word": "malaise"}, {"id": "17384", "link": "/find?type=3&query=malapropism", "word": "malapropism"}, {"id": "17385", "link": "/find?type=3&query=malaria", "word": "malaria"}, {"id": "17386", "link": "/find?type=3&query=malarkey", "word": "malarkey"}, {"id": "17387", "link": "/find?type=3&query=malcontent", "word": "malcontent"}, {"id": "17388", "link": "/find?type=3&query=male", "word": "male"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4379", "link": "/find?type=4&query=male", "word": "male"}, {"id": "4380", "link": "/find?type=4&query=malignant", "word": "malignant"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "17379",
+                "link": "/find?type=3&query=mal-",
+                "word": "mal-"
+            },
+            {
+                "id": "17380",
+                "link": "/find?type=3&query=maladjusted",
+                "word": "maladjusted"
+            },
+            {
+                "id": "17381",
+                "link": "/find?type=3&query=maladroit",
+                "word": "maladroit"
+            },
+            {
+                "id": "17382",
+                "link": "/find?type=3&query=malady",
+                "word": "malady"
+            },
+            {
+                "id": "17383",
+                "link": "/find?type=3&query=malaise",
+                "word": "malaise"
+            },
+            {
+                "id": "17384",
+                "link": "/find?type=3&query=malapropism",
+                "word": "malapropism"
+            },
+            {
+                "id": "17385",
+                "link": "/find?type=3&query=malaria",
+                "word": "malaria"
+            },
+            {
+                "id": "17386",
+                "link": "/find?type=3&query=malarkey",
+                "word": "malarkey"
+            },
+            {
+                "id": "17387",
+                "link": "/find?type=3&query=malcontent",
+                "word": "malcontent"
+            },
+            {
+                "id": "17388",
+                "link": "/find?type=3&query=male",
+                "word": "male"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "55627",
+                "link": "/find?type=1&query=mal-",
+                "word": "mal-"
+            },
+            {
+                "id": "55628",
+                "link": "/find?type=1&query=malachite",
+                "word": "malachite"
+            },
+            {
+                "id": "55629",
+                "link": "/find?type=1&query=malacodermatous",
+                "word": "malacodermatous"
+            },
+            {
+                "id": "55630",
+                "link": "/find?type=1&query=malacological",
+                "word": "malacological"
+            },
+            {
+                "id": "55631",
+                "link": "/find?type=1&query=malacologist",
+                "word": "malacologist"
+            },
+            {
+                "id": "55632",
+                "link": "/find?type=1&query=malacology",
+                "word": "malacology"
+            },
+            {
+                "id": "55633",
+                "link": "/find?type=1&query=malacostracan",
+                "word": "malacostracan"
+            },
+            {
+                "id": "55634",
+                "link": "/find?type=1&query=maladapt",
+                "word": "maladapt"
+            },
+            {
+                "id": "55635",
+                "link": "/find?type=1&query=maladapted",
+                "word": "maladapted"
+            },
+            {
+                "id": "55636",
+                "link": "/find?type=1&query=maladaptive",
+                "word": "maladaptive"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4379",
+                "link": "/find?type=4&query=male",
+                "word": "male"
+            },
+            {
+                "id": "4380",
+                "link": "/find?type=4&query=malignant",
+                "word": "malignant"
+            }
+        ]
+    }
+}

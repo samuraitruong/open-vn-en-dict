@@ -1,1 +1,45 @@
-{"error": 0, "query": "mailings", "enViData": {"suggests": [{"id": "55541", "link": "/find?type=1&query=mailing+list", "word": "mailing list"}], "best": {"id": "55541", "details": "\n<div id=\"find_word_55541\" class=\"world word_en\" rel=\"mailing\">\n    <h2 class=\"fl\">mailing <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55541\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55541\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u01b0 t\u1eeb; th\u01b0 t\u00edn</div>\n    \n</div>\n", "link": "/find?type=1&query=mailing", "word": "mailing"}}, "mUrl": "/find?type=1&query=mailings", "enEnData": {"suggests": [{"id": "17336", "link": "/find?type=3&query=mailing+address", "word": "mailing address"}, {"id": "17336", "link": "/find?type=3&query=mailing+list", "word": "mailing list"}], "best": {"id": "17336", "details": "\n<div id=\"find_word_17336\" class=\"world word_en\" rel=\"mailing\">\n    <h2 class=\"fl\">mailing <span class=\"color-black\">/\u02c8me\u026al\u026a\u014b/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17336\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17336\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ings</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the act of mailing something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Get the check ready for mailing and take it to the post office.</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :something (such as a letter or an advertisement) that is mailed to many people at one time</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">mass mailings</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The charity sent out several mailings to everyone on its mailing list. - called also (Brit) mailshot</div>\n    \n</div>\n", "link": "/find?type=3&query=mailing", "word": "mailing"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ings</div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :the act of mailing something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Get the check ready for mailing and take it to the post office.</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :something (such as a letter or an advertisement) that is mailed to many people at one time</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">mass mailings</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">The charity sent out several mailings to everyone on its mailing list. - called also (Brit) mailshot</div>",
+            "id": "17336",
+            "mean": [],
+            "pronounce": "/\u02c8me\u026al\u026a\u014b/",
+            "type": "noun",
+            "word": "mailing"
+        },
+        "suggests": [
+            {
+                "id": "17336",
+                "link": "/find?type=3&query=mailing+address",
+                "word": "mailing address"
+            },
+            {
+                "id": "17336",
+                "link": "/find?type=3&query=mailing+list",
+                "word": "mailing list"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">th\u01b0 t\u1eeb; th\u01b0 t\u00edn</div>",
+            "id": "55541",
+            "mean": [],
+            "pronounce": "",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/67229233526cd82f7bd321ea20849466/16e62969738/M/mailing.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/8372946cdff91094f27e5c770db7afca/16e62969138/M/mailing.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mailing"
+        },
+        "suggests": [
+            {
+                "id": "55541",
+                "link": "/find?type=1&query=mailing+list",
+                "word": "mailing list"
+            }
+        ]
+    }
+}

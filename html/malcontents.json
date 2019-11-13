@@ -1,1 +1,34 @@
-{"error": 0, "query": "malcontents", "enViData": {"suggests": [{"id": "55665", "link": "/find?type=1&query=malcontentedness", "word": "malcontentedness"}], "best": {"id": "55665", "details": "\n<div id=\"find_word_55665\" class=\"world word_en\" rel=\"malcontent\">\n    <h2 class=\"fl\">malcontent <span class=\"color-black\">/'m\u00e6lk\u0259nt\u0259nt/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55665\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55665\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi b\u1ea5t b\u00ecnh</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea5t b\u00ecnh</div>\n    \n</div>\n", "link": "/find?type=1&query=malcontent", "word": "malcontent"}}, "mUrl": "/find?type=1&query=malcontents", "enEnData": {"suggests": [], "best": {"id": "17387", "details": "\n<div id=\"find_word_17387\" class=\"world word_en\" rel=\"malcontent\">\n    <h2 class=\"fl\">malcontent <span class=\"color-black\">/\u02ccm\u00e6lk\u0259n\u02c8t\u025bnt/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit \u02c8m\u00e6lk\u0259nt\u025bnt/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17387\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17387\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tents</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a person who is always or often unhappy or angry about something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He complained so much that he got a reputation for being a malcontent.</div>\n    \n</div>\n", "link": "/find?type=3&query=malcontent", "word": "malcontent"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -tents</div>\n    \n    <div class=\"green margin25 m-top15\">[count] disapproving :a person who is always or often unhappy or angry about something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He complained so much that he got a reputation for being a malcontent.</div>",
+            "id": "17387",
+            "mean": [],
+            "pronounce": "/\u02ccm\u00e6lk\u0259n\u02c8t\u025bnt/",
+            "type": "noun",
+            "word": "malcontent"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi b\u1ea5t b\u00ecnh</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ea5t b\u00ecnh</div>",
+            "id": "55665",
+            "mean": [],
+            "pronounce": "/'m\u00e6lk\u0259nt\u0259nt/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/bb4ffff3918ef2d08558ce3a32e72f99/16e6297115a/M/malcontent.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f92471934f2d35048cf477cf39fb4df4/16e62970b94/M/malcontent.mp3"
+            },
+            "type": "Danh t\u1eeb T\u00ednh t\u1eeb",
+            "word": "malcontent"
+        },
+        "suggests": [
+            {
+                "id": "55665",
+                "link": "/find?type=1&query=malcontentedness",
+                "word": "malcontentedness"
+            }
+        ]
+    }
+}

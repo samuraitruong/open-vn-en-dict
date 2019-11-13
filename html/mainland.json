@@ -1,1 +1,34 @@
-{"error": 0, "query": "mainland", "enViData": {"suggests": [{"id": "55556", "link": "/find?type=1&query=mainlander", "word": "mainlander"}], "best": {"id": "55556", "details": "\n<div id=\"find_word_55556\" class=\"world word_en\" rel=\"mainland\">\n    <h2 class=\"fl\">mainland <span class=\"color-black\">/'meinl\u00e6nd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"55556\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"55556\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea5t li\u1ec1n</div>\n    \n</div>\n", "link": "/find?type=1&query=mainland", "word": "mainland"}}, "mUrl": "/find?type=1&query=mainland", "enEnData": {"suggests": [], "best": {"id": "17350", "details": "\n<div id=\"find_word_17350\" class=\"world word_en\" rel=\"mainland\">\n    <h2 class=\"fl\">mainland <span class=\"color-black\">/\u02c8me\u026an\u02ccl\u00e6nd/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"17350\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"17350\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :a large area of land that forms a country or a continent and that does not include islands - used with the</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Chinese mainland = the mainland of China</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">After spending a week on the tiny island, we were happy to return to the mainland. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">mainland China</div>\n    \n</div>\n", "link": "/find?type=3&query=mainland", "word": "mainland"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[singular] :a large area of land that forms a country or a continent and that does not include islands - used with the</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Chinese mainland = the mainland of China</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">After spending a week on the tiny island, we were happy to return to the mainland. - often used before another noun</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">mainland China</div>",
+            "id": "17350",
+            "mean": [],
+            "pronounce": "/\u02c8me\u026an\u02ccl\u00e6nd/",
+            "type": "noun",
+            "word": "mainland"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u1ea5t li\u1ec1n</div>",
+            "id": "55556",
+            "mean": [],
+            "pronounce": "/'meinl\u00e6nd/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/beafd282ac6f85117eb765037d327fc7/16e6296a26d/M/mainland.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/5fc4eb5c20a4bec3df17199377322262/16e62969cac/M/mainland.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mainland"
+        },
+        "suggests": [
+            {
+                "id": "55556",
+                "link": "/find?type=1&query=mainlander",
+                "word": "mainlander"
+            }
+        ]
+    }
+}
