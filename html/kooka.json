@@ -1,1 +1,22 @@
-{"error": 0, "query": "kooka", "enViData": {"suggests": [{"id": "52034", "link": "/find?type=1&query=kookaburra", "word": "kookaburra"}]}, "mUrl": "/find?type=1&query=kooka", "enEnData": {"suggests": [{"id": "16042", "link": "/find?type=3&query=kookaburra", "word": "kookaburra"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16042",
+                "link": "/find?type=3&query=kookaburra",
+                "word": "kookaburra"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52034",
+                "link": "/find?type=1&query=kookaburra",
+                "word": "kookaburra"
+            }
+        ]
+    }
+}

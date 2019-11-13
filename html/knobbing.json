@@ -1,1 +1,27 @@
-{"error": 0, "query": "knobbing", "enViData": {"suggests": [{"id": "51953", "link": "/find?type=1&query=knobbed", "word": "knobbed"}]}, "mUrl": "/find?type=1&query=knobbing", "enEnData": {"suggests": [{"id": "16005", "link": "/find?type=3&query=knobbly", "word": "knobbly"}, {"id": "16006", "link": "/find?type=3&query=knobby", "word": "knobby"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16005",
+                "link": "/find?type=3&query=knobbly",
+                "word": "knobbly"
+            },
+            {
+                "id": "16006",
+                "link": "/find?type=3&query=knobby",
+                "word": "knobby"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51953",
+                "link": "/find?type=1&query=knobbed",
+                "word": "knobbed"
+            }
+        ]
+    }
+}

@@ -1,1 +1,47 @@
-{"error": 0, "query": "kor", "enViData": {"suggests": [{"id": "52043", "link": "/find?type=1&query=Koran", "word": "Koran"}, {"id": "52044", "link": "/find?type=1&query=Koranic", "word": "Koranic"}, {"id": "52045", "link": "/find?type=1&query=korean", "word": "korean"}, {"id": "52046", "link": "/find?type=1&query=korma", "word": "korma"}, {"id": "52047", "link": "/find?type=1&query=koruna", "word": "koruna"}]}, "mUrl": "/find?type=1&query=kor", "enEnData": {"suggests": [{"id": "16043", "link": "/find?type=3&query=Koran", "word": "Koran"}, {"id": "16044", "link": "/find?type=3&query=Korean", "word": "Korean"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16043",
+                "link": "/find?type=3&query=Koran",
+                "word": "Koran"
+            },
+            {
+                "id": "16044",
+                "link": "/find?type=3&query=Korean",
+                "word": "Korean"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52043",
+                "link": "/find?type=1&query=Koran",
+                "word": "Koran"
+            },
+            {
+                "id": "52044",
+                "link": "/find?type=1&query=Koranic",
+                "word": "Koranic"
+            },
+            {
+                "id": "52045",
+                "link": "/find?type=1&query=korean",
+                "word": "korean"
+            },
+            {
+                "id": "52046",
+                "link": "/find?type=1&query=korma",
+                "word": "korma"
+            },
+            {
+                "id": "52047",
+                "link": "/find?type=1&query=koruna",
+                "word": "koruna"
+            }
+        ]
+    }
+}

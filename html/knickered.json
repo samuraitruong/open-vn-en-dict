@@ -1,1 +1,37 @@
-{"error": 0, "query": "knickered", "enViData": {"suggests": [{"id": "51919", "link": "/find?type=1&query=knickerbocker", "word": "knickerbocker"}, {"id": "51920", "link": "/find?type=1&query=knickerbockers", "word": "knickerbockers"}, {"id": "51921", "link": "/find?type=1&query=knickers", "word": "knickers"}]}, "mUrl": "/find?type=1&query=knickered", "enEnData": {"suggests": [{"id": "15990", "link": "/find?type=3&query=knickerbockers", "word": "knickerbockers"}, {"id": "15991", "link": "/find?type=3&query=knickers", "word": "knickers"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "15990",
+                "link": "/find?type=3&query=knickerbockers",
+                "word": "knickerbockers"
+            },
+            {
+                "id": "15991",
+                "link": "/find?type=3&query=knickers",
+                "word": "knickers"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "51919",
+                "link": "/find?type=1&query=knickerbocker",
+                "word": "knickerbocker"
+            },
+            {
+                "id": "51920",
+                "link": "/find?type=1&query=knickerbockers",
+                "word": "knickerbockers"
+            },
+            {
+                "id": "51921",
+                "link": "/find?type=1&query=knickers",
+                "word": "knickers"
+            }
+        ]
+    }
+}

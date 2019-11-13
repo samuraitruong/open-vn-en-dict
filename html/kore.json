@@ -1,1 +1,22 @@
-{"error": 0, "query": "kore", "enViData": {"suggests": [{"id": "52045", "link": "/find?type=1&query=korean", "word": "korean"}]}, "mUrl": "/find?type=1&query=kore", "enEnData": {"suggests": [{"id": "16044", "link": "/find?type=3&query=Korean", "word": "Korean"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "16044",
+                "link": "/find?type=3&query=Korean",
+                "word": "Korean"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "52045",
+                "link": "/find?type=1&query=korean",
+                "word": "korean"
+            }
+        ]
+    }
+}
