@@ -1,1 +1,112 @@
-{"error": 0, "query": "punct", "enViData": {"suggests": [{"id": "73074", "link": "/find?type=1&query=puncta", "word": "puncta"}, {"id": "73075", "link": "/find?type=1&query=punctate", "word": "punctate"}, {"id": "73076", "link": "/find?type=1&query=punctation", "word": "punctation"}, {"id": "73077", "link": "/find?type=1&query=punctator", "word": "punctator"}, {"id": "73078", "link": "/find?type=1&query=puncticulate", "word": "puncticulate"}, {"id": "73079", "link": "/find?type=1&query=punctiform", "word": "punctiform"}, {"id": "73080", "link": "/find?type=1&query=punctilio", "word": "punctilio"}, {"id": "73081", "link": "/find?type=1&query=punctilious", "word": "punctilious"}, {"id": "73082", "link": "/find?type=1&query=punctiliously", "word": "punctiliously"}, {"id": "73083", "link": "/find?type=1&query=punctiliousness", "word": "punctiliousness"}]}, "mUrl": "/find?type=1&query=punct", "enEnData": {"suggests": [{"id": "23399", "link": "/find?type=3&query=punctilious", "word": "punctilious"}, {"id": "23400", "link": "/find?type=3&query=punctual", "word": "punctual"}, {"id": "23401", "link": "/find?type=3&query=punctuate", "word": "punctuate"}, {"id": "23402", "link": "/find?type=3&query=punctuation", "word": "punctuation"}, {"id": "23403", "link": "/find?type=3&query=punctuation+mark", "word": "punctuation mark"}, {"id": "23404", "link": "/find?type=3&query=puncture", "word": "puncture"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6071", "link": "/find?type=4&query=punctual", "word": "punctual"}, {"id": "6072", "link": "/find?type=4&query=punctuate", "word": "punctuate"}, {"id": "6073", "link": "/find?type=4&query=puncture", "word": "puncture"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23399",
+                "link": "/find?type=3&query=punctilious",
+                "word": "punctilious"
+            },
+            {
+                "id": "23400",
+                "link": "/find?type=3&query=punctual",
+                "word": "punctual"
+            },
+            {
+                "id": "23401",
+                "link": "/find?type=3&query=punctuate",
+                "word": "punctuate"
+            },
+            {
+                "id": "23402",
+                "link": "/find?type=3&query=punctuation",
+                "word": "punctuation"
+            },
+            {
+                "id": "23403",
+                "link": "/find?type=3&query=punctuation+mark",
+                "word": "punctuation mark"
+            },
+            {
+                "id": "23404",
+                "link": "/find?type=3&query=puncture",
+                "word": "puncture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73074",
+                "link": "/find?type=1&query=puncta",
+                "word": "puncta"
+            },
+            {
+                "id": "73075",
+                "link": "/find?type=1&query=punctate",
+                "word": "punctate"
+            },
+            {
+                "id": "73076",
+                "link": "/find?type=1&query=punctation",
+                "word": "punctation"
+            },
+            {
+                "id": "73077",
+                "link": "/find?type=1&query=punctator",
+                "word": "punctator"
+            },
+            {
+                "id": "73078",
+                "link": "/find?type=1&query=puncticulate",
+                "word": "puncticulate"
+            },
+            {
+                "id": "73079",
+                "link": "/find?type=1&query=punctiform",
+                "word": "punctiform"
+            },
+            {
+                "id": "73080",
+                "link": "/find?type=1&query=punctilio",
+                "word": "punctilio"
+            },
+            {
+                "id": "73081",
+                "link": "/find?type=1&query=punctilious",
+                "word": "punctilious"
+            },
+            {
+                "id": "73082",
+                "link": "/find?type=1&query=punctiliously",
+                "word": "punctiliously"
+            },
+            {
+                "id": "73083",
+                "link": "/find?type=1&query=punctiliousness",
+                "word": "punctiliousness"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6071",
+                "link": "/find?type=4&query=punctual",
+                "word": "punctual"
+            },
+            {
+                "id": "6072",
+                "link": "/find?type=4&query=punctuate",
+                "word": "punctuate"
+            },
+            {
+                "id": "6073",
+                "link": "/find?type=4&query=puncture",
+                "word": "puncture"
+            }
+        ]
+    }
+}

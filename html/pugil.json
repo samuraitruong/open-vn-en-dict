@@ -1,1 +1,47 @@
-{"error": 0, "query": "pugil", "enViData": {"suggests": [{"id": "72930", "link": "/find?type=1&query=pugilism", "word": "pugilism"}, {"id": "72931", "link": "/find?type=1&query=pugilist", "word": "pugilist"}, {"id": "72932", "link": "/find?type=1&query=pugilistic", "word": "pugilistic"}]}, "mUrl": "/find?type=1&query=pugil", "enEnData": {"suggests": [{"id": "23358", "link": "/find?type=3&query=pugilist", "word": "pugilist"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6058", "link": "/find?type=4&query=pugilism", "word": "pugilism"}, {"id": "6059", "link": "/find?type=4&query=pugilist", "word": "pugilist"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23358",
+                "link": "/find?type=3&query=pugilist",
+                "word": "pugilist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "72930",
+                "link": "/find?type=1&query=pugilism",
+                "word": "pugilism"
+            },
+            {
+                "id": "72931",
+                "link": "/find?type=1&query=pugilist",
+                "word": "pugilist"
+            },
+            {
+                "id": "72932",
+                "link": "/find?type=1&query=pugilistic",
+                "word": "pugilistic"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6058",
+                "link": "/find?type=4&query=pugilism",
+                "word": "pugilism"
+            },
+            {
+                "id": "6059",
+                "link": "/find?type=4&query=pugilist",
+                "word": "pugilist"
+            }
+        ]
+    }
+}

@@ -1,1 +1,42 @@
-{"error": 0, "query": "pungs", "enViData": {"suggests": [{"id": "73098", "link": "/find?type=1&query=pungency", "word": "pungency"}, {"id": "73099", "link": "/find?type=1&query=pungent", "word": "pungent"}, {"id": "73100", "link": "/find?type=1&query=pungently", "word": "pungently"}]}, "mUrl": "/find?type=1&query=pungs", "enEnData": {"suggests": [{"id": "23406", "link": "/find?type=3&query=pungent", "word": "pungent"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6074", "link": "/find?type=4&query=pungent", "word": "pungent"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "23406",
+                "link": "/find?type=3&query=pungent",
+                "word": "pungent"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "73098",
+                "link": "/find?type=1&query=pungency",
+                "word": "pungency"
+            },
+            {
+                "id": "73099",
+                "link": "/find?type=1&query=pungent",
+                "word": "pungent"
+            },
+            {
+                "id": "73100",
+                "link": "/find?type=1&query=pungently",
+                "word": "pungently"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6074",
+                "link": "/find?type=4&query=pungent",
+                "word": "pungent"
+            }
+        ]
+    }
+}
