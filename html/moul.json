@@ -1,1 +1,82 @@
-{"error": 0, "query": "moul", "enViData": {"suggests": [{"id": "59018", "link": "/find?type=1&query=mould", "word": "mould"}, {"id": "59019", "link": "/find?type=1&query=moulder", "word": "moulder"}, {"id": "59020", "link": "/find?type=1&query=moulding", "word": "moulding"}, {"id": "59021", "link": "/find?type=1&query=mouldy", "word": "mouldy"}, {"id": "59022", "link": "/find?type=1&query=moulinet", "word": "moulinet"}, {"id": "59023", "link": "/find?type=1&query=moult", "word": "moult"}]}, "mUrl": "/find?type=1&query=moul", "enEnData": {"suggests": [{"id": "18703", "link": "/find?type=3&query=mould", "word": "mould"}, {"id": "18704", "link": "/find?type=3&query=moulder", "word": "moulder"}, {"id": "18705", "link": "/find?type=3&query=moulding", "word": "moulding"}, {"id": "18706", "link": "/find?type=3&query=mouldy", "word": "mouldy"}, {"id": "18707", "link": "/find?type=3&query=moult", "word": "moult"}]}, "ftype": "1", "synData": {"suggests": [{"id": "4711", "link": "/find?type=4&query=mould", "word": "mould"}, {"id": "4712", "link": "/find?type=4&query=mouldy", "word": "mouldy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18703",
+                "link": "/find?type=3&query=mould",
+                "word": "mould"
+            },
+            {
+                "id": "18704",
+                "link": "/find?type=3&query=moulder",
+                "word": "moulder"
+            },
+            {
+                "id": "18705",
+                "link": "/find?type=3&query=moulding",
+                "word": "moulding"
+            },
+            {
+                "id": "18706",
+                "link": "/find?type=3&query=mouldy",
+                "word": "mouldy"
+            },
+            {
+                "id": "18707",
+                "link": "/find?type=3&query=moult",
+                "word": "moult"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59018",
+                "link": "/find?type=1&query=mould",
+                "word": "mould"
+            },
+            {
+                "id": "59019",
+                "link": "/find?type=1&query=moulder",
+                "word": "moulder"
+            },
+            {
+                "id": "59020",
+                "link": "/find?type=1&query=moulding",
+                "word": "moulding"
+            },
+            {
+                "id": "59021",
+                "link": "/find?type=1&query=mouldy",
+                "word": "mouldy"
+            },
+            {
+                "id": "59022",
+                "link": "/find?type=1&query=moulinet",
+                "word": "moulinet"
+            },
+            {
+                "id": "59023",
+                "link": "/find?type=1&query=moult",
+                "word": "moult"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "4711",
+                "link": "/find?type=4&query=mould",
+                "word": "mould"
+            },
+            {
+                "id": "4712",
+                "link": "/find?type=4&query=mouldy",
+                "word": "mouldy"
+            }
+        ]
+    }
+}

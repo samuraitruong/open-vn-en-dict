@@ -1,1 +1,22 @@
-{"error": 0, "query": "mozing", "enViData": {"suggests": [{"id": "59113", "link": "/find?type=1&query=mozzarella", "word": "mozzarella"}]}, "mUrl": "/find?type=1&query=mozing", "enEnData": {"suggests": [{"id": "18759", "link": "/find?type=3&query=mozzarella", "word": "mozzarella"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18759",
+                "link": "/find?type=3&query=mozzarella",
+                "word": "mozzarella"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59113",
+                "link": "/find?type=1&query=mozzarella",
+                "word": "mozzarella"
+            }
+        ]
+    }
+}

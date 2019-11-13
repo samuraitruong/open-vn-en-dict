@@ -1,1 +1,27 @@
-{"error": 0, "query": "mouthe", "enViData": {"suggests": [{"id": "59077", "link": "/find?type=1&query=mouthed", "word": "mouthed"}, {"id": "59078", "link": "/find?type=1&query=mouther", "word": "mouther"}]}, "mUrl": "/find?type=1&query=mouthe", "enEnData": {"suggests": [{"id": "18739", "link": "/find?type=3&query=-mouthed", "word": "-mouthed"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "18739",
+                "link": "/find?type=3&query=-mouthed",
+                "word": "-mouthed"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "59077",
+                "link": "/find?type=1&query=mouthed",
+                "word": "mouthed"
+            },
+            {
+                "id": "59078",
+                "link": "/find?type=1&query=mouther",
+                "word": "mouther"
+            }
+        ]
+    }
+}

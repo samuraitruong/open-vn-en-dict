@@ -1,1 +1,49 @@
-{"error": 0, "query": "motes", "enViData": {"suggests": [{"id": "58929", "link": "/find?type=1&query=motel", "word": "motel"}, {"id": "58929", "link": "/find?type=1&query=motet", "word": "motet"}, {"id": "58929", "link": "/find?type=1&query=motey", "word": "motey"}], "best": {"id": "58929", "details": "\n<div id=\"find_word_58929\" class=\"world word_en\" rel=\"mote\">\n    <h2 class=\"fl\">mote <span class=\"color-black\">/m\u0259\u028at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"58929\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"58929\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ee5i, h\u1ea1t b\u1ee5i</div>\n    \n    <div class=\"bold dot-blue m-top15\">the mote in somebody's eye</div>\n    \n    <div class=\"grey margin25 m-top15\">l\u1ed7i l\u1ea7m nh\u1ecf c\u1ee7a ai so v\u1edbi l\u1ed7i l\u1ea7m l\u1edbn c\u1ee7a m\u00ecnh</div>\n    \n</div>\n", "link": "/find?type=1&query=mote", "word": "mote"}}, "mUrl": "/find?type=1&query=motes", "enEnData": {"suggests": [{"id": "18648", "link": "/find?type=3&query=motel", "word": "motel"}], "best": {"id": "18648", "details": "\n<div id=\"find_word_18648\" class=\"world word_en\" rel=\"mote\">\n    <h2 class=\"fl\">mote <span class=\"color-black\">/\u02c8mo\u028at/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"18648\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"18648\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural motes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned :a very small piece of dust, dirt, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a mote [=speck] of dust</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dust motes</div>\n    \n</div>\n", "link": "/find?type=3&query=mote", "word": "mote"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural motes</div>\n    \n    <div class=\"green margin25 m-top15\">[count] old-fashioned :a very small piece of dust, dirt, etc.</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a mote [=speck] of dust</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">dust motes</div>",
+            "id": "18648",
+            "mean": [],
+            "pronounce": "/\u02c8mo\u028at/",
+            "type": "noun",
+            "word": "mote"
+        },
+        "suggests": [
+            {
+                "id": "18648",
+                "link": "/find?type=3&query=motel",
+                "word": "motel"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ee5i, h\u1ea1t b\u1ee5i</div>\n    \n    <div class=\"bold dot-blue m-top15\">the mote in somebody's eye</div>\n    \n    <div class=\"grey margin25 m-top15\">l\u1ed7i l\u1ea7m nh\u1ecf c\u1ee7a ai so v\u1edbi l\u1ed7i l\u1ea7m l\u1edbn c\u1ee7a m\u00ecnh</div>",
+            "id": "58929",
+            "mean": [],
+            "pronounce": "/m\u0259\u028at/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/93df9516c2b30a9e9c194b2260657941/16e62a5191d/M/mote.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "mote"
+        },
+        "suggests": [
+            {
+                "id": "58929",
+                "link": "/find?type=1&query=motel",
+                "word": "motel"
+            },
+            {
+                "id": "58929",
+                "link": "/find?type=1&query=motet",
+                "word": "motet"
+            },
+            {
+                "id": "58929",
+                "link": "/find?type=1&query=motey",
+                "word": "motey"
+            }
+        ]
+    }
+}
