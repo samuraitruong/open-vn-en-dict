@@ -1,0 +1,38 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">South Dakota</div>",
+            "id": "26001",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "SD"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "80426",
+                "link": "/find?type=1&query=sdi",
+                "word": "sdi"
+            },
+            {
+                "id": "80427",
+                "link": "/find?type=1&query=SDLP",
+                "word": "SDLP"
+            },
+            {
+                "id": "80428",
+                "link": "/find?type=1&query=SDP",
+                "word": "SDP"
+            },
+            {
+                "id": "80429",
+                "link": "/find?type=1&query=SDR",
+                "word": "SDR"
+            }
+        ]
+    }
+}

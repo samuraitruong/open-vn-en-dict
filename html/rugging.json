@@ -1,1 +1,52 @@
-{"error": 0, "query": "rugging", "enViData": {"suggests": [{"id": "78373", "link": "/find?type=1&query=rugged", "word": "rugged"}, {"id": "78374", "link": "/find?type=1&query=ruggedly", "word": "ruggedly"}, {"id": "78375", "link": "/find?type=1&query=ruggedness", "word": "ruggedness"}, {"id": "78376", "link": "/find?type=1&query=rugger", "word": "rugger"}]}, "mUrl": "/find?type=1&query=rugging", "enEnData": {"suggests": [{"id": "25326", "link": "/find?type=3&query=rugged", "word": "rugged"}, {"id": "25327", "link": "/find?type=3&query=rugger", "word": "rugger"}]}, "ftype": "1", "synData": {"suggests": [{"id": "6730", "link": "/find?type=4&query=rugged", "word": "rugged"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "25326",
+                "link": "/find?type=3&query=rugged",
+                "word": "rugged"
+            },
+            {
+                "id": "25327",
+                "link": "/find?type=3&query=rugger",
+                "word": "rugger"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "78373",
+                "link": "/find?type=1&query=rugged",
+                "word": "rugged"
+            },
+            {
+                "id": "78374",
+                "link": "/find?type=1&query=ruggedly",
+                "word": "ruggedly"
+            },
+            {
+                "id": "78375",
+                "link": "/find?type=1&query=ruggedness",
+                "word": "ruggedness"
+            },
+            {
+                "id": "78376",
+                "link": "/find?type=1&query=rugger",
+                "word": "rugger"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "6730",
+                "link": "/find?type=4&query=rugged",
+                "word": "rugged"
+            }
+        ]
+    }
+}

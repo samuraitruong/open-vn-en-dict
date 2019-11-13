@@ -1,0 +1,35 @@
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "26358",
+                "link": "/find?type=3&query=senescence",
+                "word": "senescence"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">tr\u1edf n\u00ean gi\u00e0</div>",
+            "id": "81550",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "senesce"
+        },
+        "suggests": [
+            {
+                "id": "81550",
+                "link": "/find?type=1&query=senescence",
+                "word": "senescence"
+            },
+            {
+                "id": "81550",
+                "link": "/find?type=1&query=senescent",
+                "word": "senescent"
+            }
+        ]
+    }
+}

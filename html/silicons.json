@@ -1,0 +1,45 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] :a chemical element that is found in the Earth's crust and is used especially in computers and electronics</div>",
+            "id": "27017",
+            "mean": [],
+            "pronounce": "/\u02c8s\u026al\u026ak\u0259n/",
+            "type": "noun",
+            "word": "silicon"
+        },
+        "suggests": [
+            {
+                "id": "27017",
+                "link": "/find?type=3&query=silicone",
+                "word": "silicone"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">silic</div>",
+            "id": "83232",
+            "mean": [],
+            "pronounce": "/'silik\u0259n/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/d39221f399eaff942565f4a061159943/16e63c0a59c/S/silicon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/011895cf27ef65518657b4d1b5e017d3/16e63c09d59/S/silicon.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "silicon"
+        },
+        "suggests": [
+            {
+                "id": "83232",
+                "link": "/find?type=1&query=silicon+chip",
+                "word": "silicon chip"
+            },
+            {
+                "id": "83232",
+                "link": "/find?type=1&query=silicone",
+                "word": "silicone"
+            }
+        ]
+    }
+}
