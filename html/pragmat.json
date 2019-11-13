@@ -1,1 +1,67 @@
-{"error": 0, "query": "pragmat", "enViData": {"suggests": [{"id": "70302", "link": "/find?type=1&query=pragmatic", "word": "pragmatic"}, {"id": "70303", "link": "/find?type=1&query=pragmatical", "word": "pragmatical"}, {"id": "70304", "link": "/find?type=1&query=pragmatically", "word": "pragmatically"}, {"id": "70305", "link": "/find?type=1&query=pragmatise", "word": "pragmatise"}, {"id": "70306", "link": "/find?type=1&query=pragmatism", "word": "pragmatism"}, {"id": "70307", "link": "/find?type=1&query=pragmatist", "word": "pragmatist"}, {"id": "70308", "link": "/find?type=1&query=pragmatistic", "word": "pragmatistic"}, {"id": "70309", "link": "/find?type=1&query=pragmatize", "word": "pragmatize"}]}, "mUrl": "/find?type=1&query=pragmat", "enEnData": {"suggests": [{"id": "22614", "link": "/find?type=3&query=pragmatic", "word": "pragmatic"}, {"id": "22615", "link": "/find?type=3&query=pragmatics", "word": "pragmatics"}, {"id": "22616", "link": "/find?type=3&query=pragmatism", "word": "pragmatism"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22614",
+                "link": "/find?type=3&query=pragmatic",
+                "word": "pragmatic"
+            },
+            {
+                "id": "22615",
+                "link": "/find?type=3&query=pragmatics",
+                "word": "pragmatics"
+            },
+            {
+                "id": "22616",
+                "link": "/find?type=3&query=pragmatism",
+                "word": "pragmatism"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70302",
+                "link": "/find?type=1&query=pragmatic",
+                "word": "pragmatic"
+            },
+            {
+                "id": "70303",
+                "link": "/find?type=1&query=pragmatical",
+                "word": "pragmatical"
+            },
+            {
+                "id": "70304",
+                "link": "/find?type=1&query=pragmatically",
+                "word": "pragmatically"
+            },
+            {
+                "id": "70305",
+                "link": "/find?type=1&query=pragmatise",
+                "word": "pragmatise"
+            },
+            {
+                "id": "70306",
+                "link": "/find?type=1&query=pragmatism",
+                "word": "pragmatism"
+            },
+            {
+                "id": "70307",
+                "link": "/find?type=1&query=pragmatist",
+                "word": "pragmatist"
+            },
+            {
+                "id": "70308",
+                "link": "/find?type=1&query=pragmatistic",
+                "word": "pragmatistic"
+            },
+            {
+                "id": "70309",
+                "link": "/find?type=1&query=pragmatize",
+                "word": "pragmatize"
+            }
+        ]
+    }
+}

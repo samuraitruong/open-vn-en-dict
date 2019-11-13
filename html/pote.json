@@ -1,1 +1,107 @@
-{"error": 0, "query": "pote", "enViData": {"suggests": [{"id": "70127", "link": "/find?type=1&query=poteen", "word": "poteen"}, {"id": "70128", "link": "/find?type=1&query=potency", "word": "potency"}, {"id": "70129", "link": "/find?type=1&query=potent", "word": "potent"}, {"id": "70130", "link": "/find?type=1&query=potentate", "word": "potentate"}, {"id": "70131", "link": "/find?type=1&query=potential", "word": "potential"}, {"id": "70132", "link": "/find?type=1&query=Potential+entry", "word": "Potential entry"}, {"id": "70133", "link": "/find?type=1&query=Potential+national+income", "word": "Potential national income"}, {"id": "70134", "link": "/find?type=1&query=Potential+output", "word": "Potential output"}, {"id": "70135", "link": "/find?type=1&query=Potential+Pareto+improvement", "word": "Potential Pareto improvement"}, {"id": "70136", "link": "/find?type=1&query=potentialise", "word": "potentialise"}]}, "mUrl": "/find?type=1&query=pote", "enEnData": {"suggests": [{"id": "22521", "link": "/find?type=3&query=potency", "word": "potency"}, {"id": "22522", "link": "/find?type=3&query=potent", "word": "potent"}, {"id": "22523", "link": "/find?type=3&query=potentate", "word": "potentate"}, {"id": "22524", "link": "/find?type=3&query=potential", "word": "potential"}, {"id": "22525", "link": "/find?type=3&query=potential+energy", "word": "potential energy"}, {"id": "22526", "link": "/find?type=3&query=potentiality", "word": "potentiality"}]}, "ftype": "1", "synData": {"suggests": [{"id": "5704", "link": "/find?type=4&query=potent", "word": "potent"}, {"id": "5705", "link": "/find?type=4&query=potential", "word": "potential"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22521",
+                "link": "/find?type=3&query=potency",
+                "word": "potency"
+            },
+            {
+                "id": "22522",
+                "link": "/find?type=3&query=potent",
+                "word": "potent"
+            },
+            {
+                "id": "22523",
+                "link": "/find?type=3&query=potentate",
+                "word": "potentate"
+            },
+            {
+                "id": "22524",
+                "link": "/find?type=3&query=potential",
+                "word": "potential"
+            },
+            {
+                "id": "22525",
+                "link": "/find?type=3&query=potential+energy",
+                "word": "potential energy"
+            },
+            {
+                "id": "22526",
+                "link": "/find?type=3&query=potentiality",
+                "word": "potentiality"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "70127",
+                "link": "/find?type=1&query=poteen",
+                "word": "poteen"
+            },
+            {
+                "id": "70128",
+                "link": "/find?type=1&query=potency",
+                "word": "potency"
+            },
+            {
+                "id": "70129",
+                "link": "/find?type=1&query=potent",
+                "word": "potent"
+            },
+            {
+                "id": "70130",
+                "link": "/find?type=1&query=potentate",
+                "word": "potentate"
+            },
+            {
+                "id": "70131",
+                "link": "/find?type=1&query=potential",
+                "word": "potential"
+            },
+            {
+                "id": "70132",
+                "link": "/find?type=1&query=Potential+entry",
+                "word": "Potential entry"
+            },
+            {
+                "id": "70133",
+                "link": "/find?type=1&query=Potential+national+income",
+                "word": "Potential national income"
+            },
+            {
+                "id": "70134",
+                "link": "/find?type=1&query=Potential+output",
+                "word": "Potential output"
+            },
+            {
+                "id": "70135",
+                "link": "/find?type=1&query=Potential+Pareto+improvement",
+                "word": "Potential Pareto improvement"
+            },
+            {
+                "id": "70136",
+                "link": "/find?type=1&query=potentialise",
+                "word": "potentialise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "5704",
+                "link": "/find?type=4&query=potent",
+                "word": "potent"
+            },
+            {
+                "id": "5705",
+                "link": "/find?type=4&query=potential",
+                "word": "potential"
+            }
+        ]
+    }
+}
