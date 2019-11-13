@@ -1,1 +1,37 @@
-{"error": 0, "query": "polt", "enViData": {"suggests": [{"id": "69398", "link": "/find?type=1&query=polt-foot", "word": "polt-foot"}, {"id": "69399", "link": "/find?type=1&query=poltergeist", "word": "poltergeist"}, {"id": "69400", "link": "/find?type=1&query=poltroon", "word": "poltroon"}, {"id": "69401", "link": "/find?type=1&query=poltroonery", "word": "poltroonery"}]}, "mUrl": "/find?type=1&query=polt", "enEnData": {"suggests": [{"id": "22289", "link": "/find?type=3&query=poltergeist", "word": "poltergeist"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22289",
+                "link": "/find?type=3&query=poltergeist",
+                "word": "poltergeist"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69398",
+                "link": "/find?type=1&query=polt-foot",
+                "word": "polt-foot"
+            },
+            {
+                "id": "69399",
+                "link": "/find?type=1&query=poltergeist",
+                "word": "poltergeist"
+            },
+            {
+                "id": "69400",
+                "link": "/find?type=1&query=poltroon",
+                "word": "poltroon"
+            },
+            {
+                "id": "69401",
+                "link": "/find?type=1&query=poltroonery",
+                "word": "poltroonery"
+            }
+        ]
+    }
+}

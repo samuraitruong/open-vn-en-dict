@@ -1,1 +1,22 @@
-{"error": 0, "query": "polyurethan", "enViData": {"suggests": [{"id": "69634", "link": "/find?type=1&query=polyurethane", "word": "polyurethane"}]}, "mUrl": "/find?type=1&query=polyurethan", "enEnData": {"suggests": [{"id": "22306", "link": "/find?type=3&query=polyurethane", "word": "polyurethane"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22306",
+                "link": "/find?type=3&query=polyurethane",
+                "word": "polyurethane"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69634",
+                "link": "/find?type=1&query=polyurethane",
+                "word": "polyurethane"
+            }
+        ]
+    }
+}

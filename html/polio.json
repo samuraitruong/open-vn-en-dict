@@ -1,1 +1,50 @@
-{"error": 0, "query": "polio", "enViData": {"suggests": [{"id": "69284", "link": "/find?type=1&query=poliomyelitic", "word": "poliomyelitic"}, {"id": "69284", "link": "/find?type=1&query=poliomyelitis", "word": "poliomyelitis"}, {"id": "69284", "link": "/find?type=1&query=poliovirus", "word": "poliovirus"}], "best": {"id": "69284", "details": "\n<div id=\"find_word_69284\" class=\"world word_en\" rel=\"polio\">\n    <h2 class=\"fl\">polio <span class=\"color-black\">/'p\u0259\u028ali\u0259\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69284\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69284\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a poliomyelitis) (y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u00eam t\u1ee7y x\u00e1m</div>\n    \n</div>\n", "link": "/find?type=1&query=polio", "word": "polio"}}, "mUrl": "/find?type=1&query=polio", "enEnData": {"suggests": [{"id": "22250", "link": "/find?type=3&query=poliomyelitis", "word": "poliomyelitis"}], "best": {"id": "22250", "details": "\n<div id=\"find_word_22250\" class=\"world word_en\" rel=\"polio\">\n    <h2 class=\"fl\">polio <span class=\"color-black\">/\u02c8po\u028alijo\u028a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22250\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22250\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a serious disease that affects the nerves of the spine and often makes a person permanently unable to move particular muscles - called also infantile paralysis, poliomyelitis</div>\n    \n</div>\n", "link": "/find?type=3&query=polio", "word": "polio"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"green margin25 m-top15\">[noncount] medical :a serious disease that affects the nerves of the spine and often makes a person permanently unable to move particular muscles - called also infantile paralysis, poliomyelitis</div>",
+            "id": "22250",
+            "mean": [],
+            "pronounce": "/\u02c8po\u028alijo\u028a/",
+            "type": "noun",
+            "word": "polio"
+        },
+        "suggests": [
+            {
+                "id": "22250",
+                "link": "/find?type=3&query=poliomyelitis",
+                "word": "poliomyelitis"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a poliomyelitis) (y h\u1ecdc)</div>\n    \n    <div class=\"green margin25 m-top15\">vi\u00eam t\u1ee7y x\u00e1m</div>",
+            "id": "69284",
+            "mean": [],
+            "pronounce": "/'p\u0259\u028ali\u0259\u028a/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/5c4d69889c201af3f47663f6429de089/16e62cd10a3/P/polio.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/578463f217a1afe19edd36866314a1ba/16e62cd0ad1/P/polio.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "polio"
+        },
+        "suggests": [
+            {
+                "id": "69284",
+                "link": "/find?type=1&query=poliomyelitic",
+                "word": "poliomyelitic"
+            },
+            {
+                "id": "69284",
+                "link": "/find?type=1&query=poliomyelitis",
+                "word": "poliomyelitis"
+            },
+            {
+                "id": "69284",
+                "link": "/find?type=1&query=poliovirus",
+                "word": "poliovirus"
+            }
+        ]
+    }
+}

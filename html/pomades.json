@@ -1,1 +1,34 @@
-{"error": 0, "query": "pomades", "enViData": {"suggests": [{"id": "69645", "link": "/find?type=1&query=pomader", "word": "pomader"}], "best": {"id": "69645", "details": "\n<div id=\"find_word_69645\" class=\"world word_en\" rel=\"pomade\">\n    <h2 class=\"fl\">pomade <span class=\"color-black\">/p\u0259'm\u0251:d/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69645\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69645\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e1p th\u01a1m b\u00f4i t\u00f3c</div>\n    \n    <div class=\"green margin25 m-top15\">Pomat</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00f4i s\u00e1p th\u01a1m b\u00f4i t\u00f3c</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00f4i pomat</div>\n    \n</div>\n", "link": "/find?type=1&query=pomade", "word": "pomade"}}, "mUrl": "/find?type=1&query=pomades", "enEnData": {"suggests": [], "best": {"id": "22308", "details": "\n<div id=\"find_word_22308\" class=\"world word_en\" rel=\"pomade\">\n    <h2 class=\"fl\">pomade <span class=\"color-black\">/po\u028a\u02c8me\u026ad/</span>&nbsp;&nbsp;<span class=\"color-orange\">/Brit p\u0259\u02c8m\u0251\u02d0d/</span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22308\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22308\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mades</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a thick substance that is used to style hair</div>\n    \n</div>\n", "link": "/find?type=3&query=pomade", "word": "pomade"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mades</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a thick substance that is used to style hair</div>",
+            "id": "22308",
+            "mean": [],
+            "pronounce": "/po\u028a\u02c8me\u026ad/",
+            "type": "noun",
+            "word": "pomade"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">s\u00e1p th\u01a1m b\u00f4i t\u00f3c</div>\n    \n    <div class=\"green margin25 m-top15\">Pomat</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00f4i s\u00e1p th\u01a1m b\u00f4i t\u00f3c</div>\n    \n    <div class=\"green margin25 m-top15\">b\u00f4i pomat</div>",
+            "id": "69645",
+            "mean": [],
+            "pronounce": "/p\u0259'm\u0251:d/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/96e67ccb798b9b40af33b40155f20a17/16e62cdaedb/P/pomade.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/f2535cb77acf67c508a71fe77c89fd30/16e62cda8f3/P/pomade.mp3"
+            },
+            "type": "Danh t\u1eeb Ngo\u1ea1i \u0111\u1ed9ng t\u1eeb",
+            "word": "pomade"
+        },
+        "suggests": [
+            {
+                "id": "69645",
+                "link": "/find?type=1&query=pomader",
+                "word": "pomader"
+            }
+        ]
+    }
+}

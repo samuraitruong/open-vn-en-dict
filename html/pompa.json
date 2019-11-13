@@ -1,1 +1,32 @@
-{"error": 0, "query": "pompa", "enViData": {"suggests": [{"id": "69665", "link": "/find?type=1&query=pompability", "word": "pompability"}, {"id": "69666", "link": "/find?type=1&query=pompadour", "word": "pompadour"}, {"id": "69667", "link": "/find?type=1&query=pompano", "word": "pompano"}]}, "mUrl": "/find?type=1&query=pompa", "enEnData": {"suggests": [{"id": "22313", "link": "/find?type=3&query=pompadour", "word": "pompadour"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22313",
+                "link": "/find?type=3&query=pompadour",
+                "word": "pompadour"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "69665",
+                "link": "/find?type=1&query=pompability",
+                "word": "pompability"
+            },
+            {
+                "id": "69666",
+                "link": "/find?type=1&query=pompadour",
+                "word": "pompadour"
+            },
+            {
+                "id": "69667",
+                "link": "/find?type=1&query=pompano",
+                "word": "pompano"
+            }
+        ]
+    }
+}

@@ -1,1 +1,40 @@
-{"error": 0, "query": "pomes", "enViData": {"suggests": [{"id": "69649", "link": "/find?type=1&query=pomegranate", "word": "pomegranate"}, {"id": "69649", "link": "/find?type=1&query=pomelo", "word": "pomelo"}, {"id": "69649", "link": "/find?type=1&query=Pomeranian", "word": "Pomeranian"}], "best": {"id": "69649", "details": "\n<div id=\"find_word_69649\" class=\"world word_en\" rel=\"pome\">\n    <h2 class=\"fl\">pome <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69649\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69649\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea1ng qu\u1ea3 t\u00e1o (n\u1ea1c, c\u00f3 nhi\u1ec1u h\u1ea1t)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00f2n b\u1eb1ng kim lo\u1ea1i</div>\n    \n</div>\n", "link": "/find?type=1&query=pome", "word": "pome"}}, "mUrl": "/find?type=1&query=pomes", "enEnData": {"suggests": [{"id": "22309", "link": "/find?type=3&query=pomegranate", "word": "pomegranate"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "22309",
+                "link": "/find?type=3&query=pomegranate",
+                "word": "pomegranate"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">d\u1ea1ng qu\u1ea3 t\u00e1o (n\u1ea1c, c\u00f3 nhi\u1ec1u h\u1ea1t)</div>\n    \n    <div class=\"green margin25 m-top15\">h\u00f2n b\u1eb1ng kim lo\u1ea1i</div>",
+            "id": "69649",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "pome"
+        },
+        "suggests": [
+            {
+                "id": "69649",
+                "link": "/find?type=1&query=pomegranate",
+                "word": "pomegranate"
+            },
+            {
+                "id": "69649",
+                "link": "/find?type=1&query=pomelo",
+                "word": "pomelo"
+            },
+            {
+                "id": "69649",
+                "link": "/find?type=1&query=Pomeranian",
+                "word": "Pomeranian"
+            }
+        ]
+    }
+}

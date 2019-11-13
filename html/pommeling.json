@@ -1,1 +1,34 @@
-{"error": 0, "query": "pommeling", "enViData": {"suggests": [], "best": {"id": "69657", "details": "\n<div id=\"find_word_69657\" class=\"world word_en\" rel=\"pommel\">\n    <h2 class=\"fl\">pommel <span class=\"color-black\">/'p\u0252ml/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"69657\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"69657\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nu\u1ed1m [h\u00ecnh] qu\u1ea3 t\u00e1o (\u1edf \u0111\u1ea7u y\u00ean ng\u1ef1a, \u1edf chu\u00f4i g\u01b0\u01a1m)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-ll; M\u1ef9 -l-)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 pummel</div>\n    \n</div>\n", "link": "/find?type=1&query=pommel", "word": "pommel"}}, "mUrl": "/find?type=1&query=pommeling", "enEnData": {"suggests": [{"id": "22310", "link": "/find?type=3&query=pommel+horse", "word": "pommel horse"}], "best": {"id": "22310", "details": "\n<div id=\"find_word_22310\" class=\"world word_en\" rel=\"pommel\">\n    <h2 class=\"fl\">pommel <span class=\"color-black\">/\u02c8p\u028cm\u0259l/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"22310\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"22310\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a high, round part on the front of a saddle</div>\n    \n</div>\n", "link": "/find?type=3&query=pommel", "word": "pommel"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -mels</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a high, round part on the front of a saddle</div>",
+            "id": "22310",
+            "mean": [],
+            "pronounce": "/\u02c8p\u028cm\u0259l/",
+            "type": "noun",
+            "word": "pommel"
+        },
+        "suggests": [
+            {
+                "id": "22310",
+                "link": "/find?type=3&query=pommel+horse",
+                "word": "pommel horse"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nu\u1ed1m [h\u00ecnh] qu\u1ea3 t\u00e1o (\u1edf \u0111\u1ea7u y\u00ean ng\u1ef1a, \u1edf chu\u00f4i g\u01b0\u01a1m)</div>\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-ll; M\u1ef9 -l-)</div>\n    \n    <div class=\"green margin25 m-top15\">nh\u01b0 pummel</div>",
+            "id": "69657",
+            "mean": [],
+            "pronounce": "/'p\u0252ml/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/fc9700f46252152dd8e9a6ac37ad4534/16e62cdbe9f/P/pommel.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/e96b42110525b6959db1225d3db99890/16e62cdb8a4/P/pommel.mp3"
+            },
+            "type": "Danh t\u1eeb \u0110\u1ed9ng t\u1eeb",
+            "word": "pommel"
+        },
+        "suggests": []
+    }
+}
