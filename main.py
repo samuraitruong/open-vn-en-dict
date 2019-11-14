@@ -7,6 +7,8 @@ import os.path
 import pprint
 import sys
 import argparse
+import store
+
 
 parser = argparse.ArgumentParser(description='Input argruments.')
 parser.add_argument('--debug', dest='debug',
@@ -132,7 +134,9 @@ def getWord(word):
 
 
 if args.debug:
+    debug = getWordFromLaban(args.debug)
     pprint.pprint(getWordFromLaban(args.debug))
+    store.writeJson(debug, args.debug, True)
     exit()
 
 

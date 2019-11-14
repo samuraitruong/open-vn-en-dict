@@ -26,3 +26,8 @@ To avoid slow git commit because huge number of file run below command during sc
 
 ```sh
 watch  -n 30 "git add --all; git commit  -m \"Update Json\"; git push"
+
+
+## Source
+- https://dictionary.cambridge.org/vi/dictionary/english-vietnamese/in-bulk
+- http://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/A-V/malchus.html
