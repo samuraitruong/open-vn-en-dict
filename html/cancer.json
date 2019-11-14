@@ -12,22 +12,25 @@
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ung th\u01b0, b\u1ec7nh ung th\u01b0</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">lung cancer</div>\n    \n    <div class=\"margin25\">ung th\u01b0 ph\u1ed5i</div>\n    \n    <div class=\"green margin25 m-top15\">(ngh\u0129a b\u00f3ng) ung nh\u1ecdt</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">violence is a cancer in our society</div>\n    \n    <div class=\"margin25\">(ngh\u0129a b\u00f3ng) b\u1ea1o l\u1ef1c l\u00e0 m\u1ed9t th\u1ee9 ung nh\u1ecdt trong x\u00e3 h\u1ed9i ch\u00fang ta</div>",
-            "id": "12711",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">cung B\u1eafc gi\u1ea3i (cung th\u1ee9 t\u01b0 trong 12 cung ho\u00e0ng \u0111\u1ea1o)</div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi c\u1ea7m tinh cung B\u1eafc gi\u1ea3i</div>",
+            "id": "12710",
             "mean": [],
             "pronounce": "/'k\u00e6ns\u0259[r]/",
-            "speak": {},
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/e7ea05115c4d13bf8b22003f3fe629ed/16e67c6a68d/C/Cancer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/ec083d81bc3d86e2f4960f9f3f5c3561/16e67c6a0bd/C/Cancer.mp3"
+            },
             "type": "Danh t\u1eeb",
-            "word": "cancer"
+            "word": "Cancer"
         },
         "suggests": [
             {
-                "id": "12711",
-                "link": "/find?type=1&query=Cancer",
-                "word": "Cancer"
+                "id": "12710",
+                "link": "/find?type=1&query=cancer",
+                "word": "cancer"
             },
             {
-                "id": "12711",
+                "id": "12710",
                 "link": "/find?type=1&query=cancerous",
                 "word": "cancerous"
             }
