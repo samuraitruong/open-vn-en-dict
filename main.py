@@ -6,6 +6,18 @@ import concurrent.futures
 import os.path
 import pprint
 import sys
+import argparse
+
+parser = argparse.ArgumentParser(description='Input argruments.')
+parser.add_argument('--debug', dest='debug',
+                    help='debug 1 single word ex:  Chicken')
+parser.add_argument('--log-file', dest='logFile', default="logs.json",
+                    help='The logs file  to keep track proceeded words')
+
+parser.add_argument('--input-file', dest='inputFile', default="words.json",
+                    help='List of words to process, defautl will fetch from github')
+
+args = parser.parse_args()
 
 
 def getWordList():
@@ -19,14 +31,19 @@ def getWordList():
 
 def downloadVoice(json, type):
     word = json["word"]
+
+    filename = 'voice/' + word.lower() + "_" + type + ".mp3"
     response = requests.get(
         "https://dict.laban.vn/ajax/getsound?accent="+type+"&word=" + word)
     rawJson = response.json()
     if response.status_code == 200 and rawJson["error"] == 0 and rawJson["data"] != "":
-        response = requests.get(rawJson["data"])
         json["speak"][type] = rawJson["data"]
+        if os.path.isfile(filename):
+            return None
+
+        response = requests.get(rawJson["data"])
         if response.status_code == 200:
-            with open('voice/' + word + "_" + type + ".mp3", 'wb') as f:
+            with open(filename, 'wb') as f:
                 f.write(response.content)
 
 
@@ -114,16 +131,23 @@ def getWord(word):
     return html("#column-content").html()
 
 
+if args.debug:
+    pprint.pprint(getWordFromLaban(args.debug))
+    exit()
+
+
 logs = {}
-with open('logs.json') as json_file:
+
+with open(args.logFile, "r+") as json_file:
     logs = json.load(json_file)
     print("Proceeded : %d" % (len(logs)))
 
-if len(sys.argv) > 1:
-    pprint.pprint(getWordFromLaban(sys.argv[1]))
-    exit()
 print("Retrive list of all english words")
-words = getWordList()
+if(os.path.isfile(args.inputFile)):
+    with open(args.inputFile, "r") as inputFile:
+        words = json.load(inputFile)
+else:
+    words = getWordList()
 print("Total english words %d" % (len(words)))
 # for key in words:
 #     if key < "hype":
@@ -132,7 +156,6 @@ print("Total english words %d" % (len(words)))
 #     outfile.seek(0)
 #     outfile.truncate()
 #     json.dump(logs, outfile, indent=4, sort_keys=True)
-#  exit()
 delta = 0
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
@@ -140,11 +163,11 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
-            fileName = "html/" + url+".json"
+            fileName = "html/" + url.lower()+".json"
             html = future.result()
             if html != None:
 
-                with open(fileName, 'w+') as outfile:
+                with open(fileName.lower(), 'w+') as outfile:
                     outfile.seek(0)
                     outfile.truncate()
                     json.dump(html, outfile, indent=4, sort_keys=True)
@@ -153,7 +176,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
                 if delta > 1000:
                     delta = 0
                     print("Update logs files")
-                    with open("logs.json", 'w+') as logFile:
+                    with open(args.logFile, 'w+') as logFile:
                         logFile.seek(0)
                         logFile.truncate()
                         json.dump(logs, logFile, indent=4, sort_keys=True)
