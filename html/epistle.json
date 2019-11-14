@@ -12,22 +12,25 @@
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u1ee9c th\u01b0</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">her mother sends her a long epistle every week</div>\n    \n    <div class=\"margin25\">m\u1eb9 c\u00f4 h\u1eb1ng tu\u1ea7n vi\u1ebft cho c\u00f4 m\u1ed9t b\u1ee9c th\u01b0 d\u00e0i</div>",
-            "id": "31414",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(th\u01b0\u1eddng s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"green margin25 m-top15\">th\u01b0 c\u1ee7a T\u00f4ng \u0111\u1ed3 (trong kinh T\u00e2n \u01b0\u1edbc)</div>",
+            "id": "31413",
             "mean": [],
             "pronounce": "/i'pisl/",
-            "speak": {},
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/10eca7b23f29fd44000abf04c56bd6de/16e67b696af/E/Epistle.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/1618e36b23c6f4e8cc7388564799f9a8/16e67b690c8/E/Epistle.mp3"
+            },
             "type": "Danh t\u1eeb",
-            "word": "epistle"
+            "word": "Epistle"
         },
         "suggests": [
             {
-                "id": "31414",
-                "link": "/find?type=1&query=Epistle",
-                "word": "Epistle"
+                "id": "31413",
+                "link": "/find?type=1&query=epistle",
+                "word": "epistle"
             },
             {
-                "id": "31414",
+                "id": "31413",
                 "link": "/find?type=1&query=epistler",
                 "word": "epistler"
             }

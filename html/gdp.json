@@ -1,0 +1,49 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">gross domestic product</div>",
+            "id": "11899",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "GDP"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"\">vi\u1ebft t\u1eaft c\u1ee7a Gross Domestic Product</div>\n    \n    <div class=\"green margin25 m-top15\">t\u1ed5ng s\u1ea3n ph\u1ea9m n\u1ed9i \u0111\u1ecba</div>",
+            "id": "39360",
+            "mean": [],
+            "pronounce": "/d\u0292i: di: 'pi:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7a63727b41a348d97e4318725f3ed279/16e67b6cc24/G/GDP.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/4936009625ab2278109a2c0759950788/16e67b6c634/G/GDP.mp3"
+            },
+            "type": "",
+            "word": "GDP"
+        },
+        "suggests": [
+            {
+                "id": "39360",
+                "link": "/find?type=1&query=GDP+and+nation+income",
+                "word": "GDP and nation income"
+            },
+            {
+                "id": "39360",
+                "link": "/find?type=1&query=GDP+at+factor+cost",
+                "word": "GDP at factor cost"
+            },
+            {
+                "id": "39360",
+                "link": "/find?type=1&query=GDP+at+market+prices",
+                "word": "GDP at market prices"
+            },
+            {
+                "id": "39360",
+                "link": "/find?type=1&query=GDP+deflator",
+                "word": "GDP deflator"
+            }
+        ]
+    }
+}
