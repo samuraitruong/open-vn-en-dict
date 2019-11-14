@@ -1,0 +1,38 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">Tuesday</div>",
+            "id": "31390",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "Tu."
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "95190",
+                "link": "/find?type=1&query=tu+quoque",
+                "word": "tu quoque"
+            },
+            {
+                "id": "95191",
+                "link": "/find?type=1&query=tu-whit",
+                "word": "tu-whit"
+            },
+            {
+                "id": "95192",
+                "link": "/find?type=1&query=tu-whit+tu-whoo",
+                "word": "tu-whit tu-whoo"
+            },
+            {
+                "id": "95193",
+                "link": "/find?type=1&query=tu-whoo",
+                "word": "tu-whoo"
+            }
+        ]
+    }
+}
