@@ -1,21 +1,21 @@
 {
     "en_en": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ends</div>\n    \n    <div class=\"green margin25 m-top15\">[count] :a priest or minister in the Christian church</div>",
-            "id": "24812",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"\">always used before a noun</div>\n    \n    <div class=\"green margin25 m-top15\">used as a title for a priest or minister in the Christian church</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">We welcome Reverend John Smith as our guest. - often used after the</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Reverend Mr. Smith</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Reverend John Smith - abbr. Rev. or (Brit) Revd</div>",
+            "id": "24813",
             "mean": [],
-            "pronounce": "/\u02c8r\u025bv\u0259r\u0259nd/",
-            "type": "noun",
-            "word": "reverend"
+            "pronounce": "",
+            "type": "adjective",
+            "word": "Reverend"
         },
         "suggests": [
             {
-                "id": "24812",
-                "link": "/find?type=3&query=Reverend",
-                "word": "Reverend"
+                "id": "24813",
+                "link": "/find?type=3&query=reverend",
+                "word": "reverend"
             },
             {
-                "id": "24812",
+                "id": "24813",
                 "link": "/find?type=3&query=Reverend+Mother",
                 "word": "Reverend Mother"
             }
@@ -23,22 +23,25 @@
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">\u0111\u00e1ng t\u00f4n k\u00ednh (v\u00ec cao tu\u1ed5i\u2026)</div>",
-            "id": "77045",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(vi\u1ebft t\u1eaft Rev, Revd)</div>\n    \n    <div class=\"green margin25 m-top15\">Cha (ti\u1ebfng t\u00f4n x\u01b0ng \u0111\u1eb7t tr\u01b0\u1edbc t\u00ean m\u1ed9t gi\u00e1o s\u0129)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Rev John (Mr) Smith (m\u00e0 kh\u00f4ng g\u1ecdi l\u00e0 the Rev Smith)</div>\n    \n    <div class=\"margin25\">cha John Smith</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Very Reverend</div>\n    \n    <div class=\"margin25\">Cha x\u1ee9</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the Right Reverend</div>\n    \n    <div class=\"margin25\">\u0110\u1ee9c t\u1ed5ng gi\u00e1m m\u1ee5c</div>",
+            "id": "77044",
             "mean": [],
             "pronounce": "/'rev\u0259r\u0259nd/",
-            "speak": {},
-            "type": "T\u00ednh t\u1eeb",
-            "word": "reverend"
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/36a8e71be02cc219ea46c96d282fbc6f/16e67ae513d/R/Reverend.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/9b8d21c1604f11f8c436f2c232fec098/16e67ae4afc/R/Reverend.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "Reverend"
         },
         "suggests": [
             {
-                "id": "77045",
-                "link": "/find?type=1&query=Reverend",
-                "word": "Reverend"
+                "id": "77044",
+                "link": "/find?type=1&query=reverend",
+                "word": "reverend"
             },
             {
-                "id": "77045",
+                "id": "77044",
                 "link": "/find?type=1&query=reverend+Mother",
                 "word": "reverend Mother"
             }
