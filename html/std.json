@@ -18,19 +18,22 @@
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"\">vi\u1ebft t\u1eaft c\u1ee7a standard.</div>",
-            "id": "87402",
+            "content": "<div class=\"\">(vi\u1ebft t\u1eaft c\u1ee7a subcriber trunk dialling)</div>\n    \n    <div class=\"green margin25 m-top15\">s\u1ef1 quay s\u1ed1 g\u1ecdi \u0111\u01b0\u1eddng d\u00e0i c\u1ee7a ng\u01b0\u1eddi thu\u00ea bao (\u0111i\u1ec7n tho\u1ea1i)</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the STD code for London is 01</div>\n    \n    <div class=\"margin25\">m\u00e3 s\u1ed1 g\u1ecdi \u0111\u01b0\u1eddng d\u00e0i \u0111\u1ebfn Lu\u00e2n \u0110\u00f4n l\u00e0 01</div>",
+            "id": "87401",
             "mean": [],
-            "pronounce": "",
-            "speak": {},
+            "pronounce": "/esti:'di:/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f550271ccf3b51e4837403a8e650294f/16e67c3faeb/S/STD.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/aa7f7844f2cdeee7e015da88bb4ca8aa/16e67c3f4e4/S/STD.mp3"
+            },
             "type": "",
-            "word": "std"
+            "word": "STD"
         },
         "suggests": [
             {
-                "id": "87402",
-                "link": "/find?type=1&query=STD",
-                "word": "STD"
+                "id": "87401",
+                "link": "/find?type=1&query=std",
+                "word": "std"
             }
         ]
     }

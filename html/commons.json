@@ -58,19 +58,22 @@
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"bold dot-blue m-top15\">the commons</div>\n    \n    <div class=\"color-light-grey margin25\">(c\u0169)</div>\n    \n    <div class=\"grey margin25 m-top15\">th\u01b0\u1eddng d\u00e2n</div>\n    \n    <div class=\"bold dot-blue m-top15\">[on] short commons</div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=short\">short</a></span></div>",
-            "id": "17448",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u)</div>\n    \n    <div class=\"bold dot-blue m-top15\">the Commons (c\u00e1ch vi\u1ebft kh\u00e1c the House of Commons)</div>\n    \n    <div class=\"grey margin25 m-top15\">H\u1ea1 ngh\u1ecb vi\u1ec7n (Anh, Canada)</div>",
+            "id": "17447",
             "mean": [],
             "pronounce": "/'k\u0252m\u0259nz/",
-            "speak": {},
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f95a28ae2789d9ba705d6261813ff85f/16e67c3b235/C/Commons.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/2270a91ca4e67ca8e2afc732d78e5de4/16e67c3ac01/C/Commons.mp3"
+            },
             "type": "Danh t\u1eeb",
-            "word": "commons"
+            "word": "Commons"
         },
         "suggests": [
             {
-                "id": "17448",
-                "link": "/find?type=1&query=Commons",
-                "word": "Commons"
+                "id": "17447",
+                "link": "/find?type=1&query=commons",
+                "word": "commons"
             }
         ]
     },
