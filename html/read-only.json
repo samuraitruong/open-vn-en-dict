@@ -1,0 +1,34 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">computers :capable of being viewed but not of being changed or deleted</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a read-only file/document</div>",
+            "id": "23983",
+            "mean": [],
+            "pronounce": "",
+            "type": "adjective",
+            "word": "read-only"
+        },
+        "suggests": [
+            {
+                "id": "23983",
+                "link": "/find?type=3&query=read-only+memory",
+                "word": "read-only memory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "74936",
+                "link": "/find?type=1&query=read+only",
+                "word": "read only"
+            },
+            {
+                "id": "74937",
+                "link": "/find?type=1&query=read+only+memory",
+                "word": "read only memory"
+            }
+        ]
+    }
+}
