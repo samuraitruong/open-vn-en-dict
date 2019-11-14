@@ -1,0 +1,40 @@
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "19389",
+                "link": "/find?type=3&query=no-go+area",
+                "word": "no-go area"
+            },
+            {
+                "id": "19390",
+                "link": "/find?type=3&query=no-good",
+                "word": "no-good"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">t\u00ecnh tr\u1ea1ng b\u1ebf t\u1eafc; t\u00ecnh th\u1ebf kh\u00f4ng l\u1ed1i tho\u00e1t</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">it's no_go</div>\n    \n    <div class=\"margin25\">(th\u00f4ng t\u1ee5c) th\u1eadt l\u00e0 b\u1ebf t\u1eafc, th\u1eadt l\u00e0 v\u00f4 k\u1ebf kh\u1ea3 thi</div>",
+            "id": "60595",
+            "mean": [],
+            "pronounce": "/'nou'gou/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "no go"
+        },
+        "suggests": [
+            {
+                "id": "60595",
+                "link": "/find?type=1&query=no-good",
+                "word": "no-good"
+            },
+            {
+                "id": "60595",
+                "link": "/find?type=1&query=no%28-%29go",
+                "word": "no(-)go"
+            }
+        ]
+    }
+}
