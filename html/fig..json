@@ -1,0 +1,44 @@
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">figure</div>",
+            "id": "10583",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "fig."
+        },
+        "suggests": [
+            {
+                "id": "10583",
+                "link": "/find?type=3&query=fig+leaf",
+                "word": "fig leaf"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "35161",
+                "link": "/find?type=1&query=fig-eater",
+                "word": "fig-eater"
+            },
+            {
+                "id": "35162",
+                "link": "/find?type=1&query=fig-leaf",
+                "word": "fig-leaf"
+            },
+            {
+                "id": "35163",
+                "link": "/find?type=1&query=fig-tree",
+                "word": "fig-tree"
+            },
+            {
+                "id": "35164",
+                "link": "/find?type=1&query=fig-wort",
+                "word": "fig-wort"
+            }
+        ]
+    }
+}
