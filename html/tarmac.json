@@ -1,39 +1,36 @@
 {
     "en_en": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"bold dot-blue m-top15\">the tarmac</div>\n    \n    <div class=\"grey margin25 m-top15\">the area covered by pavement at an airport</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">airplanes parked on the tarmac</div>",
-            "id": "29891",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>trademark</span></div>\n    \n    <div class=\"green margin25 m-top15\">used for a paving material made of layers of crushed stone covered with tar;</div>",
+            "id": "29892",
             "mean": [],
             "pronounce": "/\u02c8t\u0251\u025a\u02ccm\u00e6k/",
-            "type": "noun",
-            "word": "tarmac"
+            "type": "trademark",
+            "word": "Tarmac"
         },
         "suggests": [
             {
-                "id": "29891",
-                "link": "/find?type=3&query=Tarmac",
-                "word": "Tarmac"
+                "id": "29892",
+                "link": "/find?type=3&query=tarmac",
+                "word": "tarmac"
             }
         ]
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(tarmacked)</div>\n    \n    <div class=\"green margin25 m-top15\">r\u1ea3i nh\u1ef1a tacmac</div>",
-            "id": "91488",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(t\u00ean ri\u00eang)</div>\n    \n    <div class=\"green margin25 m-top15\">(c\u00e1ch vi\u1ebft kh\u00e1c tar macadam) tacmac (h\u1ed7n h\u1ee3p r\u1ea3i \u0111\u01b0\u1eddng g\u1ed3m \u0111\u00e1 gi\u0103m v\u00e0 nh\u1ef1a \u0111\u01b0\u1eddng)</div>\n    \n    <div class=\"green margin25 m-top15\">phi \u0111\u1ea1o r\u1ea3i tacmac</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the plane taxied along the tarmac</div>\n    \n    <div class=\"margin25\">phi c\u01a1 ch\u1ea1y tr\u00ean phi \u0111\u1ea1o r\u1ea3i tacmac (tr\u01b0\u1edbc khi c\u1ea5t c\u00e1nh, sau khi h\u1ea1 c\u00e1nh)</div>",
+            "id": "91487",
             "mean": [],
             "pronounce": "/'ta:m\u00e6k/",
-            "speak": {
-                "uk": "https://stream-dict-laban.zdn.vn/uk/310c6f1e545e5b510fadf156c946899b/16e63dfe346/T/tarmac.mp3",
-                "us": "https://stream-dict-laban.zdn.vn/us/53e99bd3118381e8266298118e0fe8c5/16e63dfd7f4/T/tarmac.mp3"
-            },
-            "type": "\u0110\u1ed9ng t\u1eeb",
-            "word": "tarmac"
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "Tarmac"
         },
         "suggests": [
             {
-                "id": "91488",
-                "link": "/find?type=1&query=Tarmac",
-                "word": "Tarmac"
+                "id": "91487",
+                "link": "/find?type=1&query=tarmac",
+                "word": "tarmac"
             }
         ]
     }
