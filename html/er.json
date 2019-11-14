@@ -1,56 +1,56 @@
 {
     "en_en": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>interjection</span></div>\n    \n    <div class=\"green margin25 m-top15\">used when you are speaking and you are not sure what to say</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">What's the answer? Well, er, I just don't know.</div>",
-            "id": "9719",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">emergency room</div>",
+            "id": "9721",
             "mean": [],
-            "pronounce": "/\u02c8\u0259\u02d0/",
-            "type": "interjection",
-            "word": "er"
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "ER"
         },
         "suggests": [
             {
-                "id": "9719",
+                "id": "9721",
+                "link": "/find?type=3&query=er",
+                "word": "er"
+            },
+            {
+                "id": "9721",
                 "link": "/find?type=3&query=-er",
                 "word": "-er"
             },
             {
-                "id": "9719",
-                "link": "/find?type=3&query=ER",
-                "word": "ER"
-            },
-            {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=era",
                 "word": "era"
             },
             {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=eradicate",
                 "word": "eradicate"
             },
             {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=erase",
                 "word": "erase"
             },
             {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=eraser",
                 "word": "eraser"
             },
             {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=erasure",
                 "word": "erasure"
             },
             {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=ere",
                 "word": "ere"
             },
             {
-                "id": "9719",
+                "id": "9721",
                 "link": "/find?type=3&query=erect",
                 "word": "erect"
             }
@@ -63,8 +63,8 @@
             "mean": [],
             "pronounce": "",
             "speak": {
-                "uk": "https://stream-dict-laban.zdn.vn/uk/c8218b4bd93c1488cf025b78513bbb4d/16e5fbd6160/E/ER.mp3",
-                "us": "https://stream-dict-laban.zdn.vn/us/5c3803b6464d4db1c692203409e594f3/16e5fbd5904/E/ER.mp3"
+                "uk": "https://stream-dict-laban.zdn.vn/uk/f40fdd2ce15d411e6a979e59b4d7a70b/16e67c95347/E/ER.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/471209cb933fc4f662c5ab28f35b2029/16e67c94fe7/E/ER.mp3"
             },
             "type": "",
             "word": "ER"
