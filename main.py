@@ -138,7 +138,7 @@ if args.debug:
 
 logs = {}
 
-with open(args.logFile, "r+") as json_file:
+with open(args.logFile, "w+") as json_file:
     logs = json.load(json_file)
     print("Proceeded : %d" % (len(logs)))
 
