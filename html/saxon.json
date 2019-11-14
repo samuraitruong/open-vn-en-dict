@@ -12,22 +12,25 @@
     },
     "en_vn": {
         "data": {
-            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi X\u1eafc-xon (g\u1ed1c \u0110\u1ee9c, chi\u1ebfm \u0111\u00f3ng v\u00e0 c\u01b0 ng\u1ee5 \u1edf Anh v\u00e0o th\u1ebf k\u1ef7 5 v\u00e0 6)</div>\n    \n    <div class=\"green margin25 m-top15\">ti\u1ebfng X\u1eafc-xon</div>",
-            "id": "79550",
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] X\u1eafc-xon</div>",
+            "id": "79551",
             "mean": [],
             "pronounce": "/'s\u00e6ksn/",
-            "speak": {},
-            "type": "Danh t\u1eeb",
-            "word": "saxon"
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/deef244cc7dbc371f139ad752bf57d1d/16e67b8e3da/S/Saxon.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/6169abf52d1558912863bcf381046b15/16e67b8ddf8/S/Saxon.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "Saxon"
         },
         "suggests": [
             {
-                "id": "79550",
-                "link": "/find?type=1&query=Saxon",
-                "word": "Saxon"
+                "id": "79551",
+                "link": "/find?type=1&query=saxon",
+                "word": "saxon"
             },
             {
-                "id": "79550",
+                "id": "79551",
                 "link": "/find?type=1&query=saxony",
                 "word": "saxony"
             }
