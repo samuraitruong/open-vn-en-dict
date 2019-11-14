@@ -137,10 +137,10 @@ if args.debug:
 
 
 logs = {}
-
-with open(args.logFile, "w+") as json_file:
-    logs = json.load(json_file)
-    print("Proceeded : %d" % (len(logs)))
+if os.path.isfile(args.logFile):
+    with open(args.logFile) as json_file:
+        logs = json.load(json_file)
+        print("Proceeded : %d" % (len(logs)))
 
 print("Retrive list of all english words")
 if(os.path.isfile(args.inputFile)):
