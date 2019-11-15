@@ -1,1 +1,72 @@
-{"error": 0, "query": "hoc", "enViData": {"suggests": [{"id": "44280", "link": "/find?type=1&query=hock", "word": "hock"}, {"id": "44281", "link": "/find?type=1&query=hockey", "word": "hockey"}, {"id": "44282", "link": "/find?type=1&query=hockey+stick", "word": "hockey stick"}, {"id": "44283", "link": "/find?type=1&query=hockshop", "word": "hockshop"}, {"id": "44284", "link": "/find?type=1&query=hocus", "word": "hocus"}, {"id": "44285", "link": "/find?type=1&query=hocus-pocus", "word": "hocus-pocus"}]}, "mUrl": "/find?type=1&query=hoc", "enEnData": {"suggests": [{"id": "13697", "link": "/find?type=3&query=hock", "word": "hock"}, {"id": "13698", "link": "/find?type=3&query=hockey", "word": "hockey"}, {"id": "13699", "link": "/find?type=3&query=hockey+skate", "word": "hockey skate"}, {"id": "13700", "link": "/find?type=3&query=hocus-pocus", "word": "hocus-pocus"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3327", "link": "/find?type=4&query=hocus-pocus", "word": "hocus-pocus"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13697",
+                "link": "/find?type=3&query=hock",
+                "word": "hock"
+            },
+            {
+                "id": "13698",
+                "link": "/find?type=3&query=hockey",
+                "word": "hockey"
+            },
+            {
+                "id": "13699",
+                "link": "/find?type=3&query=hockey+skate",
+                "word": "hockey skate"
+            },
+            {
+                "id": "13700",
+                "link": "/find?type=3&query=hocus-pocus",
+                "word": "hocus-pocus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44280",
+                "link": "/find?type=1&query=hock",
+                "word": "hock"
+            },
+            {
+                "id": "44281",
+                "link": "/find?type=1&query=hockey",
+                "word": "hockey"
+            },
+            {
+                "id": "44282",
+                "link": "/find?type=1&query=hockey+stick",
+                "word": "hockey stick"
+            },
+            {
+                "id": "44283",
+                "link": "/find?type=1&query=hockshop",
+                "word": "hockshop"
+            },
+            {
+                "id": "44284",
+                "link": "/find?type=1&query=hocus",
+                "word": "hocus"
+            },
+            {
+                "id": "44285",
+                "link": "/find?type=1&query=hocus-pocus",
+                "word": "hocus-pocus"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3327",
+                "link": "/find?type=4&query=hocus-pocus",
+                "word": "hocus-pocus"
+            }
+        ]
+    }
+}
