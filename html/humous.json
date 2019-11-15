@@ -1,1 +1,62 @@
-{"error": 0, "query": "humous", "enViData": {"suggests": [{"id": "45172", "link": "/find?type=1&query=humour", "word": "humour"}, {"id": "45173", "link": "/find?type=1&query=humoured", "word": "humoured"}, {"id": "45174", "link": "/find?type=1&query=humourist", "word": "humourist"}, {"id": "45175", "link": "/find?type=1&query=humourless", "word": "humourless"}, {"id": "45176", "link": "/find?type=1&query=humoursome", "word": "humoursome"}, {"id": "45177", "link": "/find?type=1&query=humoursomeness", "word": "humoursomeness"}, {"id": "104649", "link": "/find?type=1&query=-humoured", "word": "-humoured"}]}, "mUrl": "/find?type=1&query=humous", "enEnData": {"suggests": [{"id": "14115", "link": "/find?type=3&query=humour", "word": "humour"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3412", "link": "/find?type=4&query=humour", "word": "humour"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14115",
+                "link": "/find?type=3&query=humour",
+                "word": "humour"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45172",
+                "link": "/find?type=1&query=humour",
+                "word": "humour"
+            },
+            {
+                "id": "45173",
+                "link": "/find?type=1&query=humoured",
+                "word": "humoured"
+            },
+            {
+                "id": "45174",
+                "link": "/find?type=1&query=humourist",
+                "word": "humourist"
+            },
+            {
+                "id": "45175",
+                "link": "/find?type=1&query=humourless",
+                "word": "humourless"
+            },
+            {
+                "id": "45176",
+                "link": "/find?type=1&query=humoursome",
+                "word": "humoursome"
+            },
+            {
+                "id": "45177",
+                "link": "/find?type=1&query=humoursomeness",
+                "word": "humoursomeness"
+            },
+            {
+                "id": "104649",
+                "link": "/find?type=1&query=-humoured",
+                "word": "-humoured"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3412",
+                "link": "/find?type=4&query=humour",
+                "word": "humour"
+            }
+        ]
+    }
+}
