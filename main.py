@@ -27,6 +27,9 @@ parser.add_argument('--overwrite', dest='overwrite', default=True,
 parser.add_argument('--output', dest='output', default="html",
                     help='Output folder')
 
+parser.add_argument('--threads', dest='threads', default=25,
+                    help='Number of threads')
+
 
 args = parser.parse_args()
 
@@ -88,7 +91,7 @@ print("Total english words %d" % (len(words)))
 #     outfile.truncate()
 #     json.dump(logs, outfile, indent=4, sort_keys=True)
 delta = 0
-with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as executor:
     future_to_url = {executor.submit(
         tracau.fetchWord, key): key for key in words if logs.get(key) == None}
     for future in concurrent.futures.as_completed(future_to_url):
