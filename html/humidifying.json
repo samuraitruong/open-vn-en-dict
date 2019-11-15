@@ -1,1 +1,26 @@
-{"error": 0, "query": "humidifying", "enViData": {"suggests": [], "best": {"id": "45143", "details": "\n<div id=\"find_word_45143\" class=\"world word_en\" rel=\"humidify\">\n    <h2 class=\"fl\">humidify <span class=\"color-black\">/hju:'midifai/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45143\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45143\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-fied)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m \u1ea9m \u01b0\u1edbt</div>\n    \n</div>\n", "link": "/find?type=1&query=humidify", "word": "humidify"}}, "mUrl": "/find?type=1&query=humidifying", "enEnData": {"suggests": [{"id": "14103", "link": "/find?type=3&query=humidifier", "word": "humidifier"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14103",
+                "link": "/find?type=3&query=humidifier",
+                "word": "humidifier"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"\">(-fied)</div>\n    \n    <div class=\"green margin25 m-top15\">l\u00e0m \u1ea9m \u01b0\u1edbt</div>",
+            "mean": [],
+            "pronounce": "/hju:'midifai/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/b5292983286812a1d5c8b9386bb76eb9/16e6d409f29/H/humidify.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/c1581263f6bebeaae0e4472d68b9274b/16e6d409c83/H/humidify.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "humidify"
+        },
+        "suggests": []
+    }
+}
