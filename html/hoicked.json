@@ -1,1 +1,32 @@
-{"error": 0, "query": "hoicked", "enViData": {"suggests": [{"id": "44325", "link": "/find?type=1&query=hoicks", "word": "hoicks"}], "best": {"id": "44325", "details": "\n<div id=\"find_word_44325\" class=\"world word_en\" rel=\"hoick\">\n    <h2 class=\"fl\">hoick <span class=\"color-black\">/'h\u0254ik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"44325\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"44325\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1ea5c l\u00ean, n\u1ea1y l\u00ean</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">she hoicked her bike onto the car roof</div>\n    \n    <div class=\"margin25\">ch\u1ecb ta nh\u1ea5c chi\u1ebfc xe \u0111\u1ea1p l\u00ean mui xe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he tried to hoick the meat out of the tin with a fork</div>\n    \n    <div class=\"margin25\">anh ta d\u00f9ng n\u0129a c\u1ed1 n\u1ea1y h\u1ed9p th\u1ecbt</div>\n    \n</div>\n", "link": "/find?type=1&query=hoick", "word": "hoick"}}, "mUrl": "/find?type=1&query=hoicked", "enEnData": {"suggests": [], "best": {"id": "13709", "details": "\n<div id=\"find_word_13709\" class=\"world word_en\" rel=\"hoick\">\n    <h2 class=\"fl\">hoick <span class=\"color-black\">/\u02c8ho\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13709\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13709\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">hoicks; hoicked; hoicking</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] Brit informal :to lift or pull (something) with a quick movement :yank</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He hoicked up his trousers and waded in.</div>\n    \n</div>\n", "link": "/find?type=3&query=hoick", "word": "hoick"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>verb</span></div>\n    \n    <div class=\"\">hoicks; hoicked; hoicking</div>\n    \n    <div class=\"green margin25 m-top15\">[+ obj] Brit informal :to lift or pull (something) with a quick movement :yank</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He hoicked up his trousers and waded in.</div>",
+            "mean": [],
+            "pronounce": "/\u02c8ho\u026ak/",
+            "type": "verb",
+            "word": "hoick"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>\u0110\u1ed9ng t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">nh\u1ea5c l\u00ean, n\u1ea1y l\u00ean</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">she hoicked her bike onto the car roof</div>\n    \n    <div class=\"margin25\">ch\u1ecb ta nh\u1ea5c chi\u1ebfc xe \u0111\u1ea1p l\u00ean mui xe</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">he tried to hoick the meat out of the tin with a fork</div>\n    \n    <div class=\"margin25\">anh ta d\u00f9ng n\u0129a c\u1ed1 n\u1ea1y h\u1ed9p th\u1ecbt</div>",
+            "mean": [],
+            "pronounce": "/'h\u0254ik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/7cf2e8d7dba660d3963cb482f1584268/16e6d37e007/H/hoick.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/a6aada69120025c29861e95fe57e2d39/16e6d37dd19/H/hoick.mp3"
+            },
+            "type": "\u0110\u1ed9ng t\u1eeb",
+            "word": "hoick"
+        },
+        "suggests": [
+            {
+                "id": "44325",
+                "link": "/find?type=1&query=hoicks",
+                "word": "hoicks"
+            }
+        ]
+    }
+}
