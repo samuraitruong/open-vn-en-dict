@@ -1,1 +1,34 @@
-{"error": 0, "query": "hunks", "enViData": {"suggests": [], "best": {"id": "45222", "details": "\n<div id=\"find_word_45222\" class=\"world word_en\" rel=\"hunks\">\n    <h2 class=\"fl\">hunks <span class=\"color-black\">/h\u028c\u0273ks/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45222\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45222\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi keo c\u00fa, ng\u01b0\u1eddi b\u1ee7n x\u1ec9n</div>\n    \n</div>\n", "link": "/find?type=1&query=hunks", "word": "hunks"}}, "mUrl": "/find?type=1&query=hunks", "enEnData": {"suggests": [{"id": "14134", "link": "/find?type=3&query=hunker", "word": "hunker"}, {"id": "14134", "link": "/find?type=3&query=hunky-dory", "word": "hunky-dory"}], "best": {"id": "14134", "details": "\n<div id=\"find_word_14134\" class=\"world word_en\" rel=\"hunk\">\n    <h2 class=\"fl\">hunk <span class=\"color-black\">/\u02c8h\u028c\u014bk/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14134\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14134\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural hunks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a large lump or piece of something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a hunk of cheese/bread</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a steak cut into meaty hunks</div>\n    \n    <div class=\"green margin25 m-top15\">informal :an attractive man</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">That actor is such a hunk!</div>\n    \n</div>\n", "link": "/find?type=3&query=hunk", "word": "hunk"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural hunks</div>\n    \n    <div class=\"green margin25 m-top15\">[count] a large lump or piece of something</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a hunk of cheese/bread</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a steak cut into meaty hunks</div>\n    \n    <div class=\"green margin25 m-top15\">informal :an attractive man</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">That actor is such a hunk!</div>",
+            "mean": [],
+            "pronounce": "/\u02c8h\u028c\u014bk/",
+            "type": "noun",
+            "word": "hunk"
+        },
+        "suggests": [
+            {
+                "id": "14134",
+                "link": "/find?type=3&query=hunker",
+                "word": "hunker"
+            },
+            {
+                "id": "14134",
+                "link": "/find?type=3&query=hunky-dory",
+                "word": "hunky-dory"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">ng\u01b0\u1eddi keo c\u00fa, ng\u01b0\u1eddi b\u1ee7n x\u1ec9n</div>",
+            "mean": [],
+            "pronounce": "/h\u028c\u0273ks/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "hunks"
+        },
+        "suggests": []
+    }
+}
