@@ -2,11 +2,10 @@ import json
 import os
 
 
-def writeJson(obj, name, verbose=False):
-    path = "html/%s.json" % (name.lower())
+def writeJson(obj, filePath, verbose=False):
     if verbose:
-        print("writing json file to", path)
-    with open(path, "w+") as file:
+        print("writing json file to", filePath)
+    with open(filePath, "w+") as file:
         file.seek(0)
         file.truncate()
         json.dump(obj, file, indent=4)

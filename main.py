@@ -9,7 +9,7 @@ import sys
 import argparse
 import store
 from laban import labalvn
-
+from tracau import tracau
 
 parser = argparse.ArgumentParser(description='Input argruments.')
 parser.add_argument('--debug', dest='debug',
@@ -23,6 +23,10 @@ parser.add_argument('--input-file', dest='inputFile', default="words.json",
 
 parser.add_argument('--overwrite', dest='overwrite', default=True,
                     help='Re fetch and overwrite local file if exists')
+
+parser.add_argument('--output', dest='output', default="html",
+                    help='Output folder')
+
 
 args = parser.parse_args()
 
@@ -58,7 +62,8 @@ def getWord(word):
 if args.debug:
     debug = labalvn.fetchWord(args.debug)
     pprint.pprint(debug)
-    store.writeJson(debug, args.debug, True)
+    filePath = "%s/%s.json" % (args.output, args.debug.lower())
+    store.writeJson(debug, filePath, True)
     exit()
 
 
@@ -85,31 +90,25 @@ print("Total english words %d" % (len(words)))
 delta = 0
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
-        labalvn.fetchWord, key): key for key in words if logs.get(key) == None}
+        tracau.fetchWord, key): key for key in words if logs.get(key) == None}
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
-            fileName = "html/" + url.lower()+".json"
-            html = future.result()
-            if html != None:
-
-                with open(fileName.lower(), 'w+') as outfile:
-                    outfile.seek(0)
-                    outfile.truncate()
-                    json.dump(html, outfile, indent=4, sort_keys=True)
+            fileName = args.output + "/" + url.lower()+".json"
+            result = future.result()
+            # pprint.pprint(result)
+            if result != None:
+                store.writeJson(result, fileName.lower())
                 logs[url] = 1
                 delta = delta + 1
                 if delta > 1000:
                     delta = 0
                     print("Update logs files")
-                    with open(args.logFile, 'w+') as logFile:
-                        logFile.seek(0)
-                        logFile.truncate()
-                        json.dump(logs, logFile, indent=4, sort_keys=True)
+                    store.writeJson(logs, args.logFile, True)
         # except requests..exceptions.ConnectionError:
         #    print('%r generated an exception: %s' % (url, exc))
         except Exception as exc:
             print('%r generated an exception: %s' % (url, exc))
             # exit()
         else:
-            print('%r page is %d bytes' % (url, len(html)))
+            print('%r page is %d bytes' % (url, len(result)))

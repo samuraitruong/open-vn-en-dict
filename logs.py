@@ -25,7 +25,6 @@ for file in entries:
     except Exception as e:
         print(e)
         print("ERROR : " + file)
-print(logs)
 store.writeJson(logs, "goodWords.json")
 store.writeJson(error, "errors.json")
 
