@@ -1,1 +1,37 @@
-{"error": 0, "query": "hume", "enViData": {"suggests": [{"id": "45135", "link": "/find?type=1&query=Hume%2C+David", "word": "Hume, David"}, {"id": "45136", "link": "/find?type=1&query=humectant", "word": "humectant"}, {"id": "45137", "link": "/find?type=1&query=humeral", "word": "humeral"}, {"id": "45138", "link": "/find?type=1&query=humerus", "word": "humerus"}]}, "mUrl": "/find?type=1&query=hume", "enEnData": {"suggests": [{"id": "14101", "link": "/find?type=3&query=humerus", "word": "humerus"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14101",
+                "link": "/find?type=3&query=humerus",
+                "word": "humerus"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45135",
+                "link": "/find?type=1&query=Hume%2C+David",
+                "word": "Hume, David"
+            },
+            {
+                "id": "45136",
+                "link": "/find?type=1&query=humectant",
+                "word": "humectant"
+            },
+            {
+                "id": "45137",
+                "link": "/find?type=1&query=humeral",
+                "word": "humeral"
+            },
+            {
+                "id": "45138",
+                "link": "/find?type=1&query=humerus",
+                "word": "humerus"
+            }
+        ]
+    }
+}
