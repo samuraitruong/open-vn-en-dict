@@ -1,1 +1,152 @@
-{"error": 0, "query": "hol", "enViData": {"suggests": [{"id": "44336", "link": "/find?type=1&query=holandric", "word": "holandric"}, {"id": "44337", "link": "/find?type=1&query=holarctic", "word": "holarctic"}, {"id": "44338", "link": "/find?type=1&query=hold", "word": "hold"}, {"id": "44339", "link": "/find?type=1&query=hold-up", "word": "hold-up"}, {"id": "44340", "link": "/find?type=1&query=holdall", "word": "holdall"}, {"id": "44341", "link": "/find?type=1&query=holdback", "word": "holdback"}, {"id": "44342", "link": "/find?type=1&query=holden", "word": "holden"}, {"id": "44343", "link": "/find?type=1&query=holder", "word": "holder"}, {"id": "44344", "link": "/find?type=1&query=holdfast", "word": "holdfast"}, {"id": "44345", "link": "/find?type=1&query=holding", "word": "holding"}]}, "mUrl": "/find?type=1&query=hol", "enEnData": {"suggests": [{"id": "13714", "link": "/find?type=3&query=hold", "word": "hold"}, {"id": "13715", "link": "/find?type=3&query=holdall", "word": "holdall"}, {"id": "13716", "link": "/find?type=3&query=holder", "word": "holder"}, {"id": "13717", "link": "/find?type=3&query=holding", "word": "holding"}, {"id": "13718", "link": "/find?type=3&query=holding+company", "word": "holding company"}, {"id": "13719", "link": "/find?type=3&query=holding+pattern", "word": "holding pattern"}, {"id": "13720", "link": "/find?type=3&query=holdout", "word": "holdout"}, {"id": "13721", "link": "/find?type=3&query=holdover", "word": "holdover"}, {"id": "13722", "link": "/find?type=3&query=holdup", "word": "holdup"}, {"id": "13723", "link": "/find?type=3&query=hole", "word": "hole"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3332", "link": "/find?type=4&query=hold", "word": "hold"}, {"id": "3333", "link": "/find?type=4&query=hold-up", "word": "hold-up"}, {"id": "3334", "link": "/find?type=4&query=hole", "word": "hole"}, {"id": "3335", "link": "/find?type=4&query=holiday", "word": "holiday"}, {"id": "3336", "link": "/find?type=4&query=hollow", "word": "hollow"}, {"id": "3337", "link": "/find?type=4&query=holocaust", "word": "holocaust"}, {"id": "3338", "link": "/find?type=4&query=holy", "word": "holy"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13714",
+                "link": "/find?type=3&query=hold",
+                "word": "hold"
+            },
+            {
+                "id": "13715",
+                "link": "/find?type=3&query=holdall",
+                "word": "holdall"
+            },
+            {
+                "id": "13716",
+                "link": "/find?type=3&query=holder",
+                "word": "holder"
+            },
+            {
+                "id": "13717",
+                "link": "/find?type=3&query=holding",
+                "word": "holding"
+            },
+            {
+                "id": "13718",
+                "link": "/find?type=3&query=holding+company",
+                "word": "holding company"
+            },
+            {
+                "id": "13719",
+                "link": "/find?type=3&query=holding+pattern",
+                "word": "holding pattern"
+            },
+            {
+                "id": "13720",
+                "link": "/find?type=3&query=holdout",
+                "word": "holdout"
+            },
+            {
+                "id": "13721",
+                "link": "/find?type=3&query=holdover",
+                "word": "holdover"
+            },
+            {
+                "id": "13722",
+                "link": "/find?type=3&query=holdup",
+                "word": "holdup"
+            },
+            {
+                "id": "13723",
+                "link": "/find?type=3&query=hole",
+                "word": "hole"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44336",
+                "link": "/find?type=1&query=holandric",
+                "word": "holandric"
+            },
+            {
+                "id": "44337",
+                "link": "/find?type=1&query=holarctic",
+                "word": "holarctic"
+            },
+            {
+                "id": "44338",
+                "link": "/find?type=1&query=hold",
+                "word": "hold"
+            },
+            {
+                "id": "44339",
+                "link": "/find?type=1&query=hold-up",
+                "word": "hold-up"
+            },
+            {
+                "id": "44340",
+                "link": "/find?type=1&query=holdall",
+                "word": "holdall"
+            },
+            {
+                "id": "44341",
+                "link": "/find?type=1&query=holdback",
+                "word": "holdback"
+            },
+            {
+                "id": "44342",
+                "link": "/find?type=1&query=holden",
+                "word": "holden"
+            },
+            {
+                "id": "44343",
+                "link": "/find?type=1&query=holder",
+                "word": "holder"
+            },
+            {
+                "id": "44344",
+                "link": "/find?type=1&query=holdfast",
+                "word": "holdfast"
+            },
+            {
+                "id": "44345",
+                "link": "/find?type=1&query=holding",
+                "word": "holding"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3332",
+                "link": "/find?type=4&query=hold",
+                "word": "hold"
+            },
+            {
+                "id": "3333",
+                "link": "/find?type=4&query=hold-up",
+                "word": "hold-up"
+            },
+            {
+                "id": "3334",
+                "link": "/find?type=4&query=hole",
+                "word": "hole"
+            },
+            {
+                "id": "3335",
+                "link": "/find?type=4&query=holiday",
+                "word": "holiday"
+            },
+            {
+                "id": "3336",
+                "link": "/find?type=4&query=hollow",
+                "word": "hollow"
+            },
+            {
+                "id": "3337",
+                "link": "/find?type=4&query=holocaust",
+                "word": "holocaust"
+            },
+            {
+                "id": "3338",
+                "link": "/find?type=4&query=holy",
+                "word": "holy"
+            }
+        ]
+    }
+}
