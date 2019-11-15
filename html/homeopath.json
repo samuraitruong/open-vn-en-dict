@@ -1,1 +1,34 @@
-{"error": 0, "query": "homeopath", "enViData": {"suggests": [{"id": "44470", "link": "/find?type=1&query=homeopathic", "word": "homeopathic"}, {"id": "44470", "link": "/find?type=1&query=homeopathy", "word": "homeopathy"}], "best": {"id": "44470", "details": "\n<div id=\"find_word_44470\" class=\"world word_en\" rel=\"homeopath\">\n    <h2 class=\"fl\">homeopath <span class=\"color-black\">/'h\u0259\u028ami\u0259,p\u00e6\u03b8/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"44470\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"44470\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=homoeopath\">homoeopath</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=homeopath", "word": "homeopath"}}, "mUrl": "/find?type=1&query=homeopath", "enEnData": {"suggests": [{"id": "13789", "link": "/find?type=3&query=homeopathy", "word": "homeopathy"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13789",
+                "link": "/find?type=3&query=homeopathy",
+                "word": "homeopathy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=homoeopath\">homoeopath</a></span></div>",
+            "mean": [],
+            "pronounce": "/'h\u0259\u028ami\u0259,p\u00e6\u03b8/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "homeopath"
+        },
+        "suggests": [
+            {
+                "id": "44470",
+                "link": "/find?type=1&query=homeopathic",
+                "word": "homeopathic"
+            },
+            {
+                "id": "44470",
+                "link": "/find?type=1&query=homeopathy",
+                "word": "homeopathy"
+            }
+        ]
+    }
+}
