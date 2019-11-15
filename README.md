@@ -21,6 +21,9 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+
+
+
 ## Git commit
 To avoid slow git commit because huge number of file run below command during script running 
 

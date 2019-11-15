@@ -1,1 +1,32 @@
-{"error": 0, "query": "hithe", "enViData": {"suggests": [{"id": "44226", "link": "/find?type=1&query=hither", "word": "hither"}, {"id": "44227", "link": "/find?type=1&query=hitherto", "word": "hitherto"}]}, "mUrl": "/find?type=1&query=hithe", "enEnData": {"suggests": [{"id": "13668", "link": "/find?type=3&query=hither", "word": "hither"}, {"id": "13669", "link": "/find?type=3&query=hitherto", "word": "hitherto"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13668",
+                "link": "/find?type=3&query=hither",
+                "word": "hither"
+            },
+            {
+                "id": "13669",
+                "link": "/find?type=3&query=hitherto",
+                "word": "hitherto"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44226",
+                "link": "/find?type=1&query=hither",
+                "word": "hither"
+            },
+            {
+                "id": "44227",
+                "link": "/find?type=1&query=hitherto",
+                "word": "hitherto"
+            }
+        ]
+    }
+}
