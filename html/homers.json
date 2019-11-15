@@ -1,1 +1,38 @@
-{"error": 0, "query": "homers", "enViData": {"suggests": [{"id": "44474", "link": "/find?type=1&query=Homeric", "word": "Homeric"}], "best": {"id": "44474", "details": "\n<div id=\"find_word_44474\" class=\"world word_en\" rel=\"homer\">\n    <h2 class=\"fl\">homer <span class=\"color-black\">/'houm\u0259/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"44474\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"44474\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chim b\u1ed3 c\u00e2u \u0111\u01b0a th\u01b0</div>\n    \n</div>\n", "link": "/find?type=1&query=homer", "word": "homer"}}, "mUrl": "/find?type=1&query=homers", "enEnData": {"suggests": [{"id": "13791", "link": "/find?type=3&query=homeroom", "word": "homeroom"}], "best": {"id": "13791", "details": "\n<div id=\"find_word_13791\" class=\"world word_en\" rel=\"homer\">\n    <h2 class=\"fl\">homer <span class=\"color-black\">/\u02c8ho\u028am\u025a/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13791\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13791\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] baseball informal :home run</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He hit three homers in yesterday's game.</div>\n    \n</div>\n", "link": "/find?type=3&query=homer", "word": "homer"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>noun</span></div>\n    \n    <div class=\"\">plural -ers</div>\n    \n    <div class=\"green margin25 m-top15\">[count] baseball informal :home run</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">He hit three homers in yesterday's game.</div>",
+            "mean": [],
+            "pronounce": "/\u02c8ho\u028am\u025a/",
+            "type": "noun",
+            "word": "homer"
+        },
+        "suggests": [
+            {
+                "id": "13791",
+                "link": "/find?type=3&query=homeroom",
+                "word": "homeroom"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">chim b\u1ed3 c\u00e2u \u0111\u01b0a th\u01b0</div>",
+            "mean": [],
+            "pronounce": "/'houm\u0259/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/1ef7070c17c07d8510e1100a8fbd0be6/16e6d15d3d7/H/homer.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/b056e5503e329b20e3728beaaff04018/16e6d15d103/H/homer.mp3"
+            },
+            "type": "Danh t\u1eeb",
+            "word": "homer"
+        },
+        "suggests": [
+            {
+                "id": "44474",
+                "link": "/find?type=1&query=Homeric",
+                "word": "Homeric"
+            }
+        ]
+    }
+}
