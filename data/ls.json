@@ -1,0 +1,115 @@
+{
+    "en_vn": {
+        "data": {
+            "content": null,
+            "word": "LS"
+        }
+    },
+    "en_en": {
+        "data": {
+            "content": "<div class=\"dict--title\">Anh - Anh</div><div class=\"dict--content\"><k>LS</k><blockquote>\u25a0 <cclass>abbreviation Lesotho (international vehicle registration). </cclass></blockquote></div>",
+            "word": "LS"
+        }
+    },
+    "synonyms": {
+        "data": {
+            "content": null,
+            "word": "LS"
+        }
+    },
+    "grammar": {
+        "data": {
+            "content": null,
+            "word": "LS"
+        }
+    },
+    "specialist": {
+        "data": {
+            "content": null,
+            "word": "LS"
+        }
+    },
+    "sentences": [
+        {
+            "en": "Base on that, <em>LS</em> needs to update.",
+            "vi": "D\u1ef1a v\u00e0o \u0111\u00f3, LS c\u1ea7n ph\u1ea3i c\u1eadp nh\u1eadt."
+        },
+        {
+            "en": "This is the same as typing <em>ls</em> -ld *.",
+            "vi": "G\u00f5 ki\u1ec3u n\u00e0y t\u01b0\u01a1ng t\u1ef1 g\u00f5 ls - ld *."
+        },
+        {
+            "en": "This containt restart of the <em>ls</em> program, instead of a single start for <em>ls</em> - ld *, makes the shell script slower.",
+            "vi": "C\u00e1ch t\u00e1i kh\u1edfi \u0111\u1ed9ng li\u00ean ti\u1ebfp tr\u00ecnh ls n\u00e0y, thay v\u00ec kh\u1edfi \u0111\u1ed9ng ch\u1ec9 m\u1ed9t l\u1ea7n l\u1ec7nh ls - 1d *, khi\u1ebfn shell script ch\u1ea1y l\u00e2u h\u01a1n."
+        },
+        {
+            "en": "The <em>ls</em> & specifies to the shell that we want to run the <em>ls</em> program in the background.",
+            "vi": "L\u1ec7nh ls & ch\u1ec9 th\u1ecb cho shell r\u1eb1ng ch\u00fang ta mu\u1ed1n ng\u1ea7m ch\u1ea1y l\u1ec7nh ls."
+        },
+        {
+            "en": "If i were to use <em>ls</em> -la in the shell script, or even <em>ls</em> -l, i wouldn't get the same output.",
+            "vi": "N\u1ebfu trong shell script ta \u0111ang d\u00f9ng ls - la, hay th\u1eadm ch\u00ed ls - l, th\u00ec ta s\u1ebd kh\u00f4ng nh\u1eadn \u0111\u01b0\u1ee3c c\u00f9ng m\u1ed9t k\u1ebft xu\u1ea5t."
+        },
+        {
+            "en": "I have dir aliased to <em>ls</em> -1 so that if I type dir to the shell, the shell actually executes <em>ls</em> -1.",
+            "vi": "Ch\u1eb3ng h\u1ea1n, ta c\u00f3 l\u1ec7nh dir \u0111\u01b0\u1ee3c \u0111\u1eb7t b\u00ed danh l\u00e0 ls - 1 sao cho khi ta g\u00f5 dir v\u00e0o shell, th\u00ec th\u1ef1c ra shell n\u00e0y s\u1ebd ch\u1ea1y ls - 1."
+        },
+        {
+            "en": "STDOUT was never redirected, so <em>ls</em> can still write to it.",
+            "vi": "Stdout v\u1ed1n ch\u1eb3ng bao gi\u1edd b\u1ecb chuy\u1ec3n ti\u1ebfp, cho n\u00ean ls v\u1eabn c\u00f3 th\u1ec3 ghi v\u00e0o n\u00f3."
+        },
+        {
+            "en": "For example, for help on the <em>ls</em> command, you can type.",
+            "vi": "Ch\u1eb3ng h\u1ea1n, \u0111\u1ec3 tr\u1ee3 gi\u00fap v\u1ec1 l\u1ec7nh ls, b\u1ea1n c\u00f3 th\u1ec3 g\u00f5."
+        },
+        {
+            "en": "In some cases, such as with <em>ls</em>, the help spans more than one screen.",
+            "vi": "Nhi\u1ec1u khi, nh\u01b0 v\u1edbi l\u1ec7nh ls, n\u1ed9i dung help di\u1ec5n gi\u1ea3i c\u1ea7n tr\u1ea3i r\u00f4ng h\u01a1n m\u1ed9t m\u00e0n h\u00ecnh."
+        },
+        {
+            "en": "The usual command for getting a directory listing s <em>ls</em> -la.",
+            "vi": "L\u1ec7nh th\u01b0\u1eddng d\u00f9ng \u0111\u1ec3 c\u00f3 li\u1ec7t k\u00ea th\u01b0 m\u1ee5c l\u00e0 ls - la."
+        },
+        {
+            "en": "The output of the <em>ls</em> command gets sent to the more program as input.",
+            "vi": "K\u1ebft xu\u1ea5t c\u1ee7a l\u1ec7nh ls \u0111\u01b0\u1ee3c g\u1edfi t\u1edbi ch\u01b0\u01a1ng tr\u00ecnh more nh\u01b0 nh\u1eadp li\u1ec7u."
+        },
+        {
+            "en": "But before we do anything (since <em>ls</em> isn't a very CPU intensive program to run) we get output on STDOUT.",
+            "vi": "Song tr\u01b0\u1edbc khi l\u00e0m vi\u1ec7c g\u00ec \u0111\u00f3 (do ls kh\u00f4ng l\u00e0 m\u1ed9t tr\u00ecnh r\u1ea5t hay x\u00e0i cpu) ta nh\u1eadn k\u1ebft xu\u1ea5t \u1edf stdout."
+        },
+        {
+            "en": "If i were to type <em>ls</em> - lr >file, instead of getting my shell prompt back, i would see.",
+            "vi": "N\u1ebfu nh\u01b0 ta g\u00f5 ls - lr > file, th\u00ec thay v\u00ec nh\u1eadn l\u1ea1i \u0111\u01b0\u1ee3c d\u1ea5u nh\u1eafc shell, ta s\u1ebd th\u1ea5y."
+        },
+        {
+            "en": "To show how redirection works, i'll introduce you to another switch to the <em>ls</em> command, the R switch.",
+            "vi": "\u0110\u1ec3 ch\u1ec9 r\u00f5 chuy\u1ec3n ti\u1ebfp v\u1eadn h\u00e0nh ra sao, ch\u00fang t\u00f4i gi\u1edbi thi\u1ec7u v\u1edbi b\u1ea1n m\u1ed9t kh\u00f3a chuy\u1ec3n kh\u00e1c, kh\u00f3a chuy\u1ec3n r cho l\u1ec7nh ls."
+        },
+        {
+            "en": "If you use <em>ls</em> -1 to look at a file that has hard links, you'll see the following.",
+            "vi": "N\u1ebfu d\u00f9ng l\u1ec7nh ls - 1 \u0111\u1ec3 nh\u00ecn v\u00e0o m\u1ed9t t\u1eadp tin c\u00f3 li\u00ean k\u1ebft c\u1ee9ng, th\u00ec b\u1ea1n s\u1ebd th\u1ea5y nh\u01b0 sau."
+        },
+        {
+            "en": "The difference is that this shell scripts is slower, since <em>ls</em> has to be called for each file.",
+            "vi": "Ch\u1ec9 kh\u00e1c \u1edf ch\u1ed1 shell script n\u00e0y ch\u1ea1y ch\u1eadm h\u01a1n, do l\u1ec7nh ls ph\u1ea3i \u0111\u01b0\u1ee3c g\u1ecdi \u1ee9ng v\u1edbi t\u1eebng t\u1eadp tin."
+        },
+        {
+            "en": "The -d flag tells <em>ls</em> to ignore files that exist in the directory and just display the directory entry.",
+            "vi": "Song c\u1edd - d b\u00e1o cho l\u1ec7nh ls h\u00e3y b\u1ecf qua c\u00e1c t\u1eadp tin t\u1ed3n t\u1ea1i trong th\u01b0 m\u1ee5c \u1ea5y v\u00e0 ch\u1ec9 hi\u1ec3n th\u1ecb kho\u1ea3n th\u01b0 m\u1ee5c th\u00f4i."
+        },
+        {
+            "en": "Why? if you run <em>ls</em> - l on a directory entry, you'll get a listing of files within that directory.",
+            "vi": "T\u1ea1i sao v\u1eady? \u0111\u00f3 l\u00e0 v\u00ec n\u1ebfu b\u1ea1n ch\u1ea1y ls - l tr\u00ean m\u1ed9t kho\u1ea3n th\u01b0 m\u1ee5c, b\u1ea1n s\u1ebd nh\u1eadn \u0111\u01b0\u1ee3c b\u1ea3n k\u00ea c\u00e1c t\u1eadp tin trong th\u01b0 m\u1ee5c \u0111\u00f3."
+        },
+        {
+            "en": "But the output of the <em>ls</em> -lr command still exists in the file without the error message.",
+            "vi": "Song b\u00e2y gi\u1edd k\u1ebft xu\u1ea5t c\u1ee7a l\u1ec7nh ls - lr v\u1eabn n\u1eb1m l\u1ea1i trong file, m\u00e0 v\u1eafng th\u00f4ng b\u00e1o l\u1ed7i \u1ea5y."
+        },
+        {
+            "en": "Fortunately, find can tell you what file it's looking through at the current moment with the - <em>ls</em> option.",
+            "vi": "May thay, l\u1ec7nh find c\u00f3 th\u1ec3 b\u00e1o cho b\u1ea1n bi\u1ebft t\u1ea1i th\u1eddi \u0111i\u1ec3m hi\u1ec7n h\u00e0nh n\u00f3 \u0111ang duy\u1ec7t qua t\u1eadp tin n\u00e0o, b\u1eb1ng t\u00f9y ch\u1ecdn - ls."
+        }
+    ],
+    "suggestions": []
+}
