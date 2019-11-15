@@ -1,0 +1,63 @@
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"dict--title\">T\u1eeb \u0111i\u1ec3n Anh - Vi\u1ec7t</div><div class=\"dict--content\"><table id=\"definition\" border=\"0\"><tr id=\"mn\"><td>\u00a0</td><td id=\"I_C\"><font color=\"#999\">\u25a0</font></td><td id=\"C_C\">Xem <font color=\"#1371BB\">demon</font></td></tr></table><i/></div>",
+            "word": "daemon"
+        }
+    },
+    "en_en": {
+        "data": {
+            "content": "<div class=\"dict--title\">Anh - Anh</div><div class=\"dict--content\"><k>daemon</k><blockquote><b>daemon<sup>1</sup></b><cclass>[<cclass>'di:m\u0259n<cclass>]</cclass></cclass></cclass></blockquote><blockquote>(also <cclass><b>daimon</b>) </cclass></blockquote><blockquote>\u25a0 <cclass>noun </cclass></blockquote><blockquote><blockquote>1\u300b (in ancient Greek belief) a divinity or supernatural being of a nature between gods and humans. </blockquote></blockquote><blockquote><blockquote>\u00a0\u00a0\u00a0\u00a0\u2043 an inner or attendant spirit or inspiring force. </blockquote></blockquote><blockquote><blockquote>2\u300b archaic spelling of <kref>demon</kref><sup>1</sup>. </blockquote></blockquote><blockquote/><blockquote><b><cclass>Derivatives</cclass></b></blockquote><blockquote><cclass><b>daemonic</b><cclass>adjective </cclass></cclass></blockquote><blockquote/><blockquote><b><cclass>Origin</cclass></b></blockquote><blockquote>C16: common spelling of <kref>demon</kref><sup>1</sup> until the 19th cent. </blockquote><blockquote><blockquote>\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014</blockquote></blockquote><blockquote><b>daemon<sup>2</sup></b><cclass>[<cclass>'di:m\u0259n<cclass>]</cclass></cclass></cclass></blockquote><blockquote>(also <cclass><b>demon</b>) </cclass></blockquote><blockquote>\u25a0 <cclass>noun <cclass>Computing a background process that handles requests for services such as print spooling, and is dormant when not required. </cclass></cclass></blockquote><blockquote/><blockquote><b><cclass>Origin</cclass></b></blockquote><blockquote>1980s: perh. from <i>d(isk) a(nd) e(xecution) mon(itor)</i> or from <i>de(vice) mon(itor)</i>, or merely a transferred use of <kref>demon</kref><sup>1</sup>. </blockquote></div>",
+            "word": "daemon"
+        }
+    },
+    "synonyms": {
+        "data": {
+            "content": "<div class=\"dict--title\">T\u1eeb \u0111i\u1ec3n \u0110\u1ed3ng ngh\u0129a</div><div class=\"dict--content\"><k>daemon</k><blockquote>\u25b8 <cclass>noun NUMEN, genius (loci), attendant spirit, tutelary spirit.</cclass></blockquote></div>",
+            "word": "daemon"
+        }
+    },
+    "grammar": {
+        "data": {
+            "content": null,
+            "word": "daemon"
+        }
+    },
+    "specialist": {
+        "data": {
+            "content": "<div class=\"dict--title\">T\u1eeb \u0111i\u1ec3n K\u1ef9 thu\u1eadt (EN)</div><div class=\"dict--content\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0con q\u1ee7y</font></td></tr></tbody></table></div>",
+            "word": "daemon"
+        }
+    },
+    "sentences": [
+        {
+            "en": "Line printer <em>daemon</em>.",
+            "vi": "N\u1ed1i m\u00e1y in."
+        },
+        {
+            "en": "This results in less unnecessary thrashing of <em>daemon</em> processes and a faster system overall.",
+            "vi": "C\u00e1ch n\u00e0y l\u00e0m gi\u1ea3m \u0111\u1ee5ng \u0111\u1ed9 kh\u00f4ng c\u1ea7n thi\u1ebft gi\u1eefa c\u00e1c ti\u1ebfn tr\u00ecnh daemon v\u00e0 khi\u1ebfn cho h\u1ec7 th\u1ed1ng t\u1ed5ng th\u1ec3 ch\u1ea1y nhanh h\u01a1n."
+        },
+        {
+            "en": "In order to use the PPP connection, you'll need the pppd (or ppp <em>daemon</em>) software installed.",
+            "vi": "\u0110\u1ec3 d\u00f9ng k\u1ebft n\u1ed1i ppp, b\u1ea1n s\u1ebd c\u1ea7n c\u00e0i \u0111\u1eb7t ph\u1ea7n m\u1ec1m pppd (t\u1ee9c ppp daemon)."
+        },
+        {
+            "en": "The program used in Linux to handle print jobs and actually interact with the printers is called lpd, for line printer <em>daemon</em>.",
+            "vi": "Linux d\u00f9ng m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 qu\u1ea3n c\u00e1c t\u00e1c v\u1ee5 in v\u00e0 t\u01b0\u01a1ng t\u00e1c th\u1ef1c s\u1ef1 v\u1edbi c\u00e1c m\u00e1y in, t\u00ean l\u00e0 lpd."
+        },
+        {
+            "en": "Using the syslogd <em>daemon</em>, the kernel and various daemons are all able to record events to a file to be reviewed later.",
+            "vi": "V\u1eadn d\u1ee5ng syslogd deamon, kernel hay m\u1ed9t lo\u1ea1t deamon kh\u00e1c \u0111\u1ec1u c\u00f3 th\u1ec3 ghi l\u1ea1i c\u00e1c di\u1ec5n bi\u1ebfn c\u1ee7a h\u1ec7 th\u1ed1ng v\u00e0o m\u1ed9t t\u1eadp tin \u0111\u1ec3 v\u1ec1 sau xem l\u1ea1i \u0111\u01b0\u1ee3c."
+        },
+        {
+            "en": "Unfortunately, for every web connection, only one <em>daemon</em> can be talking and so most of these lose out and go back to waiting and hoping that they're next.",
+            "vi": "Ti\u1ebfc thay, v\u1edbi m\u1ed7i k\u1ebft n\u1ed1i web, ch\u1ec9 \u0111\u01b0\u1ee3c ph\u00e9p m\u1ed9t daemon kh\u1ea3 d\u0129 tr\u00f2 chuy\u1ec7n m\u00e0 th\u00f4i do \u0111\u00f3, h\u1ea7u h\u1ebft ch\u00fang \u0111\u1ec1u b\u1ecb h\u1ee5t h\u1eabng v\u00e0 \u0111\u00e0nh ph\u1ea3i quay l\u1ea1i ch\u1edd, hy v\u1ecdng s\u1ebd \u0111\u1ebfn l\u01b0\u1ee3t m\u00ecnh."
+        },
+        {
+            "en": "Any requests it can't handle can be passed to user-space, where Apache or another waiting web <em>daemon</em> can snatch it up and serve it.",
+            "vi": "B\u1ea5t c\u1ee9 y\u00eau c\u1ea7u n\u00e0o n\u00f3 kh\u00f4ng qu\u1ea3n \u0111\u01b0\u1ee3c \u0111\u1ec1u c\u00f3 th\u1ec3 \u0111\u1ea9y qua kh\u00f4ng gian ng\u01b0\u1eddi d\u00f9ng, n\u01a1i c\u00f3 apatche hay m\u1ed9t web daemon kh\u00e1c \u0111ang ch\u1edd c\u00f3 th\u1ec3 \u0111\u00f3n b\u1eaft v\u00e0 ph\u1ee5c v\u1ee5 n\u00f3."
+        }
+    ],
+    "suggestions": []
+}
