@@ -1,1 +1,77 @@
-{"error": 0, "query": "honora", "enViData": {"suggests": [{"id": "44616", "link": "/find?type=1&query=honorable", "word": "honorable"}, {"id": "44617", "link": "/find?type=1&query=honorably", "word": "honorably"}, {"id": "44618", "link": "/find?type=1&query=honorand", "word": "honorand"}, {"id": "44619", "link": "/find?type=1&query=honoraria", "word": "honoraria"}, {"id": "44620", "link": "/find?type=1&query=honorarium", "word": "honorarium"}, {"id": "44621", "link": "/find?type=1&query=honorary", "word": "honorary"}]}, "mUrl": "/find?type=1&query=honora", "enEnData": {"suggests": [{"id": "13842", "link": "/find?type=3&query=honorable", "word": "honorable"}, {"id": "13843", "link": "/find?type=3&query=honorable+mention", "word": "honorable mention"}, {"id": "13844", "link": "/find?type=3&query=honorarium", "word": "honorarium"}, {"id": "13845", "link": "/find?type=3&query=honorary", "word": "honorary"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3351", "link": "/find?type=4&query=honorarium", "word": "honorarium"}, {"id": "3352", "link": "/find?type=4&query=honorary", "word": "honorary"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13842",
+                "link": "/find?type=3&query=honorable",
+                "word": "honorable"
+            },
+            {
+                "id": "13843",
+                "link": "/find?type=3&query=honorable+mention",
+                "word": "honorable mention"
+            },
+            {
+                "id": "13844",
+                "link": "/find?type=3&query=honorarium",
+                "word": "honorarium"
+            },
+            {
+                "id": "13845",
+                "link": "/find?type=3&query=honorary",
+                "word": "honorary"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44616",
+                "link": "/find?type=1&query=honorable",
+                "word": "honorable"
+            },
+            {
+                "id": "44617",
+                "link": "/find?type=1&query=honorably",
+                "word": "honorably"
+            },
+            {
+                "id": "44618",
+                "link": "/find?type=1&query=honorand",
+                "word": "honorand"
+            },
+            {
+                "id": "44619",
+                "link": "/find?type=1&query=honoraria",
+                "word": "honoraria"
+            },
+            {
+                "id": "44620",
+                "link": "/find?type=1&query=honorarium",
+                "word": "honorarium"
+            },
+            {
+                "id": "44621",
+                "link": "/find?type=1&query=honorary",
+                "word": "honorary"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3351",
+                "link": "/find?type=4&query=honorarium",
+                "word": "honorarium"
+            },
+            {
+                "id": "3352",
+                "link": "/find?type=4&query=honorary",
+                "word": "honorary"
+            }
+        ]
+    }
+}
