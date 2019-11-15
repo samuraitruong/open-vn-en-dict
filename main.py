@@ -20,6 +20,10 @@ parser.add_argument('--log-file', dest='logFile', default="logs.json",
 parser.add_argument('--input-file', dest='inputFile', default="words.json",
                     help='List of words to process, defautl will fetch from github')
 
+
+parser.add_argument('--overwrite', dest='overwrite', default=True,
+                    help='Re fetch and overwrite local file if exists')
+
 args = parser.parse_args()
 
 
