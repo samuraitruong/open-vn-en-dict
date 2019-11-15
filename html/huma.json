@@ -1,1 +1,132 @@
-{"error": 0, "query": "huma", "enViData": {"suggests": [{"id": "45097", "link": "/find?type=1&query=human", "word": "human"}, {"id": "45098", "link": "/find?type=1&query=human+being", "word": "human being"}, {"id": "45099", "link": "/find?type=1&query=Human+capital", "word": "Human capital"}, {"id": "45100", "link": "/find?type=1&query=human+interest", "word": "human interest"}, {"id": "45101", "link": "/find?type=1&query=human+nature", "word": "human nature"}, {"id": "45102", "link": "/find?type=1&query=human+race", "word": "human race"}, {"id": "45103", "link": "/find?type=1&query=human+rights", "word": "human rights"}, {"id": "45104", "link": "/find?type=1&query=Human+wealth", "word": "Human wealth"}, {"id": "45105", "link": "/find?type=1&query=humane", "word": "humane"}, {"id": "45106", "link": "/find?type=1&query=humane+killer", "word": "humane killer"}]}, "mUrl": "/find?type=1&query=huma", "enEnData": {"suggests": [{"id": "14082", "link": "/find?type=3&query=human", "word": "human"}, {"id": "14083", "link": "/find?type=3&query=human+being", "word": "human being"}, {"id": "14084", "link": "/find?type=3&query=human+immunodeficiency+virus", "word": "human immunodeficiency virus"}, {"id": "14085", "link": "/find?type=3&query=human+nature", "word": "human nature"}, {"id": "14086", "link": "/find?type=3&query=human+race", "word": "human race"}, {"id": "14087", "link": "/find?type=3&query=human+resources", "word": "human resources"}, {"id": "14088", "link": "/find?type=3&query=human+right", "word": "human right"}, {"id": "14089", "link": "/find?type=3&query=humane", "word": "humane"}, {"id": "14090", "link": "/find?type=3&query=humanism", "word": "humanism"}, {"id": "14091", "link": "/find?type=3&query=humanitarian", "word": "humanitarian"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3402", "link": "/find?type=4&query=human", "word": "human"}, {"id": "3403", "link": "/find?type=4&query=humanitarian", "word": "humanitarian"}, {"id": "3404", "link": "/find?type=4&query=humanity", "word": "humanity"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14082",
+                "link": "/find?type=3&query=human",
+                "word": "human"
+            },
+            {
+                "id": "14083",
+                "link": "/find?type=3&query=human+being",
+                "word": "human being"
+            },
+            {
+                "id": "14084",
+                "link": "/find?type=3&query=human+immunodeficiency+virus",
+                "word": "human immunodeficiency virus"
+            },
+            {
+                "id": "14085",
+                "link": "/find?type=3&query=human+nature",
+                "word": "human nature"
+            },
+            {
+                "id": "14086",
+                "link": "/find?type=3&query=human+race",
+                "word": "human race"
+            },
+            {
+                "id": "14087",
+                "link": "/find?type=3&query=human+resources",
+                "word": "human resources"
+            },
+            {
+                "id": "14088",
+                "link": "/find?type=3&query=human+right",
+                "word": "human right"
+            },
+            {
+                "id": "14089",
+                "link": "/find?type=3&query=humane",
+                "word": "humane"
+            },
+            {
+                "id": "14090",
+                "link": "/find?type=3&query=humanism",
+                "word": "humanism"
+            },
+            {
+                "id": "14091",
+                "link": "/find?type=3&query=humanitarian",
+                "word": "humanitarian"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45097",
+                "link": "/find?type=1&query=human",
+                "word": "human"
+            },
+            {
+                "id": "45098",
+                "link": "/find?type=1&query=human+being",
+                "word": "human being"
+            },
+            {
+                "id": "45099",
+                "link": "/find?type=1&query=Human+capital",
+                "word": "Human capital"
+            },
+            {
+                "id": "45100",
+                "link": "/find?type=1&query=human+interest",
+                "word": "human interest"
+            },
+            {
+                "id": "45101",
+                "link": "/find?type=1&query=human+nature",
+                "word": "human nature"
+            },
+            {
+                "id": "45102",
+                "link": "/find?type=1&query=human+race",
+                "word": "human race"
+            },
+            {
+                "id": "45103",
+                "link": "/find?type=1&query=human+rights",
+                "word": "human rights"
+            },
+            {
+                "id": "45104",
+                "link": "/find?type=1&query=Human+wealth",
+                "word": "Human wealth"
+            },
+            {
+                "id": "45105",
+                "link": "/find?type=1&query=humane",
+                "word": "humane"
+            },
+            {
+                "id": "45106",
+                "link": "/find?type=1&query=humane+killer",
+                "word": "humane killer"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3402",
+                "link": "/find?type=4&query=human",
+                "word": "human"
+            },
+            {
+                "id": "3403",
+                "link": "/find?type=4&query=humanitarian",
+                "word": "humanitarian"
+            },
+            {
+                "id": "3404",
+                "link": "/find?type=4&query=humanity",
+                "word": "humanity"
+            }
+        ]
+    }
+}
