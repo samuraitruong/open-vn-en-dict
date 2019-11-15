@@ -1,1 +1,22 @@
-{"error": 0, "query": "housewarm", "enViData": {"suggests": [{"id": "45002", "link": "/find?type=1&query=housewarming", "word": "housewarming"}]}, "mUrl": "/find?type=1&query=housewarm", "enEnData": {"suggests": [{"id": "14029", "link": "/find?type=3&query=housewarming", "word": "housewarming"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14029",
+                "link": "/find?type=3&query=housewarming",
+                "word": "housewarming"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45002",
+                "link": "/find?type=1&query=housewarming",
+                "word": "housewarming"
+            }
+        ]
+    }
+}
