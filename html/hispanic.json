@@ -1,1 +1,26 @@
-{"error": 0, "query": "hispanic", "enViData": {"suggests": [], "best": {"id": "44161", "details": "\n<div id=\"find_word_44161\" class=\"world word_en\" rel=\"Hispanic\">\n    <h2 class=\"fl\">Hispanic <span class=\"color-black\">/hi'sp\u00e6nik/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"44161\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"44161\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] T\u00e2y Ban Nha v\u00e0 B\u1ed3 \u0110\u00e0o Nha</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] T\u00e2y Ban Nha;[thu\u1ed9c] c\u00e1c n\u01b0\u1edbc n\u00f3i ti\u1ebfng T\u00e2y Ban Nha</div>\n    \n</div>\n", "link": "/find?type=1&query=Hispanic", "word": "Hispanic"}}, "mUrl": "/find?type=1&query=hispanic", "enEnData": {"suggests": [], "best": {"id": "13650", "details": "\n<div id=\"find_word_13650\" class=\"world word_en\" rel=\"Hispanic\">\n    <h2 class=\"fl\">Hispanic <span class=\"color-black\">/h\u026a\u02c8sp\u00e6n\u026ak/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"13650\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"13650\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">coming originally from an area where Spanish is spoken and especially from Latin America</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hispanic people also;  :of or relating to Hispanic people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hispanic culture</div>\n    \n</div>\n", "link": "/find?type=3&query=Hispanic", "word": "Hispanic"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>adjective</span></div>\n    \n    <div class=\"green margin25 m-top15\">coming originally from an area where Spanish is spoken and especially from Latin America</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hispanic people also;  :of or relating to Hispanic people</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">Hispanic culture</div>",
+            "mean": [],
+            "pronounce": "/h\u026a\u02c8sp\u00e6n\u026ak/",
+            "type": "adjective",
+            "word": "Hispanic"
+        },
+        "suggests": []
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>T\u00ednh t\u1eeb</span></div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] T\u00e2y Ban Nha v\u00e0 B\u1ed3 \u0110\u00e0o Nha</div>\n    \n    <div class=\"green margin25 m-top15\">[thu\u1ed9c] T\u00e2y Ban Nha;[thu\u1ed9c] c\u00e1c n\u01b0\u1edbc n\u00f3i ti\u1ebfng T\u00e2y Ban Nha</div>",
+            "mean": [],
+            "pronounce": "/hi'sp\u00e6nik/",
+            "speak": {
+                "uk": "https://stream-dict-laban.zdn.vn/uk/ad433d6d519cdadec38897dbbcc29574/16e6d32a216/H/Hispanic.mp3",
+                "us": "https://stream-dict-laban.zdn.vn/us/bcbd10466ea9cd14f37ead8dd1f9a0c0/16e6d329d27/H/Hispanic.mp3"
+            },
+            "type": "T\u00ednh t\u1eeb",
+            "word": "Hispanic"
+        },
+        "suggests": []
+    }
+}
