@@ -1,1 +1,39 @@
-{"error": 0, "query": "histamin", "enViData": {"suggests": [{"id": "44168", "link": "/find?type=1&query=histamine", "word": "histamine"}, {"id": "44168", "link": "/find?type=1&query=histaminergic", "word": "histaminergic"}, {"id": "44168", "link": "/find?type=1&query=histaminic", "word": "histaminic"}], "best": {"id": "44168", "details": "\n<div id=\"find_word_44168\" class=\"world word_en\" rel=\"histamin\">\n    <h2 class=\"fl\">histamin <span class=\"color-black\">/'hist\u0259mi:n/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"44168\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"44168\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a; sinh)</div>\n    \n    <div class=\"green margin25 m-top15\">histamin</div>\n    \n</div>\n", "link": "/find?type=1&query=histamin", "word": "histamin"}}, "mUrl": "/find?type=1&query=histamin", "enEnData": {"suggests": [{"id": "13653", "link": "/find?type=3&query=histamine", "word": "histamine"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13653",
+                "link": "/find?type=3&query=histamine",
+                "word": "histamine"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb</span></div>\n    \n    <div class=\"\">(h\u00f3a; sinh)</div>\n    \n    <div class=\"green margin25 m-top15\">histamin</div>",
+            "mean": [],
+            "pronounce": "/'hist\u0259mi:n/",
+            "speak": {},
+            "type": "Danh t\u1eeb",
+            "word": "histamin"
+        },
+        "suggests": [
+            {
+                "id": "44168",
+                "link": "/find?type=1&query=histamine",
+                "word": "histamine"
+            },
+            {
+                "id": "44168",
+                "link": "/find?type=1&query=histaminergic",
+                "word": "histaminergic"
+            },
+            {
+                "id": "44168",
+                "link": "/find?type=1&query=histaminic",
+                "word": "histaminic"
+            }
+        ]
+    }
+}
