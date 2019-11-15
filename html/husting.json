@@ -1,1 +1,32 @@
-{"error": 0, "query": "husting", "enViData": {"suggests": [{"id": "45289", "link": "/find?type=1&query=hustings", "word": "hustings"}]}, "mUrl": "/find?type=1&query=husting", "enEnData": {"suggests": [{"id": "14163", "link": "/find?type=3&query=hustings", "word": "hustings"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3430", "link": "/find?type=4&query=hustle", "word": "hustle"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14163",
+                "link": "/find?type=3&query=hustings",
+                "word": "hustings"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "45289",
+                "link": "/find?type=1&query=hustings",
+                "word": "hustings"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3430",
+                "link": "/find?type=4&query=hustle",
+                "word": "hustle"
+            }
+        ]
+    }
+}
