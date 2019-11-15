@@ -27,7 +27,7 @@ parser.add_argument('--overwrite', dest='overwrite', default=True,
 parser.add_argument('--output', dest='output', default="html",
                     help='Output folder')
 
-parser.add_argument('--threads', dest='threads', default=25,
+parser.add_argument('--threads', dest='threads', type=int, default=25,
                     help='Number of threads')
 
 
