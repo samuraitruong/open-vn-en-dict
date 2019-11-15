@@ -1,1 +1,45 @@
-{"error": 0, "query": "hrs", "enViData": {"suggests": [{"id": "45045", "link": "/find?type=1&query=hramsa", "word": "hramsa"}, {"id": "45045", "link": "/find?type=1&query=HRH", "word": "HRH"}], "best": {"id": "45045", "details": "\n<div id=\"find_word_45045\" class=\"world word_en\" rel=\"hr\">\n    <h2 class=\"fl\">hr <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45045\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45045\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>vi\u1ebft t\u1eaft</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u hrs) (vi\u1ebft t\u1eaft c\u1ee7a hour)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the train leaves at 15.00 hrs</div>\n    \n    <div class=\"margin25\">t\u00e0u kh\u1edfi h\u00e0nh l\u00fac 15 gi\u1edd</div>\n    \n</div>\n", "link": "/find?type=1&query=hr", "word": "hr"}}, "mUrl": "/find?type=1&query=hrs", "enEnData": {"suggests": [{"id": "14052", "link": "/find?type=3&query=HR", "word": "HR"}, {"id": "14052", "link": "/find?type=3&query=HRH", "word": "HRH"}], "best": {"id": "14052", "details": "\n<div id=\"find_word_14052\" class=\"world word_en\" rel=\"hr\">\n    <h2 class=\"fl\">hr <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"14052\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"14052\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">hour</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a 35-hr work week</div>\n    \n</div>\n", "link": "/find?type=3&query=hr", "word": "hr"}}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>abbreviation</span></div>\n    \n    <div class=\"green margin25 m-top15\">hour</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">a 35-hr work week</div>",
+            "mean": [],
+            "pronounce": "",
+            "type": "abbreviation",
+            "word": "hr"
+        },
+        "suggests": [
+            {
+                "id": "14052",
+                "link": "/find?type=3&query=HR",
+                "word": "HR"
+            },
+            {
+                "id": "14052",
+                "link": "/find?type=3&query=HRH",
+                "word": "HRH"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>vi\u1ebft t\u1eaft</span></div>\n    \n    <div class=\"\">(s\u1ed1 nhi\u1ec1u hrs) (vi\u1ebft t\u1eaft c\u1ee7a hour)</div>\n    \n    <div class=\"green margin25 m-top15\">gi\u1edd</div>\n    \n    <div class=\"color-light-blue margin25 m-top15\">the train leaves at 15.00 hrs</div>\n    \n    <div class=\"margin25\">t\u00e0u kh\u1edfi h\u00e0nh l\u00fac 15 gi\u1edd</div>",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "vi\u1ebft t\u1eaft",
+            "word": "hr"
+        },
+        "suggests": [
+            {
+                "id": "45045",
+                "link": "/find?type=1&query=hramsa",
+                "word": "hramsa"
+            },
+            {
+                "id": "45045",
+                "link": "/find?type=1&query=HRH",
+                "word": "HRH"
+            }
+        ]
+    }
+}
