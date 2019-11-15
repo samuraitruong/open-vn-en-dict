@@ -31,6 +31,10 @@ parser.add_argument('--threads', dest='threads', type=int, default=25,
                     help='Number of threads')
 
 
+parser.add_argument('--update--interval', dest='updateInterval', type=int, default=2500,
+                    help='Persits the  logs file after success numner of item')
+
+
 args = parser.parse_args()
 
 
@@ -104,7 +108,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as executor
                 store.writeJson(result, fileName.lower())
                 logs[url] = 1
                 delta = delta + 1
-                if delta > 1000:
+                if delta > args.updateInterval:
                     delta = 0
                     print("Update logs files")
                     store.writeJson(logs, args.logFile, True)
