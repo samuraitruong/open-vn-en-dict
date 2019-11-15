@@ -1,0 +1,103 @@
+{
+    "en_vn": {
+        "data": {
+            "content": null,
+            "word": "substring"
+        }
+    },
+    "en_en": {
+        "data": {
+            "content": null,
+            "word": "substring"
+        }
+    },
+    "synonyms": {
+        "data": {
+            "content": null,
+            "word": "substring"
+        }
+    },
+    "grammar": {
+        "data": {
+            "content": null,
+            "word": "substring"
+        }
+    },
+    "specialist": {
+        "data": {
+            "content": "<div class=\"dict--title\">T\u1eeb \u0111i\u1ec3n K\u1ef9 thu\u1eadt (EN)</div><div class=\"dict--content\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0chu\u1ed7i con</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><li><font color=\"#005ba1\">character substring</font><font color=\"#282828\">: chu\u1ed7i con k\u00fd t\u1ef1</font></li></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><b><font color=\"#1a76bf\">L\u0129nh v\u1ef1c:</font></b><font color=\"#666699\"> to\u00e1n &amp; tin</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0x\u00e2u con</font></td></tr></tbody></table></div>",
+            "word": "substring"
+        }
+    },
+    "sentences": [
+        {
+            "en": "Technically, it's an operator, the <em>substring</em> operator.",
+            "vi": "V\u1ec1 chuy\u00ean m\u00f4n, n\u00f3 thu\u1ed9c lo\u1ea1i to\u00e1n t\u1eed, to\u00e1n t\u1eed x\u00e2u con."
+        },
+        {
+            "en": "Usually pronounced \"stringtran\", this function replaces one <em>substring</em> in text with another <em>substring</em>.",
+            "vi": "Th\u01b0\u1eddng \u0111\u1ecdc l\u00e0 \"stringtran\", h\u00e0m n\u00e0y thay th\u1ebf m\u1ed9t x\u00e2u con trong v\u0103n b\u1ea3n b\u1eb1ng m\u1ed9t x\u00e2u con kh\u00e1c."
+        },
+        {
+            "en": "Create a for expression that uses the <em>substring</em> operator $.",
+            "vi": "T\u1ea1o bi\u1ec3u th\u1ee9c c\u1ee7a m\u1ec7nh \u0111\u1ec1 for c\u00f3 d\u00f9ng to\u00e1n t\u1eed t\u00ecm chu\u1ed7i con $."
+        },
+        {
+            "en": "But be warned: expressions using the <em>substring</em> operator are not optimizable by the rushmore technology.",
+            "vi": "Song n\u00ean d\u00e8 ch\u1eebng: c\u00e1c bi\u1ec3u th\u1ee9c c\u00f3 d\u00f9ng to\u00e1n t\u1eed x\u00e2u con kh\u00f4ng t\u1ed1i \u01b0u h\u00f3a \u0111\u01b0\u1ee3c b\u1eb1ng c\u00f4ng ngh\u1ec7 rushmore."
+        },
+        {
+            "en": "For example, with character expressions, addition, subtraction, and <em>substring</em> ($) operators are evaluated first.",
+            "vi": "V\u00ed d\u1ee5, v\u1edbi c\u00e1c bi\u1ec3u th\u1ee9c k\u00fd t\u1ef1, ph\u00e9p c\u1ed9ng, ph\u00e9p tr\u1eeb, v\u00e0 ph\u00e9p l\u1ea5y chu\u1ed7i con ($) s\u1ebd \u0111\u01b0\u1ee3c \u01b0\u1edbc l\u01b0\u1ee3ng tr\u01b0\u1edbc ti\u00ean."
+        },
+        {
+            "en": "The first expression you can use directly in the <em>substring</em> function, because it almost provides the starting position.",
+            "vi": "Bi\u1ec3u th\u1ee9c th\u1ee9 nh\u1ea5t b\u1ea1n c\u00f3 th\u1ec3 d\u00f9ng th\u1eb3ng trong h\u00e0m x\u00e2u con, v\u00ec n\u00f3 nh\u01b0 cho bi\u1ebft v\u1ecb tr\u00ed kh\u1edfi \u0111\u1ea7u."
+        },
+        {
+            "en": "With stuff (), you often need to know or test for the exact position of the <em>substring</em> you plan to replace.",
+            "vi": "V\u1edbi h\u00e0m stuff (), th\u00f4ng th\u01b0\u1eddng b\u1ea1n c\u1ea7n bi\u1ebft ho\u1eb7c ki\u1ec3m tra v\u1ecb tr\u00ed \u0111\u00edch x\u00e1c c\u1ee7a x\u00e2u con b\u1ea1n t\u00ednh thay th\u1ebf."
+        },
+        {
+            "en": "The test performed by the <em>substring</em> operator is sensitive to whether both strings match upper and lower case lettering.",
+            "vi": "Ph\u00e9p ki\u1ec3m tra th\u1ef1c hi\u1ec7n b\u1eb1ng to\u00e1n t\u1eed x\u00e2u con kh\u00e1 nh\u1ea1y c\u1ea3m v\u1edbi c\u00e1c x\u00e2u \u0111\u1ed1i s\u00e1nh c\u00f3 ch\u1eef c\u00e1i l\u1edbn hay nh\u1ecf."
+        },
+        {
+            "en": "The <em>substring</em> operator lends itself to logical expression conditions, like those of the for and while clauses.",
+            "vi": "B\u1ea3n th\u00e2n to\u00e1n t\u1eed x\u00e2u con c\u0169ng h\u1ed7 tr\u1ee3 cho c\u00e1c \u0111i\u1ec1u ki\u1ec7n c\u1ee7a bi\u1ec3u th\u1ee9c l\u00f4gic, nh\u01b0 c\u00e1c \u0111i\u1ec1u ki\u1ec7n c\u1ee7a m\u1ec7nh \u0111\u1ec1 for ho\u1eb7c while."
+        },
+        {
+            "en": "This function is most useful when you don't know whether a field contains a particular <em>substring</em> or not.",
+            "vi": "H\u00e0m n\u00e0y \u0111\u1eafc d\u1ee5ng nh\u1ea5t khi b\u1ea1n kh\u00f4ng bi\u1ebft li\u1ec7u m\u1ed9t tr\u01b0\u1eddng c\u00f3 ch\u1ee9a m\u1ed9t x\u00e2u con c\u1ee5 th\u1ec3 hay kh\u00f4ng."
+        },
+        {
+            "en": "So the final <em>substring</em> function, which you would use in either the command window or in the system menu, looks like this.",
+            "vi": "Do v\u1eady h\u00e0m x\u00e2u con sau c\u00f9ng m\u00e0 b\u1ea1n ph\u1ea3i d\u00f9ng trong c\u1eeda s\u1ed5 l\u1ec7nh ho\u1eb7c trong th\u1ef1c \u0111\u01a1n h\u1ec7 th\u1ed1ng, s\u1ebd c\u00f3 d\u1ea1ng sau."
+        },
+        {
+            "en": "Its ability to pluck a string (called the <em>substring</em>) out of another character string is used constantly in data conversion, field-to-field transfer, and many other operations.",
+            "vi": "C\u00f4ng d\u1ee5ng c\u1ee7a n\u00f3 l\u00e0 ng\u1eaft ra m\u1ed9t x\u00e2u k\u00fd t\u1ef1 (c\u00f2n g\u1ecdi l\u00e0 x\u00e2u con) t\u1eeb m\u1ed9t x\u00e2u k\u00fd t\u1ef1 kh\u00e1c n\u00f3 th\u01b0\u1eddng xuy\u00ean \u0111\u01b0\u1ee3c d\u00f9ng khi ch\u1ebf bi\u1ebfn d\u1eef li\u1ec7u, truy\u1ec1n gi\u1eefa c\u00e1c tr\u01b0\u1eddng, v\u00e0 nhi\u1ec1u c\u00e1c thao t\u00e1c kh\u00e1c."
+        },
+        {
+            "en": "This works because the change won't take place unless the function finds an occurrence of a <em>substring</em>, which will never be both of them-and often neither of them.",
+            "vi": "S\u1edf d\u0129 c\u00e2u l\u1ec7nh n\u00e0y c\u00f4ng d\u1ee5ng v\u00ec s\u1ebd kh\u00f4ng c\u00f3 g\u00ec \u0111\u1ed5i thay tr\u1eeb khi h\u00e0m strtran th\u1ea5y trong tr\u01b0\u1eddng fullname xu\u1ea5t hi\u1ec7n m\u1ed9t x\u00e2u con, v\u1ed1n ch\u1eb3ng bao gi\u1edd l\u00e0 c\u1ea3 hai m\u00e0 th\u01b0\u1eddng l\u00e0 m\u1ed9t trong hai."
+        },
+        {
+            "en": "The <em>substring</em> operator can tell you if a certain character expression is part of another character expression, but it can not tell you where it is, that's a job for the at () function.",
+            "vi": "To\u00e1n t\u1eed x\u00e2u con c\u00f3 th\u1ec3 cho b\u1ea1n hay ph\u1ea3i ch\u0103ng m\u1ed9t bi\u1ec3u th\u1ee9c k\u00fd t\u1ef1 c\u1ee5 th\u1ec3 l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a bi\u1ec3u th\u1ee9c k\u00fd t\u1ef1 kh\u00e1c, nh\u01b0ng kh\u00f4ng th\u1ec3 cho b\u1ea1n bi\u1ebft n\u00f3 n\u1eb1m \u1edf \u0111\u00e2u trong \u0111\u00f3, h\u00e0m at () s\u1ebd l\u00e0m vi\u1ec7c n\u00e0y."
+        },
+        {
+            "en": "This function is a close relative of strtran (), but it's used where you already know a <em>substring</em> exists within another string (that is that it's part of the text in a field).",
+            "vi": "\u0110\u00e2y l\u00e0 m\u1ed9t h\u00e0m t\u01b0\u01a1ng \u0111\u1ed1i g\u1ea7n v\u1edbi h\u00e0m strtran (), nh\u01b0ng n\u00f3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng khi b\u1ea1n \u0111\u00e3 bi\u1ebft r\u00f5 m\u1ed9t x\u00e2u con c\u00f3 m\u1eb7t trong m\u1ed9t x\u00e2u kh\u00e1c (t\u1ee9c x\u00e2u con \u0111\u00f3 l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a v\u0103n b\u1ea3n trong m\u1ed9t tr\u01b0\u1eddng)."
+        },
+        {
+            "en": "The <em>substring</em> function as it is called, is quite probably the most heavily used function for character strings, and possibly the most used of any function for general table maintenance.",
+            "vi": "Nh\u01b0 t\u00ean g\u1ecdi h\u00e0m x\u00e2u con, n\u00f3 \u1eaft ph\u1ea3i \u0111\u01b0\u1ee3c d\u00f9ng cho c\u00e1c x\u00e2u k\u00fd t\u1ef1, v\u00e0 c\u00f3 l\u1ebd n\u00f3 l\u00e0 m\u1ed9t h\u00e0m \u0111\u1eafc d\u1ee5ng nh\u1ea5t trong s\u1ed1 c\u00e1c h\u00e0m ph\u1ed5 d\u1ee5ng \u0111\u1ec3 b\u1ea3o tr\u00ec b\u1ea3ng."
+        },
+        {
+            "en": "As inauspicious as it may seem the <em>substring</em> operator is used all the time to test whether the first string can be found in the second string, or put another way, whether the first expression is contained in the second expression.",
+            "vi": "\u0110\u00e1ng ti\u1ebfc l\u00e0 m\u1ecdi l\u00fac to\u00e1n t\u1eed x\u00e2u con c\u0169ng ch\u1ec9 \u0111\u01b0\u1ee3c d\u00f9ng \u0111\u1ec3 ki\u1ec3m tra xem ph\u1ea3i ch\u0103ng x\u00e2u \u0111em t\u00ecm c\u00f3 n\u1eb1m trong x\u00e2u \u0111\u01b0\u1ee3c t\u00ecm hay kh\u00f4ng hay n\u00f3i c\u00e1ch kh\u00e1c, c\u00f3 ph\u1ea3i bi\u1ec3u th\u1ee9c \u0111\u1ea7u c\u00f3 \u0111\u01b0\u1ee3c ch\u1ee9a trong bi\u1ec3u th\u1ee9c sau hay kh\u00f4ng."
+        }
+    ],
+    "suggestions": []
+}

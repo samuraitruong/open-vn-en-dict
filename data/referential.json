@@ -1,0 +1,107 @@
+{
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"dict--title\">T\u1eeb \u0111i\u1ec3n Anh - Vi\u1ec7t</div><div class=\"dict--content\"><table id=\"definition\" border=\"0\"><tr id=\"pa\"><td id=\"I_C\"><font color=\"#9e9e9e\">\u25d8</font></td><td id=\"C_C\" colspan=\"2\"><font color=\"#9e9e9e\">[,ref\u0259'ren\u222bl]</font></td></tr><tr id=\"tl\"><td id=\"I_C\"><font color=\"#1a76bf\">*</font></td><td id=\"C_C\" colspan=\"2\"><b><font color=\"#1a76bf\">t\u00ednh t\u1eeb</font></b></td></tr><tr id=\"mn\"><td>\u00a0</td><td id=\"I_C\"><font color=\"#999\">\u25a0</font></td><td id=\"C_C\">\u0111\u1ec3 tham kh\u1ea3o; c\u00f3 li\u00ean quan</td></tr></table><i/></div>",
+            "word": "referential"
+        }
+    },
+    "en_en": {
+        "data": {
+            "content": "<div class=\"dict--title\">Anh - Anh</div><div class=\"dict--content\"><k>referential</k><blockquote>\u25a0 <cclass>adjective </cclass></blockquote><blockquote><blockquote>1\u300b containing or of the nature of a reference or references. </blockquote></blockquote><blockquote><blockquote>2\u300b <cclass>Linguistics relating to a referent, in particular having the external world rather than a text or language as a referent. </cclass></blockquote></blockquote><blockquote/><blockquote><b><cclass>Derivatives</cclass></b></blockquote><blockquote><cclass><b>referentiality</b><cclass>noun </cclass></cclass></blockquote><blockquote><cclass><b>referentially</b><cclass>adverb </cclass></cclass></blockquote></div>",
+            "word": "referential"
+        }
+    },
+    "synonyms": {
+        "data": {
+            "content": null,
+            "word": "referential"
+        }
+    },
+    "grammar": {
+        "data": {
+            "content": null,
+            "word": "referential"
+        }
+    },
+    "specialist": {
+        "data": {
+            "content": "<div class=\"dict--title\">T\u1eeb \u0111i\u1ec3n K\u1ef9 thu\u1eadt (EN)</div><div class=\"dict--content\"><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0chu\u1ea9n</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0m\u1ed1c</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><b><font color=\"#1a76bf\">L\u0129nh v\u1ef1c:</font></b><font color=\"#666699\"> \u0111i\u1ec7n l\u1ea1nh</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0quy chi\u1ebfu</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td><font color=\"#005ba1\">referential integrity</font></td></tr></tbody></table><table cellspacing=\"0\" cellpadding=\"0\" border=\"0\"><tbody><tr><td/><td><font color=\"#999\">\u25a0</font><font>\u00a0t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu</font></td></tr></tbody></table></td></tr></tbody></table></div>",
+            "word": "referential"
+        }
+    },
+    "sentences": [
+        {
+            "en": "<em>Referential</em> integrity.",
+            "vi": "T\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu."
+        },
+        {
+            "en": "Using the <em>referential</em> integrity builder.",
+            "vi": "V\u1eadn d\u1ee5ng referential integrity builder."
+        },
+        {
+            "en": "Foxpro does not support this kind of <em>referential</em> integrity enforcement.",
+            "vi": "Visual foxpro kh\u00f4ng \u1ee7ng h\u1ed9 t\u0103ng c\u01b0\u1eddng t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu ki\u1ec3u n\u00e0y."
+        },
+        {
+            "en": "Foxpro capability: as an extension of the triggers capability, foxpro provides the \"<em>referential</em> integrity builder\" to create the complex procedures that maintain <em>referential</em> integrity.",
+            "vi": "Kh\u1ea3 n\u0103ng foxpro: v\u1edbi t\u01b0 c\u00e1ch m\u1edf mang kh\u1ea3 n\u0103ng c\u00e1c trigger, foxpro c\u00f3 cung c\u1ea5p \"b\u1ed9 t\u1ea1o d\u1ef1ng t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu\" \u0111\u1ec3 t\u1ea1o ra c\u00e1c th\u1ee7 t\u1ee5c ph\u1ee9c h\u1ee3p nh\u1eb1m duy tr\u00ec t\u00ednh to\u00e0n v\u1eb9n n\u00e0y."
+        },
+        {
+            "en": "This sort of rule enforces \"<em>referential</em> integrity\", or the integrity of the relations between tables.",
+            "vi": "Lo\u1ea1i quy t\u1eafc n\u00e0y r\u00e0ng bu\u1ed9c \"t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu\", ho\u1eb7c t\u00ednh to\u00e0n v\u1eb9n quan h\u1ec7 gi\u1eefa c\u00e1c b\u1ea3ng."
+        },
+        {
+            "en": "Foxpro recognizes three database events that may require <em>referential</em> integrity treatment insertions, updates, and deletions.",
+            "vi": "Foxpro nh\u1eadn d\u1ea1ng \u0111\u01b0\u1ee3c ba bi\u1ebfn c\u1ed1 csdl c\u00f3 th\u1ec3 \u0111\u00f2i h\u1ecfi x\u1eed l\u00fd t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu \u0111\u00f3 l\u00e0 c\u00e1c thao t\u00e1c ch\u00e8n, c\u1eadp nh\u1eadt, v\u00e0 x\u00f3a."
+        },
+        {
+            "en": "These have been grouped in three categories: index integrity, firld validation, and <em>referential</em> integrity.",
+            "vi": "Ch\u00fang \u0111\u01b0\u1ee3c gom l\u1ea1i th\u00e0nh ba ph\u1ea1m tr\u00f9: to\u00e0n v\u1eb9n ch\u1ec9 m\u1ee5c, h\u1ee3p th\u1ee9c h\u00f3a tr\u01b0\u1eddng, v\u00e0 to\u00e0n v\u1eb9n tham chi\u1ebfu."
+        },
+        {
+            "en": "The <em>referential</em> integrity builder window (figure 10.3) is split in two distinct parts.",
+            "vi": "C\u1eeda s\u1ed5 ri builder (h\u00ecnh 10.3) \u0111\u01b0\u1ee3c chia th\u00e0nh hai n\u1eeda ph\u00e2n bi\u1ec7t."
+        },
+        {
+            "en": "<em>referential</em> meanings of series of related words can be described in a hierarchy.",
+            "vi": "C\u00e1c ngh\u0129a tham kh\u1ea3o c\u1ee7a nh\u1eefng d\u00e3y t\u1eeb c\u00f3 li\u00ean quan c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c di\u1ec5n t\u1ea3 trong m\u1ed9t c\u1ea5u tr\u00fac nhi\u1ec1u t\u1ea7ng."
+        },
+        {
+            "en": "You can also reach the ri builder through the system menu: database, <em>referential</em> integrity.",
+            "vi": "B\u1ea1n c\u0169ng c\u00f3 th\u1ec3 t\u1edbi \u0111\u01b0\u1ee3c ri builder nh\u1edd th\u1ef1c \u0111\u01a1n h\u1ec7 th\u1ed1ng: database, referential integrity."
+        },
+        {
+            "en": "The three \"trigger\" areas are for the <em>referential</em> integrity validation covered in the next section.",
+            "vi": "C\u00f3 ba v\u00f9ng \"trigger\" d\u00e0nh cho vi\u1ec7c h\u1ee3p th\u1ee9c h\u00f3a t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu s\u1ebd \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eadp \u1edf ph\u1ea7n ti\u1ebfp theo."
+        },
+        {
+            "en": "In the top half are the current <em>referential</em> integrity rules (summarized) for all the tables in the database.",
+            "vi": "T\u1ea1i n\u1eeda tr\u00ean l\u00e0 c\u00e1c quy t\u1eafc to\u00e0n v\u1eb9n tham chi\u1ebfu hi\u1ec7n h\u00e0nh (\u0111\u00e3 t\u00f3m l\u01b0\u1ee3c) cho m\u1ecdi b\u1ea3ng trong csdl."
+        },
+        {
+            "en": "Any changes you make to the structure or relationships of your tables need to be reflected in the <em>referential</em> integrity rules.",
+            "vi": "B\u1ea5t k\u1ef3 thay \u0111\u1ed5i n\u00e0o b\u1ea1n t\u1ea1o ra cho c\u1ea5u tr\u00fac ho\u1eb7c c\u00e1c t\u01b0\u01a1ng quan c\u1ee7a c\u00e1c b\u1ea3ng \u0111\u1ec1u c\u1ea7n \u0111\u01b0\u1ee3c ph\u1ea3n \u00e1nh trong c\u00e1c quy t\u1eafc to\u00e0n v\u1eb9n tham chi\u1ebfu."
+        },
+        {
+            "en": "Enforcing <em>referential</em> integrity still requires high-level programming, but thankfully foxpro provides the refential integrity builder, which does the programming automatically.",
+            "vi": "T\u0103ng c\u01b0\u1eddng t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu l\u1ea1i \u0111\u00f2i h\u1ecfi tr\u00ecnh \u0111\u1ed9 l\u1eadp tr\u00ecnh c\u00f2n cao h\u01a1n, song may m\u1eafn thay visual foxpro \u0111\u00e3 c\u00f3 h\u1eb3n b\u1ed9 t\u1ea1o d\u1ef1ng t\u00ednh to\u00e0n v\u1eb9n, \u0111\u1ec3 t\u1ef1 \u0111\u1ed9ng l\u1eadp tr\u00ecnh."
+        },
+        {
+            "en": "This opens a edit text window, in which you will see many lines of foxpro programming code that do the job of maintaining <em>referential</em> integrity.",
+            "vi": "Thao t\u00e1c \u0111\u00f3 m\u1edf ra m\u1ed9t c\u1eeda s\u1ed5 edit text, \u1edf \u0111\u00f3 b\u1ea1n s\u1ebd th\u1ea5y nhi\u1ec1u d\u00f2ng m\u00e3 l\u1eadp tr\u00ecnh foxpro nh\u1eb1m th\u1ef1c thi vi\u1ec7c b\u1ea3o tr\u00ec t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu."
+        },
+        {
+            "en": "These include in no particular order of importance database designer, table designer, report designer, view designer, form designer, expression builder, and <em>referential</em> integrity builder.",
+            "vi": "Kh\u00f4ng k\u1ec3 theo th\u1ee9 t\u1ef1 quan tr\u1ecdng ch\u00fang bao g\u1ed3m thi\u1ebft k\u1ebf c\u01a1 s\u1edf d\u1eef li\u1ec7u, thi\u1ebft k\u1ebf b\u1ea3ng, thi\u1ebft k\u1ebf b\u00e1o c\u00e1o, thi\u1ebft k\u1ebf khung nh\u00ecn, thi\u1ebft k\u1ebf m\u1eabu nh\u1eadp li\u1ec7u, t\u1ea1o d\u1ef1ng bi\u1ec3u th\u1ee9c, t\u1ea1o d\u1ef1ng to\u00e0n v\u1eb9n tham chi\u1ebfu."
+        },
+        {
+            "en": "Maintaining <em>referential</em> integrity, perhaps better described as relational integrity, is vital for relational database systems, because they rely on being able to link.",
+            "vi": "Vi\u1ec7c duy tr\u00ec t\u00ednh to\u00e0n v\u1eb9n tham chi\u1ebfu, m\u00e0 c\u00f3 l\u1ebd \u0111\u00fang ra ph\u1ea3i m\u00f4 t\u1ea3 nh\u01b0 t\u00ednh to\u00e0n v\u1eb9n quan h\u1ec7, qu\u1ea3 l\u00e0 s\u1ed1ng c\u00f2n \u0111\u1ed1i v\u1edbi c\u00e1c h\u1ec7 csdl quan h\u1ec7, b\u1edfi l\u1ebd ch\u00fang d\u1ef1a v\u00e0o kh\u1ea3 n\u0103ng n\u1ed1i k\u1ebft."
+        },
+        {
+            "en": "The easiest way to reach the ri builder is to have the database designer window open for your project, select (click on) any relationship line, and with the right mouse button bring up the shortcut menu to select <em>referential</em> integrity.",
+            "vi": "C\u00e1ch t\u1ed1t nh\u1ea5t \u0111\u1ec3 b\u1ea1n t\u1edbi \u0111\u01b0\u1ee3c ri builder l\u00e0 m\u1edf c\u1eeda s\u1ed5 database designer cho d\u1ef1 \u00e1n c\u1ee7a b\u1ea1n, ch\u1ecdn (nh\u1eafp chu\u1ed9t v\u00e0o) \u0111\u01b0\u1eddng n\u1ed1i bi\u1ec3u th\u1ecb t\u01b0\u01a1ng quan n\u00e0o \u0111\u00f3, r\u1ed3i b\u1eb1ng n\u00fat ph\u1ea3i chu\u1ed9t \u0111em th\u1ef1c \u0111\u01a1n shortcut v\u00e0o referential integrity c\u1ea7n ch\u1ecdn."
+        }
+    ],
+    "suggestions": []
+}
