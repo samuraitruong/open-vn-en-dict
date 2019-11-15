@@ -1,0 +1,67 @@
+{
+    "en_vn": {
+        "data": {
+            "content": null,
+            "word": "Boolean"
+        }
+    },
+    "en_en": {
+        "data": {
+            "content": "<div class=\"dict--title\">Anh - Anh</div><div class=\"dict--content\"><k>Boolean</k><blockquote><cclass>[<cclass>'bu:l\u026a\u0259n<cclass>]</cclass></cclass></cclass></blockquote><blockquote>\u25a0 <cclass>adjective denoting a system of algebraic notation used to represent logical propositions by means of the binary digits 0 (false) and 1 (true), especially in computing and electronics. </cclass></blockquote><blockquote>\u25a0 <cclass>noun <cclass>Computing a binary variable with these possible values. </cclass></cclass></blockquote><blockquote/><blockquote><b><cclass>Origin</cclass></b></blockquote><blockquote>C19: from the name of the English mathematician G. <i>Boole</i> + <kref>-an</kref>. </blockquote></div>",
+            "word": "Boolean"
+        }
+    },
+    "synonyms": {
+        "data": {
+            "content": null,
+            "word": "Boolean"
+        }
+    },
+    "grammar": {
+        "data": {
+            "content": null,
+            "word": "Boolean"
+        }
+    },
+    "specialist": {
+        "data": {
+            "content": null,
+            "word": "Boolean"
+        }
+    },
+    "sentences": [
+        {
+            "en": "These advanced expressions use something called <em>boolean</em> logic, the and, or and not are <em>boolean</em> operators.",
+            "vi": "C\u00e1c bi\u1ec3u th\u1ee9c t\u00e2n k\u1ef3 n\u00e0y \u00e1p d\u1ee5ng m\u1ed9t ng\u1eef ngh\u0129a \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 l\u00f4 - gich bun, and, or v\u00e0 not \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 c\u00e1c to\u00e1n t\u1eed bun."
+        },
+        {
+            "en": "Algebraic immunity of all <em>Boolean</em> functions must be large.",
+            "vi": "Mi\u1ec5n d\u1ecbch \u0111\u1ea1i s\u1ed1 c\u1ee7a t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m Bool ph\u1ea3i l\u1edbn."
+        },
+        {
+            "en": "Set the done <em>boolean</em> to false, indicating that the iteration has not finished.",
+            "vi": "X\u00e1c l\u1eadp bi\u1ebfn l\u00f4 gich done th\u00e0nh false, \u0111\u1ec3 cho bi\u1ebft t\u00e1c v\u1ee5 l\u1eb7p ch\u01b0a xong."
+        },
+        {
+            "en": "It is of course up to the calling function to interpret the <em>boolean</em> return value.",
+            "vi": "D\u0129 nhi\u00ean c\u0169ng c\u1ea7n g\u1ecdi h\u00e0m \u0111\u1ec3 ph\u00ean d\u1ecbch tr\u1ecb l\u00f4 - g\u00edch tr\u1ea3 v\u1ec1."
+        },
+        {
+            "en": "Declare a <em>boolean</em> that flags when the desired element has been found.",
+            "vi": "M\u00f4 t\u1ea3 m\u1ed9t bi\u1ebfn bool l\u00e0m c\u1edd hi\u1ec7u khi ph\u1ea7n t\u1eed mong \u0111\u1ee3i \u0111\u00e3 t\u00ecm th\u1ea5y."
+        },
+        {
+            "en": "If the end of the hash table is encountered without finding another list manager, set the done <em>boolean</em> to true and go to step 8.",
+            "vi": "N\u1ebfu \u0111\u00e3 \u0111\u1ee5ng \u0111\u1ebfn cu\u1ed1i b\u1ea3ng b\u0103m m\u00e0 v\u1eabn kh\u00f4ng th\u1ea5y b\u1ed9 qu\u1ea3n danh s\u00e1ch n\u00e0o, th\u00ec x\u00e1c l\u1eadp bi\u1ebfn done th\u00e0nh true r\u1ed3i nh\u1ea3y t\u1edbi b\u01b0\u1edbc 8."
+        },
+        {
+            "en": "Once a valid list manager has been found, retrieve a pointer to the list and set the newlist <em>boolean</em> to false.",
+            "vi": "M\u1ed9t khi \u0111\u00e3 th\u1ea5y b\u1ed9 qu\u1ea3n danh s\u00e1ch h\u1ee3p l\u1ec7, th\u00ec truy xu\u1ea5t con tr\u1ecf t\u1edbi danh s\u00e1ch t\u01b0\u01a1ng \u1ee9ng r\u1ed3i l\u1eb7p bi\u1ebfn l\u00f4 - gich newlist th\u00e0nh false."
+        },
+        {
+            "en": "If the middle element is the desired element (it's key matches the key of the desired element), store the contents of the middle element in the result variable and set the found <em>boolean</em> to true.",
+            "vi": "N\u1ebfu ph\u1ea7n t\u1eed gi\u1eefa l\u00e0 ph\u1ea7n t\u1eed mong \u0111\u1ee3i (t\u1ee9c tr\u1ecb kho\u00e1 c\u1ee7a n\u00f3 kh\u1edbp v\u1edbi v\u1ecb tr\u00ed kho\u00e1 t\u00ecm ki\u1ebfm), th\u00ec l\u01b0u n\u1ed9i dung c\u1ee7a ph\u1ea7n t\u1eed gi\u1eefa v\u00e0o bi\u1ebfn k\u1ebft qu\u1ea3 result v\u00e0 x\u00e1c l\u1eadp bi\u1ebfn logich found thanh true."
+        }
+    ],
+    "suggestions": []
+}
