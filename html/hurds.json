@@ -1,1 +1,38 @@
-{"error": 0, "query": "hurds", "enViData": {"suggests": [], "best": {"id": "45246", "details": "\n<div id=\"find_word_45246\" class=\"world word_en\" rel=\"hurds\">\n    <h2 class=\"fl\">hurds <span class=\"color-black\">/h\u0259:dz/</span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"45246\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"45246\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, (nh\u01b0)</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e3 \u0111ay gai</div>\n    \n</div>\n", "link": "/find?type=1&query=hurds", "word": "hurds"}}, "mUrl": "/find?type=1&query=hurds", "enEnData": {"suggests": [{"id": "14144", "link": "/find?type=3&query=hurdle", "word": "hurdle"}, {"id": "14145", "link": "/find?type=3&query=hurdy-gurdy", "word": "hurdy-gurdy"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3419", "link": "/find?type=4&query=hurdle", "word": "hurdle"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "14144",
+                "link": "/find?type=3&query=hurdle",
+                "word": "hurdle"
+            },
+            {
+                "id": "14145",
+                "link": "/find?type=3&query=hurdy-gurdy",
+                "word": "hurdy-gurdy"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"bg-grey bold font-large m-top20\"><span>Danh t\u1eeb, (nh\u01b0)</span></div>\n    \n    <div class=\"green margin25 m-top15\">b\u00e3 \u0111ay gai</div>",
+            "mean": [],
+            "pronounce": "/h\u0259:dz/",
+            "speak": {},
+            "type": "Danh t\u1eeb, (nh\u01b0)",
+            "word": "hurds"
+        },
+        "suggests": []
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3419",
+                "link": "/find?type=4&query=hurdle",
+                "word": "hurdle"
+            }
+        ]
+    }
+}
