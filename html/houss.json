@@ -1,1 +1,127 @@
-{"error": 0, "query": "houss", "enViData": {"suggests": [{"id": "44944", "link": "/find?type=1&query=house", "word": "house"}, {"id": "44945", "link": "/find?type=1&query=house+arrest", "word": "house arrest"}, {"id": "44946", "link": "/find?type=1&query=house+lights", "word": "house lights"}, {"id": "44947", "link": "/find?type=1&query=house+man", "word": "house man"}, {"id": "44948", "link": "/find?type=1&query=house+of+cards", "word": "house of cards"}, {"id": "44949", "link": "/find?type=1&query=House+of+God", "word": "House of God"}, {"id": "44950", "link": "/find?type=1&query=house+party", "word": "house party"}, {"id": "44951", "link": "/find?type=1&query=house+physician", "word": "house physician"}, {"id": "44952", "link": "/find?type=1&query=house+surgeon", "word": "house surgeon"}, {"id": "44953", "link": "/find?type=1&query=house-agent", "word": "house-agent"}]}, "mUrl": "/find?type=1&query=houss", "enEnData": {"suggests": [{"id": "13993", "link": "/find?type=3&query=house", "word": "house"}, {"id": "13994", "link": "/find?type=3&query=house+arrest", "word": "house arrest"}, {"id": "13995", "link": "/find?type=3&query=house+call", "word": "house call"}, {"id": "13996", "link": "/find?type=3&query=house+cat", "word": "house cat"}, {"id": "13997", "link": "/find?type=3&query=house+music", "word": "house music"}, {"id": "13998", "link": "/find?type=3&query=house+of+cards", "word": "house of cards"}, {"id": "13999", "link": "/find?type=3&query=House+of+Commons", "word": "House of Commons"}, {"id": "14000", "link": "/find?type=3&query=House+of+Lords", "word": "House of Lords"}, {"id": "14001", "link": "/find?type=3&query=House+of+Representatives", "word": "House of Representatives"}, {"id": "14002", "link": "/find?type=3&query=house+party", "word": "house party"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3385", "link": "/find?type=4&query=house", "word": "house"}, {"id": "3386", "link": "/find?type=4&query=housing", "word": "housing"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13993",
+                "link": "/find?type=3&query=house",
+                "word": "house"
+            },
+            {
+                "id": "13994",
+                "link": "/find?type=3&query=house+arrest",
+                "word": "house arrest"
+            },
+            {
+                "id": "13995",
+                "link": "/find?type=3&query=house+call",
+                "word": "house call"
+            },
+            {
+                "id": "13996",
+                "link": "/find?type=3&query=house+cat",
+                "word": "house cat"
+            },
+            {
+                "id": "13997",
+                "link": "/find?type=3&query=house+music",
+                "word": "house music"
+            },
+            {
+                "id": "13998",
+                "link": "/find?type=3&query=house+of+cards",
+                "word": "house of cards"
+            },
+            {
+                "id": "13999",
+                "link": "/find?type=3&query=House+of+Commons",
+                "word": "House of Commons"
+            },
+            {
+                "id": "14000",
+                "link": "/find?type=3&query=House+of+Lords",
+                "word": "House of Lords"
+            },
+            {
+                "id": "14001",
+                "link": "/find?type=3&query=House+of+Representatives",
+                "word": "House of Representatives"
+            },
+            {
+                "id": "14002",
+                "link": "/find?type=3&query=house+party",
+                "word": "house party"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44944",
+                "link": "/find?type=1&query=house",
+                "word": "house"
+            },
+            {
+                "id": "44945",
+                "link": "/find?type=1&query=house+arrest",
+                "word": "house arrest"
+            },
+            {
+                "id": "44946",
+                "link": "/find?type=1&query=house+lights",
+                "word": "house lights"
+            },
+            {
+                "id": "44947",
+                "link": "/find?type=1&query=house+man",
+                "word": "house man"
+            },
+            {
+                "id": "44948",
+                "link": "/find?type=1&query=house+of+cards",
+                "word": "house of cards"
+            },
+            {
+                "id": "44949",
+                "link": "/find?type=1&query=House+of+God",
+                "word": "House of God"
+            },
+            {
+                "id": "44950",
+                "link": "/find?type=1&query=house+party",
+                "word": "house party"
+            },
+            {
+                "id": "44951",
+                "link": "/find?type=1&query=house+physician",
+                "word": "house physician"
+            },
+            {
+                "id": "44952",
+                "link": "/find?type=1&query=house+surgeon",
+                "word": "house surgeon"
+            },
+            {
+                "id": "44953",
+                "link": "/find?type=1&query=house-agent",
+                "word": "house-agent"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3385",
+                "link": "/find?type=4&query=house",
+                "word": "house"
+            },
+            {
+                "id": "3386",
+                "link": "/find?type=4&query=housing",
+                "word": "housing"
+            }
+        ]
+    }
+}
