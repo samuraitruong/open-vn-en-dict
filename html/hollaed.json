@@ -1,1 +1,39 @@
-{"error": 0, "query": "hollaed", "enViData": {"suggests": [{"id": "44363", "link": "/find?type=1&query=holland", "word": "holland"}, {"id": "44363", "link": "/find?type=1&query=hollander", "word": "hollander"}, {"id": "44363", "link": "/find?type=1&query=hollands", "word": "hollands"}], "best": {"id": "44363", "details": "\n<div id=\"find_word_44363\" class=\"world word_en\" rel=\"holla\">\n    <h2 class=\"fl\">holla <span class=\"color-black\"></span>&nbsp;&nbsp;<span class=\"color-orange\"></span></h2>\n    <div class=\"fl\">\n        <a class=\"sp_uk hidden\" rel=\"44363\" title=\"\" href=\"#\" style=\"margin-left: 0px !important;\">\u0110\u1ecdc gi\u1ecdng UK</a>\n        <a class=\"sp_us hidden\" rel=\"44363\" title=\"\" href=\"#\" style=\"margin-left: 10px !important;\">\u0110\u1ecdc gi\u1ecdng US</a>\n        <span id=\"sound\"></span>\n        <div class=\"clr\"></div>\n    </div>\n    <div class=\"clr\"></div>\n</div>\n<div id=\"content_selectable\" class=\"content\" style=\"padding-bottom: 10px\">\n    \n    <div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"https://dict.laban.vn/find?type=1&query=hollo\">hollo</a></span></div>\n    \n</div>\n", "link": "/find?type=1&query=holla", "word": "holla"}}, "mUrl": "/find?type=1&query=hollaed", "enEnData": {"suggests": [{"id": "13732", "link": "/find?type=3&query=hollandaise", "word": "hollandaise"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13732",
+                "link": "/find?type=3&query=hollandaise",
+                "word": "hollandaise"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {
+            "content": "<div class=\"margin25\">xem <span class=\"color-blue\"><a target=\"_blank\" href=\"/find?type=1&amp;query=hollo\">hollo</a></span></div>",
+            "mean": [],
+            "pronounce": "",
+            "speak": {},
+            "type": "",
+            "word": "holla"
+        },
+        "suggests": [
+            {
+                "id": "44363",
+                "link": "/find?type=1&query=holland",
+                "word": "holland"
+            },
+            {
+                "id": "44363",
+                "link": "/find?type=1&query=hollander",
+                "word": "hollander"
+            },
+            {
+                "id": "44363",
+                "link": "/find?type=1&query=hollands",
+                "word": "hollands"
+            }
+        ]
+    }
+}
