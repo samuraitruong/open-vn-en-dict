@@ -1,1 +1,22 @@
-{"error": 0, "query": "hoking", "enViData": {"suggests": [{"id": "44334", "link": "/find?type=1&query=hokey-pokey", "word": "hokey-pokey"}]}, "mUrl": "/find?type=1&query=hoking", "enEnData": {"suggests": [{"id": "13712", "link": "/find?type=3&query=hokey", "word": "hokey"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13712",
+                "link": "/find?type=3&query=hokey",
+                "word": "hokey"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44334",
+                "link": "/find?type=1&query=hokey-pokey",
+                "word": "hokey-pokey"
+            }
+        ]
+    }
+}

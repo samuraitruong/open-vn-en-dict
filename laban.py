@@ -29,21 +29,24 @@ class labalvn:
 
     @staticmethod
     def downloadVoice(json, type):
-        word = json["word"]
+        try:
+            word = json["word"]
 
-        filename = 'voice/' + word.lower() + "_" + type + ".mp3"
-        response = requests.get(
-            "https://dict.laban.vn/ajax/getsound?accent="+type+"&word=" + word)
-        rawJson = response.json()
-        if response.status_code == 200 and rawJson["error"] == 0 and rawJson["data"] != "":
-            json["speak"][type] = rawJson["data"]
-            if os.path.isfile(filename):
-                return None
+            filename = 'voice/' + word.lower() + "_" + type + ".mp3"
+            response = requests.get(
+                "https://dict.laban.vn/ajax/getsound?accent="+type+"&word=" + word)
+            rawJson = response.json()
+            if response.status_code == 200 and rawJson["error"] == 0 and rawJson["data"] != "":
+                json["speak"][type] = rawJson["data"]
+                if os.path.isfile(filename):
+                    return None
 
-            response = requests.get(rawJson["data"])
-            if response.status_code == 200:
-                with open(filename, 'wb') as f:
-                    f.write(response.content)
+                response = requests.get(rawJson["data"])
+                if response.status_code == 200:
+                    with open(filename, 'wb') as f:
+                        f.write(response.content)
+        except Exception as ex:
+            print(ex)
 
     @staticmethod
     def transform(json):
