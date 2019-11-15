@@ -1,1 +1,107 @@
-{"error": 0, "query": "hosp", "enViData": {"suggests": [{"id": "44855", "link": "/find?type=1&query=hospice", "word": "hospice"}, {"id": "44856", "link": "/find?type=1&query=hospitable", "word": "hospitable"}, {"id": "44857", "link": "/find?type=1&query=hospitably", "word": "hospitably"}, {"id": "44858", "link": "/find?type=1&query=hospital", "word": "hospital"}, {"id": "44859", "link": "/find?type=1&query=hospital-bed", "word": "hospital-bed"}, {"id": "44860", "link": "/find?type=1&query=hospital-ship", "word": "hospital-ship"}, {"id": "44861", "link": "/find?type=1&query=hospitaler", "word": "hospitaler"}, {"id": "44862", "link": "/find?type=1&query=hospitalisation", "word": "hospitalisation"}, {"id": "44863", "link": "/find?type=1&query=hospitalisation%2C+hospitalise", "word": "hospitalisation, hospitalise"}, {"id": "44864", "link": "/find?type=1&query=hospitalise", "word": "hospitalise"}]}, "mUrl": "/find?type=1&query=hosp", "enEnData": {"suggests": [{"id": "13937", "link": "/find?type=3&query=hospice", "word": "hospice"}, {"id": "13938", "link": "/find?type=3&query=hospitable", "word": "hospitable"}, {"id": "13939", "link": "/find?type=3&query=hospital", "word": "hospital"}, {"id": "13940", "link": "/find?type=3&query=hospitality", "word": "hospitality"}, {"id": "13941", "link": "/find?type=3&query=hospitalize", "word": "hospitalize"}]}, "ftype": "1", "synData": {"suggests": [{"id": "3369", "link": "/find?type=4&query=hospitable", "word": "hospitable"}, {"id": "3370", "link": "/find?type=4&query=hospital", "word": "hospital"}, {"id": "3371", "link": "/find?type=4&query=hospitality", "word": "hospitality"}]}}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13937",
+                "link": "/find?type=3&query=hospice",
+                "word": "hospice"
+            },
+            {
+                "id": "13938",
+                "link": "/find?type=3&query=hospitable",
+                "word": "hospitable"
+            },
+            {
+                "id": "13939",
+                "link": "/find?type=3&query=hospital",
+                "word": "hospital"
+            },
+            {
+                "id": "13940",
+                "link": "/find?type=3&query=hospitality",
+                "word": "hospitality"
+            },
+            {
+                "id": "13941",
+                "link": "/find?type=3&query=hospitalize",
+                "word": "hospitalize"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44855",
+                "link": "/find?type=1&query=hospice",
+                "word": "hospice"
+            },
+            {
+                "id": "44856",
+                "link": "/find?type=1&query=hospitable",
+                "word": "hospitable"
+            },
+            {
+                "id": "44857",
+                "link": "/find?type=1&query=hospitably",
+                "word": "hospitably"
+            },
+            {
+                "id": "44858",
+                "link": "/find?type=1&query=hospital",
+                "word": "hospital"
+            },
+            {
+                "id": "44859",
+                "link": "/find?type=1&query=hospital-bed",
+                "word": "hospital-bed"
+            },
+            {
+                "id": "44860",
+                "link": "/find?type=1&query=hospital-ship",
+                "word": "hospital-ship"
+            },
+            {
+                "id": "44861",
+                "link": "/find?type=1&query=hospitaler",
+                "word": "hospitaler"
+            },
+            {
+                "id": "44862",
+                "link": "/find?type=1&query=hospitalisation",
+                "word": "hospitalisation"
+            },
+            {
+                "id": "44863",
+                "link": "/find?type=1&query=hospitalisation%2C+hospitalise",
+                "word": "hospitalisation, hospitalise"
+            },
+            {
+                "id": "44864",
+                "link": "/find?type=1&query=hospitalise",
+                "word": "hospitalise"
+            }
+        ]
+    },
+    "synonyms": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "3369",
+                "link": "/find?type=4&query=hospitable",
+                "word": "hospitable"
+            },
+            {
+                "id": "3370",
+                "link": "/find?type=4&query=hospital",
+                "word": "hospital"
+            },
+            {
+                "id": "3371",
+                "link": "/find?type=4&query=hospitality",
+                "word": "hospitality"
+            }
+        ]
+    }
+}
