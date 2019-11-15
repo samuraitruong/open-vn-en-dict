@@ -8,6 +8,7 @@ import pprint
 import sys
 import argparse
 import store
+from laban import labalvn
 
 
 parser = argparse.ArgumentParser(description='Input argruments.')
@@ -31,89 +32,6 @@ def getWordList():
     return data
 
 
-def downloadVoice(json, type):
-    word = json["word"]
-
-    filename = 'voice/' + word.lower() + "_" + type + ".mp3"
-    response = requests.get(
-        "https://dict.laban.vn/ajax/getsound?accent="+type+"&word=" + word)
-    rawJson = response.json()
-    if response.status_code == 200 and rawJson["error"] == 0 and rawJson["data"] != "":
-        json["speak"][type] = rawJson["data"]
-        if os.path.isfile(filename):
-            return None
-
-        response = requests.get(rawJson["data"])
-        if response.status_code == 200:
-            with open(filename, 'wb') as f:
-                f.write(response.content)
-
-
-def parseHtml(input, fetchVoice=False):
-    json = {}
-    if "best" not in input:
-        return json
-    best = input["best"]
-
-    json["word"] = best["word"]
-    html = pq(best["details"])
-    json["id"] = best["id"]
-    json["pronounce"] = html("span.color-black").text()
-    json["type"] = html("div.bg-grey.bold.font-large.m-top20").text()
-    json["mean"] = html(".green.bold.margin25.m-top15")
-    json["content"] = html("#content_selectable").html().replace(
-        "https://dict.laban.vn", "").strip()
-    if fetchVoice:
-        json["speak"] = {}
-        downloadVoice(json, "us")
-        downloadVoice(json, "uk")
-    return json
-
-
-def transformLaban(json):
-    output = {}
-    if "enViData" in json:
-        output["en_vn"] = {
-            "suggests": json["enViData"]["suggests"],
-            "data": parseHtml(json["enViData"], True)
-        }
-    if "enEnData" in json:
-        output["en_en"] = {
-            "suggests": json["enEnData"]["suggests"],
-            "data": parseHtml(json["enEnData"], False)
-        }
-    if "synData" in json:
-        output["synonyms"] = {
-            "suggests": json["synData"]["suggests"],
-            "data": parseHtml(json["synData"], False)
-        }
-    return output
-
-
-def getWordFromLaban(word):
-    fileName = "html/" + word+".json"
-    # if os.path.isfile(fileName):
-    #     print("Ignore ", url)
-    #     return None
-
-    URL = "https://dict.laban.vn/find"
-    URL = "https://dict.laban.vn/ajax/find"  # ?type=1&query=history
-    # defining a params dict for the parameters to be sent to the API
-    PARAMS = {"type": 1, "query": word}
-
-    # sending get request and saving the response as response object
-    r = requests.get(url=URL, params=PARAMS)
-    json = r.json()
-
-    return transformLaban(json)
-    # extracting data in json format
-    # data = r.text
-
-    # html = pq(data)
-    # # print(html("#column-content").html())
-    # return html("#slide_show").html()
-
-
 def getWord(word):
     # print("Going to get word %s", word)
 
@@ -134,8 +52,8 @@ def getWord(word):
 
 
 if args.debug:
-    debug = getWordFromLaban(args.debug)
-    pprint.pprint(getWordFromLaban(args.debug))
+    debug = labalvn.fetchWord(args.debug)
+    pprint.pprint(debug)
     store.writeJson(debug, args.debug, True)
     exit()
 
@@ -163,7 +81,7 @@ print("Total english words %d" % (len(words)))
 delta = 0
 with concurrent.futures.ThreadPoolExecutor(max_workers=25) as executor:
     future_to_url = {executor.submit(
-        getWordFromLaban, key): key for key in words if logs.get(key) == None}
+        labalvn.fetchWord, key): key for key in words if logs.get(key) == None}
     for future in concurrent.futures.as_completed(future_to_url):
         url = future_to_url[future]
         try:
