@@ -1,1 +1,42 @@
-{"error": 0, "query": "hort", "enViData": {"suggests": [{"id": "44844", "link": "/find?type=1&query=hortative", "word": "hortative"}, {"id": "44845", "link": "/find?type=1&query=hortatory", "word": "hortatory"}, {"id": "44846", "link": "/find?type=1&query=horticultural", "word": "horticultural"}, {"id": "44847", "link": "/find?type=1&query=horticulture", "word": "horticulture"}, {"id": "44848", "link": "/find?type=1&query=horticulturist", "word": "horticulturist"}]}, "mUrl": "/find?type=1&query=hort", "enEnData": {"suggests": [{"id": "13932", "link": "/find?type=3&query=horticulture", "word": "horticulture"}]}, "ftype": "1"}
+{
+    "en_en": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "13932",
+                "link": "/find?type=3&query=horticulture",
+                "word": "horticulture"
+            }
+        ]
+    },
+    "en_vn": {
+        "data": {},
+        "suggests": [
+            {
+                "id": "44844",
+                "link": "/find?type=1&query=hortative",
+                "word": "hortative"
+            },
+            {
+                "id": "44845",
+                "link": "/find?type=1&query=hortatory",
+                "word": "hortatory"
+            },
+            {
+                "id": "44846",
+                "link": "/find?type=1&query=horticultural",
+                "word": "horticultural"
+            },
+            {
+                "id": "44847",
+                "link": "/find?type=1&query=horticulture",
+                "word": "horticulture"
+            },
+            {
+                "id": "44848",
+                "link": "/find?type=1&query=horticulturist",
+                "word": "horticulturist"
+            }
+        ]
+    }
+}
