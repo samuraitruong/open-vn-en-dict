@@ -1,5 +1,14 @@
 {
   "python.linting.pylintEnabled": true,
   "python.pythonPath": "env/bin/python",
-  "git.ignoreLimitWarning": true
+  "git.ignoreLimitWarning": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/html/*.*": true,
+    "**/voice/*.*": true,
+  }
 }
