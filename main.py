@@ -119,3 +119,5 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as executor
             # exit()
         else:
             print('%r page is %d bytes' % (url, len(result)))
+            
+store.writeJson(logs, args.logFile, True)
