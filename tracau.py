@@ -20,9 +20,11 @@ class tracau:
     @staticmethod
     def parseHtml(htmlText, word, id):
         html = pq(htmlText)
+        pronounce = html("#pa #C_C").text();
         return {"data": {
             "content": html(id).html(),
             "word": word,
+            "pronounce": pronounce
         }}
 
     @staticmethod
@@ -51,5 +53,4 @@ class tracau:
 
 if __name__ == "__main__":
     item = tracau.fetchWord("homesick")
-    store.writeJson(item, "aa.json")
     pprint.pprint(item)
