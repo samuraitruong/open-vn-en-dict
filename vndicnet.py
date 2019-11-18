@@ -36,20 +36,27 @@ class vndicnet:
 
     @staticmethod
     def transform(raw):
-        raw = re.sub(r'\/\?word=(.*)&amp;dict=([^*]*)', r"\1", raw)
+        pronounce = "";
+        m = re.search(r'>/(.*)/<', raw)
+        if m:
+            pronounce = m.group(1)
+
+        raw = re.sub(r'\?word=([^&]*)&amp;dict=([^"]*)', r"\1", raw)
+        raw = raw.replace("\t", "");
         html = pq(raw)
         html("img").remove()
-        re.sub(r'', "$", raw)
         return {
             "en_vn": {
                 "data": {
-                    "content": html.html()
+                    "content": html.html(),
+                    "pronounce": pronounce
+
+
                 }
             }
         }
 
 
 if __name__ == "__main__":
-    html = vndicnet.getWord("test", "en_vn")
-    print(html)
+    html = vndicnet.getWord("expensive", "en_vn")
     pprint.pprint(vndicnet.transform(html))
