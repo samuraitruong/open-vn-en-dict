@@ -11,6 +11,7 @@ import os.path
 import pprint
 import sys
 import argparse
+import store
 
 
 class vndicnet:
@@ -36,14 +37,26 @@ class vndicnet:
 
     @staticmethod
     def transform(raw):
-        pronounce = "";
+        pronounce = ""
         m = re.search(r'>/(.*)/<', raw)
+
         if m:
             pronounce = m.group(1)
 
         raw = re.sub(r'\?word=([^&]*)&amp;dict=([^"]*)', r"\1", raw)
-        raw = raw.replace("\t", "");
+        raw = raw.replace("\t", "")
         html = pq(raw)
+
+        mappings = {
+            "images/hoa.png": "bullet-1",
+            "images/green.png": "bullet-2",
+            "images/dot.png": "bullet-3",
+            "images/ticx.png": "bullet-4"
+        }
+        for el in html("img"):
+            href = pq(el).attr("src")
+            print(href)
+            pq(el).after(pq("<span class='%s'></span>" % (mappings.get(href))))
         html("img").remove()
         return {
             "en_vn": {
@@ -58,5 +71,7 @@ class vndicnet:
 
 
 if __name__ == "__main__":
-    html = vndicnet.getWord("expensive", "en_vn")
-    pprint.pprint(vndicnet.transform(html))
+    html = vndicnet.getWord("chicken", "en_vn")
+    item = vndicnet.transform(html)
+    store.writeJson(item, "data1/chicken.json", True)
+    pprint.pprint(item)
