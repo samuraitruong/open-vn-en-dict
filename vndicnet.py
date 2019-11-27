@@ -59,14 +59,18 @@ class vndicnet:
             pq(el).after(pq("<span class='%s'></span>" % (mappings.get(href))))
         html("img").remove()
         return {
-            "en_vn": {
                 "data": {
                     "content": html.html(),
                     "pronounce": pronounce
 
 
-                }
             }
+        }
+    
+    @staticmethod
+    def fetchWord(word):
+        return {
+
         }
 
 
